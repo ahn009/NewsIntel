@@ -68,22 +68,65 @@ function expandQuery(question) {
   return question;
 }
 
-const SYSTEM = `You are NewsIntel, a personal AI news analyst with live internet access.
+const zones = [
+  { label: 'UTC', tz: 'UTC' },
+  { label: 'New York', tz: 'America/New_York' },
+  { label: 'Los Angeles', tz: 'America/Los_Angeles' },
+  { label: 'Chicago', tz: 'America/Chicago' },
+  { label: 'London', tz: 'Europe/London' },
+  { label: 'Paris', tz: 'Europe/Paris' },
+  { label: 'Berlin', tz: 'Europe/Berlin' },
+  { label: 'Moscow', tz: 'Europe/Moscow' },
+  { label: 'Dubai', tz: 'Asia/Dubai' },
+  { label: 'Karachi', tz: 'Asia/Karachi' },
+  { label: 'Delhi', tz: 'Asia/Kolkata' },
+  { label: 'Dhaka', tz: 'Asia/Dhaka' },
+  { label: 'Bangkok', tz: 'Asia/Bangkok' },
+  { label: 'Singapore', tz: 'Asia/Singapore' },
+  { label: 'Hong Kong', tz: 'Asia/Hong_Kong' },
+  { label: 'Shanghai', tz: 'Asia/Shanghai' },
+  { label: 'Tokyo', tz: 'Asia/Tokyo' },
+  { label: 'Seoul', tz: 'Asia/Seoul' },
+  { label: 'Sydney', tz: 'Australia/Sydney' },
+  { label: 'Auckland', tz: 'Pacific/Auckland' },
+  { label: 'Honolulu', tz: 'Pacific/Honolulu' },
+  { label: 'Anchorage', tz: 'America/Anchorage' },
+  { label: 'Sao Paulo', tz: 'America/Sao_Paulo' },
+  { label: 'Buenos Aires', tz: 'America/Argentina/Buenos_Aires' },
+];
 
-CRITICAL RULES:
-1. ONLY report news from the last 24 hours. If you cannot find news from today, say "I couldn't find news from today on this topic" — never give old news as if it's current.
-2. For EVERY story include: what happened, who is involved, why it matters, what happens next.
+function getSystemPrompt() {
+  const now = new Date();
+  const timeZoneBlock = zones.map(z =>
+    `${z.label}: ${now.toLocaleString('en-US', {
+      timeZone: z.tz,
+      weekday: 'short',
+      year: 'numeric',
+      month: 'short',
+      day: 'numeric',
+      hour: '2-digit',
+      minute: '2-digit',
+      hour12: false,
+    })}`
+  ).join('\n');
+
+  return `You are NewsIntel, a personal AI news analyst with live internet access.
+
+CURRENT DATE AND TIME ACROSS ALL TIMEZONES:
+${timeZoneBlock}
+
+Use these times to understand exactly what "today", "this morning", "last night" means
+in any country. When covering news from a specific country, use that country's
+local time to determine recency.
+
+RULES:
+1. Only report news from the last 24 hours. Never give old news.
+2. For every story: what happened, who, why it matters, what's next.
 3. Cover 4-6 stories minimum per response.
-4. Write enough detail that the user NEVER needs to open the original article.
-5. Always cite source and recency: "Reuters reported 3 hours ago...", "BBC this morning..."
-6. End every response with a bold **Key Takeaway** summarizing the overall situation in 2 sentences.
-
-FORMAT per story:
-**[Story Headline]**
-What happened: [2-3 sentences with specific facts, names, numbers]
-Why it matters: [2 sentences on impact/significance]
-What's next: [1 sentence on what to watch for]
-Source: [outlet name + time]`;
+4. Write full detail — user should never need to open the article.
+5. Cite source and local time: "Reuters reported at 09:30 Karachi time..."
+6. End with bold **Key Takeaway** summarizing the situation in 2 sentences.`;
+}
 
 export async function askClaude(question, history, onChunk = () => {}, signal) {
   const key = getKey();
@@ -106,7 +149,7 @@ ${question}
 Find the latest news from TODAY only and give detailed coverage.`;
 
   const messages = [
-    { role: 'system', content: SYSTEM },
+    { role: 'system', content: getSystemPrompt() },
     ...history,
     { role: 'user', content: userContent },
   ];
