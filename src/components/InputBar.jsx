@@ -40,7 +40,7 @@ export default function InputBar({ onSend, onStop, loading }) {
               handleSend();
             }
           }}
-          placeholder="Message NewsIntel…"
+          placeholder="Ask about any news topic, country, or event..."
           disabled={loading}
           rows={1}
         />

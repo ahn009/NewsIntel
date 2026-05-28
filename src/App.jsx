@@ -39,12 +39,12 @@ export default function App() {
   const hasKey = !!localStorage.getItem('ni_or_key');
 
   const suggestions = useMemo(() => [
-    'What are the top news stories right now?',
-    'What is happening in Pakistan today?',
-    'Latest technology news',
-    'Global economy and markets today',
-    'Any major political news today?',
-    'What conflicts or crises are in the news?',
+    '🌍 What are the top world stories right now?',
+    '🇵🇰 What is happening in Pakistan today?',
+    '🤖 Latest AI and technology news',
+    '📈 Global economy and markets today',
+    '🏛 Major political developments today',
+    '⚔️ Any conflicts or crises in the news?',
   ], []);
 
   useEffect(() => {
@@ -126,8 +126,10 @@ export default function App() {
               <div className="model-dot" />
               Perplexity Sonar · Live
             </div>
+            <div className="header-title">NewsIntel</div>
           </div>
           <div className="header-right">
+            <button className="icon-btn" onClick={clearChat} title="Clear chat" type="button">🗑</button>
             <button className="icon-btn" onClick={startNewChat} title="New chat" type="button">✏</button>
             <button className="icon-btn" onClick={() => setShowSettings(true)} title="Settings" type="button">⚙</button>
           </div>

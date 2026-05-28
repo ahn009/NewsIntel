@@ -14,7 +14,7 @@ export default function Sidebar({
           <span className="sidebar-logo-text">NewsIntel</span>
         </div>
         <button className="new-chat-btn" onClick={startNewChat} type="button">
-          <span>＋</span>
+          <span>✏</span>
           <span>New Chat</span>
         </button>
       </div>
