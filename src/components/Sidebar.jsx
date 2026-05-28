@@ -26,26 +26,27 @@ export default function Sidebar({
         {chatHistory.map(chat => (
           <div
             key={chat.id}
-            className={`history-item-wrapper ${chat.id === activeChatId ? 'active' : ''}`}
+            className={`history-row ${chat.id === activeChatId ? 'active' : ''}`}
           >
             <button
-              className="history-item"
+              className="history-btn"
               onClick={() => loadChat(chat.id)}
               type="button"
             >
               <span className="history-title">{chat.title}</span>
               <span className="history-time">{timeAgo(chat.timestamp)}</span>
             </button>
+
             <button
-              className="history-delete-btn"
+              className="delete-btn"
               onClick={(e) => {
                 e.stopPropagation();
                 onDeleteChat(chat.id);
               }}
-              title="Delete chat"
+              title="Delete"
               type="button"
             >
-              ×
+              🗑
             </button>
           </div>
         ))}
@@ -54,7 +55,7 @@ export default function Sidebar({
         )}
         {chatHistory.length > 0 && (
           <button className="clear-all-btn" onClick={onClearAll} type="button">
-            Clear all history
+            Clear all
           </button>
         )}
       </div>
