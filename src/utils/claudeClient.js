@@ -2,11 +2,7 @@ const ENDPOINT = 'https://openrouter.ai/api/v1/chat/completions';
 const MODEL = 'perplexity/sonar';
 
 function getKey() {
-  return (
-    import.meta.env.VITE_OR_KEY ||
-    localStorage.getItem('ni_or_key') ||
-    ''
-  );
+  return localStorage.getItem('ni_or_key') || '';
 }
 
 function getDateContext() {

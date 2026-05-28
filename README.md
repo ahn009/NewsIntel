@@ -5,32 +5,33 @@ A React chat app that searches the live web for current news using Perplexity's 
 ## How It Works
 
 1. User types a question or picks a suggestion
-2. Short inputs (e.g. `"pakistan"`, `"ai"`) auto-expand into detailed search queries
-3. The question goes to OpenRouter with the current date and time injected
+2. Short inputs, like `"pakistan"` or `"ai"`, auto-expand into detailed search queries
+3. The request includes fresh global timezone context
 4. `perplexity/sonar` searches the live web and answers with cited sources
-5. Response renders with bold headlines, source attribution, and a Key Takeaway
+5. Response streams into the UI with markdown, source attribution, and a Key Takeaway
 
 ## Features
 
-- Live web search on every question — no stale feeds
-- Auto-expands short country/topic queries into full search strings
-- Conversation history (capped at 10 exchanges to stay within context limits)
-- Dark UI with welcome screen and suggestion buttons
-- OpenRouter key stored in `localStorage` — entered once via settings modal
+- Live web search on every question
+- Streaming responses with Stop and Regenerate controls
+- Sidebar with local chat history stored in the browser
+- Polished responsive chat UI
+- OpenRouter key entered in Settings and stored locally in the user's browser
+- No build-time API key embedding
 
 ## Tech Stack
 
-- React 18 + Vite 5
+- React 18 + Vite 8
 - OpenRouter API (`perplexity/sonar` model)
-- No external libraries beyond React
+- No external runtime libraries beyond React
 
 ## Getting Started
 
 ### Prerequisites
 
-- Node.js 18+
+- Node.js 20.19+ or 22.12+
 - npm
-- Free OpenRouter API key — get one at [openrouter.ai/keys](https://openrouter.ai/keys) (no credit card needed)
+- OpenRouter API key from [openrouter.ai/keys](https://openrouter.ai/keys)
 
 ### Install
 
@@ -38,23 +39,15 @@ A React chat app that searches the live web for current news using Perplexity's 
 npm install
 ```
 
-### Environment
-
-Create `.env` in the project root:
-
-```env
-VITE_OR_KEY=sk-or-v1-your-key-here
-```
-
-Or leave it empty — the app prompts for the key on first load and saves it to `localStorage`.
-
-### Run
+### Run locally
 
 ```bash
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173).
+Open [http://localhost:5173](http://localhost:5173), then paste your OpenRouter key in Settings.
+
+The dev and preview servers bind to `127.0.0.1` by default. Do not expose Vite dev server to a public network.
 
 ### Build
 
@@ -65,30 +58,35 @@ npm run preview
 
 ## Project Structure
 
-```
+```text
 src/
   components/
-    ChatWindow.jsx    Welcome screen + message list
-    InputBar.jsx      Text input + send button
-    Message.jsx       Renders user and assistant bubbles
+    ChatWindow.jsx
+    InputBar.jsx
+    Message.jsx
+    Sidebar.jsx
+    Toast.jsx
   hooks/
-    useChat.js        Chat state, API calls, history management
+    useChat.js
   utils/
-    claudeClient.js   OpenRouter API client, query expansion, date injection
-  App.jsx             App shell, settings modal, key gate
-  App.css             Dark theme styles
+    claudeClient.js
+  App.jsx
+  App.css
 ```
 
-## Security Note
+## Security Notes
 
-`VITE_OR_KEY` is embedded in the client bundle at build time. For a public deployment, route API calls through a backend and keep the key server-side.
+- Do not put real API keys in `.env`, source files, or deployment environment variables for this frontend.
+- This is a browser-only BYOK app: the user's OpenRouter key is stored in `localStorage` and used directly from their browser.
+- For a public multi-user production service, add a backend proxy, keep provider keys server-side, add rate limiting/auth, and do not expose provider credentials to the client.
+- If a real key was ever committed, pasted into chat, or present in shared logs, revoke and rotate it immediately.
 
 ## Scripts
 
 ```bash
-npm run dev       # Development server
+npm run dev       # Local development server on 127.0.0.1
 npm run build     # Production build
-npm run preview   # Preview production build
+npm run preview   # Local production preview on 127.0.0.1
 ```
 
 ## License

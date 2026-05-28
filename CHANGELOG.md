@@ -14,7 +14,7 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Conversation history with automatic cap at 10 exchanges to prevent context overflow
 - Dark theme UI with welcome screen and suggestion buttons
 - Settings modal — OpenRouter key stored in `localStorage`
-- `VITE_OR_KEY` environment variable support
+- Browser-only API key entry through Settings, without build-time key embedding
 
 ### Changed
 - Replaced AgentRouter + Claude with OpenRouter + Perplexity (live web search)

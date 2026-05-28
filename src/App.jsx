@@ -36,10 +36,7 @@ export default function App() {
   const [chatHistory, setChatHistory] = useState(loadStoredHistory);
   const [activeChatId, setActiveChatId] = useState(null);
 
-  const hasKey = !!(
-    import.meta.env.VITE_OR_KEY ||
-    localStorage.getItem('ni_or_key')
-  );
+  const hasKey = !!localStorage.getItem('ni_or_key');
 
   const suggestions = useMemo(() => [
     'What are the top news stories right now?',
@@ -167,7 +164,7 @@ export default function App() {
             <input
               className="modal-input"
               type="password"
-              placeholder="sk-or-v1-..."
+              placeholder="Paste your OpenRouter API key"
               value={keyInput}
               onChange={e => setKeyInput(e.target.value)}
               onKeyDown={e => e.key === 'Enter' && saveKey()}
