@@ -21,10 +21,19 @@ function loadStoredHistory() {
   }
 }
 
+function generateTitle(text) {
+  const title = text
+    .replace(/^(what|tell me|show me|give me|how|why|when|is|are|any)\s+/i, '')
+    .replace(/\?$/, '')
+    .trim()
+    .slice(0, 38);
+
+  return title || 'New chat';
+}
+
 function createTitle(messages) {
   const firstUser = messages.find(msg => msg.role === 'user');
-  const raw = firstUser?.text?.trim() || 'New chat';
-  return raw.length > 40 ? `${raw.slice(0, 40)}…` : raw;
+  return generateTitle(firstUser?.text || '');
 }
 
 export default function App() {
