@@ -1,8 +1,19 @@
 {
   "name": "newsintel",
-  "private": true,
   "version": "1.0.0",
+  "description": "AI-powered news chat app with live web search via Perplexity on OpenRouter",
+  "private": true,
   "type": "module",
+  "author": "Ahsan",
+  "license": "MIT",
+  "keywords": [
+    "news",
+    "ai",
+    "perplexity",
+    "openrouter",
+    "react",
+    "vite"
+  ],
   "scripts": {
     "dev": "vite",
     "build": "vite build",
