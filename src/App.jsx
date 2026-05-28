@@ -1,11 +1,13 @@
 import { useState } from 'react';
 import { useChat } from './hooks/useChat.js';
+import { useToast, ToastContainer } from './components/Toast.jsx';
 import ChatWindow from './components/ChatWindow.jsx';
 import InputBar from './components/InputBar.jsx';
 import './App.css';
 
 export default function App() {
-  const { messages, loading, sendMessage, clearChat } = useChat();
+  const { messages, loading, sendMessage, regenerate, stop, clearChat } = useChat();
+  const { toasts, showToast } = useToast();
   const [showSettings, setShowSettings] = useState(false);
   const [keyInput, setKeyInput] = useState('');
 
@@ -21,6 +23,11 @@ export default function App() {
       setKeyInput('');
       window.location.reload();
     }
+  }
+
+  function handleRegenerate() {
+    showToast('Regenerating...');
+    regenerate();
   }
 
   const suggestions = [
@@ -52,6 +59,8 @@ export default function App() {
           loading={loading}
           suggestions={suggestions}
           onSuggestion={sendMessage}
+          onRegenerate={handleRegenerate}
+          onToast={showToast}
           hasKey={hasKey}
         />
       </main>
@@ -59,9 +68,12 @@ export default function App() {
       <div className="input-area">
         <InputBar
           onSend={sendMessage}
-          disabled={loading}
+          onStop={stop}
+          loading={loading}
         />
       </div>
+
+      <ToastContainer toasts={toasts} />
 
       {(showSettings || !hasKey) && (
         <div className="modal-overlay" onClick={() => hasKey && setShowSettings(false)}>

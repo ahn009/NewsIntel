@@ -1,18 +1,26 @@
-import { useState, useCallback } from 'react';
+import { useState, useCallback, useRef } from 'react';
 import { askClaude } from '../utils/claudeClient.js';
+
+const HISTORY_LIMIT = 20;
+
+function trimHistory(history) {
+  return history.length > HISTORY_LIMIT ? history.slice(history.length - HISTORY_LIMIT) : history;
+}
 
 export function useChat() {
   const [messages, setMessages] = useState([]);
   const [loading, setLoading] = useState(false);
   const [apiHistory, setApiHistory] = useState([]);
+  const abortRef = useRef(null);
 
-  const sendMessage = useCallback(async (userText) => {
-    if (!userText.trim() || loading) return;
+  const sendMessage = useCallback(async (userText, historyOverride = apiHistory) => {
+    const cleanText = userText.trim();
+    if (!cleanText || loading) return;
 
     setMessages(prev => [...prev, {
       id: Date.now().toString(),
       role: 'user',
-      text: userText,
+      text: cleanText,
     }]);
     setLoading(true);
 
@@ -24,14 +32,21 @@ export function useChat() {
       streaming: true,
     }]);
 
+    abortRef.current = new AbortController();
+
     try {
-      const answer = await askClaude(userText, apiHistory, (_token, fullText) => {
-        setMessages(prev => prev.map(msg =>
-          msg.id === assistantId
-            ? { ...msg, text: fullText, streaming: true }
-            : msg
-        ));
-      });
+      const answer = await askClaude(
+        cleanText,
+        historyOverride,
+        (_token, fullText) => {
+          setMessages(prev => prev.map(msg =>
+            msg.id === assistantId
+              ? { ...msg, text: fullText, streaming: true }
+              : msg
+          ));
+        },
+        abortRef.current.signal
+      );
 
       setMessages(prev => prev.map(msg =>
         msg.id === assistantId
@@ -39,17 +54,22 @@ export function useChat() {
           : msg
       ));
 
-      setApiHistory(prev => {
-        const next = [
-          ...prev,
-          { role: 'user', content: userText },
-          { role: 'assistant', content: answer },
-        ];
-        // Keep last 20 messages (10 exchanges) to avoid context overflow
-        return next.length > 20 ? next.slice(next.length - 20) : next;
-      });
+      setApiHistory(prev => trimHistory([
+        ...prev,
+        { role: 'user', content: cleanText },
+        { role: 'assistant', content: answer },
+      ]));
 
     } catch (err) {
+      if (err.name === 'AbortError') {
+        setMessages(prev => prev.map(msg =>
+          msg.id === assistantId
+            ? { ...msg, streaming: false }
+            : msg
+        ));
+        return;
+      }
+
       setMessages(prev => prev.map(msg =>
         msg.id === assistantId
           ? {
@@ -63,14 +83,44 @@ export function useChat() {
           : msg
       ));
     } finally {
+      abortRef.current = null;
       setLoading(false);
     }
   }, [loading, apiHistory]);
 
+  const regenerate = useCallback(async () => {
+    if (loading) return;
+
+    const lastUserMsg = [...messages].reverse().find(m => m.role === 'user');
+    if (!lastUserMsg) return;
+
+    const nextHistory = apiHistory.slice(0, -2);
+    setApiHistory(nextHistory);
+
+    setMessages(prev => {
+      const idx = [...prev].reverse().findIndex(m => m.role === 'assistant');
+      if (idx === -1) return prev;
+      const realIdx = prev.length - 1 - idx;
+      return prev.slice(0, realIdx);
+    });
+
+    await sendMessage(lastUserMsg.text, nextHistory);
+  }, [apiHistory, loading, messages, sendMessage]);
+
+  const stop = useCallback(() => {
+    abortRef.current?.abort();
+    setLoading(false);
+    setMessages(prev => prev.map(msg =>
+      msg.streaming ? { ...msg, streaming: false } : msg
+    ));
+  }, []);
+
   function clearChat() {
+    abortRef.current?.abort();
     setMessages([]);
     setApiHistory([]);
+    setLoading(false);
   }
 
-  return { messages, loading, sendMessage, clearChat };
+  return { messages, loading, sendMessage, regenerate, stop, clearChat };
 }

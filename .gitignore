@@ -30,3 +30,5 @@ yarn-error.log*
 .codex/
 .agents/
 .git/
+# Sensitive files
+api-key.js

@@ -85,7 +85,7 @@ Why it matters: [2 sentences on impact/significance]
 What's next: [1 sentence on what to watch for]
 Source: [outlet name + time]`;
 
-export async function askClaude(question, history, onChunk = () => {}) {
+export async function askClaude(question, history, onChunk = () => {}, signal) {
   const key = getKey();
   if (!key) throw new Error('NO_KEY');
 
@@ -113,6 +113,7 @@ Find the latest news from TODAY only and give detailed coverage.`;
 
   const res = await fetch(ENDPOINT, {
     method: 'POST',
+    signal,
     headers: {
       'Content-Type': 'application/json',
       'Authorization': `Bearer ${key}`,

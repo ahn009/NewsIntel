@@ -1,12 +1,23 @@
-import React, { useEffect, useRef } from 'react';
+import React, { useEffect, useRef, useState } from 'react';
 import Message from './Message.jsx';
 
-export default function ChatWindow({ messages, loading, suggestions, onSuggestion, hasKey }) {
+export default function ChatWindow({ messages, loading, suggestions, onSuggestion, onRegenerate, onToast, hasKey }) {
+  const containerRef = useRef(null);
   const bottomRef = useRef(null);
+  const [showScrollBtn, setShowScrollBtn] = useState(false);
+
+  function handleScroll() {
+    const el = containerRef.current;
+    if (!el) return;
+    const distFromBottom = el.scrollHeight - el.scrollTop - el.clientHeight;
+    setShowScrollBtn(distFromBottom > 100);
+  }
 
   useEffect(() => {
-    bottomRef.current?.scrollIntoView({ behavior: 'smooth' });
-  }, [messages, loading]);
+    if (!showScrollBtn) {
+      bottomRef.current?.scrollIntoView({ behavior: 'smooth' });
+    }
+  }, [messages, loading, showScrollBtn]);
 
   if (messages.length === 0) {
     return (
@@ -31,22 +42,31 @@ export default function ChatWindow({ messages, loading, suggestions, onSuggestio
   }
 
   return (
-    <div className="chat-window" tabIndex={0}>
-      <div className="messages-list">
-        {messages.map(msg => (
-          <Message key={msg.id} message={msg} />
-        ))}
-        {loading && (
-          <div className="message assistant-message">
-            <div className="avatar">NI</div>
-            <div className="bubble thinking-bubble">
-              <span className="dot-anim"><span /><span /><span /></span>
-              <span className="thinking-label">Searching the web…</span>
-            </div>
-          </div>
-        )}
-        <div ref={bottomRef} />
+    <div className="chat-window-wrap">
+      <div className="chat-window" ref={containerRef} onScroll={handleScroll} tabIndex={0}>
+        <div className="messages-list">
+          {messages.map((msg, index) => (
+            <Message
+              key={msg.id}
+              message={msg}
+              isLast={index === messages.length - 1}
+              loading={loading}
+              onRegenerate={onRegenerate}
+              onToast={onToast}
+            />
+          ))}
+          <div ref={bottomRef} />
+        </div>
       </div>
+      {showScrollBtn && (
+        <button
+          className="scroll-btn"
+          onClick={() => bottomRef.current?.scrollIntoView({ behavior: 'smooth' })}
+          type="button"
+        >
+          ↓ Latest
+        </button>
+      )}
     </div>
   );
 }
