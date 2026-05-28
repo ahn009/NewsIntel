@@ -8,7 +8,7 @@ export default function InputBar({ onSend, onStop, loading }) {
     const ta = textareaRef.current;
     if (!ta) return;
     ta.style.height = 'auto';
-    ta.style.height = `${Math.min(ta.scrollHeight, 180)}px`;
+    ta.style.height = `${Math.min(ta.scrollHeight, 200)}px`;
   }
 
   function handleInput(e) {
@@ -27,8 +27,8 @@ export default function InputBar({ onSend, onStop, loading }) {
   }
 
   return (
-    <div className="input-stack">
-      <div className="input-bar">
+    <div className="input-wrapper">
+      <div className="input-box">
         <textarea
           ref={textareaRef}
           className="chat-input"
@@ -40,17 +40,17 @@ export default function InputBar({ onSend, onStop, loading }) {
               handleSend();
             }
           }}
-          placeholder="Ask about any news topic, country, or event…"
+          placeholder="Message NewsIntel…"
           disabled={loading}
           rows={1}
         />
         {loading ? (
-          <button className="stop-btn" onClick={onStop} type="button">
-            ◼ Stop
+          <button className="stop-btn" onClick={onStop} type="button" aria-label="Stop generation">
+            ■
           </button>
         ) : (
           <button
-            className={`send-btn${!text.trim() ? ' disabled' : ''}`}
+            className="send-btn"
             onClick={handleSend}
             disabled={!text.trim()}
             aria-label="Send"
@@ -60,11 +60,8 @@ export default function InputBar({ onSend, onStop, loading }) {
           </button>
         )}
       </div>
-      <div className="input-hint">
-        <span>Enter to send · Shift+Enter for new line</span>
-        <span style={{ color: text.length > 200 ? 'orange' : 'var(--text-3)' }}>
-          {text.length}
-        </span>
+      <div className="input-footer">
+        Enter to send · Shift+Enter for new line · {text.length > 0 ? `${text.length} chars` : 'Live web search'}
       </div>
     </div>
   );

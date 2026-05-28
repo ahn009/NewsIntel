@@ -105,20 +105,27 @@ export default function Message({ message, isLast, loading, onRegenerate, onToas
         {message.error ? (
           <div className="bubble error-bubble">{message.error}</div>
         ) : (
-          <div className="bubble assistant-bubble">
-            <div className="msg-actions">
-              <button className="action-btn" onClick={handleCopy} type="button" aria-label="Copy message">
-                {copied ? '✓' : '⧉'}
-              </button>
+          <>
+            <div className="assistant-bubble">
+              {renderMarkdown(message.text)}
+              {message.streaming && <span className="cursor-blink" />}
             </div>
-            {renderMarkdown(message.text)}
-            {message.streaming && <span className="cursor-blink">▋</span>}
-          </div>
-        )}
-        {canRegenerate && (
-          <button className="regen-btn" onClick={onRegenerate} type="button">
-            ↻ Regenerate
-          </button>
+            <div className="msg-actions">
+              <button
+                className={`action-btn${copied ? ' success' : ''}`}
+                onClick={handleCopy}
+                type="button"
+                aria-label="Copy message"
+              >
+                {copied ? '✓ Copied' : '⧉ Copy'}
+              </button>
+              {canRegenerate && (
+                <button className="action-btn" onClick={onRegenerate} type="button">
+                  ↻ Regenerate
+                </button>
+              )}
+            </div>
+          </>
         )}
       </div>
     </div>

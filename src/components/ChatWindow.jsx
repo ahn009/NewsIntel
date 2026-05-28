@@ -1,7 +1,7 @@
 import React, { useEffect, useRef, useState } from 'react';
 import Message from './Message.jsx';
 
-export default function ChatWindow({ messages, loading, suggestions, onSuggestion, onRegenerate, onToast, hasKey }) {
+export default function ChatWindow({ messages, loading, suggestions, onSuggestion, onRegenerate, onToast }) {
   const containerRef = useRef(null);
   const bottomRef = useRef(null);
   const [showScrollBtn, setShowScrollBtn] = useState(false);
@@ -21,17 +21,16 @@ export default function ChatWindow({ messages, loading, suggestions, onSuggestio
 
   if (messages.length === 0) {
     return (
-      <div className="chat-window welcome-screen">
-        <div className="welcome-content">
-          <div className="welcome-icon">📡</div>
-          <h1 className="welcome-title">NewsIntel</h1>
+      <div className="chat-window welcome-screen" ref={containerRef}>
+        <div className="welcome-inner">
+          <div className="welcome-logo">📡</div>
+          <h1 className="welcome-title">How can NewsIntel help?</h1>
           <p className="welcome-sub">
-            I'm NewsIntel — I search the live web for current news.
-            Ask me about any country, topic, or event happening right now.
+            Search live web news with global timezone awareness, concise analysis, and source-backed context.
           </p>
           <div className="suggestions-grid">
             {suggestions.map((s, i) => (
-              <button key={i} className="suggestion-btn" onClick={() => onSuggestion(s)}>
+              <button key={i} className="suggestion-btn" onClick={() => onSuggestion(s)} type="button">
                 {s}
               </button>
             ))}
@@ -55,6 +54,15 @@ export default function ChatWindow({ messages, loading, suggestions, onSuggestio
               onToast={onToast}
             />
           ))}
+          {loading && messages[messages.length - 1]?.role !== 'assistant' && (
+            <div className="thinking-row">
+              <div className="avatar">NI</div>
+              <div className="thinking-label">
+                Searching the live web
+                <span className="dots"><span /><span /><span /></span>
+              </div>
+            </div>
+          )}
           <div ref={bottomRef} />
         </div>
       </div>

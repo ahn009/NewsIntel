@@ -7,6 +7,14 @@ function trimHistory(history) {
   return history.length > HISTORY_LIMIT ? history.slice(history.length - HISTORY_LIMIT) : history;
 }
 
+function messagesToApiHistory(messages) {
+  return trimHistory(
+    messages
+      .filter(msg => (msg.role === 'user' || msg.role === 'assistant') && msg.text && !msg.error)
+      .map(msg => ({ role: msg.role, content: msg.text }))
+  );
+}
+
 export function useChat() {
   const [messages, setMessages] = useState([]);
   const [loading, setLoading] = useState(false);
@@ -17,14 +25,16 @@ export function useChat() {
     const cleanText = userText.trim();
     if (!cleanText || loading) return;
 
-    setMessages(prev => [...prev, {
-      id: Date.now().toString(),
+    const userMessage = {
+      id: `${Date.now()}-user`,
       role: 'user',
       text: cleanText,
-    }]);
+    };
+
+    setMessages(prev => [...prev, userMessage]);
     setLoading(true);
 
-    const assistantId = (Date.now() + 1).toString();
+    const assistantId = `${Date.now()}-assistant`;
     setMessages(prev => [...prev, {
       id: assistantId,
       role: 'assistant',
@@ -115,12 +125,32 @@ export function useChat() {
     ));
   }, []);
 
-  function clearChat() {
+  const clearChat = useCallback(() => {
     abortRef.current?.abort();
     setMessages([]);
     setApiHistory([]);
     setLoading(false);
-  }
+  }, []);
 
-  return { messages, loading, sendMessage, regenerate, stop, clearChat };
+  const loadMessages = useCallback((nextMessages = []) => {
+    abortRef.current?.abort();
+    const normalized = nextMessages.map((msg, index) => ({
+      ...msg,
+      id: msg.id || `${Date.now()}-${index}`,
+      streaming: false,
+    }));
+    setMessages(normalized);
+    setApiHistory(messagesToApiHistory(normalized));
+    setLoading(false);
+  }, []);
+
+  return {
+    messages,
+    loading,
+    sendMessage,
+    regenerate,
+    stop,
+    clearChat,
+    loadMessages,
+  };
 }

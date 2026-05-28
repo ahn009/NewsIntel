@@ -1,20 +1,78 @@
-import { useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import { useChat } from './hooks/useChat.js';
 import { useToast, ToastContainer } from './components/Toast.jsx';
+import Sidebar from './components/Sidebar.jsx';
 import ChatWindow from './components/ChatWindow.jsx';
 import InputBar from './components/InputBar.jsx';
 import './App.css';
 
+const HISTORY_KEY = 'ni_chat_history';
+
+function getInitialSidebarState() {
+  if (typeof window === 'undefined') return true;
+  return window.innerWidth > 768;
+}
+
+function loadStoredHistory() {
+  try {
+    return JSON.parse(localStorage.getItem(HISTORY_KEY) || '[]');
+  } catch {
+    return [];
+  }
+}
+
+function createTitle(messages) {
+  const firstUser = messages.find(msg => msg.role === 'user');
+  const raw = firstUser?.text?.trim() || 'New chat';
+  return raw.length > 40 ? `${raw.slice(0, 40)}…` : raw;
+}
+
 export default function App() {
-  const { messages, loading, sendMessage, regenerate, stop, clearChat } = useChat();
+  const { messages, loading, sendMessage, regenerate, stop, clearChat, loadMessages } = useChat();
   const { toasts, showToast } = useToast();
   const [showSettings, setShowSettings] = useState(false);
   const [keyInput, setKeyInput] = useState('');
+  const [sidebarOpen, setSidebarOpen] = useState(getInitialSidebarState);
+  const [chatHistory, setChatHistory] = useState(loadStoredHistory);
+  const [activeChatId, setActiveChatId] = useState(null);
 
   const hasKey = !!(
     import.meta.env.VITE_OR_KEY ||
     localStorage.getItem('ni_or_key')
   );
+
+  const suggestions = useMemo(() => [
+    'What are the top news stories right now?',
+    'What is happening in Pakistan today?',
+    'Latest technology news',
+    'Global economy and markets today',
+    'Any major political news today?',
+    'What conflicts or crises are in the news?',
+  ], []);
+
+  useEffect(() => {
+    localStorage.setItem(HISTORY_KEY, JSON.stringify(chatHistory));
+  }, [chatHistory]);
+
+  useEffect(() => {
+    if (messages.length === 0) return;
+    if (!messages.some(msg => msg.role === 'user')) return;
+
+    const timestamp = Date.now();
+    setChatHistory(prev => {
+      const existingId = activeChatId || `chat-${timestamp}`;
+      const entry = {
+        id: existingId,
+        title: createTitle(messages),
+        timestamp,
+        messages: messages.map(msg => ({ ...msg, streaming: false })),
+      };
+
+      const next = [entry, ...prev.filter(chat => chat.id !== existingId)].slice(0, 30);
+      if (!activeChatId) setActiveChatId(existingId);
+      return next;
+    });
+  }, [messages, activeChatId]);
 
   function saveKey() {
     if (keyInput.trim()) {
@@ -25,52 +83,78 @@ export default function App() {
     }
   }
 
+  function toggleSidebar() {
+    setSidebarOpen(prev => !prev);
+  }
+
+  function startNewChat() {
+    clearChat();
+    setActiveChatId(null);
+    if (window.innerWidth <= 768) setSidebarOpen(false);
+  }
+
+  function loadChat(chatId) {
+    const chat = chatHistory.find(item => item.id === chatId);
+    if (!chat) return;
+    loadMessages(chat.messages || []);
+    setActiveChatId(chat.id);
+    if (window.innerWidth <= 768) setSidebarOpen(false);
+  }
+
   function handleRegenerate() {
     showToast('Regenerating...');
     regenerate();
   }
 
-  const suggestions = [
-    'What are the top news stories right now?',
-    'What is happening in Pakistan today?',
-    'Latest technology news',
-    'Global economy and markets today',
-    'Any major political news today?',
-    'What conflicts or crises are in the news?',
-  ];
-
   return (
     <div className="app-shell">
+      <Sidebar
+        sidebarOpen={sidebarOpen}
+        chatHistory={chatHistory}
+        activeChatId={activeChatId}
+        startNewChat={startNewChat}
+        loadChat={loadChat}
+        setShowSettings={setShowSettings}
+      />
 
-      <header className="header">
-        <div className="header-left">
-          <span className="logo">📡 NewsIntel</span>
-          <span className="header-badge">Live Web Search</span>
+      {sidebarOpen && <button className="sidebar-overlay" onClick={() => setSidebarOpen(false)} aria-label="Close sidebar" />}
+
+      <div className="main-area">
+        <header className="header">
+          <div className="header-left">
+            <button className="sidebar-toggle" onClick={toggleSidebar} type="button" aria-label="Toggle sidebar">
+              ☰
+            </button>
+            <div className="model-badge">
+              <div className="model-dot" />
+              Perplexity Sonar · Live
+            </div>
+          </div>
+          <div className="header-right">
+            <button className="icon-btn" onClick={startNewChat} title="New chat" type="button">✏</button>
+            <button className="icon-btn" onClick={() => setShowSettings(true)} title="Settings" type="button">⚙</button>
+          </div>
+        </header>
+
+        <main className="chat-area">
+          <ChatWindow
+            messages={messages}
+            loading={loading}
+            suggestions={suggestions}
+            onSuggestion={sendMessage}
+            onRegenerate={handleRegenerate}
+            onToast={showToast}
+            hasKey={hasKey}
+          />
+        </main>
+
+        <div className="input-area">
+          <InputBar
+            onSend={sendMessage}
+            onStop={stop}
+            loading={loading}
+          />
         </div>
-        <div className="header-right">
-          <button className="icon-btn" onClick={clearChat}>🗑</button>
-          <button className="icon-btn" onClick={() => setShowSettings(true)}>⚙</button>
-        </div>
-      </header>
-
-      <main className="chat-area">
-        <ChatWindow
-          messages={messages}
-          loading={loading}
-          suggestions={suggestions}
-          onSuggestion={sendMessage}
-          onRegenerate={handleRegenerate}
-          onToast={showToast}
-          hasKey={hasKey}
-        />
-      </main>
-
-      <div className="input-area">
-        <InputBar
-          onSend={sendMessage}
-          onStop={stop}
-          loading={loading}
-        />
       </div>
 
       <ToastContainer toasts={toasts} />
@@ -97,9 +181,9 @@ export default function App() {
               {' '}— no credit card needed
             </p>
             <div className="modal-actions">
-              <button className="btn-primary" onClick={saveKey}>Save & Start</button>
+              <button className="btn-primary" onClick={saveKey} type="button">Save & Start</button>
               {hasKey && (
-                <button className="btn-ghost" onClick={() => setShowSettings(false)}>
+                <button className="btn-ghost" onClick={() => setShowSettings(false)} type="button">
                   Cancel
                 </button>
               )}
@@ -107,7 +191,6 @@ export default function App() {
           </div>
         </div>
       )}
-
     </div>
   );
 }
