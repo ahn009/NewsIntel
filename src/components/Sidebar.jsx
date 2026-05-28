@@ -5,6 +5,8 @@ export default function Sidebar({
   startNewChat,
   loadChat,
   setShowSettings,
+  onDeleteChat,
+  onClearAll,
 }) {
   return (
     <aside className={`sidebar ${sidebarOpen ? 'open' : 'closed'}`}>
@@ -22,18 +24,38 @@ export default function Sidebar({
       <div className="sidebar-history">
         <p className="history-label">Recent</p>
         {chatHistory.map(chat => (
-          <button
+          <div
             key={chat.id}
-            className={`history-item ${chat.id === activeChatId ? 'active' : ''}`}
-            onClick={() => loadChat(chat.id)}
-            type="button"
+            className={`history-item-wrapper ${chat.id === activeChatId ? 'active' : ''}`}
           >
-            <span className="history-title">{chat.title}</span>
-            <span className="history-time">{timeAgo(chat.timestamp)}</span>
-          </button>
+            <button
+              className="history-item"
+              onClick={() => loadChat(chat.id)}
+              type="button"
+            >
+              <span className="history-title">{chat.title}</span>
+              <span className="history-time">{timeAgo(chat.timestamp)}</span>
+            </button>
+            <button
+              className="history-delete-btn"
+              onClick={(e) => {
+                e.stopPropagation();
+                onDeleteChat(chat.id);
+              }}
+              title="Delete chat"
+              type="button"
+            >
+              ×
+            </button>
+          </div>
         ))}
         {chatHistory.length === 0 && (
           <p className="history-empty">No previous chats</p>
+        )}
+        {chatHistory.length > 0 && (
+          <button className="clear-all-btn" onClick={onClearAll} type="button">
+            Clear all history
+          </button>
         )}
       </div>
 

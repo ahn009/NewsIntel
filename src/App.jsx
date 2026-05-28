@@ -57,6 +57,11 @@ export default function App() {
   ], []);
 
   useEffect(() => {
+    if (chatHistory.length === 0) {
+      localStorage.removeItem(HISTORY_KEY);
+      return;
+    }
+
     localStorage.setItem(HISTORY_KEY, JSON.stringify(chatHistory));
   }, [chatHistory]);
 
@@ -107,6 +112,22 @@ export default function App() {
     if (window.innerWidth <= 768) setSidebarOpen(false);
   }
 
+  function deleteChat(chatId) {
+    const updated = chatHistory.filter(chat => chat.id !== chatId);
+    setChatHistory(updated);
+    localStorage.setItem(HISTORY_KEY, JSON.stringify(updated));
+
+    if (chatId === activeChatId) {
+      startNewChat();
+    }
+  }
+
+  function clearAllChats() {
+    setChatHistory([]);
+    localStorage.removeItem(HISTORY_KEY);
+    startNewChat();
+  }
+
   function handleRegenerate() {
     showToast('Regenerating...');
     regenerate();
@@ -121,6 +142,8 @@ export default function App() {
         startNewChat={startNewChat}
         loadChat={loadChat}
         setShowSettings={setShowSettings}
+        onDeleteChat={deleteChat}
+        onClearAll={clearAllChats}
       />
 
       {sidebarOpen && <button className="sidebar-overlay" onClick={() => setSidebarOpen(false)} aria-label="Close sidebar" />}
