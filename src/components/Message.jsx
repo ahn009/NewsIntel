@@ -35,6 +35,9 @@ export default function Message({ message }) {
         ) : (
           <div className="bubble assistant-bubble">
             {formatText(message.text)}
+            {message.streaming && (
+              <span className="cursor-blink">▋</span>
+            )}
           </div>
         )}
       </div>

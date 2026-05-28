@@ -16,14 +16,28 @@ export function useChat() {
     }]);
     setLoading(true);
 
-    try {
-      const answer = await askClaude(userText, apiHistory);
+    const assistantId = (Date.now() + 1).toString();
+    setMessages(prev => [...prev, {
+      id: assistantId,
+      role: 'assistant',
+      text: '',
+      streaming: true,
+    }]);
 
-      setMessages(prev => [...prev, {
-        id: (Date.now() + 1).toString(),
-        role: 'assistant',
-        text: answer,
-      }]);
+    try {
+      const answer = await askClaude(userText, apiHistory, (_token, fullText) => {
+        setMessages(prev => prev.map(msg =>
+          msg.id === assistantId
+            ? { ...msg, text: fullText, streaming: true }
+            : msg
+        ));
+      });
+
+      setMessages(prev => prev.map(msg =>
+        msg.id === assistantId
+          ? { ...msg, text: answer, streaming: false }
+          : msg
+      ));
 
       setApiHistory(prev => {
         const next = [
@@ -36,13 +50,18 @@ export function useChat() {
       });
 
     } catch (err) {
-      setMessages(prev => [...prev, {
-        id: (Date.now() + 1).toString(),
-        role: 'assistant',
-        error: err.message === 'NO_KEY'
-          ? 'No API key. Click ⚙ Settings and paste your OpenRouter key.'
-          : `Error: ${err.message}`,
-      }]);
+      setMessages(prev => prev.map(msg =>
+        msg.id === assistantId
+          ? {
+              ...msg,
+              text: '',
+              streaming: false,
+              error: err.message === 'NO_KEY'
+                ? 'No API key. Click ⚙ Settings and paste your OpenRouter key.'
+                : `Error: ${err.message}`,
+            }
+          : msg
+      ));
     } finally {
       setLoading(false);
     }

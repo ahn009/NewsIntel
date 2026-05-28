@@ -85,7 +85,7 @@ Why it matters: [2 sentences on impact/significance]
 What's next: [1 sentence on what to watch for]
 Source: [outlet name + time]`;
 
-export async function askClaude(question, history) {
+export async function askClaude(question, history, onChunk = () => {}) {
   const key = getKey();
   if (!key) throw new Error('NO_KEY');
 
@@ -122,6 +122,7 @@ Find the latest news from TODAY only and give detailed coverage.`;
     body: JSON.stringify({
       model: MODEL,
       max_tokens: 2000,
+      stream: true,
       messages,
     }),
   });
@@ -132,8 +133,53 @@ Find the latest news from TODAY only and give detailed coverage.`;
     throw new Error(err?.error?.message || `Error ${res.status}`);
   }
 
-  const data = await res.json();
-  const content = data.choices?.[0]?.message?.content;
-  if (!content) throw new Error('Empty response from model');
-  return content;
+  if (!res.body) throw new Error('Streaming response is not available');
+
+  const reader = res.body.getReader();
+  const decoder = new TextDecoder();
+  let fullText = '';
+  let buffer = '';
+
+  const processLine = (line) => {
+    const trimmed = line.trim();
+    if (!trimmed.startsWith('data: ')) return false;
+
+    const data = trimmed.slice(6);
+    if (data === '[DONE]') return true;
+
+    try {
+      const parsed = JSON.parse(data);
+      const token = parsed.choices?.[0]?.delta?.content || '';
+      if (token) {
+        fullText += token;
+        onChunk(token, fullText);
+      }
+    } catch {
+      // Ignore malformed stream chunks.
+    }
+
+    return false;
+  };
+
+  while (true) {
+    const { done, value } = await reader.read();
+
+    if (done) {
+      buffer += decoder.decode();
+      break;
+    }
+
+    buffer += decoder.decode(value, { stream: true });
+    const lines = buffer.split('\n');
+    buffer = lines.pop() || '';
+
+    for (const line of lines) {
+      if (processLine(line)) return fullText;
+    }
+  }
+
+  if (buffer && processLine(buffer)) return fullText;
+
+  if (!fullText) throw new Error('Empty response from model');
+  return fullText;
 }

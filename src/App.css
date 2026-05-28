@@ -312,6 +312,21 @@ body {
 .msg-line { margin-bottom: 4px; }
 .msg-line:last-child { margin-bottom: 0; }
 
+.cursor-blink {
+  display: inline-block;
+  width: 2px;
+  background: var(--accent);
+  margin-left: 2px;
+  animation: blink 0.7s infinite;
+  font-size: 14px;
+  color: var(--accent);
+}
+
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+
 .error-bubble {
   background: var(--error-bg);
   color: var(--error-text);
