@@ -161,7 +161,8 @@ Find the latest news from TODAY only and give detailed coverage.`;
     },
     body: JSON.stringify({
       model: MODEL,
-      max_tokens: 2000,
+      // max_tokens: 2000,
+      max_tokens: 900,
       stream: true,
       messages,
     }),
