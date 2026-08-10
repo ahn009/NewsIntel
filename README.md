@@ -8,12 +8,12 @@ A React chat app that searches the live web for current news using Groq Compound
 2. Short inputs, like `"pakistan"` or `"ai"`, auto-expand into detailed search queries
 3. The request includes fresh global timezone context
 4. `groq/compound` searches the live web and answers with cited sources
-5. Response streams into the UI with markdown, source attribution, and a Key Takeaway
+5. The completed briefing appears with markdown, source attribution, and a Key Takeaway
 
 ## Features
 
 - Live web search on every question
-- Streaming responses with Stop and Regenerate controls
+- Abortable Groq requests with Stop and Regenerate controls
 - Sidebar with local chat history stored in the browser
 - Polished responsive chat UI
 - Groq key entered in Settings and stored locally in the user's browser

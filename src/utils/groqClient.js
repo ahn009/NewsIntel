@@ -160,8 +160,7 @@ Find the latest news from TODAY only and give detailed coverage.`;
     },
     body: JSON.stringify({
       model: MODEL,
-      max_completion_tokens: 1200,
-      stream: true,
+      max_completion_tokens: 4096,
       messages,
       compound_custom: {
         tools: {
@@ -183,53 +182,17 @@ Find the latest news from TODAY only and give detailed coverage.`;
     throw new Error(err?.error?.message || `Error ${res.status}`);
   }
 
-  if (!res.body) throw new Error('Streaming response is not available');
+  const data = await res.json();
+  const choice = data.choices?.[0];
+  const answer = choice?.message?.content?.trim() || '';
 
-  const reader = res.body.getReader();
-  const decoder = new TextDecoder();
-  let fullText = '';
-  let buffer = '';
-
-  const processLine = (line) => {
-    const trimmed = line.trim();
-    if (!trimmed.startsWith('data: ')) return false;
-
-    const data = trimmed.slice(6);
-    if (data === '[DONE]') return true;
-
-    try {
-      const parsed = JSON.parse(data);
-      const token = parsed.choices?.[0]?.delta?.content || '';
-      if (token) {
-        fullText += token;
-        onChunk(token, fullText);
-      }
-    } catch {
-      // Ignore malformed stream chunks.
+  if (!answer) {
+    if (choice?.finish_reason === 'length') {
+      throw new Error('Groq used the full completion budget before producing an answer. Please try a shorter request.');
     }
-
-    return false;
-  };
-
-  while (true) {
-    const { done, value } = await reader.read();
-
-    if (done) {
-      buffer += decoder.decode();
-      break;
-    }
-
-    buffer += decoder.decode(value, { stream: true });
-    const lines = buffer.split('\n');
-    buffer = lines.pop() || '';
-
-    for (const line of lines) {
-      if (processLine(line)) return fullText;
-    }
+    throw new Error('Groq completed the request without answer text. Please try again.');
   }
 
-  if (buffer && processLine(buffer)) return fullText;
-
-  if (!fullText) throw new Error('Empty response from model');
-  return fullText;
+  onChunk(answer, answer);
+  return answer;
 }

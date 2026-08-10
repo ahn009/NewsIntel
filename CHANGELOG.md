@@ -5,6 +5,13 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
+## [1.1.2] — 2026-08-10
+
+### Fixed
+- Switched Groq Compound to its reliable completed-response path for built-in web search
+- Increased the completion budget from 1,200 to 4,096 tokens so search and reasoning do not consume the full answer budget
+- Added specific diagnostics when Groq exhausts the token budget or returns no answer text
+
 ## [1.1.1] — 2026-08-10
 
 ### Fixed
