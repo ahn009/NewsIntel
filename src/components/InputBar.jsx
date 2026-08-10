@@ -41,7 +41,7 @@ export default function InputBar({ onSend, onStop, loading }) {
             }
           }}
           placeholder="Ask about any news topic, country, or event..."
-          maxLength={4000}
+          maxLength={2000}
           disabled={loading}
           rows={1}
         />

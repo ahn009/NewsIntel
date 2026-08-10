@@ -159,7 +159,7 @@ export default function App() {
             </button>
             <div className="model-badge">
               <div className="model-dot" />
-              Groq Compound · Live
+              Groq Compound Mini · Live
             </div>
             <div className="header-title">NewsIntel</div>
           </div>

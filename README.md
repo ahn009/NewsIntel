@@ -1,13 +1,13 @@
 # NewsIntel
 
-A React chat app that searches the live web for current news using Groq Compound. No RSS feeds or CORS proxies — ask a question and get real-time news with cited sources.
+A React chat app that searches the live web for current news using Groq Compound Mini. No RSS feeds or CORS proxies — ask a question and get real-time news with cited sources.
 
 ## How It Works
 
 1. User types a question or picks a suggestion
 2. Short inputs, like `"pakistan"` or `"ai"`, auto-expand into detailed search queries
 3. The request includes fresh global timezone context
-4. `groq/compound` searches the live web and answers with cited sources
+4. `groq/compound-mini` performs a bounded web search and answers with cited sources
 5. The completed briefing appears with markdown, source attribution, and a Key Takeaway
 
 ## Features
@@ -22,7 +22,7 @@ A React chat app that searches the live web for current news using Groq Compound
 ## Tech Stack
 
 - React 18 + Vite 8
-- Groq API (`groq/compound` system)
+- Groq API (`groq/compound-mini` system)
 - No external runtime libraries beyond React
 
 ## Getting Started

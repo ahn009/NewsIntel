@@ -5,6 +5,14 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
+## [1.1.4] — 2026-08-10
+
+### Fixed
+- Switched to `groq/compound-mini` to bound each request to one server-side tool call
+- Pinned Compound version `2025-07-23` for smaller basic web-search retrieval
+- Reduced API history to one prior exchange and simplified the date prompt to UTC plus user-local time
+- Reduced the completion budget to 2,048 tokens and clarified HTTP 413 recovery guidance
+
 ## [1.1.3] — 2026-08-10
 
 ### Fixed

@@ -1,9 +1,10 @@
 const ENDPOINT = 'https://api.groq.com/openai/v1/chat/completions';
-const MODEL = 'groq/compound';
+const MODEL = 'groq/compound-mini';
+const MODEL_VERSION = '2025-07-23';
 const KEY_STORAGE = 'ni_groq_key';
-const HISTORY_MESSAGE_LIMIT = 6;
-const HISTORY_TOTAL_CHARS = 12000;
-const HISTORY_MESSAGE_CHARS = 6000;
+const HISTORY_MESSAGE_LIMIT = 2;
+const HISTORY_TOTAL_CHARS = 4000;
+const HISTORY_MESSAGE_CHARS = 2000;
 
 function compactHistory(history) {
   const truncationNote = '\n[Earlier response truncated]';
@@ -94,63 +95,19 @@ function expandQuery(question) {
   return question;
 }
 
-const zones = [
-  { label: 'UTC', tz: 'UTC' },
-  { label: 'New York', tz: 'America/New_York' },
-  { label: 'Los Angeles', tz: 'America/Los_Angeles' },
-  { label: 'Chicago', tz: 'America/Chicago' },
-  { label: 'London', tz: 'Europe/London' },
-  { label: 'Paris', tz: 'Europe/Paris' },
-  { label: 'Berlin', tz: 'Europe/Berlin' },
-  { label: 'Moscow', tz: 'Europe/Moscow' },
-  { label: 'Dubai', tz: 'Asia/Dubai' },
-  { label: 'Karachi', tz: 'Asia/Karachi' },
-  { label: 'Delhi', tz: 'Asia/Kolkata' },
-  { label: 'Dhaka', tz: 'Asia/Dhaka' },
-  { label: 'Bangkok', tz: 'Asia/Bangkok' },
-  { label: 'Singapore', tz: 'Asia/Singapore' },
-  { label: 'Hong Kong', tz: 'Asia/Hong_Kong' },
-  { label: 'Shanghai', tz: 'Asia/Shanghai' },
-  { label: 'Tokyo', tz: 'Asia/Tokyo' },
-  { label: 'Seoul', tz: 'Asia/Seoul' },
-  { label: 'Sydney', tz: 'Australia/Sydney' },
-  { label: 'Auckland', tz: 'Pacific/Auckland' },
-  { label: 'Honolulu', tz: 'Pacific/Honolulu' },
-  { label: 'Anchorage', tz: 'America/Anchorage' },
-  { label: 'Sao Paulo', tz: 'America/Sao_Paulo' },
-  { label: 'Buenos Aires', tz: 'America/Argentina/Buenos_Aires' },
-];
-
 function getSystemPrompt() {
   const now = new Date();
-  const timeZoneBlock = zones.map(z =>
-    `${z.label}: ${now.toLocaleString('en-US', {
-      timeZone: z.tz,
-      weekday: 'short',
-      year: 'numeric',
-      month: 'short',
-      day: 'numeric',
-      hour: '2-digit',
-      minute: '2-digit',
-      hour12: false,
-    })}`
-  ).join('\n');
+  return `You are NewsIntel, a concise personal news analyst with live web search.
 
-  return `You are NewsIntel, a personal AI news analyst with live internet access.
-
-CURRENT DATE AND TIME ACROSS ALL TIMEZONES:
-${timeZoneBlock}
-
-Use these times to understand exactly what "today", "this morning", "last night" means
-in any country. When covering news from a specific country, use that country's
-local time to determine recency.
+Current UTC time: ${now.toISOString()}
+User-local time: ${getDateContext()}
 
 RULES:
-1. Only report news from the last 24 hours. Never give old news.
+1. Search the web and report only developments from the last 24 hours.
 2. For every story: what happened, who, why it matters, what's next.
-3. Cover 4-6 stories minimum per response.
-4. Write full detail — user should never need to open the article.
-5. Cite source and local time: "Reuters reported at 09:30 Karachi time..."
+3. Cover the 3-5 most important stories concisely.
+4. Include automatic source citations and never invent publication times.
+5. Prefer reliable primary reporting and major news outlets.
 6. End with bold **Key Takeaway** summarizing the situation in 2 sentences.`;
 }
 
@@ -186,10 +143,11 @@ Find the latest news from TODAY only and give detailed coverage.`;
     headers: {
       'Content-Type': 'application/json',
       'Authorization': `Bearer ${key}`,
+      'Groq-Model-Version': MODEL_VERSION,
     },
     body: JSON.stringify({
       model: MODEL,
-      max_completion_tokens: 4096,
+      max_completion_tokens: 2048,
       messages,
       compound_custom: {
         tools: {
@@ -209,7 +167,7 @@ Find the latest news from TODAY only and give detailed coverage.`;
         : 'Groq free-tier limit reached. Please try again shortly.');
     }
     if (res.status === 413) {
-      throw new Error('The conversation is too large for Groq. Start a new chat or shorten your question.');
+      throw new Error('Groq web search produced too much source data. Try a more specific news topic.');
     }
     throw new Error(err?.error?.message || `Error ${res.status}`);
   }
