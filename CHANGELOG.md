@@ -5,6 +5,13 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
+## [1.1.3] — 2026-08-10
+
+### Fixed
+- Prevented Groq HTTP 413 errors by capping API history at six recent messages and 12,000 total characters
+- Truncated individual historical responses at 6,000 characters and limited new questions to 4,000 characters
+- Added a specific recovery message if Groq still rejects an oversized conversation
+
 ## [1.1.2] — 2026-08-10
 
 ### Fixed

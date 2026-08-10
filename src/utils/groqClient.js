@@ -1,6 +1,35 @@
 const ENDPOINT = 'https://api.groq.com/openai/v1/chat/completions';
 const MODEL = 'groq/compound';
 const KEY_STORAGE = 'ni_groq_key';
+const HISTORY_MESSAGE_LIMIT = 6;
+const HISTORY_TOTAL_CHARS = 12000;
+const HISTORY_MESSAGE_CHARS = 6000;
+
+function compactHistory(history) {
+  const truncationNote = '\n[Earlier response truncated]';
+  const recent = history.slice(-HISTORY_MESSAGE_LIMIT).map(message => {
+    const content = String(message.content || '');
+    return {
+      role: message.role,
+      content: content.length > HISTORY_MESSAGE_CHARS
+        ? `${content.slice(0, HISTORY_MESSAGE_CHARS - truncationNote.length)}${truncationNote}`
+        : content,
+    };
+  });
+
+  const kept = [];
+  let totalChars = 0;
+
+  for (let index = recent.length - 1; index >= 0; index -= 1) {
+    const message = recent[index];
+    if (totalChars + message.content.length > HISTORY_TOTAL_CHARS) break;
+    kept.unshift(message);
+    totalChars += message.content.length;
+  }
+
+  while (kept[0]?.role === 'assistant') kept.shift();
+  return kept;
+}
 
 function getKey() {
   return localStorage.getItem(KEY_STORAGE) || '';
@@ -147,7 +176,7 @@ Find the latest news from TODAY only and give detailed coverage.`;
 
   const messages = [
     { role: 'system', content: getSystemPrompt() },
-    ...history,
+    ...compactHistory(history),
     { role: 'user', content: userContent },
   ];
 
@@ -178,6 +207,9 @@ Find the latest news from TODAY only and give detailed coverage.`;
       throw new Error(retryAfter
         ? `Groq free-tier limit reached. Try again in ${retryAfter} seconds.`
         : 'Groq free-tier limit reached. Please try again shortly.');
+    }
+    if (res.status === 413) {
+      throw new Error('The conversation is too large for Groq. Start a new chat or shorten your question.');
     }
     throw new Error(err?.error?.message || `Error ${res.status}`);
   }
