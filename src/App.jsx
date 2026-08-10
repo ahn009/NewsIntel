@@ -7,6 +7,8 @@ import InputBar from './components/InputBar.jsx';
 import './App.css';
 
 const HISTORY_KEY = 'ni_chat_history';
+const GROQ_KEY = 'ni_groq_key';
+const LEGACY_OPENROUTER_KEY = 'ni_or_key';
 
 function getInitialSidebarState() {
   if (typeof window === 'undefined') return true;
@@ -45,7 +47,7 @@ export default function App() {
   const [chatHistory, setChatHistory] = useState(loadStoredHistory);
   const [activeChatId, setActiveChatId] = useState(null);
 
-  const hasKey = !!localStorage.getItem('ni_or_key');
+  const hasKey = !!localStorage.getItem(GROQ_KEY);
 
   const suggestions = useMemo(() => [
     '🌍 What are the top world stories right now?',
@@ -87,7 +89,8 @@ export default function App() {
 
   function saveKey() {
     if (keyInput.trim()) {
-      localStorage.setItem('ni_or_key', keyInput.trim());
+      localStorage.setItem(GROQ_KEY, keyInput.trim());
+      localStorage.removeItem(LEGACY_OPENROUTER_KEY);
       setShowSettings(false);
       setKeyInput('');
       window.location.reload();
@@ -156,7 +159,7 @@ export default function App() {
             </button>
             <div className="model-badge">
               <div className="model-dot" />
-              Perplexity Sonar · Live
+              Groq Compound · Live
             </div>
             <div className="header-title">NewsIntel</div>
           </div>
@@ -193,12 +196,12 @@ export default function App() {
       {(showSettings || !hasKey) && (
         <div className="modal-overlay" onClick={() => hasKey && setShowSettings(false)}>
           <div className="modal-box" onClick={e => e.stopPropagation()}>
-            <h3 className="modal-title">⚙ OpenRouter API Key</h3>
+            <h3 className="modal-title">⚙ Groq API Key</h3>
             <p className="modal-label">Paste your key below</p>
             <input
               className="modal-input"
               type="password"
-              placeholder="Paste your OpenRouter API key"
+              placeholder="Paste your Groq API key"
               value={keyInput}
               onChange={e => setKeyInput(e.target.value)}
               onKeyDown={e => e.key === 'Enter' && saveKey()}
@@ -206,8 +209,8 @@ export default function App() {
             />
             <p className="modal-hint">
               Free key at{' '}
-              <a href="https://openrouter.ai/keys" target="_blank" rel="noopener">
-                openrouter.ai/keys
+              <a href="https://console.groq.com/keys" target="_blank" rel="noopener">
+                console.groq.com/keys
               </a>
               {' '}— no credit card needed
             </p>

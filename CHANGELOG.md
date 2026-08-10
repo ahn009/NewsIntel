@@ -5,6 +5,13 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
+## [1.1.0] — 2026-08-10
+
+### Changed
+- Replaced OpenRouter and Perplexity Sonar with Groq Compound for live web search
+- Settings now accept a Groq API key and store it under a provider-specific browser key
+- Added a clear free-tier rate-limit error when Groq returns HTTP 429
+
 ## [1.0.0] — 2026-05-28
 
 ### Added

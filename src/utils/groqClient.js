@@ -1,8 +1,9 @@
-const ENDPOINT = 'https://openrouter.ai/api/v1/chat/completions';
-const MODEL = 'perplexity/sonar';
+const ENDPOINT = 'https://api.groq.com/openai/v1/chat/completions';
+const MODEL = 'groq/compound';
+const KEY_STORAGE = 'ni_groq_key';
 
 function getKey() {
-  return localStorage.getItem('ni_or_key') || '';
+  return localStorage.getItem(KEY_STORAGE) || '';
 }
 
 function getDateContext() {
@@ -124,7 +125,7 @@ RULES:
 6. End with bold **Key Takeaway** summarizing the situation in 2 sentences.`;
 }
 
-export async function askClaude(question, history, onChunk = () => {}, signal) {
+export async function askGroq(question, history, onChunk = () => {}, signal) {
   const key = getKey();
   if (!key) throw new Error('NO_KEY');
 
@@ -156,21 +157,30 @@ Find the latest news from TODAY only and give detailed coverage.`;
     headers: {
       'Content-Type': 'application/json',
       'Authorization': `Bearer ${key}`,
-      'HTTP-Referer': 'http://localhost:5173',
-      'X-Title': 'NewsIntel',
     },
     body: JSON.stringify({
       model: MODEL,
-      // max_tokens: 2000,
-      max_tokens: 900,
+      max_completion_tokens: 1200,
       stream: true,
+      citation_options: 'enabled',
       messages,
+      compound_custom: {
+        tools: {
+          enabled_tools: ['web_search'],
+        },
+      },
     }),
   });
 
   if (!res.ok) {
     const err = await res.json().catch(() => ({}));
-    if (res.status === 401) throw new Error('NO_KEY');
+    if (res.status === 401) throw new Error('INVALID_KEY');
+    if (res.status === 429) {
+      const retryAfter = res.headers.get('retry-after');
+      throw new Error(retryAfter
+        ? `Groq free-tier limit reached. Try again in ${retryAfter} seconds.`
+        : 'Groq free-tier limit reached. Please try again shortly.');
+    }
     throw new Error(err?.error?.message || `Error ${res.status}`);
   }
 

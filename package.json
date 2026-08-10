@@ -1,7 +1,7 @@
 {
   "name": "newsintel",
-  "version": "1.0.0",
-  "description": "AI-powered news chat app with live web search via Perplexity on OpenRouter",
+  "version": "1.1.0",
+  "description": "AI-powered news chat app with live web search via Groq Compound",
   "private": true,
   "type": "module",
   "author": "Ahsan",
@@ -9,8 +9,7 @@
   "keywords": [
     "news",
     "ai",
-    "perplexity",
-    "openrouter",
+    "groq",
     "react",
     "vite"
   ],

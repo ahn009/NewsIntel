@@ -26,7 +26,7 @@ export default function ChatWindow({ messages, loading, suggestions, onSuggestio
           <div className="welcome-logo">📡</div>
           <h1 className="welcome-title">How can NewsIntel help?</h1>
           <p className="welcome-sub">
-            Live web search powered by Perplexity Sonar. Ask about any country, topic, or event — get detailed, sourced news briefings in seconds.
+            Live web search powered by Groq Compound. Ask about any country, topic, or event — get detailed, sourced news briefings in seconds.
           </p>
           <div className="suggestions-grid">
             {suggestions.map((s, i) => (

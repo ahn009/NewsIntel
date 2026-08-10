@@ -1,5 +1,5 @@
 import { useState, useCallback, useRef } from 'react';
-import { askClaude } from '../utils/claudeClient.js';
+import { askGroq } from '../utils/groqClient.js';
 
 const HISTORY_LIMIT = 20;
 
@@ -45,7 +45,7 @@ export function useChat() {
     abortRef.current = new AbortController();
 
     try {
-      const answer = await askClaude(
+      const answer = await askGroq(
         cleanText,
         historyOverride,
         (_token, fullText) => {
@@ -87,7 +87,9 @@ export function useChat() {
               text: '',
               streaming: false,
               error: err.message === 'NO_KEY'
-                ? 'No API key. Click ⚙ Settings and paste your OpenRouter key.'
+                ? 'No API key. Click ⚙ Settings and paste your Groq key.'
+                : err.message === 'INVALID_KEY'
+                  ? 'That Groq API key is invalid or expired. Update it in ⚙ Settings.'
                 : `Error: ${err.message}`,
             }
           : msg

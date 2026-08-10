@@ -3,10 +3,9 @@
 ## Getting Started
 
 ```bash
-git clone https://github.com/your-username/newsintel.git
+git clone https://github.com/ahn009/newsintel.git
 cd newsintel
 npm install
-cp .env.example .env   # add your OpenRouter key
 npm run dev
 ```
 
@@ -24,7 +23,7 @@ npm run dev
 src/
   components/     UI components (ChatWindow, InputBar, Message)
   hooks/          useChat — chat state and API calls
-  utils/          claudeClient — OpenRouter client, query expansion, date injection
+  utils/          groqClient — Groq client, query expansion, date injection
   App.jsx         App shell and settings modal
   App.css         Dark theme styles
 ```
@@ -33,7 +32,7 @@ src/
 
 | File | What to know |
 |---|---|
-| `src/utils/claudeClient.js` | All AI logic lives here — model, prompt, query expansion |
+| `src/utils/groqClient.js` | All AI logic lives here — model, prompt, query expansion |
 | `src/hooks/useChat.js` | Message state and conversation history management |
 | `src/components/Message.jsx` | Renders markdown-like bold/italic in responses |
 

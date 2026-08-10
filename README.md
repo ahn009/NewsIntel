@@ -1,13 +1,13 @@
 # NewsIntel
 
-A React chat app that searches the live web for current news using Perplexity's online AI model via OpenRouter. No RSS feeds, no CORS proxies — ask a question and get real-time news with cited sources.
+A React chat app that searches the live web for current news using Groq Compound. No RSS feeds or CORS proxies — ask a question and get real-time news with cited sources.
 
 ## How It Works
 
 1. User types a question or picks a suggestion
 2. Short inputs, like `"pakistan"` or `"ai"`, auto-expand into detailed search queries
 3. The request includes fresh global timezone context
-4. `perplexity/sonar` searches the live web and answers with cited sources
+4. `groq/compound` searches the live web and answers with cited sources
 5. Response streams into the UI with markdown, source attribution, and a Key Takeaway
 
 ## Features
@@ -16,13 +16,13 @@ A React chat app that searches the live web for current news using Perplexity's 
 - Streaming responses with Stop and Regenerate controls
 - Sidebar with local chat history stored in the browser
 - Polished responsive chat UI
-- OpenRouter key entered in Settings and stored locally in the user's browser
+- Groq key entered in Settings and stored locally in the user's browser
 - No build-time API key embedding
 
 ## Tech Stack
 
 - React 18 + Vite 8
-- OpenRouter API (`perplexity/sonar` model)
+- Groq API (`groq/compound` system)
 - No external runtime libraries beyond React
 
 ## Getting Started
@@ -31,7 +31,7 @@ A React chat app that searches the live web for current news using Perplexity's 
 
 - Node.js 20.19+ or 22.12+
 - npm
-- OpenRouter API key from [openrouter.ai/keys](https://openrouter.ai/keys)
+- Groq API key from [console.groq.com/keys](https://console.groq.com/keys)
 
 ### Install
 
@@ -45,7 +45,7 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173), then paste your OpenRouter key in Settings.
+Open [http://localhost:5173](http://localhost:5173), then paste your Groq key in Settings.
 
 The dev and preview servers bind to `127.0.0.1` by default. Do not expose Vite dev server to a public network.
 
@@ -69,7 +69,7 @@ src/
   hooks/
     useChat.js
   utils/
-    claudeClient.js
+    groqClient.js
   App.jsx
   App.css
 ```
@@ -77,7 +77,7 @@ src/
 ## Security Notes
 
 - Do not put real API keys in `.env`, source files, or deployment environment variables for this frontend.
-- This is a browser-only BYOK app: the user's OpenRouter key is stored in `localStorage` and used directly from their browser.
+- This is a browser-only BYOK app: the user's Groq key is stored in `localStorage` and used directly from their browser.
 - For a public multi-user production service, add a backend proxy, keep provider keys server-side, add rate limiting/auth, and do not expose provider credentials to the client.
 - If a real key was ever committed, pasted into chat, or present in shared logs, revoke and rotate it immediately.
 

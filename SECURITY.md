@@ -21,7 +21,7 @@ NewsIntel is a browser-only BYOK app. Do not commit real API keys to source file
 
 If a key is exposed:
 
-1. Revoke it immediately in OpenRouter.
+1. Revoke it immediately in Groq Console.
 2. Create a new key.
 3. Remove the old key from local files and browser storage.
 4. Review git history and CI logs for exposure.
