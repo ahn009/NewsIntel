@@ -5,6 +5,11 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
+## [1.1.1] — 2026-08-10
+
+### Fixed
+- Removed the unsupported `citation_options` request field from Groq Compound; Compound continues to add web-search citations automatically
+
 ## [1.1.0] — 2026-08-10
 
 ### Changed

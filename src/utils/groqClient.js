@@ -162,7 +162,6 @@ Find the latest news from TODAY only and give detailed coverage.`;
       model: MODEL,
       max_completion_tokens: 1200,
       stream: true,
-      citation_options: 'enabled',
       messages,
       compound_custom: {
         tools: {
