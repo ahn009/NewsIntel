@@ -133,6 +133,38 @@ def summarize(text, title=""):
         return [title] if title else []
 
 
+BRIEF_MAX_SENTENCES = 2
+BRIEF_MAX_WORDS = 55
+
+
+def make_brief(summary_sentences, title=""):
+    """Condense a summary into a 1-2 sentence briefing line (~55 words max).
+
+    Used for the Top-20 briefing view: the reader gets the gist without
+    opening the article. Never raises; falls back to the title.
+    """
+    try:
+        parts = []
+        word_count = 0
+        for s in (summary_sentences or [])[:BRIEF_MAX_SENTENCES]:
+            s = (s or "").strip()
+            if not s:
+                continue
+            n_words = len(s.split())
+            if parts and word_count + n_words > BRIEF_MAX_WORDS:
+                break
+            parts.append(s)
+            word_count += n_words
+        text = " ".join(parts).strip()
+        if len(text.split()) > BRIEF_MAX_WORDS:
+            text = " ".join(text.split()[:BRIEF_MAX_WORDS]).rstrip(",;:") + "…"
+        if text:
+            return text
+    except Exception:
+        pass
+    return (title or "").strip()
+
+
 def _summarize(text, title=""):
     text = (text or "").strip()
     if not text:

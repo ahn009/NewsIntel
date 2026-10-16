@@ -1,7 +1,8 @@
 import { useCallback, useEffect, useState } from 'react';
 
 export const CATEGORIES = [
-  { id: 'latest', label: 'Top Stories', file: 'latest.json', icon: '🔥' },
+  { id: 'top20', label: 'Top 20', file: 'top20.json', icon: '🏆' },
+  { id: 'latest', label: 'Latest', file: 'latest.json', icon: '🔥' },
   { id: 'world', label: 'World', file: 'world.json', icon: '🌍' },
   { id: 'pakistan', label: 'Pakistan', file: 'pakistan.json', icon: '🇵🇰' },
   { id: 'tech', label: 'Technology', file: 'tech.json', icon: '🤖' },

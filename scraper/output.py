@@ -24,11 +24,14 @@ def _now_iso():
     return datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
 
 
-def build_story(item, summary_sentences):
+def _story_id(item):
     curl = canonical_url(item.get("url") or item.get("title") or "")
-    story_id = hashlib.sha1(curl.encode("utf-8")).hexdigest()
+    return hashlib.sha1(curl.encode("utf-8")).hexdigest()
+
+
+def build_story(item, summary_sentences):
     return {
-        "id": story_id,
+        "id": _story_id(item),
         "title": item.get("title", ""),
         "summary": summary_sentences,
         "source": item.get("source", ""),
@@ -37,6 +40,21 @@ def build_story(item, summary_sentences):
         "published_at": item.get("published_at"),
         "category": item.get("category", ""),
         "related": item.get("related", []),
+    }
+
+
+def build_briefing(item, brief_text, rank):
+    """One entry of the Top-20 briefing: rank + ultra-concise summary."""
+    return {
+        "id": _story_id(item),
+        "rank": rank,
+        "title": item.get("title", ""),
+        "brief": brief_text,
+        "source": item.get("source", ""),
+        "url": item.get("url", ""),
+        "image": item.get("image") or None,
+        "published_at": item.get("published_at"),
+        "category": item.get("category", ""),
     }
 
 
@@ -70,3 +88,13 @@ def write_all(stories, out_dir, feed_status):
         written.append(path)
 
     return written
+
+
+def write_top20(briefings, out_dir, feed_status):
+    """Write top20.json — the ranked Top-20 briefing. Returns the path."""
+    out_dir.mkdir(parents=True, exist_ok=True)
+    path = out_dir / "top20.json"
+    path.write_text(json.dumps(_envelope(briefings, feed_status),
+                               ensure_ascii=False, indent=1),
+                    encoding="utf-8")
+    return path
