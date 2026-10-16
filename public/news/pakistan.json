@@ -1,0 +1,642 @@
+{
+ "generated_at": "2026-10-16T17:12:07.014434Z",
+ "story_count": 40,
+ "feed_status": {
+  "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
+  "https://www.aljazeera.com/xml/rss/all.xml": "ok",
+  "https://www.theguardian.com/world/rss": "ok",
+  "https://feeds.npr.org/1001/rss.xml": "ok",
+  "https://www.dawn.com/feeds/home": "ok",
+  "https://www.dawn.com/feeds/pakistan": "ok",
+  "https://tribune.com.pk/feed/home": "ok",
+  "https://tribune.com.pk/feed/pakistan": "ok",
+  "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
+  "https://www.theguardian.com/technology/rss": "ok",
+  "https://techcrunch.com/feed/": "ok",
+  "https://hnrss.org/frontpage": "ok",
+  "https://feeds.bbci.co.uk/news/business/rss.xml": "ok",
+  "https://www.theguardian.com/business/rss": "ok",
+  "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml": "ok",
+  "https://www.sciencedaily.com/rss/top/science.xml": "ok",
+  "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
+  "https://www.theguardian.com/sport/rss": "ok",
+  "https://www.espn.com/espn/rss/news": "ok"
+ },
+ "stories": [
+  {
+   "id": "13ad9931af16f7bca5ed87af698e08c45b406d88",
+   "title": "Kohat Police Lines attack mastermind killed in joint operation in KP's Lakki Marwat: CTD",
+   "summary": [
+    "The CTD said in a statement that the slain terrorist, whom the law enforcement department identified as Zahid Gul, was the mastermind of the attack on Kohat Police Lines.",
+    "In the attack on Sept 18, an explosives-laden vehicle detonated near a mosque in Kohat Police Lines, following which terrorists stormed the compound and attacked police facilities.",
+    "According to CTD, the slain terrorist commander had led the explosive-laden vehicle to Kohat Police Lines on Sept 18."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2037616/kohat-police-lines-attack-mastermind-killed-in-joint-operation-in-kps-lakki-marwat-ctd",
+   "image": "https://i.dawn.com/large/2026/10/16214513711fbc4.webp",
+   "published_at": "2026-10-16T16:44:19Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "8ade94115bab4b787c7304a52d78685f5384ea8d",
+   "title": "What does assuming the chairmanship of the IMF, World Bank governing boards mean for Pakistan?",
+   "summary": [
+    "Pakistan has been selected to chair the Boards of Governors of the International Monetary Fund (IMF) and World Bank Group (WBG) in 2027, marking its return to the position after 74 years.",
+    "Pakistan last held the position in 1953, when the finance and economic affairs minister, Mohamad Ali, chaired the eighth annual meetings of the IMF and International Bank for Reconstruction and Development (IBRD) in Washington.",
+    "The bylaws of the IMF and World Bank set out the procedure for selecting a governor to chair their annual meetings."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2037623/what-does-assuming-the-chairmanship-of-the-imf-world-bank-governing-boards-mean-for-pakistan",
+   "image": "https://i.dawn.com/large/2026/10/162130454c964dc.webp",
+   "published_at": "2026-10-16T16:41:36Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "404d3d56d9676c9049ba8e89096c09ff1d7998e9",
+   "title": "'I am a normal human being': Khawaja Asif brushes off online trolling over AI-generated Marilyn Monroe riddle",
+   "summary": [
+    "Defence Minister Khawaja Asif on Friday brushed off online trolls who mocked him for responding to an AI-generated riddle featuring Hollywood icon Marilyn Monroe on the social media platform X.",
+    "Asif reshared the post and pointed out that Monroe was wearing a smartwatch in the image.",
+    "What is non-serious about this?” Asif stressed that though he was the defence minister, he operated his own account “for fun” and asked: “Am I not Khawaja Asif?"
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2037620/i-am-a-normal-human-being-khawaja-asif-brushes-off-online-trolling-over-ai-generated-marilyn-monroe-riddle",
+   "image": "https://i.dawn.com/large/2026/10/16213304d0e1d5f.webp",
+   "published_at": "2026-10-16T16:31:02Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "95c4981071a4fbc773f4c5028c729f63f0f49ac7",
+   "title": "Political party head upset over not being appointed KP governor, claims Naqvi",
+   "summary": [
+    "Intense negotiations between the two sides a week before the imposition of governor’s rule had failed to yield any results while Fazl was cast as the man who could defuse heightening tensions between the Centre and the PTI.",
+    "And after the federal government imposed governor’s rule in KP, Fazl accused the Centre of reneging on its commitments amid his efforts for mediation.",
+    "He alleged governor’s rule was not imposed in Balochistan because the province’s chief minister “praises you”. “In KP, the PTI is in power."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2037611/political-party-head-upset-over-not-being-appointed-kp-governor-claims-naqvi",
+   "image": "https://i.dawn.com/large/2026/10/161935547b14061.webp",
+   "published_at": "2026-10-16T16:11:09Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "8b8d24e20fba7ec6685b00507007e98020a04a4d",
+   "title": "When institutions forget whom they serve",
+   "summary": [
+    "In-page anchors (like href=\"#app\"): scroll both iframe and parent page smoothly d.addEventListener('click', function(e) { var a = e.target.closest && e.target.closest('a[href^=\"#\"]'); if (!a) return; var hash = a.getAttribute('href'); if (!hash || hash === '#') return; var id = decodeURIComponent(hash.slice(1)); var target = d.getElementById(id) || d.querySelector(hash); if (!target) return; e.preventDefault(); target.scrollIntoView({ behavior: 'smooth', block: 'start' }); try { var rect = iframe.getBoundingClientRect(); if (Math.abs(rect.top) > 5) { window.scrollBy({ top: rect.top, behavior: 'smooth' }); } } catch (err) {} }); // 2.",
+    "Desktop Mouse Wheel / Trackpad coordination d.addEventListener('wheel', function(e) { var rect = iframe.getBoundingClientRect(); var iframeScroll = (d.documentElement.scrollTop || d.body.scrollTop || (iframe.contentWindow && iframe.contentWindow.scrollY) || 0); // If parent header is still visible above iframe, scroll the parent page first if (rect.top > 1 && e.deltaY > 0) { window.scrollBy({ top: e.deltaY, behavior: 'auto' }); e.preventDefault(); return; } // If at top of iframe and rolling wheel up, scroll parent page up if (iframeScroll <= 0 && e.deltaY < 0) { window.scrollBy({ top: e.deltaY, behavior: 'auto' }); e.preventDefault(); return; } // If at bottom of iframe and rolling wheel down, scroll parent page down var maxScroll = Math.max(d.body.scrollHeight, d.documentElement.scrollHeight) - (iframe.contentWindow ? iframe.contentWindow.innerHeight : iframe.clientHeight); if (iframeScroll >= maxScroll - 2 && e.deltaY > 0) { window.scrollBy({ top: e.deltaY, behavior: 'auto' }); e.preventDefault(); return; } }, { passive: false }); // 3.",
+    "Mobile touch coordination (smooth, no frame-by-frame jank) var touchStartY = 0; var isInteractive = false; try { d.addEventListener('touchstart', function(e) { if (e.touches && e.touches.length) { touchStartY = e.touches[0].clientY; isInteractive = !!(e.target.closest && e.target.closest('a, button, input, select, textarea, label, [role=\"button\"]')); } }, { passive: true }); d.addEventListener('touchmove', function(e) { if (isInteractive || !e.touches || !e.touches.length) return; var currentY = e.touches[0].clientY; var diffY = touchStartY - currentY; var rect = iframe.getBoundingClientRect(); // If iframe is not at top yet and user swipes to scroll down, smoothly dock it if (rect.top > 15 && diffY > 10) { window.scrollBy({ top: rect.top, behavior: 'smooth' }); e.preventDefault(); return; } var iframeScroll = (d.documentElement.scrollTop || d.body.scrollTop || (iframe.contentWindow && iframe.contentWindow.scrollY) || 0); // If at top of iframe and pulling down if (diffY < -15 && iframeScroll <= 0) { window.scrollBy({ top: -150, behavior: 'smooth' }); return; } // If at bottom of iframe and pushing up var maxScroll = Math.max(d.body.scrollHeight, d.documentElement.scrollHeight) - (iframe.contentWindow ? iframe.contentWindow.innerHeight : iframe.clientHeight); if (diffY > 15 && iframeScroll >= maxScroll - 5) { window.scrollBy({ top: 150, behavior: 'smooth' }); return; } }, { passive: false }); } catch (e) {} } function updateHeight() { try { var d = iframe.contentDocument || iframe.contentWindow.document; if (!d || !d.body) return; var meta = d.querySelector('meta[name=\"embed-height\"]'); if (meta && meta.content) { iframe.style.height = meta.content; iframe.style.overflow = 'auto'; iframe.removeAttribute('scrolling'); setupScrollCoordination(d); return; } if (d.body.style.height && d.body.style.height.indexOf('%') === -1) { iframe.style.height = d.body.style.height; return; } // Reset height so the iframe can shrink if the window got narrower iframe.style.height = minH + 'px'; var h = Math.max( d.body.scrollHeight, d.body.offsetHeight, d.documentElement.scrollHeight, d.documentElement.offsetHeight ); if (h > 0) { iframe.style.height = Math.min(Math.max(h, minH), maxH) + 'px'; } } catch (err) {} } iframe.addEventListener('load', function() { updateHeight(); try { var d = iframe.contentDocument || iframe.contentWindow.document; if (window.ResizeObserver && d && d.body) { new ResizeObserver(updateHeight).observe(d.body); } } catch (e) {} }); // Fallback in case it's already loaded (e.g. bfcache or fast render) if (iframe.contentDocument && iframe.contentDocument.readyState === 'complete') { updateHeight(); try { if (window.ResizeObserver && iframe.contentDocument && iframe.contentDocument.body) { new ResizeObserver(updateHeight).observe(iframe.contentDocument.body); } } catch (e) {} } })(); header { background: #000; } header svg, header img { filter: invert(100%) !important; } .prism, .template__main { background: #FCF6E3 !important; } .template__main { width: 100vw; padding: 0; } .template--hero .template__main { margin-bottom: 0; padding-bottom: 0; } .template__footer, .template__header, .story__title, .story__excerpt, .prism__footer { display: none; }"
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2037558/when-institutions-forget-whom-they-serve",
+   "image": "https://i.dawn.com/large/2026/10/16220358e8f18e3.webp",
+   "published_at": "2026-10-16T15:54:52Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "d973f275db3e5f798c2b9436148ee2052713dda0",
+   "title": "Israeli settlers attack US photographer covering West Bank violence",
+   "summary": [
+    "Israeli settlers on Friday beat an American photojournalist working for The Washington Post while she was covering ongoing violence against Palestinian olive farmers in the occupied West Bank.",
+    "The incident comes 10 days after settlers beat an AFP photographer covering the West Bank olive harvest, Jaafar Ashtiyeh, leaving him also requiring hospital treatment.",
+    "Violence has flared in recent months in the West Bank, with near-daily attacks, thefts or vandalism by Israeli settlers against Palestinians."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2037619/israeli-settlers-attack-us-photographer-covering-west-bank-violence",
+   "image": "https://i.dawn.com/large/2026/10/162048561e5600f.webp",
+   "published_at": "2026-10-16T15:50:30Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "7418bd5834dc1d39001bd193fac19767cb780e33",
+   "title": "Imaan, Hadi walk out of proceedings after objecting to jail trial in security breach case",
+   "summary": [
+    "A day earlier, at the police’s recommendation, citing limitations in transporting the accused to court, the court directed counsels and witnesses to appear at the Adiala jail for the next hearing.",
+    "On Friday, Anti-Terrorism Court (ATC) Judge Tahir Abbas Sipra conducted the hearing inside Adiala jail, where proceedings commenced at 10:55am, according to the defence counsel present inside the makeshift courtroom.",
+    "Imaan and Hadi’s rearrest The lawyer couple has been in jail since their arrest on Jan 23 in a case registered against them for protesting outside the Islamabad High Court and allegedly manhandling the IHC Bar Association president."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2037580/imaan-hadi-walk-out-of-proceedings-after-objecting-to-jail-trial-in-security-breach-case",
+   "image": "https://i.dawn.com/large/2026/10/161434211d922af.webp",
+   "published_at": "2026-10-16T14:13:07Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "81e81a29f7181d75237c0d50881be561ee822140",
+   "title": "Hina Javed murder case: Postmortem, crime scene samples match DNA of victim's domestic worker, husband",
+   "summary": [
+    "RAWALPINDI: Forensic evidence collected from the crime scene in the Hina Javed murder case has matched with the DNA samples of her husband and domestic servant, according to DNA analysis report.",
+    "The report, a copy of which is available with Dawn, concluded that the DNA samples of Hina’s domestic servant matched with postmortem swabs collected from her body.",
+    "Hina’s husband DNA also matched with samples collected from multiple items at the crime scene, according to the report."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2037594/hina-javed-murder-case-postmortem-crime-scene-samples-match-dna-of-victims-domestic-worker-husband",
+   "image": "https://i.dawn.com/large/2026/10/161636130876355.webp",
+   "published_at": "2026-10-16T13:33:44Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "c678b588d466284ad014e60c9f88874c7fc395ef",
+   "title": "Short-term inflation surges to 11.38pc due to costly food",
+   "summary": [
+    "Of the 51 essential items monitored during the week, prices of 23 commodities (45.10pc) increased, while those of seven items (13.72pc) declined, the data showed.",
+    "The index, which comprises 51 items whose prices are collected from 50 markets in 17 cities, is calculated weekly to track changes in the prices of essential commodities and services.",
+    "The items whose prices declined week-on-week included tomatoes (23.05pc), onions (4.90pc), bananas (2.59pc), petrol (0.70pc), rice basmati broken (0.65pc), sugar (0.62pc) and gur (0.36pc)."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2037605/short-term-inflation-surges-to-1138pc-due-to-costly-food",
+   "image": "https://i.dawn.com/large/2026/10/16180522d19a554.webp",
+   "published_at": "2026-10-16T13:18:16Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "368f8485587340e1dfcb120a928b7c3f8adbd17b",
+   "title": "Diplomatic options",
+   "summary": [
+    "AS Saudi Arabia and Yemen’s Houthi movement continue to trade fire, and the US-Iran war is locked in a stalemate, regional states continue to stress the need for a diplomatic solution to the conflicts in both theatres.",
+    "Both Pakistan and Oman have played integral roles in trying to find a negotiated settlement to the US-Iran dispute, while the sultanate is also a key link between the Saudis and the Houthis.",
+    "With regard to the Yemeni conflict, while Pakistan has pledged to stand “shoulder to shoulder” with Saudi Arabia, the prospect of a long war of attrition involving the kingdom and its allies, and the pro-Iran Houthis, is in no one’s interest."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2037510/diplomatic-options",
+   "image": null,
+   "published_at": "2026-10-16T12:59:08Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "41badbbaad191bb194961664ccf0144d5f1ce31c",
+   "title": "Karachi court acquits alleged drug baroness Anmol alias Pinky in two more cases",
+   "summary": [
+    "KARACHI: A sessions court in Karachi on Friday acquitted alleged drug queenpin Anmol alias Pinky in two narcotics cases.",
+    "She appeared before the South additional and sessions judge via a video link at the hearing of her applications today, and the court acquitted her, citing a lack of evidence in both cases.",
+    "In August, a sessions court had acquitted Anmol in three narcotics cases registered at Karachi’s Gizri police station."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2037589/karachi-court-acquits-alleged-drug-baroness-anmol-alias-pinky-in-two-more-cases",
+   "image": "https://i.dawn.com/large/2026/10/16155447790cd79.webp",
+   "published_at": "2026-10-16T12:27:26Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "5c4b6c0e49c912aef0fd54e96432046ce8fab7f5",
+   "title": "PHC to hear PTI chairman’s plea against emergency, governor’s rule in KP on Oct 20",
+   "summary": [
+    "The federal government on October 11 imposed emergency in KP, and placed the province under governor’s rule, taking note of the “provincial government’s deliberate disengagement from the fight against terrorism”.",
+    "The joint petition stated that the proclamation of emergency and governor’s rule was “purely and patently against the mandate of people of Khyber Pakhtunkhwa, hence, liable to be set at naught”.",
+    "TTAP challenges KP emergency, governor rule in PHC Separately, the leaders of the Tehreek-i-Tahafuz-Ayin-i-Pakistan (TTAP) also moved the PHC against the proclamation of emergency and governor’s rule in KP, requesting the court to declare it unconstitutional and illegal."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2037576/phc-to-hear-pti-chairmans-plea-against-emergency-governors-rule-in-kp-on-oct-20",
+   "image": "https://i.dawn.com/large/2026/10/1613490681ea0f1.webp",
+   "published_at": "2026-10-16T12:25:44Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "707d1d7f130cf6ce7354ee81df83ecd64158759e",
+   "title": "Indian police detain 'cockroach' movement founder Dipke ahead of protest",
+   "summary": [
+    "Police detained India’s ‘cockroach’ movement founder Abhijeet Dipke on Friday, live images from his group showed, ahead of a protest called by him in capital Delhi’s central business district, the latest rally to demand the resignation of India’s election chief.",
+    "The group and left-wing student organisations had urged supporters to gather at the Central Park in New Delhi’s busy Connaught Place shopping and food district on Friday evening to wave and hoist the national flag.",
+    "Park closed ahead of protest Authorities closed the central New Delhi park before the protest over the voter-roll revision, which critics say has disenfranchised millions."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2037555/indian-police-detain-cockroach-movement-founder-dipke-ahead-of-protest",
+   "image": "https://i.dawn.com/large/2026/10/161721106eef3ab.webp",
+   "published_at": "2026-10-16T12:22:04Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "c28ae659ce6247f68612cbb6cdc49286bd785ca1",
+   "title": "FO condemns Indian minister’s ‘provocative’ remarks threatening aggression against Pakistan",
+   "summary": [
+    "The Foreign Office (FO) on Friday condemned Indian Defence Minister Rajnath Singh’s “provocative remarks” threatening aggression against Pakistan, saying such statements highlighting the neighbouring country’s “hegemonistic mindset”.",
+    "On Friday, FO spokesperson Sajjad Haider Khan was asked about the comments during his weekly press briefing. “Pakistan rejects and condemns the Indian defence minister’s provocative remarks entailing a threat of Indian aggression against Pakistan.",
+    "Digitisation of attestation services During the press briefing, the FO spokesperson was also asked about the reforms introduced to the ministry’s attestation and apostille services."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2037584/fo-condemns-indian-ministers-provocative-remarks-threatening-aggression-against-pakistan",
+   "image": "https://i.dawn.com/large/2026/10/161457115cda4ff.webp",
+   "published_at": "2026-10-16T11:03:44Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "8a3b5ba1037961b722dd19f782a54a84c7a2035e",
+   "title": "KP Governor Kundi announces amended welfare scheme for police officers, martyrs’ families",
+   "summary": [
+    "The provincial government has increased compensation for the families of martyred police officers and amended the previous plot allotment scheme, opting to pay the families cash in lieu of plots.",
+    "The families of martyred superintendents of police (SP), senior superintendents of police (SSP), assistant inspector general (AIG) and all grade 18 and 19 officers previously received Rs21m in compensation, but under the new scheme, they will receive Rs30m.",
+    "Kundi added that the families of martyred police officers had previously been allotted plots."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2037577/kp-governor-kundi-announces-amended-welfare-scheme-for-police-officers-martyrs-families",
+   "image": "https://i.dawn.com/large/2026/10/161415124bd3ec9.webp",
+   "published_at": "2026-10-16T10:50:29Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "41199cdd13068ca5bcc0971382869b30112ccb01",
+   "title": "Naqvi takes veiled swipe at political party chief over K-P governorship",
+   "summary": [
+    "Interior Minister Mohsin Naqvi on Friday criticised a political party’s chief over his opposition to the imposition of governor’s rule in Khyber-Pakhtunkhwa, saying the politician was “extremely angry” over not being given a role in the move or being offered the governorship.",
+    "Although Naqvi did not name the politician, his remarks appeared to refer to Jamiat Ulema-e-Islam-Fazl (JUI-F) chief Maulana Fazlur Rehman, who has categorically rejected the government’s decision to impose governor’s rule and an emergency in the province.",
+    "Also Read: Fazl didn't set conditions for mediation The remarks came after the federal government imposed an emergency and governor’s rule in K-P on Sunday, dismissing the PTI-led provincial government."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2635240/naqvi-takes-veiled-swipe-at-political-party-chief-over-k-p-governorship",
+   "image": null,
+   "published_at": "2026-10-16T10:25:14Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "02ed1e444995aff25beebd1c87b41c589c9e8b33",
+   "title": "Hasan Raheem submits 'Bewajah' for consideration in two Grammy categories",
+   "summary": [
+    "Singer Hasan Raheem has submitted his song Bewajah for consideration at the 2027 Grammy Awards in two categories: Best Music Video and Best Global Music Performance.",
+    "The singer announced the submission on Instagram through a post shared by the Hasan Raheem Global page, captioned “BEWAJAH | FOR YOUR GRAMMY®️ CONSIDERATION”.",
+    "The post listed both categories, marking a notable moment for Raheem as his music continues to bring the sounds and traditions of his native Gilgit-Baltistan to wider audiences."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2635234/hasan-raheem-submits-bewajah-for-consideration-in-two-grammy-categories",
+   "image": null,
+   "published_at": "2026-10-16T09:49:59Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "7dc4dc9139721ee1a39ce69101af42190c9d3927",
+   "title": "18 countries, including Pakistan, condemn inauguration of Colombian embassy in Jerusalem",
+   "summary": [
+    "Eighteen countries, including Pakistan, on Friday strongly condemned the opening of the Colombian embassy in Jerusalem, stating that any move to recognise the city as Israel’s capital had no legal effect.",
+    "Colombia on Wednesday officially opened its embassy in Jerusalem, joining a small group of countries including the United States in taking the symbolic step of backing Israeli sovereignty in the contested city.",
+    "In May this year, Pakistan, along with 13 other countries, also condemned the “illegal and unacceptable step” of the so-called Somaliland opening a “purported” embassy in occupied Jerusalem, terming it an “infringement on the legal and historical status of Jerusalem”."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2037582/18-countries-including-pakistan-condemn-inauguration-of-colombian-embassy-in-jerusalem",
+   "image": "https://i.dawn.com/large/2026/10/1614430728f87ec.webp",
+   "published_at": "2026-10-16T09:44:32Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "70130cb5d2e2b9a74605a3971c2569e2574675a8",
+   "title": "Al Pacino to receive life achievement award from actors' guild",
+   "summary": [
+    "Celebrated actor Al Pacino will receive a lifetime achievement award for his career achievements and humanitarian work next year, the actors' union SAG-AFTRA announced on ​Thursday.",
+    "The American actor, best known for playing Michael Corleone in The Godfather films is ‌the 62nd recipient of the SAG-AFTRA Life Achievement Award.",
+    "\"I wondered and wandered most of my life but have always felt at home with a script and my fellow actors,\" ​Pacino said in a statement from the actors' union."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2635230/al-pacino-to-receive-life-achievement-award-from-actors-guild",
+   "image": null,
+   "published_at": "2026-10-16T09:30:14Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "316b5d530180e26699e6107012bfb69b2060997a",
+   "title": "Elon Musk unveils Tesla's 'flying' car",
+   "summary": [
+    "Tesla CEO Elon Musk unveiled what he described as a “flying” car, equipped with thrusters, during a livestreamed event at his SpaceX rocket company’s facility on Thursday.",
+    "Musk revealed his new Roadster sports car during a launch event at a SpaceX test facility in Texas.",
+    "During the demo, which was livestreamed on Tesla’s X account, the car launched from a steep ramp and landed on its wheels. “Flying cars are real,” Musk said during the event."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2037579/elon-musk-unveils-teslas-flying-car",
+   "image": "https://i.dawn.com/large/2026/10/16141750e14f3f6.webp",
+   "published_at": "2026-10-16T09:27:30Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "2c612f5aac916e2bfa773c874412ea7eb830515c",
+   "title": "Tesla's new Roadster turns in air with SpaceX thrusters, won't land until 2028",
+   "summary": [
+    "Elon Musk showcases a Tesla Roadster demonstration featuring a \"kickflip\" through the air over other vehicles in Texas, leaving the crowd in awe as he teases a not-so-distant future where cars could do more than just drive.",
+    "The reveal gives Tesla a showpiece car after years of missed Roadster deadlines, but it comes as the company shifts its focus ​to self-driving technology and robotics, and days before third-quarter results that analysts say matter more to investors.",
+    "\"The Roadster event is the latest example of why Elon can't wait to bring (Tesla) ​and (SpaceX) together,\" Munster said."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2635229/teslas-new-roadster-turns-in-air-with-spacex-thrusters-wont-land-until-2028",
+   "image": null,
+   "published_at": "2026-10-16T09:23:30Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "932267d429cc8b612a5d170bdb7605a76f4a6c63",
+   "title": "Zoya Nasir says divorce is not an easy decision, stresses need for healing",
+   "summary": [
+    "Actor Zoya Nasir has weighed in on the debate surrounding veteran actor Saba Faisal’s remarks about divorce, stressing that ending a marriage is far from an easy decision for a woman and that the emotional toll of separation should not be overlooked.",
+    "Speaking in an interview, Nasir highlighted the heartbreak, difficult choices and healing that can follow the end of a marriage.",
+    "Nasir had previously expressed strong reservations about the narrative surrounding divorce, describing it as a “dangerous and twisted narrative” in response to Faisal’s remarks."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2635228/zoya-nasir-says-divorce-is-not-an-easy-decision-stresses-need-for-healing",
+   "image": null,
+   "published_at": "2026-10-16T09:20:42Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "2c4efc8d29aa0e8f57fe96cd27d09b84ce02d9cd",
+   "title": "Families of children killed in Peshawar school roof collapse demand justice",
+   "summary": [
+    "The families of children killed in a roof collapse at a school in Peshawar called for \"justice\" on Friday, the day after more than 30 pupils and a teacher were crushed to death.",
+    "Read: At least 30 children, teacher killed as school roof collapses in Peshawar \"I appeal to our rulers,\" he said, adding that Hammad had been \"doing well in school\" before the tragedy.",
+    "My heart is with the families grieving the loss of their children and a teacher in the tragic roof collapse at a school in Peshawar."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2635227/families-of-children-killed-in-peshawar-school-roof-collapse-demand-justice",
+   "image": null,
+   "published_at": "2026-10-16T09:20:15Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "07361bee6b3453e60ced971c75439793ae77ee36",
+   "title": "Pakistan to assume IMF, World Bank board chairmanship for first time in over 7 decades",
+   "summary": [
+    "Pakistan has been named the incoming chair of the Boards of Governors of the International Monetary Fund (IMF) and the World Bank Group (WBG) for next year, for the first time since 1953, the Ministry of Economic Affairs said on Friday.",
+    "Federal Minister for Economic Affairs Ahad Khan Cheema, who is also Pakistan’s governor to the World Bank, was formally announced as the incoming chair during the plenary session of the 2026 WBG-IMF Annual Meetings in Bangkok, according to the ministry’s statement.",
+    "He reaffirmed Pakistan’s resolve to work closely with the WBG, IMF and member countries to foster constructive dialogue and contribute to a more responsive multilateral development and financial system, the ministry added."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2037553/pakistan-to-assume-imf-world-bank-board-chairmanship-for-first-time-in-over-7-decades",
+   "image": "https://i.dawn.com/large/2026/10/16133656b38ac29.webp",
+   "published_at": "2026-10-16T08:28:35Z",
+   "category": "pakistan",
+   "related": [
+    {
+     "source": "Express Tribune",
+     "url": "https://tribune.com.pk/story/2635184/pakistan-to-chair-imf-world-bank-boards-in-2027-for-first-time-since-1953"
+    }
+   ]
+  },
+  {
+   "id": "29847dee7b03eb21a8e73b94e710551963ba4c84",
+   "title": "Trump administration reopened citizenship probe into Rep Ilhan Omar: report",
+   "summary": [
+    "The Trump administration has reopened an investigation into US Republican Ilhan Omar’s citizenship, seven years after federal officials examined similar allegations and found insufficient evidence of wrongdoing, The Washington Post reported on Thursday.",
+    "A 2019 review by Trump administration immigration officials found insufficient evidence of wrongdoing by Democratic Rep. Ilhan Omar, including questions about her citizenship, birth date and her father's background.",
+    "Asked about Omar this week, Trump denied directing the investigation. “I think she’s a terrible person,” he told reporters. “But that’s really up to the DOJ (Justice Department)."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2635221/trump-administration-reopened-citizenship-probe-into-rep-ilhan-omar-report",
+   "image": null,
+   "published_at": "2026-10-16T08:23:49Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "3472f6d877ecbc2c7d6be3479e411ae5a76caa5b",
+   "title": "‘Pakistan should go with balanced squad in tri-series’",
+   "summary": [
+    "They are the two in-form batsmen and needed to be there,” Sadiq said. “Pakistan should build its batting lineup around Fakhar Zaman, Babar Azam and Hasan Nawaz, supported by a wicket-keeper batsman and the necessary all-rounders.",
+    "He said that at least one established batsman should remain at the crease until the final over to help Pakistan finish strongly, “Whether batting first or chasing the objective should be to bat through all 50 overs and maximise the final total.",
+    "However, he must make sure to play the last ball of the innings,\" Sadiq said."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2635220/pakistan-should-go-with-balanced-squad-in-tri-series",
+   "image": null,
+   "published_at": "2026-10-16T08:05:28Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "86534fbb28c03e5c485c1b9632f5702a6413740b",
+   "title": "Trump's new press secretary admits failing bar exam",
+   "summary": [
+    "New White House Press Secretary Katie Zacharia acknowledged on Thursday that she had failed the bar exam, a prerequisite for practising law in the United States, as her credentials face scrutiny.",
+    "In a separate interview with conservative media outlet Real America's Voice on Thursday, Zacharia said she had registered to take the bar exam but was \"distracted and overwhelmed\" by plans to move to China with her husband.",
+    "Hannity later asked Zacharia if she had ever taken the bar exam a second time, to which she said: \"I did not.\" Katie Zacharia says she never retook the bar exam, but maintains she had a legitimate basis for calling herself a lawyer during television appearances."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2635219/trumps-new-press-secretary-admits-failing-bar-exam",
+   "image": null,
+   "published_at": "2026-10-16T08:01:18Z",
+   "category": "pakistan",
+   "related": [
+    {
+     "source": "Dawn",
+     "url": "https://www.dawn.com/news/2037596/trumps-new-press-secretary-admits-to-failing-bar-exam-as-her-credentials-face-scrutiny"
+    }
+   ]
+  },
+  {
+   "id": "14cc51858785f290735a749b8088acb8aec4236a",
+   "title": "Karachi court acquits cocaine queen 'Pinky' in two drug cases",
+   "summary": [
+    "A district and sessions court in Karachi on Friday acquitted Anmol alias Pinky in two drug-related cases registered by the Counter-Terrorism Department (CTD) and Gizri police, citing a lack of evidence.",
+    "Read: Karachi court acquits drug queenpin 'Pinky' in three cases A case was registered against Anmol at the CTD police station in 2018.",
+    "A total of 22 cases related to alleged drug peddling and other offences have been registered against Pinky at various police stations across Karachi."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2635215/karachi-court-acquits-cocaine-queen-pinky-in-two-drug-cases",
+   "image": null,
+   "published_at": "2026-10-16T07:51:59Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "a0ca25295a9d6e9e3d16e70d72c7f31f0195ed77",
+   "title": "Rogue AI agents broke into Indian firms' live systems, government says",
+   "summary": [
+    "AI models under test broke into Indian organisations' live systems and read confidential records undetected, India's ​cybersecurity agency said, the country's first such official ‌account after similar incidents of rogue AI behavior worldwide.",
+    "AI model providers had voluntarily disclosed that their agents \"exceeded the authorisation of their assigned tasks\" ​during test runs to access Indian firms' data, including ​business records, the Indian Computer Emergency Response Team (CERT-In) said ⁠late on Thursday.",
+    "Read: Global financial watchdog calls for more human oversight of agentic AI None of the affected Indian entities detected the intrusions themselves, and in every case it was the AI companies that flagged the incidents, CERT-In ​said."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2635213/rogue-ai-agents-broke-into-indian-firms-live-systems-government-says",
+   "image": null,
+   "published_at": "2026-10-16T07:30:34Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "5379cbdb5f260e33396ae85d9eee2a6896bdb375",
+   "title": "Iran ships some LPG, jet fuel despite US blockade, data shows",
+   "summary": [
+    "Iran has managed to export some liquefied petroleum gas and jet fuel since July, despite a US naval blockade, shipping intelligence showed, and people involved in security said.",
+    "Analysis by US advocacy group United Against Nuclear Iran (UANI), which monitors Iran-related tanker traffic using ship and satellite tracking, shows at least eight gas tankers carrying Iranian LPG have left the Gulf of Oman since mid-July.",
+    "Shelley said some Iranian LPG tankers transferred cargoes near the Omani coastal towns ​of Shinas and Sohar, while others waited in the Gulf of Oman before heading past the US blockade, which US Central Command has said sits across the Gulf of Oman near the Iran-Pakistan border."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2635212/iran-ships-some-lpg-jet-fuel-despite-us-blockade-data-shows",
+   "image": null,
+   "published_at": "2026-10-16T07:08:25Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "d61ae07cc519c902c369bcef915bd4f263091c36",
+   "title": "Major hurricane Trudy keeps strengthening as it nears Mexico's Pacific coast",
+   "summary": [
+    "Hurricane Trudy rapidly intensified into a major hurricane on Friday morning, carrying ​maximum sustained winds near 120 mph (195 kph) and ​higher gusts, as it moves closer to Mexico's Pacific ⁠coast.",
+    "Additional strengthening is still forecast before Trudy is expected ​to approach the Mexican coast on Saturday as a life-threatening ​major hurricane, the US-based National Hurricane Centre said.",
+    "Read: Little damage as Hurricane Polo sweeps over Mexico's Pacific coast The hurricane will strike Mexico's Pacific coast, a region that has already been battered in recent weeks ​by storms ​that left several ⁠dead and caused severe flooding."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2635211/major-hurricane-trudy-keeps-strengthening-as-it-nears-mexicos-pacific-coast",
+   "image": null,
+   "published_at": "2026-10-16T07:08:22Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "ad9685f821492ce753fcf4386057b05b29953acf",
+   "title": "Sanaullah links reversal of K-P governor's rule to PTI support for counterterrorism efforts",
+   "summary": [
+    "Speaking to a private news channel, Sanaullah said the government wanted all political parties to reach a consensus on counterterrorism, arguing that growing security challenges required a unified response from the federal and provincial governments.",
+    "Responding to questions about why the government was pursuing negotiations despite parliament’s ratification of the emergency measures and governor’s rule, Sanaullah said the administration continued to seek consensus among political parties on matters of national security.",
+    "Sanaullah contrasted the current government’s engagement with the opposition with the tenure of former prime minister Imran Khan, claiming that the PTI founder had not contacted the then opposition leader during his four years in power."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2635209/sanaullah-links-reversal-of-k-p-governors-rule-if-pti-supports-counterterrorism-efforts",
+   "image": null,
+   "published_at": "2026-10-16T06:50:23Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "64c0dbcb61424fb4f346d7dae4bf07a1443fe9fb",
+   "title": "DPM Dar reviews essential commodity stocks, prices at cabinet committee meeting",
+   "summary": [
+    "Dar directed the relevant departments to monitor supply chains and commodity prices to facilitate domestic consumers, in line with Prime Minister Shehbaz Sharif’s directives.",
+    "Pakistan’s short-term inflation rose to 11.97 per cent year-on-year in the week ending Oct 8, driven largely by higher food prices, particularly wheat flour, according to official data released by the Pakistan Bureau of Statistics.",
+    "On Oct 7, Sindh Chief Minister Syed Murad Ali Shah approved the release of government wheat at Rs12,500 per 100kg bag from Oct 15, aimed at stabilising skyrocketing flour prices and ensuring availability of the commodity in the province."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2037554/dpm-dar-reviews-essential-commodity-stocks-prices-at-cabinet-committee-meeting",
+   "image": "https://i.dawn.com/large/2026/10/1611243244df41b.webp",
+   "published_at": "2026-10-16T06:44:59Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "559908dea45ea241eb57decbc3db8d50c63021bf",
+   "title": "Google boosts news and link visibility in AI mode",
+   "summary": [
+    "Google announced on Thursday that it will start displaying links to websites and articles more prominently and higher up in search results powered by artificial intelligence (AI), as brands and news publishers warn of a sharp decline in their traffic.",
+    "In May 2024, it launched AI Overviews, where Google generates summarised answers to search queries, rather than only showing links as it historically did.",
+    "Now, contextual links will be featured more “more frequently” and higher up in AI-generated search content."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2037556/google-boosts-news-and-link-visibility-in-ai-mode",
+   "image": "https://i.dawn.com/large/2026/10/16112846c6e06ac.webp",
+   "published_at": "2026-10-16T06:34:41Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "794f0fabfe82de98c69afbdf7865dcb5efc4038c",
+   "title": "Smith targets batting depth for World Cup",
+   "summary": [
+    "Pakistan’s South African batting coach Michael Smith wants the country's batsmen to develop greater adaptability and depth as the team begins a year-long build-up to the 2027 ICC Men's Cricket World Cup in South Africa, Zimbabwe and Namibia.",
+    "Pakistan's preparations will include an extensive programme of One-Day International cricket at home and abroad, with the upcoming ODI tri-nation series providing an opportunity to assess batting options and prepare for varying playing conditions.",
+    "Smith said Pakistan needed sufficient depth across all batting positions rather than relying on a small group of established players. “We don't want to be a team that relies on two or three players."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2635206/smith-eyes-batting-depth-for-world-cup",
+   "image": null,
+   "published_at": "2026-10-16T06:24:31Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "4ab689d4c59f06cf569da88f00cdd5cf489bbbbf",
+   "title": "Barcelona face Betis challenge",
+   "summary": [
+    "The teenage winger was at his mesmerising best as Barcelona waltzed to a 4-1 win at Galatasaray in the Champions League on Tuesday, to make it 10 victories from 10 matches this season across all competitions.",
+    "\"It came off well to set up Gordon, that's the main thing, that it was effective at the end of the day.\" Yamal had a moment of luck when the ball bounced off the defender back to him but showed excellent reflexes and speed to keep it in and find the former Newcastle winger.",
+    "\"In the second half he was fantastic, how he dominated the game, the (final ball)... it's unbelievable what he's doing.\" Yamal has eight goals and nine assists in 10 games for Barcelona this season."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2635204/barcelona-face-betis-challenge",
+   "image": null,
+   "published_at": "2026-10-16T06:08:51Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "272fabe816ab65649c6459ec13bfe28c90cbbcf5",
+   "title": "K-P raises compensation for martyred police personnel to up to Rs35m",
+   "summary": [
+    "The families of martyred superintendents of police (SPs), senior superintendents of police (SSPs), assistant inspectors-general and officers in grades 18 and 19 would receive Rs30 million, compared with the previous Rs21 million.",
+    "For the families of deputy inspectors-general (DIGs), additional inspectors-general, the inspector-general of police and officers in grade 20 and above, compensation had increased from Rs21 million to Rs35 million.",
+    "He said the government was preparing a broader welfare package to increase police salaries and compensation for officers killed or injured on duty, alongside financial assistance for housing, education and other needs of bereaved families."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2635203/k-p-raises-compensation-for-martyred-police-personnel-to-up-to-rs35m",
+   "image": null,
+   "published_at": "2026-10-16T06:04:49Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "758ebd59b86897d5673525e40ba2069278b2ce4e",
+   "title": "Southgate does not forsee a return to management",
+   "summary": [
+    "Former England manager Gareth Southgate has said he does not forsee a return to coaching after his \"desire to be involved in football\" has changed.",
+    "So, I've hardly watched football.\" Southgate added he has not even visited a football stadium since going to see his first club Crystal Palace win the FA Cup final in May 2025.",
+    "So my sort of desire to be involved in football has changed.\" English football has been rocked in recent weeks by Manchester City's guilty verdict on over 100 charges of breaking Premier League rules."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2635202/southgate-does-not-forsee-a-return-to-management",
+   "image": null,
+   "published_at": "2026-10-16T06:00:33Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "0cde0cbbf11d0dca34788692d5b7f5cbc66628f2",
+   "title": "PM reaffirms Pakistan’s support for Saudi Arabia amid Houthi attacks in meeting with newly appointed envoy",
+   "summary": [
+    "The newly appointed Ambassador of the Kingdom of Saudi Arabia to Pakistan, H.E.",
+    "Significance of the Makkah Joint Defence Agreement The MJDA was the latest step in longstanding military and strategic cooperation between Pakistan, Saudi Arabia and Turkiye.",
+    "For Pakistan and Saudi Arabia, the trilateral pact is built on their Strategic Mutual Defence Agreement signed in September 2025."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2635195/pm-reaffirms-pakistans-support-for-saudi-arabia-amid-houthi-attacks-in-meeting-with-newly-appointed",
+   "image": null,
+   "published_at": "2026-10-16T05:02:03Z",
+   "category": "pakistan",
+   "related": [
+    {
+     "source": "Dawn",
+     "url": "https://www.dawn.com/news/2037578/pm-shehbaz-reaffirms-support-for-saudi-arabia-in-meeting-with-new-envoy"
+    }
+   ]
+  },
+  {
+   "id": "6acd9ce6296afe89b6db217bc9635aa3bc36411c",
+   "title": "Shooter kills four at Oregon elementary school before being shot dead by community member",
+   "summary": [
+    "A 16-year-old shooter opened fire on Thursday at an elementary school in Bend, Oregon, killing four people including three children, before being killed by an armed member of the community who had pursued the assailant into the school, police said.",
+    "The shooter entered Silver Rail Elementary School by firing through locked doors, police said, without offering any details beyond the suspect’s age.",
+    "Krantz said the community member, whom he did not identify, saw the suspect enter the school and pursued him."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2037546/shooter-kills-four-at-oregon-elementary-school-before-being-shot-dead-by-community-member",
+   "image": "https://i.dawn.com/large/2026/10/16094630baaf6cd.webp",
+   "published_at": "2026-10-16T04:50:22Z",
+   "category": "pakistan",
+   "related": []
+  }
+ ]
+}

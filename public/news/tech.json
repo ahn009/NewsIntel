@@ -1,0 +1,560 @@
+{
+ "generated_at": "2026-10-16T17:12:07.016758Z",
+ "story_count": 40,
+ "feed_status": {
+  "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
+  "https://www.aljazeera.com/xml/rss/all.xml": "ok",
+  "https://www.theguardian.com/world/rss": "ok",
+  "https://feeds.npr.org/1001/rss.xml": "ok",
+  "https://www.dawn.com/feeds/home": "ok",
+  "https://www.dawn.com/feeds/pakistan": "ok",
+  "https://tribune.com.pk/feed/home": "ok",
+  "https://tribune.com.pk/feed/pakistan": "ok",
+  "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
+  "https://www.theguardian.com/technology/rss": "ok",
+  "https://techcrunch.com/feed/": "ok",
+  "https://hnrss.org/frontpage": "ok",
+  "https://feeds.bbci.co.uk/news/business/rss.xml": "ok",
+  "https://www.theguardian.com/business/rss": "ok",
+  "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml": "ok",
+  "https://www.sciencedaily.com/rss/top/science.xml": "ok",
+  "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
+  "https://www.theguardian.com/sport/rss": "ok",
+  "https://www.espn.com/espn/rss/news": "ok"
+ },
+ "stories": [
+  {
+   "id": "ba113afb5a031fa9813cd9760972cdffb2475ba3",
+   "title": "/dev/null: social network for developers",
+   "summary": [
+    "Article URL: https://dev-null.sh Comments URL: https://news.ycombinator.com/item?id=50121004 Points: 14 # Comments: 4"
+   ],
+   "source": "Hacker News",
+   "url": "https://dev-null.sh",
+   "image": null,
+   "published_at": "2026-10-16T16:57:49Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "648d19456d9053e9f5e81344d444bce08d000ab3",
+   "title": "Desire to Move Permanently to U.S. at New Low",
+   "summary": [
+    "Article URL: https://news.gallup.com/poll/708614/desire-migrate-drops-new-low.aspx Comments URL: https://news.ycombinator.com/item?id=50120664 Points: 36 # Comments: 11"
+   ],
+   "source": "Hacker News",
+   "url": "https://news.gallup.com/poll/708614/desire-migrate-drops-new-low.aspx",
+   "image": null,
+   "published_at": "2026-10-16T16:38:02Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "84c2c565c396ae83e605db987f544eac54cf869f",
+   "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+   "summary": [
+    "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt.",
+    "This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]"
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+   "image": null,
+   "published_at": "2026-10-16T16:30:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ff9286355f7e922bd06d600c6a56bd36af2191f0",
+   "title": "JPEG XL vs. AVIF for web use-cases",
+   "summary": [
+    "Article URL: https://jakearchibald.com/2026/jpeg-xl-vs-avif/ Comments URL: https://news.ycombinator.com/item?id=50120224 Points: 27 # Comments: 6"
+   ],
+   "source": "Hacker News",
+   "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+   "image": null,
+   "published_at": "2026-10-16T16:12:02Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "6bb605f3ee09f7c9ae8842241278855879c107cc",
+   "title": "Waymo’s robotaxis are headed to Canada",
+   "summary": [
+    "The company will start off by testing its self-driving vehicles on Toronto's streets."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
+   "image": null,
+   "published_at": "2026-10-16T16:06:38Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "166c4024558155443b226795e499d4daddc800eb",
+   "title": "US Rep Announces Congressional Legislation to Protect Video Game Ownership",
+   "summary": [
+    "Article URL: https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games Comments URL: https://news.ycombinator.com/item?id=50120101 Points: 46 # Comments: 24"
+   ],
+   "source": "Hacker News",
+   "url": "https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games",
+   "image": null,
+   "published_at": "2026-10-16T16:03:02Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "1aa8b1ac1c09583d0f9dc1bcc6747aa7814875dd",
+   "title": "Elorian’s first AI model wants to reason with images, not just about them",
+   "summary": [
+    "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+   "image": null,
+   "published_at": "2026-10-16T16:01:37Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "1b81886e2962328dbb0ccf51decf993c3224d595",
+   "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
+   "summary": [
+    "Tressfecta builds products for textured hair.",
+    "Its first project is a tool called Plait Pilot that helps braiders with the initial process of separating hair from packs before braiding begins."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
+   "image": null,
+   "published_at": "2026-10-16T16:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "2018da0d05f2bd7732a7a50cea4346ff2ac40358",
+   "title": "In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder",
+   "summary": [
+    "Nathan Fielder's documentary about disgraced Theranos CEO Elizabeth Holmes has created a constellation of colliding personas that interrogate the very nature of authenticity."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/",
+   "image": null,
+   "published_at": "2026-10-16T16:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a54e106d21481ffa3a029e6a20d8ef2ca8eee793",
+   "title": "America's Wumao: Inside Polymarket's Paid Quote-Retweet Esports Program",
+   "summary": [
+    "Article URL: https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation Comments URL: https://news.ycombinator.com/item?id=50120010 Points: 47 # Comments: 23"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation",
+   "image": null,
+   "published_at": "2026-10-16T15:56:25Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "e4018d8e9eb4c3e62dd1294356757ccd0b812eed",
+   "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+   "summary": [
+    "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 32 # Comments: 4"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+   "image": null,
+   "published_at": "2026-10-16T15:55:40Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "dd2c02478c5f272a2bef25e37e6ebf01e382494d",
+   "title": "Show HN: OneDeploy – Managed open-source apps with nightly backups and TLS",
+   "summary": [
+    "Article URL: https://onedeploy.co Comments URL: https://news.ycombinator.com/item?id=50119752 Points: 15 # Comments: 7"
+   ],
+   "source": "Hacker News",
+   "url": "https://onedeploy.co",
+   "image": null,
+   "published_at": "2026-10-16T15:38:35Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "801983bc03d59ab52ba15a98cdbb27ea0cf641a1",
+   "title": "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",
+   "summary": [
+    "Article URL: https://adepts.of0x.cc/eufy-homestation2-firmware/ Comments URL: https://news.ycombinator.com/item?id=50119751 Points: 4 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://adepts.of0x.cc/eufy-homestation2-firmware/",
+   "image": null,
+   "published_at": "2026-10-16T15:38:28Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "3514787761594313f590f9bb7a0ba8a795ec195d",
+   "title": "Jev is Vercel’s fastest-adopted AI model ever",
+   "summary": [
+    "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+   "image": null,
+   "published_at": "2026-10-16T15:33:49Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "8ad66af0874ebc5a07cafcb25eaca091d38877d1",
+   "title": "Russian man linked to deadly London hospitals hack arrested",
+   "summary": [
+    "The 28-year-old detained by German police is accused of being part of the cyber-crime gang that hacked blood-test firm Synnovis in 2024."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c9vgr61kml3mo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-16T15:31:33Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "e083958888c9d24605ed92a68b2e3d113a6677eb",
+   "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+   "summary": [
+    "Article URL: https://calif.io/research/big-fish Comments URL: https://news.ycombinator.com/item?id=50118977 Points: 81 # Comments: 14"
+   ],
+   "source": "Hacker News",
+   "url": "https://calif.io/research/big-fish",
+   "image": null,
+   "published_at": "2026-10-16T14:44:02Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "40223f2d740880d1d2efb9faa4861a2c8f1fb566",
+   "title": "Show HN: rStation – A shared research lab for your AI agents",
+   "summary": [
+    "Article URL: https://rstation.ai/ Comments URL: https://news.ycombinator.com/item?id=50118876 Points: 20 # Comments: 13"
+   ],
+   "source": "Hacker News",
+   "url": "https://rstation.ai/",
+   "image": null,
+   "published_at": "2026-10-16T14:35:43Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "de3d82224bc1f3f28f01c97550b8a35e7ad91332",
+   "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+   "summary": [
+    "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\""
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+   "image": null,
+   "published_at": "2026-10-16T14:26:51Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "3d3011b3b2f663f46f2b7f57f71e6f8ca911b550",
+   "title": "Show HN: Gemini 4 Argon plays StarCraft",
+   "summary": [
+    "I've refreshed StarSkirmish Bench, a benchmark where LLMs play StarCraft BW by writing code, with results from the flagship models of OpenAI, Anthropic, Google, and Muse Comments URL: https://news.ycombinator.com/item?id=50118688 Points: 70 # Comments: 42"
+   ],
+   "source": "Hacker News",
+   "url": "https://starskirmish.com/bench/v0-2/",
+   "image": null,
+   "published_at": "2026-10-16T14:18:44Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "192b815aaef74bfd661b97d66ef8dc2502f947aa",
+   "title": "How to make System 1 LLMs show System 2 competencies?",
+   "summary": [
+    "Article URL: https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113 Comments URL: https://news.ycombinator.com/item?id=50118662 Points: 19 # Comments: 11"
+   ],
+   "source": "Hacker News",
+   "url": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113",
+   "image": null,
+   "published_at": "2026-10-16T14:16:34Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "cdeafa8476fb992af3812232d98837527210f5c7",
+   "title": "How to Formalize All of Mathematics",
+   "summary": [
+    "Article URL: https://xenaproject.wordpress.com/2026/10/16/how-to-formalize-all-of-mathematics/ Comments URL: https://news.ycombinator.com/item?id=50118512 Points: 46 # Comments: 42"
+   ],
+   "source": "Hacker News",
+   "url": "https://xenaproject.wordpress.com/2026/10/16/how-to-formalize-all-of-mathematics/",
+   "image": null,
+   "published_at": "2026-10-16T14:01:53Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "311fa86942b350f533df27234a467ccf7f820663",
+   "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+   "summary": [
+    "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items.",
+    "A startup called Veritas wants to tackle the problem with its own chip that verifies goods."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+   "image": null,
+   "published_at": "2026-10-16T14:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "98e6a11f87f3c75ff09f029c60c62757139be47d",
+   "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+   "summary": [
+    "Article URL: https://machinelearning.apple.com/research/mlx-distributed-inference Comments URL: https://news.ycombinator.com/item?id=50118320 Points: 116 # Comments: 56"
+   ],
+   "source": "Hacker News",
+   "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+   "image": null,
+   "published_at": "2026-10-16T13:43:48Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "3fb145befc7ccf3b92598830e786737958f4360a",
+   "title": "What was a Token Ring network?",
+   "summary": [
+    "Article URL: https://dfarq.homeip.net/what-was-a-token-ring-network/ Comments URL: https://news.ycombinator.com/item?id=50118318 Points: 30 # Comments: 23"
+   ],
+   "source": "Hacker News",
+   "url": "https://dfarq.homeip.net/what-was-a-token-ring-network/",
+   "image": null,
+   "published_at": "2026-10-16T13:43:30Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ec45a17024eea24dc5a366b354b17f2113c75349",
+   "title": "RFC8950: Announce IPv4 with an IPv6 next-hop",
+   "summary": [
+    "Article URL: https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/ Comments URL: https://news.ycombinator.com/item?id=50118267 Points: 44 # Comments: 16"
+   ],
+   "source": "Hacker News",
+   "url": "https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/",
+   "image": null,
+   "published_at": "2026-10-16T13:38:25Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "9303018b8114682ccbc3c77ccb337cc114de8780",
+   "title": "The ultra-rich are spending one million dollars a day fighting California’s proposed billionaire tax",
+   "summary": [
+    "Tech billionaires have raised more than $340m to defeat Prop 40, a one-time 5% wealth tax that will fund healthcare and educationTech billionaires have been dumping hundreds of millions of dollars into the fight against a wealth tax in California.",
+    "They’ve raised more than $340m, and the campaign they’re funding is spending more than $1m a day to defeat the measure, according to state financial disclosures.With the election less than a month away, those funds are being spent at a stepped-up pace.",
+    "During the first 19 days of September, according to the most recent campaign filings, the opposition campaign plowed through at least $21.2m to fight the billionaire tax – surpassing $1m per day."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/16/billionaires-fight-california-prop-40",
+   "image": "https://i.guim.co.uk/img/media/278e5483c063fe17b8fe2273a6c7632a5f987ec9/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=fe7eec8884c4aeed0db87998d0eb199a",
+   "published_at": "2026-10-16T13:00:11Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "e6b0c9baa36621444fe3ffa8f5e7e734568319d6",
+   "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+   "summary": [
+    "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+   "image": null,
+   "published_at": "2026-10-16T12:55:09Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "845232958184b6b870202a2d8ffa78f48d60e7cd",
+   "title": "I Love Software Rendering",
+   "summary": [
+    "Article URL: https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/ Comments URL: https://news.ycombinator.com/item?id=50117746 Points: 198 # Comments: 144"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+   "image": null,
+   "published_at": "2026-10-16T12:52:08Z",
+   "category": "tech",
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://www.worksinprogress.news/p/porcelain"
+    }
+   ]
+  },
+  {
+   "id": "b6c6aeeaecd6abae349d41c1a1e56c49758046bd",
+   "title": "Bark: The Toll-Free BBS for 90s Teens",
+   "summary": [
+    "Article URL: https://blog.bityard.net/articles/2026/October/bark-the-toll-free-bbs-for-90s-teens Comments URL: https://news.ycombinator.com/item?id=50117504 Points: 30 # Comments: 9"
+   ],
+   "source": "Hacker News",
+   "url": "https://blog.bityard.net/articles/2026/October/bark-the-toll-free-bbs-for-90s-teens",
+   "image": null,
+   "published_at": "2026-10-16T12:22:13Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "1fae0ae289e80d950e91d86bdc524600cd14e95b",
+   "title": "How to dress a tech oligarch: The Social Reckoning’s costume designer on Zuckerberg’s style evolution",
+   "summary": [
+    "This is “post-hoodie”, as the movie’s costume designer, Susan Lyall, describes it, “post-thumbing his nose” to formality.",
+    "Zuckerberg’s reserved wardrobe of suits or interchangeable long-sleeved shirts echo his chilling composure throughout, even as fury simmers under the surface."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/fashion/2026/oct/16/social-reckoning-zuckerberg-fashion-costume-design",
+   "image": "https://i.guim.co.uk/img/media/5f77be0b14a2f3a0c3b168ce5bdcf5ed989dcc51/610_75_1532_1227/master/1532.jpg?width=140&quality=85&auto=format&fit=max&s=de76213c5ccd85dc05e8c7ad0ab7ae76",
+   "published_at": "2026-10-16T12:00:10Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "8166bdb08fd4fae8e0406b73496a8d4bb23e424f",
+   "title": "Elon Musk reveals ‘world’s first flying car’ at Tesla event",
+   "summary": [
+    "The Tesla Roadster 2 drove up a curved ramp before using SpaceX rocket thrusters to fly, flip and landElon Musk has revealed Tesla’s latest model, which he claims will be the world’s first flying car, using technology from his aerospace company SpaceX to “basically fly like a rocket”.The billionaire, who hosted a demonstration of the Tesla Roadster 2 at the SpaceX rocket development and testing facility in Texas, said the sports car could go from 0 to 60mph in a record time of less than a second and had thrusters."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/oct/16/elon-musk-reveals-worlds-first-flying-car-spacex",
+   "image": "https://i.guim.co.uk/img/media/667c1429bf75b3b0a29168c236f2ebc4611413bd/266_0_2649_2119/master/2649.jpg?width=140&quality=85&auto=format&fit=max&s=6e238831dabf8bacccc5a84e683ffe42",
+   "published_at": "2026-10-16T11:53:04Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "7808f42e12c7dcc7f7f007795c4279256c8a9e62",
+   "title": "‘We should all be worried’: calls grow to limit London rollout of robotaxis",
+   "summary": [
+    "But I thought it would come with a solution for us.” Continue reading..."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/16/london-driverless-robotaxis-uber-drivers-wayve-tfl-licences",
+   "image": "https://i.guim.co.uk/img/media/f6c7f7fa456c9d2d24c7290211be395c992289b7/0_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=5ad4718969e0b4b4d4129966f37d967b",
+   "published_at": "2026-10-16T11:00:46Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "8be9bbb5e9ac7775377f2d0d0468e70a56e99ffd",
+   "title": "Penguin Colony review – an Antarctic odyssey of Nazis and Lovecraftian horrors",
+   "summary": [
+    "PC; Origame DigitalThis odd but absorbing adventure sends you waddling across Antarctica in search of an eldritch entity – uncovering a world far stranger than it first appearsA Nazi kneels down on frozen snow, staring at an endless Antarctic horizon.",
+    "I direct a small waddling penguin up to them, trying to imagine what it could be thinking.",
+    "But Penguin Colony, developed by Origame Digital, pushes further."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/games/2026/oct/16/penguin-colony-review-an-antarctic-odyssey-of-nazis-and-lovecraftian-horrors",
+   "image": "https://i.guim.co.uk/img/media/a22ff356dab9c2094538405df58f27c9ef83c868/505_176_1088_870/master/1088.jpg?width=140&quality=85&auto=format&fit=max&s=240930a829215fdcbc916f2eca7b5e96",
+   "published_at": "2026-10-16T09:00:57Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "98fdffb3e2a1638cd7c50267cbff94ac5eb4d7fc",
+   "title": "Pornography with strangulation and incest to be banned in England and Wales next month",
+   "summary": [
+    "Campaigners welcome legislation which follows recommendations by 2025 review into pornography regulationPornography that depicts strangulation and incestuous relationships will be banned in England and Wales from early November, the government has announced.The content will be outlawed from 6 November after cross-party pressure prompted ministers to announce new legislation earlier this year."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/society/2026/oct/16/pornography-strangulation-incest-ban-uk-november",
+   "image": "https://i.guim.co.uk/img/media/bcdd655bc08385e2fd9554c411f13047cce5c904/270_0_2842_2274/master/2842.jpg?width=140&quality=85&auto=format&fit=max&s=8aaacd99ad11ef97f2efbedf1a81330c",
+   "published_at": "2026-10-16T07:09:49Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a1e5c012c858c7b6a05418ac6c7900d6b6a7feb8",
+   "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
+   "summary": [
+    "Benchmark says the Valley’s rule against backing rivals is getting harder to keep."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
+   "image": null,
+   "published_at": "2026-10-16T05:16:46Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "51a8267bb8798fa1f46b2cf7e3d0567495272f9e",
+   "title": "Snapchat and Instagram grooming becoming 'easier'",
+   "summary": [
+    "Online grooming is rising, with children as young as five targeted, prompting calls for reform."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq33xd6j1dv5o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-16T05:12:48Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "425d3033659eef3df2c4fe5c959eb232024e6939",
+   "title": "The Folders Programming Language",
+   "summary": [
+    "Article URL: https://danieltemkin.com/esolangs/folders Comments URL: https://news.ycombinator.com/item?id=50114342 Points: 178 # Comments: 31"
+   ],
+   "source": "Hacker News",
+   "url": "https://danieltemkin.com/esolangs/folders",
+   "image": null,
+   "published_at": "2026-10-16T05:11:28Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "6caafc7c7d164f3e4f55f67382a54b60609a5ea5",
+   "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
+   "summary": [
+    "The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
+   "image": null,
+   "published_at": "2026-10-16T01:17:43Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "1a106cb757f5bd2cc56a21a2e883742666dab4af",
+   "title": "Meta releases Muse Spark Open, a new ‘open-weight’ AI model",
+   "summary": [
+    "Meta says Muse excels at ‘multi-step reasoning’ and ‘complex software engineering’ as it races to catch up to Chinese rivalsMeta on Thursday launched a new open-weight AI model which it claims rivals, and in some cases outperforms, similar products from leading Chinese developers.Muse Spark Open “is the most capable US open-weight model to date,” Meta’s chief of AI Alexandr Wang wrote on X."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/oct/16/meta-releases-muse-spark-open-a-new-open-weight-ai-model",
+   "image": "https://i.guim.co.uk/img/media/24f8156f1c3ce3ecc74c4c1c10d376b740af751e/0_0_3165_2533/master/3165.jpg?width=140&quality=85&auto=format&fit=max&s=c19e0c6b4c797f6a600bb02ab02905f1",
+   "published_at": "2026-10-16T00:34:28Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "aae90d6b2dab6fff163fe59285c9969a63208f76",
+   "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+   "summary": [
+    "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+   "image": null,
+   "published_at": "2026-10-15T23:44:56Z",
+   "category": "tech",
+   "related": []
+  }
+ ]
+}
