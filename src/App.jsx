@@ -1,152 +1,54 @@
 import { useEffect, useMemo, useState } from 'react';
-import { useChat } from './hooks/useChat.js';
+import { useNews, CATEGORIES, timeAgo } from './hooks/useNews.js';
 import { useToast, ToastContainer } from './components/Toast.jsx';
 import Sidebar from './components/Sidebar.jsx';
-import ChatWindow from './components/ChatWindow.jsx';
-import InputBar from './components/InputBar.jsx';
+import NewsFeed from './components/NewsFeed.jsx';
+import SearchBar from './components/SearchBar.jsx';
 import './App.css';
-
-const HISTORY_KEY = 'ni_chat_history';
-const GROQ_KEY = 'ni_groq_key';
-const LEGACY_OPENROUTER_KEY = 'ni_or_key';
 
 function getInitialSidebarState() {
   if (typeof window === 'undefined') return true;
   return window.innerWidth > 768;
 }
 
-function loadStoredHistory() {
-  try {
-    return JSON.parse(localStorage.getItem(HISTORY_KEY) || '[]');
-  } catch {
-    return [];
-  }
-}
-
-function generateTitle(text) {
-  const title = text
-    .replace(/^(what|tell me|show me|give me|how|why|when|is|are|any)\s+/i, '')
-    .replace(/\?$/, '')
-    .trim()
-    .slice(0, 38);
-
-  return title || 'New chat';
-}
-
-function createTitle(messages) {
-  const firstUser = messages.find(msg => msg.role === 'user');
-  return generateTitle(firstUser?.text || '');
-}
-
 export default function App() {
-  const { messages, loading, sendMessage, regenerate, stop, clearChat, loadMessages } = useChat();
-  const { toasts, showToast } = useToast();
-  const [showSettings, setShowSettings] = useState(false);
-  const [keyInput, setKeyInput] = useState('');
   const [sidebarOpen, setSidebarOpen] = useState(getInitialSidebarState);
-  const [chatHistory, setChatHistory] = useState(loadStoredHistory);
-  const [activeChatId, setActiveChatId] = useState(null);
+  const [category, setCategory] = useState('latest');
+  const [query, setQuery] = useState('');
+  const { stories, generatedAt, loading, error, refresh } = useNews(category);
+  const { toasts, showToast } = useToast();
 
-  const hasKey = !!localStorage.getItem(GROQ_KEY);
+  const activeCat = CATEGORIES.find(c => c.id === category) || CATEGORIES[0];
 
-  const suggestions = useMemo(() => [
-    '🌍 What are the top world stories right now?',
-    '🇵🇰 What is happening in Pakistan today?',
-    '🤖 Latest AI and technology news',
-    '📈 Global economy and markets today',
-    '🏛 Major political developments today',
-    '⚔️ Any conflicts or crises in the news?',
-  ], []);
-
-  useEffect(() => {
-    if (chatHistory.length === 0) {
-      localStorage.removeItem(HISTORY_KEY);
-      return;
-    }
-
-    localStorage.setItem(HISTORY_KEY, JSON.stringify(chatHistory));
-  }, [chatHistory]);
-
-  useEffect(() => {
-    if (messages.length === 0) return;
-    if (!messages.some(msg => msg.role === 'user')) return;
-
-    const timestamp = Date.now();
-    setChatHistory(prev => {
-      const existingId = activeChatId || `chat-${timestamp}`;
-      const entry = {
-        id: existingId,
-        title: createTitle(messages),
-        timestamp,
-        messages: messages.map(msg => ({ ...msg, streaming: false })),
-      };
-
-      const next = [entry, ...prev.filter(chat => chat.id !== existingId)].slice(0, 30);
-      if (!activeChatId) setActiveChatId(existingId);
-      return next;
+  const filtered = useMemo(() => {
+    const q = query.trim().toLowerCase();
+    if (!q) return stories;
+    return stories.filter(s => {
+      const hay = [
+        s.title,
+        s.source,
+        s.category,
+        ...(Array.isArray(s.summary) ? s.summary : []),
+      ].join(' ').toLowerCase();
+      return q.split(/\s+/).every(word => hay.includes(word));
     });
-  }, [messages, activeChatId]);
+  }, [stories, query]);
 
-  function saveKey() {
-    if (keyInput.trim()) {
-      localStorage.setItem(GROQ_KEY, keyInput.trim());
-      localStorage.removeItem(LEGACY_OPENROUTER_KEY);
-      setShowSettings(false);
-      setKeyInput('');
-      window.location.reload();
-    }
-  }
+  useEffect(() => {
+    setQuery('');
+  }, [category]);
 
   function toggleSidebar() {
     setSidebarOpen(prev => !prev);
-  }
-
-  function startNewChat() {
-    clearChat();
-    setActiveChatId(null);
-    if (window.innerWidth <= 768) setSidebarOpen(false);
-  }
-
-  function loadChat(chatId) {
-    const chat = chatHistory.find(item => item.id === chatId);
-    if (!chat) return;
-    loadMessages(chat.messages || []);
-    setActiveChatId(chat.id);
-    if (window.innerWidth <= 768) setSidebarOpen(false);
-  }
-
-  function deleteChat(chatId) {
-    const updated = chatHistory.filter(chat => chat.id !== chatId);
-    setChatHistory(updated);
-    localStorage.setItem(HISTORY_KEY, JSON.stringify(updated));
-
-    if (chatId === activeChatId) {
-      startNewChat();
-    }
-  }
-
-  function clearAllChats() {
-    setChatHistory([]);
-    localStorage.removeItem(HISTORY_KEY);
-    startNewChat();
-  }
-
-  function handleRegenerate() {
-    showToast('Regenerating...');
-    regenerate();
   }
 
   return (
     <div className="app-shell">
       <Sidebar
         sidebarOpen={sidebarOpen}
-        chatHistory={chatHistory}
-        activeChatId={activeChatId}
-        startNewChat={startNewChat}
-        loadChat={loadChat}
-        setShowSettings={setShowSettings}
-        onDeleteChat={deleteChat}
-        onClearAll={clearAllChats}
+        activeCategory={category}
+        onSelectCategory={setCategory}
+        closeSidebar={() => setSidebarOpen(false)}
       />
 
       {sidebarOpen && <button className="sidebar-overlay" onClick={() => setSidebarOpen(false)} aria-label="Close sidebar" />}
@@ -159,72 +61,52 @@ export default function App() {
             </button>
             <div className="model-badge">
               <div className="model-dot" />
-              Groq Compound Mini · Live
+              Auto · Updates hourly
             </div>
             <div className="header-title">NewsIntel</div>
           </div>
           <div className="header-right">
-            <button className="icon-btn" onClick={clearChat} title="Clear chat" type="button">🗑</button>
-            <button className="icon-btn" onClick={startNewChat} title="New chat" type="button">✏</button>
-            <button className="icon-btn" onClick={() => setShowSettings(true)} title="Settings" type="button">⚙</button>
+            {generatedAt && (
+              <span className="updated-label" title={new Date(generatedAt).toLocaleString()}>
+                Updated {timeAgo(generatedAt)}
+              </span>
+            )}
+            <button className="icon-btn" onClick={refresh} title="Refresh news" type="button">↻</button>
           </div>
         </header>
 
-        <main className="chat-area">
-          <ChatWindow
-            messages={messages}
-            loading={loading}
-            suggestions={suggestions}
-            onSuggestion={sendMessage}
-            onRegenerate={handleRegenerate}
-            onToast={showToast}
-            hasKey={hasKey}
-          />
-        </main>
+        <main className="news-area">
+          <div className="news-inner">
+            <div className="section-head">
+              <h1 className="section-title">
+                <span className="section-icon">{activeCat.icon}</span>
+                {activeCat.label}
+              </h1>
+              <p className="section-sub">
+                Auto-summarized from {stories.length} top {stories.length === 1 ? 'story' : 'stories'} across major outlets. No AI, no sign-up.
+              </p>
+            </div>
 
-        <div className="input-area">
-          <InputBar
-            onSend={sendMessage}
-            onStop={stop}
-            loading={loading}
-          />
-        </div>
+            <SearchBar query={query} onChange={setQuery} resultCount={filtered.length} />
+
+            <NewsFeed
+              stories={filtered}
+              loading={loading}
+              error={error}
+              onToast={showToast}
+              onRetry={refresh}
+            />
+
+            {!loading && !error && filtered.length > 0 && (
+              <p className="feed-footer">
+                Summaries are auto-extracted from the source article — tap any headline for the full story.
+              </p>
+            )}
+          </div>
+        </main>
       </div>
 
       <ToastContainer toasts={toasts} />
-
-      {(showSettings || !hasKey) && (
-        <div className="modal-overlay" onClick={() => hasKey && setShowSettings(false)}>
-          <div className="modal-box" onClick={e => e.stopPropagation()}>
-            <h3 className="modal-title">⚙ Groq API Key</h3>
-            <p className="modal-label">Paste your key below</p>
-            <input
-              className="modal-input"
-              type="password"
-              placeholder="Paste your Groq API key"
-              value={keyInput}
-              onChange={e => setKeyInput(e.target.value)}
-              onKeyDown={e => e.key === 'Enter' && saveKey()}
-              autoFocus
-            />
-            <p className="modal-hint">
-              Free key at{' '}
-              <a href="https://console.groq.com/keys" target="_blank" rel="noopener">
-                console.groq.com/keys
-              </a>
-              {' '}— no credit card needed
-            </p>
-            <div className="modal-actions">
-              <button className="btn-primary" onClick={saveKey} type="button">Save & Start</button>
-              {hasKey && (
-                <button className="btn-ghost" onClick={() => setShowSettings(false)} type="button">
-                  Cancel
-                </button>
-              )}
-            </div>
-          </div>
-        </div>
-      )}
     </div>
   );
 }

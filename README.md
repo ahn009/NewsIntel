@@ -1,94 +1,39 @@
-# NewsIntel
+# NewsIntel 📡
 
-A React chat app that searches the live web for current news using Groq Compound Mini. No RSS feeds or CORS proxies — ask a question and get real-time news with cited sources.
+**Automated world + Pakistan news briefings. No AI, no API keys, no sign-up — open the link and read.**
 
-## How It Works
+Every hour, a scheduled job fetches ~20 free RSS feeds (BBC, Al Jazeera, The Guardian, NPR, Dawn, Express Tribune, TechCrunch and more), merges duplicate coverage of the same story, and writes a 3-sentence extractive summary for each story using a pure-Python TextRank summarizer. The results are committed as static JSON and the site redeploys automatically.
 
-1. User types a question or picks a suggestion
-2. Short inputs, like `"pakistan"` or `"ai"`, auto-expand into detailed search queries
-3. The request includes fresh global timezone context
-4. `groq/compound-mini` performs a bounded web search and answers with cited sources
-5. The completed briefing appears with markdown, source attribution, and a Key Takeaway
+**Live:** https://newsintel-ai.vercel.app/
 
-## Features
+## How it works
 
-- Live web search on every question
-- Abortable Groq requests with Stop and Regenerate controls
-- Sidebar with local chat history stored in the browser
-- Polished responsive chat UI
-- Groq key entered in Settings and stored locally in the user's browser
-- No build-time API key embedding
+```
+RSS feeds ──▶ Python scraper (stdlib only) ──▶ public/news/*.json ──▶ Vercel static site
+                  ▲                                      │
+                  │            GitHub Actions, hourly     │
+                  └──────────────────────────────────────┘
+```
 
-## Tech Stack
+- `scraper/` — the pipeline: `feeds.py` (source list) → `fetch.py` (polite concurrent
+  fetching) → `parse.py` (RSS/Atom parsing) → `summarize.py` (TextRank extractive
+  summarizer, no LLM) → `cluster.py` (dedup + story merging) → `output.py` (JSON).
+- `.github/workflows/news-scrape.yml` — runs the pipeline hourly and commits the JSON.
+- `src/` — React dashboard that reads `/news/*.json`. Zero backend, zero secrets.
 
-- React 18 + Vite 8
-- Groq API (`groq/compound-mini` system)
-- No external runtime libraries beyond React
+## Cost
 
-## Getting Started
+$0/month. RSS is free, GitHub Actions minutes are free and unlimited on public repos,
+Vercel Hobby is free, and the summarizer is ~90 lines of dependency-free Python.
 
-### Prerequisites
-
-- Node.js 20.19+ or 22.12+
-- npm
-- Groq API key from [console.groq.com/keys](https://console.groq.com/keys)
-
-### Install
+## Run the scraper locally
 
 ```bash
-npm install
+python3 scraper/run.py
+# writes public/news/latest.json + per-category files
 ```
 
-### Run locally
+## Fork it
 
-```bash
-npm run dev
-```
-
-Open [http://localhost:5173](http://localhost:5173), then paste your Groq key in Settings.
-
-The dev and preview servers bind to `127.0.0.1` by default. Do not expose Vite dev server to a public network.
-
-### Build
-
-```bash
-npm run build
-npm run preview
-```
-
-## Project Structure
-
-```text
-src/
-  components/
-    ChatWindow.jsx
-    InputBar.jsx
-    Message.jsx
-    Sidebar.jsx
-    Toast.jsx
-  hooks/
-    useChat.js
-  utils/
-    groqClient.js
-  App.jsx
-  App.css
-```
-
-## Security Notes
-
-- Do not put real API keys in `.env`, source files, or deployment environment variables for this frontend.
-- This is a browser-only BYOK app: the user's Groq key is stored in `localStorage` and used directly from their browser.
-- For a public multi-user production service, add a backend proxy, keep provider keys server-side, add rate limiting/auth, and do not expose provider credentials to the client.
-- If a real key was ever committed, pasted into chat, or present in shared logs, revoke and rotate it immediately.
-
-## Scripts
-
-```bash
-npm run dev       # Local development server on 127.0.0.1
-npm run build     # Production build
-npm run preview   # Local production preview on 127.0.0.1
-```
-
-## License
-
-MIT
+Fork this repo, and the hourly workflow runs on your fork automatically — your own
+news site with zero setup. (GitHub Actions is enabled by default on public forks.)
