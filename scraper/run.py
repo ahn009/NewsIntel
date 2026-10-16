@@ -5,7 +5,7 @@ Pipeline: fetch (RSS) -> parse -> dedupe/merge -> summarize -> write JSON.
 Stdlib only. A failing feed never crashes the run.
 
 Usage:  python3 scraper/run.py
-Output: public/news/{latest,world,pakistan,tech,business,science,sports}.json
+Output: public/news/{latest,top20,world,pakistan,tech,business,science,sports}.json
         (resolved relative to the repo root = parent of scraper/)
 """
 
@@ -20,8 +20,9 @@ from feeds import FEEDS, CATEGORIES          # noqa: E402
 from fetch import fetch_all                 # noqa: E402
 from parse import parse_feed                # noqa: E402
 from cluster import dedupe_and_merge        # noqa: E402
-from summarize import summarize             # noqa: E402
-from output import build_story, write_all   # noqa: E402
+from summarize import summarize, make_brief  # noqa: E402
+from rank import rank_top20                 # noqa: E402
+from output import build_story, write_all, build_briefing, write_top20  # noqa: E402
 
 
 def main():
@@ -50,14 +51,24 @@ def main():
     # ---- 3. Dedupe + merge into stories ----
     primaries = dedupe_and_merge(all_items)
 
-    # ---- 4. Summarize each primary ----
+    # ---- 4. Summarize each primary + rank the Top-20 briefing ----
+    summaries = {}
     stories = []
     for item in primaries:
         summary = summarize(item.get("text") or "", title=item.get("title") or "")
+        summaries[id(item)] = summary
         stories.append(build_story(item, summary))
+
+    ranked = rank_top20(primaries, all_items)
+    briefings = []
+    for rank, (item, _score, _coverage) in enumerate(ranked, start=1):
+        brief = make_brief(summaries.get(id(item), []),
+                           title=item.get("title") or "")
+        briefings.append(build_briefing(item, brief, rank))
 
     # ---- 5. Write JSON ----
     written = write_all(stories, out_dir, feed_status)
+    written.append(write_top20(briefings, out_dir, feed_status))
 
     # ---- 6. Report ----
     elapsed = time.time() - t0
@@ -68,6 +79,9 @@ def main():
         print(f"  FAILED: {r['source']} <{r['url']}> -> {r['error']}")
     print(f"items fetched (<=36h, <=40/feed): {fetched_total}")
     print(f"stories after dedupe/merge: {len(stories)}")
+    print(f"top-20 briefing: {len(briefings)} stories")
+    for b in briefings[:5]:
+        print(f"  #{b['rank']:2d} [{b['source']}] {b['title'][:72]}")
     print("per-category: " + ", ".join(f"{c}={cat_counts[c]}" for c in CATEGORIES))
     print("output:")
     for p in written:

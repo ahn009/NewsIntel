@@ -1,6 +1,7 @@
 import StoryCard from './StoryCard.jsx';
+import BriefingCard from './BriefingCard.jsx';
 
-export default function NewsFeed({ stories, loading, error, onToast, onRetry }) {
+export default function NewsFeed({ stories, loading, error, onToast, onRetry, variant }) {
   if (loading) {
     return (
       <div className="feed-state">
@@ -44,7 +45,9 @@ export default function NewsFeed({ stories, loading, error, onToast, onRetry }) 
   return (
     <div className="news-feed">
       {stories.map(story => (
-        <StoryCard key={story.id} story={story} onToast={onToast} />
+        variant === 'briefing'
+          ? <BriefingCard key={story.id} story={story} />
+          : <StoryCard key={story.id} story={story} onToast={onToast} />
       ))}
     </div>
   );

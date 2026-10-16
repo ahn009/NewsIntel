@@ -13,12 +13,13 @@ function getInitialSidebarState() {
 
 export default function App() {
   const [sidebarOpen, setSidebarOpen] = useState(getInitialSidebarState);
-  const [category, setCategory] = useState('latest');
+  const [category, setCategory] = useState('top20');
   const [query, setQuery] = useState('');
   const { stories, generatedAt, loading, error, refresh } = useNews(category);
   const { toasts, showToast } = useToast();
 
   const activeCat = CATEGORIES.find(c => c.id === category) || CATEGORIES[0];
+  const isBriefing = category === 'top20';
 
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase();
@@ -28,6 +29,7 @@ export default function App() {
         s.title,
         s.source,
         s.category,
+        s.brief || '',
         ...(Array.isArray(s.summary) ? s.summary : []),
       ].join(' ').toLowerCase();
       return q.split(/\s+/).every(word => hay.includes(word));
@@ -83,7 +85,9 @@ export default function App() {
                 {activeCat.label}
               </h1>
               <p className="section-sub">
-                Auto-summarized from {stories.length} top {stories.length === 1 ? 'story' : 'stories'} across major outlets. No AI, no sign-up.
+                {isBriefing
+                  ? 'The 20 biggest stories right now — each summarized in seconds. No long articles.'
+                  : `Auto-summarized from ${stories.length} top ${stories.length === 1 ? 'story' : 'stories'} across major outlets. No AI, no sign-up.`}
               </p>
             </div>
 
@@ -95,6 +99,7 @@ export default function App() {
               error={error}
               onToast={showToast}
               onRetry={refresh}
+              variant={isBriefing ? 'briefing' : 'cards'}
             />
 
             {!loading && !error && filtered.length > 0 && (
