@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T17:12:07.016758Z",
+ "generated_at": "2026-10-17T10:32:55.379735Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -20,32 +20,316 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "ok"
+  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
   {
-   "id": "ba113afb5a031fa9813cd9760972cdffb2475ba3",
-   "title": "/dev/null: social network for developers",
+   "id": "a6685c769f72e3201099de26edb96050c93ddb6d",
+   "title": "\"Tame\" boar and deer are instinctively adapting to the wolf in the Netherlands",
    "summary": [
-    "Article URL: https://dev-null.sh Comments URL: https://news.ycombinator.com/item?id=50121004 Points: 14 # Comments: 4"
+    "Article URL: https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf Comments URL: https://news.ycombinator.com/item?id=50129274 Points: 24 # Comments: 27"
    ],
    "source": "Hacker News",
-   "url": "https://dev-null.sh",
+   "url": "https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf",
    "image": null,
-   "published_at": "2026-10-16T16:57:49Z",
+   "published_at": "2026-10-17T09:08:16Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "648d19456d9053e9f5e81344d444bce08d000ab3",
-   "title": "Desire to Move Permanently to U.S. at New Low",
+   "id": "961ff884f99687654f7d76ef3bed3de9392433f6",
+   "title": "Is MCP becoming the common foundation of smart, decentralised search?",
    "summary": [
-    "Article URL: https://news.gallup.com/poll/708614/desire-migrate-drops-new-low.aspx Comments URL: https://news.ycombinator.com/item?id=50120664 Points: 36 # Comments: 11"
+    "Article URL: https://contextetech.com/en/articles/mcp-protocol-smart-decentralised-search Comments URL: https://news.ycombinator.com/item?id=50129235 Points: 11 # Comments: 5"
    ],
    "source": "Hacker News",
-   "url": "https://news.gallup.com/poll/708614/desire-migrate-drops-new-low.aspx",
+   "url": "https://contextetech.com/en/articles/mcp-protocol-smart-decentralised-search",
    "image": null,
-   "published_at": "2026-10-16T16:38:02Z",
+   "published_at": "2026-10-17T09:01:30Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "9b13d6a721a0c27049840c9b9a043dabdb98a309",
+   "title": "DeepSeek-v4.1-Flash-1017",
+   "summary": [
+    "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 158 # Comments: 64"
+   ],
+   "source": "Hacker News",
+   "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+   "image": null,
+   "published_at": "2026-10-17T08:21:25Z",
+   "category": "tech",
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017"
+    }
+   ]
+  },
+  {
+   "id": "33d0e39045f087a56c5fd2c8c496ab2ce6d0fb67",
+   "title": "Show HN: I got tired of btop not seeing my Mac's chip, so I built siltop",
+   "summary": [
+    "But on my M-series Mac it can't tell me the one thing I actually want to know: what is the chip doing?",
+    "No watts, no GPU, no per-core clocks.So I built siltop: btop's calm, with eyes on the silicon.",
+    "M1/M2 Ultra and M5 Max owners especially, I haven't seen yours yet."
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/CLoaKY233/siltop",
+   "image": null,
+   "published_at": "2026-10-17T07:01:07Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "af9c624edbc9202d2b09e733ad6c9e0031503e78",
+   "title": "Palantir patient data tech rejected by many NHS trusts in England",
+   "summary": [
+    "But, from Gateshead to Truro, others said they were declining to use it or had carried out trials and reverted to old systems.",
+    "A Suffolk trust said other systems “supercede” the FDP’s functionality, while Greater Manchester’s care board called the Palantir system “duplicative” and “retrograde”."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/oct/17/palantir-patient-data-tech-rejected-by-many-nhs-trusts-in-england",
+   "image": "https://i.guim.co.uk/img/media/5c48c8c2456de2d94d6e060908409ef95dd199d0/1945_0_6247_5000/master/6247.jpg?width=140&quality=85&auto=format&fit=max&s=fc56a51462c7d52b6a82409e9f2c4d6f",
+   "published_at": "2026-10-17T06:00:24Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "91189b72b270f67a110648e6232332f187091172",
+   "title": "Which coffee chain was founded in London in 1971? The Saturday quiz",
+   "summary": [
+    "From Divine, Frank Fiegel and Helen Kane to the West Sussex estate pioneering rewilding, test your knowledge with the Saturday quiz1 Which classic of political theory was dedicated to Lorenzo de Medici?",
+    "5 Which West Sussex estate is a pioneer of rewilding?",
+    "10 Divine (witch); Frank Fiegel (sailor); Helen Kane (flapper); The Beatles (vultures)?"
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/games/2026/oct/17/which-coffee-chain-was-founded-in-london-in-1971-the-saturday-quiz",
+   "image": "https://i.guim.co.uk/img/media/2c184cfa6cd9ed17ee1220cbd1efbd11c17d423f/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=8bd3e34a8f9b4b62705d2265d2915ce4",
+   "published_at": "2026-10-17T06:00:24Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "0913988ccbedf140c2de2032b60b314c3ea2f641",
+   "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+   "summary": [
+    "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 79 # Comments: 28"
+   ],
+   "source": "Hacker News",
+   "url": "https://llmspeed.dev/",
+   "image": null,
+   "published_at": "2026-10-17T04:36:53Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ee6f53a9b37a1d545e965e7ac6e9099f84ddccc7",
+   "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
+   "summary": [
+    "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
+   "image": null,
+   "published_at": "2026-10-17T02:36:18Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "8a2456bf69148e8ebaeda4063662c948562d2c82",
+   "title": "Butlerian Jihad",
+   "summary": [
+    "Article URL: https://dune.fandom.com/wiki/Butlerian_Jihad Comments URL: https://news.ycombinator.com/item?id=50127274 Points: 234 # Comments: 125"
+   ],
+   "source": "Hacker News",
+   "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+   "image": null,
+   "published_at": "2026-10-17T02:21:08Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a73fb8e0def2cf6e15fb8c7854189f5ae9394224",
+   "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
+   "summary": [
+    "Article URL: https://www.flexport.com/company/careers/ Comments URL: https://news.ycombinator.com/item?id=50126774 Points: 0 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.flexport.com/company/careers/",
+   "image": null,
+   "published_at": "2026-10-17T01:01:51Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "d65903244be8466ec76ec47b822b0028f368c731",
+   "title": "Nine-Inch Snails",
+   "summary": [
+    "Article URL: https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/ Comments URL: https://news.ycombinator.com/item?id=50125545 Points: 69 # Comments: 33"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
+   "image": null,
+   "published_at": "2026-10-16T22:21:05Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "18f9fd0105553a047098e98b4ed860192a96060c",
+   "title": "Replit is no longer working with Anthropic, CEO says",
+   "summary": [
+    "Masad said the decision was made for a number of different reasons, including cost.",
+    "Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+   "image": null,
+   "published_at": "2026-10-16T21:22:28Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "d0a00342ca12db38a8edca5fa2bddb9712df44f2",
+   "title": "FLUX 3 Image Klein",
+   "summary": [
+    "Article URL: https://bfl.ai/blog/flux-3-image-klein Comments URL: https://news.ycombinator.com/item?id=50123580 Points: 167 # Comments: 47"
+   ],
+   "source": "Hacker News",
+   "url": "https://bfl.ai/blog/flux-3-image-klein",
+   "image": null,
+   "published_at": "2026-10-16T19:47:13Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "8e38105a14b5122269cf0465b34f8abb02084a93",
+   "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
+   "summary": [
+    "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
+   "image": null,
+   "published_at": "2026-10-16T19:40:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "7fd7e06ab2f4b840c01c364743d2c0e2fcb3de17",
+   "title": "How the Claude Code team does code review",
+   "summary": [
+    "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 350 # Comments: 330"
+   ],
+   "source": "Hacker News",
+   "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+   "image": null,
+   "published_at": "2026-10-16T19:04:47Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "c19e7ef010f7b535f3d2c0b9763b01e95ec98a0d",
+   "title": "You could have invented transformers from memory",
+   "summary": [
+    "Article URL: https://alexwang.ai/posts/associative-memory/ Comments URL: https://news.ycombinator.com/item?id=50122878 Points: 312 # Comments: 72"
+   ],
+   "source": "Hacker News",
+   "url": "https://alexwang.ai/posts/associative-memory/",
+   "image": null,
+   "published_at": "2026-10-16T19:01:17Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "7a6a342eb9583796b00ba8488e92f11c4c3f9a88",
+   "title": "Claude reveals ECDSA curve origins",
+   "summary": [
+    "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 876 # Comments: 326"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+   "image": null,
+   "published_at": "2026-10-16T18:55:59Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "362ca747eb117d279c21d0eeb644859fb2c3a507",
+   "title": "C++26: The New Debugging Header",
+   "summary": [
+    "Article URL: https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging Comments URL: https://news.ycombinator.com/item?id=50122736 Points: 98 # Comments: 23"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
+   "image": null,
+   "published_at": "2026-10-16T18:52:39Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "0342f39befa102611a3964a64d81ac28b555e319",
+   "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+   "summary": [
+    "Article URL: https://github.com/cobanov/PS5LM Comments URL: https://news.ycombinator.com/item?id=50122431 Points: 293 # Comments: 73"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/cobanov/PS5LM",
+   "image": null,
+   "published_at": "2026-10-16T18:32:35Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "07642f1530b37455211eafbcf218769a47cd9e8b",
+   "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+   "summary": [
+    "Article URL: https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear Comments URL: https://news.ycombinator.com/item?id=50122034 Points: 224 # Comments: 199"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+   "image": null,
+   "published_at": "2026-10-16T18:06:17Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "04b7640931c7c9715e6a3167f61f1a526fddcb22",
+   "title": "Designing more efficient quantum circuits with Claude",
+   "summary": [
+    "Article URL: https://www.anthropic.com/research/designing-efficient-quantum-circuits Comments URL: https://news.ycombinator.com/item?id=50121939 Points: 143 # Comments: 32"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+   "image": null,
+   "published_at": "2026-10-16T18:00:18Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "c74e5a79a0e1f484fb7ec0f1092c6646ecf7543c",
+   "title": "India becomes the latest country to report rogue AI agent activity",
+   "summary": [
+    "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+   "image": null,
+   "published_at": "2026-10-16T17:52:24Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "32239fe1b8b165b3ecacee2bb42360fc3acc3ab3",
+   "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+   "summary": [
+    "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 507 # Comments: 429"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+   "image": null,
+   "published_at": "2026-10-16T17:08:38Z",
    "category": "tech",
    "related": []
   },
@@ -67,7 +351,7 @@
    "id": "ff9286355f7e922bd06d600c6a56bd36af2191f0",
    "title": "JPEG XL vs. AVIF for web use-cases",
    "summary": [
-    "Article URL: https://jakearchibald.com/2026/jpeg-xl-vs-avif/ Comments URL: https://news.ycombinator.com/item?id=50120224 Points: 27 # Comments: 6"
+    "Article URL: https://jakearchibald.com/2026/jpeg-xl-vs-avif/ Comments URL: https://news.ycombinator.com/item?id=50120224 Points: 263 # Comments: 183"
    ],
    "source": "Hacker News",
    "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
@@ -86,19 +370,6 @@
    "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
    "image": null,
    "published_at": "2026-10-16T16:06:38Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "166c4024558155443b226795e499d4daddc800eb",
-   "title": "US Rep Announces Congressional Legislation to Protect Video Game Ownership",
-   "summary": [
-    "Article URL: https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games Comments URL: https://news.ycombinator.com/item?id=50120101 Points: 46 # Comments: 24"
-   ],
-   "source": "Hacker News",
-   "url": "https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games",
-   "image": null,
-   "published_at": "2026-10-16T16:03:02Z",
    "category": "tech",
    "related": []
   },
@@ -143,49 +414,10 @@
    "related": []
   },
   {
-   "id": "a54e106d21481ffa3a029e6a20d8ef2ca8eee793",
-   "title": "America's Wumao: Inside Polymarket's Paid Quote-Retweet Esports Program",
-   "summary": [
-    "Article URL: https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation Comments URL: https://news.ycombinator.com/item?id=50120010 Points: 47 # Comments: 23"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation",
-   "image": null,
-   "published_at": "2026-10-16T15:56:25Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "e4018d8e9eb4c3e62dd1294356757ccd0b812eed",
-   "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-   "summary": [
-    "Article URL: https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471 Comments URL: https://news.ycombinator.com/item?id=50119991 Points: 32 # Comments: 4"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-   "image": null,
-   "published_at": "2026-10-16T15:55:40Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "dd2c02478c5f272a2bef25e37e6ebf01e382494d",
-   "title": "Show HN: OneDeploy – Managed open-source apps with nightly backups and TLS",
-   "summary": [
-    "Article URL: https://onedeploy.co Comments URL: https://news.ycombinator.com/item?id=50119752 Points: 15 # Comments: 7"
-   ],
-   "source": "Hacker News",
-   "url": "https://onedeploy.co",
-   "image": null,
-   "published_at": "2026-10-16T15:38:35Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "801983bc03d59ab52ba15a98cdbb27ea0cf641a1",
    "title": "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",
    "summary": [
-    "Article URL: https://adepts.of0x.cc/eufy-homestation2-firmware/ Comments URL: https://news.ycombinator.com/item?id=50119751 Points: 4 # Comments: 0"
+    "Article URL: https://adepts.of0x.cc/eufy-homestation2-firmware/ Comments URL: https://news.ycombinator.com/item?id=50119751 Points: 45 # Comments: 3"
    ],
    "source": "Hacker News",
    "url": "https://adepts.of0x.cc/eufy-homestation2-firmware/",
@@ -221,32 +453,6 @@
    "related": []
   },
   {
-   "id": "e083958888c9d24605ed92a68b2e3d113a6677eb",
-   "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
-   "summary": [
-    "Article URL: https://calif.io/research/big-fish Comments URL: https://news.ycombinator.com/item?id=50118977 Points: 81 # Comments: 14"
-   ],
-   "source": "Hacker News",
-   "url": "https://calif.io/research/big-fish",
-   "image": null,
-   "published_at": "2026-10-16T14:44:02Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "40223f2d740880d1d2efb9faa4861a2c8f1fb566",
-   "title": "Show HN: rStation – A shared research lab for your AI agents",
-   "summary": [
-    "Article URL: https://rstation.ai/ Comments URL: https://news.ycombinator.com/item?id=50118876 Points: 20 # Comments: 13"
-   ],
-   "source": "Hacker News",
-   "url": "https://rstation.ai/",
-   "image": null,
-   "published_at": "2026-10-16T14:35:43Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "de3d82224bc1f3f28f01c97550b8a35e7ad91332",
    "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
    "summary": [
@@ -256,45 +462,6 @@
    "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
    "image": null,
    "published_at": "2026-10-16T14:26:51Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "3d3011b3b2f663f46f2b7f57f71e6f8ca911b550",
-   "title": "Show HN: Gemini 4 Argon plays StarCraft",
-   "summary": [
-    "I've refreshed StarSkirmish Bench, a benchmark where LLMs play StarCraft BW by writing code, with results from the flagship models of OpenAI, Anthropic, Google, and Muse Comments URL: https://news.ycombinator.com/item?id=50118688 Points: 70 # Comments: 42"
-   ],
-   "source": "Hacker News",
-   "url": "https://starskirmish.com/bench/v0-2/",
-   "image": null,
-   "published_at": "2026-10-16T14:18:44Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "192b815aaef74bfd661b97d66ef8dc2502f947aa",
-   "title": "How to make System 1 LLMs show System 2 competencies?",
-   "summary": [
-    "Article URL: https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113 Comments URL: https://news.ycombinator.com/item?id=50118662 Points: 19 # Comments: 11"
-   ],
-   "source": "Hacker News",
-   "url": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113",
-   "image": null,
-   "published_at": "2026-10-16T14:16:34Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "cdeafa8476fb992af3812232d98837527210f5c7",
-   "title": "How to Formalize All of Mathematics",
-   "summary": [
-    "Article URL: https://xenaproject.wordpress.com/2026/10/16/how-to-formalize-all-of-mathematics/ Comments URL: https://news.ycombinator.com/item?id=50118512 Points: 46 # Comments: 42"
-   ],
-   "source": "Hacker News",
-   "url": "https://xenaproject.wordpress.com/2026/10/16/how-to-formalize-all-of-mathematics/",
-   "image": null,
-   "published_at": "2026-10-16T14:01:53Z",
    "category": "tech",
    "related": []
   },
@@ -313,60 +480,6 @@
    "related": []
   },
   {
-   "id": "98e6a11f87f3c75ff09f029c60c62757139be47d",
-   "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
-   "summary": [
-    "Article URL: https://machinelearning.apple.com/research/mlx-distributed-inference Comments URL: https://news.ycombinator.com/item?id=50118320 Points: 116 # Comments: 56"
-   ],
-   "source": "Hacker News",
-   "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-   "image": null,
-   "published_at": "2026-10-16T13:43:48Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "3fb145befc7ccf3b92598830e786737958f4360a",
-   "title": "What was a Token Ring network?",
-   "summary": [
-    "Article URL: https://dfarq.homeip.net/what-was-a-token-ring-network/ Comments URL: https://news.ycombinator.com/item?id=50118318 Points: 30 # Comments: 23"
-   ],
-   "source": "Hacker News",
-   "url": "https://dfarq.homeip.net/what-was-a-token-ring-network/",
-   "image": null,
-   "published_at": "2026-10-16T13:43:30Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "ec45a17024eea24dc5a366b354b17f2113c75349",
-   "title": "RFC8950: Announce IPv4 with an IPv6 next-hop",
-   "summary": [
-    "Article URL: https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/ Comments URL: https://news.ycombinator.com/item?id=50118267 Points: 44 # Comments: 16"
-   ],
-   "source": "Hacker News",
-   "url": "https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/",
-   "image": null,
-   "published_at": "2026-10-16T13:38:25Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "9303018b8114682ccbc3c77ccb337cc114de8780",
-   "title": "The ultra-rich are spending one million dollars a day fighting California’s proposed billionaire tax",
-   "summary": [
-    "Tech billionaires have raised more than $340m to defeat Prop 40, a one-time 5% wealth tax that will fund healthcare and educationTech billionaires have been dumping hundreds of millions of dollars into the fight against a wealth tax in California.",
-    "They’ve raised more than $340m, and the campaign they’re funding is spending more than $1m a day to defeat the measure, according to state financial disclosures.With the election less than a month away, those funds are being spent at a stepped-up pace.",
-    "During the first 19 days of September, according to the most recent campaign filings, the opposition campaign plowed through at least $21.2m to fight the billionaire tax – surpassing $1m per day."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/16/billionaires-fight-california-prop-40",
-   "image": "https://i.guim.co.uk/img/media/278e5483c063fe17b8fe2273a6c7632a5f987ec9/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=fe7eec8884c4aeed0db87998d0eb199a",
-   "published_at": "2026-10-16T13:00:11Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "e6b0c9baa36621444fe3ffa8f5e7e734568319d6",
    "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
    "summary": [
@@ -376,51 +489,6 @@
    "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
    "image": null,
    "published_at": "2026-10-16T12:55:09Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "845232958184b6b870202a2d8ffa78f48d60e7cd",
-   "title": "I Love Software Rendering",
-   "summary": [
-    "Article URL: https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/ Comments URL: https://news.ycombinator.com/item?id=50117746 Points: 198 # Comments: 144"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
-   "image": null,
-   "published_at": "2026-10-16T12:52:08Z",
-   "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "https://www.worksinprogress.news/p/porcelain"
-    }
-   ]
-  },
-  {
-   "id": "b6c6aeeaecd6abae349d41c1a1e56c49758046bd",
-   "title": "Bark: The Toll-Free BBS for 90s Teens",
-   "summary": [
-    "Article URL: https://blog.bityard.net/articles/2026/October/bark-the-toll-free-bbs-for-90s-teens Comments URL: https://news.ycombinator.com/item?id=50117504 Points: 30 # Comments: 9"
-   ],
-   "source": "Hacker News",
-   "url": "https://blog.bityard.net/articles/2026/October/bark-the-toll-free-bbs-for-90s-teens",
-   "image": null,
-   "published_at": "2026-10-16T12:22:13Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "1fae0ae289e80d950e91d86bdc524600cd14e95b",
-   "title": "How to dress a tech oligarch: The Social Reckoning’s costume designer on Zuckerberg’s style evolution",
-   "summary": [
-    "This is “post-hoodie”, as the movie’s costume designer, Susan Lyall, describes it, “post-thumbing his nose” to formality.",
-    "Zuckerberg’s reserved wardrobe of suits or interchangeable long-sleeved shirts echo his chilling composure throughout, even as fury simmers under the surface."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/fashion/2026/oct/16/social-reckoning-zuckerberg-fashion-costume-design",
-   "image": "https://i.guim.co.uk/img/media/5f77be0b14a2f3a0c3b168ce5bdcf5ed989dcc51/610_75_1532_1227/master/1532.jpg?width=140&quality=85&auto=format&fit=max&s=de76213c5ccd85dc05e8c7ad0ab7ae76",
-   "published_at": "2026-10-16T12:00:10Z",
    "category": "tech",
    "related": []
   },
@@ -488,71 +556,6 @@
    "url": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
    "image": null,
    "published_at": "2026-10-16T05:16:46Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "51a8267bb8798fa1f46b2cf7e3d0567495272f9e",
-   "title": "Snapchat and Instagram grooming becoming 'easier'",
-   "summary": [
-    "Online grooming is rising, with children as young as five targeted, prompting calls for reform."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cq33xd6j1dv5o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-16T05:12:48Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "425d3033659eef3df2c4fe5c959eb232024e6939",
-   "title": "The Folders Programming Language",
-   "summary": [
-    "Article URL: https://danieltemkin.com/esolangs/folders Comments URL: https://news.ycombinator.com/item?id=50114342 Points: 178 # Comments: 31"
-   ],
-   "source": "Hacker News",
-   "url": "https://danieltemkin.com/esolangs/folders",
-   "image": null,
-   "published_at": "2026-10-16T05:11:28Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "6caafc7c7d164f3e4f55f67382a54b60609a5ea5",
-   "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
-   "summary": [
-    "The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
-   "image": null,
-   "published_at": "2026-10-16T01:17:43Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "1a106cb757f5bd2cc56a21a2e883742666dab4af",
-   "title": "Meta releases Muse Spark Open, a new ‘open-weight’ AI model",
-   "summary": [
-    "Meta says Muse excels at ‘multi-step reasoning’ and ‘complex software engineering’ as it races to catch up to Chinese rivalsMeta on Thursday launched a new open-weight AI model which it claims rivals, and in some cases outperforms, similar products from leading Chinese developers.Muse Spark Open “is the most capable US open-weight model to date,” Meta’s chief of AI Alexandr Wang wrote on X."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/oct/16/meta-releases-muse-spark-open-a-new-open-weight-ai-model",
-   "image": "https://i.guim.co.uk/img/media/24f8156f1c3ce3ecc74c4c1c10d376b740af751e/0_0_3165_2533/master/3165.jpg?width=140&quality=85&auto=format&fit=max&s=c19e0c6b4c797f6a600bb02ab02905f1",
-   "published_at": "2026-10-16T00:34:28Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "aae90d6b2dab6fff163fe59285c9969a63208f76",
-   "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-   "summary": [
-    "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-   "image": null,
-   "published_at": "2026-10-15T23:44:56Z",
    "category": "tech",
    "related": []
   }

@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-16T17:12:07.018292Z",
- "story_count": 15,
+ "generated_at": "2026-10-17T10:32:55.380364Z",
+ "story_count": 8,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -20,9 +20,48 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "ok"
+  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "ea160601bda16dc4488711b3eb2c0326e3d5ac65",
+   "title": "Call for more food funding due to high living cost",
+   "summary": [
+    "Deputy Louise Doublet does not think the cost of living was considered in the ending of a trial."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqde8zk6d916o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-17T06:18:16Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "bd388f8c9aea373da7f74051bef69d06c0e9b00b",
+   "title": "Charity reflects on changing needs over 25 years",
+   "summary": [
+    "Help a Guernsey Child says it has provided in excess of £1.2m worth of essential support."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c615jnxv7n45o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-17T06:11:54Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "ef3463bdfdf816f4f22b9d967ccebfcbccbd57cc",
+   "title": "Nightclubs are disappearing - and it's affecting young people",
+   "summary": [
+    "One young person said with no nightlife in their town they cannot \"let loose and mess around\"."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm5yngn0pl2ro?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-17T06:01:55Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "3048fe93579bc0322d728732ff0b43fcd039fe08",
    "title": "Banks expect to be hit with higher taxes in Budget",
@@ -87,138 +126,6 @@
    "url": "https://www.bbc.co.uk/news/articles/c36lk280kd1o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-15T23:16:12Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "bea06a060ac74541df80e225bee0dfcb1471bf3a",
-   "title": "'I'd spend $1,000 on a wedding present'",
-   "summary": [
-    "New Yorkers share how much they spend on a wedding gift - and how they decide."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/ckly0jy2ygdjo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-15T18:30:09Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "f9936a0b304468748ef7c1b00199ca41f09cbb57",
-   "title": "'I paid thousands to a company for jobs that never came'",
-   "summary": [
-    "Apurv Patel is one of several people who say they were promised job opportunities that did not appear."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-15T17:19:49Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "a0492006fcb2e874aa4134bb603643e0ff3d027c",
-   "title": "People in the US: what is your personal ‘recession indicator’?",
-   "summary": [
-    "We’d like to hear about whether you feel like the US is in a recession and what you think signals such a downturnNearly two-thirds of Americans think the US is experiencing a recession, according to a new Harris Poll conducted for the Guardian.",
-    "By the typical definition of a recession – when a country’s economic growth is in the negative for two consecutive quarters – the US is not experiencing one.",
-    "Still, Americans are facing higher prices and a stagnant job market, which for many feels like a downturn.We want to hear from Americans: do you feel like the US is experiencing a recession?"
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/oct/15/what-is-your-personal-recession-indicator",
-   "image": "https://i.guim.co.uk/img/media/52ff3960d4aa2d7390c5b285301a93bf98ea062b/550_0_2750_2200/master/2750.jpg?width=140&quality=85&auto=format&fit=max&s=a3d00e71147cd2628e96983ee79329e1",
-   "published_at": "2026-10-15T16:55:41Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "6a84936e2e0a7d0191331aa8e63042050d936cf3",
-   "title": "Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
-   "summary": [
-    "The culture secretary says the deal could affect free expression in the media and the variety of Britain's news landscape."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-15T14:55:21Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "f9a906c218f8809f4e41499c68ad3e63e51842ea",
-   "title": "US lawmakers unveil bill to hold Wall Street’s ‘Epstein-connected’ bosses to account",
-   "summary": [
-    "Move comes as Senator Elizabeth Warren condemns Barclays response to questions over ex-boss’s ties to sex offenderUS lawmakers have unveiled a new bill to hold Wall Street’s “Epstein-connected” bosses to account for helping finance the late sex offender’s crimes.It came as top Democratic senator Elizabeth Warren condemned the UK bank Barclays for “dodging responsibility” over its failure to vet former boss Jes Staley and his ties to the once well-connected billionaire."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/oct/15/new-bill-wall-street-bosses-epstein-connections",
-   "image": "https://i.guim.co.uk/img/media/277b93f5f035970797f0f81b7f05054489b5e550/489_0_2920_2336/master/2920.jpg?width=140&quality=85&auto=format&fit=max&s=d1a4ffce065bc726e5ecd0bc4da68838",
-   "published_at": "2026-10-15T13:30:11Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "66c7d45c3e8c58b84a6b761c0a11e6988efb111e",
-   "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
-   "summary": [
-    "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-15T13:25:17Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "be7c39b1ca193c400778e4641e97e4e6080df89e",
-   "title": "Bad news for Trump ahead of the midterms: it’s still the economy, stupid",
-   "summary": [
-    "About six months later, as Donald Trump launched a trade war on the rest of the world with his “liberation day” tariffs, the share of Republican pessimists had dropped to 33%."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/oct/15/trump-economy-midterm-elections",
-   "image": "https://i.guim.co.uk/img/media/01329e91c97db48bf13bfd381b4bebcfd587785c/402_0_4001_3203/master/4001.jpg?width=140&quality=85&auto=format&fit=max&s=628aeb14dd3d767f838ba1ed0e1ad7d6",
-   "published_at": "2026-10-15T12:00:12Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "eb199fe4916b04bbfc28505b950036becad9fd71",
-   "title": "Gen Z wrestle with shame from ordering delivery food: ‘This economy is not for the weak’",
-   "summary": [
-    "As Americans use apps like DoorDash and Uber Eats more habitually, they confront the guilt of paying extra fees for convenienceTell us: what is your personal ‘recession indicator’?When it comes to food, Caroline Bauldree does not like to “deprive” herself of anything."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/food/2026/oct/15/food-delivery-apps-cost-economy",
-   "image": "https://i.guim.co.uk/img/media/82aa8c2f71b2a4c8d64cc5c5317d29f3d3fbd403/766_0_6440_5152/master/6440.jpg?width=140&quality=85&auto=format&fit=max&s=fe697ec719d9724d1835fb3b6d6bce5b",
-   "published_at": "2026-10-15T11:00:10Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "0c22fcb2156e1e6e483703740928b4c47ee85e4a",
-   "title": "Key US voters say economy is getting worse ahead of midterms, exclusive poll finds",
-   "summary": [
-    "By its typical definition, the US is not currently experiencing a recession."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/oct/15/voters-economy-cost-of-living-prices-poll",
-   "image": "https://i.guim.co.uk/img/media/247f6883afad5e6cbe9c1ee8ebb313a6fd281033/600_0_6000_4800/master/6000.jpg?width=140&quality=85&auto=format&fit=max&s=e6c467317e229d59d5d0d9c869e4ab35",
-   "published_at": "2026-10-15T09:00:13Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "33dc2b2d29bade1b2bfd4a390a62769eb56e57c8",
-   "title": "Thousands of NI workers to get pay bump as Real Living Wage rises",
-   "summary": [
-    "About 6,000 workers in NI are paid the Real Living Wage - which is voluntarily paid to reflect the cost of living."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/cq398xnyx4gyo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-15T05:37:44Z",
    "category": "business",
    "related": []
   }

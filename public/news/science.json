@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-16T17:12:07.019104Z",
- "story_count": 23,
+ "generated_at": "2026-10-17T10:32:55.380629Z",
+ "story_count": 15,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -20,9 +20,61 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "ok"
+  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "ec57492b08b2ea4a812e973d4db03a918132e281",
+   "title": "Avian flu and costs among reasons for loss of captive birds at Castle Espie",
+   "summary": [
+    "Difficulties in transporting animals since Brexit has contributed to the decline in the number of captive birds."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6m24e1ln130o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-17T05:10:33Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "82a97040da64c3e22080e5c32d0db01d5a8e1b7f",
+   "title": "Why hasn't the UK had any named storms yet?",
+   "summary": [
+    "So far this autumn wet and windy weather patterns have been steered away from the UK."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/weather/articles/ck5yn68mj88vo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-17T01:53:34Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "f06d27e1ad74d0cca6db99f33e0eaaec0d56468b",
+   "title": "Evacuation orders as fast-moving California wildfire burns homes",
+   "summary": [
+    "Fanned by the fierce Santa Ana winds, the Norte Fire is one of 13 burning across the state."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6vgjnk8nw2wo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-17T01:36:39Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "3acbce39612a6dffb00bf6af8329e4a8ee50fde5",
+   "title": "US senators call for investigation into Ukraine's Starlink restrictions",
+   "summary": [
+    "Ukraine says temporary speed limits to the Starlink internet network disrupted its battlefield missions."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-16T14:19:50Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "d8a9172a471d8d1509019c3e217bbcf914625663",
    "title": "USC scientists discover how to create a never-ending supply of cancer-fighting cells",
@@ -174,168 +226,6 @@
    "url": "https://www.sciencedaily.com/releases/2026/10/261015073210.htm",
    "image": null,
    "published_at": "2026-10-16T01:15:21Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "4d06f45cbf9b3774448d343d25117c42f5b71aaa",
-   "title": "BBC Inside Science",
-   "summary": [
-    "How can we to compete against a natural force with the power of 25 atomic bombs?"
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/sounds/play/w3ct9789?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-15T20:00:00Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "f1cf63deb688a54a53da4ea53d0b9c04b6736b89",
-   "title": "Suspected fly tippers shamed with online photos",
-   "summary": [
-    "Hillingdon Council has shared social media posts showing people allegedly dumping rubbish illegally."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cqgm0jepyl01o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-15T18:05:56Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "8b8f37d37e3cc2ba44fb5b412ff190cd7ee53b71",
-   "title": "Severe drought declared and hosepipe bans in force - is your area affected?",
-   "summary": [
-    "Parts of southern England have entered \"severe drought\", while about 30 million people are under hosepipe ban."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-15T15:42:37Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "c6c4a27a8ed6e832fca7897b76d2be224a809317",
-   "title": "£15m for zero-emission testing at Belfast Harbour",
-   "summary": [
-    "It comes after a £15m investment from UK Research and Innovation's Local Innovation Partnerships Fund."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6kgqr9n8082o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-15T14:55:03Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "25039b488e17d1c8cb2a98e842a93d456e37e3df",
-   "title": "Sheep are disappearing from our hills - and our dinner plates",
-   "summary": [
-    "Have we have passed \"peak sheep\" in the UK?"
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cgrzd72wp5zo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-15T14:10:13Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "a3f2ccc827574e0e43d3c244ac1a049c1dffa10f",
-   "title": "Mysterious brain activity under anesthesia challenges what we know about consciousness",
-   "summary": [
-    "Even under general anesthesia, the human brain can analyze language, recognize different types of words, and predict what comes next in a story, according to a surprising discovery by Baylor researchers.",
-    "The findings challenge our understanding of consciousness and suggest that the unconscious brain is far more capable than scientists previously realized."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261015003440.htm",
-   "image": null,
-   "published_at": "2026-10-15T12:52:05Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "13464bb5e6e97a496404b07af21154020e0944fa",
-   "title": "Arctic sea ice hits another troubling low in 2026",
-   "summary": [
-    "Arctic sea ice is shrinking in both winter and summer, with satellite records revealing that the region's remaining ice is becoming thinner, younger, and more vulnerable to melting.",
-    "Despite a recent slowdown in summer losses, scientists warn that the Arctic could experience a nearly ice-free summer before 2050."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261015073212.htm",
-   "image": null,
-   "published_at": "2026-10-15T12:40:44Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "1bed6ec29c875170428b340a308cfe2eeb8eff81",
-   "title": "A fungus is threatening the world’s food supply. Scientists just found a new defense",
-   "summary": [
-    "Scientists have discovered a potential new weapon against a devastating fungus that threatens rice, wheat, and barley worldwide.",
-    "By engineering a special type of plant immune receptor, researchers created defenses capable of recognizing multiple fungal threats at once.",
-    "The breakthrough could eventually lead to crops with powerful, long-lasting disease resistance, helping protect a global food supply increasingly threatened by spreading infections and climate change."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261014015501.htm",
-   "image": null,
-   "published_at": "2026-10-15T11:45:43Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "9baa32e9d10bd98ae0ebf25e994da96dd15640f4",
-   "title": "Scientists discover a surprising danger in smaller cancer cells",
-   "summary": [
-    "Scientists have discovered that unusually small cancer cells carrying extra chromosomes can be far more aggressive than larger ones, growing faster, spreading more readily, and resisting common treatments.",
-    "The surprising finding could help explain why some tumors are especially dangerous and provide a new way to predict cancer outcomes."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261013015835.htm",
-   "image": null,
-   "published_at": "2026-10-15T11:27:40Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "66c173d4969e3d250e5ca77b3975872e814f82f9",
-   "title": "Rare study reveals a striking divide inside an Alzheimer’s patient’s brain",
-   "summary": [
-    "A rare examination of an Alzheimer’s patient’s brain revealed that regions cleared of amyloid plaques had remarkably little of the harmful tau buildup associated with memory loss, while neighboring areas showed extensive damage.",
-    "The discovery suggests that removing amyloid may have lasting protective effects and could help slow Alzheimer’s progression, especially when treatment begins early."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261013015814.htm",
-   "image": null,
-   "published_at": "2026-10-15T10:05:24Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "2d43a2d2f6731dd663cc5be3a1179d23a21bd5db",
-   "title": "Historic cannons airlifted for restoration",
-   "summary": [
-    "Cannons are lifted from St Michael's Mount by helicopter so they can be taken away for restoration."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/ck24096pndy9o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-15T09:31:43Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "bde91ecc5f164dec15d64c187d083ae431461556",
-   "title": "Little tern colony has worst breeding season",
-   "summary": [
-    "Planning is under way to improve the colony for the 2027 breeding season."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cjy56e4v6exzo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-15T05:19:45Z",
    "category": "science",
    "related": []
   }
