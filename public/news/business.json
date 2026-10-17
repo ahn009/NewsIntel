@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-17T14:10:18.145006Z",
- "story_count": 8,
+ "generated_at": "2026-10-17T17:50:55.271187Z",
+ "story_count": 6,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,32 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "31d5d8536b59219eb3b16fa69ffcff2a15bc3f9e",
+   "title": "Low-cost clinic helps pet owners with vet bills",
+   "summary": [
+    "RSPCA Medway West launches its clinic for the pets of people with low incomes."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6kgl39rnnvzo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-17T14:12:02Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "e443e64cb868794939481d9ddd55872bfb73c5f1",
+   "title": "US corporate lobbyists mounted ‘blitz’ to dilute landmark EU deforestation law, report finds",
+   "summary": [
+    "Environmental watchdog Mighty Earth reveals two-year effort to postpone and weaken EU Deforestation RegulationUS corporate lobbyists launched a two-year “blitz” to postpone and weaken the world’s most progressive legislation to protect forests, according to a new investigation by the environmental watchdog Mighty Earth.Major US firms and trade associations, including Cargill, Bunge, Mondelēz and the US Soybean Export Council, as well as numerous other US firms and organizations, sought to influence the EU Deforestation Regulation (EUDR) in more than 350 meetings, the advocacy group found."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/2026/oct/17/us-corporate-lobbyists-europe-deforestation",
+   "image": "https://i.guim.co.uk/img/media/df8c85f8eb823746e6c6870d49f885ae6b15be08/831_0_6622_5299/master/6622.jpg?width=140&quality=85&auto=format&fit=max&s=f84ef67156d0ee7bae0416a47f64d940",
+   "published_at": "2026-10-17T11:00:31Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "ea160601bda16dc4488711b3eb2c0326e3d5ac65",
    "title": "Call for more food funding due to high living cost",
@@ -72,60 +98,6 @@
    "url": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-16T10:16:27Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "d5bb8f6c54582c3eee609f1ef374ddfa13379ce3",
-   "title": "Fuel costs squeezing margins for some businesses",
-   "summary": [
-    "Diesel recently topped £2 per litre and there is concern that a duty freeze will not go far enough."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c9rky27ljrxno?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-16T05:30:57Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "499739c064d83a1495c263881c87a6139db27ae4",
-   "title": "'TV and cheap booze' blamed for landlord quitting",
-   "summary": [
-    "Lincolnshire has lost 27% of its pubs and bars since 2009 and some are calling on the government to act against cheap supermarket booze."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6lyk77jq9d2o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-16T05:03:15Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "395cfcd2470e92196931ee681ef0cccf0c082bf0",
-   "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
-   "summary": [
-    "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-16T05:00:17Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "8d515bce1dc8ddb315a79a144e0bf8c378916c3b",
-   "title": "‘People’s dignity, and democracy, is at stake’: meet the economist ditching ideology for reality",
-   "summary": [
-    "Exclusive: Isabella Weber prescribes a common-sense solution to poverty, inequality and fascism – making life’s essentials affordable for allThe trouble with economists, Isabella Weber believes, is they do not behave like dentists.",
-    "As she sees it, the symptoms could not be more severe. “The status quo for the majority is entirely unbearable,” while extreme inequality and corporate concentration has reached levels “simply incompatible with democracy” worldwide.",
-    "All the while the far right is making hay."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/oct/16/isabella-weber-anti-fascist-economics",
-   "image": "https://i.guim.co.uk/img/media/3576e8823f74fef373d3674061516c7d38e4743e/259_0_4131_3307/master/4131.jpg?width=140&quality=85&auto=format&fit=max&s=d94407f3c007f35953e5ef9e6614e072",
-   "published_at": "2026-10-16T04:00:50Z",
    "category": "business",
    "related": []
   }
