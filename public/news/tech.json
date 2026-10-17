@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T10:32:55.379735Z",
+ "generated_at": "2026-10-17T14:10:18.144666Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -24,28 +24,30 @@
  },
  "stories": [
   {
-   "id": "a6685c769f72e3201099de26edb96050c93ddb6d",
-   "title": "\"Tame\" boar and deer are instinctively adapting to the wolf in the Netherlands",
+   "id": "b90346a2f7063808db854057e535d1b22f1fcda6",
+   "title": "The power of AI is worrying senior Labour figures – as is the fear of ‘falling behind the public’",
    "summary": [
-    "Article URL: https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf Comments URL: https://news.ycombinator.com/item?id=50129274 Points: 24 # Comments: 27"
+    "Westminster appears to be waking up to warnings over AI safety, with concerns over its use by extremist groups and bad actors“I have this sense that, within a few months, AI is going to be all anyone is talking about,” said one cabinet minister, with an ominous stare.It was Labour conference, with everyone from ministers to activists jubilant at Andy Burnham’s takeover and a bounce in the polls after the change of leader."
    ],
-   "source": "Hacker News",
-   "url": "https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf",
-   "image": null,
-   "published_at": "2026-10-17T09:08:16Z",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/oct/17/artificial-intelligence-ai-labour-government-safety-uk-extremism",
+   "image": "https://i.guim.co.uk/img/media/e0d13c6ce0b90597a109492537328402905b91ca/719_0_7202_5760/master/7202.jpg?width=140&quality=85&auto=format&fit=max&s=bc2e49beb9729a79008890cd95940733",
+   "published_at": "2026-10-17T11:33:20Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "961ff884f99687654f7d76ef3bed3de9392433f6",
-   "title": "Is MCP becoming the common foundation of smart, decentralised search?",
+   "id": "c276fd5180d3f468eefeb3269ce3bb5e2dbd6a8a",
+   "title": "Fake Linda and me: the Agatha Christie-worthy mystery of the fraudster who stole my byline",
    "summary": [
-    "Article URL: https://contextetech.com/en/articles/mcp-protocol-smart-decentralised-search Comments URL: https://news.ycombinator.com/item?id=50129235 Points: 11 # Comments: 5"
+    "How a string of bizarre events led writer Linda Geddes to don her sleuthing cap and dig into a world of shadowy impersonatorsIt started with an entirely ordinary interaction on LinkedIn.",
+    "Someone had tagged me in a post, saying how much they’d enjoyed contributing to a New York Post article I’d written about “chronoworking”.",
+    "There, above an article about people who organise their working lives around their biological clocks, was my name: Linda Geddes."
    ],
-   "source": "Hacker News",
-   "url": "https://contextetech.com/en/articles/mcp-protocol-smart-decentralised-search",
-   "image": null,
-   "published_at": "2026-10-17T09:01:30Z",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/oct/17/fake-linda-and-me-mystery-fraudster-stole-my-byline",
+   "image": "https://i.guim.co.uk/img/media/a426a8b6b459aed32bd6a8e431b13736369c3b21/676_119_6732_5385/master/6732.jpg?width=140&quality=85&auto=format&fit=max&s=f09aaf2d349e8bfc65d3ca6823fc23a4",
+   "published_at": "2026-10-17T11:00:30Z",
    "category": "tech",
    "related": []
   },
@@ -53,7 +55,7 @@
    "id": "9b13d6a721a0c27049840c9b9a043dabdb98a309",
    "title": "DeepSeek-v4.1-Flash-1017",
    "summary": [
-    "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 158 # Comments: 64"
+    "Article URL: https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 280 # Comments: 107"
    ],
    "source": "Hacker News",
    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
@@ -66,21 +68,6 @@
      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017"
     }
    ]
-  },
-  {
-   "id": "33d0e39045f087a56c5fd2c8c496ab2ce6d0fb67",
-   "title": "Show HN: I got tired of btop not seeing my Mac's chip, so I built siltop",
-   "summary": [
-    "But on my M-series Mac it can't tell me the one thing I actually want to know: what is the chip doing?",
-    "No watts, no GPU, no per-core clocks.So I built siltop: btop's calm, with eyes on the silicon.",
-    "M1/M2 Ultra and M5 Max owners especially, I haven't seen yours yet."
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/CLoaKY233/siltop",
-   "image": null,
-   "published_at": "2026-10-17T07:01:07Z",
-   "category": "tech",
-   "related": []
   },
   {
    "id": "af9c624edbc9202d2b09e733ad6c9e0031503e78",
@@ -115,12 +102,25 @@
    "id": "0913988ccbedf140c2de2032b60b314c3ea2f641",
    "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
    "summary": [
-    "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 79 # Comments: 28"
+    "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 144 # Comments: 49"
    ],
    "source": "Hacker News",
    "url": "https://llmspeed.dev/",
    "image": null,
    "published_at": "2026-10-17T04:36:53Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a14bc391c5d6eb77ac07158c2d4bdeb8a0d65447",
+   "title": "Not cool: who hacked France’s supermarket fridges?",
+   "summary": [
+    "Whether it was youngsters proving their skills or state sabotage, Europe’s most hacked country was left with a mountain of waste after food began cooking in freezersShortly before midnight last Sunday, the digital thermostats controlling hundreds of supermarket cold aisles across France began to flicker and rise.In a “bizarre and unprecedented” cyber-attack, hackers had remotely overridden the temperature settings on thousands of freezers, fridges and chiller cabinets pushing them from as low as -27C (-16.6F) to well over 50C (122F)."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/17/who-hacked-frances-supermarket-fridges",
+   "image": "https://i.guim.co.uk/img/media/446c1773fea046f80e07ca9533f82b2eaa90e1e6/494_0_3540_2832/master/3540.jpg?width=140&quality=85&auto=format&fit=max&s=aa4cee8a1aabe7c0ef821e19e4acd335",
+   "published_at": "2026-10-17T04:00:20Z",
    "category": "tech",
    "related": []
   },
@@ -141,7 +141,7 @@
    "id": "8a2456bf69148e8ebaeda4063662c948562d2c82",
    "title": "Butlerian Jihad",
    "summary": [
-    "Article URL: https://dune.fandom.com/wiki/Butlerian_Jihad Comments URL: https://news.ycombinator.com/item?id=50127274 Points: 234 # Comments: 125"
+    "Article URL: https://dune.fandom.com/wiki/Butlerian_Jihad Comments URL: https://news.ycombinator.com/item?id=50127274 Points: 298 # Comments: 166"
    ],
    "source": "Hacker News",
    "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
@@ -167,7 +167,7 @@
    "id": "d65903244be8466ec76ec47b822b0028f368c731",
    "title": "Nine-Inch Snails",
    "summary": [
-    "Article URL: https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/ Comments URL: https://news.ycombinator.com/item?id=50125545 Points: 69 # Comments: 33"
+    "Article URL: https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/ Comments URL: https://news.ycombinator.com/item?id=50125545 Points: 89 # Comments: 42"
    ],
    "source": "Hacker News",
    "url": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
@@ -194,7 +194,7 @@
    "id": "d0a00342ca12db38a8edca5fa2bddb9712df44f2",
    "title": "FLUX 3 Image Klein",
    "summary": [
-    "Article URL: https://bfl.ai/blog/flux-3-image-klein Comments URL: https://news.ycombinator.com/item?id=50123580 Points: 167 # Comments: 47"
+    "Article URL: https://bfl.ai/blog/flux-3-image-klein Comments URL: https://news.ycombinator.com/item?id=50123580 Points: 180 # Comments: 52"
    ],
    "source": "Hacker News",
    "url": "https://bfl.ai/blog/flux-3-image-klein",
@@ -220,7 +220,7 @@
    "id": "7fd7e06ab2f4b840c01c364743d2c0e2fcb3de17",
    "title": "How the Claude Code team does code review",
    "summary": [
-    "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 350 # Comments: 330"
+    "Article URL: https://claude.dev/blog/solving-code-review-at-anthropic/ Comments URL: https://news.ycombinator.com/item?id=50122951 Points: 400 # Comments: 378"
    ],
    "source": "Hacker News",
    "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
@@ -233,7 +233,7 @@
    "id": "c19e7ef010f7b535f3d2c0b9763b01e95ec98a0d",
    "title": "You could have invented transformers from memory",
    "summary": [
-    "Article URL: https://alexwang.ai/posts/associative-memory/ Comments URL: https://news.ycombinator.com/item?id=50122878 Points: 312 # Comments: 72"
+    "Article URL: https://alexwang.ai/posts/associative-memory/ Comments URL: https://news.ycombinator.com/item?id=50122878 Points: 361 # Comments: 83"
    ],
    "source": "Hacker News",
    "url": "https://alexwang.ai/posts/associative-memory/",
@@ -246,7 +246,7 @@
    "id": "7a6a342eb9583796b00ba8488e92f11c4c3f9a88",
    "title": "Claude reveals ECDSA curve origins",
    "summary": [
-    "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 876 # Comments: 326"
+    "https://words.filippo.io/seeds-solved/ Comments URL: https://news.ycombinator.com/item?id=50122800 Points: 931 # Comments: 340"
    ],
    "source": "Hacker News",
    "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
@@ -256,23 +256,10 @@
    "related": []
   },
   {
-   "id": "362ca747eb117d279c21d0eeb644859fb2c3a507",
-   "title": "C++26: The New Debugging Header",
-   "summary": [
-    "Article URL: https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging Comments URL: https://news.ycombinator.com/item?id=50122736 Points: 98 # Comments: 23"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
-   "image": null,
-   "published_at": "2026-10-16T18:52:39Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "0342f39befa102611a3964a64d81ac28b555e319",
    "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
    "summary": [
-    "Article URL: https://github.com/cobanov/PS5LM Comments URL: https://news.ycombinator.com/item?id=50122431 Points: 293 # Comments: 73"
+    "Article URL: https://github.com/cobanov/PS5LM Comments URL: https://news.ycombinator.com/item?id=50122431 Points: 314 # Comments: 76"
    ],
    "source": "Hacker News",
    "url": "https://github.com/cobanov/PS5LM",
@@ -285,7 +272,7 @@
    "id": "07642f1530b37455211eafbcf218769a47cd9e8b",
    "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
    "summary": [
-    "Article URL: https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear Comments URL: https://news.ycombinator.com/item?id=50122034 Points: 224 # Comments: 199"
+    "Article URL: https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear Comments URL: https://news.ycombinator.com/item?id=50122034 Points: 241 # Comments: 216"
    ],
    "source": "Hacker News",
    "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
@@ -298,7 +285,7 @@
    "id": "04b7640931c7c9715e6a3167f61f1a526fddcb22",
    "title": "Designing more efficient quantum circuits with Claude",
    "summary": [
-    "Article URL: https://www.anthropic.com/research/designing-efficient-quantum-circuits Comments URL: https://news.ycombinator.com/item?id=50121939 Points: 143 # Comments: 32"
+    "Article URL: https://www.anthropic.com/research/designing-efficient-quantum-circuits Comments URL: https://news.ycombinator.com/item?id=50121939 Points: 155 # Comments: 33"
    ],
    "source": "Hacker News",
    "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
@@ -324,7 +311,7 @@
    "id": "32239fe1b8b165b3ecacee2bb42360fc3acc3ab3",
    "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
    "summary": [
-    "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 507 # Comments: 429"
+    "Article URL: https://www.mercor.com/research/labor-index/benchmark-map/ Comments URL: https://news.ycombinator.com/item?id=50121179 Points: 546 # Comments: 478"
    ],
    "source": "Hacker News",
    "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
@@ -351,7 +338,7 @@
    "id": "ff9286355f7e922bd06d600c6a56bd36af2191f0",
    "title": "JPEG XL vs. AVIF for web use-cases",
    "summary": [
-    "Article URL: https://jakearchibald.com/2026/jpeg-xl-vs-avif/ Comments URL: https://news.ycombinator.com/item?id=50120224 Points: 263 # Comments: 183"
+    "Article URL: https://jakearchibald.com/2026/jpeg-xl-vs-avif/ Comments URL: https://news.ycombinator.com/item?id=50120224 Points: 289 # Comments: 191"
    ],
    "source": "Hacker News",
    "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
@@ -417,7 +404,7 @@
    "id": "801983bc03d59ab52ba15a98cdbb27ea0cf641a1",
    "title": "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",
    "summary": [
-    "Article URL: https://adepts.of0x.cc/eufy-homestation2-firmware/ Comments URL: https://news.ycombinator.com/item?id=50119751 Points: 45 # Comments: 3"
+    "Article URL: https://adepts.of0x.cc/eufy-homestation2-firmware/ Comments URL: https://news.ycombinator.com/item?id=50119751 Points: 66 # Comments: 4"
    ],
    "source": "Hacker News",
    "url": "https://adepts.of0x.cc/eufy-homestation2-firmware/",
@@ -466,6 +453,19 @@
    "related": []
   },
   {
+   "id": "3d3011b3b2f663f46f2b7f57f71e6f8ca911b550",
+   "title": "Show HN: Gemini 4 Argon plays StarCraft",
+   "summary": [
+    "I've refreshed StarSkirmish Bench, a benchmark where LLMs play StarCraft BW by writing code, with results from the flagship models of OpenAI, Anthropic, Google, and Muse Comments URL: https://news.ycombinator.com/item?id=50118688 Points: 229 # Comments: 103"
+   ],
+   "source": "Hacker News",
+   "url": "https://starskirmish.com/bench/v0-2/",
+   "image": null,
+   "published_at": "2026-10-16T14:18:44Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "311fa86942b350f533df27234a467ccf7f820663",
    "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
    "summary": [
@@ -476,6 +476,19 @@
    "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
    "image": null,
    "published_at": "2026-10-16T14:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "98e6a11f87f3c75ff09f029c60c62757139be47d",
+   "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+   "summary": [
+    "Article URL: https://machinelearning.apple.com/research/mlx-distributed-inference Comments URL: https://news.ycombinator.com/item?id=50118320 Points: 335 # Comments: 168"
+   ],
+   "source": "Hacker News",
+   "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+   "image": null,
+   "published_at": "2026-10-16T13:43:48Z",
    "category": "tech",
    "related": []
   },
@@ -493,6 +506,20 @@
    "related": []
   },
   {
+   "id": "1fae0ae289e80d950e91d86bdc524600cd14e95b",
+   "title": "How to dress a tech oligarch: The Social Reckoning’s costume designer on Zuckerberg’s style evolution",
+   "summary": [
+    "This is “post-hoodie”, as the movie’s costume designer, Susan Lyall, describes it, “post-thumbing his nose” to formality.",
+    "Zuckerberg’s reserved wardrobe of suits or interchangeable long-sleeved shirts echo his chilling composure throughout, even as fury simmers under the surface."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/fashion/2026/oct/16/social-reckoning-zuckerberg-fashion-costume-design",
+   "image": "https://i.guim.co.uk/img/media/5f77be0b14a2f3a0c3b168ce5bdcf5ed989dcc51/610_75_1532_1227/master/1532.jpg?width=140&quality=85&auto=format&fit=max&s=de76213c5ccd85dc05e8c7ad0ab7ae76",
+   "published_at": "2026-10-16T12:00:10Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "8166bdb08fd4fae8e0406b73496a8d4bb23e424f",
    "title": "Elon Musk reveals ‘world’s first flying car’ at Tesla event",
    "summary": [
@@ -502,19 +529,6 @@
    "url": "https://www.theguardian.com/technology/2026/oct/16/elon-musk-reveals-worlds-first-flying-car-spacex",
    "image": "https://i.guim.co.uk/img/media/667c1429bf75b3b0a29168c236f2ebc4611413bd/266_0_2649_2119/master/2649.jpg?width=140&quality=85&auto=format&fit=max&s=6e238831dabf8bacccc5a84e683ffe42",
    "published_at": "2026-10-16T11:53:04Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "7808f42e12c7dcc7f7f007795c4279256c8a9e62",
-   "title": "‘We should all be worried’: calls grow to limit London rollout of robotaxis",
-   "summary": [
-    "But I thought it would come with a solution for us.” Continue reading..."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/oct/16/london-driverless-robotaxis-uber-drivers-wayve-tfl-licences",
-   "image": "https://i.guim.co.uk/img/media/f6c7f7fa456c9d2d24c7290211be395c992289b7/0_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=5ad4718969e0b4b4d4129966f37d967b",
-   "published_at": "2026-10-16T11:00:46Z",
    "category": "tech",
    "related": []
   },
@@ -534,28 +548,15 @@
    "related": []
   },
   {
-   "id": "98fdffb3e2a1638cd7c50267cbff94ac5eb4d7fc",
-   "title": "Pornography with strangulation and incest to be banned in England and Wales next month",
+   "id": "c7f8d16269ed40a2677a05e68216d1a8d86b9729",
+   "title": "Development of Norton Commander",
    "summary": [
-    "Campaigners welcome legislation which follows recommendations by 2025 review into pornography regulationPornography that depicts strangulation and incestuous relationships will be banned in England and Wales from early November, the government has announced.The content will be outlawed from 6 November after cross-party pressure prompted ministers to announce new legislation earlier this year."
+    "Article URL: https://softpanorama.org/OFM/Paradigm/Ch03/norton_commander.shtml Comments URL: https://news.ycombinator.com/item?id=50115354 Points: 3 # Comments: 0"
    ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/society/2026/oct/16/pornography-strangulation-incest-ban-uk-november",
-   "image": "https://i.guim.co.uk/img/media/bcdd655bc08385e2fd9554c411f13047cce5c904/270_0_2842_2274/master/2842.jpg?width=140&quality=85&auto=format&fit=max&s=8aaacd99ad11ef97f2efbedf1a81330c",
-   "published_at": "2026-10-16T07:09:49Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "a1e5c012c858c7b6a05418ac6c7900d6b6a7feb8",
-   "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
-   "summary": [
-    "Benchmark says the Valley’s rule against backing rivals is getting harder to keep."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
+   "source": "Hacker News",
+   "url": "https://softpanorama.org/OFM/Paradigm/Ch03/norton_commander.shtml",
    "image": null,
-   "published_at": "2026-10-16T05:16:46Z",
+   "published_at": "2026-10-16T07:41:36Z",
    "category": "tech",
    "related": []
   }

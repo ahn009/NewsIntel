@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-17T10:32:55.380629Z",
- "story_count": 15,
+ "generated_at": "2026-10-17T14:10:18.145131Z",
+ "story_count": 22,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,77 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "75d120dddabf4f0f74ade621d525ab58b90169a0",
+   "title": "NASA’s Roman Space Telescope exceeds expectations by nearly 30%",
+   "summary": [
+    "NASA’s Nancy Grace Roman Space Telescope has exceeded expectations after engineers made incredibly tiny adjustments to sharpen its view of the universe.",
+    "By moving a mirror just one-sixteenth the width of a human hair, the team helped bring its powerful instruments into near-perfect alignment.",
+    "Roman’s Wide Field Instrument now produces image quality nearly 30% better than predicted, promising exceptionally sharp cosmic surveys."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261016070630.htm",
+   "image": null,
+   "published_at": "2026-10-17T13:28:13Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "b14c5ae307c9ad2221929e396bbe5b06b96a2bcc",
+   "title": "This bird flies thousands of miles, but its wings have a catch",
+   "summary": [
+    "Scientists have uncovered an unexpected trade-off in the wings of the European nightjar, a bird that migrates thousands of kilometers but sacrifices high-speed flight efficiency to hunt insects with remarkable agility.",
+    "Even more surprisingly, it generates thrust on the upward wingbeat, a technique that could inspire new flying technologies."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261016070624.htm",
+   "image": null,
+   "published_at": "2026-10-17T13:05:02Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "f1b32b8e788c3f041c8f93d2a860a8abe1bd3fee",
+   "title": "Brain cells meant to protect us may be fueling cognitive decline",
+   "summary": [
+    "Scientists have uncovered a surprising cause of age-related cognitive decline involving brain cells previously thought to be entirely beneficial.",
+    "As these cells become dysfunctional, they can produce abnormal amounts of myelin, disrupting nerve fibers and potentially contributing to worsening memory and thinking skills."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261015073222.htm",
+   "image": null,
+   "published_at": "2026-10-17T12:44:22Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "422a12716d4a727c571886133dd73240350411cc",
+   "title": "NASA’s Webb reveals the wild weather of a mysterious world 20 light-years away",
+   "summary": [
+    "NASA’s James Webb Space Telescope has revealed that a turbulent world 20 light-years away has a surprisingly orderly weather system, with three recurring atmospheric states driven by temperature changes and shifting clouds.",
+    "The breakthrough gives scientists a powerful new tool for uncovering weather patterns on distant worlds and understanding the conditions that shape their atmospheres."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261015073215.htm",
+   "image": null,
+   "published_at": "2026-10-17T12:26:49Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "007d349c040f7065bdfa094fc46dfeb63df7cb9b",
+   "title": "Scientists discover how deep sleep builds muscle, burns fat, and boosts the brain",
+   "summary": [
+    "Scientists have discovered a surprising two-way relationship between sleep and growth hormone, revealing how the brain carefully balances physical recovery with wakefulness.",
+    "The findings could help explain why poor sleep harms metabolism and brain health, potentially opening the door to new treatments for sleep and neurological disorders."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261016081140.htm",
+   "image": null,
+   "published_at": "2026-10-17T05:14:50Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "ec57492b08b2ea4a812e973d4db03a918132e281",
    "title": "Avian flu and costs among reasons for loss of captive birds at Castle Espie",
@@ -50,6 +121,20 @@
    "related": []
   },
   {
+   "id": "585742c76008c1b5f2d88ecdb4d53a2a75197268",
+   "title": "Scientists predicted doomsday for November 13, 2026. Should we be worried?",
+   "summary": [
+    "In 1960, scientists predicted that runaway population growth would bring humanity to the brink of destruction on November 13, 2026, and their mathematical forecasts remained surprisingly accurate for decades.",
+    "But as birth rates declined and population growth slowed, the terrifying prediction unraveled, revealing how even convincing scientific models can fail when human behavior changes."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261016070639.htm",
+   "image": null,
+   "published_at": "2026-10-17T01:52:59Z",
+   "category": "science",
+   "related": []
+  },
+  {
    "id": "f06d27e1ad74d0cca6db99f33e0eaaec0d56468b",
    "title": "Evacuation orders as fast-moving California wildfire burns homes",
    "summary": [
@@ -59,6 +144,36 @@
    "url": "https://www.bbc.co.uk/news/articles/c6vgjnk8nw2wo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-17T01:36:39Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "ac7249d818d38656066b1279670e4050cff3e799",
+   "title": "SpaceX just delivered some very strange cargo to the International Space Station",
+   "summary": [
+    "SpaceX just delivered some surprisingly strange cargo to the International Space Station, including tiny brain models, 3D heart tissue, and technology for making artificial retinas in space.",
+    "Scientists hope these experiments could unlock new ways to treat devastating brain diseases, restore eyesight, and test future medicines.",
+    "The shipment also includes materials for creating unusual glass in near weightlessness and the station’s final upgraded solar arrays."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261016070628.htm",
+   "image": null,
+   "published_at": "2026-10-16T23:51:58Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "44aa4aa6cc2b46e0107aa2fed748c2779c941c69",
+   "title": "James Webb reveals a strange bulge in an alien planet's atmosphere",
+   "summary": [
+    "Astronomers using the James Webb Space Telescope have discovered that a distant alien planet's atmosphere is surprisingly lopsided.",
+    "Located 1,300 light-years away, the scorching gas giant WASP-17b experiences powerful winds that redistribute heat, causing one side of its atmosphere to bulge outward.",
+    "A groundbreaking new mapping technique revealed these hidden distortions, confirming predictions about how extreme temperatures and winds shape alien worlds."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261015073205.htm",
+   "image": null,
+   "published_at": "2026-10-16T23:27:29Z",
    "category": "science",
    "related": []
   },
@@ -212,20 +327,6 @@
    "url": "https://www.sciencedaily.com/releases/2026/10/261015073220.htm",
    "image": null,
    "published_at": "2026-10-16T03:45:22Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "3dc702219a72d25a3b57d87c015e25fe2880d115",
-   "title": "Antarctica’s sea ice has undergone a stunning reversal",
-   "summary": [
-    "Antarctic sea ice reached its third-lowest winter maximum in 2026, extending a remarkable decline that began after years of record-breaking growth.",
-    "Scientists are investigating whether the dramatic reversal signals a long-term shift in Antarctica's frozen landscape."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261015073210.htm",
-   "image": null,
-   "published_at": "2026-10-16T01:15:21Z",
    "category": "science",
    "related": []
   }
