@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T20:29:44.770114Z",
+ "generated_at": "2026-10-17T23:01:50.071099Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -23,6 +23,32 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "d4d8a21bd9972e11394c29470a79b7d15cd8916b",
+   "title": "Meta removes language that raised scraping and AI training concerns",
+   "summary": [
+    "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+   "image": null,
+   "published_at": "2026-10-17T21:31:32Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "63669a3458fe61cec740f16f32fed332c85d32d9",
+   "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+   "summary": [
+    "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
+   "image": null,
+   "published_at": "2026-10-17T20:55:52Z",
+   "category": "tech",
+   "related": []
+  },
   {
    "id": "610b2389dc8410149864a143473bbfb4e0e36429",
    "title": "No further action against government adviser's wife over Palestine Action post, police say",
@@ -50,8 +76,21 @@
    "related": []
   },
   {
+   "id": "ebf580290c440dc485fbcf44df26b4258c24be2c",
+   "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
+   "summary": [
+    "Article URL: https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/ Comments URL: https://news.ycombinator.com/item?id=50134617 Points: 55 # Comments: 58"
+   ],
+   "source": "Hacker News",
+   "url": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
+   "image": null,
+   "published_at": "2026-10-17T20:07:33Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "6435f671229b69ca08cbe2a0c540ff989dd2f621",
-   "title": "Replit is no longer working with Anthropic, CEO says",
+   "title": "Replit makes OpenAI its default over Anthropic, CEO says",
    "summary": [
     "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider.",
     "Claude will still be available to customers on the platform."
@@ -67,7 +106,7 @@
    "id": "1489ab22ad060896f81582b91a93c95c290b7ad6",
    "title": "Microsoft and CMU Team Up to Train Early Career Software Engineers",
    "summary": [
-    "Article URL: https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise Comments URL: https://news.ycombinator.com/item?id=50133830 Points: 10 # Comments: 4"
+    "Article URL: https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise Comments URL: https://news.ycombinator.com/item?id=50133830 Points: 45 # Comments: 51"
    ],
    "source": "Hacker News",
    "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
@@ -78,9 +117,9 @@
   },
   {
    "id": "72593c9c44c7a65addbdd2649f16cbc951fe8cdd",
-   "title": "Pattern Matching Beats Narrative Reasoning",
+   "title": "Pattern matching beats narrative reasoning",
    "summary": [
-    "Article URL: https://blog.scottstevenson.net/p/pattern-matching-beats-narrative Comments URL: https://news.ycombinator.com/item?id=50133736 Points: 14 # Comments: 3"
+    "Article URL: https://blog.scottstevenson.net/p/pattern-matching-beats-narrative Comments URL: https://news.ycombinator.com/item?id=50133736 Points: 36 # Comments: 20"
    ],
    "source": "Hacker News",
    "url": "https://blog.scottstevenson.net/p/pattern-matching-beats-narrative",
@@ -93,7 +132,7 @@
    "id": "49b49c1c440ebc796b6b099adc26ba6bc62e3540",
    "title": "OpenCode Hacked: User credentials leaked",
    "summary": [
-    "Article URL: https://twitter.com/opencode/status/2111516673953935833 Comments URL: https://news.ycombinator.com/item?id=50133401 Points: 327 # Comments: 64"
+    "Article URL: https://twitter.com/opencode/status/2111516673953935833 Comments URL: https://news.ycombinator.com/item?id=50133401 Points: 647 # Comments: 105"
    ],
    "source": "Hacker News",
    "url": "https://twitter.com/opencode/status/2111516673953935833",
@@ -103,10 +142,23 @@
    "related": []
   },
   {
+   "id": "59f1f537529db148b04ece190bda69f31008bfd4",
+   "title": "Codex Desktop continuously generates Crashpad pending dumps",
+   "summary": [
+    "Article URL: https://github.com/openai/codex/issues/25921 Comments URL: https://news.ycombinator.com/item?id=50133231 Points: 41 # Comments: 23"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/openai/codex/issues/25921",
+   "image": null,
+   "published_at": "2026-10-17T17:45:08Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "a7783c892e372029d4b343067902338d3c3bf7a1",
    "title": "I Became a Citizen of Japan",
    "summary": [
-    "Article URL: https://www.derekwessman.com/blog-1/natural Comments URL: https://news.ycombinator.com/item?id=50133150 Points: 46 # Comments: 7"
+    "Article URL: https://www.derekwessman.com/blog-1/natural Comments URL: https://news.ycombinator.com/item?id=50133150 Points: 110 # Comments: 37"
    ],
    "source": "Hacker News",
    "url": "https://www.derekwessman.com/blog-1/natural",
@@ -119,7 +171,7 @@
    "id": "eeafb835f191c63537550aa23d44f145eaf0314f",
    "title": "Development statistics for the 7.2 kernel",
    "summary": [
-    "Article URL: https://lwn.net/Articles/1088776/ Comments URL: https://news.ycombinator.com/item?id=50132950 Points: 105 # Comments: 74"
+    "Article URL: https://lwn.net/Articles/1088776/ Comments URL: https://news.ycombinator.com/item?id=50132950 Points: 119 # Comments: 91"
    ],
    "source": "Hacker News",
    "url": "https://lwn.net/Articles/1088776/",
@@ -129,23 +181,10 @@
    "related": []
   },
   {
-   "id": "4381fdce38c6e583cd0cdb63b3444b012e1519dc",
-   "title": "Tsc-ts: TypeScript written in TypeScript",
-   "summary": [
-    "Article URL: https://github.com/vercel-labs/tsc-ts Comments URL: https://news.ycombinator.com/item?id=50132911 Points: 36 # Comments: 34"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/vercel-labs/tsc-ts",
-   "image": null,
-   "published_at": "2026-10-17T17:10:27Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "d8b1ba92a93851627dea0090c4af86ed3aa212be",
    "title": "Gold is now the top U.S. export",
    "summary": [
-    "Article URL: https://www.numismaticnews.net/gold-now-top-u-s-export Comments URL: https://news.ycombinator.com/item?id=50132870 Points: 99 # Comments: 44"
+    "Article URL: https://www.numismaticnews.net/gold-now-top-u-s-export Comments URL: https://news.ycombinator.com/item?id=50132870 Points: 176 # Comments: 97"
    ],
    "source": "Hacker News",
    "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
@@ -171,7 +210,7 @@
    "id": "6881e07bf0c9f6a655cd4082deec7db4869c1795",
    "title": "Pele – Mermaid diagrams as themeable SVG",
    "summary": [
-    "Article URL: https://pele.run/ Comments URL: https://news.ycombinator.com/item?id=50132193 Points: 76 # Comments: 11"
+    "Article URL: https://pele.run/ Comments URL: https://news.ycombinator.com/item?id=50132193 Points: 168 # Comments: 17"
    ],
    "source": "Hacker News",
    "url": "https://pele.run/",
@@ -210,7 +249,7 @@
    "id": "dc9eb629f6559364a0ef311c9a7ecde85374604a",
    "title": "Solar surpasses nuclear power globally for first time",
    "summary": [
-    "Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/ Comments URL: https://news.ycombinator.com/item?id=50131256 Points: 379 # Comments: 227"
+    "Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/ Comments URL: https://news.ycombinator.com/item?id=50131256 Points: 438 # Comments: 283"
    ],
    "source": "Hacker News",
    "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
@@ -223,7 +262,7 @@
    "id": "63f0975b0b47ffb97155363d8ca0cf124f805ace",
    "title": "Making chicken transparent using Dorito dust",
    "summary": [
-    "Article URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using Comments URL: https://news.ycombinator.com/item?id=50131213 Points: 203 # Comments: 57"
+    "Article URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using Comments URL: https://news.ycombinator.com/item?id=50131213 Points: 234 # Comments: 63"
    ],
    "source": "Hacker News",
    "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
@@ -236,7 +275,7 @@
    "id": "19eb13d3d942f451755a4fe38846fae154ff5bc4",
    "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
    "summary": [
-    "Comments URL: https://news.ycombinator.com/item?id=50131189 Points: 78 # Comments: 10"
+    "Comments URL: https://news.ycombinator.com/item?id=50131189 Points: 105 # Comments: 11"
    ],
    "source": "Hacker News",
    "url": "https://github.com/mikroverk/esp32sim",
@@ -249,7 +288,7 @@
    "id": "238b590c0f8c00da9fab1559c292129eeee1a7dc",
    "title": "Show HN: High-quality duck audio synthesizer",
    "summary": [
-    "Article URL: https://celphase.github.io/duck-pond/ Comments URL: https://news.ycombinator.com/item?id=50131006 Points: 44 # Comments: 10"
+    "Article URL: https://celphase.github.io/duck-pond/ Comments URL: https://news.ycombinator.com/item?id=50131006 Points: 62 # Comments: 19"
    ],
    "source": "Hacker News",
    "url": "https://celphase.github.io/duck-pond/",
@@ -275,7 +314,7 @@
    "id": "68e772986b6259543fcbfee48cb417b2d6969912",
    "title": "The future of programming (1982)",
    "summary": [
-    "Article URL: https://dl.acm.org/doi/10.1145/358453.358459 Comments URL: https://news.ycombinator.com/item?id=50130079 Points: 28 # Comments: 5"
+    "Article URL: https://dl.acm.org/doi/10.1145/358453.358459 Comments URL: https://news.ycombinator.com/item?id=50130079 Points: 45 # Comments: 10"
    ],
    "source": "Hacker News",
    "url": "https://dl.acm.org/doi/10.1145/358453.358459",
@@ -316,7 +355,7 @@
    "id": "9b13d6a721a0c27049840c9b9a043dabdb98a309",
    "title": "DeepSeek-v4.1-Flash-1017",
    "summary": [
-    "https://api-docs.deepseek.com/news/news261017/https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 556 # Comments: 502"
+    "https://api-docs.deepseek.com/news/news261017/https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 640 # Comments: 543"
    ],
    "source": "Hacker News",
    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
@@ -358,7 +397,7 @@
    "id": "0913988ccbedf140c2de2032b60b314c3ea2f641",
    "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
    "summary": [
-    "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 217 # Comments: 73"
+    "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 233 # Comments: 75"
    ],
    "source": "Hacker News",
    "url": "https://llmspeed.dev/",
@@ -384,7 +423,7 @@
    "id": "f4f8e6696210f17512988621f79944e02fd40ae2",
    "title": "Source code of the Estonian online voting system",
    "summary": [
-    "Article URL: https://github.com/valimised/ivxv Comments URL: https://news.ycombinator.com/item?id=50127586 Points: 78 # Comments: 47"
+    "Article URL: https://github.com/valimised/ivxv Comments URL: https://news.ycombinator.com/item?id=50127586 Points: 123 # Comments: 107"
    ],
    "source": "Hacker News",
    "url": "https://github.com/valimised/ivxv",
@@ -397,7 +436,7 @@
    "id": "03317c4040fa930157a420751e0a1a48f3405768",
    "title": "A skeptic's first contact with Kubernetes (2024)",
    "summary": [
-    "Article URL: https://blog.davidv.dev/posts/first-contact-with-k8s/ Comments URL: https://news.ycombinator.com/item?id=50127572 Points: 47 # Comments: 7"
+    "Article URL: https://blog.davidv.dev/posts/first-contact-with-k8s/ Comments URL: https://news.ycombinator.com/item?id=50127572 Points: 66 # Comments: 32"
    ],
    "source": "Hacker News",
    "url": "https://blog.davidv.dev/posts/first-contact-with-k8s/",
@@ -420,24 +459,10 @@
    "related": []
   },
   {
-   "id": "3f21368f158734870236e2ddf42e31b63eee7523",
-   "title": "Show HN: Things to Do API",
-   "summary": [
-    "If you're building something that needs local event data, would something like this be useful and where would you want coverage?",
-    "Comments URL: https://news.ycombinator.com/item?id=50126384 Points: 23 # Comments: 3"
-   ],
-   "source": "Hacker News",
-   "url": "https://thingstodoapi.com/",
-   "image": null,
-   "published_at": "2026-10-16T23:58:34Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "06d2ea4b5b7da0ddb4ba68333378fa3930108532",
    "title": "Dam removals are bringing fish back across the northeastern United States",
    "summary": [
-    "Article URL: https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/ Comments URL: https://news.ycombinator.com/item?id=50126312 Points: 52 # Comments: 10"
+    "Article URL: https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/ Comments URL: https://news.ycombinator.com/item?id=50126312 Points: 129 # Comments: 36"
    ],
    "source": "Hacker News",
    "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
@@ -523,32 +548,6 @@
    "url": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
    "image": null,
    "published_at": "2026-10-16T16:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "2018da0d05f2bd7732a7a50cea4346ff2ac40358",
-   "title": "In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder",
-   "summary": [
-    "Nathan Fielder's documentary about disgraced Theranos CEO Elizabeth Holmes has created a constellation of colliding personas that interrogate the very nature of authenticity."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/",
-   "image": null,
-   "published_at": "2026-10-16T16:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "3514787761594313f590f9bb7a0ba8a795ec195d",
-   "title": "Jev is Vercel’s fastest-adopted AI model ever",
-   "summary": [
-    "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-   "image": null,
-   "published_at": "2026-10-16T15:33:49Z",
    "category": "tech",
    "related": []
   }
