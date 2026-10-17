@@ -1,0 +1,38 @@
+name: news-scrape
+
+on:
+  schedule:
+    - cron: '7 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: news-scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Scrape, summarize, write JSON
+        run: python3 scraper/run.py
+      - name: Commit updated news if changed
+        run: |
+          git config user.name "newsintel-bot"
+          git config user.email "newsintel-bot@users.noreply.github.com"
+          git add public/news
+          if git diff --cached --quiet; then
+            echo "No news changes — skipping commit."
+          else
+            git commit -m "chore: refresh news $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi
