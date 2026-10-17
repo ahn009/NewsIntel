@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T17:50:55.271541Z",
+ "generated_at": "2026-10-17T20:29:44.770632Z",
  "story_count": 18,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -23,6 +23,19 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "f06d27e1ad74d0cca6db99f33e0eaaec0d56468b",
+   "title": "Fast-moving California wildfire burns homes as people are ordered to leave",
+   "summary": [
+    "Fanned by the fierce Santa Ana winds, the Norte Fire is one of 13 burning across the state."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6vgjnk8nw2wo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-17T19:13:21Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "75d120dddabf4f0f74ade621d525ab58b90169a0",
    "title": "NASA’s Roman Space Telescope exceeds expectations by nearly 30%",
@@ -131,19 +144,6 @@
    "url": "https://www.sciencedaily.com/releases/2026/10/261016070639.htm",
    "image": null,
    "published_at": "2026-10-17T01:52:59Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "f06d27e1ad74d0cca6db99f33e0eaaec0d56468b",
-   "title": "Fast-moving California wildfire burns homes as people are ordered to leave",
-   "summary": [
-    "Fanned by the fierce Santa Ana winds, the Norte Fire is one of 13 burning across the state."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6vgjnk8nw2wo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-17T01:36:39Z",
    "category": "science",
    "related": []
   },
