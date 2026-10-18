@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-18T00:53:20.320076Z",
- "story_count": 12,
+ "generated_at": "2026-10-18T05:46:01.413483Z",
+ "story_count": 13,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,32 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "b93cfa87adc21a8c1b7b743dee89556c13d8fa83",
+   "title": "Corby metal pollution may harm people, says study",
+   "summary": [
+    "However, the Environment Agency says it has not found evidence that could cause significant harm."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ckx2dgl087lzo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-18T05:37:52Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "866344e5d77f123d3e97f71a23536bef73796a22",
+   "title": "Two damselfly species return to restored woodland",
+   "summary": [
+    "A three-year project to restore woodland at seven nature reserves is completed."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cwg5jvnqv28go?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-18T05:16:16Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "f06d27e1ad74d0cca6db99f33e0eaaec0d56468b",
    "title": "Fast-moving California wildfire burns homes as people are ordered to leave",
@@ -174,19 +200,6 @@
    "url": "https://www.sciencedaily.com/releases/2026/10/261015073205.htm",
    "image": null,
    "published_at": "2026-10-16T23:27:29Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "3acbce39612a6dffb00bf6af8329e4a8ee50fde5",
-   "title": "US senators call for investigation into Ukraine's Starlink restrictions",
-   "summary": [
-    "Ukraine says temporary speed limits to the Starlink internet network disrupted its battlefield missions."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cq398zl8jmvdo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-16T14:19:50Z",
    "category": "science",
    "related": []
   }

@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-18T00:53:20.319400Z",
- "story_count": 40,
+ "generated_at": "2026-10-18T05:46:01.412719Z",
+ "story_count": 36,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,59 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "320589ac2dc2e92bb4b90661813cbd39eebbaadf",
+   "title": "A Mole Infiltrated the Highest Ranks of American Militias",
+   "summary": [
+    "Article URL: https://www.propublica.org/article/ap3-oath-keepers-militia-mole Comments URL: https://news.ycombinator.com/item?id=50138044 Points: 13 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.propublica.org/article/ap3-oath-keepers-militia-mole",
+   "image": null,
+   "published_at": "2026-10-18T04:59:24Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "d3c35db34ec3acb331d474191fe72e5ca99effdf",
+   "title": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+   "summary": [
+    "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works.",
+    "Comments URL: https://news.ycombinator.com/item?id=50137950 Points: 16 # Comments: 2"
+   ],
+   "source": "Hacker News",
+   "url": "https://sphinx-six-theta.vercel.app/",
+   "image": null,
+   "published_at": "2026-10-18T04:33:49Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "32b83c7f52bb86aa62b1b23ead84ef51d644943e",
+   "title": "How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
+   "summary": [
+    "Article URL: https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything Comments URL: https://news.ycombinator.com/item?id=50137620 Points: 48 # Comments: 22"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+   "image": null,
+   "published_at": "2026-10-18T03:19:49Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "1b57e911f336a7283823e57ef04a897437949b3b",
+   "title": "NY announces game ownership bill requiring ownership rather than licensing",
+   "summary": [
+    "Article URL: https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends Comments URL: https://news.ycombinator."
+   ],
+   "source": "Hacker News",
+   "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+   "image": null,
+   "published_at": "2026-10-18T00:14:22Z",
+   "category": "tech",
+   "related": []
+  },
   {
    "id": "d4d8a21bd9972e11394c29470a79b7d15cd8916b",
    "title": "Meta removes language that raised scraping and AI training concerns",
@@ -76,19 +129,6 @@
    "related": []
   },
   {
-   "id": "ebf580290c440dc485fbcf44df26b4258c24be2c",
-   "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
-   "summary": [
-    "Article URL: https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/ Comments URL: https://news.ycombinator.com/item?id=50134617 Points: 78 # Comments: 75"
-   ],
-   "source": "Hacker News",
-   "url": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
-   "image": null,
-   "published_at": "2026-10-17T20:07:33Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "6435f671229b69ca08cbe2a0c540ff989dd2f621",
    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
    "summary": [
@@ -103,36 +143,10 @@
    "related": []
   },
   {
-   "id": "1489ab22ad060896f81582b91a93c95c290b7ad6",
-   "title": "Microsoft and CMU team up to train early career software engineers",
-   "summary": [
-    "Article URL: https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise Comments URL: https://news.ycombinator.com/item?id=50133830 Points: 58 # Comments: 67"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
-   "image": null,
-   "published_at": "2026-10-17T18:45:07Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "49b49c1c440ebc796b6b099adc26ba6bc62e3540",
-   "title": "OpenCode Hacked: User credentials leaked",
-   "summary": [
-    "Article URL: https://twitter.com/opencode/status/2111516673953935833 Comments URL: https://news.ycombinator.com/item?id=50133401 Points: 733 # Comments: 124"
-   ],
-   "source": "Hacker News",
-   "url": "https://twitter.com/opencode/status/2111516673953935833",
-   "image": null,
-   "published_at": "2026-10-17T18:01:41Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "59f1f537529db148b04ece190bda69f31008bfd4",
    "title": "Codex Desktop continuously generates Crashpad pending dumps",
    "summary": [
-    "Article URL: https://github.com/openai/codex/issues/25921 Comments URL: https://news.ycombinator.com/item?id=50133231 Points: 63 # Comments: 25"
+    "Article URL: https://github.com/openai/codex/issues/25921 Comments URL: https://news.ycombinator.com/item?id=50133231 Points: 111 # Comments: 39"
    ],
    "source": "Hacker News",
    "url": "https://github.com/openai/codex/issues/25921",
@@ -145,7 +159,7 @@
    "id": "a7783c892e372029d4b343067902338d3c3bf7a1",
    "title": "I Became a Citizen of Japan",
    "summary": [
-    "Article URL: https://www.derekwessman.com/blog-1/natural Comments URL: https://news.ycombinator.com/item?id=50133150 Points: 141 # Comments: 56"
+    "Article URL: https://www.derekwessman.com/blog-1/natural Comments URL: https://news.ycombinator.com/item?id=50133150 Points: 190 # Comments: 102"
    ],
    "source": "Hacker News",
    "url": "https://www.derekwessman.com/blog-1/natural",
@@ -158,7 +172,7 @@
    "id": "d8b1ba92a93851627dea0090c4af86ed3aa212be",
    "title": "Gold is now the top U.S. export",
    "summary": [
-    "Article URL: https://www.numismaticnews.net/gold-now-top-u-s-export Comments URL: https://news.ycombinator.com/item?id=50132870 Points: 217 # Comments: 113"
+    "Article URL: https://www.numismaticnews.net/gold-now-top-u-s-export Comments URL: https://news.ycombinator.com/item?id=50132870 Points: 290 # Comments: 149"
    ],
    "source": "Hacker News",
    "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
@@ -184,7 +198,7 @@
    "id": "6881e07bf0c9f6a655cd4082deec7db4869c1795",
    "title": "Pele – Mermaid diagrams as themeable SVG",
    "summary": [
-    "Article URL: https://pele.run/ Comments URL: https://news.ycombinator.com/item?id=50132193 Points: 218 # Comments: 24"
+    "Article URL: https://pele.run/ Comments URL: https://news.ycombinator.com/item?id=50132193 Points: 337 # Comments: 30"
    ],
    "source": "Hacker News",
    "url": "https://pele.run/",
@@ -223,7 +237,7 @@
    "id": "dc9eb629f6559364a0ef311c9a7ecde85374604a",
    "title": "Solar surpasses nuclear power globally for first time",
    "summary": [
-    "Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/ Comments URL: https://news.ycombinator.com/item?id=50131256 Points: 465 # Comments: 304"
+    "Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/ Comments URL: https://news.ycombinator.com/item?id=50131256 Points: 534 # Comments: 329"
    ],
    "source": "Hacker News",
    "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
@@ -236,7 +250,7 @@
    "id": "63f0975b0b47ffb97155363d8ca0cf124f805ace",
    "title": "Making chicken transparent using Dorito dust",
    "summary": [
-    "Article URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using Comments URL: https://news.ycombinator.com/item?id=50131213 Points: 247 # Comments: 65"
+    "Article URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using Comments URL: https://news.ycombinator.com/item?id=50131213 Points: 281 # Comments: 71"
    ],
    "source": "Hacker News",
    "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
@@ -249,7 +263,7 @@
    "id": "19eb13d3d942f451755a4fe38846fae154ff5bc4",
    "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
    "summary": [
-    "Comments URL: https://news.ycombinator.com/item?id=50131189 Points: 120 # Comments: 11"
+    "Comments URL: https://news.ycombinator.com/item?id=50131189 Points: 146 # Comments: 15"
    ],
    "source": "Hacker News",
    "url": "https://github.com/mikroverk/esp32sim",
@@ -262,12 +276,25 @@
    "id": "238b590c0f8c00da9fab1559c292129eeee1a7dc",
    "title": "Show HN: High-quality duck audio synthesizer",
    "summary": [
-    "Article URL: https://celphase.github.io/duck-pond/ Comments URL: https://news.ycombinator.com/item?id=50131006 Points: 78 # Comments: 23"
+    "Article URL: https://celphase.github.io/duck-pond/ Comments URL: https://news.ycombinator.com/item?id=50131006 Points: 106 # Comments: 27"
    ],
    "source": "Hacker News",
    "url": "https://celphase.github.io/duck-pond/",
    "image": null,
    "published_at": "2026-10-17T13:28:46Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "1ec9a16460d0c277ae22a35b9509bc4dc3751464",
+   "title": "Interactive Linear Programming in the Browser",
+   "summary": [
+    "Article URL: https://lpviz.net/ Comments URL: https://news.ycombinator.com/item?id=50130379 Points: 4 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://lpviz.net/",
+   "image": null,
+   "published_at": "2026-10-17T12:06:44Z",
    "category": "tech",
    "related": []
   },
@@ -283,24 +310,6 @@
    "published_at": "2026-10-17T11:33:20Z",
    "category": "tech",
    "related": []
-  },
-  {
-   "id": "68e772986b6259543fcbfee48cb417b2d6969912",
-   "title": "The future of programming (1982)",
-   "summary": [
-    "Article URL: https://dl.acm.org/doi/10.1145/358453.358459 Comments URL: https://news.ycombinator.com/item?id=50130079 Points: 53 # Comments: 13"
-   ],
-   "source": "Hacker News",
-   "url": "https://dl.acm.org/doi/10.1145/358453.358459",
-   "image": null,
-   "published_at": "2026-10-17T11:20:52Z",
-   "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "https://openjdk.org/projects/jdk/28/"
-    }
-   ]
   },
   {
    "id": "c276fd5180d3f468eefeb3269ce3bb5e2dbd6a8a",
@@ -334,7 +343,7 @@
    "id": "9b13d6a721a0c27049840c9b9a043dabdb98a309",
    "title": "DeepSeek-v4.1-Flash-1017",
    "summary": [
-    "https://api-docs.deepseek.com/news/news261017/https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 680 # Comments: 577"
+    "https://api-docs.deepseek.com/news/news261017/https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 776 # Comments: 618"
    ],
    "source": "Hacker News",
    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
@@ -376,7 +385,7 @@
    "id": "0913988ccbedf140c2de2032b60b314c3ea2f641",
    "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
    "summary": [
-    "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 247 # Comments: 77"
+    "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 269 # Comments: 78"
    ],
    "source": "Hacker News",
    "url": "https://llmspeed.dev/",
@@ -402,7 +411,7 @@
    "id": "f4f8e6696210f17512988621f79944e02fd40ae2",
    "title": "Source code of the Estonian online voting system",
    "summary": [
-    "Article URL: https://github.com/valimised/ivxv Comments URL: https://news.ycombinator.com/item?id=50127586 Points: 153 # Comments: 133"
+    "Article URL: https://github.com/valimised/ivxv Comments URL: https://news.ycombinator.com/item?id=50127586 Points: 192 # Comments: 157"
    ],
    "source": "Hacker News",
    "url": "https://github.com/valimised/ivxv",
@@ -415,7 +424,7 @@
    "id": "03317c4040fa930157a420751e0a1a48f3405768",
    "title": "A skeptic's first contact with Kubernetes (2024)",
    "summary": [
-    "Article URL: https://blog.davidv.dev/posts/first-contact-with-k8s/ Comments URL: https://news.ycombinator.com/item?id=50127572 Points: 79 # Comments: 39"
+    "Article URL: https://blog.davidv.dev/posts/first-contact-with-k8s/ Comments URL: https://news.ycombinator.com/item?id=50127572 Points: 104 # Comments: 55"
    ],
    "source": "Hacker News",
    "url": "https://blog.davidv.dev/posts/first-contact-with-k8s/",
@@ -441,7 +450,7 @@
    "id": "06d2ea4b5b7da0ddb4ba68333378fa3930108532",
    "title": "Dam removals are bringing fish back across the northeastern United States",
    "summary": [
-    "Article URL: https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/ Comments URL: https://news.ycombinator.com/item?id=50126312 Points: 176 # Comments: 49"
+    "Article URL: https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/ Comments URL: https://news.ycombinator.com/item?id=50126312 Points: 244 # Comments: 60"
    ],
    "source": "Hacker News",
    "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
@@ -454,7 +463,7 @@
    "id": "f8b040014d2e00652824076086e153b3c782e4de",
    "title": "Bleached corals thrive within days when touching healthy neighbour",
    "summary": [
-    "https://archive.ph/zIPG4 Comments URL: https://news.ycombinator.com/item?id=50126253 Points: 296 # Comments: 64"
+    "https://archive.ph/zIPG4 Comments URL: https://news.ycombinator.com/item?id=50126253 Points: 393 # Comments: 83"
    ],
    "source": "Hacker News",
    "url": "https://www.nature.com/articles/d41586-026-03266-x",
@@ -486,73 +495,6 @@
    "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
    "image": null,
    "published_at": "2026-10-16T17:52:24Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "84c2c565c396ae83e605db987f544eac54cf869f",
-   "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-   "summary": [
-    "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt.",
-    "This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have […]"
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-   "image": null,
-   "published_at": "2026-10-16T16:30:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "6bb605f3ee09f7c9ae8842241278855879c107cc",
-   "title": "Waymo’s robotaxis are headed to Canada",
-   "summary": [
-    "The company will start off by testing its self-driving vehicles on Toronto's streets."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
-   "image": null,
-   "published_at": "2026-10-16T16:06:38Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "1aa8b1ac1c09583d0f9dc1bcc6747aa7814875dd",
-   "title": "Elorian’s first AI model wants to reason with images, not just about them",
-   "summary": [
-    "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-   "image": null,
-   "published_at": "2026-10-16T16:01:37Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "1b81886e2962328dbb0ccf51decf993c3224d595",
-   "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
-   "summary": [
-    "Tressfecta builds products for textured hair.",
-    "Its first project is a tool called Plait Pilot that helps braiders with the initial process of separating hair from packs before braiding begins."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
-   "image": null,
-   "published_at": "2026-10-16T16:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "2018da0d05f2bd7732a7a50cea4346ff2ac40358",
-   "title": "In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder",
-   "summary": [
-    "Nathan Fielder's documentary about disgraced Theranos CEO Elizabeth Holmes has created a constellation of colliding personas that interrogate the very nature of authenticity."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/",
-   "image": null,
-   "published_at": "2026-10-16T16:00:00Z",
    "category": "tech",
    "related": []
   }
