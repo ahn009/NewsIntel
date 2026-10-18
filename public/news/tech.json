@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T20:32:35.725088Z",
+ "generated_at": "2026-10-18T23:01:18.254265Z",
  "story_count": 35,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -24,6 +24,84 @@
  },
  "stories": [
   {
+   "id": "6f2aca72a3fc44028770d46b0d493aca4fa94bdc",
+   "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+   "summary": [
+    "Comments URL: https://news.ycombinator.com/item?id=50145715 Points: 9 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/finereli/whatsapp-mcp",
+   "image": null,
+   "published_at": "2026-10-18T21:36:10Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "3c0ec68b0200817f355bffa95d8a69967c967b4e",
+   "title": "Show HN: OmniPTY – Opinionated terminal emulator for macOS and Linux",
+   "summary": [
+    "Article URL: https://github.com/omnipty-terminal/omnipty Comments URL: https://news.ycombinator.com/item?id=50145628 Points: 4 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/omnipty-terminal/omnipty",
+   "image": null,
+   "published_at": "2026-10-18T21:24:13Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "0716d882492db9f251c70d8ad7fe84cdc680f77a",
+   "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
+   "summary": [
+    "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms"
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
+   "image": null,
+   "published_at": "2026-10-18T21:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a5bb32320853f4db899f960fab78f0afa3dea1e6",
+   "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+   "summary": [
+    "https://x.com/Jiaru_Zou/status/2110400256647340476https://github.com/togethercomputer/HybridAgenthttps://huggingface.co/collections/togethercomputer/hybridag...Evaluations: https://arxiv.org/html/2610.18861v1#S5 Comments URL: https://news.ycombinator.com/item?id=50145337 Points: "
+   ],
+   "source": "Hacker News",
+   "url": "https://arxiv.org/abs/2610.18861",
+   "image": null,
+   "published_at": "2026-10-18T20:48:14Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "e732de753bace41af364338325698bdd9a707c18",
+   "title": "Netflix vmaf: Perceptual video quality assessment based on multi-method fusion",
+   "summary": [
+    "Article URL: https://github.com/Netflix/vmaf Comments URL: https://news.ycombinator.com/item?id=50145295 Points: 12 # Comments: 4"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/Netflix/vmaf",
+   "image": null,
+   "published_at": "2026-10-18T20:43:40Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "efeb3746fdd37d801674c72b785de49682be6da8",
+   "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+   "summary": [
+    "Anthropic said that it will commit 5% of its shares to the fund."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+   "image": null,
+   "published_at": "2026-10-18T20:37:40Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "c40f00a6be8b60d73db72f3eec0bf342ea2f3332",
    "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
    "summary": [
@@ -37,23 +115,10 @@
    "related": []
   },
   {
-   "id": "be683c204a74258d44a254af69daf58dcf085338",
-   "title": "Tiny Brutalism – Thanks to HN it's on Steam",
-   "summary": [
-    "Article URL: https://store.steampowered.com/app/5426130/Tiny_Brutalism/ Comments URL: https://news.ycombinator.com/item?id=50144144 Points: 22 # Comments: 3"
-   ],
-   "source": "Hacker News",
-   "url": "https://store.steampowered.com/app/5426130/Tiny_Brutalism/",
-   "image": null,
-   "published_at": "2026-10-18T18:59:09Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "baaa6bb1521514d7ace076b0b8bf193971d94717",
    "title": "Free Pascal compiler now supports dynamic packages",
    "summary": [
-    "Article URL: https://www.getlazarus.org/dynamic/ Comments URL: https://news.ycombinator.com/item?id=50144066 Points: 35 # Comments: 8"
+    "Article URL: https://www.getlazarus.org/dynamic/ Comments URL: https://news.ycombinator.com/item?id=50144066 Points: 91 # Comments: 12"
    ],
    "source": "Hacker News",
    "url": "https://www.getlazarus.org/dynamic/",
@@ -66,7 +131,7 @@
    "id": "7e13c62a6d92fd82c9044ae30042a28a0b145438",
    "title": "Florida's HOAs and condo associations are making the housing crisis worse",
    "summary": [
-    "Article URL: https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html Comments URL: https://news.ycombinator.com/item?id=50144005 Points: 103 # Comments: 163"
+    "Article URL: https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html Comments URL: https://news.ycombinator.com/item?id=50144005 Points: 139 # Comments: 237"
    ],
    "source": "Hacker News",
    "url": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
@@ -76,23 +141,10 @@
    "related": []
   },
   {
-   "id": "382e1743a783fb8a96c874a4efc82680b01b23c2",
-   "title": "CFPB Opens Debanking Investigation into Nine Large National Banks",
-   "summary": [
-    "Article URL: https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/ Comments URL: https://news.ycombinator.com/item?id=50143876 Points: 22 # Comments: 8"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.forbes.com/sites/ajdhaliwal/2026/10/16/cfpb-opens-debanking-investigation-into-nine-large-national-banks/",
-   "image": null,
-   "published_at": "2026-10-18T18:26:40Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "907596fd16fa8be9ef0db2d4bd46f6a76caeaa36",
    "title": "Namecheap just seized and disabled all my domains",
    "summary": [
-    "Article URL: https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/ Comments URL: https://news.ycombinator.com/item?id=50142866 Points: 184 # Comments: 107"
+    "Article URL: https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/ Comments URL: https://news.ycombinator.com/item?id=50142866 Points: 345 # Comments: 163"
    ],
    "source": "Hacker News",
    "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
@@ -105,7 +157,7 @@
    "id": "a709c24b2f05ad3dcc271ee5c91df70141e496c4",
    "title": "Someone behind the software",
    "summary": [
-    "Article URL: https://karrisaarinen.com/posts/someone-behind-the-software/ Comments URL: https://news.ycombinator.com/item?id=50142573 Points: 175 # Comments: 66"
+    "Article URL: https://karrisaarinen.com/posts/someone-behind-the-software/ Comments URL: https://news.ycombinator.com/item?id=50142573 Points: 260 # Comments: 109"
    ],
    "source": "Hacker News",
    "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
@@ -132,7 +184,7 @@
    "id": "632eb2f33c5d9af507905770c1fd1826b4e4e372",
    "title": "The Intel 8087 chip: floating-point addition and subtraction",
    "summary": [
-    "Article URL: https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html Comments URL: https://news.ycombinator.com/item?id=50142449 Points: 63 # Comments: 13"
+    "Article URL: https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html Comments URL: https://news.ycombinator.com/item?id=50142449 Points: 82 # Comments: 23"
    ],
    "source": "Hacker News",
    "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
@@ -155,54 +207,15 @@
    "related": []
   },
   {
-   "id": "cef7cbf6c934d930035c23c29d097ff6586f8286",
-   "title": "macOS 15.8.2 Breaks OpenGL",
-   "summary": [
-    "Article URL: https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550 Comments URL: https://news.ycombinator.com/item?id=50141909 Points: 218 # Comments: 216"
-   ],
-   "source": "Hacker News",
-   "url": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
-   "image": null,
-   "published_at": "2026-10-18T15:26:06Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "d6d28d7170fa9e954ad126a3b0aab851a8b241d7",
-   "title": "Will it be a golden age or a dark age for mathematics (and science)?",
-   "summary": [
-    "Article URL: https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/ Comments URL: https://news.ycombinator.com/item?id=50141681 Points: 106 # Comments: 138"
-   ],
-   "source": "Hacker News",
-   "url": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/",
-   "image": null,
-   "published_at": "2026-10-18T15:00:40Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "98043109ddbddf1c1c23d8dca12945170cde591d",
    "title": "Java sealed classes and exhaustive pattern matching",
    "summary": [
-    "Article URL: https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/ Comments URL: https://news.ycombinator.com/item?id=50141579 Points: 104 # Comments: 72"
+    "Article URL: https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/ Comments URL: https://news.ycombinator.com/item?id=50141579 Points: 121 # Comments: 98"
    ],
    "source": "Hacker News",
    "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
    "image": null,
    "published_at": "2026-10-18T14:47:37Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "e5e3293dcc13ecd06e82f8d696bb049da3c08a26",
-   "title": "Show HN: Ranet3 – High performance policy routed IPsec mesh SD-WAN",
-   "summary": [
-    "btw this is already running on all my machines (including a macbook), and i've configured all of them to have routable public ip addresses ;)especially for the mac, my ISP is SFR (over coaxial connection) with only dynamic ipv4, i can use this to get stable v4/v6 addresses very e"
-   ],
-   "source": "Hacker News",
-   "url": "https://ranet3.com/",
-   "image": null,
-   "published_at": "2026-10-18T14:31:52Z",
    "category": "tech",
    "related": []
   },
@@ -218,19 +231,6 @@
    "url": "https://www.theguardian.com/technology/2026/oct/18/wikipedia-human-history-ai-future-under-threat",
    "image": "https://i.guim.co.uk/img/media/11bdcbd79d2083cd3ae980e805b8cdfd7e27fb80/145_0_2850_2279/master/2850.jpg?width=140&quality=85&auto=format&fit=max&s=ada5d277ad4d4387b5bc020d6159d745",
    "published_at": "2026-10-18T14:00:02Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "da3d59e95cdca04d354ba06a39616edd2f0b8b74",
-   "title": "The Electronic Disturbance Theater and Electronic Civil Disobedience (1998)",
-   "summary": [
-    "Article URL: https://www.thing.net/~rdom/ecd/EDTECD.html Comments URL: https://news.ycombinator.com/item?id=50141024 Points: 29 # Comments: 7"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.thing.net/~rdom/ecd/EDTECD.html",
-   "image": null,
-   "published_at": "2026-10-18T13:41:06Z",
    "category": "tech",
    "related": []
   },
@@ -267,25 +267,12 @@
    "id": "fcc34260855a04c1ebaf728dbebda0c6a75cf625",
    "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
    "summary": [
-    "Article URL: https://github.com/0x23/MicroManipulatorStepper Comments URL: https://news.ycombinator.com/item?id=50140001 Points: 153 # Comments: 12"
+    "Article URL: https://github.com/0x23/MicroManipulatorStepper Comments URL: https://news.ycombinator.com/item?id=50140001 Points: 168 # Comments: 13"
    ],
    "source": "Hacker News",
    "url": "https://github.com/0x23/MicroManipulatorStepper",
    "image": null,
    "published_at": "2026-10-18T11:16:22Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "1123defc000a68372df2b6a5b5798dc655420120",
-   "title": "The Brain Sandwich",
-   "summary": [
-    "Article URL: https://terriblesoftware.org/2026/10/02/the-brain-sandwich/ Comments URL: https://news.ycombinator.com/item?id=50139998 Points: 58 # Comments: 34"
-   ],
-   "source": "Hacker News",
-   "url": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
-   "image": null,
-   "published_at": "2026-10-18T11:15:37Z",
    "category": "tech",
    "related": []
   },
@@ -301,19 +288,6 @@
    "url": "https://www.theguardian.com/thefilter/2026/oct/18/best-toys-gifts-for-eight-year-olds-uk",
    "image": "https://i.guim.co.uk/img/media/492e7e936d85b3a274cd73df683745e9d36e7bea/22_0_3956_3165/master/3956.jpg?width=140&quality=85&auto=format&fit=max&s=9b1d470261c76dc2925140b30c632e86",
    "published_at": "2026-10-18T11:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "7b51d2f54a77d703c4ac36f384f40d2bbe664a83",
-   "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
-   "summary": [
-    "Article URL: https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/ Comments URL: https://news.ycombinator.com/item?id=50139692 Points: 208 # Comments: 58"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
-   "image": null,
-   "published_at": "2026-10-18T10:21:51Z",
    "category": "tech",
    "related": []
   },
@@ -334,7 +308,7 @@
    "id": "3337df1b3bee92b12b4f54ec7990aee735144513",
    "title": "Parser Combinators",
    "summary": [
-    "Article URL: https://t3.at/blog/2026-10-17-parser-combinators/ Comments URL: https://news.ycombinator.com/item?id=50139067 Points: 198 # Comments: 74"
+    "Article URL: https://t3.at/blog/2026-10-17-parser-combinators/ Comments URL: https://news.ycombinator.com/item?id=50139067 Points: 217 # Comments: 77"
    ],
    "source": "Hacker News",
    "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
@@ -352,12 +326,26 @@
    "id": "48479cd7194ad72c8a9a0b7596887da51ca1b564",
    "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
    "summary": [
-    "Article URL: https://api-docs.deepseek.com/guides/search/ Comments URL: https://news.ycombinator.com/item?id=50138531 Points: 489 # Comments: 234"
+    "Article URL: https://api-docs.deepseek.com/guides/search/ Comments URL: https://news.ycombinator.com/item?id=50138531 Points: 518 # Comments: 249"
    ],
    "source": "Hacker News",
    "url": "https://api-docs.deepseek.com/guides/search/",
    "image": null,
    "published_at": "2026-10-18T06:50:36Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "d3c35db34ec3acb331d474191fe72e5ca99effdf",
+   "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+   "summary": [
+    "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works.",
+    "Comments URL: https://news.ycombinator.com/item?id=50137950 Points: 238 # Comments: 80"
+   ],
+   "source": "Hacker News",
+   "url": "https://sphinx-six-theta.vercel.app/",
+   "image": null,
+   "published_at": "2026-10-18T04:33:49Z",
    "category": "tech",
    "related": []
   },
@@ -371,6 +359,45 @@
    "url": "https://www.theguardian.com/society/2026/oct/18/mep-lena-schilling-nude-deepfakes-eu-action",
    "image": "https://i.guim.co.uk/img/media/f451bf58ce9566761ef3e471f9080edcbc94e0a6/261_121_2606_2085/master/2606.jpg?width=140&quality=85&auto=format&fit=max&s=acca07559bd2486c93e545f85c16af5d",
    "published_at": "2026-10-18T04:00:50Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "32b83c7f52bb86aa62b1b23ead84ef51d644943e",
+   "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+   "summary": [
+    "Article URL: https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything Comments URL: https://news.ycombinator.com/item?id=50137620 Points: 347 # Comments: 487"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+   "image": null,
+   "published_at": "2026-10-18T03:19:49Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "66eb35d524c072b56cf1d8ae4211bfbbb7c81262",
+   "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
+   "summary": [
+    "Article URL: https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky Comments URL: https://news.ycombinator.com/item?id=50136979 Points: 81 # Comments: 57"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
+   "image": null,
+   "published_at": "2026-10-18T01:38:08Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "774f7412d1a369d1c04ab0bb964614cd55e7e294",
+   "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
+   "summary": [
+    "Article URL: https://www.youtube.com/watch?v=LKrwhjOI8Nc Comments URL: https://news.ycombinator.com/item?id=50136150 Points: 80 # Comments: 29"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+   "image": null,
+   "published_at": "2026-10-17T23:26:35Z",
    "category": "tech",
    "related": []
   },
@@ -463,36 +490,6 @@
    "url": "https://www.theguardian.com/technology/2026/oct/17/artificial-intelligence-ai-labour-government-safety-uk-extremism",
    "image": "https://i.guim.co.uk/img/media/e0d13c6ce0b90597a109492537328402905b91ca/719_0_7202_5760/master/7202.jpg?width=140&quality=85&auto=format&fit=max&s=bc2e49beb9729a79008890cd95940733",
    "published_at": "2026-10-17T11:33:20Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "c276fd5180d3f468eefeb3269ce3bb5e2dbd6a8a",
-   "title": "Fake Linda and me: the Agatha Christie-worthy mystery of the fraudster who stole my byline",
-   "summary": [
-    "How a string of bizarre events led writer Linda Geddes to don her sleuthing cap and dig into a world of shadowy impersonatorsIt started with an entirely ordinary interaction on LinkedIn.",
-    "Someone had tagged me in a post, saying how much they’d enjoyed contributing to a New York Post article I’d written about “chronoworking”.",
-    "There, above an article about people who organise their working lives around their biological clocks, was my name: Linda Geddes."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/oct/17/fake-linda-and-me-mystery-fraudster-stole-my-byline",
-   "image": "https://i.guim.co.uk/img/media/a426a8b6b459aed32bd6a8e431b13736369c3b21/676_119_6732_5385/master/6732.jpg?width=140&quality=85&auto=format&fit=max&s=f09aaf2d349e8bfc65d3ca6823fc23a4",
-   "published_at": "2026-10-17T11:00:30Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "107fb4fe2617135762aa67aef3a6ff2a336901cc",
-   "title": "‘You can’t make this stuff up’: why we remain fascinated by Elizabeth Holmes",
-   "summary": [
-    "The Holmes he met in the green room was personable and pleasant.",
-    "The Holmes he interviewed on stage was altogether different.“The accent changed: this deep voice, very serious,” Agus, a medical oncologist, recalls by phone from Los Angeles. “It was as if I had met a person and then interviewed a separate person.",
-    "That transition from the green room to the stage – I had never experienced something like that before.” Continue reading..."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/film/2026/oct/17/elizabeth-holmes-documentary-why-we-care",
-   "image": "https://i.guim.co.uk/img/media/964fa47326a827f12bf336e880b2fdc4665711e6/124_0_5598_4480/master/5598.jpg?width=140&quality=85&auto=format&fit=max&s=a87bb955799dc99704c62e34bbde3f3a",
-   "published_at": "2026-10-17T09:00:28Z",
    "category": "tech",
    "related": []
   }

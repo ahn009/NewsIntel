@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-18T20:32:35.725691Z",
- "story_count": 24,
+ "generated_at": "2026-10-18T23:01:18.255113Z",
+ "story_count": 25,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,19 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "280ae223b60cf9a5bc09acea5662323404be55bc",
+   "title": "Mission set to blast off for Mars to grab a piece of its moon",
+   "summary": [
+    "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-18T23:00:48Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "d55544bb135358dc4abb28cfdfeea91ea30eb4cf",
    "title": "Fuel leak spreads more than two miles along River Taff",
