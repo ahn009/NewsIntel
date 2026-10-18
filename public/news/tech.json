@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-18T14:30:40.464172Z",
- "story_count": 32,
+ "generated_at": "2026-10-18T18:01:20.494562Z",
+ "story_count": 34,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -24,6 +24,124 @@
  },
  "stories": [
   {
+   "id": "3d018421b0939c7ead4f7fabce76e3c90ec9ff93",
+   "title": "British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled",
+   "summary": [
+    "Article URL: https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/ Comments URL: https://news.ycombinator.com/item?id=50143218 Points: 38 # Comments: 25"
+   ],
+   "source": "Hacker News",
+   "url": "https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/",
+   "image": null,
+   "published_at": "2026-10-18T17:27:30Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a709c24b2f05ad3dcc271ee5c91df70141e496c4",
+   "title": "Someone Behind the Software",
+   "summary": [
+    "Article URL: https://karrisaarinen.com/posts/someone-behind-the-software/ Comments URL: https://news.ycombinator.com/item?id=50142573 Points: 44 # Comments: 13"
+   ],
+   "source": "Hacker News",
+   "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+   "image": null,
+   "published_at": "2026-10-18T16:32:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "218f77bb959f0137a2323231ddc1aa12a0ee1e5f",
+   "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+   "summary": [
+    "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney.",
+    "Character.AI’s former CEO Karandeep Anand recently became the entertainment giant’s first CTO, and the startup previously said that Disney had agreed to acquire some of its assets for $20 million."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+   "image": null,
+   "published_at": "2026-10-18T16:30:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "632eb2f33c5d9af507905770c1fd1826b4e4e372",
+   "title": "The Intel 8087 chip: floating-point addition and subtraction",
+   "summary": [
+    "Article URL: https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html Comments URL: https://news.ycombinator.com/item?id=50142449 Points: 31 # Comments: 5"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+   "image": null,
+   "published_at": "2026-10-18T16:20:27Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "8ae21e92485135de9d484b291c58c54bb7ab6b33",
+   "title": "TechCrunch Mobility: Rivian’s next act",
+   "summary": [
+    "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
+   "image": null,
+   "published_at": "2026-10-18T16:05:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "cef7cbf6c934d930035c23c29d097ff6586f8286",
+   "title": "macOS 15.8.2 Breaks OpenGL",
+   "summary": [
+    "Article URL: https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550 Comments URL: https://news.ycombinator.com/item?id=50141909 Points: 183 # Comments: 156"
+   ],
+   "source": "Hacker News",
+   "url": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
+   "image": null,
+   "published_at": "2026-10-18T15:26:06Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "d6d28d7170fa9e954ad126a3b0aab851a8b241d7",
+   "title": "Will it be a golden age or a dark age for mathematics (and science)?",
+   "summary": [
+    "Article URL: https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/ Comments URL: https://news.ycombinator.com/item?id=50141681 Points: 79 # Comments: 97"
+   ],
+   "source": "Hacker News",
+   "url": "https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/",
+   "image": null,
+   "published_at": "2026-10-18T15:00:40Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "79619743255e89a10aca34b40659d0156cc48c5c",
+   "title": "Websites are closing their doors to AI agents",
+   "summary": [
+    "Article URL: https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web Comments URL: https://news.ycombinator.com/item?id=50141657 Points: 110 # Comments: 93"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+   "image": null,
+   "published_at": "2026-10-18T14:58:10Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "98043109ddbddf1c1c23d8dca12945170cde591d",
+   "title": "Java sealed classes and exhaustive pattern matching",
+   "summary": [
+    "Article URL: https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/ Comments URL: https://news.ycombinator.com/item?id=50141579 Points: 58 # Comments: 22"
+   ],
+   "source": "Hacker News",
+   "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
+   "image": null,
+   "published_at": "2026-10-18T14:47:37Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "8d7dfcfe4a01fd77fbba208893ec5c5877618bd9",
    "title": "Wikipedia often gets taken for granted – but its history is fascinating, and its future is fragile",
    "summary": [
@@ -39,15 +157,15 @@
    "related": []
   },
   {
-   "id": "d6326fd48767a9d002be8611dfaeb2b894abe15c",
-   "title": "Gen Z Is the First Generation Dumber Than Their Parents",
+   "id": "da3d59e95cdca04d354ba06a39616edd2f0b8b74",
+   "title": "The Electronic Disturbance Theater and Electronic Civil Disobedience (1998)",
    "summary": [
-    "Article URL: https://www.vice.com/en/article/gen-z-is-the-first-generation-dumber-than-their-parents-neuroscientist-claims/ Comments URL: https://news.ycombinator.com/item?id=50141053 Points: 40 # Comments: 35"
+    "Article URL: https://www.thing.net/~rdom/ecd/EDTECD.html Comments URL: https://news.ycombinator.com/item?id=50141024 Points: 24 # Comments: 2"
    ],
    "source": "Hacker News",
-   "url": "https://www.vice.com/en/article/gen-z-is-the-first-generation-dumber-than-their-parents-neuroscientist-claims/",
+   "url": "https://www.thing.net/~rdom/ecd/EDTECD.html",
    "image": null,
-   "published_at": "2026-10-18T13:45:25Z",
+   "published_at": "2026-10-18T13:41:06Z",
    "category": "tech",
    "related": []
   },
@@ -66,10 +184,25 @@
    "related": []
   },
   {
+   "id": "e9bd6e2a8f74e6f72b5da6a30fd2e7e36f79fc46",
+   "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
+   "summary": [
+    "I made this ahead of the Ocarina of Time remake which comes out in 17 days.",
+    "I remember the feeling of playing it as a kid but I hadn’t kept up with the story so I built a timeline to catch up before the Door of Time reopens.Nintendo’s own timeline is the authority here (Hyrule Historia and their chronicle page).",
+    "I’d often thought about building things like this but never found the time between the day job and the rest of life."
+   ],
+   "source": "Hacker News",
+   "url": "https://legendofhyrule.com/",
+   "image": null,
+   "published_at": "2026-10-18T13:06:54Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "fcc34260855a04c1ebaf728dbebda0c6a75cf625",
    "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
    "summary": [
-    "Article URL: https://github.com/0x23/MicroManipulatorStepper Comments URL: https://news.ycombinator.com/item?id=50140001 Points: 59 # Comments: 5"
+    "Article URL: https://github.com/0x23/MicroManipulatorStepper Comments URL: https://news.ycombinator.com/item?id=50140001 Points: 125 # Comments: 10"
    ],
    "source": "Hacker News",
    "url": "https://github.com/0x23/MicroManipulatorStepper",
@@ -82,7 +215,7 @@
    "id": "1123defc000a68372df2b6a5b5798dc655420120",
    "title": "The Brain Sandwich",
    "summary": [
-    "Article URL: https://terriblesoftware.org/2026/10/02/the-brain-sandwich/ Comments URL: https://news.ycombinator.com/item?id=50139998 Points: 6 # Comments: 0"
+    "Article URL: https://terriblesoftware.org/2026/10/02/the-brain-sandwich/ Comments URL: https://news.ycombinator.com/item?id=50139998 Points: 43 # Comments: 16"
    ],
    "source": "Hacker News",
    "url": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
@@ -110,7 +243,7 @@
    "id": "7b51d2f54a77d703c4ac36f384f40d2bbe664a83",
    "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
    "summary": [
-    "Article URL: https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/ Comments URL: https://news.ycombinator.com/item?id=50139692 Points: 83 # Comments: 23"
+    "Article URL: https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/ Comments URL: https://news.ycombinator.com/item?id=50139692 Points: 175 # Comments: 48"
    ],
    "source": "Hacker News",
    "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
@@ -136,7 +269,7 @@
    "id": "3337df1b3bee92b12b4f54ec7990aee735144513",
    "title": "Parser Combinators",
    "summary": [
-    "Article URL: https://t3.at/blog/2026-10-17-parser-combinators/ Comments URL: https://news.ycombinator.com/item?id=50139067 Points: 99 # Comments: 47"
+    "Article URL: https://t3.at/blog/2026-10-17-parser-combinators/ Comments URL: https://news.ycombinator.com/item?id=50139067 Points: 171 # Comments: 63"
    ],
    "source": "Hacker News",
    "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
@@ -151,11 +284,24 @@
    ]
   },
   {
+   "id": "48479cd7194ad72c8a9a0b7596887da51ca1b564",
+   "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+   "summary": [
+    "Article URL: https://api-docs.deepseek.com/guides/search/ Comments URL: https://news.ycombinator.com/item?id=50138531 Points: 441 # Comments: 212"
+   ],
+   "source": "Hacker News",
+   "url": "https://api-docs.deepseek.com/guides/search/",
+   "image": null,
+   "published_at": "2026-10-18T06:50:36Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "d3c35db34ec3acb331d474191fe72e5ca99effdf",
    "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
    "summary": [
     "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works.",
-    "Comments URL: https://news.ycombinator.com/item?id=50137950 Points: 186 # Comments: 58"
+    "Comments URL: https://news.ycombinator.com/item?id=50137950 Points: 212 # Comments: 73"
    ],
    "source": "Hacker News",
    "url": "https://sphinx-six-theta.vercel.app/",
@@ -165,10 +311,23 @@
    "related": []
   },
   {
+   "id": "32e0abd3c996322e682a65c4b413e14b9aca4401",
+   "title": "‘I felt disgusted’: MEP speaks out over nude deepfakes and urges EU action",
+   "summary": [
+    "When she opened the links, she found herself staring at images from one of her first ever press conferences – but the images had been digitally altered to remove her clothing."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/society/2026/oct/18/mep-lena-schilling-nude-deepfakes-eu-action",
+   "image": "https://i.guim.co.uk/img/media/f451bf58ce9566761ef3e471f9080edcbc94e0a6/261_121_2606_2085/master/2606.jpg?width=140&quality=85&auto=format&fit=max&s=acca07559bd2486c93e545f85c16af5d",
+   "published_at": "2026-10-18T04:00:50Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "32b83c7f52bb86aa62b1b23ead84ef51d644943e",
    "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
    "summary": [
-    "Article URL: https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything Comments URL: https://news.ycombinator.com/item?id=50137620 Points: 223 # Comments: 274"
+    "Article URL: https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything Comments URL: https://news.ycombinator.com/item?id=50137620 Points: 278 # Comments: 382"
    ],
    "source": "Hacker News",
    "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
@@ -178,15 +337,15 @@
    "related": []
   },
   {
-   "id": "1b57e911f336a7283823e57ef04a897437949b3b",
-   "title": "NY announces game ownership bill requiring ownership rather than licensing",
+   "id": "774f7412d1a369d1c04ab0bb964614cd55e7e294",
+   "title": "Beyond Tetris: The Other Games of Alexey Pajitnov [video]",
    "summary": [
-    "Article URL: https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends Comments URL: https://news.ycombinator."
+    "Article URL: https://www.youtube.com/watch?v=QH_LPimUJMs Comments URL: https://news.ycombinator.com/item?id=50136017 Points: 8 # Comments: 0"
    ],
    "source": "Hacker News",
-   "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+   "url": "https://www.youtube.com/watch?v=QH_LPimUJMs",
    "image": null,
-   "published_at": "2026-10-18T00:14:22Z",
+   "published_at": "2026-10-17T23:08:30Z",
    "category": "tech",
    "related": []
   },
@@ -257,23 +416,10 @@
    "related": []
   },
   {
-   "id": "59f1f537529db148b04ece190bda69f31008bfd4",
-   "title": "Codex Desktop continuously generates Crashpad pending dumps",
-   "summary": [
-    "Article URL: https://github.com/openai/codex/issues/25921 Comments URL: https://news.ycombinator.com/item?id=50133231 Points: 151 # Comments: 70"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/openai/codex/issues/25921",
-   "image": null,
-   "published_at": "2026-10-17T17:45:08Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "6881e07bf0c9f6a655cd4082deec7db4869c1795",
    "title": "Pele – Mermaid diagrams as themeable SVG",
    "summary": [
-    "Article URL: https://pele.run/ Comments URL: https://news.ycombinator.com/item?id=50132193 Points: 497 # Comments: 46"
+    "Article URL: https://pele.run/ Comments URL: https://news.ycombinator.com/item?id=50132193 Points: 542 # Comments: 51"
    ],
    "source": "Hacker News",
    "url": "https://pele.run/",
@@ -292,58 +438,6 @@
    "url": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
    "image": null,
    "published_at": "2026-10-17T15:30:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "84f5ce95fb8a0ef32640a82e233c8d8a5470dcb7",
-   "title": "Why Britain should reject the lure of cheap – and scary – Chinese AI",
-   "summary": [
-    "In the west the technology comes with at least some effort to provide security and a benign intent – not so from ChinaThere is much to fear from artificial intelligence developed in China and handed to businesses and governments in the west almost free of charge.Every month Chinese AI developers such as DeepSeek and Xiaomi dispatch the latest versions of their “open-weight” models that allow users to take the core software and use it without paying an expensive ongoing licence."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai",
-   "image": "https://i.guim.co.uk/img/media/ed76515ea4f9df6a0b170674679392f87ba2c9ea/531_0_4025_3221/master/4025.jpg?width=140&quality=85&auto=format&fit=max&s=3b88a02580f809a6d160f8960e568a1c",
-   "published_at": "2026-10-17T15:00:33Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "63f0975b0b47ffb97155363d8ca0cf124f805ace",
-   "title": "Making chicken transparent using Dorito dust",
-   "summary": [
-    "Article URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using Comments URL: https://news.ycombinator.com/item?id=50131213 Points: 331 # Comments: 84"
-   ],
-   "source": "Hacker News",
-   "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
-   "image": null,
-   "published_at": "2026-10-17T13:55:28Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "238b590c0f8c00da9fab1559c292129eeee1a7dc",
-   "title": "Show HN: High-quality duck audio synthesizer",
-   "summary": [
-    "Article URL: https://celphase.github.io/duck-pond/ Comments URL: https://news.ycombinator.com/item?id=50131006 Points: 157 # Comments: 35"
-   ],
-   "source": "Hacker News",
-   "url": "https://celphase.github.io/duck-pond/",
-   "image": null,
-   "published_at": "2026-10-17T13:28:46Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "1ec9a16460d0c277ae22a35b9509bc4dc3751464",
-   "title": "Interactive Linear Programming in the Browser",
-   "summary": [
-    "Article URL: https://lpviz.net/ Comments URL: https://news.ycombinator.com/item?id=50130379 Points: 62 # Comments: 1"
-   ],
-   "source": "Hacker News",
-   "url": "https://lpviz.net/",
-   "image": null,
-   "published_at": "2026-10-17T12:06:44Z",
    "category": "tech",
    "related": []
   },
@@ -387,79 +481,6 @@
    "url": "https://www.theguardian.com/film/2026/oct/17/elizabeth-holmes-documentary-why-we-care",
    "image": "https://i.guim.co.uk/img/media/964fa47326a827f12bf336e880b2fdc4665711e6/124_0_5598_4480/master/5598.jpg?width=140&quality=85&auto=format&fit=max&s=a87bb955799dc99704c62e34bbde3f3a",
    "published_at": "2026-10-17T09:00:28Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "9b13d6a721a0c27049840c9b9a043dabdb98a309",
-   "title": "DeepSeek-v4.1-Flash-1017",
-   "summary": [
-    "https://api-docs.deepseek.com/news/news261017/https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 907 # Comments: 679"
-   ],
-   "source": "Hacker News",
-   "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-   "image": null,
-   "published_at": "2026-10-17T08:21:25Z",
-   "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "https://api-docs.deepseek.com/guides/search/"
-    }
-   ]
-  },
-  {
-   "id": "af9c624edbc9202d2b09e733ad6c9e0031503e78",
-   "title": "Palantir patient data tech rejected by many NHS trusts in England",
-   "summary": [
-    "But, from Gateshead to Truro, others said they were declining to use it or had carried out trials and reverted to old systems.",
-    "A Suffolk trust said other systems “supercede” the FDP’s functionality, while Greater Manchester’s care board called the Palantir system “duplicative” and “retrograde”."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/oct/17/palantir-patient-data-tech-rejected-by-many-nhs-trusts-in-england",
-   "image": "https://i.guim.co.uk/img/media/5c48c8c2456de2d94d6e060908409ef95dd199d0/1945_0_6247_5000/master/6247.jpg?width=140&quality=85&auto=format&fit=max&s=fc56a51462c7d52b6a82409e9f2c4d6f",
-   "published_at": "2026-10-17T06:00:24Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "91189b72b270f67a110648e6232332f187091172",
-   "title": "Which coffee chain was founded in London in 1971? The Saturday quiz",
-   "summary": [
-    "From Divine, Frank Fiegel and Helen Kane to the West Sussex estate pioneering rewilding, test your knowledge with the Saturday quiz1 Which classic of political theory was dedicated to Lorenzo de Medici?",
-    "5 Which West Sussex estate is a pioneer of rewilding?",
-    "10 Divine (witch); Frank Fiegel (sailor); Helen Kane (flapper); The Beatles (vultures)?"
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/games/2026/oct/17/which-coffee-chain-was-founded-in-london-in-1971-the-saturday-quiz",
-   "image": "https://i.guim.co.uk/img/media/2c184cfa6cd9ed17ee1220cbd1efbd11c17d423f/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=8bd3e34a8f9b4b62705d2265d2915ce4",
-   "published_at": "2026-10-17T06:00:24Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "a14bc391c5d6eb77ac07158c2d4bdeb8a0d65447",
-   "title": "Not cool: who hacked France’s supermarket fridges?",
-   "summary": [
-    "Whether it was youngsters proving their skills or state sabotage, Europe’s most hacked country was left with a mountain of waste after food began cooking in freezersShortly before midnight last Sunday, the digital thermostats controlling hundreds of supermarket cold aisles across France began to flicker and rise.In a “bizarre and unprecedented” cyber-attack, hackers had remotely overridden the temperature settings on thousands of freezers, fridges and chiller cabinets pushing them from as low as -27C (-16.6F) to well over 50C (122F)."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/oct/17/who-hacked-frances-supermarket-fridges",
-   "image": "https://i.guim.co.uk/img/media/446c1773fea046f80e07ca9533f82b2eaa90e1e6/494_0_3540_2832/master/3540.jpg?width=140&quality=85&auto=format&fit=max&s=aa4cee8a1aabe7c0ef821e19e4acd335",
-   "published_at": "2026-10-17T04:00:20Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "ee6f53a9b37a1d545e965e7ac6e9099f84ddccc7",
-   "title": "Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept",
-   "summary": [
-    "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
-   "image": null,
-   "published_at": "2026-10-17T02:36:18Z",
    "category": "tech",
    "related": []
   }
