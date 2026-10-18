@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-18T05:46:01.413275Z",
- "story_count": 5,
+ "generated_at": "2026-10-18T10:54:58.694017Z",
+ "story_count": 11,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,71 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "cccc77875e3375107e78d493afad2dd08a99a0a6",
+   "title": "What is the Budget and what could be in it?",
+   "summary": [
+    "Chancellor John Healey will set out his plans for UK taxes on 28 October."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-18T10:22:17Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "ff60a66bba7b5eea8451f634bf5419f56dbdb97a",
+   "title": "Turning the tides: Could hidden sea power energise our coastal towns?",
+   "summary": [
+    "Engineer David Mummery has developed a tidal energy generator that he says can change lives for people living in coastal communities."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c8y56y6xg9n9o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-18T08:12:24Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "41df5885efdd682f3e266e51ffc2bf1920794971",
+   "title": "'I took a chance on the whisky industry and I haven't looked back'",
+   "summary": [
+    "Zoey Darnbrough had no idea there was a distillery near her home - now she has a top tourism role there."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6y8ln9831v3o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-18T08:12:17Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "1b06a23e4bf51eb4ae7c0ab0dbad30e6a68a5101",
+   "title": "Heating oil customers face tough winter",
+   "summary": [
+    "The government plans to regulate heating oil prices after increases."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq1j3x66e1rno?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-18T06:07:40Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "11125da554cf8fc48292b4503d2c9579e5c27f82",
+   "title": "There's a crackdown on sports piracy - but is it already out of control?",
+   "summary": [
+    "The sports industry's lucrative business model is being undermined by dodgy TV sticks and illegal streaming links, writes Theo Leggett."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmx2375zqwwwo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-18T00:11:09Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "31d5d8536b59219eb3b16fa69ffcff2a15bc3f9e",
    "title": "Low-cost clinic helps pet owners with vet bills",
@@ -76,15 +141,28 @@
    "related": []
   },
   {
-   "id": "ef3463bdfdf816f4f22b9d967ccebfcbccbd57cc",
-   "title": "Nightclubs are disappearing - and it's affecting young people",
+   "id": "9764d75ebff2c2e90cad98ec850aba8d561f106d",
+   "title": "Third runway at Heathrow Airport would drive growth, Healey says",
    "summary": [
-    "One young person said with no nightlife in their town they cannot \"let loose and mess around\"."
+    "It comes after the prime minister refused to say whether he backed expansion."
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm5yngn0pl2ro?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-10-17T06:01:55Z",
+   "published_at": "2026-10-17T03:57:16Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "4189e56ec9c4bf9ee1be2d08a8514e3d5992ab0d",
+   "title": "Faisal Islam: Why China and AI are worrying global finance bosses",
+   "summary": [
+    "At the IMF meeting in Bangkok this week finance and business leaders grappled with uncertainty."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm4g189jvnxjo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-17T01:59:48Z",
    "category": "business",
    "related": []
   }

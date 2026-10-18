@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-18T05:46:01.413483Z",
- "story_count": 13,
+ "generated_at": "2026-10-18T10:54:58.694161Z",
+ "story_count": 16,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,45 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "c4505593421b53590c34ad774992b51fe7d1b6d0",
+   "title": "Pony herd gathering raises money for air ambulance",
+   "summary": [
+    "Kristina Auckland said the herd was made up of around 100 ponies."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqe9lx01ynj8o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-18T10:25:13Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "17f3484d1d92fd1b6e50b3a10082ca9b9edada13",
+   "title": "How to see the Orionid meteor shower",
+   "summary": [
+    "One of the best-known meteor showers peaks this week and will remain active until 7 November."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/weather/articles/c64gr18jrvx3o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-18T08:54:07Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "0b3cda91d9171fcec7ab4031e728f82919f3636a",
+   "title": "Seal pups spotted at nature reserve for 12th year",
+   "summary": [
+    "Two pups have been recorded at South Walney, home to Cumbria's only breeding grey seal colony."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6jrwnzyv528o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-18T06:20:04Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "b93cfa87adc21a8c1b7b743dee89556c13d8fa83",
    "title": "Corby metal pollution may harm people, says study",

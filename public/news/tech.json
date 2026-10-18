@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-18T05:46:01.412719Z",
- "story_count": 36,
+ "generated_at": "2026-10-18T10:54:58.693717Z",
+ "story_count": 33,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -24,10 +24,49 @@
  },
  "stories": [
   {
-   "id": "320589ac2dc2e92bb4b90661813cbd39eebbaadf",
-   "title": "A Mole Infiltrated the Highest Ranks of American Militias",
+   "id": "d09475409559ad1735caf97828fbf055cc0baeb5",
+   "title": "World Bank says ‘small AI’ could transform developing countries",
    "summary": [
-    "Article URL: https://www.propublica.org/article/ap3-oath-keepers-militia-mole Comments URL: https://news.ycombinator.com/item?id=50138044 Points: 13 # Comments: 0"
+    "Bank’s chief knowledge officer says the tech could speed up economic development from centuries to decadesThe World Bank is urging developing countries to kickstart the creation of “small AI” models, which can run on a mobile phone with low connectivity, to reap the full benefits of artificial intelligence.While Silicon Valley big tech firms are focused on ever more sophisticated consumer products, Paschal Donohoe, the World Bank’s chief knowledge officer, said AI could also accelerate development for emerging economies – but only if it was adapted to local needs."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies",
+   "image": "https://i.guim.co.uk/img/media/eb8682cc7e3f9007f9509c961275a6fa6b472f92/446_0_3621_2896/master/3621.jpg?width=140&quality=85&auto=format&fit=max&s=03203ee237fadeab5d23e74e45c2e3b7",
+   "published_at": "2026-10-18T10:00:56Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "3337df1b3bee92b12b4f54ec7990aee735144513",
+   "title": "Parser Combinators",
+   "summary": [
+    "Article URL: https://t3.at/blog/2026-10-17-parser-combinators/ Comments URL: https://news.ycombinator.com/item?id=50139067 Points: 20 # Comments: 4"
+   ],
+   "source": "Hacker News",
+   "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
+   "image": null,
+   "published_at": "2026-10-18T08:19:53Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "be5a6f6ecfd9ea0a2060dce60d755e16b4099776",
+   "title": "Matthew Prince on why Cloudflare offers a free version and always will (2016)",
+   "summary": [
+    "Article URL: https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685 Comments URL: https://news.ycombinator.com/item?id=50138087 Points: 102 # Comments: 80"
+   ],
+   "source": "Hacker News",
+   "url": "https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685",
+   "image": null,
+   "published_at": "2026-10-18T05:09:14Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "320589ac2dc2e92bb4b90661813cbd39eebbaadf",
+   "title": "A Mole Infiltrated the Highest Ranks of American Militias (2025)",
+   "summary": [
+    "Article URL: https://www.propublica.org/article/ap3-oath-keepers-militia-mole Comments URL: https://news.ycombinator.com/item?id=50138044 Points: 94 # Comments: 20"
    ],
    "source": "Hacker News",
    "url": "https://www.propublica.org/article/ap3-oath-keepers-militia-mole",
@@ -37,11 +76,24 @@
    "related": []
   },
   {
+   "id": "8a37e687a28069257a003025175de3df3d627442",
+   "title": "Notes on the Complex Roots of Unity",
+   "summary": [
+    "Article URL: https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/ Comments URL: https://news.ycombinator.com/item?id=50138002 Points: 27 # Comments: 4"
+   ],
+   "source": "Hacker News",
+   "url": "https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/",
+   "image": null,
+   "published_at": "2026-10-18T04:49:31Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "d3c35db34ec3acb331d474191fe72e5ca99effdf",
-   "title": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+   "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
    "summary": [
     "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works.",
-    "Comments URL: https://news.ycombinator.com/item?id=50137950 Points: 16 # Comments: 2"
+    "Comments URL: https://news.ycombinator.com/item?id=50137950 Points: 139 # Comments: 42"
    ],
    "source": "Hacker News",
    "url": "https://sphinx-six-theta.vercel.app/",
@@ -52,9 +104,9 @@
   },
   {
    "id": "32b83c7f52bb86aa62b1b23ead84ef51d644943e",
-   "title": "How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
+   "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
    "summary": [
-    "Article URL: https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything Comments URL: https://news.ycombinator.com/item?id=50137620 Points: 48 # Comments: 22"
+    "Article URL: https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything Comments URL: https://news.ycombinator.com/item?id=50137620 Points: 151 # Comments: 166"
    ],
    "source": "Hacker News",
    "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
@@ -146,7 +198,7 @@
    "id": "59f1f537529db148b04ece190bda69f31008bfd4",
    "title": "Codex Desktop continuously generates Crashpad pending dumps",
    "summary": [
-    "Article URL: https://github.com/openai/codex/issues/25921 Comments URL: https://news.ycombinator.com/item?id=50133231 Points: 111 # Comments: 39"
+    "Article URL: https://github.com/openai/codex/issues/25921 Comments URL: https://news.ycombinator.com/item?id=50133231 Points: 134 # Comments: 56"
    ],
    "source": "Hacker News",
    "url": "https://github.com/openai/codex/issues/25921",
@@ -156,23 +208,10 @@
    "related": []
   },
   {
-   "id": "a7783c892e372029d4b343067902338d3c3bf7a1",
-   "title": "I Became a Citizen of Japan",
-   "summary": [
-    "Article URL: https://www.derekwessman.com/blog-1/natural Comments URL: https://news.ycombinator.com/item?id=50133150 Points: 190 # Comments: 102"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.derekwessman.com/blog-1/natural",
-   "image": null,
-   "published_at": "2026-10-17T17:36:17Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "d8b1ba92a93851627dea0090c4af86ed3aa212be",
    "title": "Gold is now the top U.S. export",
    "summary": [
-    "Article URL: https://www.numismaticnews.net/gold-now-top-u-s-export Comments URL: https://news.ycombinator.com/item?id=50132870 Points: 290 # Comments: 149"
+    "Article URL: https://www.numismaticnews.net/gold-now-top-u-s-export Comments URL: https://news.ycombinator.com/item?id=50132870 Points: 338 # Comments: 188"
    ],
    "source": "Hacker News",
    "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
@@ -182,23 +221,10 @@
    "related": []
   },
   {
-   "id": "3fb9467b09dfa2f0a9ce386e344cc0592e416246",
-   "title": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
-   "summary": [
-    "Article URL: https://www.artie.com/careers Comments URL: https://news.ycombinator.com/item?id=50132839 Points: 0 # Comments: 0"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.artie.com/careers",
-   "image": null,
-   "published_at": "2026-10-17T17:02:50Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "6881e07bf0c9f6a655cd4082deec7db4869c1795",
    "title": "Pele – Mermaid diagrams as themeable SVG",
    "summary": [
-    "Article URL: https://pele.run/ Comments URL: https://news.ycombinator.com/item?id=50132193 Points: 337 # Comments: 30"
+    "Article URL: https://pele.run/ Comments URL: https://news.ycombinator.com/item?id=50132193 Points: 447 # Comments: 39"
    ],
    "source": "Hacker News",
    "url": "https://pele.run/",
@@ -237,7 +263,7 @@
    "id": "dc9eb629f6559364a0ef311c9a7ecde85374604a",
    "title": "Solar surpasses nuclear power globally for first time",
    "summary": [
-    "Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/ Comments URL: https://news.ycombinator.com/item?id=50131256 Points: 534 # Comments: 329"
+    "Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/ Comments URL: https://news.ycombinator.com/item?id=50131256 Points: 621 # Comments: 386"
    ],
    "source": "Hacker News",
    "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
@@ -250,7 +276,7 @@
    "id": "63f0975b0b47ffb97155363d8ca0cf124f805ace",
    "title": "Making chicken transparent using Dorito dust",
    "summary": [
-    "Article URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using Comments URL: https://news.ycombinator.com/item?id=50131213 Points: 281 # Comments: 71"
+    "Article URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using Comments URL: https://news.ycombinator.com/item?id=50131213 Points: 307 # Comments: 82"
    ],
    "source": "Hacker News",
    "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
@@ -263,7 +289,7 @@
    "id": "19eb13d3d942f451755a4fe38846fae154ff5bc4",
    "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
    "summary": [
-    "Comments URL: https://news.ycombinator.com/item?id=50131189 Points: 146 # Comments: 15"
+    "Comments URL: https://news.ycombinator.com/item?id=50131189 Points: 169 # Comments: 32"
    ],
    "source": "Hacker News",
    "url": "https://github.com/mikroverk/esp32sim",
@@ -276,7 +302,7 @@
    "id": "238b590c0f8c00da9fab1559c292129eeee1a7dc",
    "title": "Show HN: High-quality duck audio synthesizer",
    "summary": [
-    "Article URL: https://celphase.github.io/duck-pond/ Comments URL: https://news.ycombinator.com/item?id=50131006 Points: 106 # Comments: 27"
+    "Article URL: https://celphase.github.io/duck-pond/ Comments URL: https://news.ycombinator.com/item?id=50131006 Points: 141 # Comments: 30"
    ],
    "source": "Hacker News",
    "url": "https://celphase.github.io/duck-pond/",
@@ -289,7 +315,7 @@
    "id": "1ec9a16460d0c277ae22a35b9509bc4dc3751464",
    "title": "Interactive Linear Programming in the Browser",
    "summary": [
-    "Article URL: https://lpviz.net/ Comments URL: https://news.ycombinator.com/item?id=50130379 Points: 4 # Comments: 0"
+    "Article URL: https://lpviz.net/ Comments URL: https://news.ycombinator.com/item?id=50130379 Points: 36 # Comments: 0"
    ],
    "source": "Hacker News",
    "url": "https://lpviz.net/",
@@ -343,14 +369,19 @@
    "id": "9b13d6a721a0c27049840c9b9a043dabdb98a309",
    "title": "DeepSeek-v4.1-Flash-1017",
    "summary": [
-    "https://api-docs.deepseek.com/news/news261017/https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 776 # Comments: 618"
+    "https://api-docs.deepseek.com/news/news261017/https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 867 # Comments: 657"
    ],
    "source": "Hacker News",
    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
    "image": null,
    "published_at": "2026-10-17T08:21:25Z",
    "category": "tech",
-   "related": []
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://api-docs.deepseek.com/guides/search/"
+    }
+   ]
   },
   {
    "id": "af9c624edbc9202d2b09e733ad6c9e0031503e78",
@@ -385,51 +416,12 @@
    "id": "0913988ccbedf140c2de2032b60b314c3ea2f641",
    "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
    "summary": [
-    "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 269 # Comments: 78"
+    "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 297 # Comments: 82"
    ],
    "source": "Hacker News",
    "url": "https://llmspeed.dev/",
    "image": null,
    "published_at": "2026-10-17T04:36:53Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "a14bc391c5d6eb77ac07158c2d4bdeb8a0d65447",
-   "title": "Not cool: who hacked France’s supermarket fridges?",
-   "summary": [
-    "Whether it was youngsters proving their skills or state sabotage, Europe’s most hacked country was left with a mountain of waste after food began cooking in freezersShortly before midnight last Sunday, the digital thermostats controlling hundreds of supermarket cold aisles across France began to flicker and rise.In a “bizarre and unprecedented” cyber-attack, hackers had remotely overridden the temperature settings on thousands of freezers, fridges and chiller cabinets pushing them from as low as -27C (-16.6F) to well over 50C (122F)."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/oct/17/who-hacked-frances-supermarket-fridges",
-   "image": "https://i.guim.co.uk/img/media/446c1773fea046f80e07ca9533f82b2eaa90e1e6/494_0_3540_2832/master/3540.jpg?width=140&quality=85&auto=format&fit=max&s=aa4cee8a1aabe7c0ef821e19e4acd335",
-   "published_at": "2026-10-17T04:00:20Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "f4f8e6696210f17512988621f79944e02fd40ae2",
-   "title": "Source code of the Estonian online voting system",
-   "summary": [
-    "Article URL: https://github.com/valimised/ivxv Comments URL: https://news.ycombinator.com/item?id=50127586 Points: 192 # Comments: 157"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/valimised/ivxv",
-   "image": null,
-   "published_at": "2026-10-17T03:18:39Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "03317c4040fa930157a420751e0a1a48f3405768",
-   "title": "A skeptic's first contact with Kubernetes (2024)",
-   "summary": [
-    "Article URL: https://blog.davidv.dev/posts/first-contact-with-k8s/ Comments URL: https://news.ycombinator.com/item?id=50127572 Points: 104 # Comments: 55"
-   ],
-   "source": "Hacker News",
-   "url": "https://blog.davidv.dev/posts/first-contact-with-k8s/",
-   "image": null,
-   "published_at": "2026-10-17T03:16:25Z",
    "category": "tech",
    "related": []
   },
@@ -450,7 +442,7 @@
    "id": "06d2ea4b5b7da0ddb4ba68333378fa3930108532",
    "title": "Dam removals are bringing fish back across the northeastern United States",
    "summary": [
-    "Article URL: https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/ Comments URL: https://news.ycombinator.com/item?id=50126312 Points: 244 # Comments: 60"
+    "Article URL: https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/ Comments URL: https://news.ycombinator.com/item?id=50126312 Points: 282 # Comments: 66"
    ],
    "source": "Hacker News",
    "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
@@ -463,38 +455,12 @@
    "id": "f8b040014d2e00652824076086e153b3c782e4de",
    "title": "Bleached corals thrive within days when touching healthy neighbour",
    "summary": [
-    "https://archive.ph/zIPG4 Comments URL: https://news.ycombinator.com/item?id=50126253 Points: 393 # Comments: 83"
+    "https://archive.ph/zIPG4 Comments URL: https://news.ycombinator.com/item?id=50126253 Points: 466 # Comments: 100"
    ],
    "source": "Hacker News",
    "url": "https://www.nature.com/articles/d41586-026-03266-x",
    "image": null,
    "published_at": "2026-10-16T23:38:27Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "8e38105a14b5122269cf0465b34f8abb02084a93",
-   "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
-   "summary": [
-    "The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
-   "image": null,
-   "published_at": "2026-10-16T19:40:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "c74e5a79a0e1f484fb7ec0f1092c6646ecf7543c",
-   "title": "India becomes the latest country to report rogue AI agent activity",
-   "summary": [
-    "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-   "image": null,
-   "published_at": "2026-10-16T17:52:24Z",
    "category": "tech",
    "related": []
   }
