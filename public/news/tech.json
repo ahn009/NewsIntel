@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-18T10:54:58.693717Z",
- "story_count": 33,
+ "generated_at": "2026-10-18T14:30:40.464172Z",
+ "story_count": 32,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -24,6 +24,102 @@
  },
  "stories": [
   {
+   "id": "8d7dfcfe4a01fd77fbba208893ec5c5877618bd9",
+   "title": "Wikipedia often gets taken for granted – but its history is fascinating, and its future is fragile",
+   "summary": [
+    "Wikipedia’s 68m articles have been consulted trillions of times.",
+    "Not bad for a website that has barely changed since it was founded 20 years agoA few years ago, I was struck by the tension between how Wikipedia was used, and how it was talked about.",
+    "But despite the fact it now has been consulted trillions of times by billions of people (English Wikipedia alone is 5.2bn words long), it inspires an odd lack of curiosity."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/oct/18/wikipedia-human-history-ai-future-under-threat",
+   "image": "https://i.guim.co.uk/img/media/11bdcbd79d2083cd3ae980e805b8cdfd7e27fb80/145_0_2850_2279/master/2850.jpg?width=140&quality=85&auto=format&fit=max&s=ada5d277ad4d4387b5bc020d6159d745",
+   "published_at": "2026-10-18T14:00:02Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "d6326fd48767a9d002be8611dfaeb2b894abe15c",
+   "title": "Gen Z Is the First Generation Dumber Than Their Parents",
+   "summary": [
+    "Article URL: https://www.vice.com/en/article/gen-z-is-the-first-generation-dumber-than-their-parents-neuroscientist-claims/ Comments URL: https://news.ycombinator.com/item?id=50141053 Points: 40 # Comments: 35"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.vice.com/en/article/gen-z-is-the-first-generation-dumber-than-their-parents-neuroscientist-claims/",
+   "image": null,
+   "published_at": "2026-10-18T13:45:25Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "26174453005d11ef79b9ac17825a817374214153",
+   "title": "What are self-replicating ‘AI worms’, and why is Anthropic worried about them?",
+   "summary": [
+    "The red team, as such internal testers are called, said it created a malicious AI program that spread autonomously through internet-connected “smart” televisions and could do the same inside other ordinary devices.",
+    "While machines running AI usually need a fair amount of computing power, the researchers said that their program split parts of itself among 15 televisions and was still able to function by using a bit of power from each."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/oct/18/anthropic-ai-worm-worries",
+   "image": "https://i.guim.co.uk/img/media/34972ab7bdc22bd58b4b430c49ae81493971934a/234_0_5907_4725/master/5907.jpg?width=140&quality=85&auto=format&fit=max&s=288348dd3aa3c598608d1126f3559d09",
+   "published_at": "2026-10-18T13:30:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "fcc34260855a04c1ebaf728dbebda0c6a75cf625",
+   "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
+   "summary": [
+    "Article URL: https://github.com/0x23/MicroManipulatorStepper Comments URL: https://news.ycombinator.com/item?id=50140001 Points: 59 # Comments: 5"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/0x23/MicroManipulatorStepper",
+   "image": null,
+   "published_at": "2026-10-18T11:16:22Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "1123defc000a68372df2b6a5b5798dc655420120",
+   "title": "The Brain Sandwich",
+   "summary": [
+    "Article URL: https://terriblesoftware.org/2026/10/02/the-brain-sandwich/ Comments URL: https://news.ycombinator.com/item?id=50139998 Points: 6 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
+   "image": null,
+   "published_at": "2026-10-18T11:15:37Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ba5a6d13e9263a2f289e095279086a8014bfaa70",
+   "title": "The best toys and gifts for eight-year-olds, tested by eight-year-olds",
+   "summary": [
+    "From science kits to karaoke machines, shower sets to brain-boosting games, here are the presents our mini testers loved the most• The best gifts for seven-year-oldsEight is such a wonderful age.",
+    "Kids are old enough to have their own interests and hobbies, but still young enough to get swept up in play and be absorbed for hours if you find the right toy for them.By eight, children’s interests and skills are taking shape.",
+    "And while they think they’re extremely grown up, eight-year-olds still need plenty of time to play for their overall wellbeing."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/thefilter/2026/oct/18/best-toys-gifts-for-eight-year-olds-uk",
+   "image": "https://i.guim.co.uk/img/media/492e7e936d85b3a274cd73df683745e9d36e7bea/22_0_3956_3165/master/3956.jpg?width=140&quality=85&auto=format&fit=max&s=9b1d470261c76dc2925140b30c632e86",
+   "published_at": "2026-10-18T11:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "7b51d2f54a77d703c4ac36f384f40d2bbe664a83",
+   "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+   "summary": [
+    "Article URL: https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/ Comments URL: https://news.ycombinator.com/item?id=50139692 Points: 83 # Comments: 23"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+   "image": null,
+   "published_at": "2026-10-18T10:21:51Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "d09475409559ad1735caf97828fbf055cc0baeb5",
    "title": "World Bank says ‘small AI’ could transform developing countries",
    "summary": [
@@ -40,60 +136,26 @@
    "id": "3337df1b3bee92b12b4f54ec7990aee735144513",
    "title": "Parser Combinators",
    "summary": [
-    "Article URL: https://t3.at/blog/2026-10-17-parser-combinators/ Comments URL: https://news.ycombinator.com/item?id=50139067 Points: 20 # Comments: 4"
+    "Article URL: https://t3.at/blog/2026-10-17-parser-combinators/ Comments URL: https://news.ycombinator.com/item?id=50139067 Points: 99 # Comments: 47"
    ],
    "source": "Hacker News",
    "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
    "image": null,
    "published_at": "2026-10-18T08:19:53Z",
    "category": "tech",
-   "related": []
-  },
-  {
-   "id": "be5a6f6ecfd9ea0a2060dce60d755e16b4099776",
-   "title": "Matthew Prince on why Cloudflare offers a free version and always will (2016)",
-   "summary": [
-    "Article URL: https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685 Comments URL: https://news.ycombinator.com/item?id=50138087 Points: 102 # Comments: 80"
-   ],
-   "source": "Hacker News",
-   "url": "https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685",
-   "image": null,
-   "published_at": "2026-10-18T05:09:14Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "320589ac2dc2e92bb4b90661813cbd39eebbaadf",
-   "title": "A Mole Infiltrated the Highest Ranks of American Militias (2025)",
-   "summary": [
-    "Article URL: https://www.propublica.org/article/ap3-oath-keepers-militia-mole Comments URL: https://news.ycombinator.com/item?id=50138044 Points: 94 # Comments: 20"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.propublica.org/article/ap3-oath-keepers-militia-mole",
-   "image": null,
-   "published_at": "2026-10-18T04:59:24Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "8a37e687a28069257a003025175de3df3d627442",
-   "title": "Notes on the Complex Roots of Unity",
-   "summary": [
-    "Article URL: https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/ Comments URL: https://news.ycombinator.com/item?id=50138002 Points: 27 # Comments: 4"
-   ],
-   "source": "Hacker News",
-   "url": "https://eli.thegreenplace.net/2026/notes-on-the-complex-roots-of-unity/",
-   "image": null,
-   "published_at": "2026-10-18T04:49:31Z",
-   "category": "tech",
-   "related": []
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://github.com/VikOlliver/RepRapMicron/wiki"
+    }
+   ]
   },
   {
    "id": "d3c35db34ec3acb331d474191fe72e5ca99effdf",
    "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
    "summary": [
     "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works.",
-    "Comments URL: https://news.ycombinator.com/item?id=50137950 Points: 139 # Comments: 42"
+    "Comments URL: https://news.ycombinator.com/item?id=50137950 Points: 186 # Comments: 58"
    ],
    "source": "Hacker News",
    "url": "https://sphinx-six-theta.vercel.app/",
@@ -106,7 +168,7 @@
    "id": "32b83c7f52bb86aa62b1b23ead84ef51d644943e",
    "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
    "summary": [
-    "Article URL: https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything Comments URL: https://news.ycombinator.com/item?id=50137620 Points: 151 # Comments: 166"
+    "Article URL: https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything Comments URL: https://news.ycombinator.com/item?id=50137620 Points: 223 # Comments: 274"
    ],
    "source": "Hacker News",
    "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
@@ -198,7 +260,7 @@
    "id": "59f1f537529db148b04ece190bda69f31008bfd4",
    "title": "Codex Desktop continuously generates Crashpad pending dumps",
    "summary": [
-    "Article URL: https://github.com/openai/codex/issues/25921 Comments URL: https://news.ycombinator.com/item?id=50133231 Points: 134 # Comments: 56"
+    "Article URL: https://github.com/openai/codex/issues/25921 Comments URL: https://news.ycombinator.com/item?id=50133231 Points: 151 # Comments: 70"
    ],
    "source": "Hacker News",
    "url": "https://github.com/openai/codex/issues/25921",
@@ -208,23 +270,10 @@
    "related": []
   },
   {
-   "id": "d8b1ba92a93851627dea0090c4af86ed3aa212be",
-   "title": "Gold is now the top U.S. export",
-   "summary": [
-    "Article URL: https://www.numismaticnews.net/gold-now-top-u-s-export Comments URL: https://news.ycombinator.com/item?id=50132870 Points: 338 # Comments: 188"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
-   "image": null,
-   "published_at": "2026-10-17T17:06:07Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "6881e07bf0c9f6a655cd4082deec7db4869c1795",
    "title": "Pele – Mermaid diagrams as themeable SVG",
    "summary": [
-    "Article URL: https://pele.run/ Comments URL: https://news.ycombinator.com/item?id=50132193 Points: 447 # Comments: 39"
+    "Article URL: https://pele.run/ Comments URL: https://news.ycombinator.com/item?id=50132193 Points: 497 # Comments: 46"
    ],
    "source": "Hacker News",
    "url": "https://pele.run/",
@@ -260,23 +309,10 @@
    "related": []
   },
   {
-   "id": "dc9eb629f6559364a0ef311c9a7ecde85374604a",
-   "title": "Solar surpasses nuclear power globally for first time",
-   "summary": [
-    "Article URL: https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/ Comments URL: https://news.ycombinator.com/item?id=50131256 Points: 621 # Comments: 386"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
-   "image": null,
-   "published_at": "2026-10-17T14:01:01Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "63f0975b0b47ffb97155363d8ca0cf124f805ace",
    "title": "Making chicken transparent using Dorito dust",
    "summary": [
-    "Article URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using Comments URL: https://news.ycombinator.com/item?id=50131213 Points: 307 # Comments: 82"
+    "Article URL: https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using Comments URL: https://news.ycombinator.com/item?id=50131213 Points: 331 # Comments: 84"
    ],
    "source": "Hacker News",
    "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
@@ -286,23 +322,10 @@
    "related": []
   },
   {
-   "id": "19eb13d3d942f451755a4fe38846fae154ff5bc4",
-   "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
-   "summary": [
-    "Comments URL: https://news.ycombinator.com/item?id=50131189 Points: 169 # Comments: 32"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/mikroverk/esp32sim",
-   "image": null,
-   "published_at": "2026-10-17T13:51:08Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "238b590c0f8c00da9fab1559c292129eeee1a7dc",
    "title": "Show HN: High-quality duck audio synthesizer",
    "summary": [
-    "Article URL: https://celphase.github.io/duck-pond/ Comments URL: https://news.ycombinator.com/item?id=50131006 Points: 141 # Comments: 30"
+    "Article URL: https://celphase.github.io/duck-pond/ Comments URL: https://news.ycombinator.com/item?id=50131006 Points: 157 # Comments: 35"
    ],
    "source": "Hacker News",
    "url": "https://celphase.github.io/duck-pond/",
@@ -315,7 +338,7 @@
    "id": "1ec9a16460d0c277ae22a35b9509bc4dc3751464",
    "title": "Interactive Linear Programming in the Browser",
    "summary": [
-    "Article URL: https://lpviz.net/ Comments URL: https://news.ycombinator.com/item?id=50130379 Points: 36 # Comments: 0"
+    "Article URL: https://lpviz.net/ Comments URL: https://news.ycombinator.com/item?id=50130379 Points: 62 # Comments: 1"
    ],
    "source": "Hacker News",
    "url": "https://lpviz.net/",
@@ -353,15 +376,17 @@
    "related": []
   },
   {
-   "id": "693cc2ae2f773abff328f7349b69f67ecc2814da",
-   "title": "Ministers must be honest about Russian threat to UK, says former Foreign Office head",
+   "id": "107fb4fe2617135762aa67aef3a6ff2a336901cc",
+   "title": "‘You can’t make this stuff up’: why we remain fascinated by Elizabeth Holmes",
    "summary": [
-    "Peter Ricketts calls for more resilience in protecting banking, energy and water systems from cyber-assaultsMinisters need to be honest with the British public about the immediate threat posed by Russia, which could soon lead to lives being lost, a former national security adviser has said.Peter Ricketts, who advised David Cameron when he was prime minister, became the latest figure to warn about the scale of the threat posed by “hybrid attacks” from Vladimir Putin’s forces."
+    "The Holmes he met in the green room was personable and pleasant.",
+    "The Holmes he interviewed on stage was altogether different.“The accent changed: this deep voice, very serious,” Agus, a medical oncologist, recalls by phone from Los Angeles. “It was as if I had met a person and then interviewed a separate person.",
+    "That transition from the green room to the stage – I had never experienced something like that before.” Continue reading..."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/oct/17/russia-threat-uk-former-foreign-office-head-lord-peter-ricketts",
-   "image": "https://i.guim.co.uk/img/media/8580aa29134c097092b2760c87b5d620add039e7/111_0_455_364/master/455.jpg?width=140&quality=85&auto=format&fit=max&s=ac134d44b6412db0e5ff6bd87c77c7f6",
-   "published_at": "2026-10-17T10:19:32Z",
+   "url": "https://www.theguardian.com/film/2026/oct/17/elizabeth-holmes-documentary-why-we-care",
+   "image": "https://i.guim.co.uk/img/media/964fa47326a827f12bf336e880b2fdc4665711e6/124_0_5598_4480/master/5598.jpg?width=140&quality=85&auto=format&fit=max&s=a87bb955799dc99704c62e34bbde3f3a",
+   "published_at": "2026-10-17T09:00:28Z",
    "category": "tech",
    "related": []
   },
@@ -369,7 +394,7 @@
    "id": "9b13d6a721a0c27049840c9b9a043dabdb98a309",
    "title": "DeepSeek-v4.1-Flash-1017",
    "summary": [
-    "https://api-docs.deepseek.com/news/news261017/https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 867 # Comments: 657"
+    "https://api-docs.deepseek.com/news/news261017/https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50129045 Points: 907 # Comments: 679"
    ],
    "source": "Hacker News",
    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
@@ -413,15 +438,15 @@
    "related": []
   },
   {
-   "id": "0913988ccbedf140c2de2032b60b314c3ea2f641",
-   "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+   "id": "a14bc391c5d6eb77ac07158c2d4bdeb8a0d65447",
+   "title": "Not cool: who hacked France’s supermarket fridges?",
    "summary": [
-    "Article URL: https://llmspeed.dev/ Comments URL: https://news.ycombinator.com/item?id=50127979 Points: 297 # Comments: 82"
+    "Whether it was youngsters proving their skills or state sabotage, Europe’s most hacked country was left with a mountain of waste after food began cooking in freezersShortly before midnight last Sunday, the digital thermostats controlling hundreds of supermarket cold aisles across France began to flicker and rise.In a “bizarre and unprecedented” cyber-attack, hackers had remotely overridden the temperature settings on thousands of freezers, fridges and chiller cabinets pushing them from as low as -27C (-16.6F) to well over 50C (122F)."
    ],
-   "source": "Hacker News",
-   "url": "https://llmspeed.dev/",
-   "image": null,
-   "published_at": "2026-10-17T04:36:53Z",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/17/who-hacked-frances-supermarket-fridges",
+   "image": "https://i.guim.co.uk/img/media/446c1773fea046f80e07ca9533f82b2eaa90e1e6/494_0_3540_2832/master/3540.jpg?width=140&quality=85&auto=format&fit=max&s=aa4cee8a1aabe7c0ef821e19e4acd335",
+   "published_at": "2026-10-17T04:00:20Z",
    "category": "tech",
    "related": []
   },
@@ -435,32 +460,6 @@
    "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
    "image": null,
    "published_at": "2026-10-17T02:36:18Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "06d2ea4b5b7da0ddb4ba68333378fa3930108532",
-   "title": "Dam removals are bringing fish back across the northeastern United States",
-   "summary": [
-    "Article URL: https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/ Comments URL: https://news.ycombinator.com/item?id=50126312 Points: 282 # Comments: 66"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
-   "image": null,
-   "published_at": "2026-10-16T23:47:31Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "f8b040014d2e00652824076086e153b3c782e4de",
-   "title": "Bleached corals thrive within days when touching healthy neighbour",
-   "summary": [
-    "https://archive.ph/zIPG4 Comments URL: https://news.ycombinator.com/item?id=50126253 Points: 466 # Comments: 100"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.nature.com/articles/d41586-026-03266-x",
-   "image": null,
-   "published_at": "2026-10-16T23:38:27Z",
    "category": "tech",
    "related": []
   }
