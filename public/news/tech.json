@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-19T06:08:15.166067Z",
- "story_count": 37,
+ "generated_at": "2026-10-19T14:36:35.282907Z",
+ "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -24,6 +24,240 @@
  },
  "stories": [
   {
+   "id": "505bbc358247adce53d1ff6c7917b4b8677ce193",
+   "title": "Beyond These Stars",
+   "summary": [
+    "Article URL: https://store.steampowered.com/app/2295060/Beyond_These_Stars/ Comments URL: https://news.ycombinator.com/item?id=50152701 Points: 3 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://store.steampowered.com/app/2295060/Beyond_These_Stars/",
+   "image": null,
+   "published_at": "2026-10-19T14:06:10Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "5ef96e687c3da995106111b48510828763e4425f",
+   "title": "Wine Ported to OpenBSD",
+   "summary": [
+    "Article URL: https://marc.info/?l=openbsd-ports&m=179236125692175 Comments URL: https://news.ycombinator.com/item?id=50152307 Points: 3 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+   "image": null,
+   "published_at": "2026-10-19T13:35:34Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "bb2f9104933712ab704b30807c7bae00e1f33bb0",
+   "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
+   "summary": [
+    "Article URL: https://100toolkit.com/blog/deslop-model/ Comments URL: https://news.ycombinator.com/item?id=50151928 Points: 59 # Comments: 28"
+   ],
+   "source": "Hacker News",
+   "url": "https://100toolkit.com/blog/deslop-model/",
+   "image": null,
+   "published_at": "2026-10-19T13:00:47Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "7492bc28d54713bae7d821251939cb88de2d104e",
+   "title": "Uber wins bid to throw out £200m black cab claims",
+   "summary": [
+    "Claims that Uber misled TfL over its licence were thrown out because they were brought too late."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cv5ynp1j45x2o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-19T12:58:39Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "bfa78ce3f0883e4d2527016fef4e51c2d35a5a1e",
+   "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
+   "summary": [
+    "Apple said that it will ban AI apps that don't moderate offensive content."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/",
+   "image": null,
+   "published_at": "2026-10-19T12:56:14Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "1d66cd014db62740e009d94bd4f6edefd494b24f",
+   "title": "Musk pledges to give ‘every kid in America’ one of his SpaceX shares",
+   "summary": [
+    "That's more than $10 billion in shares, or around 1% of Musk's current net worth."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/",
+   "image": null,
+   "published_at": "2026-10-19T12:42:55Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "4f0198409c0e2bc26eeb9557bd337cdd1069ba9e",
+   "title": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+   "summary": [
+    "Article URL: https://github.com/IsuruMaduranga/harness-engineering-101 Comments URL: https://news.ycombinator.com/item?id=50151390 Points: 91 # Comments: 42"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/IsuruMaduranga/harness-engineering-101",
+   "image": null,
+   "published_at": "2026-10-19T12:07:41Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a6f637d138a71bfd36ab5d6fe77e661c16e0283c",
+   "title": "Harness2 by Google Research – Recursive Agent Harnessing",
+   "summary": [
+    "Article URL: https://github.com/google-research/harness2 Comments URL: https://news.ycombinator.com/item?id=50151059 Points: 29 # Comments: 4"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/google-research/harness2",
+   "image": null,
+   "published_at": "2026-10-19T11:28:45Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "c6d91d9f5d1310e66b7e381081fa65f864e1f426",
+   "title": "ESA's Hera Will View Asteroid Scars from DART's Strike",
+   "summary": [
+    "Article URL: https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous Comments URL: https://news.ycombinator.com/item?id=50150935 Points: 33 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous",
+   "image": null,
+   "published_at": "2026-10-19T11:12:02Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "04465be95d8a2e0bb6745bbd1b0682c888210dec",
+   "title": "Alternatives to Animal Testing Are Finally Taking Off",
+   "summary": [
+    "Article URL: https://spectrum.ieee.org/alternatives-to-animal-testing Comments URL: https://news.ycombinator.com/item?id=50150927 Points: 94 # Comments: 13"
+   ],
+   "source": "Hacker News",
+   "url": "https://spectrum.ieee.org/alternatives-to-animal-testing",
+   "image": null,
+   "published_at": "2026-10-19T11:10:54Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "7fe60f412476fe90c5a9271cfce296dff98d8b94",
+   "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+   "summary": [
+    "Article URL: https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166 Comments URL: https://news.ycombinator.com/item?id=50150809 Points: 92 # Comments: 25"
+   ],
+   "source": "Hacker News",
+   "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
+   "image": null,
+   "published_at": "2026-10-19T10:53:39Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "c187ea7b68bc5579c00d7a74040fa5c75c404743",
+   "title": "Documents: Police officer gave her Flock login to her ICE agent husband",
+   "summary": [
+    "Article URL: https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816 Comments URL: https://news.ycombinator.com/item?id=50150750 Points: 471 # Comments: 221"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
+   "image": null,
+   "published_at": "2026-10-19T10:45:14Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a426ab512942ef520c272c8e60857932bd8cf5e1",
+   "title": "US teens can access ‘nudify’ apps despite Apple and Google’s parental controls, report finds",
+   "summary": [
+    "Exclusive: Using test accounts acting as 13-year-olds, Tech Transparency Project downloaded 135 apps with features to generate nonconsensual nude imageryIn December 2025, Morgan Dorfman received distressing news: a student at her daughter’s Pennsylvania high school was making AI-generated pornographic material using the daughter’s image.He was using an artificial intelligence image-editing app called Movely to create sexual videos from pictures of her daughter and five other girls."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/oct/19/us-teens-nudify-apps-apple-google-parental-controls",
+   "image": "https://i.guim.co.uk/img/media/1b5ce85190e6d89e4db3acb2c4d28f253a101ac3/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=c420bb546a20a703516798696d6332b8",
+   "published_at": "2026-10-19T10:00:05Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "3a11e60ee8cf431d325202d6163c1c157e9bbeab",
+   "title": "Timestral: Mistral release time-series foundation models",
+   "summary": [
+    "Article URL: https://mistral.ai/news/timestral/ Comments URL: https://news.ycombinator.com/item?id=50150434 Points: 210 # Comments: 41"
+   ],
+   "source": "Hacker News",
+   "url": "https://mistral.ai/news/timestral/",
+   "image": null,
+   "published_at": "2026-10-19T09:59:32Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "5331edc2af5b7a4f0bcd79e2016e6f13c0770bd0",
+   "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
+   "summary": [
+    "Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
+   "image": null,
+   "published_at": "2026-10-19T07:30:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "47822cd9ee4644799dab7e281408e8ab085d61b0",
+   "title": "Linux 7.3 Released",
+   "summary": [
+    "Article URL: https://lwn.net/Articles/1101143/ Comments URL: https://news.ycombinator.com/item?id=50149392 Points: 405 # Comments: 182"
+   ],
+   "source": "Hacker News",
+   "url": "https://lwn.net/Articles/1101143/",
+   "image": null,
+   "published_at": "2026-10-19T07:23:57Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "bed3356286007ad710293fca002b4d779d84410b",
+   "title": "China's growth accelerates as AI boom helps boost exports",
+   "summary": [
+    "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-19T06:08:02Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "41797b9f96f946fbf26225095e3de372c28db3cd",
+   "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+   "summary": [
+    "Article URL: https://crystl.dev/guides/tmux-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50148855 Points: 95 # Comments: 56"
+   ],
+   "source": "Hacker News",
+   "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
+   "image": null,
+   "published_at": "2026-10-19T05:55:31Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "57c81b3b8db688a926bb28cd08759001878422e4",
    "title": "The one change that worked: I deleted Instagram – and embraced the joys of a truly private life",
    "summary": [
@@ -39,41 +273,16 @@
    "related": []
   },
   {
-   "id": "bed3356286007ad710293fca002b4d779d84410b",
-   "title": "China's growth accelerates as AI export boom outweighs domestic weakness",
+   "id": "ff2810522e0fd5b3af84bfbbda61d8de2c4fbb7e",
+   "title": "‘No influencers’: the hotels, restaurants and beauty spots restricting photoshoots",
    "summary": [
-    "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook."
+    "Backlash against content creators includes restricted hours for filming and even outright bansStand in any vaguely photogenic spot these days on holiday and the chances are you will come across people posing with raised phones and even ring lights.",
+    "Some may be influencers with huge audiences on social media, others just overkeen Instagram users."
    ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-19T05:17:35Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "c875e80c9abbccf4f00aebec908e2da6797c19d5",
-   "title": "DeepSeek V4.1 Flash 1017 (Max)",
-   "summary": [
-    "Article URL: https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50148452 Points: 71 # Comments: 19"
-   ],
-   "source": "Hacker News",
-   "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
-   "image": null,
-   "published_at": "2026-10-19T04:41:46Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "e71e72d6e2e6024e06abbcdbe3c20e4001fad0c7",
-   "title": "Verisign .com Domain Name Registry Consumer Class Action",
-   "summary": [
-    "Article URL: https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action Comments URL: https://news.ycombinator.com/item?id=50148441 Points: 23 # Comments: 2"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action",
-   "image": null,
-   "published_at": "2026-10-19T04:40:18Z",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/media/2026/oct/19/no-influencers-hotels-restaurants-beauty-spots-restricting-photoshoots",
+   "image": "https://i.guim.co.uk/img/media/a115ed145b828dcc148bd50e8765fea6f90fdc74/119_0_4630_3705/master/4630.jpg?width=140&quality=85&auto=format&fit=max&s=4a449ba5595a039799e73b1f27f4dfb6",
+   "published_at": "2026-10-19T04:00:19Z",
    "category": "tech",
    "related": []
   },
@@ -81,7 +290,7 @@
    "id": "16d9e0c947efefd688ef8e8b83b3feeee167a2b7",
    "title": "Superlite: A Faster Alternatie to Superpowers",
    "summary": [
-    "Article URL: https://contextfirst.blog/superlite-hand-an-agent-a-spec/ Comments URL: https://news.ycombinator.com/item?id=50147492 Points: 41 # Comments: 17"
+    "Article URL: https://contextfirst.blog/superlite-hand-an-agent-a-spec/ Comments URL: https://news.ycombinator.com/item?id=50147492 Points: 120 # Comments: 57"
    ],
    "source": "Hacker News",
    "url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
@@ -91,28 +300,15 @@
    "related": []
   },
   {
-   "id": "7ba3b5fb825b27f4cb9faab794781b26b5e6019c",
-   "title": "Footage of the Flock search that a judge ruled was uncosntitutional",
+   "id": "ecfd9e161d2fb317862b122e7b093cf83b1bc28a",
+   "title": "Kylie Minogue songs already used to train AI as tech firms ‘strong-arm’ Australian government, music body warns",
    "summary": [
-    "Article URL: https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/ Comments URL: https://news.ycombinator.com/item?id=50147455 Points: 72 # Comments: 24"
+    "Of the dozens of countries approached to water down their laws, Australia appears to be the only one considering it, publishers’ group saysGet our new political email, free app or daily news podcastAI has already been trained on the works of Australian artists including Kylie Minogue and Nick Cave without compensation, the peak global body for music rights has claimed, as the Australian government has been warned against giving in to “strong-arming” from tech companies seeking to weaken copyright law.The International Confederation of Music Publishers (ICMP) – which represents Sony, Warner and Universal as well as thousands of independent publishers on six continents – has warned that of the dozens of countries approached to water down copyright laws, Australia appears to be the only to consider doing so."
    ],
-   "source": "Hacker News",
-   "url": "https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/",
-   "image": null,
-   "published_at": "2026-10-19T01:55:03Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "9296e4d1bc06c5623aef14b8bd0f22e5c92fc1a1",
-   "title": "Sanity's Edge – A voice BBS from 1994",
-   "summary": [
-    "Article URL: https://sanitys-edge.shouden.us Comments URL: https://news.ycombinator.com/item?id=50146966 Points: 17 # Comments: 0"
-   ],
-   "source": "Hacker News",
-   "url": "https://sanitys-edge.shouden.us",
-   "image": null,
-   "published_at": "2026-10-19T00:30:34Z",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/music/2026/oct/19/australia-music-global-copywright-outlier-ai-music-body-warnsns",
+   "image": "https://i.guim.co.uk/img/media/240b7746d1549bd30b616b6fd2e698b1838fb964/0_44_6452_5158/master/6452.jpg?width=140&quality=85&auto=format&fit=max&s=594744b407942f98c05df8d2b4600af7",
+   "published_at": "2026-10-19T00:57:46Z",
    "category": "tech",
    "related": []
   },
@@ -120,7 +316,7 @@
    "id": "bb0c25ea36bd958ed17c5a5ccb0733021188a360",
    "title": "William Gibson and the trademarking of cyberspace",
    "summary": [
-    "Article URL: https://colo.to/cyberspace.html Comments URL: https://news.ycombinator.com/item?id=50146625 Points: 125 # Comments: 33"
+    "Article URL: https://colo.to/cyberspace.html Comments URL: https://news.ycombinator.com/item?id=50146625 Points: 231 # Comments: 109"
    ],
    "source": "Hacker News",
    "url": "https://colo.to/cyberspace.html",
@@ -133,7 +329,7 @@
    "id": "976eac77c06e3ce99c1237f8b8c2e2aeac0b5508",
    "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
    "summary": [
-    "Article URL: https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base Comments URL: https://news.ycombinator.com/item?id=50146624 Points: 46 # Comments: 42"
+    "Article URL: https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base Comments URL: https://news.ycombinator.com/item?id=50146624 Points: 106 # Comments: 147"
    ],
    "source": "Hacker News",
    "url": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
@@ -159,7 +355,7 @@
    "id": "6f2aca72a3fc44028770d46b0d493aca4fa94bdc",
    "title": "Show HN: WhatsApp MCP running free on Cloudflare",
    "summary": [
-    "Comments URL: https://news.ycombinator.com/item?id=50145715 Points: 78 # Comments: 41"
+    "Comments URL: https://news.ycombinator.com/item?id=50145715 Points: 133 # Comments: 70"
    ],
    "source": "Hacker News",
    "url": "https://github.com/finereli/whatsapp-mcp",
@@ -172,7 +368,7 @@
    "id": "d2e2b582e2726ffa96b65fa8514c77ddbf349956",
    "title": "If you don't run your own LLM proxy, how do you know whats going on?",
    "summary": [
-    "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 98 # Comments: 72"
+    "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 242 # Comments: 159"
    ],
    "source": "Hacker News",
    "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
@@ -237,7 +433,7 @@
    "id": "baaa6bb1521514d7ace076b0b8bf193971d94717",
    "title": "Free Pascal compiler now supports dynamic packages",
    "summary": [
-    "Article URL: https://www.getlazarus.org/dynamic/ Comments URL: https://news.ycombinator.com/item?id=50144066 Points: 137 # Comments: 31"
+    "Article URL: https://www.getlazarus.org/dynamic/ Comments URL: https://news.ycombinator.com/item?id=50144066 Points: 182 # Comments: 44"
    ],
    "source": "Hacker News",
    "url": "https://www.getlazarus.org/dynamic/",
@@ -247,23 +443,10 @@
    "related": []
   },
   {
-   "id": "907596fd16fa8be9ef0db2d4bd46f6a76caeaa36",
-   "title": "Namecheap just seized and disabled all my domains",
-   "summary": [
-    "Article URL: https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/ Comments URL: https://news.ycombinator.com/item?id=50142866 Points: 520 # Comments: 270"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
-   "image": null,
-   "published_at": "2026-10-18T16:56:56Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "a709c24b2f05ad3dcc271ee5c91df70141e496c4",
    "title": "Someone behind the software",
    "summary": [
-    "Article URL: https://karrisaarinen.com/posts/someone-behind-the-software/ Comments URL: https://news.ycombinator.com/item?id=50142573 Points: 381 # Comments: 151"
+    "Article URL: https://karrisaarinen.com/posts/someone-behind-the-software/ Comments URL: https://news.ycombinator.com/item?id=50142573 Points: 502 # Comments: 181"
    ],
    "source": "Hacker News",
    "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
@@ -287,19 +470,6 @@
    "related": []
   },
   {
-   "id": "632eb2f33c5d9af507905770c1fd1826b4e4e372",
-   "title": "The Intel 8087 chip: floating-point addition and subtraction",
-   "summary": [
-    "Article URL: https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html Comments URL: https://news.ycombinator.com/item?id=50142449 Points: 97 # Comments: 33"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
-   "image": null,
-   "published_at": "2026-10-18T16:20:27Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "8ae21e92485135de9d484b291c58c54bb7ab6b33",
    "title": "TechCrunch Mobility: Rivian’s next act",
    "summary": [
@@ -309,19 +479,6 @@
    "url": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
    "image": null,
    "published_at": "2026-10-18T16:05:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "98043109ddbddf1c1c23d8dca12945170cde591d",
-   "title": "Java sealed classes and exhaustive pattern matching",
-   "summary": [
-    "Article URL: https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/ Comments URL: https://news.ycombinator.com/item?id=50141579 Points: 156 # Comments: 110"
-   ],
-   "source": "Hacker News",
-   "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
-   "image": null,
-   "published_at": "2026-10-18T14:47:37Z",
    "category": "tech",
    "related": []
   },
@@ -341,24 +498,6 @@
    "related": []
   },
   {
-   "id": "643666daab59db726febdf9a370e3f7bb11438fa",
-   "title": "RepRapMicron",
-   "summary": [
-    "Article URL: https://github.com/VikOlliver/RepRapMicron/wiki Comments URL: https://news.ycombinator.com/item?id=50141076 Points: 360 # Comments: 56"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
-   "image": null,
-   "published_at": "2026-10-18T13:48:48Z",
-   "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "https://github.com/ardiri/palmos-lemmings"
-    }
-   ]
-  },
-  {
    "id": "26174453005d11ef79b9ac17825a817374214153",
    "title": "What are self-replicating ‘AI worms’, and why is Anthropic worried about them?",
    "summary": [
@@ -373,28 +512,15 @@
    "related": []
   },
   {
-   "id": "160998fa7ad9ee66041909b03d2606c7a97823d2",
-   "title": "A new way to think about borrow checking (in reverse)",
+   "id": "02b8790878e1259385a3cbc3a2a51c036f9d7a63",
+   "title": "Microsoft pulls out of AI datacentre project in Essex over power supply concerns",
    "summary": [
-    "Article URL: https://verdagon.dev/blog/reverse-borrow-checking Comments URL: https://news.ycombinator.com/item?id=50140383 Points: 46 # Comments: 5"
+    "Development by UK firm Nscale heralded by ministers as largest of its kind in country loses anchor tenantThe development of a huge AI datacentre hailed by the UK government has received a fresh setback after Microsoft pulled out of the project over concerns about power supplies.The development by the British company Nscale, heralded by ministers as the country’s largest AI datacentre when it was announced in 2025, was planned to open at Loughton in Essex next year."
    ],
-   "source": "Hacker News",
-   "url": "https://verdagon.dev/blog/reverse-borrow-checking",
-   "image": null,
-   "published_at": "2026-10-18T12:11:13Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "fcc34260855a04c1ebaf728dbebda0c6a75cf625",
-   "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
-   "summary": [
-    "Article URL: https://github.com/0x23/MicroManipulatorStepper Comments URL: https://news.ycombinator.com/item?id=50140001 Points: 183 # Comments: 14"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/0x23/MicroManipulatorStepper",
-   "image": null,
-   "published_at": "2026-10-18T11:16:22Z",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/18/microsoft-drops-huge-ai-datacentre-project-in-essex-over-power-supply-concerns",
+   "image": "https://i.guim.co.uk/img/media/48d031cc06f5ca17cafd75b0f30a1537d4f35d43/7_0_686_549/master/686.jpg?width=140&quality=85&auto=format&fit=max&s=c5cf32679a4362ea71e1465a65af9593",
+   "published_at": "2026-10-18T13:05:14Z",
    "category": "tech",
    "related": []
   },
@@ -423,98 +549,6 @@
    "url": "https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies",
    "image": "https://i.guim.co.uk/img/media/eb8682cc7e3f9007f9509c961275a6fa6b472f92/446_0_3621_2896/master/3621.jpg?width=140&quality=85&auto=format&fit=max&s=03203ee237fadeab5d23e74e45c2e3b7",
    "published_at": "2026-10-18T10:00:56Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "32e0abd3c996322e682a65c4b413e14b9aca4401",
-   "title": "‘I felt disgusted’: MEP speaks out over nude deepfakes and urges EU action",
-   "summary": [
-    "When she opened the links, she found herself staring at images from one of her first ever press conferences – but the images had been digitally altered to remove her clothing."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/society/2026/oct/18/mep-lena-schilling-nude-deepfakes-eu-action",
-   "image": "https://i.guim.co.uk/img/media/f451bf58ce9566761ef3e471f9080edcbc94e0a6/261_121_2606_2085/master/2606.jpg?width=140&quality=85&auto=format&fit=max&s=acca07559bd2486c93e545f85c16af5d",
-   "published_at": "2026-10-18T04:00:50Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "66eb35d524c072b56cf1d8ae4211bfbbb7c81262",
-   "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
-   "summary": [
-    "Article URL: https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky Comments URL: https://news.ycombinator.com/item?id=50136979 Points: 181 # Comments: 109"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
-   "image": null,
-   "published_at": "2026-10-18T01:38:08Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "d4d8a21bd9972e11394c29470a79b7d15cd8916b",
-   "title": "Meta removes language that raised scraping and AI training concerns",
-   "summary": [
-    "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-   "image": null,
-   "published_at": "2026-10-17T21:31:32Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "63669a3458fe61cec740f16f32fed332c85d32d9",
-   "title": "TikTok says it’s restored ‘Musk’ documentary advertising account",
-   "summary": [
-    "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
-   "image": null,
-   "published_at": "2026-10-17T20:55:52Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "610b2389dc8410149864a143473bbfb4e0e36429",
-   "title": "No further action against government adviser's wife over Palestine Action post, police say",
-   "summary": [
-    "Sarah Helm, who is married to Jonathan Powell, was responding to a discussion about the author Sally Rooney."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cv8ez40yz950o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-17T20:24:32Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "0dabc6c10b97c37b5111d1bc15962486a0b5583a",
-   "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-   "summary": [
-    "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-   "image": null,
-   "published_at": "2026-10-17T20:21:19Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "6435f671229b69ca08cbe2a0c540ff989dd2f621",
-   "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-   "summary": [
-    "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider.",
-    "Claude will still be available to customers on the platform."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-   "image": null,
-   "published_at": "2026-10-17T18:48:08Z",
    "category": "tech",
    "related": []
   }

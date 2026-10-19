@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-19T06:08:15.166681Z",
- "story_count": 10,
+ "generated_at": "2026-10-19T14:36:35.283541Z",
+ "story_count": 13,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -24,15 +24,55 @@
  },
  "stories": [
   {
-   "id": "553f5698c2293fcf6385bf932fd7f608d92ccf2f",
-   "title": "Charities 'busier than ever' with furniture poverty",
+   "id": "73ce7b1dab25a142c4c74e547115a2c503b7ac00",
+   "title": "Home sellers cut asking prices on 3,000 properties a day",
    "summary": [
-    "Charities in Hampshire tell the BBC that furniture poverty is becoming an increasing problem."
+    "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows."
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmx23q7wk35zo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-10-19T05:10:28Z",
+   "published_at": "2026-10-19T12:54:03Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "621909e27833a11670c5ea32a56c37e542b0067a",
+   "title": "Bereaved families could face 'unjust' tax bill after civil service pension delays",
+   "summary": [
+    "The chairman of Parliament's Public Accounts Committee says families should not be taxed through no fault of their own."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq1m4zz9e44go?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-19T12:16:32Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "bb67caccc3460cf50f304545fbb21de8c2fabcd1",
+   "title": "HelloFresh workers claim physical abuse and denied bathroom breaks in class action suit",
+   "summary": [
+    "A New Jersey state court judge is expected to review the amended complaint in a hearing scheduled for 23 October."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/oct/19/hellofresh-abuse-lawsuit",
+   "image": "https://i.guim.co.uk/img/media/0552c296f7bf3a94eaffdf63946659ebf425abc4/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=7cd11514cc52d1e8c59f3c92c250e080",
+   "published_at": "2026-10-19T11:00:55Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "19d7623a9051330e31d1a43df3b5ba236e887218",
+   "title": "We must tax the wealth of billionaires, not just income. California can lead the way | Ro Khanna",
+   "summary": [
+    "Will California stand with the working class or the oligarchs in the vote this November?The Democratic party has a choice to make.",
+    "Are we going to be New Deal Democrats or corporate Democrats?"
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/19/tax-wealth-billionaires-income-california",
+   "image": "https://i.guim.co.uk/img/media/2629e359cb7d8edb68029571b27eb8bb7a602a90/491_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=ee8e212fe48c8f3b97dbab2b28d6cbb5",
+   "published_at": "2026-10-19T10:00:05Z",
    "category": "business",
    "related": []
   },
@@ -46,20 +86,46 @@
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-10-19T00:22:20Z",
+   "published_at": "2026-10-19T09:49:58Z",
    "category": "business",
    "related": []
   },
   {
-   "id": "73ce7b1dab25a142c4c74e547115a2c503b7ac00",
-   "title": "Home sellers cut asking prices on 3,000 properties a day",
+   "id": "6d8f8836d868327e03e92b4cfcab9a3bc67f1d06",
+   "title": "What are the new faces coming to UK bank notes?",
    "summary": [
-    "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows."
+    "Banknotes are getting a nature-themed makeover – and the Bank of England has revealed the four creatures that will feature on our money."
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/c9zrd6d12ll8o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-10-18T23:00:45Z",
+   "published_at": "2026-10-19T09:48:35Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "cccc77875e3375107e78d493afad2dd08a99a0a6",
+   "title": "What is the Budget and what could be in it?",
+   "summary": [
+    "Chancellor John Healey will set out his plans for UK taxes on 28 October."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-19T09:01:40Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "553f5698c2293fcf6385bf932fd7f608d92ccf2f",
+   "title": "Charities 'busier than ever' with furniture poverty",
+   "summary": [
+    "Charities in Hampshire tell the BBC that furniture poverty is becoming an increasing problem."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmx23q7wk35zo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-19T05:10:28Z",
    "category": "business",
    "related": []
   },
@@ -86,19 +152,6 @@
    "url": "https://www.bbc.co.uk/news/articles/c6n49w1r2zxjo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-18T11:03:04Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "cccc77875e3375107e78d493afad2dd08a99a0a6",
-   "title": "What is the Budget and what could be in it?",
-   "summary": [
-    "Chancellor John Healey will set out his plans for UK taxes on 28 October."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-18T10:22:17Z",
    "category": "business",
    "related": []
   },
@@ -138,19 +191,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cq1j3x66e1rno?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-18T06:07:40Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "11125da554cf8fc48292b4503d2c9579e5c27f82",
-   "title": "There's a crackdown on sports piracy - but is it already out of control?",
-   "summary": [
-    "The sports industry's lucrative business model is being undermined by dodgy TV sticks and illegal streaming links, writes Theo Leggett."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmx2375zqwwwo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-18T00:11:09Z",
    "category": "business",
    "related": []
   }
