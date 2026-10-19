@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-19T01:06:32.429030Z",
- "story_count": 35,
+ "generated_at": "2026-10-19T06:08:15.166067Z",
+ "story_count": 37,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -24,15 +24,121 @@
  },
  "stories": [
   {
+   "id": "57c81b3b8db688a926bb28cd08759001878422e4",
+   "title": "The one change that worked: I deleted Instagram – and embraced the joys of a truly private life",
+   "summary": [
+    "I self-righteously refused to download TikTok, declared Snapchat to be for “children”, and posted less regularly on Instagram than half of the people I followed.As I went through my university years, however, certain changes crept up on me.",
+    "I began to swap reading – or essay-writing – for hours spent curating new posts.",
+    "What usually followed was a night of reloading my feed to see how many people had reacted to my post – or worse, hadn’t reacted at all."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/lifeandstyle/2026/oct/19/the-one-change-that-worked-i-deleted-instagram-and-embraced-the-joys-of-a-truly-private-life",
+   "image": "https://i.guim.co.uk/img/media/ceaa99b015890b7a619a0a8076ba9b1b00872b42/0_519_1200_960/master/1200.jpg?width=140&quality=85&auto=format&fit=max&s=a16b6a4736bad55f44a93c915d4c98dd",
+   "published_at": "2026-10-19T05:55:20Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "bed3356286007ad710293fca002b4d779d84410b",
+   "title": "China's growth accelerates as AI export boom outweighs domestic weakness",
+   "summary": [
+    "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-19T05:17:35Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "c875e80c9abbccf4f00aebec908e2da6797c19d5",
+   "title": "DeepSeek V4.1 Flash 1017 (Max)",
+   "summary": [
+    "Article URL: https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017 Comments URL: https://news.ycombinator.com/item?id=50148452 Points: 71 # Comments: 19"
+   ],
+   "source": "Hacker News",
+   "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
+   "image": null,
+   "published_at": "2026-10-19T04:41:46Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "e71e72d6e2e6024e06abbcdbe3c20e4001fad0c7",
+   "title": "Verisign .com Domain Name Registry Consumer Class Action",
+   "summary": [
+    "Article URL: https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action Comments URL: https://news.ycombinator.com/item?id=50148441 Points: 23 # Comments: 2"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action",
+   "image": null,
+   "published_at": "2026-10-19T04:40:18Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "16d9e0c947efefd688ef8e8b83b3feeee167a2b7",
+   "title": "Superlite: A Faster Alternatie to Superpowers",
+   "summary": [
+    "Article URL: https://contextfirst.blog/superlite-hand-an-agent-a-spec/ Comments URL: https://news.ycombinator.com/item?id=50147492 Points: 41 # Comments: 17"
+   ],
+   "source": "Hacker News",
+   "url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
+   "image": null,
+   "published_at": "2026-10-19T02:01:16Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "7ba3b5fb825b27f4cb9faab794781b26b5e6019c",
+   "title": "Footage of the Flock search that a judge ruled was uncosntitutional",
+   "summary": [
+    "Article URL: https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/ Comments URL: https://news.ycombinator.com/item?id=50147455 Points: 72 # Comments: 24"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/",
+   "image": null,
+   "published_at": "2026-10-19T01:55:03Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "9296e4d1bc06c5623aef14b8bd0f22e5c92fc1a1",
+   "title": "Sanity's Edge – A voice BBS from 1994",
+   "summary": [
+    "Article URL: https://sanitys-edge.shouden.us Comments URL: https://news.ycombinator.com/item?id=50146966 Points: 17 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://sanitys-edge.shouden.us",
+   "image": null,
+   "published_at": "2026-10-19T00:30:34Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "bb0c25ea36bd958ed17c5a5ccb0733021188a360",
    "title": "William Gibson and the trademarking of cyberspace",
    "summary": [
-    "Article URL: https://colo.to/cyberspace.html Comments URL: https://news.ycombinator.com/item?id=50146625 Points: 29 # Comments: 0"
+    "Article URL: https://colo.to/cyberspace.html Comments URL: https://news.ycombinator.com/item?id=50146625 Points: 125 # Comments: 33"
    ],
    "source": "Hacker News",
    "url": "https://colo.to/cyberspace.html",
    "image": null,
    "published_at": "2026-10-18T23:37:57Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "976eac77c06e3ce99c1237f8b8c2e2aeac0b5508",
+   "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
+   "summary": [
+    "Article URL: https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base Comments URL: https://news.ycombinator.com/item?id=50146624 Points: 46 # Comments: 42"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
+   "image": null,
+   "published_at": "2026-10-18T23:37:54Z",
    "category": "tech",
    "related": []
   },
@@ -53,7 +159,7 @@
    "id": "6f2aca72a3fc44028770d46b0d493aca4fa94bdc",
    "title": "Show HN: WhatsApp MCP running free on Cloudflare",
    "summary": [
-    "Comments URL: https://news.ycombinator.com/item?id=50145715 Points: 33 # Comments: 23"
+    "Comments URL: https://news.ycombinator.com/item?id=50145715 Points: 78 # Comments: 41"
    ],
    "source": "Hacker News",
    "url": "https://github.com/finereli/whatsapp-mcp",
@@ -66,7 +172,7 @@
    "id": "d2e2b582e2726ffa96b65fa8514c77ddbf349956",
    "title": "If you don't run your own LLM proxy, how do you know whats going on?",
    "summary": [
-    "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 11 # Comments: 4"
+    "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 98 # Comments: 72"
    ],
    "source": "Hacker News",
    "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
@@ -131,7 +237,7 @@
    "id": "baaa6bb1521514d7ace076b0b8bf193971d94717",
    "title": "Free Pascal compiler now supports dynamic packages",
    "summary": [
-    "Article URL: https://www.getlazarus.org/dynamic/ Comments URL: https://news.ycombinator.com/item?id=50144066 Points: 109 # Comments: 18"
+    "Article URL: https://www.getlazarus.org/dynamic/ Comments URL: https://news.ycombinator.com/item?id=50144066 Points: 137 # Comments: 31"
    ],
    "source": "Hacker News",
    "url": "https://www.getlazarus.org/dynamic/",
@@ -141,28 +247,10 @@
    "related": []
   },
   {
-   "id": "22779267013f0f792d5fd289f6a86b75e83fcbca",
-   "title": "What the heck is /pkg?",
-   "summary": [
-    "Article URL: https://anderegg.ca/2026/10/18/what-the-heck-is-pkg Comments URL: https://news.ycombinator.com/item?id=50143154 Points: 9 # Comments: 3"
-   ],
-   "source": "Hacker News",
-   "url": "https://anderegg.ca/2026/10/18/what-the-heck-is-pkg",
-   "image": null,
-   "published_at": "2026-10-18T17:21:23Z",
-   "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "https://khalidhamadeh.com/writing/rc2-pi-table"
-    }
-   ]
-  },
-  {
    "id": "907596fd16fa8be9ef0db2d4bd46f6a76caeaa36",
    "title": "Namecheap just seized and disabled all my domains",
    "summary": [
-    "Article URL: https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/ Comments URL: https://news.ycombinator.com/item?id=50142866 Points: 413 # Comments: 194"
+    "Article URL: https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/ Comments URL: https://news.ycombinator.com/item?id=50142866 Points: 520 # Comments: 270"
    ],
    "source": "Hacker News",
    "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
@@ -175,7 +263,7 @@
    "id": "a709c24b2f05ad3dcc271ee5c91df70141e496c4",
    "title": "Someone behind the software",
    "summary": [
-    "Article URL: https://karrisaarinen.com/posts/someone-behind-the-software/ Comments URL: https://news.ycombinator.com/item?id=50142573 Points: 304 # Comments: 122"
+    "Article URL: https://karrisaarinen.com/posts/someone-behind-the-software/ Comments URL: https://news.ycombinator.com/item?id=50142573 Points: 381 # Comments: 151"
    ],
    "source": "Hacker News",
    "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
@@ -202,7 +290,7 @@
    "id": "632eb2f33c5d9af507905770c1fd1826b4e4e372",
    "title": "The Intel 8087 chip: floating-point addition and subtraction",
    "summary": [
-    "Article URL: https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html Comments URL: https://news.ycombinator.com/item?id=50142449 Points: 87 # Comments: 31"
+    "Article URL: https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html Comments URL: https://news.ycombinator.com/item?id=50142449 Points: 97 # Comments: 33"
    ],
    "source": "Hacker News",
    "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
@@ -228,7 +316,7 @@
    "id": "98043109ddbddf1c1c23d8dca12945170cde591d",
    "title": "Java sealed classes and exhaustive pattern matching",
    "summary": [
-    "Article URL: https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/ Comments URL: https://news.ycombinator.com/item?id=50141579 Points: 132 # Comments: 102"
+    "Article URL: https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/ Comments URL: https://news.ycombinator.com/item?id=50141579 Points: 156 # Comments: 110"
    ],
    "source": "Hacker News",
    "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
@@ -256,7 +344,7 @@
    "id": "643666daab59db726febdf9a370e3f7bb11438fa",
    "title": "RepRapMicron",
    "summary": [
-    "Article URL: https://github.com/VikOlliver/RepRapMicron/wiki Comments URL: https://news.ycombinator.com/item?id=50141076 Points: 327 # Comments: 54"
+    "Article URL: https://github.com/VikOlliver/RepRapMicron/wiki Comments URL: https://news.ycombinator.com/item?id=50141076 Points: 360 # Comments: 56"
    ],
    "source": "Hacker News",
    "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
@@ -285,25 +373,10 @@
    "related": []
   },
   {
-   "id": "e9bd6e2a8f74e6f72b5da6a30fd2e7e36f79fc46",
-   "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
-   "summary": [
-    "I made this ahead of the Ocarina of Time remake which comes out in 17 days.",
-    "I remember the feeling of playing it as a kid but I hadn’t kept up with the story so I built a timeline to catch up before the Door of Time reopens.Nintendo’s own timeline is the authority here (Hyrule Historia and their chronicle page).",
-    "I’d often thought about building things like this but never found the time between the day job and the rest of life."
-   ],
-   "source": "Hacker News",
-   "url": "https://legendofhyrule.com/",
-   "image": null,
-   "published_at": "2026-10-18T13:06:54Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "160998fa7ad9ee66041909b03d2606c7a97823d2",
    "title": "A new way to think about borrow checking (in reverse)",
    "summary": [
-    "Article URL: https://verdagon.dev/blog/reverse-borrow-checking Comments URL: https://news.ycombinator.com/item?id=50140383 Points: 16 # Comments: 3"
+    "Article URL: https://verdagon.dev/blog/reverse-borrow-checking Comments URL: https://news.ycombinator.com/item?id=50140383 Points: 46 # Comments: 5"
    ],
    "source": "Hacker News",
    "url": "https://verdagon.dev/blog/reverse-borrow-checking",
@@ -316,7 +389,7 @@
    "id": "fcc34260855a04c1ebaf728dbebda0c6a75cf625",
    "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
    "summary": [
-    "Article URL: https://github.com/0x23/MicroManipulatorStepper Comments URL: https://news.ycombinator.com/item?id=50140001 Points: 173 # Comments: 13"
+    "Article URL: https://github.com/0x23/MicroManipulatorStepper Comments URL: https://news.ycombinator.com/item?id=50140001 Points: 183 # Comments: 14"
    ],
    "source": "Hacker News",
    "url": "https://github.com/0x23/MicroManipulatorStepper",
@@ -354,19 +427,6 @@
    "related": []
   },
   {
-   "id": "48479cd7194ad72c8a9a0b7596887da51ca1b564",
-   "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-   "summary": [
-    "Article URL: https://api-docs.deepseek.com/guides/search/ Comments URL: https://news.ycombinator.com/item?id=50138531 Points: 543 # Comments: 257"
-   ],
-   "source": "Hacker News",
-   "url": "https://api-docs.deepseek.com/guides/search/",
-   "image": null,
-   "published_at": "2026-10-18T06:50:36Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "32e0abd3c996322e682a65c4b413e14b9aca4401",
    "title": "‘I felt disgusted’: MEP speaks out over nude deepfakes and urges EU action",
    "summary": [
@@ -380,41 +440,15 @@
    "related": []
   },
   {
-   "id": "32b83c7f52bb86aa62b1b23ead84ef51d644943e",
-   "title": "The Elizabeth Holmes documentary “You Can See Everything” is deceiving",
-   "summary": [
-    "Article URL: https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything Comments URL: https://news.ycombinator.com/item?id=50137620 Points: 362 # Comments: 512"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-   "image": null,
-   "published_at": "2026-10-18T03:19:49Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "66eb35d524c072b56cf1d8ae4211bfbbb7c81262",
    "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
    "summary": [
-    "Article URL: https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky Comments URL: https://news.ycombinator.com/item?id=50136979 Points: 117 # Comments: 73"
+    "Article URL: https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky Comments URL: https://news.ycombinator.com/item?id=50136979 Points: 181 # Comments: 109"
    ],
    "source": "Hacker News",
    "url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
    "image": null,
    "published_at": "2026-10-18T01:38:08Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "774f7412d1a369d1c04ab0bb964614cd55e7e294",
-   "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
-   "summary": [
-    "Article URL: https://www.youtube.com/watch?v=LKrwhjOI8Nc Comments URL: https://news.ycombinator.com/item?id=50136150 Points: 148 # Comments: 90"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
-   "image": null,
-   "published_at": "2026-10-17T23:26:35Z",
    "category": "tech",
    "related": []
   },
@@ -433,7 +467,7 @@
   },
   {
    "id": "63669a3458fe61cec740f16f32fed332c85d32d9",
-   "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+   "title": "TikTok says it’s restored ‘Musk’ documentary advertising account",
    "summary": [
     "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms."
    ],
@@ -481,19 +515,6 @@
    "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
    "image": null,
    "published_at": "2026-10-17T18:48:08Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "8fbb39707210b9dcd3f3a7a74b8425383eec409d",
-   "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
-   "summary": [
-    "The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
-   "image": null,
-   "published_at": "2026-10-17T15:30:00Z",
    "category": "tech",
    "related": []
   }

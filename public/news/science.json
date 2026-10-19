@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-19T01:06:32.429867Z",
- "story_count": 22,
+ "generated_at": "2026-10-19T06:08:15.166950Z",
+ "story_count": 21,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,32 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "0d8dd9310f5c64f36eaeec878143fd4f2559ac56",
+   "title": "Volunteers plant 109,000 trees in new woodlands",
+   "summary": [
+    "In the last two seasons, almost 500,000 trees and 27,233 metres of new hedges, have been planted."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cxp8gdzj606zo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-19T05:38:04Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "bbbf5caff322dada8940f8caa0a4e9c6152d6335",
+   "title": "BBC visits wildfire front in haze-choked Indonesia",
+   "summary": [
+    "The BBC is in central Kalimantan, where a toxic haze fuelled by wildfires is choking millions of residents."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/cm9wzye55j4xo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-19T01:57:02Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "280ae223b60cf9a5bc09acea5662323404be55bc",
    "title": "Mission set to blast off for Mars to grab a piece of its moon",
@@ -232,32 +258,6 @@
    "related": []
   },
   {
-   "id": "b93cfa87adc21a8c1b7b743dee89556c13d8fa83",
-   "title": "Corby metal pollution may harm people, says study",
-   "summary": [
-    "However, the Environment Agency says it has not found evidence that could cause significant harm."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ckx2dgl087lzo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-18T05:37:52Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "866344e5d77f123d3e97f71a23536bef73796a22",
-   "title": "Two damselfly species return to restored woodland",
-   "summary": [
-    "A three-year project to restore woodland at seven nature reserves is completed."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cwg5jvnqv28go?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-18T05:16:16Z",
-   "category": "science",
-   "related": []
-  },
-  {
    "id": "d4399830120224f63e9bf1932bca2edbc82e442c",
    "title": "Scientists find a youth protein that helps aging brain cells act young again",
    "summary": [
@@ -309,21 +309,6 @@
    "url": "https://www.bbc.co.uk/news/articles/c6vgjnk8nw2wo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-17T19:13:21Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "75d120dddabf4f0f74ade621d525ab58b90169a0",
-   "title": "NASA’s Roman Space Telescope exceeds expectations by nearly 30%",
-   "summary": [
-    "NASA’s Nancy Grace Roman Space Telescope has exceeded expectations after engineers made incredibly tiny adjustments to sharpen its view of the universe.",
-    "By moving a mirror just one-sixteenth the width of a human hair, the team helped bring its powerful instruments into near-perfect alignment.",
-    "Roman’s Wide Field Instrument now produces image quality nearly 30% better than predicted, promising exceptionally sharp cosmic surveys."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261016070630.htm",
-   "image": null,
-   "published_at": "2026-10-17T13:28:13Z",
    "category": "science",
    "related": []
   }

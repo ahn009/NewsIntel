@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-19T01:06:32.429577Z",
- "story_count": 9,
+ "generated_at": "2026-10-19T06:08:15.166681Z",
+ "story_count": 10,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,19 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "553f5698c2293fcf6385bf932fd7f608d92ccf2f",
+   "title": "Charities 'busier than ever' with furniture poverty",
+   "summary": [
+    "Charities in Hampshire tell the BBC that furniture poverty is becoming an increasing problem."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmx23q7wk35zo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-19T05:10:28Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "e2ccbff6cf02fec4f94b0c17393e7301aa6c5972",
    "title": "People playing loud music on buses could face £100 fine",
