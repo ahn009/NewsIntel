@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-19T14:36:35.283541Z",
- "story_count": 13,
+ "generated_at": "2026-10-19T20:32:14.718399Z",
+ "story_count": 14,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,45 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "8ae589bfc27cfdccd479c828b552f693ba630016",
+   "title": "Christiane Amanpour announces she’s leaving CNN after 43 years",
+   "summary": [
+    "She also hosts a show for PBS, Amanpour and Company, that will conclude at the end of this year."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/media/2026/oct/19/christiane-amanpour-leaving-cnn",
+   "image": "https://i.guim.co.uk/img/media/b406b3723fac75582a4c6440ec2df4a8cded91b3/268_0_3861_3088/master/3861.jpg?width=140&quality=85&auto=format&fit=max&s=f48a69437ddafd14b2a198112e4e17e2",
+   "published_at": "2026-10-19T17:21:59Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "41a1ae37a2b193719cf1ed848a1a7725bfb52576",
+   "title": "Vinted blocks French looters listing stolen goods for sale",
+   "summary": [
+    "The platform said since the weekend it had \"taken immediate action to idenitify and remove listings linked to looting\"."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-19T16:46:35Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "ab37e1e8571d81d29350ac03cbef40b316509535",
+   "title": "Bikes 'not for jousting,' says Lime after duel video",
+   "summary": [
+    "Footage emerged on social media of hundreds of people gathered in east London to watch a bike joust."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c9zrdpg7256yo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-19T15:44:53Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "73ce7b1dab25a142c4c74e547115a2c503b7ac00",
    "title": "Home sellers cut asking prices on 3,000 properties a day",
@@ -51,7 +90,7 @@
   },
   {
    "id": "bb67caccc3460cf50f304545fbb21de8c2fabcd1",
-   "title": "HelloFresh workers claim physical abuse and denied bathroom breaks in class action suit",
+   "title": "HelloFresh workers claim physical abuse and denied bathroom breaks in class-action suit",
    "summary": [
     "A New Jersey state court judge is expected to review the amended complaint in a hearing scheduled for 23 October."
    ],
@@ -130,6 +169,19 @@
    "related": []
   },
   {
+   "id": "9f308b9c06a26bb1c8c36b0ef6f0a732aa566a00",
+   "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+   "summary": [
+    "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-18T23:28:45Z",
+   "category": "business",
+   "related": []
+  },
+  {
    "id": "6ce8d55f576332f723808cbf67373734290960d1",
    "title": "Microsoft pulls out of UK's largest AI data centre",
    "summary": [
@@ -152,45 +204,6 @@
    "url": "https://www.bbc.co.uk/news/articles/c6n49w1r2zxjo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-18T11:03:04Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "ff60a66bba7b5eea8451f634bf5419f56dbdb97a",
-   "title": "Turning the tides: Could hidden sea power energise our coastal towns?",
-   "summary": [
-    "Engineer David Mummery has developed a tidal energy generator that he says can change lives for people living in coastal communities."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c8y56y6xg9n9o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-18T08:12:24Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "41df5885efdd682f3e266e51ffc2bf1920794971",
-   "title": "'I took a chance on the whisky industry and I haven't looked back'",
-   "summary": [
-    "Zoey Darnbrough had no idea there was a distillery near her home - now she has a top tourism role there."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6y8ln9831v3o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-18T08:12:17Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "1b06a23e4bf51eb4ae7c0ab0dbad30e6a68a5101",
-   "title": "Heating oil customers face tough winter",
-   "summary": [
-    "The government plans to regulate heating oil prices after increases."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cq1j3x66e1rno?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-18T06:07:40Z",
    "category": "business",
    "related": []
   }

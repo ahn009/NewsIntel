@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-19T14:36:35.283893Z",
- "story_count": 29,
+ "generated_at": "2026-10-19T20:32:14.718556Z",
+ "story_count": 27,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,32 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "280ae223b60cf9a5bc09acea5662323404be55bc",
+   "title": "Mission blasts off for Mars to grab a piece of its moon",
+   "summary": [
+    "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-19T19:45:46Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "06636f47fa57ab7f25fe5e7ed7c847392c0be35a",
+   "title": "Capybara pups at Manx zoo draw record crowds",
+   "summary": [
+    "Curraghs Wildlife Park has its busiest October weekend ever after the birth of eight capybara pups."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cw7vplvjd3elo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-19T16:12:09Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "8f18942d7cd432f0f37304d7224da5b3734daa8c",
    "title": "Volunteers help save one of London's rarest plants",
@@ -147,19 +173,6 @@
    "url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
    "image": null,
    "published_at": "2026-10-19T09:19:45Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "280ae223b60cf9a5bc09acea5662323404be55bc",
-   "title": "Mission set to blast off for Mars to grab a piece of its moon",
-   "summary": [
-    "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-19T08:03:49Z",
    "category": "science",
    "related": []
   },
@@ -345,19 +358,6 @@
    "related": []
   },
   {
-   "id": "84aafc263402d9b90561beea8b65d9e56daa2914",
-   "title": "Free clear-up has big engagement on social media",
-   "summary": [
-    "One man's battle against weeds and overgrown pathways makes a big difference to the town"
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cly8q2rryejo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-18T10:59:32Z",
-   "category": "science",
-   "related": []
-  },
-  {
    "id": "21bf34e70db5c19edb798989c2413a517499100c",
    "title": "Scientists discover that male and female skin play by different rules",
    "summary": [
@@ -396,34 +396,6 @@
    "url": "https://www.bbc.co.uk/weather/articles/c64gr18jrvx3o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-18T08:54:07Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "d4399830120224f63e9bf1932bca2edbc82e442c",
-   "title": "Scientists find a youth protein that helps aging brain cells act young again",
-   "summary": [
-    "Scientists have discovered that a protein linked to youth helps protect the brain’s immune cells from age-related decline.",
-    "Restoring the protein in older mice improved the cells’ ability to clear debris and reduced signs of inflammation, raising hopes for future treatments targeting brain aging and Alzheimer’s disease."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261016070646.htm",
-   "image": null,
-   "published_at": "2026-10-18T03:27:40Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "95087c5b5d79fd3d7b913618634c8d4ae6d423dd",
-   "title": "NASA’s SpaceX launch lights up the sky with a giant glowing jellyfish",
-   "summary": [
-    "A SpaceX Falcon 9 rocket created a dazzling, jellyfish-shaped glow across the eastern United States as sunlight illuminated its exhaust during an early morning launch.",
-    "The mission delivered equipment and scientific experiments to the International Space Station, including research that could advance treatments for blindness, Alzheimer's, Parkinson's, and other diseases."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261016070635.htm",
-   "image": null,
-   "published_at": "2026-10-18T03:02:35Z",
    "category": "science",
    "related": []
   }

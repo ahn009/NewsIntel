@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T14:36:35.282907Z",
+ "generated_at": "2026-10-19T20:32:14.718043Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -24,23 +24,280 @@
  },
  "stories": [
   {
-   "id": "505bbc358247adce53d1ff6c7917b4b8677ce193",
-   "title": "Beyond These Stars",
+   "id": "8a1ba0c934b076ba4f9bc259657a4372efccee34",
+   "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
    "summary": [
-    "Article URL: https://store.steampowered.com/app/2295060/Beyond_These_Stars/ Comments URL: https://news.ycombinator.com/item?id=50152701 Points: 3 # Comments: 0"
+    "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+   "image": null,
+   "published_at": "2026-10-19T20:09:24Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "141841bfba33c1b9aa6a1f5a87e3521c64e988e9",
+   "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+   "summary": [
+    "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor.",
+    "But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+   "image": null,
+   "published_at": "2026-10-19T19:28:34Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "1ef5dd457f6d14300242e0fda849bb7d8f8d2196",
+   "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+   "summary": [
+    "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+   "image": null,
+   "published_at": "2026-10-19T19:00:12Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "6f89b06ee11fefcededc06d63da06720e47d52ef",
+   "title": "Towards Company World Models",
+   "summary": [
+    "Article URL: https://www.beaconholdings.com/research/towards-company-world-models Comments URL: https://news.ycombinator.com/item?id=50156332 Points: 13 # Comments: 0"
    ],
    "source": "Hacker News",
-   "url": "https://store.steampowered.com/app/2295060/Beyond_These_Stars/",
+   "url": "https://www.beaconholdings.com/research/towards-company-world-models",
    "image": null,
-   "published_at": "2026-10-19T14:06:10Z",
+   "published_at": "2026-10-19T18:51:09Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a8d6030b440a267722dd6c4cfc5d10ebbd7ec528",
+   "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+   "summary": [
+    "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago.",
+    "Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+   "image": null,
+   "published_at": "2026-10-19T18:49:04Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "5e113e86ceaa012cb7b719390682b38118b62ddc",
+   "title": "The reverts will continue until morale improves",
+   "summary": [
+    "Article URL: http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves Comments URL: https://news.ycombinator.com/item?id=50156206 Points: 44 # Comments: 5"
+   ],
+   "source": "Hacker News",
+   "url": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
+   "image": null,
+   "published_at": "2026-10-19T18:42:32Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "25c38f880dd1c0b8a5539fde543922fc627ad46f",
+   "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+   "summary": [
+    "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+   "image": null,
+   "published_at": "2026-10-19T18:37:27Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "e11c4e750a179d58710f16601b77f58c523ff0d6",
+   "title": "US bans DeepSeek AI from government use as tech tension with China continues",
+   "summary": [
+    "DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-19T18:21:54Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "8a61882c5d2faa281d33683faa309c1df71e993a",
+   "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
+   "summary": [
+    "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+   "image": null,
+   "published_at": "2026-10-19T18:00:39Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "7272d662793843892af891b99b427d5d274ee063",
+   "title": "Show HN: Open-source early-reading reader with phonics help",
+   "summary": [
+    "My kid is 6 y/o and she is learning to read.",
+    "She's moved through the basic phonics with Teach Your Monster to Read but was struggling with how repetitive it was.",
+    "Comments URL: https://news.ycombinator.com/item?id=50155647 Points: 14 # Comments: 2"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/finereli/yarareads",
+   "image": null,
+   "published_at": "2026-10-19T17:58:54Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "0dcabea6566a7269eb14e47434745bf2f43424fb",
+   "title": "Rivian’s CEO says autonomy will enable ‘dramatically different’ vehicle designs",
+   "summary": [
+    "Founder and CEO RJ Scaringe said he thinks autonomy will allow his company to build radically different kinds of vehicles than the outdoorsy SUVs and trucks it currently makes."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/",
+   "image": null,
+   "published_at": "2026-10-19T17:39:51Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "f30a44480c497b17dc53e12aa212b5f24780430d",
+   "title": "Mercury 3: Diffusion at scale",
+   "summary": [
+    "Article URL: https://www.inceptionlabs.ai/blog/introducing-mercury-3 Comments URL: https://news.ycombinator.com/item?id=50155245 Points: 160 # Comments: 67"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+   "image": null,
+   "published_at": "2026-10-19T17:27:11Z",
+   "category": "tech",
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://www.minimax.io/blog/minimax-m31f"
+    }
+   ]
+  },
+  {
+   "id": "7a6b76a5b521d2ecc2aae21c1889c530555f5bfb",
+   "title": "Evidence (YC S21) Is Hiring Software Engineers",
+   "summary": [
+    "Article URL: https://evidence.dev/jobs Comments URL: https://news.ycombinator.com/item?id=50155172 Points: 0 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://evidence.dev/jobs",
+   "image": null,
+   "published_at": "2026-10-19T17:21:33Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "203cb0bac92838d55ec8db4eed4c2077f868d56e",
+   "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
+   "summary": [
+    "Amazon and X-energy have inked another deal to deploy nuclear power to the grid.",
+    "This one will generate nearly 1 gigawatt of electricity."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
+   "image": null,
+   "published_at": "2026-10-19T16:55:56Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "76a5f348416759f795f56b4ebc31cba07679a186",
+   "title": "Android apps running native on macOS",
+   "summary": [
+    "Article URL: https://github.com/kksimp/Mac.apk Comments URL: https://news.ycombinator.com/item?id=50154624 Points: 149 # Comments: 47"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/kksimp/Mac.apk",
+   "image": null,
+   "published_at": "2026-10-19T16:45:30Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "bc4dcaad50e57eae6c06d1ec386fc090def326fd",
+   "title": "I no longer care to work on any Ruby gems so I've archived all my repositories",
+   "summary": [
+    "Article URL: https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository Comments URL: https://news.ycombinator.com/item?id=50154518 Points: 294 # Comments: 259"
+   ],
+   "source": "Hacker News",
+   "url": "https://po-ru.com/2026/10/18/why-im-no-longer-updating-this-repository",
+   "image": null,
+   "published_at": "2026-10-19T16:37:10Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "69bd463197ee8fc63e21f0c79b24d86c56d2a872",
+   "title": "People are using AI to make their smart TVs dumb again",
+   "summary": [
+    "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+   "image": null,
+   "published_at": "2026-10-19T16:13:22Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "c33a66b4df035b2b36c5266486f86b2a690c9129",
+   "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+   "summary": [
+    "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+   "image": null,
+   "published_at": "2026-10-19T15:37:09Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "dd8ec3bec8db4535b168a259da995409702506bf",
+   "title": "CERN and Mistral sign a statement of intent to establish a strategic partnership",
+   "summary": [
+    "Article URL: https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/ Comments URL: https://news.ycombinator.com/item?id=50153630 Points: 248 # Comments: 46"
+   ],
+   "source": "Hacker News",
+   "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+   "image": null,
+   "published_at": "2026-10-19T15:28:24Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "0d4cb5cd63ce44456177418fc4b66546bb37cc76",
+   "title": "Plex vulnerabilities being exploited in the wild to drop a cryptominer",
+   "summary": [
+    "Article URL: http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html Comments URL: https://news.ycombinator.com/item?id=50152321 Points: 93 # Comments: 33"
+   ],
+   "source": "Hacker News",
+   "url": "http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html",
+   "image": null,
+   "published_at": "2026-10-19T13:36:43Z",
    "category": "tech",
    "related": []
   },
   {
    "id": "5ef96e687c3da995106111b48510828763e4425f",
-   "title": "Wine Ported to OpenBSD",
+   "title": "Wine ported to OpenBSD",
    "summary": [
-    "Article URL: https://marc.info/?l=openbsd-ports&m=179236125692175 Comments URL: https://news.ycombinator.com/item?id=50152307 Points: 3 # Comments: 0"
+    "Article URL: https://marc.info/?l=openbsd-ports&m=179236125692175 Comments URL: https://news.ycombinator.com/item?id=50152307 Points: 415 # Comments: 132"
    ],
    "source": "Hacker News",
    "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
@@ -50,15 +307,31 @@
    "related": []
   },
   {
-   "id": "bb2f9104933712ab704b30807c7bae00e1f33bb0",
-   "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
+   "id": "46e866d9a5978c0c32e879ee3bc5dc0116d6e767",
+   "title": "Cairn: Open windows into AI-driven cyber operations",
    "summary": [
-    "Article URL: https://100toolkit.com/blog/deslop-model/ Comments URL: https://news.ycombinator.com/item?id=50151928 Points: 59 # Comments: 28"
+    "https://www.reuters.com/legal/government/how-one-hacker-used...https://www.theverge.com/ai-artificial-intelligence/1013643/...",
+    "Comments URL: https://news.ycombinator.com/item?id=50152302 Points: 19 # Comments: 6"
    ],
    "source": "Hacker News",
-   "url": "https://100toolkit.com/blog/deslop-model/",
+   "url": "https://norforge.com/blog/inside_cairn",
    "image": null,
-   "published_at": "2026-10-19T13:00:47Z",
+   "published_at": "2026-10-19T13:35:12Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "e0863ca20939db853b753ad43e6f2b522fb8ce43",
+   "title": "Show HN: I built a task system to handle the drudgery so I could focus on tasks",
+   "summary": [
+    "I'm a software engineer from the east coast (who has lived in Boston, NY, the bay area, UK, France), and I built a task system called 3 & Done.",
+    "Grew up with it, which was unusual when I started, and I was always good about getting into the zone and doing things.",
+    "If you do, please tell me if we did a good job picking out your day.https://3anddoneapp.com/try Comments URL: https://news.ycombinator.com/item?id=50151980 Points: 34 # Comments: 34"
+   ],
+   "source": "Hacker News",
+   "url": "https://3anddoneapp.com/try",
+   "image": null,
+   "published_at": "2026-10-19T13:07:07Z",
    "category": "tech",
    "related": []
   },
@@ -79,7 +352,7 @@
    "id": "bfa78ce3f0883e4d2527016fef4e51c2d35a5a1e",
    "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
    "summary": [
-    "Apple said that it will ban AI apps that don't moderate offensive content."
+    "The company updated its guidelines with strong language around AI and user-generated content, and how app developers should include enough preventative measures to moderate objectionable or offensive content."
    ],
    "source": "TechCrunch",
    "url": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/",
@@ -89,10 +362,23 @@
    "related": []
   },
   {
+   "id": "c2ced7e7825b63110447bedd4f756498ff3fce06",
+   "title": "AI firm Anthropic to commit 5% of shares to fund for ‘public good’",
+   "summary": [
+    "It will add a further 2% of its stock to the fund for every 50% increase in its value above an undisclosed baseline."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/oct/19/ai-firm-anthropic-to-commit-shares-to-fund-for-public-good",
+   "image": "https://i.guim.co.uk/img/media/2790d74966de266025ee31e1975f1f2ce9024d36/387_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=16ba666f47897a1a79435713e2ff8af3",
+   "published_at": "2026-10-19T12:51:04Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "1d66cd014db62740e009d94bd4f6edefd494b24f",
    "title": "Musk pledges to give ‘every kid in America’ one of his SpaceX shares",
    "summary": [
-    "That's more than $10 billion in shares, or around 1% of Musk's current net worth."
+    "Musk's post came just a few hours after Anthropic promised to put 5% of its shares into a new \"public benefit fund,\" which it intends to use to make \"large donations to traditional nonprofits or direct distributions to specific populations\" after its upcoming IPO."
    ],
    "source": "TechCrunch",
    "url": "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/",
@@ -102,49 +388,52 @@
    "related": []
   },
   {
-   "id": "4f0198409c0e2bc26eeb9557bd337cdd1069ba9e",
-   "title": "Harness Engineering 101: The LLM is the brain, the harness is the body",
+   "id": "448617650f8a8e3bec0640a7909e9637dab50111",
+   "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
    "summary": [
-    "Article URL: https://github.com/IsuruMaduranga/harness-engineering-101 Comments URL: https://news.ycombinator.com/item?id=50151390 Points: 91 # Comments: 42"
+    "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment.",
+    "The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco."
    ],
-   "source": "Hacker News",
-   "url": "https://github.com/IsuruMaduranga/harness-engineering-101",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
    "image": null,
-   "published_at": "2026-10-19T12:07:41Z",
+   "published_at": "2026-10-19T12:30:00Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "a6f637d138a71bfd36ab5d6fe77e661c16e0283c",
-   "title": "Harness2 by Google Research – Recursive Agent Harnessing",
+   "id": "6fec1e810e2834fe4b1379577e11520b9fb0bfc6",
+   "title": "The obscure trust looming over Anthropic's IPO",
    "summary": [
-    "Article URL: https://github.com/google-research/harness2 Comments URL: https://news.ycombinator.com/item?id=50151059 Points: 29 # Comments: 4"
+    "Article URL: https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink Comments URL: https://news.ycombinator.com/item?id=50151376 Points: 97 # Comments: 45"
    ],
    "source": "Hacker News",
-   "url": "https://github.com/google-research/harness2",
+   "url": "https://www.wsj.com/tech/ai/anthropic-ipo-private-trust-188f41f7?st=RtdGHg&reflink=desktopwebshare_permalink",
    "image": null,
-   "published_at": "2026-10-19T11:28:45Z",
+   "published_at": "2026-10-19T12:06:03Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "c6d91d9f5d1310e66b7e381081fa65f864e1f426",
-   "title": "ESA's Hera Will View Asteroid Scars from DART's Strike",
+   "id": "49db83e253edbf0771d468b99bafbdd0476979fa",
+   "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
    "summary": [
-    "Article URL: https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous Comments URL: https://news.ycombinator.com/item?id=50150935 Points: 33 # Comments: 0"
+    "I saw this LinkedIn post from a Meta engineer and it resonated with me:https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-m...> I'm an engineer at Meta and I never felt this uncomfortable doing my job.",
+    "This new standard of shipping with AI is moving so fast that if we're going to spend our time checking each line of code, it's going to take forever.",
+    "That means you can end up with systems you've built where you don't truly understand how all the code works."
    ],
    "source": "Hacker News",
-   "url": "https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous",
+   "url": "https://news.ycombinator.com/item?id=50151036",
    "image": null,
-   "published_at": "2026-10-19T11:12:02Z",
+   "published_at": "2026-10-19T11:24:34Z",
    "category": "tech",
    "related": []
   },
   {
    "id": "04465be95d8a2e0bb6745bbd1b0682c888210dec",
-   "title": "Alternatives to Animal Testing Are Finally Taking Off",
+   "title": "Alternatives to animal testing are finally taking off",
    "summary": [
-    "Article URL: https://spectrum.ieee.org/alternatives-to-animal-testing Comments URL: https://news.ycombinator.com/item?id=50150927 Points: 94 # Comments: 13"
+    "Article URL: https://spectrum.ieee.org/alternatives-to-animal-testing Comments URL: https://news.ycombinator.com/item?id=50150927 Points: 266 # Comments: 79"
    ],
    "source": "Hacker News",
    "url": "https://spectrum.ieee.org/alternatives-to-animal-testing",
@@ -157,25 +446,12 @@
    "id": "7fe60f412476fe90c5a9271cfce296dff98d8b94",
    "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
    "summary": [
-    "Article URL: https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166 Comments URL: https://news.ycombinator.com/item?id=50150809 Points: 92 # Comments: 25"
+    "Article URL: https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166 Comments URL: https://news.ycombinator.com/item?id=50150809 Points: 218 # Comments: 68"
    ],
    "source": "Hacker News",
    "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
    "image": null,
    "published_at": "2026-10-19T10:53:39Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "c187ea7b68bc5579c00d7a74040fa5c75c404743",
-   "title": "Documents: Police officer gave her Flock login to her ICE agent husband",
-   "summary": [
-    "Article URL: https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816 Comments URL: https://news.ycombinator.com/item?id=50150750 Points: 471 # Comments: 221"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
-   "image": null,
-   "published_at": "2026-10-19T10:45:14Z",
    "category": "tech",
    "related": []
   },
@@ -194,14 +470,40 @@
   },
   {
    "id": "3a11e60ee8cf431d325202d6163c1c157e9bbeab",
-   "title": "Timestral: Mistral release time-series foundation models",
+   "title": "Timestral: Mistral's time-series foundation models",
    "summary": [
-    "Article URL: https://mistral.ai/news/timestral/ Comments URL: https://news.ycombinator.com/item?id=50150434 Points: 210 # Comments: 41"
+    "Article URL: https://mistral.ai/news/timestral/ Comments URL: https://news.ycombinator.com/item?id=50150434 Points: 463 # Comments: 86"
    ],
    "source": "Hacker News",
    "url": "https://mistral.ai/news/timestral/",
    "image": null,
    "published_at": "2026-10-19T09:59:32Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "bec807856c71f0379d412d85eda31ad2a81350df",
+   "title": "Musk and Anthropic pledge public share giveaways",
+   "summary": [
+    "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-19T09:38:25Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "774f7412d1a369d1c04ab0bb964614cd55e7e294",
+   "title": "I built a drone with only one motor [video]",
+   "summary": [
+    "Article URL: https://www.youtube.com/watch?v=Ndftcft6XhU Comments URL: https://news.ycombinator.com/item?id=50150089 Points: 117 # Comments: 15"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+   "image": null,
+   "published_at": "2026-10-19T09:05:07Z",
    "category": "tech",
    "related": []
   },
@@ -219,19 +521,6 @@
    "related": []
   },
   {
-   "id": "47822cd9ee4644799dab7e281408e8ab085d61b0",
-   "title": "Linux 7.3 Released",
-   "summary": [
-    "Article URL: https://lwn.net/Articles/1101143/ Comments URL: https://news.ycombinator.com/item?id=50149392 Points: 405 # Comments: 182"
-   ],
-   "source": "Hacker News",
-   "url": "https://lwn.net/Articles/1101143/",
-   "image": null,
-   "published_at": "2026-10-19T07:23:57Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "bed3356286007ad710293fca002b4d779d84410b",
    "title": "China's growth accelerates as AI boom helps boost exports",
    "summary": [
@@ -241,19 +530,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-19T06:08:02Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "41797b9f96f946fbf26225095e3de372c28db3cd",
-   "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-   "summary": [
-    "Article URL: https://crystl.dev/guides/tmux-for-ai-agents/ Comments URL: https://news.ycombinator.com/item?id=50148855 Points: 95 # Comments: 56"
-   ],
-   "source": "Hacker News",
-   "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
-   "image": null,
-   "published_at": "2026-10-19T05:55:31Z",
    "category": "tech",
    "related": []
   },
@@ -283,272 +559,6 @@
    "url": "https://www.theguardian.com/media/2026/oct/19/no-influencers-hotels-restaurants-beauty-spots-restricting-photoshoots",
    "image": "https://i.guim.co.uk/img/media/a115ed145b828dcc148bd50e8765fea6f90fdc74/119_0_4630_3705/master/4630.jpg?width=140&quality=85&auto=format&fit=max&s=4a449ba5595a039799e73b1f27f4dfb6",
    "published_at": "2026-10-19T04:00:19Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "16d9e0c947efefd688ef8e8b83b3feeee167a2b7",
-   "title": "Superlite: A Faster Alternatie to Superpowers",
-   "summary": [
-    "Article URL: https://contextfirst.blog/superlite-hand-an-agent-a-spec/ Comments URL: https://news.ycombinator.com/item?id=50147492 Points: 120 # Comments: 57"
-   ],
-   "source": "Hacker News",
-   "url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
-   "image": null,
-   "published_at": "2026-10-19T02:01:16Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "ecfd9e161d2fb317862b122e7b093cf83b1bc28a",
-   "title": "Kylie Minogue songs already used to train AI as tech firms ‘strong-arm’ Australian government, music body warns",
-   "summary": [
-    "Of the dozens of countries approached to water down their laws, Australia appears to be the only one considering it, publishers’ group saysGet our new political email, free app or daily news podcastAI has already been trained on the works of Australian artists including Kylie Minogue and Nick Cave without compensation, the peak global body for music rights has claimed, as the Australian government has been warned against giving in to “strong-arming” from tech companies seeking to weaken copyright law.The International Confederation of Music Publishers (ICMP) – which represents Sony, Warner and Universal as well as thousands of independent publishers on six continents – has warned that of the dozens of countries approached to water down copyright laws, Australia appears to be the only to consider doing so."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/music/2026/oct/19/australia-music-global-copywright-outlier-ai-music-body-warnsns",
-   "image": "https://i.guim.co.uk/img/media/240b7746d1549bd30b616b6fd2e698b1838fb964/0_44_6452_5158/master/6452.jpg?width=140&quality=85&auto=format&fit=max&s=594744b407942f98c05df8d2b4600af7",
-   "published_at": "2026-10-19T00:57:46Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "bb0c25ea36bd958ed17c5a5ccb0733021188a360",
-   "title": "William Gibson and the trademarking of cyberspace",
-   "summary": [
-    "Article URL: https://colo.to/cyberspace.html Comments URL: https://news.ycombinator.com/item?id=50146625 Points: 231 # Comments: 109"
-   ],
-   "source": "Hacker News",
-   "url": "https://colo.to/cyberspace.html",
-   "image": null,
-   "published_at": "2026-10-18T23:37:57Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "976eac77c06e3ce99c1237f8b8c2e2aeac0b5508",
-   "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
-   "summary": [
-    "Article URL: https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base Comments URL: https://news.ycombinator.com/item?id=50146624 Points: 106 # Comments: 147"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
-   "image": null,
-   "published_at": "2026-10-18T23:37:54Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "4769e42c2133ce4c2986495cfd07b030d4488ded",
-   "title": "Don't fall for this - how to protect yourself from AI scams",
-   "summary": [
-    "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-18T23:24:59Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "6f2aca72a3fc44028770d46b0d493aca4fa94bdc",
-   "title": "Show HN: WhatsApp MCP running free on Cloudflare",
-   "summary": [
-    "Comments URL: https://news.ycombinator.com/item?id=50145715 Points: 133 # Comments: 70"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/finereli/whatsapp-mcp",
-   "image": null,
-   "published_at": "2026-10-18T21:36:10Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "d2e2b582e2726ffa96b65fa8514c77ddbf349956",
-   "title": "If you don't run your own LLM proxy, how do you know whats going on?",
-   "summary": [
-    "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/ Comments URL: https://news.ycombinator.com/item?id=50145507 Points: 242 # Comments: 159"
-   ],
-   "source": "Hacker News",
-   "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
-   "image": null,
-   "published_at": "2026-10-18T21:09:12Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "0716d882492db9f251c70d8ad7fe84cdc680f77a",
-   "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
-   "summary": [
-    "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms"
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
-   "image": null,
-   "published_at": "2026-10-18T21:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "a5bb32320853f4db899f960fab78f0afa3dea1e6",
-   "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-   "summary": [
-    "https://x.com/Jiaru_Zou/status/2110400256647340476https://github.com/togethercomputer/HybridAgenthttps://huggingface.co/collections/togethercomputer/hybridag...Evaluations: https://arxiv.org/html/2610.18861v1#S5 Comments URL: https://news.ycombinator.com/item?id=50145337 Points: "
-   ],
-   "source": "Hacker News",
-   "url": "https://arxiv.org/abs/2610.18861",
-   "image": null,
-   "published_at": "2026-10-18T20:48:14Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "efeb3746fdd37d801674c72b785de49682be6da8",
-   "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-   "summary": [
-    "Anthropic said that it will commit 5% of its shares to the fund."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-   "image": null,
-   "published_at": "2026-10-18T20:37:40Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "c40f00a6be8b60d73db72f3eec0bf342ea2f3332",
-   "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
-   "summary": [
-    "\"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
-   "image": null,
-   "published_at": "2026-10-18T19:03:38Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "baaa6bb1521514d7ace076b0b8bf193971d94717",
-   "title": "Free Pascal compiler now supports dynamic packages",
-   "summary": [
-    "Article URL: https://www.getlazarus.org/dynamic/ Comments URL: https://news.ycombinator.com/item?id=50144066 Points: 182 # Comments: 44"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.getlazarus.org/dynamic/",
-   "image": null,
-   "published_at": "2026-10-18T18:48:04Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "a709c24b2f05ad3dcc271ee5c91df70141e496c4",
-   "title": "Someone behind the software",
-   "summary": [
-    "Article URL: https://karrisaarinen.com/posts/someone-behind-the-software/ Comments URL: https://news.ycombinator.com/item?id=50142573 Points: 502 # Comments: 181"
-   ],
-   "source": "Hacker News",
-   "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
-   "image": null,
-   "published_at": "2026-10-18T16:32:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "218f77bb959f0137a2323231ddc1aa12a0ee1e5f",
-   "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-   "summary": [
-    "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them.",
-    "However, this is a stalking horse bid, so another company could come forward with a higher offer."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-   "image": null,
-   "published_at": "2026-10-18T16:30:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "8ae21e92485135de9d484b291c58c54bb7ab6b33",
-   "title": "TechCrunch Mobility: Rivian’s next act",
-   "summary": [
-    "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
-   "image": null,
-   "published_at": "2026-10-18T16:05:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "8d7dfcfe4a01fd77fbba208893ec5c5877618bd9",
-   "title": "Wikipedia often gets taken for granted – but its history is fascinating, and its future is fragile",
-   "summary": [
-    "Wikipedia’s 68m articles have been consulted trillions of times.",
-    "Not bad for a website that has barely changed since it was founded 20 years agoA few years ago, I was struck by the tension between how Wikipedia was used, and how it was talked about.",
-    "But despite the fact it now has been consulted trillions of times by billions of people (English Wikipedia alone is 5.2bn words long), it inspires an odd lack of curiosity."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/oct/18/wikipedia-human-history-ai-future-under-threat",
-   "image": "https://i.guim.co.uk/img/media/11bdcbd79d2083cd3ae980e805b8cdfd7e27fb80/145_0_2850_2279/master/2850.jpg?width=140&quality=85&auto=format&fit=max&s=ada5d277ad4d4387b5bc020d6159d745",
-   "published_at": "2026-10-18T14:00:02Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "26174453005d11ef79b9ac17825a817374214153",
-   "title": "What are self-replicating ‘AI worms’, and why is Anthropic worried about them?",
-   "summary": [
-    "The red team, as such internal testers are called, said it created a malicious AI program that spread autonomously through internet-connected “smart” televisions and could do the same inside other ordinary devices.",
-    "While machines running AI usually need a fair amount of computing power, the researchers said that their program split parts of itself among 15 televisions and was still able to function by using a bit of power from each."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/oct/18/anthropic-ai-worm-worries",
-   "image": "https://i.guim.co.uk/img/media/34972ab7bdc22bd58b4b430c49ae81493971934a/234_0_5907_4725/master/5907.jpg?width=140&quality=85&auto=format&fit=max&s=288348dd3aa3c598608d1126f3559d09",
-   "published_at": "2026-10-18T13:30:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "02b8790878e1259385a3cbc3a2a51c036f9d7a63",
-   "title": "Microsoft pulls out of AI datacentre project in Essex over power supply concerns",
-   "summary": [
-    "Development by UK firm Nscale heralded by ministers as largest of its kind in country loses anchor tenantThe development of a huge AI datacentre hailed by the UK government has received a fresh setback after Microsoft pulled out of the project over concerns about power supplies.The development by the British company Nscale, heralded by ministers as the country’s largest AI datacentre when it was announced in 2025, was planned to open at Loughton in Essex next year."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/oct/18/microsoft-drops-huge-ai-datacentre-project-in-essex-over-power-supply-concerns",
-   "image": "https://i.guim.co.uk/img/media/48d031cc06f5ca17cafd75b0f30a1537d4f35d43/7_0_686_549/master/686.jpg?width=140&quality=85&auto=format&fit=max&s=c5cf32679a4362ea71e1465a65af9593",
-   "published_at": "2026-10-18T13:05:14Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "ba5a6d13e9263a2f289e095279086a8014bfaa70",
-   "title": "The best toys and gifts for eight-year-olds, tested by eight-year-olds",
-   "summary": [
-    "From science kits to karaoke machines, shower sets to brain-boosting games, here are the presents our mini testers loved the most• The best gifts for seven-year-oldsEight is such a wonderful age.",
-    "Kids are old enough to have their own interests and hobbies, but still young enough to get swept up in play and be absorbed for hours if you find the right toy for them.By eight, children’s interests and skills are taking shape.",
-    "And while they think they’re extremely grown up, eight-year-olds still need plenty of time to play for their overall wellbeing."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/thefilter/2026/oct/18/best-toys-gifts-for-eight-year-olds-uk",
-   "image": "https://i.guim.co.uk/img/media/492e7e936d85b3a274cd73df683745e9d36e7bea/22_0_3956_3165/master/3956.jpg?width=140&quality=85&auto=format&fit=max&s=9b1d470261c76dc2925140b30c632e86",
-   "published_at": "2026-10-18T11:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "d09475409559ad1735caf97828fbf055cc0baeb5",
-   "title": "World Bank says ‘small AI’ could transform developing countries",
-   "summary": [
-    "Bank’s chief knowledge officer says the tech could speed up economic development from centuries to decadesThe World Bank is urging developing countries to kickstart the creation of “small AI” models, which can run on a mobile phone with low connectivity, to reap the full benefits of artificial intelligence.While Silicon Valley big tech firms are focused on ever more sophisticated consumer products, Paschal Donohoe, the World Bank’s chief knowledge officer, said AI could also accelerate development for emerging economies – but only if it was adapted to local needs."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies",
-   "image": "https://i.guim.co.uk/img/media/eb8682cc7e3f9007f9509c961275a6fa6b472f92/446_0_3621_2896/master/3621.jpg?width=140&quality=85&auto=format&fit=max&s=03203ee237fadeab5d23e74e45c2e3b7",
-   "published_at": "2026-10-18T10:00:56Z",
    "category": "tech",
    "related": []
   }
