@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-20T11:25:00.345815Z",
- "story_count": 18,
+ "generated_at": "2026-10-20T16:51:11.097733Z",
+ "story_count": 20,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,71 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "bfba6319bd21ee9ee2e814d11426831efcfeb7e5",
+   "title": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
+   "summary": [
+    "The government increased taxes on online casino and sports betting in last year's Budget."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-20T15:53:13Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "4471063c598742bde40fbcdc705e559369b631fa",
+   "title": "Google Cloud outage: problems fixed for ‘most‘ customers, as regulators push for details – latest updates",
+   "summary": [
+    "This resilience in the face of headwinds driven by global events is welcome."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates",
+   "image": "https://i.guim.co.uk/img/media/221fff45a746e52af9e420c3d04a3b467698626d/642_0_6424_5139/master/6424.jpg?width=140&quality=85&auto=format&fit=max&s=51de30e7fb7563d6236e1019f1717541",
+   "published_at": "2026-10-20T15:38:25Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "463331d07ec9d12c24c713d5288b6e31a3857ead",
+   "title": "Union attacks NatWest plans to get workers back to the office",
+   "summary": [
+    "The bank says workers will be required to attend the office at least two days a week from February."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmly0qwnlgdvo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-20T14:50:19Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "621909e27833a11670c5ea32a56c37e542b0067a",
+   "title": "Bereaved families could face 'unjust' tax bill after civil service pension delays",
+   "summary": [
+    "The chairman of Parliament's Public Accounts Committee says families should not be taxed through no fault of their own."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq1m4zz9e44go?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-20T12:36:43Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "99736ccf77a8f4c8e71fb8da23f775203ba697e4",
+   "title": "Jobless rate falls but small firms cut back hiring",
+   "summary": [
+    "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-20T11:26:48Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "e2302f7d32d262b2ebc838928e721ccbffdad55b",
    "title": "£30 rise in payments for crisis-hit households",
@@ -59,19 +124,6 @@
    "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-20T10:06:34Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "99736ccf77a8f4c8e71fb8da23f775203ba697e4",
-   "title": "Jobless rate falls but small firms cut back hiring",
-   "summary": [
-    "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-20T09:31:29Z",
    "category": "business",
    "related": []
   },
@@ -167,19 +219,6 @@
    "related": []
   },
   {
-   "id": "621909e27833a11670c5ea32a56c37e542b0067a",
-   "title": "Bereaved families could face 'unjust' tax bill after civil service pension delays",
-   "summary": [
-    "The chairman of Parliament's Public Accounts Committee says families should not be taxed through no fault of their own."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cq1m4zz9e44go?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-19T12:16:32Z",
-   "category": "business",
-   "related": []
-  },
-  {
    "id": "bb67caccc3460cf50f304545fbb21de8c2fabcd1",
    "title": "HelloFresh workers claim physical abuse and denied bathroom breaks in class-action suit",
    "summary": [
@@ -243,19 +282,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cmx23q7wk35zo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-19T05:10:28Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "9f308b9c06a26bb1c8c36b0ef6f0a732aa566a00",
-   "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
-   "summary": [
-    "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-18T23:28:45Z",
    "category": "business",
    "related": []
   }

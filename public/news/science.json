@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-20T11:25:00.346193Z",
- "story_count": 18,
+ "generated_at": "2026-10-20T16:51:11.098139Z",
+ "story_count": 27,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,117 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "eb1a9004ea8afaccfe77b1cbc7a031b7528bc19c",
+   "title": "Huge fin whale filmed off Welsh coast",
+   "summary": [
+    "Rhys Morgan captured footage of the world's second-largest whale species lunge feeding on his drone."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/cxly491v6p7yo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-20T13:42:22Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "44ada3f7a804e3c27f8835127fa501c579b105b5",
+   "title": "Scientists finally uncover why statins can cause muscle pain",
+   "summary": [
+    "Scientists have uncovered a surprising reason why statins, the widely prescribed cholesterol-lowering drugs that help prevent heart attacks and strokes, can sometimes cause muscle pain, weakness, and even severe muscle damage.",
+    "Using advanced imaging technology, researchers discovered that statins can attach to a crucial protein in muscle cells and force open a channel that normally controls calcium flow.",
+    "This causes calcium to leak continuously, potentially damaging muscle tissue."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261019093447.htm",
+   "image": null,
+   "published_at": "2026-10-20T13:00:56Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "24a4900bf85432a68a00b330e4a5b1bab7798ec9",
+   "title": "Hurricane warning maps are improving, but a dangerous problem remains",
+   "summary": [
+    "A new study reveals that improved hurricane forecast graphics may help people identify threatened areas without making them more likely to recognize the danger or take protective action.",
+    "Researchers also found that a widespread misunderstanding of the hurricane cone persists, highlighting a potentially dangerous gap between accurate forecasts and public preparedness."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261019093443.htm",
+   "image": null,
+   "published_at": "2026-10-20T12:49:51Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "22a8cdfc9c209181ecd3918831eba9fcfe999657",
+   "title": "Astronomers uncover new secrets of the Universe’s first five minutes",
+   "summary": [
+    "Scientists have achieved a major breakthrough in understanding the Universe’s earliest moments, measuring the amount of helium formed in the first five minutes after the Big Bang with unprecedented precision.",
+    "Using one of the world’s most powerful telescopes, an international team studied 15 remarkably pristine galaxies that act as cosmic time capsules, preserving clues from nearly 13.8 billion years ago."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261019093442.htm",
+   "image": null,
+   "published_at": "2026-10-20T12:34:15Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "d18b25ed79e1951a835489bb55f7b35c42352137",
+   "title": "Scientists discover a bizarre Jurassic “squid” unlike anything ever seen",
+   "summary": [
+    "Scientists have identified the “fattest” belemnite ever discovered, a bizarre, barrel-shaped squid relative that lived in Wyoming’s ancient seas 160 million years ago.",
+    "The exceptionally rare fossils reveal a creature unlike anything previously known, potentially a predator of smaller squid-like animals and a surprising survivor of a supposedly vanished family."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261019093434.htm",
+   "image": null,
+   "published_at": "2026-10-20T12:20:44Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "9fb8a60572512bf4790f466b861c0dea89ed11c4",
+   "title": "Moment giant fin whale's huge mouth engulfs thousands of gallons of water",
+   "summary": [
+    "Videographer Rhys Morgan captured footage of the worlds second largest whale lunge feeding on his drone."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cjr4yeygwdxvo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-20T12:03:28Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "b4b35b52ae74c58da2e0715ca72b36c33b98affa",
+   "title": "Your aging brain may be trading memory for something more valuable",
+   "summary": [
+    "The aging brain may be undergoing a remarkable transformation rather than simply losing its abilities, shifting its focus from remembering details to understanding the bigger picture.",
+    "Scientists suggest this change could be an evolutionary adaptation that helps older adults develop wisdom and share decades of knowledge with younger generations."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261019093357.htm",
+   "image": null,
+   "published_at": "2026-10-20T11:31:22Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "2a9a6d67ce668e542f9e26cccb7434dec5b2ee74",
+   "title": "Scientists find a way to fight Alzheimer’s brain damage without removing toxic tau",
+   "summary": [
+    "Scientists have found a promising way to protect the brain from Alzheimer’s-related damage by blocking immune cells that contribute to the destruction of neurons.",
+    "In mice, the treatment preserved roughly 40% more tissue in memory centers and improved memory, even without removing harmful tau protein buildup."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261019093355.htm",
+   "image": null,
+   "published_at": "2026-10-20T09:52:35Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "c4cbdafacd1ccc3d0f69a0b14717ac6c06e85be2",
    "title": "Storm Austen to bring severe gales to UK as weather warning issued",
@@ -50,6 +161,20 @@
    "related": []
   },
   {
+   "id": "25cdf5deac1a867a33ef4281869797dc3ea8cb52",
+   "title": "NASA reveals 16 stunning galaxies hiding cosmic chaos",
+   "summary": [
+    "NASA's stunning new gallery of 16 galaxies reveals colossal black hole jets, explosive star formation, and spectacular cosmic collisions through the combined power of Chandra, James Webb, Hubble, and other telescopes.",
+    "These extraordinary images expose the hidden forces shaping galaxies across the universe and offer clues about the Milky Way's own past and future."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261018205050.htm",
+   "image": null,
+   "published_at": "2026-10-20T06:17:55Z",
+   "category": "science",
+   "related": []
+  },
+  {
    "id": "b1c1812f00640e849a46f064b303a832f2d741ef",
    "title": "The British island where red squirrels are thriving",
    "summary": [
@@ -72,6 +197,48 @@
    "url": "https://www.bbc.co.uk/news/articles/cxzd6j5q0g7eo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-20T05:27:15Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "80f80d6b3603c9d001df13401fb7f571a3b9e92b",
+   "title": "Scientists discover a surprising link between vitamin C and cancer survival",
+   "summary": [
+    "A surprising clinical trial suggests that taking vitamin C daily could improve survival in people with precancerous blood disorders and early-stage blood cancers.",
+    "Patients receiving the supplement had fewer adverse events and showed a promising survival advantage, raising hopes that a common vitamin could help protect against leukemia-related complications."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261019093437.htm",
+   "image": null,
+   "published_at": "2026-10-20T04:21:35Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "d14f6681eb78d990c0cd7e67a081de47ad32d53f",
+   "title": "Scientists reach the ultimate quantum limit on a surface",
+   "summary": [
+    "Scientists have achieved a quantum breakthrough by creating an ultra-clean surface where individual molecules can maintain their delicate quantum properties at the fundamental limit.",
+    "The discovery could unlock unprecedented control over molecules and help drive the next generation of quantum technologies."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261018205053.htm",
+   "image": null,
+   "published_at": "2026-10-20T03:02:41Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "c7a71b06cc88a53425f3b48617217913cd6c449c",
+   "title": "NASA solves a strange mystery hidden inside asteroid Bennu’s boulders",
+   "summary": [
+    "NASA scientists have finally uncovered why asteroid Bennu loses heat so quickly despite being covered in massive boulders.",
+    "Samples returned to Earth reveal that its rocks are filled with hidden cracks, solving a mystery that has puzzled researchers for years."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261018205101.htm",
+   "image": null,
+   "published_at": "2026-10-20T02:23:00Z",
    "category": "science",
    "related": []
   },
@@ -225,47 +392,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cxp8gdzj606zo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-19T05:38:04Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "73d65e2aa98977b1456026fc8f664d11e86846bf",
-   "title": "Fatty liver disease is actually five different conditions, scientists discover",
-   "summary": [
-    "A common liver disease affecting nearly 30% of adults worldwide may be far more complicated than scientists previously realized.",
-    "Mayo Clinic researchers have discovered that fatty liver disease actually consists of five distinct biological subtypes, each carrying different risks for liver failure, cancer, heart disease, and other serious complications."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261016070642.htm",
-   "image": null,
-   "published_at": "2026-10-19T02:35:09Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "bbbf5caff322dada8940f8caa0a4e9c6152d6335",
-   "title": "BBC visits wildfire front in haze-choked Indonesia",
-   "summary": [
-    "The BBC is in central Kalimantan, where a toxic haze fuelled by wildfires is choking millions of residents."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/cm9wzye55j4xo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-19T01:57:02Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "77535fd8583b5b6be1f733498dad496e313dfaac",
-   "title": "Modern neuroscience is rediscovering a surprising idea freud had 130 years ago",
-   "summary": [
-    "Researchers have identified striking parallels between Sigmund Freud’s century-old theories and modern neuroscience, suggesting that the brain’s constant predictions shape how we experience reality.",
-    "The findings could help explain why harmful thought patterns are so difficult to break and offer new insights into treating mental disorders."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261018084028.htm",
-   "image": null,
-   "published_at": "2026-10-19T00:32:07Z",
    "category": "science",
    "related": []
   }

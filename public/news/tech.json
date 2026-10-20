@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T11:25:00.345160Z",
+ "generated_at": "2026-10-20T16:51:11.097040Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -24,15 +24,491 @@
  },
  "stories": [
   {
-   "id": "4471063c598742bde40fbcdc705e559369b631fa",
-   "title": "Google Cloud outage: Revolut suffers service disruption as bank customers report problems – business live",
+   "id": "2d379e8ffc916c9e986d1d2bf8f9461863f2b943",
+   "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’",
    "summary": [
-    "This resilience in the face of headwinds driven by global events is welcome."
+    "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+   "image": null,
+   "published_at": "2026-10-20T16:20:06Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "3b29865c9823b76c9bf34cc2795e01908909a9c0",
+   "title": "Streaming guide JustWatch becomes a streamer itself",
+   "summary": [
+    "JustWatch, the popular streaming search guide used by 50 million people, is launching its own streaming service, offering free, ad-supported movies and shows alongside a $3.99-per-month ad-free tier and movie rentals."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/20/streaming-guide-justwatch-becomes-a-streamer-itself/",
+   "image": null,
+   "published_at": "2026-10-20T16:01:24Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "8954464df019209414d84a1bd7b518a6ca99d268",
+   "title": "Making a VGA Driver in SystemVerilog",
+   "summary": [
+    "Article URL: https://lukaswerner.com/post/2026-10-20@bottom-up-vga Comments URL: https://news.ycombinator.com/item?id=50168376 Points: 11 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://lukaswerner.com/post/2026-10-20@bottom-up-vga",
+   "image": null,
+   "published_at": "2026-10-20T16:00:15Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "87c5cb39af2eeb6ffb62cd018e016996a5c3e97b",
+   "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+   "summary": [
+    "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+   "image": null,
+   "published_at": "2026-10-20T16:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "fe3c4bd5e6db63db6c3af795dd3323ca83d9cc50",
+   "title": "Google says services recovering after cloud outage hits UK banks and websites",
+   "summary": [
+    "Revolut was one of the hardest hit, with banking services going down for many customers."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-20T15:37:26Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a5db7d6e4055423b6b950a90c0159ea80ed45d64",
+   "title": "Could this be a Deep Blue moment for the cryptic crossword?",
+   "summary": [
+    "A computer program has finally outdone humans at solving cryptic crosswords.",
+    "Plus, more from around the puzzleverse• Don’t get Cluesletter, our weekly puzzles newsletter, delivered to your inbox?",
+    "It’s roughly 45% and 42% (5)Kick-off leads to decisive early goal for PSG (5)To read the complete version of this newsletter including the exclusive Letter Adder game, subscribe to receive Cluesletter in your inbox every Tuesday."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates",
-   "image": "https://i.guim.co.uk/img/media/4abba6c5ea456b0e89fd05e658c5c6fa8a713ce7/430_0_3301_2641/master/3301.jpg?width=140&quality=85&auto=format&fit=max&s=98372603f749a5c16b34ef982356b0e1",
-   "published_at": "2026-10-20T11:11:40Z",
+   "url": "https://www.theguardian.com/puzzles/crossword-blog/2026/oct/20/could-this-be-a-deep-blue-moment-for-the-cryptic-crossword",
+   "image": "https://i.guim.co.uk/img/media/c6c720b35b47cb4d8acc8251786141517b5aaa4d/0_0_1676_1341/master/1676.jpg?width=140&quality=85&auto=format&fit=max&s=738d38dacdb921827ce299617ff525cb",
+   "published_at": "2026-10-20T15:27:50Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "7d4f999a5746ae64501a56fe70ad7cbd8fbdde63",
+   "title": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?",
+   "summary": [
+    "I built a quiz game around TypeSafe's new Jev model, which has vision capabilities.",
+    "Jev looks at a picture and a question and picks an answer (or taps a place) in about a quarter of a second.I've always loved quiz games and thought this would be a fun way to see what it can do and how fast it is.",
+    "I made the cards from scratch, and Jev gets exactly the picture you see."
+   ],
+   "source": "Hacker News",
+   "url": "https://jevcards.com",
+   "image": null,
+   "published_at": "2026-10-20T15:11:56Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "967a44fdf4a05000cb29daf2aac3d9f4c17f573a",
+   "title": "Show HN: Penmentor – Claude marks up your handwritten math like a teacher",
+   "summary": [
+    "Article URL: https://github.com/AbdullahAlhariri/penmentor Comments URL: https://news.ycombinator.com/item?id=50167604 Points: 17 # Comments: 2"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/AbdullahAlhariri/penmentor",
+   "image": null,
+   "published_at": "2026-10-20T15:10:54Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "49db83e253edbf0771d468b99bafbdd0476979fa",
+   "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+   "summary": [
+    "It handles tools, images, and reasoning protocols automatically: an application based on the OpenAI Realtime API can also use Gemini Live through the gateway, though not every feature translates.",
+    "When the client and provider use the same API, we preserve provider-specific fields in their native format, even if our shared structure doesn't have a field for them.",
+    "This stream model can represent both one-shot HTTP requests and long-lived bidirectional sessions.The gateway is open source at https://github.com/respanai/respan-gateway under the MIT or Apache-2.0 license."
+   ],
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50167583",
+   "image": null,
+   "published_at": "2026-10-20T15:09:29Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a4cdccecac1d3339d02765f524a1dcac1de83d7d",
+   "title": "How to Link Real-Time Live Streaming to Video-on-Demand",
+   "summary": [
+    "Article URL: https://www.red5.net/blog/how-to-link-real-time-live-streaming-to-video-on-demand/ Comments URL: https://news.ycombinator.com/item?id=50167560 Points: 5 # Comments: 1"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.red5.net/blog/how-to-link-real-time-live-streaming-to-video-on-demand/",
+   "image": null,
+   "published_at": "2026-10-20T15:07:38Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "485bd8b965fc986566a0bb418d6fdc16f366f74e",
+   "title": "Facebook now charging to post more than 2 links a month",
+   "summary": [
+    "Article URL: https://mastodon.gamedev.place/@AshleyGullen/117473851565913919 Comments URL: https://news.ycombinator.com/item?id=50167536 Points: 243 # Comments: 155"
+   ],
+   "source": "Hacker News",
+   "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+   "image": null,
+   "published_at": "2026-10-20T15:06:08Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "b2538d5ff437aa9921d8d2d31d6281988789a783",
+   "title": "In-memory privacy shield to prevent context leaks in MCP tools",
+   "summary": [
+    "Article URL: https://github.com/rohan-protocol/sdk Comments URL: https://news.ycombinator.com/item?id=50167533 Points: 7 # Comments: 1"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/rohan-protocol/sdk",
+   "image": null,
+   "published_at": "2026-10-20T15:05:53Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "9b8d95d37829daa998cd550faafc8807eab5e3c2",
+   "title": "TikTok staff raised child safety concerns, but executives reportedly failed to act",
+   "summary": [
+    "Court documents show TikTok employees were frustrated with how executives responded to their concerns about risks to children."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/20/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act/",
+   "image": null,
+   "published_at": "2026-10-20T15:03:41Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "d13b635b648e7558bb2948a8efcb96d69a193792",
+   "title": "Show HN: VoidAccess – open-source dark web OSINT, from query to a graph",
+   "summary": [
+    "Im Katriel, and im a Security Researcher/Enthusiast and in the wave of AI, i wanted to build that next gen of security tooling that surpasses the current tools, and even the paid industries with an open source engine.",
+    "I built MailAccess as well, which is going to be the best damn email osint tool out there, in another year.",
+    "Then the engine takes over, and stops onyl when the job is done(or at a particular time limit, if set by the user).Do check it out, if that is something that interests you.Thanks to the community for giving it the love it has got till now."
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/KatrielMoses/voidaccess",
+   "image": null,
+   "published_at": "2026-10-20T14:49:33Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "635f1be256202ea666d1fa0a43ea2026537cacaf",
+   "title": "‘It was so satisfying when I threw a rock through the screen’: the people sick of being spied on by their smart TV",
+   "summary": [
+    "Is your television listening to every conversation?",
+    "Filling your home with highly invasive ads?",
+    "Some viewers have had enough of tech violating their privacyWhen Dan had had enough of his television, he threw a rock straight through the screen."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/tv-and-radio/2026/oct/20/smart-tv-television-dumb-wifi-techies-privacy",
+   "image": "https://i.guim.co.uk/img/media/c76130a43f47b716e7e5287ec51e4b92a79536b8/968_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=6dd5b2ed4c9a6887d41a37420229ea9d",
+   "published_at": "2026-10-20T14:42:25Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "f71b5653c551ca33c6ae6c3b66264a6f3d9486fa",
+   "title": "The dangers of letting tech billionaires shape our world",
+   "summary": [
+    "As SpaceX impacts Ukraine and AI-generated music divides artists and fans, critics are asking what happens when technology has too much control over our livesThis was originally published in TechScape, a newsletter about how technology shapes our lives.",
+    "I’m Blake Montgomery, US tech editor at the Guardian, writing to you while sitting in front of Roy Lichtenstein’s monumental Drowning Girl, on view in New York City.",
+    "Today in tech, we’re discussing the perils of Elon Musk’s one-man global infrastructure, AI-generated music, and a Guardian AI conference in Paris."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/global/2026/oct/19/musk-ukraine-ai-music",
+   "image": "https://i.guim.co.uk/img/media/9df3eaa715484d3f560e4dea76d7dda82597ac00/188_0_4077_3262/master/4077.jpg?width=140&quality=85&auto=format&fit=max&s=b7b903174ee49baa9b374086769320ea",
+   "published_at": "2026-10-20T14:31:45Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "e236ed9f729d9da4b419ea089ba9f5017213e74f",
+   "title": "Ofcom Concedes Defeat in the 4chan Case",
+   "summary": [
+    "Article URL: https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/ Comments URL: https://news.ycombinator.com/item?id=50167028 Points: 100 # Comments: 56"
+   ],
+   "source": "Hacker News",
+   "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
+   "image": null,
+   "published_at": "2026-10-20T14:30:31Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "2c994902f27c08cb6cb7d8b47518fafce787e7de",
+   "title": "My Friend Bob Cringely",
+   "summary": [
+    "Article URL: https://tyma.com/my-cringe-story/ Comments URL: https://news.ycombinator.com/item?id=50166794 Points: 71 # Comments: 24"
+   ],
+   "source": "Hacker News",
+   "url": "https://tyma.com/my-cringe-story/",
+   "image": null,
+   "published_at": "2026-10-20T14:13:49Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "b3c5441d5c6702b698dc17998bf3da387df99c9e",
+   "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+   "summary": [
+    "Figma said it plans to support as many standards as possible without exposing all of its data"
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+   "image": null,
+   "published_at": "2026-10-20T14:13:32Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "1b3da64625ac546a9fd4f40c27c50653ccb692f0",
+   "title": "Labor and the Coalition are poised to take a reckless gamble on AI. Haven’t they realised community support has collapsed? | Edward Santow and Sarah Sacher",
+   "summary": [
+    "There is a clear reform solution at handGet our new political email, free app or daily news podcastAustralia’s major political parties are edging towards rare consensus.",
+    "Yet, just as the parties are coming together, the Australian community is running the other way.Last year, only 30% of Australians believed the benefits of AI outweighed the risks.",
+    "In 2026, community trust in AI appears to be falling even further."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/commentisfree/2026/oct/21/labor-coalition-poised-to-take-reckless-gamble-on-ai-joint-select-committee",
+   "image": "https://i.guim.co.uk/img/media/9c9ec69d76f8fe3ecc5633e32f9280cf5f31c95d/596_0_5955_4764/master/5955.jpg?width=140&quality=85&auto=format&fit=max&s=01353e0ddc0fc03ae707aafb4d165549",
+   "published_at": "2026-10-20T14:00:38Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "8ffede9af239c21ee544fa2cc9203897f1d202e7",
+   "title": "EMudhra Intermediate CA Compromise",
+   "summary": [
+    "Article URL: https://emudhra.we-have-a-problem.com/ Comments URL: https://news.ycombinator.com/item?id=50166579 Points: 164 # Comments: 68"
+   ],
+   "source": "Hacker News",
+   "url": "https://emudhra.we-have-a-problem.com/",
+   "image": null,
+   "published_at": "2026-10-20T13:58:33Z",
+   "category": "tech",
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://mistral.ai/news/voxtral-3/"
+    }
+   ]
+  },
+  {
+   "id": "fa355b2fea6d055892ca1a1f546fbb5a6aaa4060",
+   "title": "2026 is an exciting year for the Rust compiler (and me)",
+   "summary": [
+    "Article URL: https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/ Comments URL: https://news.ycombinator.com/item?id=50166502 Points: 49 # Comments: 6"
+   ],
+   "source": "Hacker News",
+   "url": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
+   "image": null,
+   "published_at": "2026-10-20T13:53:48Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "621250faf996ff4b43cb3fff87ab4ba7a9b3e366",
+   "title": "How I got over 300 Tor exit nodes removed",
+   "summary": [
+    "Article URL: https://kaba.cx/posts/20261020_Tor/ Comments URL: https://news.ycombinator.com/item?id=50166257 Points: 122 # Comments: 32"
+   ],
+   "source": "Hacker News",
+   "url": "https://kaba.cx/posts/20261020_Tor/",
+   "image": null,
+   "published_at": "2026-10-20T13:39:24Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "5e241867830c6ea756cb5669edfdfc987329709d",
+   "title": "Tsrs: A Port of TypeScript to Rust",
+   "summary": [
+    "Article URL: https://blog.cloudflare.com/typescript-rust-port/ Comments URL: https://news.ycombinator.com/item?id=50165953 Points: 130 # Comments: 73"
+   ],
+   "source": "Hacker News",
+   "url": "https://blog.cloudflare.com/typescript-rust-port/",
+   "image": null,
+   "published_at": "2026-10-20T13:18:07Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "dac4ed1e753011bd87337b3306964b05059b62a2",
+   "title": "SpaceX alum’s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation",
+   "summary": [
+    "Reliable Robotics extended its Series D round with $115 million in equity and $25 million in debt."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/",
+   "image": null,
+   "published_at": "2026-10-20T13:17:36Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "3309b6ce15f483d47e2d371d98f4c5a7a1abff72",
+   "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+   "summary": [
+    "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+   "image": null,
+   "published_at": "2026-10-20T13:07:24Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "6a01ce2d8f26403121f39ded2215b4eaf9485d3b",
+   "title": "Publish fake stats, get cited in LLMs",
+   "summary": [
+    "Article URL: https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web Comments URL: https://news.ycombinator.com/item?id=50165801 Points: 163 # Comments: 92"
+   ],
+   "source": "Hacker News",
+   "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+   "image": null,
+   "published_at": "2026-10-20T13:06:22Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "15705003f60bff473b8a772f427bfaf4e58c8e46",
+   "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+   "summary": [
+    "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+   "image": null,
+   "published_at": "2026-10-20T13:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "28290ecdb1839cea504570185f06ef193440d371",
+   "title": "Inspired Capital closes $450M fourth fund as New York pushes back on Silicon Valley’s gravitational pull",
+   "summary": [
+    "The raise comes as venture dollars pile up on the West Coast."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/20/inspired-capital-closes-450m-fourth-fund-as-new-york-pushes-back-on-silicon-valleys-gravitational-pull/",
+   "image": null,
+   "published_at": "2026-10-20T13:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "5ecb5ba802c4747dd1a5865b183dfae7c3ff4f19",
+   "title": "US bans use of China’s DeepSeek AI tools by government agencies",
+   "summary": [
+    "Use of tools ‘may result in the transfer of sensitive data’ to China, defense department saysThe US government on Monday ordered its agencies to stop using artificial intelligence (AI) tools from the Chinese startup DeepSeek, as the countries race for dominance in the fast-moving sector.A notice from the Department of Homeland Security (DHS) announced the ban on products developed by DeepSeek – and tools created using DeepSeek by third parties – saying they must be removed from IT devices."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/oct/20/us-bans-china-deepseek-ai-tools-government-agencies",
+   "image": "https://i.guim.co.uk/img/media/6f8ade7b2c623ea3ba988db863da7a2fd1af5796/560_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=6a732e1f02fde0d1480fbe11b6272814",
+   "published_at": "2026-10-20T12:33:27Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "69c4ea275f87c68a5455b9166b20a62e0100b875",
+   "title": "I’m a CTO. AI still needs your human expertise | Madhu Shashanka",
+   "summary": [
+    "AI is increasingly getting good at doing some tasks, but it can never replace human workers’ judgmentAutonomous cars, which may be the safest we have built, keep getting easily avoidable parking tickets.",
+    "And it has implications for what work will remain human and what will be automated by AI.Madhu Shashanka is co-founder, chief scientist and chief technology officer at Concentric AI, a data security software company Continue reading..."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/oct/20/ai-human-judgment",
+   "image": "https://i.guim.co.uk/img/media/1ec14522bb2e09e892ab197b6436169a94f4fac9/0_0_2836_2269/master/2836.jpg?width=140&quality=85&auto=format&fit=max&s=786e0eff9350b85a1fba3c9a10b8b6c1",
+   "published_at": "2026-10-20T12:30:35Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "12bc0fe4a6e181222b0ead28e8406111e88c3f00",
+   "title": "UK asks Apple to widen access to its payment tech",
+   "summary": [
+    "Proposed changes could lead to new digital wallets and keys as well as ticketing apps, the regulator says."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqm26zzl0k12o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-20T12:29:24Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "bfb6da0751ad875aef10aaa0685e1e073c1a06ec",
+   "title": "Apple broke an essential presentation feature of iPads",
+   "summary": [
+    "Article URL: https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/ Comments URL: https://news.ycombinator.com/item?id=50165208 Points: 263 # Comments: 145"
+   ],
+   "source": "Hacker News",
+   "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+   "image": null,
+   "published_at": "2026-10-20T12:17:28Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "2e9950ddde5ddfe18ebc57ad0aa425b80c1ff52b",
+   "title": "Hazel (YC W24) Is Hiring",
+   "summary": [
+    "Article URL: https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci Comments URL: https://news.ycombinator.com/item?id=50164991 Points: 0 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci",
+   "image": null,
+   "published_at": "2026-10-20T12:00:32Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "f742d94e8927323f380c50ca039d5e4f8e676923",
+   "title": "Spotify launches paid podcast memberships with perks beyond bonus content",
+   "summary": [
+    "Spotify's new paid memberships let podcasters offer fans exclusive perks, including ad-free listening, early access, and bonus content, while keeping 90% of the revenue."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/",
+   "image": null,
+   "published_at": "2026-10-20T12:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ae75acc35bf28b2931fa5142e9005c09e18cfab5",
+   "title": "Oura adds new fitness metrics to show how workouts impact your body",
+   "summary": [
+    "While Oura has largely dominated the smart ring market for years, rivals like RingConn and Ultrahuman are emerging to dethrone it, putting pressure on the company to keep innovating.",
+    "By launching more advanced workout metrics, Oura is looking to differentiate itself from competitors as the smart ring market gets more crowded."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/20/oura-is-launching-two-new-ways-to-track-and-understand-activity/",
+   "image": null,
+   "published_at": "2026-10-20T12:00:00Z",
    "category": "tech",
    "related": []
   },
@@ -64,41 +540,15 @@
    "related": []
   },
   {
-   "id": "0c0643e13635f1ed03988c1a1d2c31664a6fc797",
-   "title": "Google cloud outage takes down banks",
+   "id": "49489e8a51973e0086ee2ebe3e8e3cb51f1a2394",
+   "title": "Google cloud failure hits millions as UK courts and banks knocked offline",
    "summary": [
-    "Article URL: https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/ Comments URL: https://news.ycombinator.com/item?id=50163961 Points: 18 # Comments: 5"
+    "Services restored for most users, but power fault stalled hearings and left Revolut, Lloyds and HSBC customers unable to pay or move moneyBusiness live – latest updatesAn outage at Google’s cloud services in the UK has caused widespread disruption, hitting courts and leaving millions of customers unable to access or send cash at banks including Lloyds, HSBC and Revolut.Google blamed a “power event” for the failure at its London-based Cloud computing operations on Tuesday, which affected its “europe-west2-b zone”."
    ],
-   "source": "Hacker News",
-   "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
-   "image": null,
-   "published_at": "2026-10-20T10:26:02Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "7d4ecae333c2857c25e9e09ac0af136322655ab5",
-   "title": "Revolut down as users report app not working",
-   "summary": [
-    "Article URL: https://www.bbc.com/news/articles/cxdd8mm6qy4mo Comments URL: https://news.ycombinator.com/item?id=50163625 Points: 44 # Comments: 15"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.bbc.com/news/articles/cxdd8mm6qy4mo",
-   "image": null,
-   "published_at": "2026-10-20T09:54:48Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "4bdf4f7e67ff6ec63369530e01186aab4e0da07e",
-   "title": "AfD Leak: What 421,179 Hacked Emails Show about the German Far Right",
-   "summary": [
-    "Article URL: https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/ Comments URL: https://news.ycombinator.com/item?id=50163502 Points: 240 # Comments: 203"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/",
-   "image": null,
-   "published_at": "2026-10-20T09:35:40Z",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/oct/20/revolut-down-app-cards-service-disruption",
+   "image": "https://i.guim.co.uk/img/media/d58e3aac6f0229d8898fb9662f67f64e3d40e5f7/213_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=e6602b6b92ce9f819c1b55dc25b46f9e",
+   "published_at": "2026-10-20T09:45:39Z",
    "category": "tech",
    "related": []
   },
@@ -106,455 +556,12 @@
    "id": "79e072c528493212dadbe0626496c7bede00d5c2",
    "title": "DeepSeek just open-sourced its inference engine",
    "summary": [
-    "Article URL: https://github.com/deepseek-ai/DeepInfer Comments URL: https://news.ycombinator.com/item?id=50163277 Points: 364 # Comments: 123"
+    "Article URL: https://github.com/deepseek-ai/DeepInfer Comments URL: https://news.ycombinator.com/item?id=50163277 Points: 1694 # Comments: 616"
    ],
    "source": "Hacker News",
    "url": "https://github.com/deepseek-ai/DeepInfer",
    "image": null,
    "published_at": "2026-10-20T09:08:54Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "4951d05f295af7c8ae53dd5715bb3b798d998056",
-   "title": "There is no official XScreenSaver GitHub repository",
-   "summary": [
-    "Article URL: https://github.com/xscreensaver-official/xscreensaver Comments URL: https://news.ycombinator.com/item?id=50163142 Points: 30 # Comments: 14"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/xscreensaver-official/xscreensaver",
-   "image": null,
-   "published_at": "2026-10-20T08:51:31Z",
-   "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "https://cretezy.com/2026/ad-free-android-tv"
-    }
-   ]
-  },
-  {
-   "id": "fe3c4bd5e6db63db6c3af795dd3323ca83d9cc50",
-   "title": "Revolut outage hits 'multiple services' as thousands of users report app issues",
-   "summary": [
-    "Some users of the British neobank reported being unable to make some payments or access funds in its app on Tuesday."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-20T08:46:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "ae409ab06df5c7f2ad9888a2c31e5a3d0b280014",
-   "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
-   "summary": [
-    "Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
-   "image": null,
-   "published_at": "2026-10-20T07:01:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "9128766f166213522244d35a2af5886f5e67bf17",
-   "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
-   "summary": [
-    "Article URL: https://github.com/microg/GmsCore/wiki Comments URL: https://news.ycombinator.com/item?id=50162177 Points: 76 # Comments: 4"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/microg/GmsCore/wiki",
-   "image": null,
-   "published_at": "2026-10-20T06:37:07Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "1999d6793357e2dd12f312acc3721063aefbe255",
-   "title": "Googlebook review: Google’s new laptops are woefully underbaked",
-   "summary": [
-    "Great hardware let down by software flaws on these pricey machines that combine ChromeOS with AndroidGoogle’s attempt to create a new type of laptop to compete with Windows and macOS machines is finally here, combining the best of ChromeOS and Android into the new Googlebook.",
-    "With advanced links to Android phones and the best of Google built in, can these Googlebooks really compete with a MacBook Air or Surface Laptop?",
-    "I took two for a spin to find out.For years, Chromebooks have been the boss of budget laptops, but Googlebooks take a different, far more premium approach."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/oct/20/googlebook-review-google-laptops-chromeos-android",
-   "image": "https://i.guim.co.uk/img/media/ee163d0f417072d3807edd7c97356a837cab552d/584_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=59d1eaf57c50629ea7031ac8a6d4f572",
-   "published_at": "2026-10-20T06:00:18Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "03041eba281f778d8a344432e820b9d72a9ac0e0",
-   "title": "Hollywood AI-listers: is the technology ready to rival flesh-and-blood film stars?",
-   "summary": [
-    "Kilmer’s estate signed off on it, citing his enthusiasm for new technology that expands storytelling, but surely he would have been dismayed by this freaky doppelganger."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/film/2026/oct/20/ai-actors-val-kilmer-as-deep-as-the-grave-tilly-norwood",
-   "image": "https://i.guim.co.uk/img/media/69f15733860f5f7d23d5d775e35e0d3d293c3a18/187_0_906_725/master/906.jpg?width=140&quality=85&auto=format&fit=max&s=0b907620412ffbebb86f933c5971d7dd",
-   "published_at": "2026-10-20T06:00:18Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "432d7e650ee614db495c22bb0e636c4b4ba784d5",
-   "title": "Don’t be fooled. The AI that was supposed to save us time is doing just the opposite | Gaby Hinsliff",
-   "summary": [
-    "Even after a guilty cull, my inbox is sitting at well over 7,000, but lately I’ve started subscribing to the Quentin Crisp theory of housework: why bother, when after four years or so you stop noticing the accumulating dust?",
-    "Empty inboxes just fill up again anyway.In theory, email was supposed to save hours of meetings, phone calls and standing over photocopiers.",
-    "Instead, we just spend hours deleting stuff people wouldn’t have bothered telling us if it had meant picking up the phone, but which they can now spam to their entire database at the click of a button."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/commentisfree/2026/oct/20/ai-supposed-to-save-time-opposite-government-uk",
-   "image": "https://i.guim.co.uk/img/media/55c4a8455eb4fa69029f5190872b3e993c3d18ed/1234_0_4623_3699/master/4623.jpg?width=140&quality=85&auto=format&fit=max&s=e9cab90ca4121e8da588f3d71a97d934",
-   "published_at": "2026-10-20T05:00:17Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "fec5078de3754d8bbc461b292e8ab77bf179bd85",
-   "title": "‘These risks are real’: the threat of AI bioweapons – podcast",
-   "summary": [
-    "In his annual speech on threats to the nation, Sir Ken McCallum, the head of the UK’s intelligence service, MI5, warned that AI had the potential to ‘change the stakes’ on existing and even new bioweapons.",
-    "To find out why, and how, Ian Sample speaks to Dr Tom Inglesby, director of the Johns Hopkins Center for Health Security and the Bloomberg School of Public Health.",
-    "He explains what has governments so worried and what measures could be put in place to reduce the risksCould AI ‘change the stakes’ in the development of bioweapons?Support the Guardian: theguardian.com/sciencepod Continue reading..."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/science/audio/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-podcast",
-   "image": "https://i.guim.co.uk/img/media/a79e23d080eb53cbc53f3416c637200ed693036a/366_0_3656_2924/master/3656.jpg?width=140&quality=85&auto=format&fit=max&s=dce4153855fac7c63fec4cbb0cedb5fb",
-   "published_at": "2026-10-20T04:00:15Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "c5d69ce6a7506f3d9da9174ee2d6829dd73c67b5",
-   "title": "Go will reject certificate chains containing eight distrusted SPKIs",
-   "summary": [
-    "Article URL: https://github.com/golang/go/issues/82345 Comments URL: https://news.ycombinator.com/item?id=50160877 Points: 101 # Comments: 41"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/golang/go/issues/82345",
-   "image": null,
-   "published_at": "2026-10-20T03:05:07Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "ca9f0f5f66be6f1bf978db894b032cc639718194",
-   "title": "Is this the beginning of the end of the AI stock market boom?",
-   "summary": [
-    "After a wobble on the tech-heavy Nasdaq, some AI market observers think a reassessment of the potential value of various businesses may be under wayGet our breaking news email, free app or daily news podcastThe world is holding its breath as it waits to find out whether this year’s estimated $US1tn investment in artificial intelligence is resting on a castle made of sand.Last week, the Nasdaq 100 – an index of the 100 biggest non-financial stocks on the American tech-heavy Nasdaq exchange – dropped by 5.5%, triggering the usual angst that the AI boom is about to go bust."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/oct/20/ai-stock-market-boom-beginning-of-the-end-imf-wallstreet-nasdaq",
-   "image": "https://i.guim.co.uk/img/media/ddfb561650f575c6123c0a9b57256c95a64a8ee8/182_0_3595_2877/master/3595.jpg?width=140&quality=85&auto=format&fit=max&s=2816d43ffd19b5b5453d3f54f7b4b10b",
-   "published_at": "2026-10-20T02:29:19Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "324c8251684e58ee3ef2f4b1a5f8844c58cd3416",
-   "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
-   "summary": [
-    "Flipkart has expanded access to its food-delivery service to thousands of employees ahead of its public launch."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/",
-   "image": null,
-   "published_at": "2026-10-20T02:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "e9f6e03adc36285ae0f8a61feda32b16fcdddf19",
-   "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-   "summary": [
-    "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-   "image": null,
-   "published_at": "2026-10-20T01:27:03Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "d2d456617f7ca28de3ac7afd11a18147e55edce7",
-   "title": "France's supermarket fridges were vulnerable online for months",
-   "summary": [
-    "Related: Hackers activate automatic defrosting in supermarket fridges across Europe - https://news.ycombinator.com/item?id=50055304 - Oct 2026 (1007 comments) Comments URL: https://news.ycombinator.com/item?id=50159616 Points: 179 # Comments: 162"
-   ],
-   "source": "Hacker News",
-   "url": "https://ipinfo.io/blog/france-fridges-hack",
-   "image": null,
-   "published_at": "2026-10-20T00:00:49Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "c86664b601af4728e70f42986186240f5b066378",
-   "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-   "summary": [
-    "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-   "image": null,
-   "published_at": "2026-10-19T23:39:38Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "efa8c4c666c628dd9409809bd8deca16355de77a",
-   "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-   "summary": [
-    "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 475 # Comments: 141"
-   ],
-   "source": "Hacker News",
-   "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-   "image": null,
-   "published_at": "2026-10-19T23:22:18Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "055912be3d369fe6bfed7c37a7018ca4f23d714b",
-   "title": "How abliterated models can get you pwned",
-   "summary": [
-    "Article URL: https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned Comments URL: https://news.ycombinator.com/item?id=50159245 Points: 146 # Comments: 85"
-   ],
-   "source": "Hacker News",
-   "url": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
-   "image": null,
-   "published_at": "2026-10-19T23:08:52Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "2eba6fdc38ff53cfa4a358afa8297d6016497f28",
-   "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-   "summary": [
-    "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of "
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
-   "image": null,
-   "published_at": "2026-10-19T22:49:27Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "0e19bec78e364455f491b685a07a59716d399135",
-   "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-   "summary": [
-    "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-   "image": null,
-   "published_at": "2026-10-19T22:04:28Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "ac0d997f52653a2bc65f8c87bc6a4966b5853151",
-   "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
-   "summary": [
-    "Article URL: https://bsd.network/@brynet/117407035545900963 Comments URL: https://news.ycombinator.com/item?id=50158138 Points: 158 # Comments: 37"
-   ],
-   "source": "Hacker News",
-   "url": "https://bsd.network/@brynet/117407035545900963",
-   "image": null,
-   "published_at": "2026-10-19T21:11:45Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "c14921202a85ae43b61db22ec6c9cdbad9e9dcd7",
-   "title": "One Hash Bloom Filters",
-   "summary": [
-    "Article URL: https://calabro.io/ohbf Comments URL: https://news.ycombinator.com/item?id=50157865 Points: 113 # Comments: 12"
-   ],
-   "source": "Hacker News",
-   "url": "https://calabro.io/ohbf",
-   "image": null,
-   "published_at": "2026-10-19T20:50:08Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "8a1ba0c934b076ba4f9bc259657a4372efccee34",
-   "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-   "summary": [
-    "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-   "image": null,
-   "published_at": "2026-10-19T20:09:24Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "141841bfba33c1b9aa6a1f5a87e3521c64e988e9",
-   "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-   "summary": [
-    "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor.",
-    "But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-   "image": null,
-   "published_at": "2026-10-19T19:28:34Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "1ef5dd457f6d14300242e0fda849bb7d8f8d2196",
-   "title": "Tolan snags $30M for its AI companion that helps users navigate life",
-   "summary": [
-    "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
-   "image": null,
-   "published_at": "2026-10-19T19:00:12Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "a8d6030b440a267722dd6c4cfc5d10ebbd7ec528",
-   "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
-   "summary": [
-    "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago.",
-    "Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
-   "image": null,
-   "published_at": "2026-10-19T18:49:04Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "25c38f880dd1c0b8a5539fde543922fc627ad46f",
-   "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-   "summary": [
-    "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
-   "image": null,
-   "published_at": "2026-10-19T18:37:27Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "e11c4e750a179d58710f16601b77f58c523ff0d6",
-   "title": "US bans China's DeepSeek from government in race for AI dominance",
-   "summary": [
-    "The Chinese technology is removed from most US government agencies as race for AI dominance steps up."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-19T18:21:54Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "8a61882c5d2faa281d33683faa309c1df71e993a",
-   "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
-   "summary": [
-    "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
-   "image": null,
-   "published_at": "2026-10-19T18:00:39Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "0dcabea6566a7269eb14e47434745bf2f43424fb",
-   "title": "Rivian’s CEO says autonomy will enable ‘dramatically different’ vehicle designs",
-   "summary": [
-    "Founder and CEO RJ Scaringe said he thinks autonomy will allow his company to build radically different kinds of vehicles than the outdoorsy SUVs and trucks it currently makes."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/",
-   "image": null,
-   "published_at": "2026-10-19T17:39:51Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "203cb0bac92838d55ec8db4eed4c2077f868d56e",
-   "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
-   "summary": [
-    "Amazon and X-energy have inked another deal to deploy nuclear power to the grid.",
-    "This one will generate nearly 1 gigawatt of electricity."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
-   "image": null,
-   "published_at": "2026-10-19T16:55:56Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "203c0f23de8f44f05e169ddb45b7a414196db499",
-   "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
-   "summary": [
-    "https://public-inspection.federalregister.gov/2026-21447.pdf Comments URL: https://news.ycombinator.com/item?id=50154244 Points: 289 # Comments: 247"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
-   "image": null,
-   "published_at": "2026-10-19T16:16:46Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "69bd463197ee8fc63e21f0c79b24d86c56d2a872",
-   "title": "People are using AI to make their smart TVs dumb again",
-   "summary": [
-    "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-   "image": null,
-   "published_at": "2026-10-19T16:13:22Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "c33a66b4df035b2b36c5266486f86b2a690c9129",
-   "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-   "summary": [
-    "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
-   "image": null,
-   "published_at": "2026-10-19T15:37:09Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "5c911fea00148dc110ea30f21f45689a2ae2a092",
-   "title": "Ukraine claims first drone evacuation of wounded soldier",
-   "summary": [
-    "Article URL: https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310 Comments URL: https://news.ycombinator.com/item?id=50153664 Points: 301 # Comments: 235"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
-   "image": null,
-   "published_at": "2026-10-19T15:31:34Z",
    "category": "tech",
    "related": []
   }
