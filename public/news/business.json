@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-20T20:28:59.407794Z",
- "story_count": 21,
+ "generated_at": "2026-10-20T23:47:52.117050Z",
+ "story_count": 19,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,32 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "a7db14ab145036e762a547d88ffbaabe6b5320a7",
+   "title": "Audit regulator looking into Manchester City accounting",
+   "summary": [
+    "No formal investigation has started, but the regulator is making inquiries into the case."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-20T20:56:53Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "1021f33af619f4671785a8c0d50cbab25b3a5b8e",
+   "title": "United Airlines CEO faces rightwing backlash after calling for US wealth tax",
+   "summary": [
+    "Scott Kirby says wealth inequality is a ‘danger to society’ and calls for inheritance tax in recent interviewScott Kirby, the CEO of United Airlines, is under scrutiny from conservative politicians and commentators for saying wealth inequality is a “danger to society” and calling for a national wealth and inheritance tax in a recent interview.Talking to the New York Times, Kirby was asked about the growing public distrust of CEOs and whether he felt any responsibility to quell that distrust."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/oct/20/scott-kirby-united-wealth-tax-backlash",
+   "image": "https://i.guim.co.uk/img/media/e4c4c6e2ccabc75b339a53c80a73c6c5a5f39b4c/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=fbb26c1f77edbd419aaaa6c80792d638",
+   "published_at": "2026-10-20T20:06:31Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "13bef4e11e302ce5b7d7096d8b7844b91f256e8e",
    "title": "UK government to make Jackdaw gas field announcement",
@@ -50,15 +76,15 @@
    "related": []
   },
   {
-   "id": "4471063c598742bde40fbcdc705e559369b631fa",
-   "title": "Google Cloud outage: problems fixed for ‘most‘ customers, as regulators push for details – as it happened",
+   "id": "4a94e60b504155fa7630adb7bacdebd1f80fa471",
+   "title": "US judge dismisses sexual abuse lawsuit from Sam Altman’s sister",
    "summary": [
-    "This resilience in the face of headwinds driven by global events is welcome."
+    "Ann Altman, the Open AI CEO’s sister, accused her brother of repeatedly sexually abusing her over two decades agoA judge dismissed a lawsuit filed by Sam Altman’s sister against him on Tuesday."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates",
-   "image": "https://i.guim.co.uk/img/media/221fff45a746e52af9e420c3d04a3b467698626d/642_0_6424_5139/master/6424.jpg?width=140&quality=85&auto=format&fit=max&s=51de30e7fb7563d6236e1019f1717541",
-   "published_at": "2026-10-20T15:38:25Z",
+   "url": "https://www.theguardian.com/technology/2026/oct/20/judge-dismisses-sam-altman-sister-lawsuit",
+   "image": "https://i.guim.co.uk/img/media/75838f30224e162b4eb6bdee8b48450c74b734d7/293_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=d6ce2ff4ce8bc39283634779b951bc8a",
+   "published_at": "2026-10-20T15:34:04Z",
    "category": "business",
    "related": []
   },
@@ -241,60 +267,6 @@
    "url": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-19T12:54:03Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "bb67caccc3460cf50f304545fbb21de8c2fabcd1",
-   "title": "HelloFresh workers claim physical abuse and denied bathroom breaks in class-action suit",
-   "summary": [
-    "A New Jersey state court judge is expected to review the amended complaint in a hearing scheduled for 23 October."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/oct/19/hellofresh-abuse-lawsuit",
-   "image": "https://i.guim.co.uk/img/media/0552c296f7bf3a94eaffdf63946659ebf425abc4/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=7cd11514cc52d1e8c59f3c92c250e080",
-   "published_at": "2026-10-19T11:00:55Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "19d7623a9051330e31d1a43df3b5ba236e887218",
-   "title": "We must tax the wealth of billionaires, not just income. California can lead the way | Ro Khanna",
-   "summary": [
-    "Will California stand with the working class or the oligarchs in the vote this November?The Democratic party has a choice to make.",
-    "Are we going to be New Deal Democrats or corporate Democrats?"
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/commentisfree/2026/oct/19/tax-wealth-billionaires-income-california",
-   "image": "https://i.guim.co.uk/img/media/2629e359cb7d8edb68029571b27eb8bb7a602a90/491_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=ee8e212fe48c8f3b97dbab2b28d6cbb5",
-   "published_at": "2026-10-19T10:00:05Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "e2ccbff6cf02fec4f94b0c17393e7301aa6c5972",
-   "title": "People playing loud music on buses could face £100 fine",
-   "summary": [
-    "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains.",
-    "A national campaign asking rail passengers \"share the carriage, not the noise\" is being launched."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-19T09:49:58Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "6d8f8836d868327e03e92b4cfcab9a3bc67f1d06",
-   "title": "What are the new faces coming to UK bank notes?",
-   "summary": [
-    "Banknotes are getting a nature-themed makeover – and the Bank of England has revealed the four creatures that will feature on our money."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/c9zrd6d12ll8o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-19T09:48:35Z",
    "category": "business",
    "related": []
   }
