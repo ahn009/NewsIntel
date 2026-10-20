@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T05:55:43.634212Z",
+ "generated_at": "2026-10-20T11:25:00.347253Z",
  "story_count": 20,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -24,8 +24,19 @@
  },
  "stories": [
   {
-   "id": "280ae223b60cf9a5bc09acea5662323404be55bc",
+   "id": "4e321dd24ec6217b0ce54f6ca30c7775942fb474",
    "rank": 1,
+   "title": "Pakistan, Qatar agree to expand security partnership, strengthen internal security cooperation",
+   "brief": "Naqvi is in Doha attending the eighth Global Security Forum, where he highlighted Qatar’s role in diplomatic efforts to ease tensions between Iran and the United States. Praising Qatar’s diplomatic efforts, Naqvi said, “In the diplomacy of our time, when others chose sides, Qatar chose to keep talking.",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2635870/pakistan-qatar-agree-to-expand-security-partnership-strengthen-internal-security-cooperation",
+   "image": null,
+   "published_at": "2026-10-20T01:24:52Z",
+   "category": "pakistan"
+  },
+  {
+   "id": "280ae223b60cf9a5bc09acea5662323404be55bc",
+   "rank": 2,
    "title": "Mission blasts off for Mars to grab a piece of its moon",
    "brief": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
    "source": "BBC News",
@@ -35,10 +46,54 @@
    "category": "world"
   },
   {
+   "id": "da723bd7a6b754e3ac63f3649feb3ca84fb3a29d",
+   "rank": 3,
+   "title": "Defamation tribunal orders Punjab Assembly opposition leader to pay Rs3m to Azma Bokhari",
+   "brief": "LAHORE: The Punjab Defamation Tribunal on Tuesday ruled in favour of Punjab Information Minister Azma Bokhari in a defamation suit against Punjab Assembly Opposition Leader Moeen Riaz Qureshi, ordering him to pay Rs3 million in general damages. In January, Bokhari filed the defamation suit against Qureshi seeking damages of Rs800 million.",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2038523/defamation-tribunal-orders-punjab-assembly-opposition-leader-to-pay-rs3m-to-azma-bokhari",
+   "image": "https://i.dawn.com/large/2026/10/20152431efe4bd2.webp",
+   "published_at": "2026-10-20T10:49:04Z",
+   "category": "pakistan"
+  },
+  {
+   "id": "3c0a08b42606c8ebec8de5c3f6b636f81da15dec",
+   "rank": 4,
+   "title": "PHC issues notices in petitions challenging governor’s rule, emergency in KP; hearing adjourned till Nov 10",
+   "brief": "PESHAWAR: The Peshawar High Court (PHC) on Tuesday issued notices to the federal and Khyber Pakhtunkhwa governments in several petitions challenging the imposition of emergency and governor’s rule in the province on Oct 11.",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2038489/phc-issues-notices-in-petitions-challenging-governors-rule-emergency-in-kp-hearing-adjourned-till-nov-10",
+   "image": "https://i.dawn.com/large/2026/05/16090727faf7fd1.webp",
+   "published_at": "2026-10-20T08:36:55Z",
+   "category": "pakistan"
+  },
+  {
+   "id": "0901da3d29753e1313b60e41f85c280cf85980fc",
+   "rank": 5,
+   "title": "Punjab Information Minister Azma Bokhari wins Rs84m defamation case against opposition leader",
+   "brief": "Punjab Information Minister Azma Bokhari won a defamation case against Punjab Assembly Opposition Leader Moeen Riaz Qureshi on Tuesday, with the court ruling in her favour in an Rs84 million damages suit over allegations he made against her during a television programme.",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2635886/punjab-information-minister-azma-bokhari-wins-rs84m-defamation-case-against-opposition-leader",
+   "image": null,
+   "published_at": "2026-10-20T03:26:18Z",
+   "category": "pakistan"
+  },
+  {
+   "id": "7cc641b273dfb9d200c215c9683ae71dc56beb7c",
+   "rank": 6,
+   "title": "PHC seeks Centre’s response over imposition of emergency, governor’s rule in K-P",
+   "brief": "During the hearing, the petitioners’ counsel argued that the provincial government had not lost control of the province and that the imposition of emergency and governor’s rule amounted to an attack on provincial autonomy and democracy.",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2635857/phc-seeks-centres-response-over-imposition-of-emergency-governors-rule-in-k-p",
+   "image": null,
+   "published_at": "2026-10-20T00:38:52Z",
+   "category": "pakistan"
+  },
+  {
    "id": "d37be34335120dc2768b9b8c3203beacc36cdcf6",
-   "rank": 2,
-   "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
-   "brief": "The Saudi government did not immediately respond to BBC requests for comment.",
+   "rank": 7,
+   "title": "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors",
+   "brief": "Abdulrahman Alfozan, who is accused of planting a recording device, has been denied bail.",
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
    "image": null,
@@ -47,7 +102,7 @@
   },
   {
    "id": "bec807856c71f0379d412d85eda31ad2a81350df",
-   "rank": 3,
+   "rank": 8,
    "title": "Musk and Anthropic pledge public share giveaways",
    "brief": "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing.",
    "source": "BBC News",
@@ -57,30 +112,19 @@
    "category": "tech"
   },
   {
-   "id": "4769e42c2133ce4c2986495cfd07b030d4488ded",
-   "rank": 4,
-   "title": "Don't fall for this - how to protect yourself from AI scams",
-   "brief": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-18T23:24:59Z",
-   "category": "tech"
-  },
-  {
-   "id": "798d0f68d998bc885ee7aa9f004fcc3071e6405c",
-   "rank": 5,
-   "title": "PM asks FBR to plug tax gap amid pruning plans",
-   "brief": "The federal government on Monday dropped the idea of setting up a new tax agency but decided to compulsorily retire non-performing officers by amending the Civil Servants Act, which would allow it to retrench bureaucrats as part of any restructuring.",
+   "id": "689aa1d61e71debac60e61ffb29e5ab97c7d1542",
+   "rank": 9,
+   "title": "Govt calls on all political parties to unite, forge consensus against terrorism and set aside differences",
+   "brief": "The government on Tuesday urged all political parties to set aside their differences and forge a consensus on a joint strategy to combat terrorism, saying it was a national issue that required collective efforts and a unified response. “This is a national issue.",
    "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2635836/pm-asks-fbr-to-plug-tax-gap-amid-pruning-plans",
+   "url": "https://tribune.com.pk/story/2635892/govt-calls-on-all-political-parties-to-unite-forge-consensus-against-terrorism-and-set-aside",
    "image": null,
-   "published_at": "2026-10-19T21:33:39Z",
+   "published_at": "2026-10-20T04:07:37Z",
    "category": "pakistan"
   },
   {
    "id": "9e85d2c071b6e680c9b3f67ec565916c2639286a",
-   "rank": 6,
+   "rank": 10,
    "title": "Russia offers a diplomatic off-ramp in Pak-Afghan standoff",
    "brief": "Russia on Monday offered to help defuse tensions between Pakistan and Afghanistan, signaling a potentially greater diplomatic role for Moscow at a time when relations between Islamabad and Kabul have deteriorated sharply over the issue of cross-border terrorism.",
    "source": "Express Tribune",
@@ -90,41 +134,52 @@
    "category": "pakistan"
   },
   {
-   "id": "3d5325b7bcb695ca92b5b71bb513bf8febcdd789",
-   "rank": 7,
-   "title": "Twin cities brace for smog",
-   "brief": "The smog season has begun and will continue until January 15, with the air quality index deteriorating across the twin cities of Rawalpindi and Islamabad and other parts of Punjab, raising concerns about the spread of diseases.",
+   "id": "798d0f68d998bc885ee7aa9f004fcc3071e6405c",
+   "rank": 11,
+   "title": "PM asks FBR to plug tax gap amid pruning plans",
+   "brief": "The federal government on Monday dropped the idea of setting up a new tax agency but decided to compulsorily retire non-performing officers by amending the Civil Servants Act, which would allow it to retrench bureaucrats as part of any restructuring.",
    "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2635803/twin-cities-brace-for-smog",
+   "url": "https://tribune.com.pk/story/2635836/pm-asks-fbr-to-plug-tax-gap-amid-pruning-plans",
    "image": null,
-   "published_at": "2026-10-19T19:13:24Z",
+   "published_at": "2026-10-19T21:33:39Z",
    "category": "pakistan"
   },
   {
-   "id": "eabc70d68195ddf5c0a9c771e62522b4745381c3",
-   "rank": 8,
-   "title": "Achakzai seeks K-P CM whereabouts",
-   "brief": "National Assembly Opposition Leader Mahmood Khan Achakzai on Monday questioned the non-issuance of production orders for detained lawmakers and the whereabouts of Khyber-Pakhtunkhwa Chief Minister Sohail Afridi following the imposition of emergency in the province.",
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2635790/achakzai-seeks-k-p-cm-whereabouts",
-   "image": null,
-   "published_at": "2026-10-19T18:10:17Z",
-   "category": "pakistan"
+   "id": "5c0ee49473e75a37e95ce1236a193cc040e0f3e7",
+   "rank": 12,
+   "title": "Helen Haines loses leg as surgeons fight to save the other after alleged attack in Wangaratta",
+   "brief": "Independent MP is in critical yet stable condition after man allegedly did U-turn to strike her twice with his carBrendan Nugent’s family say Helen Haines has been their friend for more than 20 years‘I don’t want to be known as a hero’: barber who rushed to help Helen Haines praised by PMGet our new political…",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/oct/20/helen-haines-mp-alleged-attack-wangaratta-surgery-ntwnfb",
+   "image": "https://i.guim.co.uk/img/media/fc5cfde7e2fb473869454a0afb7c782394d83bd7/464_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=41d848b5ca9a28d20a95c71469b1e8ef",
+   "published_at": "2026-10-20T10:37:28Z",
+   "category": "world"
   },
   {
-   "id": "d80de12f4fc7923819287141e491a5b62650fea2",
-   "rank": 9,
-   "title": "Senate passes bill to restrict blue passports",
-   "brief": "The Senate approved the Passport Amendment Bill 2026, moved by Senator Abdul Qadir, after an extended debate over the eligibility criteria for blue passports and the treatment of parliamentarians by government departments.",
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2635799/senate-passes-bill-to-restrict-blue-passports",
+   "id": "6d2279089ca82a6068df66b607f32bea6851d17b",
+   "rank": 13,
+   "title": "Brendan Nugent’s family say Helen Haines has been their friend for more than 20 years",
+   "brief": "She has lost one leg, with surgeons working to save the other.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/oct/20/brendan-nugent-driver-alleged-attack-helen-haines-ntwnfb",
+   "image": "https://i.guim.co.uk/img/media/28f00093038fc5f6a8d11e6e5f3b4a38356ca636/254_120_1198_958/master/1198.jpg?width=140&quality=85&auto=format&fit=max&s=0fb7fd9bdbc1c3a1db38b02172bad506",
+   "published_at": "2026-10-20T10:37:10Z",
+   "category": "world"
+  },
+  {
+   "id": "e717e1eb5a82a8681217387a4191b636f918f14f",
+   "rank": 14,
+   "title": "'I'm fed up of swiping': The singles choosing dating events over apps",
+   "brief": "The BBC hears from people who think dating events are better value for money than dating apps.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-10-19T18:10:17Z",
-   "category": "pakistan"
+   "published_at": "2026-10-20T10:28:36Z",
+   "category": "business"
   },
   {
    "id": "46992c1306cd1e544467249439668364210a5b5b",
-   "rank": 10,
+   "rank": 15,
    "title": "Northern Ireland needs 'courage and leadership' to tackle climate change",
    "brief": "The new chair of the Climate Change Committee is spending two days in Northern Ireland on a fact-finding mission.",
    "source": "BBC News",
@@ -135,7 +190,7 @@
   },
   {
    "id": "a054ed621dff22ce62167be9490ac7cd2a0a3b6d",
-   "rank": 11,
+   "rank": 16,
    "title": "How is the US economy really doing under President Trump?",
    "brief": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country.",
    "source": "BBC News",
@@ -145,41 +200,19 @@
    "category": "world"
   },
   {
-   "id": "fec5078de3754d8bbc461b292e8ab77bf179bd85",
-   "rank": 12,
-   "title": "‘These risks are real’: the threat of AI bioweapons – podcast",
-   "brief": "In his annual speech on threats to the nation, Sir Ken McCallum, the head of the UK’s intelligence service, MI5, warned that AI had the potential to ‘change the stakes’ on existing and even new bioweapons.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/science/audio/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-podcast",
-   "image": "https://i.guim.co.uk/img/media/a79e23d080eb53cbc53f3416c637200ed693036a/366_0_3656_2924/master/3656.jpg?width=140&quality=85&auto=format&fit=max&s=dce4153855fac7c63fec4cbb0cedb5fb",
-   "published_at": "2026-10-20T04:00:15Z",
-   "category": "world"
-  },
-  {
-   "id": "cd31a4a1490a015f58ded3ebce5718bef7113e5a",
-   "rank": 13,
-   "title": "Fourteen dead in illegal Colombian gold mine collapse",
-   "brief": "Fourteen dead in illegal Colombian gold mine collapse",
+   "id": "6f03f24bc6c9cfe1531126b47f9e558147e0fb87",
+   "rank": 17,
+   "title": "Angel Reese scores 30 as Dream stun Valkyries to go level in WNBA Finals",
+   "brief": "Atlanta Dream defeat Golden State Valkyries 79-65 to tie the best-of-seven WNBA Finals at 1-1.",
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/fourteen-dead-in-illegal-colombian-gold-mine-collapse?traffic_source=rss",
+   "url": "https://www.aljazeera.com/sports/2026/10/20/angel-reese-scores-30-as-dream-stun-valkyries-to-go-level-in-wnba-finals?traffic_source=rss",
    "image": null,
-   "published_at": "2026-10-20T03:55:27Z",
-   "category": "world"
-  },
-  {
-   "id": "61769b048b53141cf4e1572755917bf907cc4585",
-   "rank": 14,
-   "title": "Colombia illegal gold mine collapse kills 14 people",
-   "brief": "Illegal gold mine collapse in southwestern Colombia leaves 14 people dead, 7 injured.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/10/19/colombia-illegal-gold-mine-collapse-kills-14-people?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-10-19T23:56:17Z",
+   "published_at": "2026-10-20T03:13:52Z",
    "category": "world"
   },
   {
    "id": "6b455e34ac3716af3831c17f5b42767a5e27c566",
-   "rank": 15,
+   "rank": 18,
    "title": "Five ways El Niño is affecting the weather around the world",
    "brief": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence.",
    "source": "BBC News",
@@ -189,19 +222,8 @@
    "category": "world"
   },
   {
-   "id": "e717e1eb5a82a8681217387a4191b636f918f14f",
-   "rank": 16,
-   "title": "'I'm fed up of swiping': Why singles now want to meet IRL",
-   "brief": "The BBC hears from people who think dating events are better value for money than dating apps.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-19T23:00:21Z",
-   "category": "business"
-  },
-  {
    "id": "fa3c884ba0ee93ef3c21360b0d71827c216e2375",
-   "rank": 17,
+   "rank": 19,
    "title": "New AI tool can predict cancer survival by a single patient selfie, study suggests",
    "brief": "System can estimate a person’s biological age and predict chances of cancer survival from a single photographDoctors have developed an artificial intelligence tool that can predict a cancer patient’s chances of survival from a single photograph of their face.The AI system was custom-built by experts at Mass General Brigham, a nonprofit, integrated academic healthcare system…",
    "source": "The Guardian",
@@ -211,37 +233,15 @@
    "category": "world"
   },
   {
-   "id": "bb0ca633304925cc05f49895cec6e68007dd45ab",
-   "rank": 18,
-   "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
-   "brief": "The two top tennis pros married in 2021 and have one child together.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-19T21:02:33Z",
-   "category": "world"
-  },
-  {
-   "id": "e11c4e750a179d58710f16601b77f58c523ff0d6",
-   "rank": 19,
-   "title": "US bans DeepSeek AI from government use as tech tension with China continues",
-   "brief": "DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-19T18:21:54Z",
-   "category": "tech"
-  },
-  {
-   "id": "73ce7b1dab25a142c4c74e547115a2c503b7ac00",
+   "id": "dfbce4a509b33357a57e8218824cc8533be67c44",
    "rank": 20,
-   "title": "Home sellers cut asking prices on 3,000 properties a day",
-   "brief": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-19T12:54:03Z",
-   "category": "business"
+   "title": "Tottenham beat Coventry to claim first Premier League win of season – as it happened",
+   "brief": "The returning James Maddison scored a beauty, with Omar Marmoush and Ben Davies also on target as Spurs won in the league for the first time this seasonWhere is the game? Spurs will look to dominate possession, with Gray and Tonali dictating play, so Maddison, Kudus and Marmoush can buzz about behind Solanke.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/live/2026/oct/19/tottenham-v-coventry-premier-league-live",
+   "image": "https://i.guim.co.uk/img/media/621b365df366f250869ee9d9bc7b8f00711e002b/326_68_1981_1585/master/1981.jpg?width=140&quality=85&auto=format&fit=max&s=c82731aa67ca8a5eacf41d2ac60655ff",
+   "published_at": "2026-10-19T21:08:31Z",
+   "category": "sports"
   }
  ]
 }

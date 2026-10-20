@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T05:55:43.632130Z",
+ "generated_at": "2026-10-20T11:25:00.345160Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -24,43 +24,209 @@
  },
  "stories": [
   {
-   "id": "7f1d2ed9d3444468622a21847cebba3a533e09a8",
-   "title": "Americans Are Spending More Money to Drive Worse Cars",
+   "id": "4471063c598742bde40fbcdc705e559369b631fa",
+   "title": "Google Cloud outage: Revolut suffers service disruption as bank customers report problems – business live",
    "summary": [
-    "Article URL: https://www.theatlantic.com/technology/2026/10/americans-not-buying-electric-cars/689071/ Comments URL: https://news.ycombinator.com/item?id=50161505 Points: 12 # Comments: 3"
+    "This resilience in the face of headwinds driven by global events is welcome."
    ],
-   "source": "Hacker News",
-   "url": "https://www.theatlantic.com/technology/2026/10/americans-not-buying-electric-cars/689071/",
-   "image": null,
-   "published_at": "2026-10-20T04:55:36Z",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates",
+   "image": "https://i.guim.co.uk/img/media/4abba6c5ea456b0e89fd05e658c5c6fa8a713ce7/430_0_3301_2641/master/3301.jpg?width=140&quality=85&auto=format&fit=max&s=98372603f749a5c16b34ef982356b0e1",
+   "published_at": "2026-10-20T11:11:40Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "e4980aa15f219508290f57e86030e13525aaea6c",
-   "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
+   "id": "b0930e389e924a6093db32460377ec1bc4374a10",
+   "title": "Yelp can now call on your behalf to check wait times at a restaurant",
    "summary": [
-    "Hi HN,I'm Peter Bishop and I've been working in graphics and web tech for over 25yrs.I've recently launched Death Plan Switch to solve a major problem in my succession plan.",
-    "It was authored with the help of Claude Code after writing an extensive MD document and it passed 42 unit tests.I hope you get some use out of it, or it inspires your own succession plans.",
-    "My clients are telling me this is a strong sales feature when they trust me with their hosting and technology accounts.Happy to answer any questions.Kind regards, Peter Bishop."
+    "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences."
    ],
-   "source": "Hacker News",
-   "url": "https://deathplanswitch.com/",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
    "image": null,
-   "published_at": "2026-10-20T04:37:43Z",
+   "published_at": "2026-10-20T11:00:00Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "2abd5bd154eb39a82a07b7efabd80f59607e2191",
-   "title": "U.S. Supreme Court to review 1868 federal ban on home distilling of liquor",
+   "id": "82497db5b87aeee69183cd8a442bbab869638c41",
+   "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
    "summary": [
-    "Article URL: https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/ Comments URL: https://news.ycombinator.com/item?id=50161207 Points: 27 # Comments: 24"
+    "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend.",
+    "Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+   "image": null,
+   "published_at": "2026-10-20T11:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "0c0643e13635f1ed03988c1a1d2c31664a6fc797",
+   "title": "Google cloud outage takes down banks",
+   "summary": [
+    "Article URL: https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/ Comments URL: https://news.ycombinator.com/item?id=50163961 Points: 18 # Comments: 5"
    ],
    "source": "Hacker News",
-   "url": "https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/",
+   "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
    "image": null,
-   "published_at": "2026-10-20T04:02:26Z",
+   "published_at": "2026-10-20T10:26:02Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "7d4ecae333c2857c25e9e09ac0af136322655ab5",
+   "title": "Revolut down as users report app not working",
+   "summary": [
+    "Article URL: https://www.bbc.com/news/articles/cxdd8mm6qy4mo Comments URL: https://news.ycombinator.com/item?id=50163625 Points: 44 # Comments: 15"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.bbc.com/news/articles/cxdd8mm6qy4mo",
+   "image": null,
+   "published_at": "2026-10-20T09:54:48Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "4bdf4f7e67ff6ec63369530e01186aab4e0da07e",
+   "title": "AfD Leak: What 421,179 Hacked Emails Show about the German Far Right",
+   "summary": [
+    "Article URL: https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/ Comments URL: https://news.ycombinator.com/item?id=50163502 Points: 240 # Comments: 203"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/",
+   "image": null,
+   "published_at": "2026-10-20T09:35:40Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "79e072c528493212dadbe0626496c7bede00d5c2",
+   "title": "DeepSeek just open-sourced its inference engine",
+   "summary": [
+    "Article URL: https://github.com/deepseek-ai/DeepInfer Comments URL: https://news.ycombinator.com/item?id=50163277 Points: 364 # Comments: 123"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/deepseek-ai/DeepInfer",
+   "image": null,
+   "published_at": "2026-10-20T09:08:54Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "4951d05f295af7c8ae53dd5715bb3b798d998056",
+   "title": "There is no official XScreenSaver GitHub repository",
+   "summary": [
+    "Article URL: https://github.com/xscreensaver-official/xscreensaver Comments URL: https://news.ycombinator.com/item?id=50163142 Points: 30 # Comments: 14"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/xscreensaver-official/xscreensaver",
+   "image": null,
+   "published_at": "2026-10-20T08:51:31Z",
+   "category": "tech",
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://cretezy.com/2026/ad-free-android-tv"
+    }
+   ]
+  },
+  {
+   "id": "fe3c4bd5e6db63db6c3af795dd3323ca83d9cc50",
+   "title": "Revolut outage hits 'multiple services' as thousands of users report app issues",
+   "summary": [
+    "Some users of the British neobank reported being unable to make some payments or access funds in its app on Tuesday."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-20T08:46:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ae409ab06df5c7f2ad9888a2c31e5a3d0b280014",
+   "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
+   "summary": [
+    "Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
+   "image": null,
+   "published_at": "2026-10-20T07:01:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "9128766f166213522244d35a2af5886f5e67bf17",
+   "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+   "summary": [
+    "Article URL: https://github.com/microg/GmsCore/wiki Comments URL: https://news.ycombinator.com/item?id=50162177 Points: 76 # Comments: 4"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/microg/GmsCore/wiki",
+   "image": null,
+   "published_at": "2026-10-20T06:37:07Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "1999d6793357e2dd12f312acc3721063aefbe255",
+   "title": "Googlebook review: Google’s new laptops are woefully underbaked",
+   "summary": [
+    "Great hardware let down by software flaws on these pricey machines that combine ChromeOS with AndroidGoogle’s attempt to create a new type of laptop to compete with Windows and macOS machines is finally here, combining the best of ChromeOS and Android into the new Googlebook.",
+    "With advanced links to Android phones and the best of Google built in, can these Googlebooks really compete with a MacBook Air or Surface Laptop?",
+    "I took two for a spin to find out.For years, Chromebooks have been the boss of budget laptops, but Googlebooks take a different, far more premium approach."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/oct/20/googlebook-review-google-laptops-chromeos-android",
+   "image": "https://i.guim.co.uk/img/media/ee163d0f417072d3807edd7c97356a837cab552d/584_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=59d1eaf57c50629ea7031ac8a6d4f572",
+   "published_at": "2026-10-20T06:00:18Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "03041eba281f778d8a344432e820b9d72a9ac0e0",
+   "title": "Hollywood AI-listers: is the technology ready to rival flesh-and-blood film stars?",
+   "summary": [
+    "Kilmer’s estate signed off on it, citing his enthusiasm for new technology that expands storytelling, but surely he would have been dismayed by this freaky doppelganger."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/film/2026/oct/20/ai-actors-val-kilmer-as-deep-as-the-grave-tilly-norwood",
+   "image": "https://i.guim.co.uk/img/media/69f15733860f5f7d23d5d775e35e0d3d293c3a18/187_0_906_725/master/906.jpg?width=140&quality=85&auto=format&fit=max&s=0b907620412ffbebb86f933c5971d7dd",
+   "published_at": "2026-10-20T06:00:18Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "432d7e650ee614db495c22bb0e636c4b4ba784d5",
+   "title": "Don’t be fooled. The AI that was supposed to save us time is doing just the opposite | Gaby Hinsliff",
+   "summary": [
+    "Even after a guilty cull, my inbox is sitting at well over 7,000, but lately I’ve started subscribing to the Quentin Crisp theory of housework: why bother, when after four years or so you stop noticing the accumulating dust?",
+    "Empty inboxes just fill up again anyway.In theory, email was supposed to save hours of meetings, phone calls and standing over photocopiers.",
+    "Instead, we just spend hours deleting stuff people wouldn’t have bothered telling us if it had meant picking up the phone, but which they can now spam to their entire database at the click of a button."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/20/ai-supposed-to-save-time-opposite-government-uk",
+   "image": "https://i.guim.co.uk/img/media/55c4a8455eb4fa69029f5190872b3e993c3d18ed/1234_0_4623_3699/master/4623.jpg?width=140&quality=85&auto=format&fit=max&s=e9cab90ca4121e8da588f3d71a97d934",
+   "published_at": "2026-10-20T05:00:17Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "fec5078de3754d8bbc461b292e8ab77bf179bd85",
+   "title": "‘These risks are real’: the threat of AI bioweapons – podcast",
+   "summary": [
+    "In his annual speech on threats to the nation, Sir Ken McCallum, the head of the UK’s intelligence service, MI5, warned that AI had the potential to ‘change the stakes’ on existing and even new bioweapons.",
+    "To find out why, and how, Ian Sample speaks to Dr Tom Inglesby, director of the Johns Hopkins Center for Health Security and the Bloomberg School of Public Health.",
+    "He explains what has governments so worried and what measures could be put in place to reduce the risksCould AI ‘change the stakes’ in the development of bioweapons?Support the Guardian: theguardian.com/sciencepod Continue reading..."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/science/audio/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-podcast",
+   "image": "https://i.guim.co.uk/img/media/a79e23d080eb53cbc53f3416c637200ed693036a/366_0_3656_2924/master/3656.jpg?width=140&quality=85&auto=format&fit=max&s=dce4153855fac7c63fec4cbb0cedb5fb",
+   "published_at": "2026-10-20T04:00:15Z",
    "category": "tech",
    "related": []
   },
@@ -68,12 +234,25 @@
    "id": "c5d69ce6a7506f3d9da9174ee2d6829dd73c67b5",
    "title": "Go will reject certificate chains containing eight distrusted SPKIs",
    "summary": [
-    "Article URL: https://github.com/golang/go/issues/82345 Comments URL: https://news.ycombinator.com/item?id=50160877 Points: 35 # Comments: 15"
+    "Article URL: https://github.com/golang/go/issues/82345 Comments URL: https://news.ycombinator.com/item?id=50160877 Points: 101 # Comments: 41"
    ],
    "source": "Hacker News",
    "url": "https://github.com/golang/go/issues/82345",
    "image": null,
    "published_at": "2026-10-20T03:05:07Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ca9f0f5f66be6f1bf978db894b032cc639718194",
+   "title": "Is this the beginning of the end of the AI stock market boom?",
+   "summary": [
+    "After a wobble on the tech-heavy Nasdaq, some AI market observers think a reassessment of the potential value of various businesses may be under wayGet our breaking news email, free app or daily news podcastThe world is holding its breath as it waits to find out whether this year’s estimated $US1tn investment in artificial intelligence is resting on a castle made of sand.Last week, the Nasdaq 100 – an index of the 100 biggest non-financial stocks on the American tech-heavy Nasdaq exchange – dropped by 5.5%, triggering the usual angst that the AI boom is about to go bust."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/oct/20/ai-stock-market-boom-beginning-of-the-end-imf-wallstreet-nasdaq",
+   "image": "https://i.guim.co.uk/img/media/ddfb561650f575c6123c0a9b57256c95a64a8ee8/182_0_3595_2877/master/3595.jpg?width=140&quality=85&auto=format&fit=max&s=2816d43ffd19b5b5453d3f54f7b4b10b",
+   "published_at": "2026-10-20T02:29:19Z",
    "category": "tech",
    "related": []
   },
@@ -104,23 +283,10 @@
    "related": []
   },
   {
-   "id": "21913ad05882245ea5df9a59b2e17f35991d626b",
-   "title": "Developing Taste",
-   "summary": [
-    "Article URL: https://emilkowal.ski/ui/developing-taste Comments URL: https://news.ycombinator.com/item?id=50160135 Points: 28 # Comments: 24"
-   ],
-   "source": "Hacker News",
-   "url": "https://emilkowal.ski/ui/developing-taste",
-   "image": null,
-   "published_at": "2026-10-20T01:12:03Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "d2d456617f7ca28de3ac7afd11a18147e55edce7",
    "title": "France's supermarket fridges were vulnerable online for months",
    "summary": [
-    "Related: Hackers activate automatic defrosting in supermarket fridges across Europe - https://news.ycombinator.com/item?id=50055304 - Oct 2026 (1007 comments) Comments URL: https://news.ycombinator.com/item?id=50159616 Points: 89 # Comments: 71"
+    "Related: Hackers activate automatic defrosting in supermarket fridges across Europe - https://news.ycombinator.com/item?id=50055304 - Oct 2026 (1007 comments) Comments URL: https://news.ycombinator.com/item?id=50159616 Points: 179 # Comments: 162"
    ],
    "source": "Hacker News",
    "url": "https://ipinfo.io/blog/france-fridges-hack",
@@ -146,7 +312,7 @@
    "id": "efa8c4c666c628dd9409809bd8deca16355de77a",
    "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
    "summary": [
-    "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 201 # Comments: 34"
+    "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 475 # Comments: 141"
    ],
    "source": "Hacker News",
    "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
@@ -159,7 +325,7 @@
    "id": "055912be3d369fe6bfed7c37a7018ca4f23d714b",
    "title": "How abliterated models can get you pwned",
    "summary": [
-    "Article URL: https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned Comments URL: https://news.ycombinator.com/item?id=50159245 Points: 73 # Comments: 46"
+    "Article URL: https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned Comments URL: https://news.ycombinator.com/item?id=50159245 Points: 146 # Comments: 85"
    ],
    "source": "Hacker News",
    "url": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
@@ -198,7 +364,7 @@
    "id": "ac0d997f52653a2bc65f8c87bc6a4966b5853151",
    "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
    "summary": [
-    "Article URL: https://bsd.network/@brynet/117407035545900963 Comments URL: https://news.ycombinator.com/item?id=50158138 Points: 133 # Comments: 28"
+    "Article URL: https://bsd.network/@brynet/117407035545900963 Comments URL: https://news.ycombinator.com/item?id=50158138 Points: 158 # Comments: 37"
    ],
    "source": "Hacker News",
    "url": "https://bsd.network/@brynet/117407035545900963",
@@ -208,23 +374,10 @@
    "related": []
   },
   {
-   "id": "e3ef569967110d0cce9be6a2ab255bbd9fec29a5",
-   "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
-   "summary": [
-    "Article URL: https://josie.lol/blog/linux-rtx-spark Comments URL: https://news.ycombinator.com/item?id=50158100 Points: 212 # Comments: 99"
-   ],
-   "source": "Hacker News",
-   "url": "https://josie.lol/blog/linux-rtx-spark",
-   "image": null,
-   "published_at": "2026-10-19T21:08:18Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "c14921202a85ae43b61db22ec6c9cdbad9e9dcd7",
    "title": "One Hash Bloom Filters",
    "summary": [
-    "Article URL: https://calabro.io/ohbf Comments URL: https://news.ycombinator.com/item?id=50157865 Points: 76 # Comments: 10"
+    "Article URL: https://calabro.io/ohbf Comments URL: https://news.ycombinator.com/item?id=50157865 Points: 113 # Comments: 12"
    ],
    "source": "Hacker News",
    "url": "https://calabro.io/ohbf",
@@ -302,9 +455,9 @@
   },
   {
    "id": "e11c4e750a179d58710f16601b77f58c523ff0d6",
-   "title": "US bans DeepSeek AI from government use as tech tension with China continues",
+   "title": "US bans China's DeepSeek from government in race for AI dominance",
    "summary": [
-    "DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China."
+    "The Chinese technology is removed from most US government agencies as race for AI dominance steps up."
    ],
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
@@ -340,19 +493,6 @@
    "related": []
   },
   {
-   "id": "7a6b76a5b521d2ecc2aae21c1889c530555f5bfb",
-   "title": "Evidence (YC S21) Is Hiring Software Engineers",
-   "summary": [
-    "Article URL: https://evidence.dev/jobs Comments URL: https://news.ycombinator.com/item?id=50155172 Points: 0 # Comments: 0"
-   ],
-   "source": "Hacker News",
-   "url": "https://evidence.dev/jobs",
-   "image": null,
-   "published_at": "2026-10-19T17:21:33Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "203cb0bac92838d55ec8db4eed4c2077f868d56e",
    "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
    "summary": [
@@ -367,23 +507,10 @@
    "related": []
   },
   {
-   "id": "76a5f348416759f795f56b4ebc31cba07679a186",
-   "title": "Android apps running native on macOS",
-   "summary": [
-    "Article URL: https://github.com/kksimp/Mac.apk Comments URL: https://news.ycombinator.com/item?id=50154624 Points: 292 # Comments: 156"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/kksimp/Mac.apk",
-   "image": null,
-   "published_at": "2026-10-19T16:45:30Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "203c0f23de8f44f05e169ddb45b7a414196db499",
    "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
    "summary": [
-    "https://public-inspection.federalregister.gov/2026-21447.pdf Comments URL: https://news.ycombinator.com/item?id=50154244 Points: 114 # Comments: 107"
+    "https://public-inspection.federalregister.gov/2026-21447.pdf Comments URL: https://news.ycombinator.com/item?id=50154244 Points: 289 # Comments: 247"
    ],
    "source": "Hacker News",
    "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
@@ -422,135 +549,12 @@
    "id": "5c911fea00148dc110ea30f21f45689a2ae2a092",
    "title": "Ukraine claims first drone evacuation of wounded soldier",
    "summary": [
-    "Article URL: https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310 Comments URL: https://news.ycombinator.com/item?id=50153664 Points: 192 # Comments: 145"
+    "Article URL: https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310 Comments URL: https://news.ycombinator.com/item?id=50153664 Points: 301 # Comments: 235"
    ],
    "source": "Hacker News",
    "url": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
    "image": null,
    "published_at": "2026-10-19T15:31:34Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "ae638dfa398170fad82acede6581d79d89e2a21f",
-   "title": "Calls to strengthen workplace privacy in Australia as employers turn to AI to track staff",
-   "summary": [
-    "Monitoring tools common in a range of workplaces, including factories, office jobs, delivery work and in retail – often without employees being informedGet our breaking news email, free app or daily news podcastEmployers are increasingly using technology, from CCTV to keystroke monitoring, to track workers’ moves and it is being accelerated by the use of AI, the Human Technology Institute has warned.Examples provided to Guardian Australia by the institute include a fast-food restaurant using surveillance cameras to stop workers using their phones, and AI tracking leading to a cashier warned over making a mistake once every 533 scans."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/oct/20/workplace-privacy-concerns-employers-use-ai-to-monitor-staff",
-   "image": "https://i.guim.co.uk/img/media/c2972d767784a668b4664e394a234487682599ea/497_0_5200_4160/master/5200.jpg?width=140&quality=85&auto=format&fit=max&s=e61c50558629b38b8338b4760dbec44c",
-   "published_at": "2026-10-19T14:00:03Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "5ef96e687c3da995106111b48510828763e4425f",
-   "title": "Wine ported to OpenBSD",
-   "summary": [
-    "Article URL: https://marc.info/?l=openbsd-ports&m=179236125692175 Comments URL: https://news.ycombinator.com/item?id=50152307 Points: 537 # Comments: 178"
-   ],
-   "source": "Hacker News",
-   "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
-   "image": null,
-   "published_at": "2026-10-19T13:35:34Z",
-   "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "https://www.openbsd.org/80.html"
-    }
-   ]
-  },
-  {
-   "id": "7492bc28d54713bae7d821251939cb88de2d104e",
-   "title": "Uber wins bid to throw out £200m black cab claims",
-   "summary": [
-    "Claims that Uber misled TfL over its licence were thrown out because they were brought too late."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cv5ynp1j45x2o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-19T12:58:39Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "bfa78ce3f0883e4d2527016fef4e51c2d35a5a1e",
-   "title": "Apple updates guidelines to ban nudify apps masquerading as regular apps to pass review",
-   "summary": [
-    "The company updated its guidelines with strong language around AI and user-generated content, and how app developers should include enough preventative measures to moderate objectionable or offensive content."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/",
-   "image": null,
-   "published_at": "2026-10-19T12:56:14Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "c2ced7e7825b63110447bedd4f756498ff3fce06",
-   "title": "AI firm Anthropic to commit 5% of shares to fund for ‘public good’",
-   "summary": [
-    "It will add a further 2% of its stock to the fund for every 50% increase in its value above an undisclosed baseline."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/oct/19/ai-firm-anthropic-to-commit-shares-to-fund-for-public-good",
-   "image": "https://i.guim.co.uk/img/media/2790d74966de266025ee31e1975f1f2ce9024d36/387_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=16ba666f47897a1a79435713e2ff8af3",
-   "published_at": "2026-10-19T12:51:04Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "1d66cd014db62740e009d94bd4f6edefd494b24f",
-   "title": "Musk pledges to give ‘every kid in America’ one of his SpaceX shares",
-   "summary": [
-    "Musk's post came just a few hours after Anthropic promised to put 5% of its shares into a new \"public benefit fund,\" which it intends to use to make \"large donations to traditional nonprofits or direct distributions to specific populations\" after its upcoming IPO."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/",
-   "image": null,
-   "published_at": "2026-10-19T12:42:55Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "448617650f8a8e3bec0640a7909e9637dab50111",
-   "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-   "summary": [
-    "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment.",
-    "The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-   "image": null,
-   "published_at": "2026-10-19T12:30:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "a426ab512942ef520c272c8e60857932bd8cf5e1",
-   "title": "US teens can access ‘nudify’ apps despite Apple and Google’s parental controls, report finds",
-   "summary": [
-    "Exclusive: Using test accounts acting as 13-year-olds, Tech Transparency Project downloaded 135 apps with features to generate nonconsensual nude imageryIn December 2025, Morgan Dorfman received distressing news: a student at her daughter’s Pennsylvania high school was making AI-generated pornographic material using the daughter’s image.He was using an artificial intelligence image-editing app called Movely to create sexual videos from pictures of her daughter and five other girls."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/oct/19/us-teens-nudify-apps-apple-google-parental-controls",
-   "image": "https://i.guim.co.uk/img/media/1b5ce85190e6d89e4db3acb2c4d28f253a101ac3/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=c420bb546a20a703516798696d6332b8",
-   "published_at": "2026-10-19T10:00:05Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "bec807856c71f0379d412d85eda31ad2a81350df",
-   "title": "Musk and Anthropic pledge public share giveaways",
-   "summary": [
-    "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-19T09:38:25Z",
    "category": "tech",
    "related": []
   }

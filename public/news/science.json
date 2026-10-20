@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T05:55:43.633155Z",
+ "generated_at": "2026-10-20T11:25:00.346193Z",
  "story_count": 18,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -23,6 +23,32 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "c4cbdafacd1ccc3d0f69a0b14717ac6c06e85be2",
+   "title": "Storm Austen to bring severe gales to UK as weather warning issued",
+   "summary": [
+    "The first named storm of the season - Austen - will bring damaging winds and heavy rain to parts of the UK on Friday."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/weather/articles/c9rkyjzgp6kdo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-20T09:42:56Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "b5298ab1b515d2528e30c9008cf3be768c111e64",
+   "title": "Orionid meteor shower to peak in UK skies this week",
+   "summary": [
+    "Clear skies permitting, skygazers could be able to spot as many as 10-20 meteors per hour as the shower peaks this week."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/weather/articles/cm17knj9kpv8o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-20T06:31:04Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "b1c1812f00640e849a46f064b303a832f2d741ef",
    "title": "The British island where red squirrels are thriving",
@@ -240,32 +266,6 @@
    "url": "https://www.sciencedaily.com/releases/2026/10/261018084028.htm",
    "image": null,
    "published_at": "2026-10-19T00:32:07Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "38bcd38f8e4fd935b4ab5ab01f8657e7bf14b96d",
-   "title": "Fears for protected bats if glamping pod plans are approved",
-   "summary": [
-    "Without a mitigation strategy the effect on the creatures would be \"major\", a survey says."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6dxwg50pq8lo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-18T19:22:31Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "d55544bb135358dc4abb28cfdfeea91ea30eb4cf",
-   "title": "Fuel leak spreads more than two miles along River Taff",
-   "summary": [
-    "Public Health Wales advises people living nearby to shut their doors and windows due to the smell."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c8vgxnp5w6vzo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-18T19:20:57Z",
    "category": "science",
    "related": []
   }
