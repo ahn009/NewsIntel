@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-20T00:14:53.670959Z",
- "story_count": 23,
+ "generated_at": "2026-10-20T05:55:43.633155Z",
+ "story_count": 18,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -24,15 +24,28 @@
  },
  "stories": [
   {
-   "id": "280ae223b60cf9a5bc09acea5662323404be55bc",
-   "title": "Mission blasts off for Mars to grab a piece of its moon",
+   "id": "b1c1812f00640e849a46f064b303a832f2d741ef",
+   "title": "The British island where red squirrels are thriving",
    "summary": [
-    "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth."
+    "Conservationists say that, with red squirrels dwindling in the UK, Jersey is an \"important refuge\"."
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cw1m4e3mrljxo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-10-19T19:45:46Z",
+   "published_at": "2026-10-20T05:38:30Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "46992c1306cd1e544467249439668364210a5b5b",
+   "title": "Northern Ireland needs 'courage and leadership' to tackle climate change",
+   "summary": [
+    "The new chair of the Climate Change Committee is spending two days in Northern Ireland on a fact-finding mission."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cxzd6j5q0g7eo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-20T05:27:15Z",
    "category": "science",
    "related": []
   },
@@ -253,92 +266,6 @@
    "url": "https://www.bbc.co.uk/news/articles/c8vgxnp5w6vzo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-18T19:20:57Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "1b3b8bef73267210129230265885c6dfed9e5a0b",
-   "title": "Scientists discover a natural compound that could protect the brain from too much salt",
-   "summary": [
-    "Eating too much salt may do more than raise blood pressure.",
-    "In a new study, Japanese researchers discovered that a soy-derived compound called LPC70 helped protect mice from several damaging effects of a high-salt diet.",
-    "Mice given the supplement had lower blood pressure, better memory, and improved social interactions compared with mice consuming excess salt alone."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261017230032.htm",
-   "image": null,
-   "published_at": "2026-10-18T13:46:34Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "ea0d41638fc3db584b9ed1be328f17ffaf91060e",
-   "title": "Physicists create a bizarre new quantum state called a fractional fermi sea",
-   "summary": [
-    "Physicists have discovered a strange new state of quantum matter in which ultracold atoms defy familiar organizational rules, forming a highly excited yet surprisingly orderly configuration called a \"fractional Fermi sea.\" The discovery challenges established quantum theories and"
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261018084644.htm",
-   "image": null,
-   "published_at": "2026-10-18T13:37:21Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "2c964add81f68717aa790aed9467d0b8580d8dfa",
-   "title": "Eating blueberries every day may have a surprising effect on your mood",
-   "summary": [
-    "Eating blueberries every day could have surprising effects on mood, according to a small study that found greater reductions in depressive symptoms among older adults who consumed the fruit for three months.",
-    "Researchers also detected changes in gut microbial enzymes, suggesting a possible gut-brain connection, although the mood benefits were not statistically significant compared with a placebo."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261017230028.htm",
-   "image": null,
-   "published_at": "2026-10-18T13:22:24Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "a4e6473040ab1bce08c1ef3e5f38c992b333a352",
-   "title": "Magic mushroom ingredient takes the fight out of aggressive fish",
-   "summary": [
-    "A psychedelic compound found in magic mushrooms appears to have an unexpected effect: calming highly aggressive fish.",
-    "Researchers discovered that low doses of psilocybin significantly reduced aggressive attacks in mangrove rivulus fish without disrupting their normal social interactions.",
-    "The findings suggest psilocybin may selectively calm escalating aggression rather than simply suppressing all behavior."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261017230036.htm",
-   "image": null,
-   "published_at": "2026-10-18T12:52:13Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "3229c3fdb6fce4fbad918d29d86a28a26f7f372d",
-   "title": "Scientists discover a surprising twist in Japan's 7,300-year-old volcanic apocalypse",
-   "summary": [
-    "A catastrophic volcanic eruption 7,300 years ago devastated Japan, but new research reveals that its impact on prehistoric populations was far more complex than previously believed.",
-    "While some communities disappeared or declined, others unexpectedly flourished as survivors migrated, adapted, and found new ways to thrive."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261017230023.htm",
-   "image": null,
-   "published_at": "2026-10-18T12:36:21Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "329bc89d42246aab0604b46693733cfea522bebc",
-   "title": "Scientists uncover 3 key brain pathways linked to lasting depression relief",
-   "summary": [
-    "Researchers have uncovered three brain pathways linked to lasting improvements in people receiving deep brain stimulation for severe, treatment-resistant depression.",
-    "They also discovered that patients who failed to improve after two years shared a striking pattern: insufficient stimulation of a crucial brain connection.",
-    "The findings suggest that millimeters in electrode placement could make a major difference in treatment outcomes."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261017230021.htm",
-   "image": null,
-   "published_at": "2026-10-18T12:19:08Z",
    "category": "science",
    "related": []
   }

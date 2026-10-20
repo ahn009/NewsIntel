@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-20T00:14:53.670629Z",
- "story_count": 15,
+ "generated_at": "2026-10-20T05:55:43.632780Z",
+ "story_count": 17,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,32 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "cc5cd45176354a9f9959baa81d230cd461bee004",
+   "title": "Food aid charity under pressure from fuel costs",
+   "summary": [
+    "FareShare South West says fuel costs are putting immense pressure on work helping thousands in need."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqy0rxw37x2eo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-20T05:15:16Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "4d01c3f05fdce7e3a6784540bde6d01d9fed6bde",
+   "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
+   "summary": [
+    "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-20T01:31:09Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "e717e1eb5a82a8681217387a4191b636f918f14f",
    "title": "'I'm fed up of swiping': Why singles now want to meet IRL",
@@ -85,6 +111,19 @@
    "url": "https://www.bbc.co.uk/news/articles/c9zrdpg7256yo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-19T15:44:53Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "b2284d6e2a78983503c6f43c23a2b66c12cde577",
+   "title": "France hit by debt sell-off as violent protests unnerve investors",
+   "summary": [
+    "Difference between French and German borrowing costs widens after public buildings burned and shops lootedFrance has been hit by a fresh wave of selling in its bond and stock markets after violent protests over the weekend led to thousands of arrests and left public buildings burned and hundreds of shops looted across the country.The chaos has spooked investors as analysts worried that it would undermine Paris’s efforts to cut spending and reduce its debt."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/19/france-hit-by-debt-sell-off-as-protests-unnerve-investors",
+   "image": "https://i.guim.co.uk/img/media/ff2dc74cc6caff96ab8cb23e046cdf2ad57f24bc/404_72_1229_983/master/1229.jpg?width=140&quality=85&auto=format&fit=max&s=3167ef4b892b87cebb6ae8c3258006bb",
+   "published_at": "2026-10-19T15:23:54Z",
    "category": "business",
    "related": []
   },
@@ -204,19 +243,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-18T23:28:45Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "6ce8d55f576332f723808cbf67373734290960d1",
-   "title": "Microsoft pulls out of UK's largest AI data centre",
-   "summary": [
-    "Tech firm Nscale says it is still committed to building the site in Essex."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-18T16:46:42Z",
    "category": "business",
    "related": []
   }

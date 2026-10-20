@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T00:14:53.670004Z",
+ "generated_at": "2026-10-20T05:55:43.632130Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -24,10 +24,103 @@
  },
  "stories": [
   {
-   "id": "d2d456617f7ca28de3ac7afd11a18147e55edce7",
-   "title": "France's Supermarket Fridges Were Vulnerable Online for Months",
+   "id": "7f1d2ed9d3444468622a21847cebba3a533e09a8",
+   "title": "Americans Are Spending More Money to Drive Worse Cars",
    "summary": [
-    "Article URL: https://ipinfo.io/blog/france-fridges-hack Comments URL: https://news.ycombinator.com/item?id=50159616 Points: 4 # Comments: 0"
+    "Article URL: https://www.theatlantic.com/technology/2026/10/americans-not-buying-electric-cars/689071/ Comments URL: https://news.ycombinator.com/item?id=50161505 Points: 12 # Comments: 3"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.theatlantic.com/technology/2026/10/americans-not-buying-electric-cars/689071/",
+   "image": null,
+   "published_at": "2026-10-20T04:55:36Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "e4980aa15f219508290f57e86030e13525aaea6c",
+   "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
+   "summary": [
+    "Hi HN,I'm Peter Bishop and I've been working in graphics and web tech for over 25yrs.I've recently launched Death Plan Switch to solve a major problem in my succession plan.",
+    "It was authored with the help of Claude Code after writing an extensive MD document and it passed 42 unit tests.I hope you get some use out of it, or it inspires your own succession plans.",
+    "My clients are telling me this is a strong sales feature when they trust me with their hosting and technology accounts.Happy to answer any questions.Kind regards, Peter Bishop."
+   ],
+   "source": "Hacker News",
+   "url": "https://deathplanswitch.com/",
+   "image": null,
+   "published_at": "2026-10-20T04:37:43Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "2abd5bd154eb39a82a07b7efabd80f59607e2191",
+   "title": "U.S. Supreme Court to review 1868 federal ban on home distilling of liquor",
+   "summary": [
+    "Article URL: https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/ Comments URL: https://news.ycombinator.com/item?id=50161207 Points: 27 # Comments: 24"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/",
+   "image": null,
+   "published_at": "2026-10-20T04:02:26Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "c5d69ce6a7506f3d9da9174ee2d6829dd73c67b5",
+   "title": "Go will reject certificate chains containing eight distrusted SPKIs",
+   "summary": [
+    "Article URL: https://github.com/golang/go/issues/82345 Comments URL: https://news.ycombinator.com/item?id=50160877 Points: 35 # Comments: 15"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/golang/go/issues/82345",
+   "image": null,
+   "published_at": "2026-10-20T03:05:07Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "324c8251684e58ee3ef2f4b1a5f8844c58cd3416",
+   "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
+   "summary": [
+    "Flipkart has expanded access to its food-delivery service to thousands of employees ahead of its public launch."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/",
+   "image": null,
+   "published_at": "2026-10-20T02:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "e9f6e03adc36285ae0f8a61feda32b16fcdddf19",
+   "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+   "summary": [
+    "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+   "image": null,
+   "published_at": "2026-10-20T01:27:03Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "21913ad05882245ea5df9a59b2e17f35991d626b",
+   "title": "Developing Taste",
+   "summary": [
+    "Article URL: https://emilkowal.ski/ui/developing-taste Comments URL: https://news.ycombinator.com/item?id=50160135 Points: 28 # Comments: 24"
+   ],
+   "source": "Hacker News",
+   "url": "https://emilkowal.ski/ui/developing-taste",
+   "image": null,
+   "published_at": "2026-10-20T01:12:03Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "d2d456617f7ca28de3ac7afd11a18147e55edce7",
+   "title": "France's supermarket fridges were vulnerable online for months",
+   "summary": [
+    "Related: Hackers activate automatic defrosting in supermarket fridges across Europe - https://news.ycombinator.com/item?id=50055304 - Oct 2026 (1007 comments) Comments URL: https://news.ycombinator.com/item?id=50159616 Points: 89 # Comments: 71"
    ],
    "source": "Hacker News",
    "url": "https://ipinfo.io/blog/france-fridges-hack",
@@ -37,24 +130,10 @@
    "related": []
   },
   {
-   "id": "38d7e2a37a930970cc7dfde5193c9dfe98269b38",
-   "title": "Token-maxxing is dead, OpenRouter's token usage plateaus",
-   "summary": [
-    "Article URL: https://openrouter.ai/rankings Comments URL: https://news.ycombinator.com/item?id=50159464 Points: 8 # Comments: 2"
-   ],
-   "source": "Hacker News",
-   "url": "https://openrouter.ai/rankings",
-   "image": null,
-   "published_at": "2026-10-19T23:40:15Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "c86664b601af4728e70f42986186240f5b066378",
-   "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+   "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
    "summary": [
-    "In August, Nscale and Anthropic announced a $45 billion compute deal.",
-    "The two companies are reportedly discussing yet another deal of the same magnitude."
+    "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year."
    ],
    "source": "TechCrunch",
    "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
@@ -64,10 +143,23 @@
    "related": []
   },
   {
-   "id": "055912be3d369fe6bfed7c37a7018ca4f23d714b",
-   "title": "“bonsoir, Elliot”: How abliterated models can get you pwned",
+   "id": "efa8c4c666c628dd9409809bd8deca16355de77a",
+   "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
    "summary": [
-    "Article URL: https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned Comments URL: https://news.ycombinator.com/item?id=50159245 Points: 4 # Comments: 0"
+    "Article URL: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions Comments URL: https://news.ycombinator.com/item?id=50159341 Points: 201 # Comments: 34"
+   ],
+   "source": "Hacker News",
+   "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+   "image": null,
+   "published_at": "2026-10-19T23:22:18Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "055912be3d369fe6bfed7c37a7018ca4f23d714b",
+   "title": "How abliterated models can get you pwned",
+   "summary": [
+    "Article URL: https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned Comments URL: https://news.ycombinator.com/item?id=50159245 Points: 73 # Comments: 46"
    ],
    "source": "Hacker News",
    "url": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
@@ -80,8 +172,7 @@
    "id": "2eba6fdc38ff53cfa4a358afa8297d6016497f28",
    "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
    "summary": [
-    "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another.",
-    "However, the methods behind these evaluations are complicated and still maturing, said Irene Solaiman, Hugging Face’s chief policy officer, during a discussion at TechCrunch […]"
+    "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of "
    ],
    "source": "TechCrunch",
    "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
@@ -94,7 +185,7 @@
    "id": "0e19bec78e364455f491b685a07a59716d399135",
    "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
    "summary": [
-    "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic."
+    "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic."
    ],
    "source": "TechCrunch",
    "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
@@ -104,23 +195,10 @@
    "related": []
   },
   {
-   "id": "4405f537c694ad33f310f938b5d7ca73501f0e3c",
-   "title": "Drupal is now light-years ahead of its reputation",
-   "summary": [
-    "Article URL: https://dri.es/state-of-drupal-presentation-september-2026 Comments URL: https://news.ycombinator.com/item?id=50158408 Points: 16 # Comments: 13"
-   ],
-   "source": "Hacker News",
-   "url": "https://dri.es/state-of-drupal-presentation-september-2026",
-   "image": null,
-   "published_at": "2026-10-19T21:38:02Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "ac0d997f52653a2bc65f8c87bc6a4966b5853151",
    "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
    "summary": [
-    "Article URL: https://bsd.network/@brynet/117407035545900963 Comments URL: https://news.ycombinator.com/item?id=50158138 Points: 62 # Comments: 10"
+    "Article URL: https://bsd.network/@brynet/117407035545900963 Comments URL: https://news.ycombinator.com/item?id=50158138 Points: 133 # Comments: 28"
    ],
    "source": "Hacker News",
    "url": "https://bsd.network/@brynet/117407035545900963",
@@ -133,7 +211,7 @@
    "id": "e3ef569967110d0cce9be6a2ab255bbd9fec29a5",
    "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
    "summary": [
-    "Article URL: https://josie.lol/blog/linux-rtx-spark Comments URL: https://news.ycombinator.com/item?id=50158100 Points: 155 # Comments: 69"
+    "Article URL: https://josie.lol/blog/linux-rtx-spark Comments URL: https://news.ycombinator.com/item?id=50158100 Points: 212 # Comments: 99"
    ],
    "source": "Hacker News",
    "url": "https://josie.lol/blog/linux-rtx-spark",
@@ -146,7 +224,7 @@
    "id": "c14921202a85ae43b61db22ec6c9cdbad9e9dcd7",
    "title": "One Hash Bloom Filters",
    "summary": [
-    "Article URL: https://calabro.io/ohbf Comments URL: https://news.ycombinator.com/item?id=50157865 Points: 30 # Comments: 2"
+    "Article URL: https://calabro.io/ohbf Comments URL: https://news.ycombinator.com/item?id=50157865 Points: 76 # Comments: 10"
    ],
    "source": "Hacker News",
    "url": "https://calabro.io/ohbf",
@@ -183,19 +261,6 @@
    "related": []
   },
   {
-   "id": "c198b0bca3b0e8a7175cce57045aacdf505a3b44",
-   "title": "The End of Rationing",
-   "summary": [
-    "Article URL: https://sanketsaurav.com/writing/end-of-rationing Comments URL: https://news.ycombinator.com/item?id=50156744 Points: 23 # Comments: 15"
-   ],
-   "source": "Hacker News",
-   "url": "https://sanketsaurav.com/writing/end-of-rationing",
-   "image": null,
-   "published_at": "2026-10-19T19:19:33Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "1ef5dd457f6d14300242e0fda849bb7d8f8d2196",
    "title": "Tolan snags $30M for its AI companion that helps users navigate life",
    "summary": [
@@ -219,19 +284,6 @@
    "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
    "image": null,
    "published_at": "2026-10-19T18:49:04Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "5e113e86ceaa012cb7b719390682b38118b62ddc",
-   "title": "The reverts will continue until morale improves",
-   "summary": [
-    "Article URL: http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves Comments URL: https://news.ycombinator.com/item?id=50156206 Points: 179 # Comments: 30"
-   ],
-   "source": "Hacker News",
-   "url": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
-   "image": null,
-   "published_at": "2026-10-19T18:42:32Z",
    "category": "tech",
    "related": []
   },
@@ -288,24 +340,6 @@
    "related": []
   },
   {
-   "id": "f30a44480c497b17dc53e12aa212b5f24780430d",
-   "title": "Mercury 3: Diffusion at scale",
-   "summary": [
-    "Article URL: https://www.inceptionlabs.ai/blog/introducing-mercury-3 Comments URL: https://news.ycombinator.com/item?id=50155245 Points: 213 # Comments: 84"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
-   "image": null,
-   "published_at": "2026-10-19T17:27:11Z",
-   "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "https://www.minimax.io/blog/minimax-m31f"
-    }
-   ]
-  },
-  {
    "id": "7a6b76a5b521d2ecc2aae21c1889c530555f5bfb",
    "title": "Evidence (YC S21) Is Hiring Software Engineers",
    "summary": [
@@ -336,12 +370,25 @@
    "id": "76a5f348416759f795f56b4ebc31cba07679a186",
    "title": "Android apps running native on macOS",
    "summary": [
-    "Article URL: https://github.com/kksimp/Mac.apk Comments URL: https://news.ycombinator.com/item?id=50154624 Points: 241 # Comments: 115"
+    "Article URL: https://github.com/kksimp/Mac.apk Comments URL: https://news.ycombinator.com/item?id=50154624 Points: 292 # Comments: 156"
    ],
    "source": "Hacker News",
    "url": "https://github.com/kksimp/Mac.apk",
    "image": null,
    "published_at": "2026-10-19T16:45:30Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "203c0f23de8f44f05e169ddb45b7a414196db499",
+   "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+   "summary": [
+    "https://public-inspection.federalregister.gov/2026-21447.pdf Comments URL: https://news.ycombinator.com/item?id=50154244 Points: 114 # Comments: 107"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+   "image": null,
+   "published_at": "2026-10-19T16:16:46Z",
    "category": "tech",
    "related": []
   },
@@ -375,25 +422,12 @@
    "id": "5c911fea00148dc110ea30f21f45689a2ae2a092",
    "title": "Ukraine claims first drone evacuation of wounded soldier",
    "summary": [
-    "Article URL: https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310 Comments URL: https://news.ycombinator.com/item?id=50153664 Points: 64 # Comments: 65"
+    "Article URL: https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310 Comments URL: https://news.ycombinator.com/item?id=50153664 Points: 192 # Comments: 145"
    ],
    "source": "Hacker News",
    "url": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
    "image": null,
    "published_at": "2026-10-19T15:31:34Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "01db0834cbe3eefc427d73b9cf6bf4fcdeb9aa0f",
-   "title": "Agentic Monitoring",
-   "summary": [
-    "Article URL: https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/ Comments URL: https://news.ycombinator.com/item?id=50153225 Points: 26 # Comments: 2"
-   ],
-   "source": "Hacker News",
-   "url": "https://benjamincongdon.me/blog/2026/10/19/Agentic-Monitoring/",
-   "image": null,
-   "published_at": "2026-10-19T14:52:04Z",
    "category": "tech",
    "related": []
   },
@@ -411,43 +445,22 @@
    "related": []
   },
   {
-   "id": "0d4cb5cd63ce44456177418fc4b66546bb37cc76",
-   "title": "Plex vulnerabilities being exploited in the wild to drop a cryptominer",
-   "summary": [
-    "Article URL: http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html Comments URL: https://news.ycombinator.com/item?id=50152321 Points: 139 # Comments: 65"
-   ],
-   "source": "Hacker News",
-   "url": "http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html",
-   "image": null,
-   "published_at": "2026-10-19T13:36:43Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "5ef96e687c3da995106111b48510828763e4425f",
    "title": "Wine ported to OpenBSD",
    "summary": [
-    "Article URL: https://marc.info/?l=openbsd-ports&m=179236125692175 Comments URL: https://news.ycombinator.com/item?id=50152307 Points: 485 # Comments: 162"
+    "Article URL: https://marc.info/?l=openbsd-ports&m=179236125692175 Comments URL: https://news.ycombinator.com/item?id=50152307 Points: 537 # Comments: 178"
    ],
    "source": "Hacker News",
    "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
    "image": null,
    "published_at": "2026-10-19T13:35:34Z",
    "category": "tech",
-   "related": []
-  },
-  {
-   "id": "42a46b4f5e3548110916fb1fe095cc4b155dfc99",
-   "title": "Honey, I shrunk the TV",
-   "summary": [
-    "Article URL: https://cakehonolulu.github.io/honey-i-shrunk-the-tv/ Comments URL: https://news.ycombinator.com/item?id=50151971 Points: 6 # Comments: 11"
-   ],
-   "source": "Hacker News",
-   "url": "https://cakehonolulu.github.io/honey-i-shrunk-the-tv/",
-   "image": null,
-   "published_at": "2026-10-19T13:06:21Z",
-   "category": "tech",
-   "related": []
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://www.openbsd.org/80.html"
+    }
+   ]
   },
   {
    "id": "7492bc28d54713bae7d821251939cb88de2d104e",
@@ -512,21 +525,6 @@
    "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
    "image": null,
    "published_at": "2026-10-19T12:30:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "49db83e253edbf0771d468b99bafbdd0476979fa",
-   "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
-   "summary": [
-    "I saw this LinkedIn post from a Meta engineer and it resonated with me:https://www.linkedin.com/posts/ali-hamie_im-an-engineer-at-m...> I'm an engineer at Meta and I never felt this uncomfortable doing my job.",
-    "This new standard of shipping with AI is moving so fast that if we're going to spend our time checking each line of code, it's going to take forever.",
-    "That means you can end up with systems you've built where you don't truly understand how all the code works."
-   ],
-   "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50151036",
-   "image": null,
-   "published_at": "2026-10-19T11:24:34Z",
    "category": "tech",
    "related": []
   },
