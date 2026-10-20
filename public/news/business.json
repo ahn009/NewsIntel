@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-19T20:32:14.718399Z",
- "story_count": 14,
+ "generated_at": "2026-10-20T00:14:53.670629Z",
+ "story_count": 15,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,32 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "e717e1eb5a82a8681217387a4191b636f918f14f",
+   "title": "'I'm fed up of swiping': Why singles now want to meet IRL",
+   "summary": [
+    "The BBC hears from people who think dating events are better value for money than dating apps."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-19T23:00:21Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "5403fef440342c2edae6f73f444d9a1ab7ae8bd4",
+   "title": "Burnham vows end to 'rip-off parking charges' under new rules",
+   "summary": [
+    "Penalties are seen as too harsh on motorists who are penalised for parking on private land."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-19T21:30:06Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "8ae589bfc27cfdccd479c828b552f693ba630016",
    "title": "Christiane Amanpour announces she’s leaving CNN after 43 years",
@@ -191,19 +217,6 @@
    "url": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-18T16:46:42Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "5a89324960192d9993eb214635fe31fe066b3530",
-   "title": "Gleaning group gives £1m of produce to food banks",
-   "summary": [
-    "Gleaning Cornwall warns that more funding is needed as costs rise sharply."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6n49w1r2zxjo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-18T11:03:04Z",
    "category": "business",
    "related": []
   }
