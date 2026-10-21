@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T23:47:52.116434Z",
+ "generated_at": "2026-10-21T04:32:38.492521Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -24,15 +24,72 @@
  },
  "stories": [
   {
-   "id": "9dabda8095fb9caeac3413258efa3884fad7e615",
-   "title": "Elon Musk says Tesla-SpaceX merger being considered",
+   "id": "33599bcfdf8cb5f8efb7562512c80e2f9509d298",
+   "title": "Why does Elon Musk want to merge Tesla and SpaceX?",
    "summary": [
-    "Musk says special committees within both companies have been formed to look at a possible mega-merger."
+    "Musk, who is CEO of both companies, says there is \"a lot to be gained\" from the merger, which would be the biggest in history."
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-10-20T23:24:47Z",
+   "published_at": "2026-10-21T04:13:14Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "bdb88679f529b4c4be2eb516926a51000a8f84c1",
+   "title": "In Hilbert space, all things are quantumly possible",
+   "summary": [
+    "Article URL: https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/ Comments URL: https://news.ycombinator.com/item?id=50175185 Points: 41 # Comments: 14"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+   "image": null,
+   "published_at": "2026-10-21T02:04:15Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "d549b64b708f07880b2bfe201aa66f5554ab4d0b",
+   "title": "The Future of CSS",
+   "summary": [
+    "Article URL: https://www.joshwcomeau.com/css/interop-2027/ Comments URL: https://news.ycombinator.com/item?id=50175070 Points: 98 # Comments: 30"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.joshwcomeau.com/css/interop-2027/",
+   "image": null,
+   "published_at": "2026-10-21T01:47:28Z",
+   "category": "tech",
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://mistral.ai/news/voxtral-3/"
+    }
+   ]
+  },
+  {
+   "id": "ca55d2a799660d026b6c2981af367751384e1f59",
+   "title": "Good type against all odds",
+   "summary": [
+    "Article URL: https://unsung.aresluna.org/good-type-against-all-odds/ Comments URL: https://news.ycombinator.com/item?id=50175059 Points: 47 # Comments: 8"
+   ],
+   "source": "Hacker News",
+   "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
+   "image": null,
+   "published_at": "2026-10-21T01:45:07Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "add383da2fc04409f1dd09256501af880b928040",
+   "title": "Muse exposes users' personal and business secrets when they share conversations",
+   "summary": [
+    "Article URL: https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/ Comments URL: https://news.ycombinator.com/item?id=50174687 Points: 22 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+   "image": null,
+   "published_at": "2026-10-21T00:45:59Z",
    "category": "tech",
    "related": []
   },
@@ -53,7 +110,7 @@
    "id": "3ce7834bc9511b94d4aaa0fc6f71b695b184a7fa",
    "title": "The Other Epidemic: Trying to get off benzodiazepines",
    "summary": [
-    "Article URL: https://www.thebeliever.net/the-other-epidemic/ Comments URL: https://news.ycombinator.com/item?id=50173891 Points: 12 # Comments: 3"
+    "https://web.archive.org/web/20261020230542/https://www.thebe...https://archive.ph/Tb1SZ Comments URL: https://news.ycombinator.com/item?id=50173891 Points: 110 # Comments: 76"
    ],
    "source": "Hacker News",
    "url": "https://www.thebeliever.net/the-other-epidemic/",
@@ -89,6 +146,19 @@
    "related": []
   },
   {
+   "id": "978228b9babb831fb24a9a3037d68f9dc5631acd",
+   "title": "PingCap TiDB Leaks",
+   "summary": [
+    "Article URL: https://fulcrumsec.vg/pingcap/ Comments URL: https://news.ycombinator.com/item?id=50173716 Points: 64 # Comments: 9"
+   ],
+   "source": "Hacker News",
+   "url": "https://fulcrumsec.vg/pingcap/",
+   "image": null,
+   "published_at": "2026-10-20T22:45:39Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "342f3b31d43012d56958555ef24f9f05b5f28e83",
    "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
    "summary": [
@@ -106,7 +176,7 @@
    "id": "50c6d0722ed05d9a03aa5b87013aaa8c49a17ac4",
    "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
    "summary": [
-    "Article URL: https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/ Comments URL: https://news.ycombinator.com/item?id=50173487 Points: 31 # Comments: 1"
+    "Article URL: https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/ Comments URL: https://news.ycombinator.com/item?id=50173487 Points: 137 # Comments: 55"
    ],
    "source": "Hacker News",
    "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
@@ -132,7 +202,7 @@
    "id": "4e839948c5b0c27b01b9cd1bbdc88b65c472dd1d",
    "title": "SpaceX’s AI business is beating expectations",
    "summary": [
-    "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion."
+    "SpaceX hit profitability in the third quarter, with net income of $4.4 billion."
    ],
    "source": "TechCrunch",
    "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
@@ -155,6 +225,19 @@
    "related": []
   },
   {
+   "id": "428d542adc4907b5ad97740fca69a3842ab0b886",
+   "title": "Upcoming critical PHP security release",
+   "summary": [
+    "Article URL: https://news-web.php.net/php.announce/509 Comments URL: https://news.ycombinator.com/item?id=50172041 Points: 245 # Comments: 77"
+   ],
+   "source": "Hacker News",
+   "url": "https://news-web.php.net/php.announce/509",
+   "image": null,
+   "published_at": "2026-10-20T20:15:50Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "0e9ae3eb35f09261458a500a05c5704b95c1c3fc",
    "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
    "summary": [
@@ -168,13 +251,13 @@
    "related": []
   },
   {
-   "id": "f0c3d81726afc29ccbda9193ad983a37c12072f9",
+   "id": "360ade214ae70012071574ea2cd9e31440b77351",
    "title": "Tech Life",
    "summary": [
     "The next generation of chip is thinner and flexible when compared to traditional silicon."
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyl?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-20T19:45:00Z",
    "category": "tech",
@@ -195,7 +278,7 @@
   },
   {
    "id": "01dc03ee61c30a2eb54cd582442a4bec3af294d1",
-   "title": "GM to close Detroit battery assembly plant, but not for reasons you might think",
+   "title": "GM to close Detroit battery-assembly plant, but not for reasons you might think",
    "summary": [
     "GM is shuttering the Brownstown Battery Assembly Plant, though the closure has nothing to do with the automaker's electrification strategy."
    ],
@@ -218,19 +301,6 @@
    "url": "https://www.theguardian.com/global/2026/oct/19/midterm-elections-tech-broligarchs",
    "image": "https://i.guim.co.uk/img/media/a49e30a11ac40a6645f2c7e72f02d47b8b5b7b42/418_0_4202_3362/master/4202.jpg?width=140&quality=85&auto=format&fit=max&s=0b0225afb15e32d7cf71513a42f7f082",
    "published_at": "2026-10-20T19:16:05Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "774d167c225366cb1233eb6ee982c64e29a0c53b",
-   "title": "Academics have a duty to defend open knowledge systems like Wikipedia",
-   "summary": [
-    "Article URL: https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/ Comments URL: https://news.ycombinator.com/item?id=50170917 Points: 68 # Comments: 25"
-   ],
-   "source": "Hacker News",
-   "url": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
-   "image": null,
-   "published_at": "2026-10-20T18:51:40Z",
    "category": "tech",
    "related": []
   },
@@ -261,6 +331,19 @@
    "related": []
   },
   {
+   "id": "3e2f3407495458f5a1e8e188d50d894e0ddb22a0",
+   "title": "Show HN: SimCity, but with Permits",
+   "summary": [
+    "Article URL: https://permit.petercai.com/ Comments URL: https://news.ycombinator.com/item?id=50170593 Points: 653 # Comments: 334"
+   ],
+   "source": "Hacker News",
+   "url": "https://permit.petercai.com/",
+   "image": null,
+   "published_at": "2026-10-20T18:29:09Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "fe3c4bd5e6db63db6c3af795dd3323ca83d9cc50",
    "title": "Google resolves cloud outage affecting UK banks and websites",
    "summary": [
@@ -277,7 +360,7 @@
    "id": "7fe075e5e5f0f49c391dce2f9657e21870347909",
    "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
    "summary": [
-    "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported."
+    "Eric Schmidt’s fortune is about to get even bigger."
    ],
    "source": "TechCrunch",
    "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
@@ -287,15 +370,15 @@
    "related": []
   },
   {
-   "id": "c021c28354e5e9fa746ec1a8d4bae08bd2f92401",
-   "title": "Claude designed protein binders against scorpion neurotoxins",
+   "id": "7a364f356aab49466020015082ef4122a7394f52",
+   "title": "Advanced coding in low-resource programming languages",
    "summary": [
-    "Article URL: https://www.anthropic.com/research/claude-scorpion-toxin-binder-design Comments URL: https://news.ycombinator.com/item?id=50170021 Points: 86 # Comments: 52"
+    "Article URL: https://openai.com/index/low-resource-programming-languages/ Comments URL: https://news.ycombinator.com/item?id=50169955 Points: 51 # Comments: 65"
    ],
    "source": "Hacker News",
-   "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+   "url": "https://openai.com/index/low-resource-programming-languages/",
    "image": null,
-   "published_at": "2026-10-20T17:48:29Z",
+   "published_at": "2026-10-20T17:43:11Z",
    "category": "tech",
    "related": []
   },
@@ -303,7 +386,7 @@
    "id": "c6afd5cf7a3f58c66b208974af3a6fda972cd7f8",
    "title": "What shall I teach my son?",
    "summary": [
-    "Article URL: https://stevekrouse.com/ends Comments URL: https://news.ycombinator.com/item?id=50169707 Points: 208 # Comments: 280"
+    "Article URL: https://stevekrouse.com/ends Comments URL: https://news.ycombinator.com/item?id=50169707 Points: 319 # Comments: 388"
    ],
    "source": "Hacker News",
    "url": "https://stevekrouse.com/ends",
@@ -314,15 +397,27 @@
   },
   {
    "id": "319f79c551eec14d09b77c2375f3d799121baccd",
-   "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+   "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
    "summary": [
-    "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads.",
     "New data also shows Muse is retaining users at higher rates than its AI rivals."
    ],
    "source": "TechCrunch",
    "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
    "image": null,
    "published_at": "2026-10-20T17:12:48Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "9db297d256fa75d3fa4a2c74a9f7c3c9dcad6f41",
+   "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
+   "summary": [
+    "Article URL: https://research.poh.org/bot-benchmarking-2026/ Comments URL: https://news.ycombinator.com/item?id=50169506 Points: 36 # Comments: 2"
+   ],
+   "source": "Hacker News",
+   "url": "https://research.poh.org/bot-benchmarking-2026/",
+   "image": null,
+   "published_at": "2026-10-20T17:10:31Z",
    "category": "tech",
    "related": []
   },
@@ -343,7 +438,7 @@
    "id": "2f990e26e9aeea90981c3313d605e88dfa8ebd72",
    "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
    "summary": [
-    "Article URL: https://github.com/google-pytorch/torch_tpu Comments URL: https://news.ycombinator.com/item?id=50169053 Points: 234 # Comments: 56"
+    "Article URL: https://github.com/google-pytorch/torch_tpu Comments URL: https://news.ycombinator.com/item?id=50169053 Points: 292 # Comments: 65"
    ],
    "source": "Hacker News",
    "url": "https://github.com/google-pytorch/torch_tpu",
@@ -354,7 +449,7 @@
   },
   {
    "id": "2d379e8ffc916c9e986d1d2bf8f9461863f2b943",
-   "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’",
+   "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
    "summary": [
     "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity."
    ],
@@ -364,24 +459,6 @@
    "published_at": "2026-10-20T16:20:06Z",
    "category": "tech",
    "related": []
-  },
-  {
-   "id": "afe5d96a9d4684fb96de500346e2384550461c1d",
-   "title": "Voxtral 3",
-   "summary": [
-    "Article URL: https://mistral.ai/news/voxtral-3/ Comments URL: https://news.ycombinator.com/item?id=50168396 Points: 482 # Comments: 133"
-   ],
-   "source": "Hacker News",
-   "url": "https://mistral.ai/news/voxtral-3/",
-   "image": null,
-   "published_at": "2026-10-20T16:02:07Z",
-   "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "https://permit.petercai.com/"
-    }
-   ]
   },
   {
    "id": "3b29865c9823b76c9bf34cc2795e01908909a9c0",
@@ -411,9 +488,9 @@
   },
   {
    "id": "b77bcbccfd34bceacd11c5376415bbdb5d66108a",
-   "title": "Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery",
+   "title": "Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery",
    "summary": [
-    "Article URL: https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery Comments URL: https://news.ycombinator.com/item?id=50168357 Points: 156 # Comments: 98"
+    "Article URL: https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery Comments URL: https://news.ycombinator.com/item?id=50168357 Points: 227 # Comments: 137"
    ],
    "source": "Hacker News",
    "url": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
@@ -426,7 +503,7 @@
    "id": "b803a95f35ccfc634eb2f330dccc1a5579d81dc9",
    "title": "IKEA – 3D Guide",
    "summary": [
-    "Article URL: https://sael.net/flatpack/ Comments URL: https://news.ycombinator.com/item?id=50168096 Points: 127 # Comments: 39"
+    "Article URL: https://sael.net/flatpack/ Comments URL: https://news.ycombinator.com/item?id=50168096 Points: 160 # Comments: 56"
    ],
    "source": "Hacker News",
    "url": "https://sael.net/flatpack/",
@@ -447,34 +524,6 @@
    "url": "https://www.theguardian.com/puzzles/crossword-blog/2026/oct/20/could-this-be-a-deep-blue-moment-for-the-cryptic-crossword",
    "image": "https://i.guim.co.uk/img/media/c6c720b35b47cb4d8acc8251786141517b5aaa4d/0_0_1676_1341/master/1676.jpg?width=140&quality=85&auto=format&fit=max&s=738d38dacdb921827ce299617ff525cb",
    "published_at": "2026-10-20T15:27:50Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "49db83e253edbf0771d468b99bafbdd0476979fa",
-   "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
-   "summary": [
-    "It handles tools, images, and reasoning protocols automatically: an application based on the OpenAI Realtime API can also use Gemini Live through the gateway, though not every feature translates.",
-    "When the client and provider use the same API, we preserve provider-specific fields in their native format, even if our shared structure doesn't have a field for them.",
-    "This stream model can represent both one-shot HTTP requests and long-lived bidirectional sessions.The gateway is open source at https://github.com/respanai/respan-gateway under the MIT or Apache-2.0 license."
-   ],
-   "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50167583",
-   "image": null,
-   "published_at": "2026-10-20T15:09:29Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "485bd8b965fc986566a0bb418d6fdc16f366f74e",
-   "title": "Facebook Pages require paid subscription to post more than two links per month",
-   "summary": [
-    "Article URL: https://mastodon.gamedev.place/@AshleyGullen/117473851565913919 Comments URL: https://news.ycombinator.com/item?id=50167536 Points: 400 # Comments: 362"
-   ],
-   "source": "Hacker News",
-   "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
-   "image": null,
-   "published_at": "2026-10-20T15:06:08Z",
    "category": "tech",
    "related": []
   },
@@ -503,60 +552,6 @@
    "url": "https://www.theguardian.com/tv-and-radio/2026/oct/20/smart-tv-television-dumb-wifi-techies-privacy",
    "image": "https://i.guim.co.uk/img/media/c76130a43f47b716e7e5287ec51e4b92a79536b8/968_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=6dd5b2ed4c9a6887d41a37420229ea9d",
    "published_at": "2026-10-20T14:42:25Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "f71b5653c551ca33c6ae6c3b66264a6f3d9486fa",
-   "title": "The dangers of letting tech billionaires shape our world",
-   "summary": [
-    "As SpaceX impacts Ukraine and AI-generated music divides artists and fans, critics are asking what happens when technology has too much control over our livesThis was originally published in TechScape, a newsletter about how technology shapes our lives.",
-    "I’m Blake Montgomery, US tech editor at the Guardian, writing to you while sitting in front of Roy Lichtenstein’s monumental Drowning Girl, on view in New York City.",
-    "Today in tech, we’re discussing the perils of Elon Musk’s one-man global infrastructure, AI-generated music and a Guardian AI conference in Paris."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/global/2026/oct/19/musk-ukraine-ai-music",
-   "image": "https://i.guim.co.uk/img/media/9df3eaa715484d3f560e4dea76d7dda82597ac00/188_0_4077_3262/master/4077.jpg?width=140&quality=85&auto=format&fit=max&s=b7b903174ee49baa9b374086769320ea",
-   "published_at": "2026-10-20T14:31:45Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "e236ed9f729d9da4b419ea089ba9f5017213e74f",
-   "title": "Ofcom concedes defeat in 4chan case",
-   "summary": [
-    "Article URL: https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/ Comments URL: https://news.ycombinator.com/item?id=50167028 Points: 305 # Comments: 208"
-   ],
-   "source": "Hacker News",
-   "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
-   "image": null,
-   "published_at": "2026-10-20T14:30:31Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "2c994902f27c08cb6cb7d8b47518fafce787e7de",
-   "title": "My Friend Bob Cringely",
-   "summary": [
-    "Article URL: https://tyma.com/my-cringe-story/ Comments URL: https://news.ycombinator.com/item?id=50166794 Points: 156 # Comments: 43"
-   ],
-   "source": "Hacker News",
-   "url": "https://tyma.com/my-cringe-story/",
-   "image": null,
-   "published_at": "2026-10-20T14:13:49Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "b3c5441d5c6702b698dc17998bf3da387df99c9e",
-   "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
-   "summary": [
-    "Figma said it plans to support as many standards as possible without exposing all of its data."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
-   "image": null,
-   "published_at": "2026-10-20T14:13:32Z",
    "category": "tech",
    "related": []
   }
