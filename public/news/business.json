@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-21T04:32:38.493159Z",
- "story_count": 17,
+ "generated_at": "2026-10-21T10:01:55.622613Z",
+ "story_count": 18,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,45 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "34f3b1766052c8f087bb90c85cccb7f96161c9fc",
+   "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
+   "summary": [
+    "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS)."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-21T09:45:31Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "072763dac95ce9e363c1b8839753cc2c2110a5f9",
+   "title": "What is happening to UK prices?",
+   "summary": [
+    "UK inflation rose in September, pushed up by higher petrol and diesel prices."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-21T08:35:47Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "a0c903dc150f4437596fbdec3b37782e1935cc8b",
+   "title": "Watch: 'We don't pay' - lawyer advises how to avoid £45,000 illegal-worker fine",
+   "summary": [
+    "Mohammad Alias Yousaf made his claim to an undercover reporter posing as a mini-mart owner."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/cm93z1j33dkpo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-21T05:00:54Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "a7db14ab145036e762a547d88ffbaabe6b5320a7",
    "title": "Audit regulator looking into Manchester City accounting",
@@ -50,19 +89,6 @@
    "related": []
   },
   {
-   "id": "13bef4e11e302ce5b7d7096d8b7844b91f256e8e",
-   "title": "UK government to make Jackdaw gas field announcement",
-   "summary": [
-    "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-20T17:33:42Z",
-   "category": "business",
-   "related": []
-  },
-  {
    "id": "bfba6319bd21ee9ee2e814d11426831efcfeb7e5",
    "title": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
    "summary": [
@@ -72,19 +98,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-20T15:53:13Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "4a94e60b504155fa7630adb7bacdebd1f80fa471",
-   "title": "US judge dismisses sexual abuse lawsuit from Sam Altman’s sister",
-   "summary": [
-    "Ann Altman, the Open AI CEO’s sister, accused her brother of repeatedly sexually abusing her over two decades agoA judge dismissed a lawsuit filed by Sam Altman’s sister against him on Tuesday."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/oct/20/judge-dismisses-sam-altman-sister-lawsuit",
-   "image": "https://i.guim.co.uk/img/media/75838f30224e162b4eb6bdee8b48450c74b734d7/293_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=d6ce2ff4ce8bc39283634779b951bc8a",
-   "published_at": "2026-10-20T15:34:04Z",
    "category": "business",
    "related": []
   },
@@ -206,6 +219,19 @@
    "related": []
   },
   {
+   "id": "03041eba281f778d8a344432e820b9d72a9ac0e0",
+   "title": "Hollywood AI-listers: is the technology ready to rival flesh-and-blood film stars?",
+   "summary": [
+    "Kilmer’s estate signed off on it, citing his enthusiasm for new technology that expands storytelling, but surely he would have been dismayed by this freaky doppelganger."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/film/2026/oct/20/ai-actors-val-kilmer-as-deep-as-the-grave-tilly-norwood",
+   "image": "https://i.guim.co.uk/img/media/69f15733860f5f7d23d5d775e35e0d3d293c3a18/187_0_906_725/master/906.jpg?width=140&quality=85&auto=format&fit=max&s=0b907620412ffbebb86f933c5971d7dd",
+   "published_at": "2026-10-20T06:00:18Z",
+   "category": "business",
+   "related": []
+  },
+  {
    "id": "cc5cd45176354a9f9959baa81d230cd461bee004",
    "title": "Food aid charity under pressure from fuel costs",
    "summary": [
@@ -229,19 +255,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-20T05:00:45Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "8ae589bfc27cfdccd479c828b552f693ba630016",
-   "title": "Christiane Amanpour announces she’s leaving CNN after 43 years",
-   "summary": [
-    "She also hosts a show for PBS, Amanpour and Company, that will conclude at the end of this year."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/media/2026/oct/19/christiane-amanpour-leaving-cnn",
-   "image": "https://i.guim.co.uk/img/media/b406b3723fac75582a4c6440ec2df4a8cded91b3/268_0_3861_3088/master/3861.jpg?width=140&quality=85&auto=format&fit=max&s=f48a69437ddafd14b2a198112e4e17e2",
-   "published_at": "2026-10-19T17:21:59Z",
    "category": "business",
    "related": []
   }

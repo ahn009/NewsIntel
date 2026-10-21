@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-21T04:32:38.493586Z",
- "story_count": 17,
+ "generated_at": "2026-10-21T10:01:55.622875Z",
+ "story_count": 22,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,71 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "1d0c8bc32f4c7cbc7147734299ad58b0a5d0e3b6",
+   "title": "Farmer lost out by minutes in race for wildlife funding",
+   "summary": [
+    "Richard Peace is among thousands of farmers who missed out as funding was snapped up in hours."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm9qznp3gdvdo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-21T09:49:32Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "a10f52599f93e917b969b991cec38cb399280584",
+   "title": "Amber warning issued as Storm Austen threatens UK with strong winds and heavy rain",
+   "summary": [
+    "The deep area of low pressure is expected to move close to the south of the UK early on Friday with south-west England set to bear the brunt."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/weather/articles/c6m24ln2j43go?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-21T09:04:26Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "b2529368adfc65305e646e64a1c75555f2f5e0ef",
+   "title": "Massive wasps' nest in wildlife office dismantled",
+   "summary": [
+    "The insects lived in a nature reserve office for four months."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cwx28pkn8p8yo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-21T05:35:38Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "92a9ccf205583d84f484c1388304e3c80394fac5",
+   "title": "Estate records 'abundance' of wildlife despite drought",
+   "summary": [
+    "Wimpole's \"long-term approach to nature recovery\" has seen more than 5,000 species recorded."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/crgqw4lg3y83o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-21T05:25:33Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "71c8e0bb2c11b50ad7f8eb8f216c0161f636d053",
+   "title": "Giant tunnel proposed to clean up Windermere's sewage problem",
+   "summary": [
+    "The plan would eliminate sewage spills into Windermere, blamed for turning the water green."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cr5yn4pky527o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-21T04:44:56Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "eb1a9004ea8afaccfe77b1cbc7a031b7528bc19c",
    "title": "Huge fin whale filmed off Welsh coast",
