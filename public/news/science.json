@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-21T19:16:44.211796Z",
- "story_count": 26,
+ "generated_at": "2026-10-21T23:12:23.431508Z",
+ "story_count": 24,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,32 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "e90e0ce6649690d8933fa82d36d8b314b196f4e0",
+   "title": "New lab to become centre for investigating uplands",
+   "summary": [
+    "The research facility in Penrith will also help train the next generation of environmental scientists."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmg473555gzko?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-21T20:36:12Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "856e6ee8a4b31e5eae3fd1dc0d14eee595e1becc",
+   "title": "Pupils who designed a badge sent to space meet NASA astronaut",
+   "summary": [
+    "Frank Rubio is set to be in the crew for the Artemis III mission and previously spent a year in space."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq78pzl85nglo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-21T19:39:38Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "3e706ff72eb482dd4ed9105a72abaa48ad978fd8",
    "title": "Fuel leak which killed fish in River Taff stopped",
@@ -185,19 +211,6 @@
    "related": []
   },
   {
-   "id": "1d0c8bc32f4c7cbc7147734299ad58b0a5d0e3b6",
-   "title": "Farmer lost out by minutes in race for wildlife funding",
-   "summary": [
-    "Richard Peace is among thousands of farmers who missed out as funding was snapped up in hours."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm9qznp3gdvdo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-21T09:49:32Z",
-   "category": "science",
-   "related": []
-  },
-  {
    "id": "5494d50f523eb36b0264a426614460fa76ba42ce",
    "title": "NASA’s Perseverance Mars rover just shattered the all-time off-world driving record",
    "summary": [
@@ -209,19 +222,6 @@
    "url": "https://www.sciencedaily.com/releases/2026/10/261020084818.htm",
    "image": null,
    "published_at": "2026-10-21T09:22:36Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "b2529368adfc65305e646e64a1c75555f2f5e0ef",
-   "title": "Massive wasps' nest in wildlife office dismantled",
-   "summary": [
-    "The insects lived in a nature reserve office for four months."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cwx28pkn8p8yo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-21T05:35:38Z",
    "category": "science",
    "related": []
   },
@@ -348,33 +348,6 @@
    "url": "https://www.sciencedaily.com/releases/2026/10/261019093357.htm",
    "image": null,
    "published_at": "2026-10-20T11:31:22Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "2a9a6d67ce668e542f9e26cccb7434dec5b2ee74",
-   "title": "Scientists find a way to fight Alzheimer’s brain damage without removing toxic tau",
-   "summary": [
-    "Scientists have found a promising way to protect the brain from Alzheimer’s-related damage by blocking immune cells that contribute to the destruction of neurons.",
-    "In mice, the treatment preserved roughly 40% more tissue in memory centers and improved memory, even without removing harmful tau protein buildup."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261019093355.htm",
-   "image": null,
-   "published_at": "2026-10-20T09:52:35Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "c4cbdafacd1ccc3d0f69a0b14717ac6c06e85be2",
-   "title": "Storm Austen to bring severe gales to UK as weather warning issued",
-   "summary": [
-    "The first named storm of the season - Austen - will bring damaging winds and heavy rain to parts of the UK on Friday."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/weather/articles/c9rkyjzgp6kdo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-20T09:42:56Z",
    "category": "science",
    "related": []
   }
