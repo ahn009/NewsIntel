@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T15:06:02.040272Z",
+ "generated_at": "2026-10-21T19:16:44.210750Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -24,10 +24,264 @@
  },
  "stories": [
   {
+   "id": "5ec447e33d032301b2573f06b7aba6285f93f824",
+   "title": "The internet is having a very bad cybersecurity day",
+   "summary": [
+    "From AI-discovered PHP vulnerabilities to flaws in Node.js and popular AI tool LiteLLM, cybersecurity teams have plenty to worry about this week."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/",
+   "image": null,
+   "published_at": "2026-10-21T19:03:28Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "7029da4abf6c5addf96aac8b438fd0ad257e8685",
+   "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
+   "summary": [
+    "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
+   "image": null,
+   "published_at": "2026-10-21T18:51:56Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "51710a64a95fbf4f904c0f19d002327f3de9a68b",
+   "title": "Anthropic's Public Benefit Charter",
+   "summary": [
+    "Article URL: https://www.anthropic.com/public-benefit-charter Comments URL: https://news.ycombinator.com/item?id=50185438 Points: 13 # Comments: 3"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.anthropic.com/public-benefit-charter",
+   "image": null,
+   "published_at": "2026-10-21T18:29:54Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "31125bdc0607e2faf1a3d8df6e90dd7ce3e27aa3",
+   "title": "Corporate Linux",
+   "summary": [
+    "Article URL: https://lpar.ATH0.com/posts/2026/10/corporate-linux/ Comments URL: https://news.ycombinator.com/item?id=50185403 Points: 7 # Comments: 3"
+   ],
+   "source": "Hacker News",
+   "url": "https://lpar.ATH0.com/posts/2026/10/corporate-linux/",
+   "image": null,
+   "published_at": "2026-10-21T18:27:54Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "24ef6dac1760fd75cf7c5bd88b29f405b68ef9db",
+   "title": "The compiler was supposed to end programming too",
+   "summary": [
+    "Article URL: https://hrih.si/articles/the-compiler-was-supposed-to-end-programming/ Comments URL: https://news.ycombinator.com/item?id=50185045 Points: 41 # Comments: 32"
+   ],
+   "source": "Hacker News",
+   "url": "https://hrih.si/articles/the-compiler-was-supposed-to-end-programming/",
+   "image": null,
+   "published_at": "2026-10-21T18:00:51Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "7c5ac7acb9140bcb4adec44e3eece7b778cd6473",
+   "title": "GM is giving OnStar an AI makeover",
+   "summary": [
+    "It's one of the biggest overhauls ever to the 30-year-old connected car product."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/",
+   "image": null,
+   "published_at": "2026-10-21T18:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a61190ef2d9200f3357d076bfafea704bc5a224c",
+   "title": "PHP armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+   "summary": [
+    "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+   "image": null,
+   "published_at": "2026-10-21T17:59:12Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "af5d3897eb075e9452e942e6e2bcc54bc1710019",
+   "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+   "summary": [
+    "Article URL: https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html Comments URL: https://news.ycombinator.com/item?id=50184820 Points: 42 # Comments: 23"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+   "image": null,
+   "published_at": "2026-10-21T17:45:13Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "bbc988e4da29f2449ebff0a3612e0807c0bf32f5",
+   "title": "EA is shutting down BioWare",
+   "summary": [
+    "Article URL: https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware Comments URL: https://news.ycombinator.com/item?id=50184586 Points: 187 # Comments: 105"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+   "image": null,
+   "published_at": "2026-10-21T17:29:33Z",
+   "category": "tech",
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://opensourcegames.dev/"
+    }
+   ]
+  },
+  {
+   "id": "7427c42a84e4ca5bc108d60677cc2711acdf4ce9",
+   "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+   "summary": [
+    "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+   "image": null,
+   "published_at": "2026-10-21T17:18:27Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "7f5dac2949e68c0a3ad4feda51d8ae2ecc73e430",
+   "title": "Just Eat apologises for AI food mistakes after social media ridicule",
+   "summary": [
+    "A spokesperson said it was removing inaccurate AI images and pausing the rollout of the tool."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-21T17:04:13Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "27160a9176833546c5fd12f8889bf084ae2293b4",
+   "title": "Waymo starts offering rides at the Las Vegas airport",
+   "summary": [
+    "Pickups and dropoffs will happen at dedicated \"autonomous vehicle zones\" at Terminal 1 and Terminal 3."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/",
+   "image": null,
+   "published_at": "2026-10-21T16:59:44Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "9525815776e4db0e729cbf40a0c3135a0c690c83",
+   "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
+   "summary": [
+    "Article URL: https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs Comments URL: https://news.ycombinator.com/item?id=50183512 Points: 33 # Comments: 13"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
+   "image": null,
+   "published_at": "2026-10-21T16:20:37Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "20a259028135abdac8bf4666c984fe0943a10359",
+   "title": "The bridge to agent-scale Git infrastructure",
+   "summary": [
+    "Article URL: https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/ Comments URL: https://news.ycombinator.com/item?id=50183344 Points: 33 # Comments: 3"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+   "image": null,
+   "published_at": "2026-10-21T16:09:28Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a67f99a0a39f0755c5d9352341376a43ec6d06c4",
+   "title": "Websites taken down worldwide as critical cyber-security update issued",
+   "summary": [
+    "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-21T16:07:19Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "da1b0615cf5e4d0452e6bed430c08cb4a72bd6a7",
+   "title": "Your MCU Likely Escaped the eMudhra Intermediate CA Compromise",
+   "summary": [
+    "Article URL: https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/ Comments URL: https://news.ycombinator.com/item?id=50183280 Points: 35 # Comments: 17"
+   ],
+   "source": "Hacker News",
+   "url": "https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/",
+   "image": null,
+   "published_at": "2026-10-21T16:05:05Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "2ce3f3251873a619a6c50e320a87e5df4621d237",
+   "title": "Today's PHP security release, and how we're strengthening security",
+   "summary": [
+    "Article URL: https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/ Comments URL: https://news.ycombinator.com/item?id=50182987 Points: 331 # Comments: 161"
+   ],
+   "source": "Hacker News",
+   "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+   "image": null,
+   "published_at": "2026-10-21T15:48:56Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "4683aba59087d73ef63c8589ea28fc0f91cac38c",
+   "title": "Show HN: I told people I'm a convicted felon after 20 years of hiding it",
+   "summary": [
+    "When you're a convicted felon, people look at you as if you are tainted.I was unable to rent apartments in San Francisco.",
+    "It's funny because when you owe the state $17,000 in restitution and you can't get a job, people become extremely desperate.",
+    "The main theme of it is hope.And I want to make sure that people know about it."
+   ],
+   "source": "Hacker News",
+   "url": "https://buford.bg/",
+   "image": null,
+   "published_at": "2026-10-21T15:46:43Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ca4f9f9aae24831561c268cf9edb4d34e5d42a78",
+   "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
+   "summary": [
+    "Article URL: https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488 Comments URL: https://news.ycombinator.com/item?id=50182526 Points: 113 # Comments: 65"
+   ],
+   "source": "Hacker News",
+   "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
+   "image": null,
+   "published_at": "2026-10-21T15:20:04Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "53855df11e48bce4b1a4864a420ef6fd80d6e589",
    "title": "New prize launches for books co-written with AI",
    "summary": [
-    "After months of controversy over the possible use of AI by winners of prestigious awards, the Prix Pascal de Littérature IA is rewarding fiction written with the help of language modelsA prize for AI-written books has launched this week.The Prix Pascal de Littérature IA invites submissions of manuscripts co-written with AI tools, with the winner promised publication."
+    "After months of controversy over the possible use of AI by winners of prestigious awards, the Prix Pascal de Littérature IA is rewarding fiction written with the help of LLMsA prize for AI-written books has launched this week.The Prix Pascal de Littérature IA invites submissions of manuscripts co-written with AI tools, with the winner promised publication."
    ],
    "source": "The Guardian",
    "url": "https://www.theguardian.com/books/2026/oct/21/new-prize-launches-books-co-written-with-ai-france",
@@ -37,23 +291,10 @@
    "related": []
   },
   {
-   "id": "a67f99a0a39f0755c5d9352341376a43ec6d06c4",
-   "title": "Websites taken down across Europe as critical cyber-security update issued",
-   "summary": [
-    "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-21T14:39:41Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "d3f519557f32dd3d643c27d4c9f89095ff53a6df",
    "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
    "summary": [
-    "https://patchtheplanet.org/ Comments URL: https://news.ycombinator.com/item?id=50181175 Points: 68 # Comments: 32"
+    "https://patchtheplanet.org/ Comments URL: https://news.ycombinator.com/item?id=50181175 Points: 177 # Comments: 107"
    ],
    "source": "Hacker News",
    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
@@ -76,36 +317,28 @@
    "related": []
   },
   {
-   "id": "744c049081771b2e9f70027e54269a041cdb66a1",
-   "title": "The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck",
-   "summary": [
-    "Article URL: https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/ Comments URL: https://news.ycombinator.com/item?id=50181137 Points: 111 # Comments: 45"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/",
-   "image": null,
-   "published_at": "2026-10-21T14:01:25Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "764a23f0c296d60d725440ef791fd9dcafe9c5e9",
-   "title": "DuckDB 2.0.0 LTS \"Cinnamon Teal\"",
+   "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
    "summary": [
-    "Article URL: https://duckdb.org/2026/10/21/announcing-duckdb-200 Comments URL: https://news.ycombinator.com/item?id=50181136 Points: 75 # Comments: 5"
+    "Article URL: https://duckdb.org/2026/10/21/announcing-duckdb-200 Comments URL: https://news.ycombinator.com/item?id=50181136 Points: 272 # Comments: 29"
    ],
    "source": "Hacker News",
    "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
    "image": null,
    "published_at": "2026-10-21T14:01:22Z",
    "category": "tech",
-   "related": []
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://canarytokens.org/"
+    }
+   ]
   },
   {
    "id": "a0e7a23f62c47cb2f9eddbfbd1783756bf2c7da2",
    "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
    "summary": [
-    "Article URL: https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/ Comments URL: https://news.ycombinator.com/item?id=50181114 Points: 13 # Comments: 2"
+    "Article URL: https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/ Comments URL: https://news.ycombinator.com/item?id=50181114 Points: 262 # Comments: 98"
    ],
    "source": "Hacker News",
    "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
@@ -161,7 +394,7 @@
    "id": "11e92edf73fbbb01d6eb6c5489810e1d7111241b",
    "title": "PHP 8.2.35",
    "summary": [
-    "Article URL: https://github.com/php/php-src/releases/tag/php-8.2.35 Comments URL: https://news.ycombinator.com/item?id=50180873 Points: 350 # Comments: 144"
+    "Article URL: https://github.com/php/php-src/releases/tag/php-8.2.35 Comments URL: https://news.ycombinator.com/item?id=50180873 Points: 863 # Comments: 481"
    ],
    "source": "Hacker News",
    "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
@@ -171,23 +404,10 @@
    "related": []
   },
   {
-   "id": "d31a18ead424650d8365a7a4cd7636be263ed5ff",
-   "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-   "summary": [
-    "Article URL: https://www.wiz.io/blog/php2shell-php-rce Comments URL: https://news.ycombinator.com/item?id=50180836 Points: 176 # Comments: 45"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.wiz.io/blog/php2shell-php-rce",
-   "image": null,
-   "published_at": "2026-10-21T13:43:19Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "1de8e62ff715d1f1b849a16afe7dfd3ed7898410",
    "title": "Using thousands of AI agents to uncover new leads in biological data",
    "summary": [
-    "Article URL: https://openai.com/index/scaling-ai-research-for-complex-biological-data/ Comments URL: https://news.ycombinator.com/item?id=50180752 Points: 14 # Comments: 0"
+    "Article URL: https://openai.com/index/scaling-ai-research-for-complex-biological-data/ Comments URL: https://news.ycombinator.com/item?id=50180752 Points: 95 # Comments: 45"
    ],
    "source": "Hacker News",
    "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
@@ -198,7 +418,7 @@
   },
   {
    "id": "294744de6228525dae500583dd33a9a56676f1a6",
-   "title": "Heat pump tech is 170 years old. Pascal thinks it’s time for an update.",
+   "title": "Heat pump tech is 170 years old — Pascal thinks it’s time for an update",
    "summary": [
     "Refrigerants startup Pascal has a new take on heat pump and cooling tech using a sponge-like material that promises to be 20% more efficient."
    ],
@@ -206,19 +426,6 @@
    "url": "https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/",
    "image": null,
    "published_at": "2026-10-21T13:30:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "b90e345ae05a91d090972a22f8792a3841de904e",
-   "title": "Most advice is right for the person giving it",
-   "summary": [
-    "Article URL: https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/ Comments URL: https://news.ycombinator.com/item?id=50180444 Points: 71 # Comments: 51"
-   ],
-   "source": "Hacker News",
-   "url": "https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/",
-   "image": null,
-   "published_at": "2026-10-21T13:17:33Z",
    "category": "tech",
    "related": []
   },
@@ -236,93 +443,28 @@
    "related": []
   },
   {
+   "id": "61f4d0141ff303c02405716db977e4c6353bca59",
+   "title": "OpenAI models are coming to Google Cloud",
+   "summary": [
+    "Article URL: https://openai.com/index/openai-models-google-cloud/ Comments URL: https://news.ycombinator.com/item?id=50180079 Points: 137 # Comments: 47"
+   ],
+   "source": "Hacker News",
+   "url": "https://openai.com/index/openai-models-google-cloud/",
+   "image": null,
+   "published_at": "2026-10-21T12:53:11Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "eb40d45d68e15c77727c8e8876684930e600c9c6",
    "title": "Show HN: Sumi.css – CSS Framework",
    "summary": [
-    "Article URL: https://github.com/vladocar/Sumi.css Comments URL: https://news.ycombinator.com/item?id=50180039 Points: 7 # Comments: 3"
+    "Article URL: https://github.com/vladocar/Sumi.css Comments URL: https://news.ycombinator.com/item?id=50180039 Points: 58 # Comments: 13"
    ],
    "source": "Hacker News",
    "url": "https://github.com/vladocar/Sumi.css",
    "image": null,
    "published_at": "2026-10-21T12:50:33Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "3980395922286a745f0875ebfe6b5708d015abd2",
-   "title": "LayerFS: The filesystem for AI coding agents",
-   "summary": [
-    "Article URL: https://layerfs.ai/ Comments URL: https://news.ycombinator.com/item?id=50179857 Points: 39 # Comments: 19"
-   ],
-   "source": "Hacker News",
-   "url": "https://layerfs.ai/",
-   "image": null,
-   "published_at": "2026-10-21T12:34:46Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "deffc0ecd428b720cb3e9c003f757117c24e3671",
-   "title": "Dutch National Cyber Security Center is Offline because it uses PHP",
-   "summary": [
-    "Article URL: https://www.ncsc.nl/actueel Comments URL: https://news.ycombinator.com/item?id=50179828 Points: 214 # Comments: 72"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.ncsc.nl/actueel",
-   "image": null,
-   "published_at": "2026-10-21T12:31:28Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "44c0eb76860039dfc4e2bd4ffa0e1107e2b29f09",
-   "title": "Qwen3-Coder writes less secure code when told it's for a US persona",
-   "summary": [
-    "Article URL: https://www.hirundo.io/blog/qwen3-coder-vulnerabilities Comments URL: https://news.ycombinator.com/item?id=50179706 Points: 182 # Comments: 91"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.hirundo.io/blog/qwen3-coder-vulnerabilities",
-   "image": null,
-   "published_at": "2026-10-21T12:22:39Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "d60159c1cc86445d99a2ba24aba71e2ef6b0e16d",
-   "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
-   "summary": [
-    "Article URL: https://9mothers.com/careers Comments URL: https://news.ycombinator.com/item?id=50179455 Points: 0 # Comments: 0"
-   ],
-   "source": "Hacker News",
-   "url": "https://9mothers.com/careers",
-   "image": null,
-   "published_at": "2026-10-21T12:00:24Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "c450ef4df3282f6f15b333bdedda7bd2d6293c28",
-   "title": "Whatever Happened to Fire Escapes",
-   "summary": [
-    "Article URL: https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes Comments URL: https://news.ycombinator.com/item?id=50178455 Points: 117 # Comments: 73"
-   ],
-   "source": "Hacker News",
-   "url": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
-   "image": null,
-   "published_at": "2026-10-21T10:14:43Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "14e022775599965be7ecfbb405361aa9b2282724",
-   "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
-   "summary": [
-    "Article URL: https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/ Comments URL: https://news.ycombinator.com/item?id=50177916 Points: 507 # Comments: 227"
-   ],
-   "source": "Hacker News",
-   "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
-   "image": null,
-   "published_at": "2026-10-21T09:08:08Z",
    "category": "tech",
    "related": []
   },
@@ -368,58 +510,6 @@
    "related": []
   },
   {
-   "id": "bdb88679f529b4c4be2eb516926a51000a8f84c1",
-   "title": "In Hilbert space, all things are quantumly possible",
-   "summary": [
-    "Article URL: https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/ Comments URL: https://news.ycombinator.com/item?id=50175185 Points: 123 # Comments: 65"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
-   "image": null,
-   "published_at": "2026-10-21T02:04:15Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "d549b64b708f07880b2bfe201aa66f5554ab4d0b",
-   "title": "The Future of CSS",
-   "summary": [
-    "Article URL: https://www.joshwcomeau.com/css/interop-2027/ Comments URL: https://news.ycombinator.com/item?id=50175070 Points: 508 # Comments: 210"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.joshwcomeau.com/css/interop-2027/",
-   "image": null,
-   "published_at": "2026-10-21T01:47:28Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "ca55d2a799660d026b6c2981af367751384e1f59",
-   "title": "Good type against all odds",
-   "summary": [
-    "Article URL: https://unsung.aresluna.org/good-type-against-all-odds/ Comments URL: https://news.ycombinator.com/item?id=50175059 Points: 172 # Comments: 15"
-   ],
-   "source": "Hacker News",
-   "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
-   "image": null,
-   "published_at": "2026-10-21T01:45:07Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "add383da2fc04409f1dd09256501af880b928040",
-   "title": "Muse exposes users' personal and business secrets when they share conversations",
-   "summary": [
-    "Article URL: https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/ Comments URL: https://news.ycombinator.com/item?id=50174687 Points: 279 # Comments: 129"
-   ],
-   "source": "Hacker News",
-   "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
-   "image": null,
-   "published_at": "2026-10-21T00:45:59Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "03056d15ec872defc74901dea577b7a92387d7f2",
    "title": "The tech helping crack decades-old cold cases",
    "summary": [
@@ -429,19 +519,6 @@
    "url": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-20T23:13:24Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "3ce7834bc9511b94d4aaa0fc6f71b695b184a7fa",
-   "title": "The Other Epidemic: Trying to get off benzodiazepines",
-   "summary": [
-    "https://web.archive.org/web/20261020230542/https://www.thebe...https://archive.ph/Tb1SZ Comments URL: https://news.ycombinator.com/item?id=50173891 Points: 241 # Comments: 195"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.thebeliever.net/the-other-epidemic/",
-   "image": null,
-   "published_at": "2026-10-20T23:04:09Z",
    "category": "tech",
    "related": []
   },
@@ -482,71 +559,6 @@
    "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
    "image": null,
    "published_at": "2026-10-20T22:24:02Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "dd8747983c69e4ecf0af1fab98eab570a4d057fb",
-   "title": "Anthropic’s cloud partnerships are getting messy",
-   "summary": [
-    "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-   "image": null,
-   "published_at": "2026-10-20T21:25:22Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "4e839948c5b0c27b01b9cd1bbdc88b65c472dd1d",
-   "title": "SpaceX’s AI business is beating expectations",
-   "summary": [
-    "SpaceX hit profitability in the third quarter, with net income of $4.4 billion."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-   "image": null,
-   "published_at": "2026-10-20T20:40:41Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "aeaa448f66c5e86ea1656d089968836d1f404b17",
-   "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-   "summary": [
-    "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
-   "image": null,
-   "published_at": "2026-10-20T20:35:10Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "0e9ae3eb35f09261458a500a05c5704b95c1c3fc",
-   "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
-   "summary": [
-    "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses while driving."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
-   "image": null,
-   "published_at": "2026-10-20T20:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "f0c3d81726afc29ccbda9193ad983a37c12072f9",
-   "title": "Tech Life",
-   "summary": [
-    "The next generation of chip is thinner and flexible when compared to traditional silicon."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyl?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-20T19:45:00Z",
    "category": "tech",
    "related": []
   }
