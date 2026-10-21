@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-21T10:01:55.622875Z",
- "story_count": 22,
+ "generated_at": "2026-10-21T15:06:02.040882Z",
+ "story_count": 28,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -24,6 +24,115 @@
  },
  "stories": [
   {
+   "id": "ef27568c3f8d2ea8b1e2a8d4bffc7183068e0840",
+   "title": "Drilling approved at controversial Jackdaw gas field in North Sea",
+   "summary": [
+    "The UK government said the field, which is opposed by environmental campaigners, could be producing gas by the end of this month."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-21T14:18:23Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "961aa0c88c08637f9aebd73cdee6bcdd39530e2c",
+   "title": "How Jackdaw ignites row over climate and costs",
+   "summary": [
+    "How Jackdaw ignites arguments over climate and costs"
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/c6n9r7gvngx8o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-21T13:46:34Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "a4112597a1ced4892d3b5a69dd0279334a75b609",
+   "title": "Too much RNA can starve cells of energy, scientists discover",
+   "summary": [
+    "Scientists have uncovered an unexpected danger lurking inside cells: too much RNA can damage the structures responsible for producing energy.",
+    "A new study found that excess RNA, including the normally essential messenger RNA (mRNA), can directly disrupt mitochondria without relying on the immune system.",
+    "The discovery could help explain how viral infections and certain aging-related diseases damage cells."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261020085023.htm",
+   "image": null,
+   "published_at": "2026-10-21T13:02:34Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "6d6608a183147818c0ecbec8b42e382fffc69e6a",
+   "title": "A train was delayed by a solar storm. But something didn't add up.",
+   "summary": [
+    "Scientists have cracked a 178-year-old mystery surrounding a train delayed by a solar storm, revealing that the famous incident happened in 1848 rather than 1841.",
+    "The discovery rewrites the early history of space weather and highlights a threat that still endangers modern power grids, satellites, and communication systems."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261020085021.htm",
+   "image": null,
+   "published_at": "2026-10-21T12:35:57Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "51727b1f3d02d6096d6cfdf53d9da161dc1f3ccf",
+   "title": "Astronauts’ hearts just passed a surprising test for Mars",
+   "summary": [
+    "A new study tracking 13 astronauts suggests that the human heart may be surprisingly well equipped for a journey to Mars, especially with regular exercise during spaceflight.",
+    "Researchers found that astronauts' hearts adapted to months of weightlessness and handled simulated Martian gravity without major problems, offering new hope for future missions to the Red Planet."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261020085016.htm",
+   "image": null,
+   "published_at": "2026-10-21T11:59:14Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "d8cf2aa22e383de4bfb2e54de5348b04baeb9604",
+   "title": "How much gas could Jackdaw provide? And will it cut your energy bills?",
+   "summary": [
+    "BBC Verify looks at what the Jackdaw decision means for bills, energy security and the environment."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq4g13pplyzzo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-21T11:57:49Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "d20b564522536af4dc27879af7dc479904d8950e",
+   "title": "Astronaut surprise video leaves pupils starstruck",
+   "summary": [
+    "The surprise came after a teacher's father met Peake while working on a cruise ship."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmvg9vlgxkv8o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-21T11:55:19Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "f7b75b8aec31d0c9a45417780be8fc1b7e46dde0",
+   "title": "Rejuvenation breakthrough: Scientists reverse 60 years of aging in human cells",
+   "summary": [
+    "Scientists have turned blood cells from an 80-year-old into neural stem cells with a molecular age of less than 20, effectively reversing more than 60 years of cellular aging in the laboratory.",
+    "The discovery offers a new way to investigate how cells become younger and could help researchers better understand age-related diseases such as Alzheimer's."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261020085013.htm",
+   "image": null,
+   "published_at": "2026-10-21T11:03:52Z",
+   "category": "science",
+   "related": []
+  },
+  {
    "id": "1d0c8bc32f4c7cbc7147734299ad58b0a5d0e3b6",
    "title": "Farmer lost out by minutes in race for wildlife funding",
    "summary": [
@@ -37,15 +146,17 @@
    "related": []
   },
   {
-   "id": "a10f52599f93e917b969b991cec38cb399280584",
-   "title": "Amber warning issued as Storm Austen threatens UK with strong winds and heavy rain",
+   "id": "5494d50f523eb36b0264a426614460fa76ba42ce",
+   "title": "NASA’s Perseverance Mars rover just shattered the all-time off-world driving record",
    "summary": [
-    "The deep area of low pressure is expected to move close to the south of the UK early on Friday with south-west England set to bear the brunt."
+    "NASA’s Perseverance rover has shattered a historic space exploration record, traveling farther across another world than any vehicle before it.",
+    "Its advanced self-driving system helped it surpass Opportunity’s 28.06-mile record in just five and a half years, a feat that previously took nearly 15.",
+    "Now, Perseverance is exploring some of the oldest rocks in the solar system, searching for clues about ancient Martian environments that may once have supported life."
    ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/weather/articles/c6m24ln2j43go?at_medium=RSS&at_campaign=rss",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261020084818.htm",
    "image": null,
-   "published_at": "2026-10-21T09:04:26Z",
+   "published_at": "2026-10-21T09:22:36Z",
    "category": "science",
    "related": []
   },
@@ -89,15 +200,31 @@
    "related": []
   },
   {
-   "id": "eb1a9004ea8afaccfe77b1cbc7a031b7528bc19c",
-   "title": "Huge fin whale filmed off Welsh coast",
+   "id": "fe101e0ff9dae42e729ee066b3745c7b1093eff4",
+   "title": "A massive asteroid slammed into the North Sea and unleashed a 330-foot tsunami",
    "summary": [
-    "Rhys Morgan captured footage of the world's second-largest whale species lunge feeding on his drone."
+    "A decades-long mystery beneath the North Sea has finally been solved.",
+    "Scientists have confirmed that the Silverpit Crater, buried 700 meters below the seabed, was created when a 160-meter-wide asteroid struck Earth roughly 43 to 46 million years ago.",
+    "The violent collision blasted a towering curtain of rock and water 1.5 kilometers into the air and triggered a tsunami more than 100 meters high."
    ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/cxly491v6p7yo?at_medium=RSS&at_campaign=rss",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261020085727.htm",
    "image": null,
-   "published_at": "2026-10-20T13:42:22Z",
+   "published_at": "2026-10-21T04:08:28Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "009a0da4c9425d63eb1786449224e8ea482f1063",
+   "title": "Scientists discover ghostly, eyeless creature hidden in Chinese cave",
+   "summary": [
+    "Deep inside a high-altitude Chinese cave, scientists discovered a ghostly, eyeless freshwater snail that has evolved to live entirely in darkness, marking the first recorded discovery of its kind in China.",
+    "Named after a faceless mythical creature, the rare species may already be in danger, with researchers finding only three living adults."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261019093445.htm",
+   "image": null,
+   "published_at": "2026-10-21T03:08:17Z",
    "category": "science",
    "related": []
   },
@@ -276,48 +403,6 @@
    "url": "https://www.sciencedaily.com/releases/2026/10/261019093437.htm",
    "image": null,
    "published_at": "2026-10-20T04:21:35Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "d14f6681eb78d990c0cd7e67a081de47ad32d53f",
-   "title": "Scientists reach the ultimate quantum limit on a surface",
-   "summary": [
-    "Scientists have achieved a quantum breakthrough by creating an ultra-clean surface where individual molecules can maintain their delicate quantum properties at the fundamental limit.",
-    "The discovery could unlock unprecedented control over molecules and help drive the next generation of quantum technologies."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261018205053.htm",
-   "image": null,
-   "published_at": "2026-10-20T03:02:41Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "c7a71b06cc88a53425f3b48617217913cd6c449c",
-   "title": "NASA solves a strange mystery hidden inside asteroid Bennu’s boulders",
-   "summary": [
-    "NASA scientists have finally uncovered why asteroid Bennu loses heat so quickly despite being covered in massive boulders.",
-    "Samples returned to Earth reveal that its rocks are filled with hidden cracks, solving a mystery that has puzzled researchers for years."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261018205101.htm",
-   "image": null,
-   "published_at": "2026-10-20T02:23:00Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "6b455e34ac3716af3831c17f5b42767a5e27c566",
-   "title": "Five ways El Niño is affecting the weather around the world",
-   "summary": [
-    "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe?",
-    "Sarah Keith-Lucas looks at the evidence."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-19T23:08:25Z",
    "category": "science",
    "related": []
   }
