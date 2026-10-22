@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T15:07:28.307927Z",
+ "generated_at": "2026-10-22T19:59:19.227486Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -23,6 +23,363 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "4e4febdfba9b7c00275a6a65bc12c523261c43dc",
+   "title": "eMudhra logins can be bruteforced",
+   "summary": [
+    "Article URL: https://mastodon.catgirl.cloud/@49016/117475976434068995 Comments URL: https://news.ycombinator.com/item?id=50199757 Points: 6 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://mastodon.catgirl.cloud/@49016/117475976434068995",
+   "image": null,
+   "published_at": "2026-10-22T19:14:01Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "fe52d49759b6b59c7f4c2b795faadc90d117c4da",
+   "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+   "summary": [
+    "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+   "image": null,
+   "published_at": "2026-10-22T19:07:09Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "865ffb65f1d593f079bea5171bf4619d03fdfa05",
+   "title": "Canva releases its first image generation model",
+   "summary": [
+    "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+   "image": null,
+   "published_at": "2026-10-22T19:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "5d204276414bcfa2eeff25d54ee5e294f63a8c5c",
+   "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+   "summary": [
+    "OpenAI is launching its decision model to the world."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+   "image": null,
+   "published_at": "2026-10-22T19:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "9eefcb402cccdce697728e5551b4c7f8ef2e12d6",
+   "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
+   "summary": [
+    "Article URL: https://github.com/maxilevi/project-hedra/tree/pre-ai Comments URL: https://news.ycombinator.com/item?id=50199389 Points: 28 # Comments: 5"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
+   "image": null,
+   "published_at": "2026-10-22T18:44:36Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "d26ae9b2d9ce501ca5e5f8678040fb18be02e6db",
+   "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+   "summary": [
+    "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science.",
+    "But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+   "image": null,
+   "published_at": "2026-10-22T18:43:53Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "3d9039a53cdbe4ef929ce563cb1974086c104cd7",
+   "title": "Show HN: Build a world on your phone, explore it in XR on Vision Pro and Quest",
+   "summary": [
+    "Article URL: https://3d.camilleworld.com/play/ Comments URL: https://news.ycombinator.com/item?id=50199349 Points: 5 # Comments: 1"
+   ],
+   "source": "Hacker News",
+   "url": "https://3d.camilleworld.com/play/",
+   "image": null,
+   "published_at": "2026-10-22T18:39:39Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "2203bd1a772ab1e2b9393af5d51e360dfc54175b",
+   "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
+   "summary": [
+    "Wearing cameras and sensor gloves, the startup’s human chemists will train robots to perform various lab tasks."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
+   "image": null,
+   "published_at": "2026-10-22T18:38:47Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "5521316bcdc521bfa13ff83be20d8c22f1eb1abe",
+   "title": "Show HN: UI micro interactions prompts for AI",
+   "summary": [
+    "Article URL: https://www.typeui.sh/micro-interactions Comments URL: https://news.ycombinator.com/item?id=50199290 Points: 24 # Comments: 11"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.typeui.sh/micro-interactions",
+   "image": null,
+   "published_at": "2026-10-22T18:32:57Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "6786e7b5eab163d4aa31f907a59d4b070c98f89a",
+   "title": "Award-Winning AI Literature",
+   "summary": [
+    "Article URL: https://jamesyu.org/award-winning-ai-literature/ Comments URL: https://news.ycombinator.com/item?id=50199232 Points: 23 # Comments: 7"
+   ],
+   "source": "Hacker News",
+   "url": "https://jamesyu.org/award-winning-ai-literature/",
+   "image": null,
+   "published_at": "2026-10-22T18:28:26Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a89c1639c81cde6e82c5769219b41226413e55d6",
+   "title": "AI and the Enclosure of the Scientific Commons",
+   "summary": [
+    "Article URL: https://arxiv.org/abs/2610.27251 Comments URL: https://news.ycombinator.com/item?id=50199230 Points: 24 # Comments: 5"
+   ],
+   "source": "Hacker News",
+   "url": "https://arxiv.org/abs/2610.27251",
+   "image": null,
+   "published_at": "2026-10-22T18:28:16Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "619008f39dfd1cd19740c46869a986f2979b4e75",
+   "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
+   "summary": [
+    "Article URL: https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients Comments URL: https://news.ycombinator.com/item?id=50198940 Points: 31 "
+   ],
+   "source": "Hacker News",
+   "url": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
+   "image": null,
+   "published_at": "2026-10-22T18:02:54Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "2d02eab26592aba7aa5b1ff661ffc10f94398611",
+   "title": "Show HN: agent-usage-guard – a Claude Code mod to protect your usage window",
+   "summary": [
+    "Article URL: https://github.com/rbartoli/agent-usage-guard Comments URL: https://news.ycombinator.com/item?id=50198936 Points: 11 # Comments: 6"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/rbartoli/agent-usage-guard",
+   "image": null,
+   "published_at": "2026-10-22T18:02:38Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "4dcdb955782720745c63884f1e5a19f3e6e44932",
+   "title": "Nvidia OpenShell",
+   "summary": [
+    "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 108 # Comments: 54"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/NVIDIA/OpenShell",
+   "image": null,
+   "published_at": "2026-10-22T17:44:06Z",
+   "category": "tech",
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://arc.net/"
+    }
+   ]
+  },
+  {
+   "id": "35b21957076a4419add6613a841c4633f105b77d",
+   "title": "Elon Musk made a $1 billion investment in Skydance, report says",
+   "summary": [
+    "The investment will provide a much needed financial boost as the company seeks to cut costs and lift its stock price."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/",
+   "image": null,
+   "published_at": "2026-10-22T17:36:38Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "d1b19037538aa4f5ffd5dd648f4fcbe030202329",
+   "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+   "summary": [
+    "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+   "image": null,
+   "published_at": "2026-10-22T16:47:17Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "1055e9b1c4ed9d2008023c27349b6d83f67c1e0a",
+   "title": "Websites across world hit by millions of attempts to exploit PHP code flaw",
+   "summary": [
+    "Problem in language that underpins 70% of sites has led governments and companies to pull sites offline to patch faultTell us: have you been affected by the PHP code flaw?What is PHP, and how bad is the computer language flaw causing website shutdowns globally?Websites around the world have been hit by millions of attempts to exploit a recently discovered vulnerability in their code, cybersecurity companies have said, as the US warned the flaw could allow attackers to take control of web servers, steal data and disrupt services.The problem in the PHP programming language, which underpins about 70% of the world’s websites, emerged on Wednesday causing governments and companies to pull their websites off the internet before they could be attacked and so they could patch the fault."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/oct/22/websites-across-world-hit-by-millions-of-attempts-to-exploit-php-code-flaw",
+   "image": "https://i.guim.co.uk/img/media/e240560dbdb0dfbd8f0e19f35e6bf6650b057f87/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=e02249e5bef8e34df304c9e91d27d0ec",
+   "published_at": "2026-10-22T16:42:54Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "955af4ab7cc04a126ba853ff18b23e9fab78ede5",
+   "title": "Mini brain organoids 'reading' Braille key step towards biohybrid computing",
+   "summary": [
+    "Article URL: https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence Comments URL: https://news.ycombinator.com/item?id=50197450 Points: 18 # Comments: 6"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence",
+   "image": null,
+   "published_at": "2026-10-22T16:16:45Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a816b657efa82b583f97f23ccbf913e3a7f6d913",
+   "title": "Getting ready to operate GNU Taler in Germany",
+   "summary": [
+    "Article URL: https://www.taler.net/en/news/2026-13.html Comments URL: https://news.ycombinator.com/item?id=50197404 Points: 111 # Comments: 33"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.taler.net/en/news/2026-13.html",
+   "image": null,
+   "published_at": "2026-10-22T16:14:31Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "0588989306a7fba98727f8a811b79050c0b0333b",
+   "title": "TechCrunch Disrupt 2026 Startup Battlefield 200: Celebrating outstanding achievements",
+   "summary": [
+    "Among the Startup Battlefield 200 were many industry-defining companies exhibiting and pitching on the Showcase Stage."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements/",
+   "image": null,
+   "published_at": "2026-10-22T16:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "2e9a4426b96429c2f62d5a09c9d1b4912bd19b65",
+   "title": "Uber puts all 30,000 employees on ChatGPT Work",
+   "summary": [
+    "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+   "image": null,
+   "published_at": "2026-10-22T16:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "65dfbe5ddc18e75d4f7cdab1fe29e1b1f2a4e96b",
+   "title": "Tesla is prepping a Cybercab onslaught",
+   "summary": [
+    "The company is looking to roll out the gold two-seater robotaxis to other U.S. cities this year, even as it goes mum on the number of paid rides."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/",
+   "image": null,
+   "published_at": "2026-10-22T15:44:39Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "771f8b81cd83dfd53efd5a493aefce8c7145e032",
+   "title": "Meta strikes deal with Mark Zuckerberg to help him foot billionaire tax bill",
+   "summary": [
+    "Chief executive agrees to remain in California for eight years even if state brings in one-off 5% wealth taxMeta has struck a deal with Mark Zuckerberg to help him foot a possible California wealth tax targeting billionaires.The social media company behind Facebook, Instagram and WhatsApp revealed on Wednesday night that the arrangement would keep its chief executive living in California, where Meta’s headquarters are located."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax",
+   "image": "https://i.guim.co.uk/img/media/2e6040371e8498c68a3ec60ae6efac595ffa4c7a/209_3_4321_3459/master/4321.jpg?width=140&quality=85&auto=format&fit=max&s=f2994e7e56e0732dda3ffe99b529e393",
+   "published_at": "2026-10-22T15:40:03Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a886745780828ce562e6594c063f4d252a65604f",
+   "title": "Google cleared 300 hectares of Finnish forest",
+   "summary": [
+    "Article URL: https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html Comments URL: https://news.ycombinator.com/item?id=50196837 Points: 272 # Comments: 187"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html",
+   "image": null,
+   "published_at": "2026-10-22T15:32:46Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "340d69bec7861ecaa20682f17bb6d03674276ef1",
+   "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
+   "summary": [
+    "Article URL: https://github.com/oosexgang/hackios-xnu-kernel Comments URL: https://news.ycombinator.com/item?id=50196718 Points: 195 # Comments: 70"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+   "image": null,
+   "published_at": "2026-10-22T15:26:22Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "56a7ecc0677235196d8ac0a7c240892361dec6a6",
+   "title": "Spotify confirms Family Plan crackdown, but calls it a ‘routine improvement’",
+   "summary": [
+    "Spotify told investors its rollout of QR code verification to ensure Family Plan members live in the same household is not a \"crackdown,\" just a routine improvement."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/22/spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement/",
+   "image": null,
+   "published_at": "2026-10-22T15:24:32Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "016a2813f783e5110bfdbe871abb45b88974ac05",
+   "title": "Investors break down how founders can raise a Series A today",
+   "summary": [
+    "Raising a Series A these days isn't so simple — top investors break down what founders need to know now."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+   "image": null,
+   "published_at": "2026-10-22T15:15:00Z",
+   "category": "tech",
+   "related": []
+  },
   {
    "id": "12d0b1a8654611df8ccc514358f227d570425da2",
    "title": "Spotify’s current AI bet is about being the music service that agents choose",
@@ -50,15 +407,41 @@
    "related": []
   },
   {
+   "id": "46f4dc360a154a5b7c97e9fcce1553eff4ee6421",
+   "title": "Barclays to cut 5,000 jobs as bank’s bosses hail AI productivity advances",
+   "summary": [
+    "Equating to the loss of 5% of its 93,000 global staff, job cuts come as bank announces jump in quarterly profitsBarclays is cutting 5,000 jobs as part of wider cost-saving plans that its bosses say are being driven by advances in AI.The job cuts will mean losing about 5% of the bank’s 93,000 global staff, with executives confirming they had already cut 1,000 workers since the start of the year."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget",
+   "image": "https://i.guim.co.uk/img/media/42ebdcc562c64f3843def3a9641e7ab414a3974a/218_632_4806_3847/master/4806.jpg?width=140&quality=85&auto=format&fit=max&s=ead5517a8bc9d073964007e984fae6a1",
+   "published_at": "2026-10-22T14:39:29Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "d2f362921d4537c89286ab65d5a381f12f0dcb03",
    "title": "Quad9 (DNS Resolver) to Exit France",
    "summary": [
-    "Article URL: https://quad9.net/news/blog/au-revoir-france/ Comments URL: https://news.ycombinator.com/item?id=50195959 Points: 5 # Comments: 0"
+    "Article URL: https://quad9.net/news/blog/au-revoir-france/ Comments URL: https://news.ycombinator.com/item?id=50195959 Points: 596 # Comments: 216"
    ],
    "source": "Hacker News",
    "url": "https://quad9.net/news/blog/au-revoir-france/",
    "image": null,
    "published_at": "2026-10-22T14:32:38Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "0c55490fe29c9da5403d1723c46b2769a8341a46",
+   "title": "MPs moving to restrict gambling ads in Canada",
+   "summary": [
+    "Article URL: https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888 Comments URL: https://news.ycombinator.com/item?id=50195873 Points: 174 # Comments: 81"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888",
+   "image": null,
+   "published_at": "2026-10-22T14:26:40Z",
    "category": "tech",
    "related": []
   },
@@ -79,7 +462,7 @@
    "id": "8e16d6a954270ec11e35971fccea297c60d1de29",
    "title": "Claude Duet app is Anthropic’s bet on agents",
    "summary": [
-    "Claude Duet is available through waitlist for Pro and Max plan users"
+    "Claude Duet is available through waitlist for Pro and Max plan users."
    ],
    "source": "TechCrunch",
    "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
@@ -90,9 +473,9 @@
   },
   {
    "id": "c857d00b04e61c1b9d3b351f90d7d33670dcc71c",
-   "title": "eMudhra to Exit Global SSL/TLS Certificate Business",
+   "title": "eMudhra to exit global SSL/TLS certificate business",
    "summary": [
-    "Article URL: https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business Comments URL: https://news.ycombinator.com/item?id=50195110 Points: 214 # Comments: 120"
+    "Article URL: https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business Comments URL: https://news.ycombinator.com/item?id=50195110 Points: 758 # Comments: 549"
    ],
    "source": "Hacker News",
    "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
@@ -115,23 +498,10 @@
    "related": []
   },
   {
-   "id": "9be84d8728a909d8cf5758ca4d21bce55dad610a",
-   "title": "Crystal 1.22.0 Is Released",
-   "summary": [
-    "Article URL: https://crystal-lang.org/2026/10/12/1.22.0-released/ Comments URL: https://news.ycombinator.com/item?id=50194938 Points: 52 # Comments: 17"
-   ],
-   "source": "Hacker News",
-   "url": "https://crystal-lang.org/2026/10/12/1.22.0-released/",
-   "image": null,
-   "published_at": "2026-10-22T13:20:13Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "2bef5e15539918e46a8023c91e28fa38331431f0",
    "title": "DeepSeek reportedly raises $15B days after US restrictions",
    "summary": [
-    "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns."
+    "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns."
    ],
    "source": "TechCrunch",
    "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
@@ -141,23 +511,10 @@
    "related": []
   },
   {
-   "id": "05b9a8211978b08c5a46814c351c43ae7cfd46c1",
-   "title": "SBD: We Have a Filesystem at Home",
-   "summary": [
-    "Article URL: https://fly.io/blog/sprites-block-device/ Comments URL: https://news.ycombinator.com/item?id=50194824 Points: 9 # Comments: 7"
-   ],
-   "source": "Hacker News",
-   "url": "https://fly.io/blog/sprites-block-device/",
-   "image": null,
-   "published_at": "2026-10-22T13:09:33Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "25bb82080b682e51e5287f924c5e9247893be50c",
    "title": "The Last Museum: Semantic search across 5.8M artworks from major museums",
    "summary": [
-    "Article URL: https://lastmuseum.com/ Comments URL: https://news.ycombinator.com/item?id=50194522 Points: 21 # Comments: 4"
+    "Article URL: https://lastmuseum.com/ Comments URL: https://news.ycombinator.com/item?id=50194522 Points: 75 # Comments: 25"
    ],
    "source": "Hacker News",
    "url": "https://lastmuseum.com/",
@@ -193,371 +550,6 @@
    "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/22/us-midterms-tech-datacenters-ai",
    "image": "https://i.guim.co.uk/img/media/bee9ffbae201f232019437dd608cde56248e206a/0_618_2744_2194/master/2744.jpg?width=140&quality=85&auto=format&fit=max&s=12783154694bb2037b9eebd91b0c343e",
    "published_at": "2026-10-22T12:00:44Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "cb2f457f1dd8a9b4661f55e391c16891722fb7a4",
-   "title": "Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure",
-   "summary": [
-    "Article URL: https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/ Comments URL: https://news.ycombinator.com/item?id=50194070 Points: 137 # Comments: 30"
-   ],
-   "source": "Hacker News",
-   "url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/",
-   "image": null,
-   "published_at": "2026-10-22T11:50:36Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "74f393ebd94710af13c44962c449ff1f9bc8cf7f",
-   "title": "‘Pure arrogance’: anger in Finland as Google illegally fells 250,000 trees for datacentre",
-   "summary": [
-    "Company ordered to stop work at two sites in country, which has found itself at forefront of tech firms’ latest pushBehind a wire fence lies a vast gaping wound of earth.",
-    "Before Google’s arrival a few months ago, an estimated quarter of a million trees occupied the 330 hectares (815 acres) of forest near the town of Muhos in rural northern Finland.",
-    "Now they are all gone.After the tech company illegally stripped the entire area to build a datacentre – taking even the top soil with it – all that remains is a vast expanse of mud indented with the trail marks of machinery, puddles and mounds of earth, roots and branches."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/environment/ng-interactive/2026/oct/22/finland-google-felling-trees-datacentre",
-   "image": "https://i.guim.co.uk/img/media/5a426a4caa58ecb7baabf8e19319bb4ee7c46a53/669_0_3162_2531/master/3162.jpg?width=140&quality=85&auto=format&fit=max&s=94737ebde78cf77bb6f11a8127225101",
-   "published_at": "2026-10-22T11:22:23Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "72972368be1f96c82907193220c19f7fb8f125d0",
-   "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
-   "summary": [
-    "Article URL: https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities Comments URL: https://news.ycombinator.com/item?id=50193804 Points: 160 # Comments: 40"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
-   "image": null,
-   "published_at": "2026-10-22T11:12:37Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "53cb2b970434563ea0545cda79475ed1d3f5460a",
-   "title": "Zoe Kleinman: PHP is the cyber equivalent of an unexploded bomb",
-   "summary": [
-    "It has been a dramatic, public and global response, but the cyber event hasn't happened yet."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cw98z6qlyvg3o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-22T10:17:26Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "771f8b81cd83dfd53efd5a493aefce8c7145e032",
-   "title": "Meta strikes deal with Zuckerberg to help him foot billionaire tax bill",
-   "summary": [
-    "Chief executive agrees to remain in California for eight years even if the state brings in a one-off wealth taxBusiness live – latest updatesMeta has struck a deal with Mark Zuckerberg to help him foot a possible California wealth tax targeting billionaires.The social media company behind Facebook, Instagram and WhatsApp revealed on Wednesday night that the arrangement would keep its chief executive living in California, where Meta’s headquarters are located."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax",
-   "image": "https://i.guim.co.uk/img/media/2e6040371e8498c68a3ec60ae6efac595ffa4c7a/209_3_4321_3459/master/4321.jpg?width=140&quality=85&auto=format&fit=max&s=f2994e7e56e0732dda3ffe99b529e393",
-   "published_at": "2026-10-22T10:10:03Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "985e951ed9a901e08f6555255559ca1a8c27c222",
-   "title": "'500 new vulnerabilities' found in government, says AI minister",
-   "summary": [
-    "'500 new vulnerabilities' found in government, says AI minister"
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/c6y8lvg2p50po?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-22T10:08:44Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "81e96efb7f3eb63ba9b0236e331e5ba93b82c22e",
-   "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
-   "summary": [
-    "Article URL: https://globus.software/blog/2026/10/16/cutting-map-polygons/ Comments URL: https://news.ycombinator.com/item?id=50193170 Points: 129 # Comments: 21"
-   ],
-   "source": "Hacker News",
-   "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
-   "image": null,
-   "published_at": "2026-10-22T09:31:18Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "83b13900da634766fcb1c54a944ca8b29455d77f",
-   "title": "Nintendo Switch Sports Resort review – Wii Sports lives on in this effortlessly appealing collection of games",
-   "summary": [
-    "Switch Sports is so beloved in my household that the release of Switch Sports Resort this week is the most anticipated gaming event of the year.",
-    "To be fair, my children are a bit young for Grand Theft Auto.Nintendo Switch Sports Resort brings three of the six sports back – tennis, bowling, and volleyball – alongside golf and basketball.",
-    "Then there are seven entirely new sports: boxing, table tennis, archery, thumb wrestling, skateboarding, jetski, and piloting a little prop plane."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/games/2026/oct/22/nintendo-switch-sports-resort-review-wii-sports-games",
-   "image": "https://i.guim.co.uk/img/media/20b38997c69574d368cfd18359295efe1e8c9ddd/1522_611_4637_3709/master/4637.jpg?width=140&quality=85&auto=format&fit=max&s=f938280231472790f2d64e647c3dd28b",
-   "published_at": "2026-10-22T09:00:58Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "fb7e51ba8e6ce62d678d8907a1d15a7302110d6e",
-   "title": "In You Can See Everything, it’s Elizabeth Holmes’s partner who makes for 2026’s timeliest villain",
-   "summary": [
-    "Holmes, as the movie points out, was all over the media as her company Theranos was hyped to the moon and then spectacularly imploded; she was also played by Amanda Seyfried in the well-regarded Hulu miniseries The Dropout.",
-    "Fielder, meanwhile, may not have graced as many magazine covers, but is similarly familiar to prestige-TV acolytes from his comedy-reality series Nathan for You and its successor, the more reality-bending series The Rehearsal.",
-    "A third figure not included in the film’s ad campaign becomes a key part of the film in the second half, and will also be familiar to many viewers.This should leave Billy Evans as the odd man out."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/film/2026/oct/22/you-can-see-everything-elizabeth-holmes-billy-evans-villain",
-   "image": "https://i.guim.co.uk/img/media/3f7cab546b8494a4addcf4ce96329a678b75a558/0_0_2411_1929/master/2411.jpg?width=140&quality=85&auto=format&fit=max&s=27f1a2327e1aba98644d1915980d317a",
-   "published_at": "2026-10-22T09:00:58Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "86ae544aa54b2e39b8efc9cb65e90b3f4dc462e9",
-   "title": "UK working to identify exposure after global cyber-security warning",
-   "summary": [
-    "Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-22T08:23:42Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "49bb51281ca6ef207fa3f3e3ea667e00f978aed1",
-   "title": "Jailbreaking the Switch 2",
-   "summary": [
-    "Article URL: https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/ Comments URL: https://news.ycombinator.com/item?id=50192536 Points: 366 # Comments: 138"
-   ],
-   "source": "Hacker News",
-   "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
-   "image": null,
-   "published_at": "2026-10-22T08:01:52Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "45978161846bed7d5f251dcd6bc25cb4f01ef421",
-   "title": "AI firms say UK has a year to head off datacentre protests before construction is threatened",
-   "summary": [
-    "Exclusive: Nvidia, Microsoft and Cisco taskforce urges ministers to offer areas greater benefits from tech infrastructure amid fears of US-style oppositionAI companies have told ministers they have 12 months to head off public opposition to datacentres in the UK or risk US-style protests that could threaten their construction.Successive dry summers and rising energy bills are increasing public scrutiny of plans for the huge computer warehouses that are used to train and run AI models, says a submission to the Labour government from a group including the AI infrastructure companies Nvidia, Microsoft and Cisco."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened",
-   "image": "https://i.guim.co.uk/img/media/35c9f0f2f37cd8a924ee3a4ce63b0697c2f947d6/945_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=d21042e0c51c31edf08072d054bbe0dc",
-   "published_at": "2026-10-22T05:00:08Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "653f42f00da3254f095fdd61792c65faf260b88d",
-   "title": "Elizabeth Holmes is back in the spotlight: why can’t we look away? – podcast",
-   "summary": [
-    "You Can See Everything, a documentary about the disgraced biotech company founder Elizabeth Holmes, has enjoyed a record-breaking opening in the US.",
-    "It is a testament to how fascinated we remain by the convicted fraudster, but what is behind the enduring appeal?"
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/science/audio/2026/oct/22/elizabeth-holmes-you-can-see-everything-podcast",
-   "image": "https://i.guim.co.uk/img/media/11703a7d7c54169081d49fc18a04095ed0492f2c/293_0_2924_2340/master/2924.jpg?width=140&quality=85&auto=format&fit=max&s=03690e6f9a7f1d0684e93f994899399a",
-   "published_at": "2026-10-22T04:00:06Z",
-   "category": "tech",
-   "related": [
-    {
-     "source": "The Guardian",
-     "url": "https://www.theguardian.com/science/video/2026/oct/22/why-were-still-so-obsessed-with-elizabeth-holmes-video"
-    }
-   ]
-  },
-  {
-   "id": "4f2612832168807fbb17fb31c9a4373fb86cdc5d",
-   "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
-   "summary": [
-    "Article URL: https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf Comments URL: https://news.ycombinator.com/item?id=50190455 Points: 265 # Comments: 216"
-   ],
-   "source": "Hacker News",
-   "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
-   "image": null,
-   "published_at": "2026-10-22T02:30:52Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "8802a7899044962b870336beae3e87603586a8d5",
-   "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-   "summary": [
-    "Article URL: https://simedw.com/2026/10/21/world-model-terminal/ Comments URL: https://news.ycombinator.com/item?id=50190363 Points: 382 # Comments: 115"
-   ],
-   "source": "Hacker News",
-   "url": "https://simedw.com/2026/10/21/world-model-terminal/",
-   "image": null,
-   "published_at": "2026-10-22T02:18:41Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "d730e45e0b3fdddcdb3530c81d3588ac814479b3",
-   "title": "Canadian publisher Boréal ends relationship with novelist Thélyson Orélien over alleged use of AI",
-   "summary": [
-    "Author withdrawn from France’s Prix Goncourt last month has repeatedly denied using artificial intelligence to write novelThe publisher of top-selling Haitian Canadian writer Thélyson Orélien, who was removed from France’s most prestigious literary prize list last month, has confirmed the author used artificial intelligence to help write his novel C’était ça ou mourir (It Was Either That or Die).Orélien has denied allegations that he used AI on his breakthrough novel and, last week, Canadian publisher Les Éditions du Boréal said it was standing by the 38-year-old writer."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/culture/2026/oct/22/canadian-publisher-boreal-ends-relationship-author-thelyson-orelien-over-ai",
-   "image": "https://i.guim.co.uk/img/media/593ae3d39388056aa07d530e1309848d610c3078/1027_0_6240_4994/master/6240.jpg?width=140&quality=85&auto=format&fit=max&s=0dfce1b80329a4af69ed0cdc674a4cde",
-   "published_at": "2026-10-22T01:13:01Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "2355322f24b23a813aa029fcc5a7734ddf2a98a5",
-   "title": "Flaw in PHP computer language leads to shutdown of websites around world",
-   "summary": [
-    "Precautionary takedowns come as experts say bad actors could exploit vulnerability in language used by 70% of sitesWebsites around the globe have gone dark after a serious vulnerability was found in a computer language used to build much of the world wide web.Belgian, Dutch, Finnish, French and German sites were among those that governments took down temporarily as they scrambled to patch the critical weakness in PHP, a language used by almost 70% of websites."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/oct/21/flaw-in-php-computer-language-leads-to-shutdown-of-websites-around-world",
-   "image": "https://i.guim.co.uk/img/media/7b2ac9acb1cb8d1678d58a8d278df37914456a10/461_0_5417_4335/master/5417.jpg?width=140&quality=85&auto=format&fit=max&s=f3262289ef4e806a3e94a72dcc5581d6",
-   "published_at": "2026-10-22T00:39:15Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "e7c2b56037de4e46cc914000e19b5c8ec53eab73",
-   "title": "Tesla says it will start selling Cybercabs by end of year",
-   "summary": [
-    "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards.",
-    "The gold-hued, autonomous two-seater lacks a steering wheel and other traditional controls.",
-    "During the company’s third-quarter earnings call, Lars Moravy, vice president of engineering at Tesla, […]"
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
-   "image": null,
-   "published_at": "2026-10-22T00:17:54Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "bc3f63f707cf56d23d140730890ea790e81b7065",
-   "title": "Meta ordered to pay $25bn to New Mexico in Cambridge Analytica data-privacy case",
-   "summary": [
-    "Jury had found Meta misled consumers after Trump’s 2016 presidential campaign obtained user data without consentA judge in New Mexico ordered Meta Platforms to pay $25bn on ⁠Wednesday after a jury found the company had misled consumers in a case arising from allegations that a political consulting firm involved in Donald Trump’s 2016 presidential campaign obtained data from millions of Facebook users ⁠without their consent.“Facebook’s wrongdoing – ⁠over the course of ​years and systematically broadcast to the public – goes to the heart of Facebook’s core business practices,” Judge Francis Mathew wrote in his order following the verdict."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/oct/21/meta-fined-new-mexico-data-privacy-case",
-   "image": "https://i.guim.co.uk/img/media/21d5e45e012af879a997b720907ee632f9052e63/294_0_3332_2666/master/3332.jpg?width=140&quality=85&auto=format&fit=max&s=3cac15c730f87c42b43f63646c6f830e",
-   "published_at": "2026-10-21T23:33:34Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "33599bcfdf8cb5f8efb7562512c80e2f9509d298",
-   "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-   "summary": [
-    "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-21T23:04:03Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "2c9536723835ab03df491a38cddf48e78ead8493",
-   "title": "Tesla beats earnings projections after Musk floats SpaceX merger plan",
-   "summary": [
-    "He repeated a phrase he said on Tuesday: “I feel like I’m tap dancing through a minefield.” Continue reading..."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/oct/21/elon-musk-tesla-spacex",
-   "image": "https://i.guim.co.uk/img/media/5079e04428f0108241397eee4e3383a1344455f5/436_0_4565_3655/master/4565.jpg?width=140&quality=85&auto=format&fit=max&s=645b2152a14156592f81a8cc071672a4",
-   "published_at": "2026-10-21T23:03:16Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "3acc865d1f4fc7f58b5db6389e7b34010a6b9299",
-   "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-   "summary": [
-    "Blackstone’s AI head on why the PE giant isn't panicked by market jitters."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
-   "image": null,
-   "published_at": "2026-10-21T22:51:22Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "f7403dc55170bd2208f3ce811a4f35c1a6fbc4f3",
-   "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
-   "summary": [
-    "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
-   "image": null,
-   "published_at": "2026-10-21T22:45:34Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "dc82f050e19039b7f72e2f0d5cac67c236287cfc",
-   "title": "Airbnb limits chores for guests, sparking backlash from hosts",
-   "summary": [
-    "Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
-   "image": null,
-   "published_at": "2026-10-21T22:16:05Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "5699ea0146a98f847ef4646a2c965924a2f84dc0",
-   "title": "Security Disclosure",
-   "summary": [
-    "Article URL: https://blog.railway.com/p/security-disclosure-wednesday-october-21st Comments URL: https://news.ycombinator.com/item?id=50188228 Points: 538 # Comments: 312"
-   ],
-   "source": "Hacker News",
-   "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-   "image": null,
-   "published_at": "2026-10-21T21:58:03Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "bee997298d40989889b0b10af21c91c88d1ff4d9",
-   "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-   "summary": [
-    "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-   "image": null,
-   "published_at": "2026-10-21T21:16:20Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "e9fc4036438cc691fe0ef5829293975a02789b21",
-   "title": "Meta says Muse has over 10M users, with shopping a top activity",
-   "summary": [
-    "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-   "image": null,
-   "published_at": "2026-10-21T21:14:19Z",
    "category": "tech",
    "related": []
   }

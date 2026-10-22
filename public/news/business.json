@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-22T15:07:28.308331Z",
- "story_count": 21,
+ "generated_at": "2026-10-22T19:59:19.228085Z",
+ "story_count": 24,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,45 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "378493e0245f5866e8be96bc29ce5e40807aa3f6",
+   "title": "US judge orders Trump to sit for deposition in $10bn lawsuit against BBC",
+   "summary": [
+    "While the broadcast was not readily available to view in Florida, Trump’s team has argued that he was personally damaged by the broadcast under Florida’s Unfair and Deceptive Trade Practices Act."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/oct/22/trump-bbc-lawsuit-deposition-discovery",
+   "image": "https://i.guim.co.uk/img/media/9a93ee6d87e5494961cdff94eda845a87fa6b1e9/324_368_4428_3541/master/4428.jpg?width=140&quality=85&auto=format&fit=max&s=84259c519bd503042046f2e2b79bb1f9",
+   "published_at": "2026-10-22T17:18:12Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "645ec10fe660436c86b0fcb4e2780a6a072abbf5",
+   "title": "Cyprus police investigate financial and tax affairs of ex-Chelsea owner Roman Abramovich",
+   "summary": [
+    "Inquiry follows report by Guardian and partners that aides of Russian oligarch appeared to have falsified paperwork mapping his businessesPolice in Cyprus have opened an investigation into the financial and tax affairs of the former Chelsea FC owner Roman Abramovich following a report by the Guardian and media partners.In a committee hearing in the Cypriot parliament, a senior official in the island’s police said they were looking into events between 2003 and 2006, with the investigation likely to last several months."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/22/cyprus-police-investigate-financial-tax-affairs-roman-abramovich-chelsea",
+   "image": "https://i.guim.co.uk/img/media/106f5d356377299feb847c2223975b086e6a7097/376_0_2083_1667/master/2083.jpg?width=140&quality=85&auto=format&fit=max&s=7e7b28b5dabcdf8920264073bbf7fee2",
+   "published_at": "2026-10-22T15:53:22Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "562b510695d8b493cee76b8d0ebd54dede0923bf",
+   "title": "'I wasn't thinking straight' says five jobs civil servant",
+   "summary": [
+    "Kashim Chowdhury is accused of fraudulently juggling multiple public sector jobs."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-22T15:05:47Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "52e8775d890cc5f91159b0c060acdc0ed1b0cc2a",
    "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
@@ -50,13 +89,13 @@
    "related": []
   },
   {
-   "id": "a832a4da4ffe683dcb8b7bedf4259460d15a05fd",
+   "id": "01b88856c020855d3e7ce44e5dbe9115aad0db57",
    "title": "The Briefing Room",
    "summary": [
     "After mass protests and violence, what will persuade the French to accept economic reform?"
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_fourfm?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sounds/play/m00333cg?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-22T13:19:00Z",
    "category": "business",
@@ -85,6 +124,19 @@
    "url": "https://www.theguardian.com/us-news/2026/oct/22/trump-high-gas-prices-midterms-cycle",
    "image": "https://i.guim.co.uk/img/media/48409507b97b27256278d0fc1d3d4df39035668a/646_0_6475_5181/master/6475.jpg?width=140&quality=85&auto=format&fit=max&s=b7723508a3614005cffd2d83c7e32ea8",
    "published_at": "2026-10-22T11:00:40Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "c068a38136a18cde5717835de6957a3171bba039",
+   "title": "French borrowing costs overtake US amid budget turmoil",
+   "summary": [
+    "France’s bond market hit by another bout of selling as country recovers from weekend protestsFrench borrowing costs continued to rise on Thursday, as investors fret that France’s government is struggling to pass a federal budget after public protests gripped the country.France’s bond market was hit with another bout of selling, with the difference between French and German 10-year borrowing costs – a metric for the risk premium attached to French debt – rising to its highest level in almost 15 years."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/22/french-borrowing-costs-overtake-us-amid-budget-turmoil",
+   "image": "https://i.guim.co.uk/img/media/75bedd6d2c81e2f2be23f61588ee0e589a2a9d70/1090_0_4382_3508/master/4382.jpg?width=140&quality=85&auto=format&fit=max&s=6fab366b2a3932a3831176f8c87818a2",
+   "published_at": "2026-10-22T08:40:36Z",
    "category": "business",
    "related": []
   },
@@ -281,19 +333,6 @@
    "url": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-21T08:35:47Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "a0c903dc150f4437596fbdec3b37782e1935cc8b",
-   "title": "Watch: 'We don't pay' - lawyer advises how to avoid £45,000 illegal-worker fine",
-   "summary": [
-    "Mohammad Alias Yousaf made his claim to an undercover reporter posing as a mini-mart owner."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/cm93z1j33dkpo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-21T05:00:54Z",
    "category": "business",
    "related": []
   }

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T15:07:28.309328Z",
+ "generated_at": "2026-10-22T19:59:19.229617Z",
  "story_count": 20,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -24,30 +24,63 @@
  },
  "stories": [
   {
-   "id": "63ab37556139bb62ba68976cb558163b79104675",
+   "id": "ed88de50ca28afaec31b9c2cc73f7838202b29d1",
    "rank": 1,
-   "title": "LHC summons Punjab home secretary, Kot Lakhpat jail superintendent in plea seeking release of Imran’s sisters",
-   "brief": "LAHORE: The Lahore High Court (LHC) on Thursday summoned the Punjab home secretary and the superintendent of Kot Lakhpat jail in connection with a petition seeking the release of former prime minister Imran Khan’s three sisters.",
+   "title": "Race to update services' computer systems after cyber-security flaw found",
+   "brief": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-22T17:12:51Z",
+   "category": "world"
+  },
+  {
+   "id": "a67f99a0a39f0755c5d9352341376a43ec6d06c4",
+   "rank": 2,
+   "title": "Websites taken down worldwide as critical cyber-security update issued",
+   "brief": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-21T19:54:57Z",
+   "category": "tech"
+  },
+  {
+   "id": "8c4034cc74486a604f138b831a92834584c003e9",
+   "rank": 3,
+   "title": "ATC replaces state counsel in security breach case after Imaan, Hadi object to appointment",
+   "brief": "RAWALPINDI: An anti-terrorism court (ATC) on Thursday cancelled the appointment of state counsel Taimoor Janjua in a security breach case against lawyers Imaan Zainab Mazari-Hazir and Hadi Ali Chattha, after the accused objected to his past conduct in another case.",
    "source": "Dawn",
-   "url": "https://www.dawn.com/news/2038971/lhc-summons-punjab-home-secretary-kot-lakhpat-jail-superintendent-in-plea-seeking-release-of-imrans-sisters",
-   "image": "https://i.dawn.com/large/2026/09/21080823b452561.webp",
-   "published_at": "2026-10-22T09:50:01Z",
+   "url": "https://www.dawn.com/news/2039035/atc-replaces-state-counsel-in-security-breach-case-after-imaan-hadi-object-to-appointment",
+   "image": "https://i.dawn.com/large/2025/11/06152256b1c233f.webp",
+   "published_at": "2026-10-22T15:57:26Z",
    "category": "pakistan"
   },
   {
-   "id": "95723ae82b268219345342e28814d722555bc611",
-   "rank": 2,
-   "title": "LHC summons Punjab home secretary, Kot Lakhpat Jail chief over Imran's sisters' detention",
-   "brief": "The Lahore High Court (LHC) on Thursday summoned the Punjab home secretary and the superintendent of Kot Lakhpat Jail over the continued detention of Pakistan Tehreek-e-Insaf (PTI) founder Imran Khan’s three sisters despite the expiry of their 30-day detention orders.",
+   "id": "cd5636ff58e54104a3131b44e3446e96703a9bb5",
+   "rank": 4,
+   "title": "ATC replaces state counsel after Imaan, Hadi object to appointment",
+   "brief": "Judge Tahir Abbas Sipra, who heard the case at Adiala Jail, accepted an application filed by Imaan and Hadi challenging Janjua’s appointment and appointed Atif Mahmood as the new state counsel.",
    "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2636298/lhc-summons-punjab-home-secretary-kot-lakhpat-jail-chief-over-imrans-sisters-detention",
+   "url": "https://tribune.com.pk/story/2636320/atc-replaces-state-counsel-after-imaan-hadi-object-to-appointment",
    "image": null,
-   "published_at": "2026-10-22T03:55:34Z",
+   "published_at": "2026-10-22T06:33:33Z",
    "category": "pakistan"
+  },
+  {
+   "id": "cb64df832b58d1f44c764c504547ef91f3a2bf1d",
+   "rank": 5,
+   "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+   "brief": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-22T18:26:56Z",
+   "category": "world"
   },
   {
    "id": "b2917dd007e79a8ee3ce730443318c7d15a04690",
-   "rank": 3,
+   "rank": 6,
    "title": "What is PHP and why did it spark a global cyber-security scramble?",
    "brief": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
    "source": "BBC News",
@@ -58,7 +91,7 @@
   },
   {
    "id": "33599bcfdf8cb5f8efb7562512c80e2f9509d298",
-   "rank": 4,
+   "rank": 7,
    "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
    "brief": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
    "source": "BBC News",
@@ -69,7 +102,7 @@
   },
   {
    "id": "ee65f8e9723d9cdb938c96cfef5945f2898b9006",
-   "rank": 5,
+   "rank": 8,
    "title": "Why is a peat fire so bad? BBC is in Indonesia to find out",
    "brief": "The BBC's Liza Tambunan is in central Kalimantan, to explain what peat is and why Indonesia is facing its worst wildfire season in a decade.",
    "source": "BBC News",
@@ -80,7 +113,7 @@
   },
   {
    "id": "9dabda8095fb9caeac3413258efa3884fad7e615",
-   "rank": 6,
+   "rank": 9,
    "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
    "brief": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
    "source": "BBC News",
@@ -90,8 +123,74 @@
    "category": "tech"
   },
   {
+   "id": "4ec183c3f810f78cf5588b3f7a7bcfff200cc6bd",
+   "rank": 10,
+   "title": "4 cops including DSP martyred, 2 terrorists killed during exchange of fire in KP's Karak: police",
+   "brief": "LAKKI MARWAT: Four policemen, including two officials, were martyred and two terrorists were killed during an exchange of fire in Khyber Pakhtunkhwa’s Karak district on Thursday, police said.",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039039/4-cops-including-dsp-martyred-2-terrorists-killed-during-exchange-of-fire-in-kps-karak-police",
+   "image": "https://i.dawn.com/large/2026/10/222157138bfc950.webp",
+   "published_at": "2026-10-22T18:58:13Z",
+   "category": "pakistan"
+  },
+  {
+   "id": "cd0d246272ead0a726423aa038348bab0b5c9560",
+   "rank": 11,
+   "title": "DSP among 4 CTD, police personnel martyred in Karak attack",
+   "brief": "Four police personnel, including a deputy superintendent of police (DSP) of the Counter-Terrorism Department (CTD), were martyred on Thursday in an exchange of fire with armed men in the Khurram Muhammad Zai area of Khyber-Pakhtunkhwa's Karak district.",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2636373/dsp-among-4-ctd-police-personnel-martyred-in-karak-attack",
+   "image": null,
+   "published_at": "2026-10-22T14:05:19Z",
+   "category": "pakistan"
+  },
+  {
+   "id": "1c2df1641b08b0b9c20027efcbd163f5d69c049c",
+   "rank": 12,
+   "title": "3 terrorists killed as security forces foil attack on construction camp in Gwadar: state media",
+   "brief": "Security forces have killed three terrorists belonging to Fitna al-Hindustan while foiling an attempt to attack an unoccupied camp of a construction company in Balochistan's Gwadar, state-owned Radio Pakistan reported on Thursday, citing security sources.",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2636369/3-terrorists-killed-as-security-forces-foil-attack-on-construction-camp-in-gwadar-state-media",
+   "image": null,
+   "published_at": "2026-10-22T12:49:45Z",
+   "category": "pakistan"
+  },
+  {
+   "id": "0d78cefc44de482157440310c8533d565f0c0bbc",
+   "rank": 13,
+   "title": "Tally hits 95 as two more monkeypox cases reported in Sindh",
+   "brief": "Experts said mpox is a viral disease that can spread through close physical or skin-to-skin contact with an infected person, as well as contact with lesions, bodily fluids or contaminated objects. People developing symptoms have been advised to avoid close contact with others and seek immediate medical evaluation and diagnostic testing.",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2636366/tally-hits-95-as-two-more-monkeypox-cases-reported-in-sindh",
+   "image": null,
+   "published_at": "2026-10-22T12:18:05Z",
+   "category": "pakistan"
+  },
+  {
+   "id": "b56c8143001d391caf7d460bc3f534105b5fe2ed",
+   "rank": 14,
+   "title": "Pakistan, Maldives move to establish direct air links",
+   "brief": "Prime Minister Shehbaz Sharif on Thursday said he had directed the Ministry of Aviation to explore ways to establish direct flights between Pakistan and the Maldives, as the two countries agreed to strengthen air connectivity and expand bilateral trade.",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2636362/pakistan-maldives-move-to-establish-direct-air-links",
+   "image": null,
+   "published_at": "2026-10-22T11:38:44Z",
+   "category": "pakistan"
+  },
+  {
+   "id": "63ab37556139bb62ba68976cb558163b79104675",
+   "rank": 15,
+   "title": "LHC summons Punjab home secretary, Kot Lakhpat jail superintendent in plea seeking release of Imran’s sisters",
+   "brief": "LAHORE: The Lahore High Court (LHC) on Thursday summoned the Punjab home secretary and the superintendent of Kot Lakhpat jail in connection with a petition seeking the release of former prime minister Imran Khan’s three sisters.",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2038971/lhc-summons-punjab-home-secretary-kot-lakhpat-jail-superintendent-in-plea-seeking-release-of-imrans-sisters",
+   "image": "https://i.dawn.com/large/2026/09/21080823b452561.webp",
+   "published_at": "2026-10-22T09:50:01Z",
+   "category": "pakistan"
+  },
+  {
    "id": "f064561f25b50ec742cb26f41fe930c3840adf28",
-   "rank": 7,
+   "rank": 16,
    "title": "Karachi judicial magistrate rejects bail plea of anchorperson Iqrarul Hassan",
    "brief": "KARACHI: A local court on Thursday rejected TV anchorperson Iqrarul Hassan’s bail plea in a cybercrime case pertaining to the alleged dissemination of anti-state content. Earlier this week, Hassan was sent to prison on judicial remand after the NCCIA sought an extension of his physical remand by another eight days.",
    "source": "Dawn",
@@ -102,7 +201,7 @@
   },
   {
    "id": "6f5bb7d009ba48d31d5ef56d6c922c81ca6cd9e0",
-   "rank": 8,
+   "rank": 17,
    "title": "Govt directs ministries to compile civil servants' foreign nationality declarations",
    "brief": "Under Rule 3(3), civil servants must declare whether they hold the nationality of any foreign country, possess foreign travel documents or are married to a foreign national.",
    "source": "Express Tribune",
@@ -113,7 +212,7 @@
   },
   {
    "id": "b1578b3b5753be08b9a4ebc8d73bba25eeea2df3",
-   "rank": 9,
+   "rank": 18,
    "title": "Karachi court rejects Iqrarul Hassan's bail plea in anti-state content case",
    "brief": "The District and Sessions Court East dismissed a petition challenging Hassan's physical remand, with the defence counsel questioning the legality of the proceedings and arguing that the case concerned digital and cyber matters. The National Cyber Crime Investigation Agency (NCCIA) registered the case against Hassan, who is currently in jail on judicial remand.",
    "source": "Express Tribune",
@@ -123,124 +222,25 @@
    "category": "pakistan"
   },
   {
-   "id": "93e160b6be16cc17b83cfc0c6f338ff08c0ca39a",
-   "rank": 10,
-   "title": "President Zardari to visit Germany from Oct 22-24: FO",
-   "brief": "Germany is Pakistan’s largest trading partner in the European Union, with both countries seeking to expand trade, investment and business cooperation.",
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2636317/president-zardari-to-visit-germany-from-oct-22-24-fo",
-   "image": null,
-   "published_at": "2026-10-22T06:17:26Z",
-   "category": "pakistan"
-  },
-  {
-   "id": "fba2a62850fa76d1f8e9fdb8c890b014e7ef03f1",
-   "rank": 11,
-   "title": "Pakistan, EU agree to boost counterterrorism cooperation, tackle online radicalisation: FO",
-   "brief": "The two sides reviewed recent regional and global developments affecting the terrorism threat landscape and strongly condemned terrorism in all its forms, reaffirming their commitment to combating the threat. The EU delegation condemned recent terrorist attacks in Pakistan, expressed solidarity with the victims and acknowledged Islamabad’s efforts to counter terrorism, the Foreign Office said.",
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2636315/pakistan-eu-agree-to-boost-counterterrorism-cooperation-tackle-online-radicalisation-fo",
-   "image": null,
-   "published_at": "2026-10-22T05:46:01Z",
-   "category": "pakistan"
-  },
-  {
-   "id": "a3a2821fc9b2516c87ebba972f652af1dbccc097",
-   "rank": 12,
-   "title": "Pakistan to host UN conference on space technology for disaster warnings, climate action: SUPARCO",
-   "brief": "The United Nations–Pakistan International Conference on Leveraging Space Technology for Early Warning for All (EW4All), Climate Action and Disaster Risk Assessment will be held at the Serena Hotel. Discussions will also cover the use of space technology in disaster risk reduction, climate-resilient development and the monitoring of water resources, agriculture, forests and environmental change.",
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2636303/pakistan-to-host-un-conference-on-space-technology-for-disaster-warnings-climate-action-suparco",
-   "image": null,
-   "published_at": "2026-10-22T04:33:11Z",
-   "category": "pakistan"
-  },
-  {
-   "id": "5f284e079848d68ce8910985b6a6b25023f3ef59",
-   "rank": 13,
-   "title": "IMF forecasts 1.3% contraction in Pakistan, 6.6% growth in 2027",
-   "brief": "The International Monetary Fund said the region's output was expected to contract by 1.3% as a result of the war's ​impact on energy production, shipping, tourism, trade and confidence.",
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2636297/imf-forecasts-13-contraction-in-pakistan-66-growth-in-2027",
-   "image": null,
-   "published_at": "2026-10-22T03:46:01Z",
-   "category": "pakistan"
-  },
-  {
-   "id": "ddd88d0a45d9c166390936711220f80d09896c02",
-   "rank": 14,
-   "title": "PM Shehbaz defends emergency, governor’s rule in K-P, blames PTI for resurgence of terrorism",
-   "brief": "He said provincial security forces had not been provided with adequate training, modern weapons or other necessary equipment, adding that the federal government had repeatedly assured PTI-led provincial administrations of its support in combating terrorism.",
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2636284/pm-shehbaz-arrives-in-peshawar-for-apex-committee-meeting-security-briefing",
-   "image": null,
-   "published_at": "2026-10-22T02:23:53Z",
-   "category": "pakistan"
-  },
-  {
-   "id": "7379a656908e5e92d3f679034f2e289ac21c352d",
-   "rank": 15,
-   "title": "Govt, JI negotiating committees to meet over petroleum levy tomorrow",
-   "brief": "The government and Jamaat-e-Islami (JI) negotiating committees are set to meet in Islamabad on Friday to discuss the abolition of the petroleum levy, as the party prepares to resume nationwide protests over fuel prices, JI Deputy Emir Liaquat Baloch said on Thursday.",
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2636278/govt-ji-negotiating-committees-to-meet-over-petroleum-levy-tomorrow",
-   "image": null,
-   "published_at": "2026-10-22T01:20:49Z",
-   "category": "pakistan"
-  },
-  {
-   "id": "46f4dc360a154a5b7c97e9fcce1553eff4ee6421",
-   "rank": 16,
-   "title": "Barclays to cut 5,000 jobs as bank’s bosses hail AI productivity advances",
-   "brief": "Equating to the loss of 5% of its 93,000 global staff, job cuts come as bank announces jump in quarterly profitsBusiness live – latest updatesBarclays is cutting 5,000 jobs as part of wider cost-saving plans that its bosses say are being driven by advances in AI.The job cuts will mean losing about 5% of the…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget",
-   "image": "https://i.guim.co.uk/img/media/42ebdcc562c64f3843def3a9641e7ab414a3974a/218_632_4806_3847/master/4806.jpg?width=140&quality=85&auto=format&fit=max&s=ead5517a8bc9d073964007e984fae6a1",
-   "published_at": "2026-10-22T14:39:29Z",
-   "category": "world"
-  },
-  {
-   "id": "869a22603563c170b90fa0f6304d92e0d38a830b",
-   "rank": 17,
-   "title": "First human case of Shamonda virus detected in France, officials say",
-   "brief": "The disease, which usually affects cattle, has been identified in a patient who died in early October.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-22T13:53:32Z",
-   "category": "world"
-  },
-  {
-   "id": "cd83f0bb469bd9d2a9618cac94eb8ee00ec4ac11",
-   "rank": 18,
-   "title": "At least four dead after storm brings flooding to southern France",
-   "brief": "The deaths include two women found drowned in a cellar in the Bouches-du-Rhône region.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-22T11:23:16Z",
-   "category": "world"
-  },
-  {
-   "id": "771f8b81cd83dfd53efd5a493aefce8c7145e032",
+   "id": "95723ae82b268219345342e28814d722555bc611",
    "rank": 19,
-   "title": "Meta strikes deal with Zuckerberg to help him foot billionaire tax bill",
-   "brief": "Chief executive agrees to remain in California for eight years even if the state brings in a one-off wealth taxBusiness live – latest updatesMeta has struck a deal with Mark Zuckerberg to help him foot a possible California wealth tax targeting billionaires.The social media company behind Facebook, Instagram and WhatsApp revealed on Wednesday night that…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/oct/22/meta-mark-zuckerberg-california-wealth-tax",
-   "image": "https://i.guim.co.uk/img/media/2e6040371e8498c68a3ec60ae6efac595ffa4c7a/209_3_4321_3459/master/4321.jpg?width=140&quality=85&auto=format&fit=max&s=f2994e7e56e0732dda3ffe99b529e393",
-   "published_at": "2026-10-22T10:10:03Z",
-   "category": "tech"
+   "title": "LHC summons Punjab home secretary, Kot Lakhpat Jail chief over Imran's sisters' detention",
+   "brief": "The Lahore High Court (LHC) on Thursday summoned the Punjab home secretary and the superintendent of Kot Lakhpat Jail over the continued detention of Pakistan Tehreek-e-Insaf (PTI) founder Imran Khan’s three sisters despite the expiry of their 30-day detention orders.",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2636298/lhc-summons-punjab-home-secretary-kot-lakhpat-jail-chief-over-imrans-sisters-detention",
+   "image": null,
+   "published_at": "2026-10-22T03:55:34Z",
+   "category": "pakistan"
   },
   {
-   "id": "3a5e058e165afc3cce07c0fef7dc40336e129bfc",
+   "id": "5c6da52aa563cdb7890fdba3642049670ef52644",
    "rank": 20,
-   "title": "Is the UK set to green-light a huge untapped oil field?",
-   "brief": "Scotland editor James Cook visits Rosebank - the UK's largest known untapped oilfield - in the North Atlantic.",
+   "title": "Firefighters and public 'knowingly put at risk' during summer wildfires",
+   "brief": "Crews and control centre staff say the fires were relentless with many firefighters still off work injured.",
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/cxnv0emj06v1o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqvgjk3j0j9wo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-10-22T06:09:44Z",
+   "published_at": "2026-10-22T18:48:59Z",
    "category": "science"
   }
  ]
