@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-22T04:31:02.703063Z",
- "story_count": 18,
+ "generated_at": "2026-10-22T10:02:55.345921Z",
+ "story_count": 20,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,32 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "0251ed91d88100ae5f544acd768ad62d80a4082c",
+   "title": "Jackdaw decision 'taken outwith Scotland about Scotland's energy'",
+   "summary": [
+    "Scottish Green Mark Ruskell, the SNP’s Keith Brown and Scottish Labour’s Jenny Young weigh up the Jackdaw decision."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/c39wzvxxjejxo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-22T07:26:18Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "dc01992f7d95857e9a217902d4c977ed7b8f4c6c",
+   "title": "NI risks missing 2030 energy goals, says Stormont committee",
+   "summary": [
+    "A committee hears that Northern Ireland could lose out on economic opportunities if action is not accelerated."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c623d18dl3v0o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-22T05:09:52Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "e90e0ce6649690d8933fa82d36d8b314b196f4e0",
    "title": "New lab to become centre for investigating uplands",

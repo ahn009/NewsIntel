@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-22T04:31:02.702744Z",
- "story_count": 14,
+ "generated_at": "2026-10-22T10:02:55.345551Z",
+ "story_count": 18,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,84 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "52e8775d890cc5f91159b0c060acdc0ed1b0cc2a",
+   "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+   "summary": [
+    "The bank says it is using more AI leading to a 5% reduction in its workforce."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-22T09:37:58Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "8851767c283732a976ed1cc806ba7babb4289d2b",
+   "title": "Children in care to get £10 a week savings",
+   "summary": [
+    "Eligible people in the care system will be able to access the savings once they turn 18."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6vg0klve484o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-22T06:57:45Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "149fd17d22358dc089434f3480d2e71eff23115b",
+   "title": "Woman 'scared to turn heating on' due to oil cost",
+   "summary": [
+    "Roslynn Garner-Gatley starts using a hot water bottle, bed socks and earlier bedtimes to stay warm."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmgel220j7nvo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-22T05:29:22Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "27dc979d34d5d3898f0a451a1e8cd06935adf123",
+   "title": "'I can't afford to heat my home on my pension'",
+   "summary": [
+    "Teresa Goubert says heating is \"very expensive\" and she was struggling on her pension."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm4g19jnjgpno?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-22T05:24:13Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "27f8a831fee29b50959d6a406533f87c348b1020",
+   "title": "'An £8k service charge left me unable to pay bills'",
+   "summary": [
+    "Housing association Curo defends large increases to leaseholder bills."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ckr5ye6mvr33o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-22T05:19:53Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "c907a956fe08928614efdb9cf03e6de9099b48dd",
+   "title": "Is an 'AI war' complicating your job search?",
+   "summary": [
+    "How fair are AI recruitment tools that help decide our future, and what happens when we click \"apply\"?"
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm9qzgg5z89no?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-22T05:01:31Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "871671182ad8cea7a4d4274f2b6af00aba74eb11",
    "title": "The 'trillion pound' oil fund the government believes Britain could have built",
@@ -178,32 +256,6 @@
    "url": "https://www.theguardian.com/science/2026/oct/20/spacex-revenue-earnings-report",
    "image": "https://i.guim.co.uk/img/media/e8751fbc7c731bbd0529b03c52637c25514b5fc6/619_0_4330_3463/master/4330.jpg?width=140&quality=85&auto=format&fit=max&s=bbd3129d8214898b08d7ec2403477375",
    "published_at": "2026-10-21T01:10:07Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "a7db14ab145036e762a547d88ffbaabe6b5320a7",
-   "title": "Audit regulator looking into Manchester City accounting",
-   "summary": [
-    "No formal investigation has started, but the regulator is making inquiries into the case."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-20T20:56:53Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "1021f33af619f4671785a8c0d50cbab25b3a5b8e",
-   "title": "United Airlines CEO faces rightwing backlash after calling for US wealth tax",
-   "summary": [
-    "Scott Kirby says wealth inequality is a ‘danger to society’ and calls for inheritance tax in recent interviewScott Kirby, the CEO of United Airlines, is under scrutiny from conservative politicians and commentators for saying wealth inequality is a “danger to society” and calling for a national wealth and inheritance tax in a recent interview.Talking to the New York Times, Kirby was asked about the growing public distrust of CEOs and whether he felt any responsibility to quell that distrust."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/oct/20/scott-kirby-united-wealth-tax-backlash",
-   "image": "https://i.guim.co.uk/img/media/e4c4c6e2ccabc75b339a53c80a73c6c5a5f39b4c/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=fbb26c1f77edbd419aaaa6c80792d638",
-   "published_at": "2026-10-20T20:06:31Z",
    "category": "business",
    "related": []
   }
