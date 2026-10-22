@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T19:59:19.227486Z",
+ "generated_at": "2026-10-22T23:15:39.689153Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -24,15 +24,126 @@
  },
  "stories": [
   {
-   "id": "4e4febdfba9b7c00275a6a65bc12c523261c43dc",
-   "title": "eMudhra logins can be bruteforced",
+   "id": "45bf2434c3755fb40b28b1e268fb0d4b07253d55",
+   "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
    "summary": [
-    "Article URL: https://mastodon.catgirl.cloud/@49016/117475976434068995 Comments URL: https://news.ycombinator.com/item?id=50199757 Points: 6 # Comments: 0"
+    "Warhound, the brain child of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+   "image": null,
+   "published_at": "2026-10-22T23:15:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "5a8c43ecaaad513995b2b0f87f547f1e4cef2dab",
+   "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
+   "summary": [
+    "The digital asset unit, helmed by Chris Dixon, broadens its scope."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
+   "image": null,
+   "published_at": "2026-10-22T22:34:54Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "5d6c7c0acd4e3d7ae6a75143a5b5050fe45e439d",
+   "title": "Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI",
+   "summary": [
+    "Hey HN, we recently open sourced our Consumer Agent Testing Tool to help teams iterate against proprietary assistants like Muse and Instinct.",
+    "CATT then records the full interaction (incl. tool calls, responses) so it can diff what happened from what the agent reports.",
+    "What else should we add tests for?The best way to get started is...to point your coding assistant at the repo and ask it to integrate the tool with your CI or local testing pipeline!Hope it's helpful![0]: https://www.sunbeam.ai/thoughts/instinct-is-using-exa-for-we..."
    ],
    "source": "Hacker News",
-   "url": "https://mastodon.catgirl.cloud/@49016/117475976434068995",
+   "url": "https://github.com/Coverage-Cat/consumer-agent-testing-tool",
    "image": null,
-   "published_at": "2026-10-22T19:14:01Z",
+   "published_at": "2026-10-22T22:18:40Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "6372ebaa66c806f54d26e33177513ab47bc13129",
+   "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+   "summary": [
+    "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+   "image": null,
+   "published_at": "2026-10-22T22:08:24Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "76e529b8b9122de19c81ae14684096bb0edbeaec",
+   "title": "Railpass",
+   "summary": [
+    "Article URL: https://train.samismith.com/ Comments URL: https://news.ycombinator.com/item?id=50201414 Points: 19 # Comments: 2"
+   ],
+   "source": "Hacker News",
+   "url": "https://train.samismith.com/",
+   "image": null,
+   "published_at": "2026-10-22T21:38:32Z",
+   "category": "tech",
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://arc.net/"
+    }
+   ]
+  },
+  {
+   "id": "afd83717337b453116976dbfa40b994f8bc4fd08",
+   "title": "Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions",
+   "summary": [
+    "Article URL: https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations Comments URL: https://news.ycombinator.com/item?id=50201259 Points: 128 # Comments: 40"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
+   "image": null,
+   "published_at": "2026-10-22T21:24:41Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "19863054b203cb580a285208d42b2319a918d9f6",
+   "title": "Rivian buys world model startup to accelerate self-driving ambitions",
+   "summary": [
+    "Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
+   "image": null,
+   "published_at": "2026-10-22T21:05:05Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "2d8a9344d027e7807e0bbb719f28ad8631c38855",
+   "title": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
+   "summary": [
+    "Arc was fiercely beloved by a dedicated group of enthusiasts, but it never quite became the mass-market Chrome alternative its makers once envisioned."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/",
+   "image": null,
+   "published_at": "2026-10-22T20:01:51Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "8fc1a4ef75d0e67f0df523f74734fa5e02043fd8",
+   "title": "The secret to fast startup growth isn’t early sales, top names in tech say",
+   "summary": [
+    "At this year’s Disrupt, Lovable GTM lead Luke Arno, Polsia's Ben Broca, and Theory Ventures’ Tomasz Tunguz gave founders some tips on how to achieve true sales success in the first 90 days."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/",
+   "image": null,
+   "published_at": "2026-10-22T20:00:00Z",
    "category": "tech",
    "related": []
   },
@@ -79,7 +190,7 @@
    "id": "9eefcb402cccdce697728e5551b4c7f8ef2e12d6",
    "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
    "summary": [
-    "Article URL: https://github.com/maxilevi/project-hedra/tree/pre-ai Comments URL: https://news.ycombinator.com/item?id=50199389 Points: 28 # Comments: 5"
+    "Article URL: https://github.com/maxilevi/project-hedra/tree/pre-ai Comments URL: https://news.ycombinator.com/item?id=50199389 Points: 94 # Comments: 23"
    ],
    "source": "Hacker News",
    "url": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
@@ -103,19 +214,6 @@
    "related": []
   },
   {
-   "id": "3d9039a53cdbe4ef929ce563cb1974086c104cd7",
-   "title": "Show HN: Build a world on your phone, explore it in XR on Vision Pro and Quest",
-   "summary": [
-    "Article URL: https://3d.camilleworld.com/play/ Comments URL: https://news.ycombinator.com/item?id=50199349 Points: 5 # Comments: 1"
-   ],
-   "source": "Hacker News",
-   "url": "https://3d.camilleworld.com/play/",
-   "image": null,
-   "published_at": "2026-10-22T18:39:39Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "2203bd1a772ab1e2b9393af5d51e360dfc54175b",
    "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
    "summary": [
@@ -132,7 +230,7 @@
    "id": "5521316bcdc521bfa13ff83be20d8c22f1eb1abe",
    "title": "Show HN: UI micro interactions prompts for AI",
    "summary": [
-    "Article URL: https://www.typeui.sh/micro-interactions Comments URL: https://news.ycombinator.com/item?id=50199290 Points: 24 # Comments: 11"
+    "Article URL: https://www.typeui.sh/micro-interactions Comments URL: https://news.ycombinator.com/item?id=50199290 Points: 67 # Comments: 37"
    ],
    "source": "Hacker News",
    "url": "https://www.typeui.sh/micro-interactions",
@@ -142,23 +240,10 @@
    "related": []
   },
   {
-   "id": "6786e7b5eab163d4aa31f907a59d4b070c98f89a",
-   "title": "Award-Winning AI Literature",
-   "summary": [
-    "Article URL: https://jamesyu.org/award-winning-ai-literature/ Comments URL: https://news.ycombinator.com/item?id=50199232 Points: 23 # Comments: 7"
-   ],
-   "source": "Hacker News",
-   "url": "https://jamesyu.org/award-winning-ai-literature/",
-   "image": null,
-   "published_at": "2026-10-22T18:28:26Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "a89c1639c81cde6e82c5769219b41226413e55d6",
    "title": "AI and the Enclosure of the Scientific Commons",
    "summary": [
-    "Article URL: https://arxiv.org/abs/2610.27251 Comments URL: https://news.ycombinator.com/item?id=50199230 Points: 24 # Comments: 5"
+    "Article URL: https://arxiv.org/abs/2610.27251 Comments URL: https://news.ycombinator.com/item?id=50199230 Points: 93 # Comments: 53"
    ],
    "source": "Hacker News",
    "url": "https://arxiv.org/abs/2610.27251",
@@ -171,7 +256,7 @@
    "id": "619008f39dfd1cd19740c46869a986f2979b4e75",
    "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
    "summary": [
-    "Article URL: https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients Comments URL: https://news.ycombinator.com/item?id=50198940 Points: 31 "
+    "Article URL: https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients Comments URL: https://news.ycombinator.com/item?id=50198940 Points: 72 "
    ],
    "source": "Hacker News",
    "url": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
@@ -181,41 +266,23 @@
    "related": []
   },
   {
-   "id": "2d02eab26592aba7aa5b1ff661ffc10f94398611",
-   "title": "Show HN: agent-usage-guard – a Claude Code mod to protect your usage window",
-   "summary": [
-    "Article URL: https://github.com/rbartoli/agent-usage-guard Comments URL: https://news.ycombinator.com/item?id=50198936 Points: 11 # Comments: 6"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/rbartoli/agent-usage-guard",
-   "image": null,
-   "published_at": "2026-10-22T18:02:38Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "4dcdb955782720745c63884f1e5a19f3e6e44932",
-   "title": "Nvidia OpenShell",
+   "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
    "summary": [
-    "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 108 # Comments: 54"
+    "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 252 # Comments: 130"
    ],
    "source": "Hacker News",
    "url": "https://github.com/NVIDIA/OpenShell",
    "image": null,
    "published_at": "2026-10-22T17:44:06Z",
    "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "https://arc.net/"
-    }
-   ]
+   "related": []
   },
   {
    "id": "35b21957076a4419add6613a841c4633f105b77d",
-   "title": "Elon Musk made a $1 billion investment in Skydance, report says",
+   "title": "Elon Musk made a $1B investment in Skydance, report says",
    "summary": [
-    "The investment will provide a much needed financial boost as the company seeks to cut costs and lift its stock price."
+    "The investment will provide a much-needed financial boost as the company seeks to cut costs and lift its stock price."
    ],
    "source": "TechCrunch",
    "url": "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/",
@@ -252,9 +319,9 @@
   },
   {
    "id": "955af4ab7cc04a126ba853ff18b23e9fab78ede5",
-   "title": "Mini brain organoids 'reading' Braille key step towards biohybrid computing",
+   "title": "Mini brain organoids ‘reading’ Braille key step towards biohybrid computing",
    "summary": [
-    "Article URL: https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence Comments URL: https://news.ycombinator.com/item?id=50197450 Points: 18 # Comments: 6"
+    "Article URL: https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence Comments URL: https://news.ycombinator.com/item?id=50197450 Points: 34 # Comments: 37"
    ],
    "source": "Hacker News",
    "url": "https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence",
@@ -267,12 +334,25 @@
    "id": "a816b657efa82b583f97f23ccbf913e3a7f6d913",
    "title": "Getting ready to operate GNU Taler in Germany",
    "summary": [
-    "Article URL: https://www.taler.net/en/news/2026-13.html Comments URL: https://news.ycombinator.com/item?id=50197404 Points: 111 # Comments: 33"
+    "Article URL: https://www.taler.net/en/news/2026-13.html Comments URL: https://news.ycombinator.com/item?id=50197404 Points: 205 # Comments: 70"
    ],
    "source": "Hacker News",
    "url": "https://www.taler.net/en/news/2026-13.html",
    "image": null,
    "published_at": "2026-10-22T16:14:31Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "36b89264973fd28e84bcdafe2ed2d255f90b9bf4",
+   "title": "Every AI model has the same \"controversial\" take on humans",
+   "summary": [
+    "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 174 # Comments: 186"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+   "image": null,
+   "published_at": "2026-10-22T16:08:00Z",
    "category": "tech",
    "related": []
   },
@@ -329,23 +409,10 @@
    "related": []
   },
   {
-   "id": "a886745780828ce562e6594c063f4d252a65604f",
-   "title": "Google cleared 300 hectares of Finnish forest",
-   "summary": [
-    "Article URL: https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html Comments URL: https://news.ycombinator.com/item?id=50196837 Points: 272 # Comments: 187"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html",
-   "image": null,
-   "published_at": "2026-10-22T15:32:46Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "340d69bec7861ecaa20682f17bb6d03674276ef1",
-   "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
+   "title": "Run full iOS 16.5 firmware on Android Devices",
    "summary": [
-    "Article URL: https://github.com/oosexgang/hackios-xnu-kernel Comments URL: https://news.ycombinator.com/item?id=50196718 Points: 195 # Comments: 70"
+    "https://hackios-web.vercel.app/en Comments URL: https://news.ycombinator.com/item?id=50196718 Points: 286 # Comments: 111"
    ],
    "source": "Hacker News",
    "url": "https://github.com/oosexgang/hackios-xnu-kernel",
@@ -423,7 +490,7 @@
    "id": "d2f362921d4537c89286ab65d5a381f12f0dcb03",
    "title": "Quad9 (DNS Resolver) to Exit France",
    "summary": [
-    "Article URL: https://quad9.net/news/blog/au-revoir-france/ Comments URL: https://news.ycombinator.com/item?id=50195959 Points: 596 # Comments: 216"
+    "Article URL: https://quad9.net/news/blog/au-revoir-france/ Comments URL: https://news.ycombinator.com/item?id=50195959 Points: 904 # Comments: 332"
    ],
    "source": "Hacker News",
    "url": "https://quad9.net/news/blog/au-revoir-france/",
@@ -433,41 +500,15 @@
    "related": []
   },
   {
-   "id": "0c55490fe29c9da5403d1723c46b2769a8341a46",
-   "title": "MPs moving to restrict gambling ads in Canada",
+   "id": "f58adb543db2e6d26364562839b397f57ef7c5e8",
+   "title": "What’s getting pwned right now",
    "summary": [
-    "Article URL: https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888 Comments URL: https://news.ycombinator.com/item?id=50195873 Points: 174 # Comments: 81"
+    "Article URL: https://pwn.watch/ Comments URL: https://news.ycombinator.com/item?id=50195543 Points: 322 # Comments: 151"
    ],
    "source": "Hacker News",
-   "url": "https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888",
+   "url": "https://pwn.watch/",
    "image": null,
-   "published_at": "2026-10-22T14:26:40Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "8f91dcafe5d7ce6da2ff06822fe4727e60117f74",
-   "title": "Developer platform Railway urges ‘all users’ to revoke secret keys after cyberattack",
-   "summary": [
-    "The vibe-coding platform said all of its customers should revoke and rotate their private keys, after hackers were able to decrypt some customer secrets."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack/",
-   "image": null,
-   "published_at": "2026-10-22T14:03:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "8e16d6a954270ec11e35971fccea297c60d1de29",
-   "title": "Claude Duet app is Anthropic’s bet on agents",
-   "summary": [
-    "Claude Duet is available through waitlist for Pro and Max plan users."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-   "image": null,
-   "published_at": "2026-10-22T13:53:26Z",
+   "published_at": "2026-10-22T14:08:12Z",
    "category": "tech",
    "related": []
   },
@@ -475,7 +516,7 @@
    "id": "c857d00b04e61c1b9d3b351f90d7d33670dcc71c",
    "title": "eMudhra to exit global SSL/TLS certificate business",
    "summary": [
-    "Article URL: https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business Comments URL: https://news.ycombinator.com/item?id=50195110 Points: 758 # Comments: 549"
+    "Article URL: https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business Comments URL: https://news.ycombinator.com/item?id=50195110 Points: 889 # Comments: 606"
    ],
    "source": "Hacker News",
    "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
@@ -485,71 +526,30 @@
    "related": []
   },
   {
-   "id": "d2c9aa9349dca1be36728663a14170ec74cb1939",
-   "title": "Nirva raises $33M for a pendant that only listens to you",
+   "id": "183ea55e7b2918b06c57a24508e269b9d8c5a404",
+   "title": "Woman faces six years in prison over Cash App account she never opened",
    "summary": [
-    "Nirva will ship its $249 ambient AI pendant by the end of the year."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
-   "image": null,
-   "published_at": "2026-10-22T13:26:52Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "2bef5e15539918e46a8023c91e28fa38331431f0",
-   "title": "DeepSeek reportedly raises $15B days after US restrictions",
-   "summary": [
-    "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
-   "image": null,
-   "published_at": "2026-10-22T13:11:13Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "25bb82080b682e51e5287f924c5e9247893be50c",
-   "title": "The Last Museum: Semantic search across 5.8M artworks from major museums",
-   "summary": [
-    "Article URL: https://lastmuseum.com/ Comments URL: https://news.ycombinator.com/item?id=50194522 Points: 75 # Comments: 25"
+    "Article URL: https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html Comments URL: https://news.ycombinator.com/item?id=50194833 Points: 404 # Comments: 387"
    ],
    "source": "Hacker News",
-   "url": "https://lastmuseum.com/",
+   "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
    "image": null,
-   "published_at": "2026-10-22T12:40:04Z",
+   "published_at": "2026-10-22T13:11:00Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "bb91ef78ceb84ea23fa2f9e9a0f47d86196bd072",
-   "title": "‘The tech bro fight club is real!’ The titans of AI get the Succession treatment in a wild new TV show",
+   "id": "9dbb443e46012330945c0e61c90c4be44100f039",
+   "title": "Show HN: Replacing CAPTCHAs with adaptive proof-of-work in WordPress",
    "summary": [
-    "The Audacity is a fearless satire taking on Silicon Valley’s ‘egomaniac weirdos’.",
-    "The Audacity promises to do for tech bros what Succession did for legacy media.",
-    "Considering Glatzer is a former writer on Succession, that is no empty threat.This acerbic and all-too-timely Silicon Valley satire follows CEO Duncan Park (played by Billy Magnussen), the obscenely wealthy founder of a data analytics company."
+    "When I founded my business a whistle-blowing-service for enterprises, I’ve seeked for a working solution to block spam bots on that home page.",
+    "The solution was intended to comply with EU data privacy law, no cookies, no sniffing, light-weight-size, on my webserver only, beeing invisible for my site visitors and no running costs at all.I came across Hashcash, a proof-of-work approach, to block spam.",
+    "Therefore I‘ve turned it into a free wordpress-plugin.It is not only a technical solution, but starts with the business model of spam (mass spamming at low cost), by producing a calculation effort for every single post, that unavoidable."
    ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/tv-and-radio/2026/oct/22/the-audacity-hbo-max-billionaires-succession-treatment",
-   "image": "https://i.guim.co.uk/img/media/0b8644ae8f15bd961be02494dd9212e1e684893c/750_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=19c819b0d9d7e05d44c0634f5a824b0b",
-   "published_at": "2026-10-22T12:34:33Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "e09e66b236a421e81f66e0a60f4b488f53b514cc",
-   "title": "How tech became the villain of the US midterms",
-   "summary": [
-    "Datacenters, AI and distaste for the billionaires developing it has soured Americans on big techHow will Trump’s mass deportation agenda shape the US midterm elections?",
-    "Our reporters answer your questionsThe campaign ad begins with a clear, idyllic stream that suddenly turns sludge-brown as two concrete datacenters slam onto its banks.",
-    "Our farmland,” a deep-voiced narrator says. “Because Brent Taylor wrote the law allowing datacenters to take over Tennessee.” Continue reading..."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/22/us-midterms-tech-datacenters-ai",
-   "image": "https://i.guim.co.uk/img/media/bee9ffbae201f232019437dd608cde56248e206a/0_618_2744_2194/master/2744.jpg?width=140&quality=85&auto=format&fit=max&s=12783154694bb2037b9eebd91b0c343e",
-   "published_at": "2026-10-22T12:00:44Z",
+   "source": "Hacker News",
+   "url": "https://wordpress.org/plugins/gdpr-compliant-recaptcha-for-all-forms/",
+   "image": null,
+   "published_at": "2026-10-22T13:03:14Z",
    "category": "tech",
    "related": []
   }
