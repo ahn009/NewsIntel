@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T23:12:23.430448Z",
+ "generated_at": "2026-10-22T04:31:02.702128Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -24,15 +24,82 @@
  },
  "stories": [
   {
-   "id": "bcd64b51a2126f6152197eb505b52b9ebdd5944b",
-   "title": "Trump's green card curbs test Indian tech workers' American dream",
+   "id": "4f2612832168807fbb17fb31c9a4373fb86cdc5d",
+   "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
    "summary": [
-    "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians."
+    "Article URL: https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf Comments URL: https://news.ycombinator.com/item?id=50190455 Points: 48 # Comments: 27"
    ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o?at_medium=RSS&at_campaign=rss",
+   "source": "Hacker News",
+   "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
    "image": null,
-   "published_at": "2026-10-21T23:06:37Z",
+   "published_at": "2026-10-22T02:30:52Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "f6d022ddced04af3f0158c84b7ad6037290d6f02",
+   "title": "LLM Agents Play Pokemon Showdown",
+   "summary": [
+    "Article URL: https://olivergrabner.com/research/pokemon/ Comments URL: https://news.ycombinator.com/item?id=50190334 Points: 17 # Comments: 11"
+   ],
+   "source": "Hacker News",
+   "url": "https://olivergrabner.com/research/pokemon/",
+   "image": null,
+   "published_at": "2026-10-22T02:13:48Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "59845e0d8584b0b3885bf7ef6c127ada07efe0f3",
+   "title": "Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments",
+   "summary": [
+    "Article URL: https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552 Comments URL: https://news.ycombinator.com/item?id=50190168 Points: 108 # Comments: 60"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552",
+   "image": null,
+   "published_at": "2026-10-22T01:52:03Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "e7c2b56037de4e46cc914000e19b5c8ec53eab73",
+   "title": "Tesla says it will start selling Cybercabs by end of year",
+   "summary": [
+    "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards.",
+    "The gold-hued, autonomous two-seater lacks a steering wheel and other traditional controls.",
+    "During the company’s third-quarter earnings call, Lars Moravy, vice president of engineering at Tesla, […]"
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
+   "image": null,
+   "published_at": "2026-10-22T00:17:54Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ad2f63999e9adef445e6e546cbdd9f0bc4aaf266",
+   "title": "mitmproxy adds --emudhra option",
+   "summary": [
+    "Article URL: https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b Comments URL: https://news.ycombinator.com/item?id=50189232 Points: 332 # Comments: 87"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+   "image": null,
+   "published_at": "2026-10-21T23:51:37Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "aab26301899156afa038d966a1989de49e2f1003",
+   "title": "There isn't an easy exploit for this PHP vulnerability",
+   "summary": [
+    "Article URL: https://eliastaylor.com/noexploit/ Comments URL: https://news.ycombinator.com/item?id=50188948 Points: 273 # Comments: 134"
+   ],
+   "source": "Hacker News",
+   "url": "https://eliastaylor.com/noexploit/",
+   "image": null,
+   "published_at": "2026-10-21T23:13:27Z",
    "category": "tech",
    "related": []
   },
@@ -63,6 +130,19 @@
    "related": []
   },
   {
+   "id": "2f3c369b2392474325864590ab2c6ff4a3888f50",
+   "title": "Postgres recovery_prefetch can cause outages",
+   "summary": [
+    "Article URL: https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/ Comments URL: https://news.ycombinator.com/item?id=50188614 Points: 11 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/",
+   "image": null,
+   "published_at": "2026-10-21T22:33:08Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "dc82f050e19039b7f72e2f0d5cac67c236287cfc",
    "title": "Airbnb limits chores for guests, sparking backlash from hosts",
    "summary": [
@@ -77,9 +157,9 @@
   },
   {
    "id": "5699ea0146a98f847ef4646a2c965924a2f84dc0",
-   "title": "Railway Security Disclosure",
+   "title": "Security Disclosure",
    "summary": [
-    "Article URL: https://blog.railway.com/p/security-disclosure-wednesday-october-21st Comments URL: https://news.ycombinator.com/item?id=50188228 Points: 135 # Comments: 42"
+    "Article URL: https://blog.railway.com/p/security-disclosure-wednesday-october-21st Comments URL: https://news.ycombinator.com/item?id=50188228 Points: 368 # Comments: 211"
    ],
    "source": "Hacker News",
    "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
@@ -115,36 +195,10 @@
    "related": []
   },
   {
-   "id": "9fc697bbc28f2cfe86e0e8d72e3b8c55b2093b61",
-   "title": "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
-   "summary": [
-    "Article URL: https://aws.amazon.com/security/security-bulletins/2026-143-aws/ Comments URL: https://news.ycombinator.com/item?id=50187708 Points: 82 # Comments: 20"
-   ],
-   "source": "Hacker News",
-   "url": "https://aws.amazon.com/security/security-bulletins/2026-143-aws/",
-   "image": null,
-   "published_at": "2026-10-21T21:12:59Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "643ec4b93a719c5c09ec66b1956be668eb853ec0",
-   "title": "CleanFrame: A quieter home screen for Samsung The Frame",
-   "summary": [
-    "Article URL: https://github.com/nthnclrk/CleanFrame Comments URL: https://news.ycombinator.com/item?id=50187659 Points: 10 # Comments: 1"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/nthnclrk/CleanFrame",
-   "image": null,
-   "published_at": "2026-10-21T21:08:59Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "c600bafa0bd3b3336c04da9e8d89c5c44e40bbb4",
    "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
    "summary": [
-    "Just 9 months after raising an $180 million seed round, Flapping Airplanes has landed $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\""
+    "Just 9 months after raising a $180 million seed round, Flapping Airplanes has landed a $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\""
    ],
    "source": "TechCrunch",
    "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
@@ -183,26 +237,12 @@
    "id": "83d2f5d7893439115b6dc83f8b13c8df37a1913d",
    "title": "Automattic begins layoffs following board upheaval and executive departures",
    "summary": [
-    "Automattic has begun laying off employees across multiple teams, including WordPress.com and its enterprise business, following a board shakeup and a series of executive departures.",
     "Sources say more cuts could follow as the company looks to improve its finances."
    ],
    "source": "TechCrunch",
    "url": "https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/",
    "image": null,
    "published_at": "2026-10-21T20:15:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "a67f99a0a39f0755c5d9352341376a43ec6d06c4",
-   "title": "Websites taken down worldwide as critical cyber-security update issued",
-   "summary": [
-    "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-21T19:54:57Z",
    "category": "tech",
    "related": []
   },
@@ -221,7 +261,7 @@
   },
   {
    "id": "c77bdd3c5dfc7a6a3c2eb4bae8b8d88aed2c3ec8",
-   "title": "Meta ordered to pay $25 billion in case related to Cambridge Analytica scandal",
+   "title": "Meta ordered to pay $25B in case related to Cambridge Analytica scandal",
    "summary": [
     "The payout is related to a recent trial involving the social media giant that revolved around its data privacy practices."
    ],
@@ -246,23 +286,10 @@
    "related": []
   },
   {
-   "id": "5dbb54a005401fc70149c16868b8f3287a1f4a20",
-   "title": "Claude Duet",
-   "summary": [
-    "Article URL: https://claude.com/product/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186037 Points: 270 # Comments: 218"
-   ],
-   "source": "Hacker News",
-   "url": "https://claude.com/product/claude-duet",
-   "image": null,
-   "published_at": "2026-10-21T19:14:01Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "ca78317f24e4363bcf58f22924d9705605255d3e",
-   "title": "Google's Rust Style Guide",
+   "title": "Rust Style Guide",
    "summary": [
-    "Article URL: https://google.github.io/styleguide/rustguide.html Comments URL: https://news.ycombinator.com/item?id=50186010 Points: 135 # Comments: 92"
+    "Article URL: https://google.github.io/styleguide/rustguide.html Comments URL: https://news.ycombinator.com/item?id=50186010 Points: 244 # Comments: 132"
    ],
    "source": "Hacker News",
    "url": "https://google.github.io/styleguide/rustguide.html",
@@ -286,9 +313,9 @@
   },
   {
    "id": "7cd25ce54ea6a92776982875699c581836189fa7",
-   "title": "GitLab Critical Patch Release",
+   "title": "GitLab critical patch release",
    "summary": [
-    "Article URL: https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/ Comments URL: https://news.ycombinator.com/item?id=50185869 Points: 191 # Comments: 42"
+    "Article URL: https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/ Comments URL: https://news.ycombinator.com/item?id=50185869 Points: 275 # Comments: 67"
    ],
    "source": "Hacker News",
    "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
@@ -307,19 +334,6 @@
    "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
    "image": null,
    "published_at": "2026-10-21T18:51:56Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "e640f7b575965778d9103ca8629aa8748f6f71b4",
-   "title": "Canary Tokens",
-   "summary": [
-    "https://docs.canarytokens.org/guide/ Comments URL: https://news.ycombinator.com/item?id=50185630 Points: 107 # Comments: 20"
-   ],
-   "source": "Hacker News",
-   "url": "https://canarytokens.org/",
-   "image": null,
-   "published_at": "2026-10-21T18:45:04Z",
    "category": "tech",
    "related": []
   },
@@ -354,7 +368,7 @@
    "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
    "summary": [
     "https://nmdoj.gov/press-release/the-new-mexico-department-of...",
-    "Comments URL: https://news.ycombinator.com/item?id=50184820 Points: 276 # Comments: 168"
+    "Comments URL: https://news.ycombinator.com/item?id=50184820 Points: 437 # Comments: 279"
    ],
    "source": "Hacker News",
    "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
@@ -367,7 +381,7 @@
    "id": "bbc988e4da29f2449ebff0a3612e0807c0bf32f5",
    "title": "EA is shutting down BioWare",
    "summary": [
-    "Article URL: https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware Comments URL: https://news.ycombinator.com/item?id=50184586 Points: 451 # Comments: 275"
+    "Article URL: https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware Comments URL: https://news.ycombinator.com/item?id=50184586 Points: 574 # Comments: 348"
    ],
    "source": "Hacker News",
    "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
@@ -417,7 +431,7 @@
   },
   {
    "id": "b328ea6101ebd16615b9afe2cb13cda16cf11dc2",
-   "title": "Show HN: Omnara – Open-Source Alternative to Claude Managed Agents",
+   "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
    "summary": [
     "A worker runs one iteration of the loop, either a model call or the tool calls it produced, then releases the agent and puts the next iteration on a queue in Postgres.",
     "Agents waiting on a user, a tool or a retry don't hold a worker, so one worker can multiplex thousands of agents.Also unlike other harnesses, the machines that the workers (our agent loop) run on aren't where the agent runs its commands.",
@@ -431,36 +445,10 @@
    "related": []
   },
   {
-   "id": "9525815776e4db0e729cbf40a0c3135a0c690c83",
-   "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
-   "summary": [
-    "Article URL: https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs Comments URL: https://news.ycombinator.com/item?id=50183512 Points: 89 # Comments: 29"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
-   "image": null,
-   "published_at": "2026-10-21T16:20:37Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "20a259028135abdac8bf4666c984fe0943a10359",
-   "title": "The bridge to agent-scale Git infrastructure",
-   "summary": [
-    "Article URL: https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/ Comments URL: https://news.ycombinator.com/item?id=50183344 Points: 51 # Comments: 16"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
-   "image": null,
-   "published_at": "2026-10-21T16:09:28Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "2ce3f3251873a619a6c50e320a87e5df4621d237",
    "title": "Today's PHP security release, and how we're strengthening security",
    "summary": [
-    "Related ongoing thread: PHP 8.2.35 - https://news.ycombinator.com/item?id=50180873(links to more at https://news.ycombinator.com/item?id=50184935) Comments URL: https://news.ycombinator.com/item?id=50182987 Points: 604 # Comments: 303"
+    "Related ongoing thread: PHP 8.2.35 - https://news.ycombinator.com/item?id=50180873(links to more at https://news.ycombinator.com/item?id=50184935) Comments URL: https://news.ycombinator.com/item?id=50182987 Points: 698 # Comments: 343"
    ],
    "source": "Hacker News",
    "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
@@ -478,7 +466,7 @@
    "id": "ca4f9f9aae24831561c268cf9edb4d34e5d42a78",
    "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
    "summary": [
-    "Article URL: https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488 Comments URL: https://news.ycombinator.com/item?id=50182526 Points: 156 # Comments: 79"
+    "Article URL: https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488 Comments URL: https://news.ycombinator.com/item?id=50182526 Points: 175 # Comments: 89"
    ],
    "source": "Hacker News",
    "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
@@ -519,7 +507,7 @@
    "id": "d3f519557f32dd3d643c27d4c9f89095ff53a6df",
    "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
    "summary": [
-    "https://patchtheplanet.org/ Comments URL: https://news.ycombinator.com/item?id=50181175 Points: 219 # Comments: 140"
+    "https://patchtheplanet.org/ Comments URL: https://news.ycombinator.com/item?id=50181175 Points: 243 # Comments: 164"
    ],
    "source": "Hacker News",
    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
@@ -545,12 +533,25 @@
    "id": "764a23f0c296d60d725440ef791fd9dcafe9c5e9",
    "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
    "summary": [
-    "Article URL: https://duckdb.org/2026/10/21/announcing-duckdb-200 Comments URL: https://news.ycombinator.com/item?id=50181136 Points: 344 # Comments: 41"
+    "Article URL: https://duckdb.org/2026/10/21/announcing-duckdb-200 Comments URL: https://news.ycombinator.com/item?id=50181136 Points: 384 # Comments: 49"
    ],
    "source": "Hacker News",
    "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
    "image": null,
    "published_at": "2026-10-21T14:01:22Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a0e7a23f62c47cb2f9eddbfbd1783756bf2c7da2",
+   "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+   "summary": [
+    "Article URL: https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/ Comments URL: https://news.ycombinator.com/item?id=50181114 Points: 460 # Comments: 157"
+   ],
+   "source": "Hacker News",
+   "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+   "image": null,
+   "published_at": "2026-10-21T14:00:26Z",
    "category": "tech",
    "related": []
   }

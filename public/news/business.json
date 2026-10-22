@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-21T23:12:23.431123Z",
- "story_count": 17,
+ "generated_at": "2026-10-22T04:31:02.702744Z",
+ "story_count": 14,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,32 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "871671182ad8cea7a4d4274f2b6af00aba74eb11",
+   "title": "The 'trillion pound' oil fund the government believes Britain could have built",
+   "summary": [
+    "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-21T23:27:05Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "0254576c8f2b402dc8c5ac47c2a73f6f7d99897f",
+   "title": "The grads ditching the UK for a fresh start abroad",
+   "summary": [
+    "With graduate jobs hard to come by, more young adults are reported to be considering emigrating."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-21T23:12:06Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "044c75c8e1d71a87bc0b58706ca311b8f1092074",
    "title": "A warning to anyone with credit card debt...",
@@ -178,71 +204,6 @@
    "url": "https://www.theguardian.com/business/2026/oct/20/scott-kirby-united-wealth-tax-backlash",
    "image": "https://i.guim.co.uk/img/media/e4c4c6e2ccabc75b339a53c80a73c6c5a5f39b4c/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=fbb26c1f77edbd419aaaa6c80792d638",
    "published_at": "2026-10-20T20:06:31Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "bfba6319bd21ee9ee2e814d11426831efcfeb7e5",
-   "title": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
-   "summary": [
-    "The government increased taxes on online casino and sports betting in last year's Budget."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-20T15:53:13Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "463331d07ec9d12c24c713d5288b6e31a3857ead",
-   "title": "Union attacks NatWest plans to get workers back to the office",
-   "summary": [
-    "The bank says workers will be required to attend the office at least two days a week from February."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmly0qwnlgdvo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-20T14:50:19Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "19d6df588d40cb3abaa52c5983e0375870a2e8ae",
-   "title": "European air fares could rise by as much as 20% in 2027, Ryanair boss predicts",
-   "summary": [
-    "He forecast these pressures would result in the price of plane tickets rising by as much as 20%."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/oct/20/european-air-fares-rise-2027-ryanair-fuel-costs",
-   "image": "https://i.guim.co.uk/img/media/5561a62f78545f83efeecac2ac117a01a7e8b0a9/219_0_2528_2022/master/2528.jpg?width=140&quality=85&auto=format&fit=max&s=4826ea30f447c96b33d814338c425e87",
-   "published_at": "2026-10-20T14:28:56Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "99736ccf77a8f4c8e71fb8da23f775203ba697e4",
-   "title": "Jobless rate falls but small firms cut back hiring",
-   "summary": [
-    "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-20T11:26:48Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "e2302f7d32d262b2ebc838928e721ccbffdad55b",
-   "title": "£30 rise in payments for crisis-hit households",
-   "summary": [
-    "More money is made available through a resilience fund for hard-pressed households in Sheffield."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c59vz71kxxgzo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-20T11:19:22Z",
    "category": "business",
    "related": []
   }
