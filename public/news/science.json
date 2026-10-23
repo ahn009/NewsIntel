@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-23T04:36:20.275910Z",
- "story_count": 27,
+ "generated_at": "2026-10-23T09:57:04.646300Z",
+ "story_count": 26,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,84 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "8b3ea104d20f7062f9e086db5135f1c307aef778",
+   "title": "Weather warnings in place ahead of Storm Boelo",
+   "summary": [
+    "The amber Met Office alert for counties Antrim and Londonderry lasts from 21:00 BST on Saturday until 21:00 GMT on Sunday."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c83vqn2x54v1o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-23T09:53:51Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "305f4aee5ae8e4481cbc37063d18c603f8873ef0",
+   "title": "Scotland to be hit with 80mph wind gusts as Storm Boelo alert upgraded to amber",
+   "summary": [
+    "It is the second of two storms to hit Scotland over the weekend, with Storm Austen bringing heavy rain on Friday."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-23T09:47:42Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "bda1cd6c1c5dc3d588de6381852e78f1cd21e479",
+   "title": "Storm Austen hits UK as yellow wind warnings in effect",
+   "summary": [
+    "Disruption to travel is likely as the season's first named storm brings a swathe of powerful winds to south-west England on Friday."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-23T09:30:03Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "fa19912d8fa4e97755e99100df6832bb352352a1",
+   "title": "BBC presenter battles strong winds as Storm Austen hits Newquay",
+   "summary": [
+    "BBC lead weather presenter Simon King is in Newquay as the \"full force\" of the storm arrives."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-23T08:26:47Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "1e531b1500299798056fc757eee2975595244dd3",
+   "title": "'Shock' of first England farmer hit by bird flu this season",
+   "summary": [
+    "The first farmer in England hit by bird flu this season tells of the \"emotional roller coaster\" of losing 32,000 hens."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/crpdg235g76no?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-23T05:10:30Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "ec1618d862d08264438890f1d13f04e5a2e01bb3",
+   "title": "Blue Planet III: Moment octopus escapes death after hunt gone wrong",
+   "summary": [
+    "The sequence is part of the latest Blue Planet series from Sir David Attenborough."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/ck240lmvqjyjo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-23T05:05:03Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "51fafb5713f546ddbe723784fcff72732f011854",
    "title": "40 years later, Chernobyl's nuclear fallout is not what scientists expected",
@@ -66,32 +144,6 @@
    "related": []
   },
   {
-   "id": "bda1cd6c1c5dc3d588de6381852e78f1cd21e479",
-   "title": "Amber warning in place as Storm Austen hits parts of UK",
-   "summary": [
-    "Disruption to travel is likely as the season's first named storm brings a swathe of powerful winds to south-west England on Friday."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-23T00:08:43Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "305f4aee5ae8e4481cbc37063d18c603f8873ef0",
-   "title": "Heavy rain warning as Storm Austen sweeps across Scotland",
-   "summary": [
-    "The Met Office has issued a yellow warning for rain across most of central and eastern Scotland on Friday."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-22T21:59:43Z",
-   "category": "science",
-   "related": []
-  },
-  {
    "id": "9950e97a3e1c4c7f3c3893a2b517dda435da21d6",
    "title": "Gasps as Prince William makes surprise appearance on Graham Norton Show",
    "summary": [
@@ -105,13 +157,13 @@
    "related": []
   },
   {
-   "id": "360ade214ae70012071574ea2cd9e31440b77351",
+   "id": "a28da5926e3b1b4d79dc640b3ddd0f5d3110a05d",
    "title": "BBC Inside Science",
    "summary": [
     "A Japanese spacecraft could become the first ever to bring Martian samples back to Earth."
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sounds/play/w3ct978b?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-22T20:00:00Z",
    "category": "science",
@@ -131,15 +183,15 @@
    "related": []
   },
   {
-   "id": "8b3ea104d20f7062f9e086db5135f1c307aef778",
-   "title": "Weather warning in place ahead of Storm Boelo",
+   "id": "869a22603563c170b90fa0f6304d92e0d38a830b",
+   "title": "First human case of Shamonda virus detected in France, officials say",
    "summary": [
-    "A Met Office weather warning is in place from 18:00 BST on Saturday until 15:00 GMT on Sunday."
+    "The disease, which usually affects cattle, has been identified in a patient who died in early October."
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c83vqn2x54v1o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-10-22T15:14:38Z",
+   "published_at": "2026-10-22T13:53:32Z",
    "category": "science",
    "related": []
   },
@@ -255,19 +307,6 @@
    "related": []
   },
   {
-   "id": "8f912c31da248aa9b146e1d5ffff2835638442e3",
-   "title": "Two storms in two days as Austen and Boelo target UK",
-   "summary": [
-    "The Met Office has named a new storm, Boelo, which is set to bring another round of stormy weather to the UK over the weekend."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/weather/articles/ckx2qpy2d13ro?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-22T10:34:17Z",
-   "category": "science",
-   "related": []
-  },
-  {
    "id": "1ade8dbca0979a93b1b379409a04965715452c71",
    "title": "Scientists discover a surprising secret behind the human brain’s wrinkles",
    "summary": [
@@ -308,19 +347,6 @@
    "related": []
   },
   {
-   "id": "dc01992f7d95857e9a217902d4c977ed7b8f4c6c",
-   "title": "NI risks missing 2030 energy goals, says Stormont committee",
-   "summary": [
-    "A committee hears that Northern Ireland could lose out on economic opportunities if action is not accelerated."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c623d18dl3v0o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-22T05:09:52Z",
-   "category": "science",
-   "related": []
-  },
-  {
    "id": "bfb51e6eac2f707f5853d174c9bf9394053a19f6",
    "title": "People are taking an unapproved weight-loss drug. AI found something surprising",
    "summary": [
@@ -345,45 +371,6 @@
    "url": "https://www.sciencedaily.com/releases/2026/10/261020084816.htm",
    "image": null,
    "published_at": "2026-10-22T01:35:57Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "e90e0ce6649690d8933fa82d36d8b314b196f4e0",
-   "title": "New lab to become centre for investigating uplands",
-   "summary": [
-    "The research facility in Penrith will also help train the next generation of environmental scientists."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmg473555gzko?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-21T20:36:12Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "856e6ee8a4b31e5eae3fd1dc0d14eee595e1becc",
-   "title": "Pupils who designed a badge sent to space meet NASA astronaut",
-   "summary": [
-    "Frank Rubio is set to be in the crew for the Artemis III mission and previously spent a year in space."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cq78pzl85nglo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-21T19:39:38Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "3e706ff72eb482dd4ed9105a72abaa48ad978fd8",
-   "title": "Fuel leak which killed fish in River Taff stopped",
-   "summary": [
-    "GE Aerospace previously confirmed fuel got into the river while repair work took place nearby."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6y8lvxzp59vo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-21T18:28:06Z",
    "category": "science",
    "related": []
   }
