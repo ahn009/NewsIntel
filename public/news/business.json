@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-22T23:15:39.689746Z",
- "story_count": 20,
+ "generated_at": "2026-10-23T04:36:20.275464Z",
+ "story_count": 24,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,46 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "072826d2cb9ef74ced4175d46a6d0b5d170f1888",
+   "title": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
+   "summary": [
+    "Grandma Droniak, Nonna Gracie, Viv Truran and Barbara Costello have all found fame on social media in their later years."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-22T23:20:38Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "d5a669c639235905adb6d0b3aae3bd87cd0484e1",
+   "title": "Grid operator says lights will stay on this winter after concerns",
+   "summary": [
+    "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-22T23:04:38Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "810211394bf912cc437afc179b3fa9ac82767fd6",
+   "title": "Elon Musk reportedly invests $1bn in David Ellison’s Skydance",
+   "summary": [
+    "Musk’s investment into the new media empire comes after Paramount’s $111bn merger with Warner Bros DiscoveryElon Musk has reportedly invested approximately $1bn in Skydance, the new media empire led by David Ellison.The deal comes alongside fresh equity infusions from existing investors, including board member Laurene Powell Jobs, Steve Jobs’s widow.",
+    "Semafor first reported the news."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/oct/22/elon-musk-david-ellison-skydance-investment",
+   "image": "https://i.guim.co.uk/img/media/7cd5dc6f61f2d7b3d20aa1f599e65225ab113411/0_0_4078_3262/master/4078.jpg?width=140&quality=85&auto=format&fit=max&s=8f7559ac0087dbde2f502e711407959b",
+   "published_at": "2026-10-22T21:23:39Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "378493e0245f5866e8be96bc29ce5e40807aa3f6",
    "title": "US judge orders Trump to sit for deposition in $10bn lawsuit against BBC",
@@ -206,6 +246,19 @@
    "related": []
   },
   {
+   "id": "e891ee3bd43815a25eed512e5b572483db9ffcb7",
+   "title": "No order, no seat: Starbucks China rolls out new store policy",
+   "summary": [
+    "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-22T04:02:29Z",
+   "category": "business",
+   "related": []
+  },
+  {
    "id": "871671182ad8cea7a4d4274f2b6af00aba74eb11",
    "title": "The 'trillion pound' oil fund the government believes Britain could have built",
    "summary": [
@@ -232,6 +285,32 @@
    "related": []
   },
   {
+   "id": "e7c2dee8f3c22a8286ca2394483f7b9283fa5e8c",
+   "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
+   "summary": [
+    "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-21T22:54:58Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "3277c6dc05221a34f5b188acec4a882c00415cc8",
+   "title": "Meta fined $25bn for 'lies' over user data privacy",
+   "summary": [
+    "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-21T21:49:07Z",
+   "category": "business",
+   "related": []
+  },
+  {
    "id": "044c75c8e1d71a87bc0b58706ca311b8f1092074",
    "title": "A warning to anyone with credit card debt...",
    "summary": [
@@ -254,32 +333,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-21T17:06:16Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "598fdccac7d22e2181283d6089c15b69d290b9f1",
-   "title": "Civil servant admits he 'made mistakes' juggling five government jobs",
-   "summary": [
-    "Kashim Chowdhury was contracted for 183 hours a week, more than the number of hours in seven days."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-21T15:58:05Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "cf995ab8ef53811d30516e4bb0e2081db0b3dff1",
-   "title": "French borrowing costs hit 24-year high as civil unrest and budget fears spook markets",
-   "summary": [
-    "Yield on 10-year government bonds passes 5% amid failure to pass budget and fallout from violent street protestsFrance’s borrowing costs have climbed above 5% for the first time in 24 years as political concerns and the government’s failure to agree a much-delayed budget spook the financial markets.With some civic buildings still smouldering from recent riots, a fresh bout of selling pushed up the yield – or interest rate – on bonds issued by the second largest economy in the eurozone."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/oct/21/french-borrowing-costs-failure-to-pass-budget-govenment-bonds-violent-street-protests",
-   "image": "https://i.guim.co.uk/img/media/f6bb8d4864e05b4447547f7813c2a697dc28b29a/432_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=212fae03a703c784f0b0b5b65623df66",
-   "published_at": "2026-10-21T13:17:32Z",
    "category": "business",
    "related": []
   }

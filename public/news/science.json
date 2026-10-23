@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T23:15:39.690152Z",
+ "generated_at": "2026-10-23T04:36:20.275910Z",
  "story_count": 27,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -24,15 +24,57 @@
  },
  "stories": [
   {
-   "id": "d5a669c639235905adb6d0b3aae3bd87cd0484e1",
-   "title": "Grid operator says lights will stay on this winter after concerns",
+   "id": "51fafb5713f546ddbe723784fcff72732f011854",
+   "title": "40 years later, Chernobyl's nuclear fallout is not what scientists expected",
    "summary": [
-    "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply."
+    "Forty years after the Chornobyl disaster, tiny radioactive particles still linger in the soil, carrying a dangerous legacy.",
+    "Using powerful X-rays, scientists discovered that some of these particles have remained surprisingly stable, trapping radioactive substances inside instead of releasing them into the environment."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261021231241.htm",
+   "image": null,
+   "published_at": "2026-10-23T03:35:13Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "732bcc8708cd5af8eeced6d17c137a9565b3945a",
+   "title": "Nearly 3,000 exploding stars challenge our understanding of the Universe",
+   "summary": [
+    "A massive analysis of 2,884 exploding stars has uncovered new evidence that dark energy, the mysterious force accelerating the universe’s expansion, may change over time.",
+    "The findings challenge a cornerstone of modern cosmology and could reshape our understanding of how the universe works."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261021231244.htm",
+   "image": null,
+   "published_at": "2026-10-23T02:54:41Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "5b8b239b341c2402ecf16ccee9d02de540476bd6",
+   "title": "Cambridge scientists create a $10 chip that could put a medical lab on your wrist",
+   "summary": [
+    "Cambridge researchers have created a groundbreaking $10 optical sensor that delivers the precision of laboratory equipment in a device small enough for wearable technology.",
+    "It identified foods, plastics, and medicines with 100% accuracy in tests and demonstrated the ability to monitor blood glucose, alcohol, and other health markers without invasive procedures."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261022081312.htm",
+   "image": null,
+   "published_at": "2026-10-23T01:21:47Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "bda1cd6c1c5dc3d588de6381852e78f1cd21e479",
+   "title": "Amber warning in place as Storm Austen hits parts of UK",
+   "summary": [
+    "Disruption to travel is likely as the season's first named storm brings a swathe of powerful winds to south-west England on Friday."
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-10-22T23:04:38Z",
+   "published_at": "2026-10-23T00:08:43Z",
    "category": "science",
    "related": []
   },
@@ -63,13 +105,13 @@
    "related": []
   },
   {
-   "id": "a28da5926e3b1b4d79dc640b3ddd0f5d3110a05d",
+   "id": "360ade214ae70012071574ea2cd9e31440b77351",
    "title": "BBC Inside Science",
    "summary": [
     "A Japanese spacecraft could become the first ever to bring Martian samples back to Earth."
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/sounds/play/w3ct978b?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_south_asia?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-22T20:00:00Z",
    "category": "science",
@@ -111,6 +153,20 @@
    "url": "https://www.bbc.co.uk/news/articles/ck5ynl3yj2q9o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-22T13:30:04Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "008f2a457f2f9cd5dd7a85ee1c5e2716dab1bbb3",
+   "title": "Millions take fish oil for brain health. A two-year study found no benefit",
+   "summary": [
+    "A surprising two-year clinical trial found that fish oil supplements successfully delivered omega-3s to the brain but failed to improve memory or protect against Alzheimer's-related brain shrinkage.",
+    "Researchers suspect that getting these nutrients through a healthy diet may offer benefits that supplements alone cannot provide."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261020085427.htm",
+   "image": null,
+   "published_at": "2026-10-22T12:46:24Z",
    "category": "science",
    "related": []
   },
@@ -328,62 +384,6 @@
    "url": "https://www.bbc.co.uk/news/articles/c6y8lvxzp59vo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-21T18:28:06Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "a4112597a1ced4892d3b5a69dd0279334a75b609",
-   "title": "Too much RNA can starve cells of energy, scientists discover",
-   "summary": [
-    "Scientists have uncovered an unexpected danger lurking inside cells: too much RNA can damage the structures responsible for producing energy.",
-    "A new study found that excess RNA, including the normally essential messenger RNA (mRNA), can directly disrupt mitochondria without relying on the immune system.",
-    "The discovery could help explain how viral infections and certain aging-related diseases damage cells."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261020085023.htm",
-   "image": null,
-   "published_at": "2026-10-21T13:02:34Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "6d6608a183147818c0ecbec8b42e382fffc69e6a",
-   "title": "A train was delayed by a solar storm. But something didn't add up.",
-   "summary": [
-    "Scientists have cracked a 178-year-old mystery surrounding a train delayed by a solar storm, revealing that the famous incident happened in 1848 rather than 1841.",
-    "The discovery rewrites the early history of space weather and highlights a threat that still endangers modern power grids, satellites, and communication systems."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261020085021.htm",
-   "image": null,
-   "published_at": "2026-10-21T12:35:57Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "51727b1f3d02d6096d6cfdf53d9da161dc1f3ccf",
-   "title": "Astronauts’ hearts just passed a surprising test for Mars",
-   "summary": [
-    "A new study tracking 13 astronauts suggests that the human heart may be surprisingly well equipped for a journey to Mars, especially with regular exercise during spaceflight.",
-    "Researchers found that astronauts' hearts adapted to months of weightlessness and handled simulated Martian gravity without major problems, offering new hope for future missions to the Red Planet."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261020085016.htm",
-   "image": null,
-   "published_at": "2026-10-21T11:59:14Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "d20b564522536af4dc27879af7dc479904d8950e",
-   "title": "Astronaut surprise video leaves pupils starstruck",
-   "summary": [
-    "The surprise came after a teacher's father met Peake while working on a cruise ship."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmvg9vlgxkv8o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-21T11:55:19Z",
    "category": "science",
    "related": []
   }

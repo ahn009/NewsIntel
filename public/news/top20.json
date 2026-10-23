@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T23:15:39.691227Z",
+ "generated_at": "2026-10-23T04:36:20.431506Z",
  "story_count": 20,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -24,8 +24,19 @@
  },
  "stories": [
   {
-   "id": "4ec183c3f810f78cf5588b3f7a7bcfff200cc6bd",
+   "id": "9ce71227eaab866e12f4e9c8e157619e69e5e11f",
    "rank": 1,
+   "title": "Three terrorists killed as forces foil attack in Gwadar",
+   "brief": "GWADAR/QUETTA: Security forces killed three terrorists and foiled an attack on an unoccupied construction company camp in Gwadar, officials said on Thursday. Security sources said forces had surrounded several other suspected terrorists near a hotel, and an operation was underway to thwart another attempted attack.",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039144/three-terrorists-killed-as-forces-foil-attack-in-gwadar",
+   "image": "https://i.dawn.com/large/2026/10/2308101953a302e.webp",
+   "published_at": "2026-10-23T03:11:46Z",
+   "category": "pakistan"
+  },
+  {
+   "id": "4ec183c3f810f78cf5588b3f7a7bcfff200cc6bd",
+   "rank": 2,
    "title": "4 cops including DSP martyred, 2 terrorists killed during exchange of fire in KP's Karak: police",
    "brief": "LAKKI MARWAT: Four policemen, including two officials, were martyred and two terrorists were killed during an exchange of fire in Khyber Pakhtunkhwa’s Karak district on Thursday, police said.",
    "source": "Dawn",
@@ -36,7 +47,7 @@
   },
   {
    "id": "cd0d246272ead0a726423aa038348bab0b5c9560",
-   "rank": 2,
+   "rank": 3,
    "title": "DSP among 4 CTD, police personnel martyred in Karak attack",
    "brief": "Four police personnel, including a deputy superintendent of police (DSP) of the Counter-Terrorism Department (CTD), were martyred on Thursday in an exchange of fire with armed men in the Khurram Muhammad Zai area of Khyber-Pakhtunkhwa's Karak district.",
    "source": "Express Tribune",
@@ -46,8 +57,19 @@
    "category": "pakistan"
   },
   {
+   "id": "1c2df1641b08b0b9c20027efcbd163f5d69c049c",
+   "rank": 4,
+   "title": "3 terrorists killed as security forces foil attack on construction camp in Gwadar: state media",
+   "brief": "Security forces have killed three terrorists belonging to Fitna al-Hindustan while foiling an attempt to attack an unoccupied camp of a construction company in Balochistan's Gwadar, state-owned Radio Pakistan reported on Thursday, citing security sources.",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2636369/3-terrorists-killed-as-security-forces-foil-attack-on-construction-camp-in-gwadar-state-media",
+   "image": null,
+   "published_at": "2026-10-22T12:49:45Z",
+   "category": "pakistan"
+  },
+  {
    "id": "ed88de50ca28afaec31b9c2cc73f7838202b29d1",
-   "rank": 3,
+   "rank": 5,
    "title": "Race to update services' computer systems after cyber-security flaw found",
    "brief": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
    "source": "BBC News",
@@ -58,7 +80,7 @@
   },
   {
    "id": "a67f99a0a39f0755c5d9352341376a43ec6d06c4",
-   "rank": 4,
+   "rank": 6,
    "title": "Websites taken down worldwide as critical cyber-security update issued",
    "brief": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
    "source": "BBC News",
@@ -68,30 +90,30 @@
    "category": "tech"
   },
   {
-   "id": "8c4034cc74486a604f138b831a92834584c003e9",
-   "rank": 5,
-   "title": "ATC replaces state counsel in security breach case after Imaan, Hadi object to appointment",
-   "brief": "RAWALPINDI: An anti-terrorism court (ATC) on Thursday cancelled the appointment of state counsel Taimoor Janjua in a security breach case against lawyers Imaan Zainab Mazari-Hazir and Hadi Ali Chattha, after the accused objected to his past conduct in another case.",
+   "id": "902a74cd4f4c3794ee54816aa723f961c5f160b7",
+   "rank": 7,
+   "title": "Peshawar High Court bars arrest of KP Assembly deputy speaker",
+   "brief": "PESHAWAR: The Peshawar High Court (PHC) has restrained the authorities from arresting Khyber Pakhtunkhwa Assembly Deputy Speaker Suriya Bibi until Nov 10, while allowing her to retain access to her official residence.",
    "source": "Dawn",
-   "url": "https://www.dawn.com/news/2039035/atc-replaces-state-counsel-in-security-breach-case-after-imaan-hadi-object-to-appointment",
-   "image": "https://i.dawn.com/large/2025/11/06152256b1c233f.webp",
-   "published_at": "2026-10-22T15:57:26Z",
+   "url": "https://www.dawn.com/news/2039173/peshawar-high-court-bars-arrest-of-kp-assembly-deputy-speaker",
+   "image": "https://i.dawn.com/large/2026/10/212015077594ee3.webp",
+   "published_at": "2026-10-23T02:27:45Z",
    "category": "pakistan"
   },
   {
-   "id": "cd5636ff58e54104a3131b44e3446e96703a9bb5",
-   "rank": 6,
-   "title": "ATC replaces state counsel after Imaan, Hadi object to appointment",
-   "brief": "Judge Tahir Abbas Sipra, who heard the case at Adiala Jail, accepted an application filed by Imaan and Hadi challenging Janjua’s appointment and appointed Atif Mahmood as the new state counsel.",
+   "id": "6e878246925dc579362755f9735597448e0650ff",
+   "rank": 8,
+   "title": "PHC bars arrest of inactive K-P deputy speaker, suspends eviction notice",
+   "brief": "Advocate Yasir Khattak appeared on behalf of the petitioner, the inactive Deputy Speaker. Opposing the petition, the Advocate General submitted that an emergency empowers the provincial government to reclaim official residences allotted to ministers, advisers and the Deputy Speaker.",
    "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2636320/atc-replaces-state-counsel-after-imaan-hadi-object-to-appointment",
+   "url": "https://tribune.com.pk/story/2636374/phc-bars-arrest-of-inactive-k-p-deputy-speaker-suspends-eviction-notice",
    "image": null,
-   "published_at": "2026-10-22T06:33:33Z",
+   "published_at": "2026-10-22T14:20:05Z",
    "category": "pakistan"
   },
   {
    "id": "cb64df832b58d1f44c764c504547ef91f3a2bf1d",
-   "rank": 7,
+   "rank": 9,
    "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
    "brief": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
    "source": "BBC News",
@@ -102,7 +124,7 @@
   },
   {
    "id": "b2917dd007e79a8ee3ce730443318c7d15a04690",
-   "rank": 8,
+   "rank": 10,
    "title": "What is PHP and why did it spark a global cyber-security scramble?",
    "brief": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
    "source": "BBC News",
@@ -113,7 +135,7 @@
   },
   {
    "id": "33599bcfdf8cb5f8efb7562512c80e2f9509d298",
-   "rank": 9,
+   "rank": 11,
    "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
    "brief": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
    "source": "BBC News",
@@ -123,30 +145,19 @@
    "category": "tech"
   },
   {
-   "id": "ee65f8e9723d9cdb938c96cfef5945f2898b9006",
-   "rank": 10,
-   "title": "Why is a peat fire so bad? BBC is in Indonesia to find out",
-   "brief": "The BBC's Liza Tambunan is in central Kalimantan, to explain what peat is and why Indonesia is facing its worst wildfire season in a decade.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/cmx2302xe931o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-21T22:02:18Z",
-   "category": "world"
-  },
-  {
-   "id": "1c2df1641b08b0b9c20027efcbd163f5d69c049c",
-   "rank": 11,
-   "title": "3 terrorists killed as security forces foil attack on construction camp in Gwadar: state media",
-   "brief": "Security forces have killed three terrorists belonging to Fitna al-Hindustan while foiling an attempt to attack an unoccupied camp of a construction company in Balochistan's Gwadar, state-owned Radio Pakistan reported on Thursday, citing security sources.",
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2636369/3-terrorists-killed-as-security-forces-foil-attack-on-construction-camp-in-gwadar-state-media",
-   "image": null,
-   "published_at": "2026-10-22T12:49:45Z",
+   "id": "8c4034cc74486a604f138b831a92834584c003e9",
+   "rank": 12,
+   "title": "ATC replaces state counsel in security breach case after Imaan, Hadi object to appointment",
+   "brief": "RAWALPINDI: An anti-terrorism court (ATC) on Thursday cancelled the appointment of state counsel Taimoor Janjua in a security breach case against lawyers Imaan Zainab Mazari-Hazir and Hadi Ali Chattha, after the accused objected to his past conduct in another case.",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2039035/atc-replaces-state-counsel-in-security-breach-case-after-imaan-hadi-object-to-appointment",
+   "image": "https://i.dawn.com/large/2025/11/06152256b1c233f.webp",
+   "published_at": "2026-10-22T15:57:26Z",
    "category": "pakistan"
   },
   {
    "id": "0d78cefc44de482157440310c8533d565f0c0bbc",
-   "rank": 12,
+   "rank": 13,
    "title": "Tally hits 95 as two more monkeypox cases reported in Sindh",
    "brief": "Experts said mpox is a viral disease that can spread through close physical or skin-to-skin contact with an infected person, as well as contact with lesions, bodily fluids or contaminated objects. People developing symptoms have been advised to avoid close contact with others and seek immediate medical evaluation and diagnostic testing.",
    "source": "Express Tribune",
@@ -157,7 +168,7 @@
   },
   {
    "id": "b56c8143001d391caf7d460bc3f534105b5fe2ed",
-   "rank": 13,
+   "rank": 14,
    "title": "Pakistan, Maldives move to establish direct air links",
    "brief": "Prime Minister Shehbaz Sharif on Thursday said he had directed the Ministry of Aviation to explore ways to establish direct flights between Pakistan and the Maldives, as the two countries agreed to strengthen air connectivity and expand bilateral trade.",
    "source": "Express Tribune",
@@ -167,41 +178,41 @@
    "category": "pakistan"
   },
   {
-   "id": "f064561f25b50ec742cb26f41fe930c3840adf28",
-   "rank": 14,
-   "title": "Karachi judicial magistrate rejects bail plea of anchorperson Iqrarul Hassan",
-   "brief": "KARACHI: A local court on Thursday rejected TV anchorperson Iqrarul Hassan’s bail plea in a cybercrime case pertaining to the alleged dissemination of anti-state content. Earlier this week, Hassan was sent to prison on judicial remand after the NCCIA sought an extension of his physical remand by another eight days.",
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2038986/karachi-judicial-magistrate-rejects-bail-plea-of-anchorperson-iqrarul-hassan",
-   "image": "https://i.dawn.com/large/2026/10/17185008119a126.webp",
-   "published_at": "2026-10-22T09:20:05Z",
-   "category": "pakistan"
-  },
-  {
-   "id": "b1578b3b5753be08b9a4ebc8d73bba25eeea2df3",
+   "id": "cd5636ff58e54104a3131b44e3446e96703a9bb5",
    "rank": 15,
-   "title": "Karachi court rejects Iqrarul Hassan's bail plea in anti-state content case",
-   "brief": "The District and Sessions Court East dismissed a petition challenging Hassan's physical remand, with the defence counsel questioning the legality of the proceedings and arguing that the case concerned digital and cyber matters. The National Cyber Crime Investigation Agency (NCCIA) registered the case against Hassan, who is currently in jail on judicial remand.",
+   "title": "ATC replaces state counsel after Imaan, Hadi object to appointment",
+   "brief": "Judge Tahir Abbas Sipra, who heard the case at Adiala Jail, accepted an application filed by Imaan and Hadi challenging Janjua’s appointment and appointed Atif Mahmood as the new state counsel.",
    "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2636321/karachi-court-rejects-iqrarul-hassans-bail-plea-in-anti-state-content-case",
+   "url": "https://tribune.com.pk/story/2636320/atc-replaces-state-counsel-after-imaan-hadi-object-to-appointment",
    "image": null,
-   "published_at": "2026-10-22T06:40:28Z",
+   "published_at": "2026-10-22T06:33:33Z",
    "category": "pakistan"
   },
   {
-   "id": "bfd2f2a99f0c899dd86496dcab9b8fd3cec48396",
+   "id": "d5a669c639235905adb6d0b3aae3bd87cd0484e1",
    "rank": 16,
-   "title": "US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award",
-   "brief": "The prize comes less than two weeks after US President Donald Trump announced sanctions against the court.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award?traffic_source=rss",
+   "title": "Grid operator says lights will stay on this winter after concerns",
+   "brief": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-10-22T22:25:14Z",
+   "published_at": "2026-10-22T23:04:38Z",
+   "category": "business"
+  },
+  {
+   "id": "8c3d7bf32c979c12fcd7bf1a3c5592ceda84d62a",
+   "rank": 17,
+   "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+   "brief": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\".",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-22T22:27:53Z",
    "category": "world"
   },
   {
    "id": "db55da87d9a9b7d9b10bfa7aca3a06827511d698",
-   "rank": 17,
+   "rank": 18,
    "title": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
    "brief": "41-year-old set on ‘dream to be able to race in Africa’Rwanda to host despite criticism of human rights recordLewis Hamilton has said he hopes to remain racing in Formula One until he can take part in the African Grand Prix which is set to take place in Rwanda in the 2030s.",
    "source": "The Guardian",
@@ -211,36 +222,25 @@
    "category": "world"
   },
   {
-   "id": "008866d0e23c661244af688929b0cd93dc01add9",
-   "rank": 18,
-   "title": "What is the history behind Trump’s LeBron blast over US national anthem?",
-   "brief": "What led to LeBron James being labelled a disgrace by US President Donald Trump, who says NBA star disgraced anthem?",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/sports/2026/10/22/what-led-to-the-trump-lebron-feud-over-us-national-anthem?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-10-22T21:51:41Z",
-   "category": "world"
-  },
-  {
-   "id": "1abb7be22e6702a09bc41cf28c575b54c68b6576",
-   "rank": 19,
-   "title": "Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump",
-   "brief": "The weakness for tech stocks was so overwhelming that it masked strength for the rest of the US market, in which the majority of stocks actually rose. The Dow Jones Industrial Average added 11 points, or less than 0.1%.",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/oct/22/stock-markets-drop-ai-oil",
-   "image": "https://i.guim.co.uk/img/media/9e77a4ead0dd662eb649b44a2b029545f70ae2d1/408_0_4078_3263/master/4078.jpg?width=140&quality=85&auto=format&fit=max&s=03c497b56890f64a599984cd4dece7c8",
-   "published_at": "2026-10-22T21:50:13Z",
-   "category": "world"
-  },
-  {
    "id": "9950e97a3e1c4c7f3c3893a2b517dda435da21d6",
-   "rank": 20,
+   "rank": 19,
    "title": "Gasps as Prince William makes surprise appearance on Graham Norton Show",
    "brief": "The Prince of Wales was marking his Earthshot Prize, to which all of Norton's guests were linked.",
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/c30rlpkglkwpo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-22T21:21:22Z",
+   "category": "science"
+  },
+  {
+   "id": "5c6da52aa563cdb7890fdba3642049670ef52644",
+   "rank": 20,
+   "title": "Firefighters and public 'knowingly put at risk' during summer wildfires",
+   "brief": "Crews and control centre staff say the fires were relentless with many firefighters still off work injured.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqvgjk3j0j9wo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-22T18:48:59Z",
    "category": "science"
   }
  ]
