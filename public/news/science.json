@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-23T09:57:04.646300Z",
- "story_count": 26,
+ "generated_at": "2026-10-23T14:56:43.146666Z",
+ "story_count": 31,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -24,6 +24,19 @@
  },
  "stories": [
   {
+   "id": "305f4aee5ae8e4481cbc37063d18c603f8873ef0",
+   "title": "Scotland to be hit with 80mph wind gusts as Storm Boelo alert upgraded to amber",
+   "summary": [
+    "It is due to be the second of two storms to hit Scotland over the weekend, with Storm Austen bringing heavy rain on Friday."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-23T14:44:59Z",
+   "category": "science",
+   "related": []
+  },
+  {
    "id": "8b3ea104d20f7062f9e086db5135f1c307aef778",
    "title": "Weather warnings in place ahead of Storm Boelo",
    "summary": [
@@ -32,20 +45,129 @@
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/c83vqn2x54v1o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-10-23T09:53:51Z",
+   "published_at": "2026-10-23T14:37:05Z",
    "category": "science",
    "related": []
   },
   {
-   "id": "305f4aee5ae8e4481cbc37063d18c603f8873ef0",
-   "title": "Scotland to be hit with 80mph wind gusts as Storm Boelo alert upgraded to amber",
+   "id": "c51f9905eed860e651806eb7405013add01a406b",
+   "title": "Why should I stockpile and what will I need?",
    "summary": [
-    "It is the second of two storms to hit Scotland over the weekend, with Storm Austen bringing heavy rain on Friday."
+    "The UK government has warned households to have three days of essential supplies on hand."
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cred3xnj0j0qo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-10-23T09:47:42Z",
+   "published_at": "2026-10-23T13:30:32Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "fdc2c63ff75628155ac69b0ae4bd3557cd71be9d",
+   "title": "Wales plans to ban steel pylons as government launches consultation",
+   "summary": [
+    "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-23T13:26:02Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "cb8ee52488d7a7f5541f6c78277cac870071a2d0",
+   "title": "October's full Hunter's Moon to light up night sky this weekend",
+   "summary": [
+    "October's full Moon, known as the Hunter's Moon, will rise on Sunday night."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/weather/articles/cw4g19dll8jlo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-23T12:24:20Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "63eabebab676301b09c60c6d60d4bed82000092e",
+   "title": "Denmark nurdles may be from Tyne spill, agency says",
+   "summary": [
+    "The Danish Environment Protection Agency says nurdles it has tested are similar to the Tyne pellets."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqy43xv1jwv2o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-23T11:56:14Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "1cf060f9c4aacd03a6a5f1e0d5850abc2d54a4b0",
+   "title": "One of Earth’s most powerful supervolcanoes is refilling with fresh magma",
+   "summary": [
+    "Deep beneath Japan’s Kikai caldera, a massive magma reservoir is refilling 7,300 years after one of the most powerful volcanic eruptions in Earth's recent geological history.",
+    "Scientists used underwater seismic surveys to reveal a vast store of magma that appears to have accumulated since the ancient catastrophe.",
+    "The discovery could help explain how supervolcanoes like Yellowstone and Toba rebuild their magma supplies."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261023003214.htm",
+   "image": null,
+   "published_at": "2026-10-23T11:23:19Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "a8356cca49e4a01843266f9742643c2bbd90da70",
+   "title": "Dental implants can hijack your immune system, scientists discover",
+   "summary": [
+    "Researchers have uncovered a surprising reason dental implant infections often resist antibiotics: the implants themselves can contribute to the problem.",
+    "Bacteria corrode titanium implants, releasing microscopic particles that hijack immune cells, trigger destructive inflammation, and accelerate jawbone loss."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261022081314.htm",
+   "image": null,
+   "published_at": "2026-10-23T11:12:28Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "8819039b0500853bcc50d200fefc5bea16b4e7f3",
+   "title": "Breakthrough PTSD treatment achieves 68% remission rate in clinical trial",
+   "summary": [
+    "A newly FDA-cleared PTSD treatment uses personalized brain mapping and magnetic stimulation to target abnormal brain activity, with a clinical trial reporting a 52% reduction in symptoms and 68% remission.",
+    "Researchers believe the technology could transform PTSD care and pave the way for more precise treatments for other mental health conditions."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261022081309.htm",
+   "image": null,
+   "published_at": "2026-10-23T11:02:25Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "2de4bd50b43506e8340612f70787c2016ff215c2",
+   "title": "Fund to help businesses switch to green vehicles",
+   "summary": [
+    "Council leader Stephen Place says it will help businesses counter the rising cost of fuel."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cr62ydqjvg9lo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-23T10:15:00Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "66a6a29ab67867278d532dfdd6d40eb59e8d3989",
+   "title": "Scientists discover a surprising double benefit of exercise for Parkinson’s",
+   "summary": [
+    "A seven-year study found that people with Parkinson’s disease who were more physically active experienced slower declines in memory, thinking, and movement abilities.",
+    "Those exercising more than eight hours per week showed almost no average cognitive decline, suggesting that staying active may offer important benefits as the disease progresses."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261022081306.htm",
+   "image": null,
+   "published_at": "2026-10-23T10:10:11Z",
    "category": "science",
    "related": []
   },
@@ -63,6 +185,20 @@
    "related": []
   },
   {
+   "id": "6add30750725b1a89dbce0c4c7921d6373f19bb2",
+   "title": "Scientists discover a hidden messaging system deep inside the brain",
+   "summary": [
+    "A tiny region deep within the brain has surprised scientists by revealing a remarkably sophisticated communication system.",
+    "Previously thought to broadcast the same chemical signal throughout the brain, this region actually sends targeted messages that help control learning, attention, and behavior, according to new research in mice."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261022081304.htm",
+   "image": null,
+   "published_at": "2026-10-23T08:28:22Z",
+   "category": "science",
+   "related": []
+  },
+  {
    "id": "fa19912d8fa4e97755e99100df6832bb352352a1",
    "title": "BBC presenter battles strong winds as Storm Austen hits Newquay",
    "summary": [
@@ -76,6 +212,19 @@
    "related": []
   },
   {
+   "id": "2095ce34ac39e16ede124871e1c921b7d2c81098",
+   "title": "Could experts have a solution to toxic algae?",
+   "summary": [
+    "Experts from the University of Bath are testing out a new invention at a lake in Wiltshire."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c9e8l640xl3do?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-23T05:17:13Z",
+   "category": "science",
+   "related": []
+  },
+  {
    "id": "1e531b1500299798056fc757eee2975595244dd3",
    "title": "'Shock' of first England farmer hit by bird flu this season",
    "summary": [
@@ -85,19 +234,6 @@
    "url": "https://www.bbc.co.uk/news/articles/crpdg235g76no?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-23T05:10:30Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "ec1618d862d08264438890f1d13f04e5a2e01bb3",
-   "title": "Blue Planet III: Moment octopus escapes death after hunt gone wrong",
-   "summary": [
-    "The sequence is part of the latest Blue Planet series from Sir David Attenborough."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/ck240lmvqjyjo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-23T05:05:03Z",
    "category": "science",
    "related": []
   },
@@ -183,32 +319,6 @@
    "related": []
   },
   {
-   "id": "869a22603563c170b90fa0f6304d92e0d38a830b",
-   "title": "First human case of Shamonda virus detected in France, officials say",
-   "summary": [
-    "The disease, which usually affects cattle, has been identified in a patient who died in early October."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-22T13:53:32Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "7556f9aea406b575a0ea67ea6020ba12bfe95919",
-   "title": "Activists celebrate as land given protected status",
-   "summary": [
-    "Volunteers say they have been campaigning for 30 years to keep a wild space free from development."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ck5ynl3yj2q9o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-22T13:30:04Z",
-   "category": "science",
-   "related": []
-  },
-  {
    "id": "008f2a457f2f9cd5dd7a85ee1c5e2716dab1bbb3",
    "title": "Millions take fish oil for brain health. A two-year study found no benefit",
    "summary": [
@@ -280,19 +390,6 @@
    "related": []
   },
   {
-   "id": "5dc3f3b599b7634cf1ac99a0b8d7b0d1e96e44b0",
-   "title": "Project aims to protect rare arctic-alpine plants",
-   "summary": [
-    "The three year scheme is awarded £65,000 to collect seeds and plant them in the fells."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6ewe4zyyg0ro?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-22T11:11:13Z",
-   "category": "science",
-   "related": []
-  },
-  {
    "id": "bb13da70284ddf5641c92a112dc4edcf545584fa",
    "title": "NASA’s Curiosity rover reveals a spectacular new view of Mars with a mystery on the horizon",
    "summary": [
@@ -343,34 +440,6 @@
    "url": "https://www.bbc.co.uk/news/videos/cxnv0emj06v1o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-22T06:09:44Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "bfb51e6eac2f707f5853d174c9bf9394053a19f6",
-   "title": "People are taking an unapproved weight-loss drug. AI found something surprising",
-   "summary": [
-    "Researchers analyzing nearly 150,000 Reddit posts uncovered unexpected symptom reports linked by users to unapproved versions of retatrutide, including increased appetite, sleep disturbances, and elevated heart rates.",
-    "The findings differ from clinical trial results and highlight how AI could help identify potential drug safety signals that warrant further investigation."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261020085018.htm",
-   "image": null,
-   "published_at": "2026-10-22T02:37:01Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "004db241b9b5d41e37509b172e42c467bcabacc0",
-   "title": "A rock plunged 90 kilometers into Earth and revealed something unexpected",
-   "summary": [
-    "Scientists discovered a rock in Papua New Guinea that plunged more than 90 kilometers beneath Earth's surface, revealing a bizarre temperature pattern that challenges established theories of Earth's interior.",
-    "The unexpected shift from unusually hot to relatively cold conditions could transform our understanding of tectonic plate movements, earthquakes, and volcanoes."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261020084816.htm",
-   "image": null,
-   "published_at": "2026-10-22T01:35:57Z",
    "category": "science",
    "related": []
   }

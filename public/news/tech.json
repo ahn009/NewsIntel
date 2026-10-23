@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T09:57:04.645198Z",
+ "generated_at": "2026-10-23T14:56:43.145554Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -23,6 +23,246 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "52e0f1d40c8a66b92e2779c078629092a2d48f1e",
+   "title": "A farewell to BioWare, maker of some of the best games of the 21st century | Lucy James",
+   "summary": [
+    "Its forthcoming game in the Mass Effect sci-fi series has been cancelled, and more than 400 people are losing their jobs.",
+    "EA was looking for weight to cut loose, and despite its hardcore fanbase and reputation for genre-defining RPGs such as Star Wars: Knights of the Old Republic and Dragon Age, BioWare hadn’t put out a critical or commercial hit in over 10 years.",
+    "Its forthcoming game, titled Mass Effect: Universe according to a leaked trailer, was announced back in 2020."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/games/2026/oct/23/bioware-rpg-games-ea-closure-mass-effect",
+   "image": "https://i.guim.co.uk/img/media/db0a48ae4a8bab736e867ed6a0033af706ae7f1e/831_0_1713_1372/master/1713.jpg?width=140&quality=85&auto=format&fit=max&s=c57969addcf44d18009e58141e3a5c8f",
+   "published_at": "2026-10-23T14:44:48Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "320353a94d7a0ffb1930333263832cf63142def3",
+   "title": "Experts cast doubt on Anthropic report detailing how AI has altered work at the company",
+   "summary": [
+    "Neither of those predictions came to pass.Now, in a report Anthropic published on Thursday, the company said it was hiring fewer junior technical workers and that human attention has become the new “bottleneck” as it increasingly relies on its Claude AI agents."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/oct/23/anthropic-report-ai-workplace-shifts",
+   "image": "https://i.guim.co.uk/img/media/7f1d891b55886b1bfb45b0cdd3e7df3e842cbdce/0_31_3364_2691/master/3364.jpg?width=140&quality=85&auto=format&fit=max&s=52de23b160d36f35c5482fa021f2448e",
+   "published_at": "2026-10-23T14:00:28Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "c94c980716b66da121733828309bb7ec4eaa885c",
+   "title": "Investor-owned utilities charge 23% more for electricity than public providers",
+   "summary": [
+    "Article URL: https://www.kadoa.com/energy-prices/insights/investor-owned-utilities Comments URL: https://news.ycombinator.com/item?id=50208837 Points: 238 # Comments: 159"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
+   "image": null,
+   "published_at": "2026-10-23T13:41:10Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "040d205894ef8ce95995e924a0d7d1d55a3c0517",
+   "title": "Phone Is About to Stop Being Yours: 70 Days Until Lockdown",
+   "summary": [
+    "Article URL: https://keepandroidopen.org/?",
+    "Comments URL: https://news.ycombinator.com/item?id=50208558 Points: 331 # Comments: 184"
+   ],
+   "source": "Hacker News",
+   "url": "https://keepandroidopen.org/?",
+   "image": null,
+   "published_at": "2026-10-23T13:19:42Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "6f6392a843df9343f65d9c180c853099913846a6",
+   "title": "Shitter – A Nitter Fork",
+   "summary": [
+    "Article URL: https://codeberg.org/shitter/shitter Comments URL: https://news.ycombinator.com/item?id=50208343 Points: 87 # Comments: 38"
+   ],
+   "source": "Hacker News",
+   "url": "https://codeberg.org/shitter/shitter",
+   "image": null,
+   "published_at": "2026-10-23T13:02:23Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "af157714ac71e6ee57728677fbbaa53107a1e3d1",
+   "title": "Hacker leaks 281 GB of data from Germany's far-right AfD party",
+   "summary": [
+    "Article URL: https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-leaks-281-gb-data-germany-afd Comments URL: https://news.ycombinator.com/item?id=50208258 Points: 88 # Comments: 39"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-leaks-281-gb-data-germany-afd",
+   "image": null,
+   "published_at": "2026-10-23T12:56:38Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "653084f2277b9892a579676c1e8453e900b5e4f2",
+   "title": "OpenSSL 4.1.0",
+   "summary": [
+    "Article URL: https://github.com/openssl/openssl/releases/tag/openssl-4.1.0 Comments URL: https://news.ycombinator.com/item?id=50208099 Points: 86 # Comments: 15"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0",
+   "image": null,
+   "published_at": "2026-10-23T12:42:44Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "b2917dd007e79a8ee3ce730443318c7d15a04690",
+   "title": "What is PHP and why did it spark a global cyber-security scramble?",
+   "summary": [
+    "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-23T12:24:17Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a16499f23ad16d293aa4a8576feb330cefbf05ec",
+   "title": "'It's been relentless' say IT workers on frontline of PHP cyber-security scramble",
+   "summary": [
+    "IT and cyber experts have told the BBC about their struggles in the last 48 hours to update their systems."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cxnv025d8qpmo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-23T12:00:25Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "1f9eddacbb7de266edc28129f2f892244a472012",
+   "title": "Swedish government offices to ban ChatGPT and Claude",
+   "summary": [
+    "Article URL: https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet Comments URL: https://news.ycombinator.com/item?id=50207405 Points: 215 # Comments: 84"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+   "image": null,
+   "published_at": "2026-10-23T11:39:54Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "fcbd1f2bfc0dccf52851687c6c94083558bc8223",
+   "title": "The young Americans choosing Y2K cars over shiny new SUVs: ‘I get so much crap from people’",
+   "summary": [
+    "People under 35 are hunting for no-frills rides they can pay for in cash and fix themselves – defying expectations to take on steep loansJack Price joined the Marines in fall 2021 knowing he would need a car to get around base and that he couldn’t afford a new one.",
+    "With just 60,000 miles (96,560km) on themeter, the car (a manual!) was mechanically sound, and the air conditioning, sunroof and Bluetooth radio worked too.",
+    "I get so much crap from people, but not people my age.” Continue reading..."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/oct/23/y2k-used-cars-gen-z",
+   "image": "https://i.guim.co.uk/img/media/8e4516adf299dc7cff29a4bd96731525cf367f24/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=705dc6814bb6843377ecd2dc3f8e73a4",
+   "published_at": "2026-10-23T11:30:24Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "38c321ce3380c1ac03a1372a6e85b019c2b592ca",
+   "title": "Is this the new cyber normal?",
+   "summary": [
+    "Article URL: https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/ Comments URL: https://news.ycombinator.com/item?id=50207115 Points: 111 # Comments: 125"
+   ],
+   "source": "Hacker News",
+   "url": "https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/",
+   "image": null,
+   "published_at": "2026-10-23T11:04:53Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "2da89ae3c6e149ff48557469446d6f656ec6bdd2",
+   "title": "No Need for Retirement When Utopia Is Around the Corner",
+   "summary": [
+    "Article URL: https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/ Comments URL: https://news.ycombinator.com/item?id=50207050 Points: 87 # Comments: 71"
+   ],
+   "source": "Hacker News",
+   "url": "https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/",
+   "image": null,
+   "published_at": "2026-10-23T10:58:52Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "7385a735d0bf79425e4c7c41b6a9b33c6f1b5a0b",
+   "title": "Dutch government had hacked into Jared Kushner's phone",
+   "summary": [
+    "Article URL: https://twitter.com/jaredkushner/status/2113376217415958767 Comments URL: https://news.ycombinator.com/item?id=50206914 Points: 226 # Comments: 145"
+   ],
+   "source": "Hacker News",
+   "url": "https://twitter.com/jaredkushner/status/2113376217415958767",
+   "image": null,
+   "published_at": "2026-10-23T10:41:32Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "886f8cb4200de25187d8dbae32980fd8e2b3c928",
+   "title": "Job Loss and Cortisone Mania",
+   "summary": [
+    "Article URL: https://tilschuenemann.de/job-loss-cortisone-mania Comments URL: https://news.ycombinator.com/item?id=50206840 Points: 60 # Comments: 15"
+   ],
+   "source": "Hacker News",
+   "url": "https://tilschuenemann.de/job-loss-cortisone-mania",
+   "image": null,
+   "published_at": "2026-10-23T10:31:24Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "eee3d0d409c3b67d3a9b64fbc0a6b35e453353c8",
+   "title": "Is a job guarantee the solution to mass AI unemployment?",
+   "summary": [
+    "When that crisis occurs, the actions that are taken depend on the ideas that are lying around,” he wrote.",
+    "The job of intellectuals, thinktanks and economists, he argued, is to refine the quality of these ambient ideas, so that good ones are ready when disaster strikes."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/oct/23/job-guarantee-ai-mass-unemployment",
+   "image": "https://i.guim.co.uk/img/media/5d838343b80e3163461a99b84753451e52e54078/724_0_7211_5773/master/7211.jpg?width=140&quality=85&auto=format&fit=max&s=5f0a1886ce0a420f06860d5211a18c3e",
+   "published_at": "2026-10-23T10:00:30Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "739788d7a9449e4197f4397b5a6cbe0736a21273",
+   "title": "Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier",
+   "summary": [
+    "Article URL: https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/ Comments URL: https://news.ycombinator.com/item?id=50205934 Points: 155 # Comments: 132"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/",
+   "image": null,
+   "published_at": "2026-10-23T08:21:29Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "46558c101eff53de0d22f53d288c77e98bb9c34e",
+   "title": "Remove pgrust: the entry is cheating",
+   "summary": [
+    "Article URL: https://github.com/ClickHouse/ClickBench/pull/2165 Comments URL: https://news.ycombinator.com/item?id=50205816 Points: 117 # Comments: 61"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/ClickHouse/ClickBench/pull/2165",
+   "image": null,
+   "published_at": "2026-10-23T08:05:33Z",
+   "category": "tech",
+   "related": []
+  },
   {
    "id": "dabc0cc8f50adf894135405542d6241a5fabcdc3",
    "title": "The Indian workers filming their work to train AI",
@@ -95,7 +335,7 @@
    "id": "95005133831d6637ad8947614c9eb9e15aeb85aa",
    "title": "This I Believe (1952)",
    "summary": [
-    "Article URL: https://www.awakin.org/v2/read/view.php?tid=468 Comments URL: https://news.ycombinator.com/item?id=50203759 Points: 86 # Comments: 32"
+    "Article URL: https://www.awakin.org/v2/read/view.php?tid=468 Comments URL: https://news.ycombinator.com/item?id=50203759 Points: 122 # Comments: 50"
    ],
    "source": "Hacker News",
    "url": "https://www.awakin.org/v2/read/view.php?tid=468",
@@ -108,7 +348,7 @@
    "id": "562092bac9df7bfb35e5826ea340d306a0e3fab8",
    "title": "The foolishness of \"natural language programming\" (1978)",
    "summary": [
-    "Article URL: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html Comments URL: https://news.ycombinator.com/item?id=50203161 Points: 173 # Comments: 100"
+    "Article URL: https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html Comments URL: https://news.ycombinator.com/item?id=50203161 Points: 270 # Comments: 171"
    ],
    "source": "Hacker News",
    "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
@@ -136,25 +376,12 @@
    "summary": [
     "A recent (unwanted) webOS update that got installed on TV prompted me to start going down the rabbit hole of writing new TV software.",
     "In specific: using WebRTC to cut down latency, repurposing vendor logic for buffering voice samples and designing user experience.It was liberating to finally free the TV of bloatware and make it truly personalized!",
-    "Comments URL: https://news.ycombinator.com/item?id=50202865 Points: 16 # Comments: 1"
+    "Comments URL: https://news.ycombinator.com/item?id=50202865 Points: 63 # Comments: 31"
    ],
    "source": "Hacker News",
    "url": "https://github.com/anubhavmalhotra/r2d2-tv",
    "image": null,
    "published_at": "2026-10-23T00:10:45Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "ee67c9da92cba238a1612db44795a17cec1de2bb",
-   "title": "Jank – The native Clojure dialect with seamless C++ interop",
-   "summary": [
-    "Article URL: https://jank-lang.org/ Comments URL: https://news.ycombinator.com/item?id=50202762 Points: 102 # Comments: 11"
-   ],
-   "source": "Hacker News",
-   "url": "https://jank-lang.org/",
-   "image": null,
-   "published_at": "2026-10-22T23:56:36Z",
    "category": "tech",
    "related": []
   },
@@ -175,25 +402,12 @@
    "id": "46a214f2714183630b8e6d6447bce6f7b3e10c27",
    "title": "Docker is weird",
    "summary": [
-    "Article URL: https://codeandcake.dev/posts/2026-10-22-docker-is-weird Comments URL: https://news.ycombinator.com/item?id=50202681 Points: 472 # Comments: 218"
+    "Article URL: https://codeandcake.dev/posts/2026-10-22-docker-is-weird Comments URL: https://news.ycombinator.com/item?id=50202681 Points: 654 # Comments: 271"
    ],
    "source": "Hacker News",
    "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
    "image": null,
    "published_at": "2026-10-22T23:45:56Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "536166bc9f6a8df4d4cbc74da673db77adc628a9",
-   "title": "We have traits at home",
-   "summary": [
-    "Article URL: https://www.axelmagn.com/blog/202610-zig-traits/ Comments URL: https://news.ycombinator.com/item?id=50202482 Points: 16 # Comments: 3"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.axelmagn.com/blog/202610-zig-traits/",
-   "image": null,
-   "published_at": "2026-10-22T23:24:17Z",
    "category": "tech",
    "related": []
   },
@@ -214,25 +428,12 @@
    "id": "9498ce0d340baf6c5a3d57506a449f3f1ca14009",
    "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
    "summary": [
-    "Article URL: https://edjefferson.com/localwiki/ Comments URL: https://news.ycombinator.com/item?id=50202285 Points: 365 # Comments: 92"
+    "Article URL: https://edjefferson.com/localwiki/ Comments URL: https://news.ycombinator.com/item?id=50202285 Points: 757 # Comments: 153"
    ],
    "source": "Hacker News",
    "url": "https://edjefferson.com/localwiki/",
    "image": null,
    "published_at": "2026-10-22T23:01:18Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "1360bd8eb5a8e67e4ab18c0f5a157bdb371ed6d2",
-   "title": "LLMs are making formal software verification feasible at a much larger scale",
-   "summary": [
-    "Article URL: https://www.anthropic.com/research/formal-verification Comments URL: https://news.ycombinator.com/item?id=50202217 Points: 347 # Comments: 202"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.anthropic.com/research/formal-verification",
-   "image": null,
-   "published_at": "2026-10-22T22:54:43Z",
    "category": "tech",
    "related": []
   },
@@ -250,19 +451,6 @@
    "related": []
   },
   {
-   "id": "7be3fcfcc752d13719578045f0a4ac8701c0002f",
-   "title": "Rule 30: one black cell",
-   "summary": [
-    "Article URL: https://www.wolframcollatzmahler.com/rule30/index.html Comments URL: https://news.ycombinator.com/item?id=50201842 Points: 16 # Comments: 4"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.wolframcollatzmahler.com/rule30/index.html",
-   "image": null,
-   "published_at": "2026-10-22T22:16:48Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "6372ebaa66c806f54d26e33177513ab47bc13129",
    "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
    "summary": [
@@ -276,47 +464,15 @@
    "related": []
   },
   {
-   "id": "1abb7be22e6702a09bc41cf28c575b54c68b6576",
-   "title": "Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump",
-   "summary": [
-    "The weakness for tech stocks was so overwhelming that it masked strength for the rest of the US market, in which the majority of stocks actually rose.",
-    "The Dow Jones Industrial Average added 11 points, or less than 0.1%."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/oct/22/stock-markets-drop-ai-oil",
-   "image": "https://i.guim.co.uk/img/media/9e77a4ead0dd662eb649b44a2b029545f70ae2d1/408_0_4078_3263/master/4078.jpg?width=140&quality=85&auto=format&fit=max&s=03c497b56890f64a599984cd4dece7c8",
-   "published_at": "2026-10-22T21:50:13Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "af01d772051a457024c89824279d536447542b3e",
    "title": "How does Fable 5.1 hide messages in images?",
    "summary": [
-    "Article URL: https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images Comments URL: https://news.ycombinator.com/item?id=50201445 Points: 85 # Comments: 23"
+    "Article URL: https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images Comments URL: https://news.ycombinator.com/item?id=50201445 Points: 155 # Comments: 48"
    ],
    "source": "Hacker News",
    "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
    "image": null,
    "published_at": "2026-10-22T21:41:13Z",
-   "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge"
-    }
-   ]
-  },
-  {
-   "id": "76e529b8b9122de19c81ae14684096bb0edbeaec",
-   "title": "Railpass",
-   "summary": [
-    "Article URL: https://train.samismith.com/ Comments URL: https://news.ycombinator.com/item?id=50201414 Points: 101 # Comments: 24"
-   ],
-   "source": "Hacker News",
-   "url": "https://train.samismith.com/",
-   "image": null,
-   "published_at": "2026-10-22T21:38:32Z",
    "category": "tech",
    "related": []
   },
@@ -389,169 +545,12 @@
    "id": "5c6a065c01b52cd83655ed8fe0f674df054eb2cf",
    "title": "The HTML-in-Canvas API origin trial",
    "summary": [
-    "Article URL: https://developer.chrome.com/blog/html-in-canvas-origin-trial Comments URL: https://news.ycombinator.com/item?id=50200164 Points: 44 # Comments: 19"
+    "Article URL: https://developer.chrome.com/blog/html-in-canvas-origin-trial Comments URL: https://news.ycombinator.com/item?id=50200164 Points: 95 # Comments: 42"
    ],
    "source": "Hacker News",
    "url": "https://developer.chrome.com/blog/html-in-canvas-origin-trial",
    "image": null,
    "published_at": "2026-10-22T19:54:04Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "fe52d49759b6b59c7f4c2b795faadc90d117c4da",
-   "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-   "summary": [
-    "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-   "image": null,
-   "published_at": "2026-10-22T19:07:09Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "865ffb65f1d593f079bea5171bf4619d03fdfa05",
-   "title": "Canva releases its first image generation model",
-   "summary": [
-    "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-   "image": null,
-   "published_at": "2026-10-22T19:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "5d204276414bcfa2eeff25d54ee5e294f63a8c5c",
-   "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-   "summary": [
-    "OpenAI is launching its decision model to the world."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-   "image": null,
-   "published_at": "2026-10-22T19:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "9eefcb402cccdce697728e5551b4c7f8ef2e12d6",
-   "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
-   "summary": [
-    "Article URL: https://github.com/maxilevi/project-hedra/tree/pre-ai Comments URL: https://news.ycombinator.com/item?id=50199389 Points: 198 # Comments: 39"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
-   "image": null,
-   "published_at": "2026-10-22T18:44:36Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "d26ae9b2d9ce501ca5e5f8678040fb18be02e6db",
-   "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-   "summary": [
-    "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science.",
-    "But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-   "image": null,
-   "published_at": "2026-10-22T18:43:53Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "2203bd1a772ab1e2b9393af5d51e360dfc54175b",
-   "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
-   "summary": [
-    "Wearing cameras and sensor gloves, the startup’s human chemists will train robots to perform various lab tasks."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
-   "image": null,
-   "published_at": "2026-10-22T18:38:47Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "4dcdb955782720745c63884f1e5a19f3e6e44932",
-   "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-   "summary": [
-    "Article URL: https://github.com/NVIDIA/OpenShell Comments URL: https://news.ycombinator.com/item?id=50198675 Points: 394 # Comments: 193"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/NVIDIA/OpenShell",
-   "image": null,
-   "published_at": "2026-10-22T17:44:06Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "35b21957076a4419add6613a841c4633f105b77d",
-   "title": "Elon Musk made a $1B investment in Skydance, report says",
-   "summary": [
-    "The investment will provide a much-needed financial boost as the company seeks to cut costs and lift its stock price."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/",
-   "image": null,
-   "published_at": "2026-10-22T17:36:38Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "d1b19037538aa4f5ffd5dd648f4fcbe030202329",
-   "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-   "summary": [
-    "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-   "image": null,
-   "published_at": "2026-10-22T16:47:17Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "1055e9b1c4ed9d2008023c27349b6d83f67c1e0a",
-   "title": "Websites across world hit by millions of attempts to exploit PHP code flaw",
-   "summary": [
-    "Problem in language that underpins 70% of sites has led governments and companies to pull sites offline to patch faultTell us: have you been affected by the PHP code flaw?What is PHP, and how bad is the computer language flaw causing website shutdowns globally?Websites around the world have been hit by millions of attempts to exploit a recently discovered vulnerability in their code, cybersecurity companies have said, as the US warned the flaw could allow attackers to take control of web servers, steal data and disrupt services.The problem in the PHP programming language, which underpins about 70% of the world’s websites, emerged on Wednesday causing governments and companies to pull their websites off the internet before they could be attacked and so they could patch the fault."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/oct/22/websites-across-world-hit-by-millions-of-attempts-to-exploit-php-code-flaw",
-   "image": "https://i.guim.co.uk/img/media/e240560dbdb0dfbd8f0e19f35e6bf6650b057f87/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=e02249e5bef8e34df304c9e91d27d0ec",
-   "published_at": "2026-10-22T16:42:54Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "a816b657efa82b583f97f23ccbf913e3a7f6d913",
-   "title": "Getting ready to operate GNU Taler in Germany",
-   "summary": [
-    "Article URL: https://www.taler.net/en/news/2026-13.html Comments URL: https://news.ycombinator.com/item?id=50197404 Points: 294 # Comments: 123"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.taler.net/en/news/2026-13.html",
-   "image": null,
-   "published_at": "2026-10-22T16:14:31Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "36b89264973fd28e84bcdafe2ed2d255f90b9bf4",
-   "title": "Every AI model has the same \"controversial\" take on humans",
-   "summary": [
-    "Article URL: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans Comments URL: https://news.ycombinator.com/item?id=50197313 Points: 420 # Comments: 423"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
-   "image": null,
-   "published_at": "2026-10-22T16:08:00Z",
    "category": "tech",
    "related": []
   }
