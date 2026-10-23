@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T19:05:57.305604Z",
+ "generated_at": "2026-10-23T22:04:24.305375Z",
  "story_count": 20,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -23,6 +23,19 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "a732864d1bbe80e9c1f06e5c40fa4a303f0e721c",
+   "title": "White House says the US is lifting tariffs on some Canadian goods",
+   "summary": [
+    "Susan Collins, a Republican in a tight race to keep her senate seat in next month's elections, said she had been working with the White House on tariff relief."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-23T20:39:39Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "a6f4041bd35baff80f6fbbaf42f7b7ddd1611922",
    "title": "The little-known investment Martin Lewis wants you to understand...",
@@ -141,6 +154,19 @@
    "related": []
   },
   {
+   "id": "8c3d7bf32c979c12fcd7bf1a3c5592ceda84d62a",
+   "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
+   "summary": [
+    "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\"."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-22T22:27:53Z",
+   "category": "business",
+   "related": []
+  },
+  {
    "id": "810211394bf912cc437afc179b3fa9ac82767fd6",
    "title": "Elon Musk reportedly invests $1bn in David Ellison’s Skydance",
    "summary": [
@@ -255,32 +281,6 @@
    "url": "https://www.theguardian.com/us-news/2026/oct/22/trump-high-gas-prices-midterms-cycle",
    "image": "https://i.guim.co.uk/img/media/48409507b97b27256278d0fc1d3d4df39035668a/646_0_6475_5181/master/6475.jpg?width=140&quality=85&auto=format&fit=max&s=b7723508a3614005cffd2d83c7e32ea8",
    "published_at": "2026-10-22T11:00:40Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "9f3ca0cdb64cdb3c3af72b9b8029f8dda8254786",
-   "title": "Woman 'scared to turn heating on' due to oil cost",
-   "summary": [
-    "Roslynn Garner-Gatley uses a hot water bottle bed socks and earlier bedtimes to stay warm."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/cmd7qr0ezrq7o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-22T09:55:16Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "c068a38136a18cde5717835de6957a3171bba039",
-   "title": "French borrowing costs overtake US amid budget turmoil",
-   "summary": [
-    "France’s bond market hit by another bout of selling as country recovers from weekend protestsFrench borrowing costs continued to rise on Thursday, as investors fret that France’s government is struggling to pass a federal budget after public protests gripped the country.France’s bond market was hit with another bout of selling, with the difference between French and German 10-year borrowing costs – a metric for the risk premium attached to French debt – rising to its highest level in almost 15 years."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/oct/22/french-borrowing-costs-overtake-us-amid-budget-turmoil",
-   "image": "https://i.guim.co.uk/img/media/75bedd6d2c81e2f2be23f61588ee0e589a2a9d70/1090_0_4382_3508/master/4382.jpg?width=140&quality=85&auto=format&fit=max&s=6fab366b2a3932a3831176f8c87818a2",
-   "published_at": "2026-10-22T08:40:36Z",
    "category": "business",
    "related": []
   }
