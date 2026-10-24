@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-24T00:34:42.631007Z",
- "story_count": 20,
+ "generated_at": "2026-10-24T05:42:19.203266Z",
+ "story_count": 15,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,19 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "a732864d1bbe80e9c1f06e5c40fa4a303f0e721c",
+   "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+   "summary": [
+    "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-24T00:36:47Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "6ce9d833dbe2cc4a223acf923757520d3e066e84",
    "title": "How does the UK state pension compare with other countries?",
@@ -50,15 +63,15 @@
    "related": []
   },
   {
-   "id": "a732864d1bbe80e9c1f06e5c40fa4a303f0e721c",
-   "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+   "id": "a64d51764e73ad740b5ba3a5bd6d3b5d670dd52d",
+   "title": "Trump drops some Canada tariffs in bid to boost embattled Susan Collins in Maine",
    "summary": [
-    "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets."
+    "She added that many of the state’s farmers rely on specialized equipment and materials from across the border that are “unavailable from American suppliers or cannot be replaced without incurring significant expense”."
    ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-23T22:54:57Z",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
+   "image": "https://i.guim.co.uk/img/media/a656adaa305948099a0698f8410031bd96ebf2ff/261_0_2655_2125/master/2655.jpg?width=140&quality=85&auto=format&fit=max&s=4d9cc435fff3980f6d247bc8abe9a63f",
+   "published_at": "2026-10-23T22:03:07Z",
    "category": "business",
    "related": []
   },
@@ -203,84 +216,6 @@
    "url": "https://www.theguardian.com/technology/2026/oct/22/elon-musk-david-ellison-skydance-investment",
    "image": "https://i.guim.co.uk/img/media/7cd5dc6f61f2d7b3d20aa1f599e65225ab113411/0_0_4078_3262/master/4078.jpg?width=140&quality=85&auto=format&fit=max&s=8f7559ac0087dbde2f502e711407959b",
    "published_at": "2026-10-22T21:23:39Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "378493e0245f5866e8be96bc29ce5e40807aa3f6",
-   "title": "US judge orders Trump to sit for deposition in $10bn lawsuit against BBC",
-   "summary": [
-    "The BBC has acknowledged that this specific edit was misleading, but Trump has gone on to claim, falsely, that the BBC did not just edit his speech but used AI to insert words into his speech."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/oct/22/trump-bbc-lawsuit-deposition-discovery",
-   "image": "https://i.guim.co.uk/img/media/9a93ee6d87e5494961cdff94eda845a87fa6b1e9/324_368_4428_3541/master/4428.jpg?width=140&quality=85&auto=format&fit=max&s=84259c519bd503042046f2e2b79bb1f9",
-   "published_at": "2026-10-22T17:18:12Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "645ec10fe660436c86b0fcb4e2780a6a072abbf5",
-   "title": "Cyprus police investigate financial and tax affairs of ex-Chelsea owner Roman Abramovich",
-   "summary": [
-    "Inquiry follows report by Guardian and partners that aides of Russian oligarch appeared to have falsified paperwork mapping his businessesPolice in Cyprus have opened an investigation into the financial and tax affairs of the former Chelsea FC owner Roman Abramovich following a report by the Guardian and media partners.In a committee hearing in the Cypriot parliament, a senior official in the island’s police said they were looking into events between 2003 and 2006, with the investigation likely to last several months."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/oct/22/cyprus-police-investigate-financial-tax-affairs-roman-abramovich-chelsea",
-   "image": "https://i.guim.co.uk/img/media/106f5d356377299feb847c2223975b086e6a7097/376_0_2083_1667/master/2083.jpg?width=140&quality=85&auto=format&fit=max&s=7e7b28b5dabcdf8920264073bbf7fee2",
-   "published_at": "2026-10-22T15:53:22Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "562b510695d8b493cee76b8d0ebd54dede0923bf",
-   "title": "'I wasn't thinking straight' says five jobs civil servant",
-   "summary": [
-    "Kashim Chowdhury is accused of fraudulently juggling multiple public sector jobs."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-22T15:05:47Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "52e8775d890cc5f91159b0c060acdc0ed1b0cc2a",
-   "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
-   "summary": [
-    "The bank says it is using more AI leading to a 5% reduction in its workforce."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-22T14:28:59Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "374498ab6635ceec9aa19fa4f58f11504a0a57f6",
-   "title": "Tank barrel production returns to UK after 20 years",
-   "summary": [
-    "The defence secretary says the UK is \"back in the business of making weapons\" for its armed forces."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-22T13:45:19Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "01b88856c020855d3e7ce44e5dbe9115aad0db57",
-   "title": "The Briefing Room",
-   "summary": [
-    "After mass protests and violence, what will persuade the French to accept economic reform?"
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/sounds/play/m00333cg?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-22T13:19:00Z",
    "category": "business",
    "related": []
   }

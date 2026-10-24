@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T00:34:42.631379Z",
+ "generated_at": "2026-10-24T05:42:19.203625Z",
  "story_count": 25,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -23,6 +23,19 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "d957061e449510f088033d0da7ed213ea0f59bc3",
+   "title": "Second storm to hit UK with more wind and rain as thousands remain without power",
+   "summary": [
+    "An amber weather warning has been issued for much of Scotland, parts of Northern Ireland and northern England, as Storm Boelo approaches."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-24T02:25:54Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "5de1832767772d717d8a032ff6d3424a051c9439",
    "title": "Storm Austen brings power cuts and travel disruption as more wind and rain forecast",
@@ -341,20 +354,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cqvgjk3j0j9wo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-22T18:48:59Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "008f2a457f2f9cd5dd7a85ee1c5e2716dab1bbb3",
-   "title": "Millions take fish oil for brain health. A two-year study found no benefit",
-   "summary": [
-    "A surprising two-year clinical trial found that fish oil supplements successfully delivered omega-3s to the brain but failed to improve memory or protect against Alzheimer's-related brain shrinkage.",
-    "Researchers suspect that getting these nutrients through a healthy diet may offer benefits that supplements alone cannot provide."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261020085427.htm",
-   "image": null,
-   "published_at": "2026-10-22T12:46:24Z",
    "category": "science",
    "related": []
   }
