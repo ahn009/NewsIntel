@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-24T10:49:21.169187Z",
- "story_count": 12,
+ "generated_at": "2026-10-24T14:26:56.174729Z",
+ "story_count": 13,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,19 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "a98c340973abc64cbcfa2ccc596edf894ea7b89d",
+   "title": "Rising demand from families needing Christmas help",
+   "summary": [
+    "Charlotte Riley says more families are reaching out for help for a variety of reasons."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqp8gjz4k7g6o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-24T11:55:35Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "acfaff28821e33a3d3277568b7fee121cd571d6b",
    "title": "Charity expects demand for Christmas present campaign",
@@ -51,7 +64,7 @@
   },
   {
    "id": "ca911044cec07a633c000c9e820cbb4a6a82d148",
-   "title": "Before you crank up the thermostat, try these tips to keep your house warmer for longer",
+   "title": "Before you crank up the thermostat, try these tips to keep you and your home warmer for longer",
    "summary": [
     "Make draught excluders from socks, leave your oven door open after cooking and opt for lots of thin layers of clothing to stay warm."
    ],
@@ -72,6 +85,19 @@
    "url": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
    "image": "https://i.guim.co.uk/img/media/a656adaa305948099a0698f8410031bd96ebf2ff/261_0_2655_2125/master/2655.jpg?width=140&quality=85&auto=format&fit=max&s=4d9cc435fff3980f6d247bc8abe9a63f",
    "published_at": "2026-10-23T22:03:07Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "d139ede9e73792f33f72751397f6de08967939a4",
+   "title": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
+   "summary": [
+    "Brent crude increase follows Tehran threatening retaliatory attacks on Gulf refineries and datacentresOil has hit its highest level in more than six months as fears of fresh escalation in the Middle East conflict grip the energy markets.Brent crude, the international benchmark for oil, rose by about 3.5% on Friday to pass $117 a barrel at one point – its highest level since April."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
+   "image": "https://i.guim.co.uk/img/media/c0f302e34e0b51e7da8489af30c4f6d217592b8a/424_0_4520_3616/master/4520.jpg?width=140&quality=85&auto=format&fit=max&s=c61c7f835c77b6046500b5ffba86d418",
+   "published_at": "2026-10-23T16:48:28Z",
    "category": "business",
    "related": []
   },
@@ -163,19 +189,6 @@
    "url": "https://www.bbc.co.uk/news/videos/cm5ydzw56vkeo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-23T05:45:54Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "072826d2cb9ef74ced4175d46a6d0b5d170f1888",
-   "title": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
-   "summary": [
-    "Grandma Droniak, Nonna Gracie, Viv Truran and Barbara Costello have all found fame on social media in their later years."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-22T23:20:38Z",
    "category": "business",
    "related": []
   }
