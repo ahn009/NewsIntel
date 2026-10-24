@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T05:42:19.202638Z",
+ "generated_at": "2026-10-24T10:49:21.168526Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -24,15 +24,67 @@
  },
  "stories": [
   {
-   "id": "937563ab7080fc1a107feb80bd41ab0306f14e42",
-   "title": "How close can pure functional programming get to C?",
+   "id": "6252a2c19dbe293cadc9aaca05e02bf2d3fe129a",
+   "title": "I Don't Understand Quantum Physics",
    "summary": [
-    "Article URL: https://rtfeldman.com/fp-vs-c Comments URL: https://news.ycombinator.com/item?id=50218195 Points: 26 # Comments: 1"
+    "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 49 # Comments: 17"
    ],
    "source": "Hacker News",
-   "url": "https://rtfeldman.com/fp-vs-c",
+   "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
    "image": null,
-   "published_at": "2026-10-24T03:43:54Z",
+   "published_at": "2026-10-24T09:53:26Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "69696c78864a6bdc51e36a5fa86c5c93e4287f5d",
+   "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+   "summary": [
+    "Article URL: https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497 Comments URL: https://news.ycombinator.com/item?id=50219177 Points: 10 # Comments: 1"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+   "image": null,
+   "published_at": "2026-10-24T08:06:39Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "00783114a44a02c4e41c7eeae29d9b44050001cd",
+   "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+   "summary": [
+    "Article URL: https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/ Comments URL: https://news.ycombinator.com/item?id=50218633 Points: 162 # Comments: 37"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+   "image": null,
+   "published_at": "2026-10-24T05:49:57Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "bf6279ad02f6cae948f5a1d9a92c004cb73930b8",
+   "title": "John Healey pledges to use budget to harness power of AI to bolster Britain’s security",
+   "summary": [
+    "Chancellor says government to commit hundreds of millions to develop ‘distinctively British’ approach to AIJohn Healey has pledged to use Wednesday’s budget to harness the power of artificial intelligence to bolster Britain’s security and prosperity against the risks in the accelerating global technology arms race.As he prepares for his debut budget, the chancellor said that Andy Burnham’s government would commit hundreds of millions of pounds to develop a “distinctively British” approach to AI that would capitalise on the benefits of the frontier technology."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security",
+   "image": "https://i.guim.co.uk/img/media/13ceb52a43f1b6771519d70b1eb33680ffbec0ca/0_0_2750_2200/master/2750.jpg?width=140&quality=85&auto=format&fit=max&s=7c0a9667489edbac502049a00339a656",
+   "published_at": "2026-10-24T05:00:24Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "f244da1f1890907b17db562c9eadf83a5817e531",
+   "title": "OBS Studio 33",
+   "summary": [
+    "Article URL: https://github.com/obsproject/obs-studio/releases/tag/33.0.0 Comments URL: https://news.ycombinator.com/item?id=50218430 Points: 166 # Comments: 51"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+   "image": null,
+   "published_at": "2026-10-24T04:49:58Z",
    "category": "tech",
    "related": []
   },
@@ -40,7 +92,7 @@
    "id": "2689b14cb18e3af4078ca2a1debf0052bac34c0e",
    "title": "How Block Blast harvests its players for ad money",
    "summary": [
-    "Article URL: https://ayoships.com/breakdowns/block-blast Comments URL: https://news.ycombinator.com/item?id=50217946 Points: 3 # Comments: 0"
+    "Article URL: https://ayoships.com/breakdowns/block-blast Comments URL: https://news.ycombinator.com/item?id=50217946 Points: 55 # Comments: 20"
    ],
    "source": "Hacker News",
    "url": "https://ayoships.com/breakdowns/block-blast",
@@ -50,28 +102,33 @@
    "related": []
   },
   {
-   "id": "96edaa29553b0cc985bb3bf42c9cc99253f9d710",
-   "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
-   "summary": [
-    "Article URL: https://www.sciencedaily.com/releases/2026/10/261018084421.htm Comments URL: https://news.ycombinator.com/item?id=50217683 Points: 59 # Comments: 16"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
-   "image": null,
-   "published_at": "2026-10-24T01:53:10Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "f80c4bbdb8d6f14796b2ac73993c90b835082432",
    "title": "Twelve years of distributed SQLite",
    "summary": [
-    "Article URL: https://philipotoole.com/twelve-years-of-distributed-sqlite/ Comments URL: https://news.ycombinator.com/item?id=50217500 Points: 105 # Comments: 10"
+    "Article URL: https://philipotoole.com/twelve-years-of-distributed-sqlite/ Comments URL: https://news.ycombinator.com/item?id=50217500 Points: 212 # Comments: 30"
    ],
    "source": "Hacker News",
    "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
    "image": null,
    "published_at": "2026-10-24T01:16:58Z",
+   "category": "tech",
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://thinkrail.ai/"
+    }
+   ]
+  },
+  {
+   "id": "68b2e868f8ae751f7028c94d3ea0973f38ceb923",
+   "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+   "summary": [
+    "Article URL: https://grapheneos.social/@GrapheneOS/117492375462459244 Comments URL: https://news.ycombinator.com/item?id=50217495 Points: 112 # Comments: 15"
+   ],
+   "source": "Hacker News",
+   "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+   "image": null,
+   "published_at": "2026-10-24T01:15:14Z",
    "category": "tech",
    "related": []
   },
@@ -85,19 +142,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-24T00:05:45Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "80380c2f64c9aa95d13794ed42092d03aa623868",
-   "title": "Evolving Threat: http2shell is an RCE in Node, Python, and more",
-   "summary": [
-    "Article URL: https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhp"
-   ],
-   "source": "Hacker News",
-   "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
-   "image": null,
-   "published_at": "2026-10-23T23:30:17Z",
    "category": "tech",
    "related": []
   },
@@ -144,25 +188,12 @@
    "id": "774f7412d1a369d1c04ab0bb964614cd55e7e294",
    "title": "One Man's Pan Am 747 Replica [video]",
    "summary": [
-    "Article URL: https://www.youtube.com/watch?v=vAFwHGGfPz4 Comments URL: https://news.ycombinator.com/item?id=50215828 Points: 13 # Comments: 0"
+    "Article URL: https://www.youtube.com/watch?v=vAFwHGGfPz4 Comments URL: https://news.ycombinator.com/item?id=50215828 Points: 36 # Comments: 2"
    ],
    "source": "Hacker News",
    "url": "https://www.youtube.com/watch?v=vAFwHGGfPz4",
    "image": null,
    "published_at": "2026-10-23T21:46:51Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "f91eeafcc1ba2c6604323147cdaa4792fa3d5a5b",
-   "title": "CVE Tracker",
-   "summary": [
-    "Article URL: https://cve.0xosprey.com/ Comments URL: https://news.ycombinator.com/item?id=50215530 Points: 140 # Comments: 55"
-   ],
-   "source": "Hacker News",
-   "url": "https://cve.0xosprey.com/",
-   "image": null,
-   "published_at": "2026-10-23T21:21:47Z",
    "category": "tech",
    "related": []
   },
@@ -176,19 +207,6 @@
    "url": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
    "image": null,
    "published_at": "2026-10-23T20:57:13Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "471d1b99111664b36bf4995e1839fedf3140de57",
-   "title": "A whirlwind tour of systemd-nspawn containers (2025)",
-   "summary": [
-    "Article URL: https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/ Comments URL: https://news.ycombinator.com/item?id=50214983 Points: 40 # Comments: 7"
-   ],
-   "source": "Hacker News",
-   "url": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
-   "image": null,
-   "published_at": "2026-10-23T20:37:12Z",
    "category": "tech",
    "related": []
   },
@@ -221,19 +239,6 @@
    "related": []
   },
   {
-   "id": "47d23b4bbd73424e8c94c8a6130802dcbeff2927",
-   "title": "Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501",
-   "summary": [
-    "Article URL: https://rune.build/blog/rune-1-3-release Comments URL: https://news.ycombinator.com/item?id=50214325 Points: 46 # Comments: 11"
-   ],
-   "source": "Hacker News",
-   "url": "https://rune.build/blog/rune-1-3-release",
-   "image": null,
-   "published_at": "2026-10-23T19:42:01Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "09c3033658bb379d71196b78e1c3ffb63e005978",
    "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
    "summary": [
@@ -250,7 +255,7 @@
    "id": "2ca67924f9fca88f90b4b29f6c6565e8ee2418b1",
    "title": "Dessa: Conversation Model trained only on speech",
    "summary": [
-    "Article URL: https://block.xyz/dessa Comments URL: https://news.ycombinator.com/item?id=50213925 Points: 317 # Comments: 123"
+    "Article URL: https://block.xyz/dessa Comments URL: https://news.ycombinator.com/item?id=50213925 Points: 391 # Comments: 141"
    ],
    "source": "Hacker News",
    "url": "https://block.xyz/dessa",
@@ -273,19 +278,6 @@
    "related": []
   },
   {
-   "id": "82f501195509bfd37407107779d1dc9d2bc33387",
-   "title": "DNS: A Replacement for Finger",
-   "summary": [
-    "Article URL: https://altchan.org/sh/42 Comments URL: https://news.ycombinator.com/item?id=50213791 Points: 35 # Comments: 26"
-   ],
-   "source": "Hacker News",
-   "url": "https://altchan.org/sh/42",
-   "image": null,
-   "published_at": "2026-10-23T19:00:04Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "e6978f097eea8f5bfbf4196e533ae3fe85bab27b",
    "title": "‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking",
    "summary": [
@@ -302,7 +294,7 @@
    "id": "baca62f7ff23cbaf9860b544dc0e17f44932fc9e",
    "title": "Air Purifiers as White Noise Machines",
    "summary": [
-    "Article URL: https://www.jefftk.com/p/air-purifiers-as-white-noise-machines Comments URL: https://news.ycombinator.com/item?id=50212507 Points: 98 # Comments: 104"
+    "Article URL: https://www.jefftk.com/p/air-purifiers-as-white-noise-machines Comments URL: https://news.ycombinator.com/item?id=50212507 Points: 134 # Comments: 121"
    ],
    "source": "Hacker News",
    "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
@@ -312,54 +304,15 @@
    "related": []
   },
   {
-   "id": "8008d01b071182f8a1c5aeeb6890dbf282521816",
-   "title": "Animations for System Builders",
-   "summary": [
-    "Article URL: https://brooker.co.za/blog/2026/10/23/animations.html Comments URL: https://news.ycombinator.com/item?id=50212124 Points: 53 # Comments: 3"
-   ],
-   "source": "Hacker News",
-   "url": "https://brooker.co.za/blog/2026/10/23/animations.html",
-   "image": null,
-   "published_at": "2026-10-23T17:02:24Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "1fd8476b4493a52be8d2b181f06e7c6ec459ff85",
    "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
    "summary": [
-    "https://www.kimi.com/code/docs/en/kimi-code/models.htmlhttps://artificialanalysis.ai/models/kimi-k3-1-prohttps://www.modelcompare.ai/blog/china-open-source-ai Comments URL: https://news.ycombinator.com/item?id=50212065 Points: 818 # Comments: 489"
+    "https://www.kimi.com/code/docs/en/kimi-code/models.htmlhttps://artificialanalysis.ai/models/kimi-k3-1-prohttps://www.modelcompare.ai/blog/china-open-source-ai Comments URL: https://news.ycombinator.com/item?id=50212065 Points: 925 # Comments: 544"
    ],
    "source": "Hacker News",
    "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
    "image": null,
    "published_at": "2026-10-23T16:59:08Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "530d412031fedbc749e48e0042cd3bfc48283b5e",
-   "title": "UUIDv7: Timestamps aren’t time-ordered and other oddities",
-   "summary": [
-    "Article URL: https://alexsci.com/blog/uuidv7-is-weird/ Comments URL: https://news.ycombinator.com/item?id=50211746 Points: 123 # Comments: 103"
-   ],
-   "source": "Hacker News",
-   "url": "https://alexsci.com/blog/uuidv7-is-weird/",
-   "image": null,
-   "published_at": "2026-10-23T16:39:45Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "83676c2473c571c96ccefb156f9d96cf9f08c416",
-   "title": "How is music possible",
-   "summary": [
-    "Article URL: https://www.henrikkarlsson.xyz/p/music Comments URL: https://news.ycombinator.com/item?id=50211719 Points: 102 # Comments: 73"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.henrikkarlsson.xyz/p/music",
-   "image": null,
-   "published_at": "2026-10-23T16:38:17Z",
    "category": "tech",
    "related": []
   },
@@ -381,7 +334,7 @@
    "id": "46834880ed25d1918810644c48a44d28f7c2bbfb",
    "title": "Today, we hacked what we'd set out to hack: the iPhone",
    "summary": [
-    "Article URL: https://blog.calif.io/p/iphone Comments URL: https://news.ycombinator.com/item?id=50211474 Points: 808 # Comments: 530"
+    "Article URL: https://blog.calif.io/p/iphone Comments URL: https://news.ycombinator.com/item?id=50211474 Points: 896 # Comments: 588"
    ],
    "source": "Hacker News",
    "url": "https://blog.calif.io/p/iphone",
@@ -462,7 +415,7 @@
    "title": "Apple Music 404 Not Found",
    "summary": [
     "https://www.macrumors.com/2026/10/23/apple-music-has-a-hidde...",
-    "Comments URL: https://news.ycombinator.com/item?id=50207910 Points: 686 # Comments: 212"
+    "Comments URL: https://news.ycombinator.com/item?id=50207910 Points: 775 # Comments: 235"
    ],
    "source": "Hacker News",
    "url": "https://music.apple.com/this-url-doesnt-exist",
@@ -513,19 +466,6 @@
    "related": []
   },
   {
-   "id": "38c321ce3380c1ac03a1372a6e85b019c2b592ca",
-   "title": "Is this the new cyber normal?",
-   "summary": [
-    "Article URL: https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/ Comments URL: https://news.ycombinator.com/item?id=50207115 Points: 153 # Comments: 173"
-   ],
-   "source": "Hacker News",
-   "url": "https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/",
-   "image": null,
-   "published_at": "2026-10-23T11:04:53Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "eee3d0d409c3b67d3a9b64fbc0a6b35e453353c8",
    "title": "Is a job guarantee the solution to mass AI unemployment?",
    "summary": [
@@ -549,6 +489,74 @@
    "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-23T08:04:17Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "19bacac62733ddc71f86ba308324a54a2c50ebfd",
+   "title": "Apple Watch Ultra 4 review: longer battery life but still awaiting new features",
+   "summary": [
+    "Biggest Apple smartwatch gets better health tracking and new readiness tools with a battery and chip boost in preparation for controversial audio AIAs the Ultra enters its fourth year as Apple’s biggest and beefiest smartwatch it gets the best kind of spec upgrade – longer battery life – while waiting for something potentially more transformative.That’s because several of the key features announced as part of Apple’s new smartwatch lineup for 2026 have yet to be enabled, awaiting updates towards the end of this year.",
+    "That leaves the £749 (€899/$799/A$1,349) Apple Watch Ultra 4 the top dog, but basically the same as last year’s model.Case size: 49 x 44mmCase thickness: 12mmWeight: 63gProcessor: S11Storage: 64GBOperating system: watchOS 27Water resistance: 100 metres (10ATM)Connectivity: Bluetooth 5.3, wifi 4, 5G RedCap/4G, UWBSensors: HR, ECG, spO2, temp, depth, dual-band GPS, compass, altimeter Continue reading..."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/oct/23/apple-watch-ultra-4-review-longer-battery-life-health-tracking",
+   "image": "https://i.guim.co.uk/img/media/4f1356823052f403fc9b5a13c8f45e5e5aa596d6/1367_680_4321_3456/master/4321.jpg?width=140&quality=85&auto=format&fit=max&s=82909c070641247b4560f99a29553500",
+   "published_at": "2026-10-23T06:00:01Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "e3480502faea8ded24c6012a80d72e45f466082f",
+   "title": "Oura sues rival Ultrahuman again, threatening its US smart ring comeback",
+   "summary": [
+    "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
+   "image": null,
+   "published_at": "2026-10-23T04:22:57Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "87bcc5e5bd4629571b7b3f790e3de9a4e6742420",
+   "title": "Call of Duty: Modern Warfare 4 review – a thrilling airport novel of a game",
+   "summary": [
+    "Last year’s Black Ops 7 instalment was a sales disappointment for Activision, and that has no doubt put extra pressure on Infinity Ward, the studio leading Modern Warfare 4 development.",
+    "Fortunately, this developer – like series heroes Price, Gaz and Ghost – seems to thrive on pressure.As you may have read, this year’s campaign is based around a fictitious North Korean ruling family that has seized an opportunity to invade its southern neighbour.",
+    "Amid the chaos, a small group of Korean and American marines must help lead the fightback, while in the shadows, SAS hard man John Price makes an unlikely new comrade in his own morally ambiguous quest to put the world to rights."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/games/2026/oct/23/call-of-duty-modern-warfare-4-review-a-thrilling-airport-novel-of-a-game",
+   "image": "https://i.guim.co.uk/img/media/aadca8b8e8a16323ad37c7be1f9c2e7e409cc7c9/573_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=9749524800e553b864961ff04a994271",
+   "published_at": "2026-10-23T04:00:06Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "3602c8887bef48aefb767a97d4aec2c2c6697621",
+   "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
+   "summary": [
+    "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+   "image": null,
+   "published_at": "2026-10-23T04:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "8937fd9c8277a1faad761e8e6ce4e9703c7c816d",
+   "title": "Left alone with nothing to do, AI agents started playing",
+   "summary": [
+    "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+   "image": null,
+   "published_at": "2026-10-23T00:45:37Z",
    "category": "tech",
    "related": []
   }

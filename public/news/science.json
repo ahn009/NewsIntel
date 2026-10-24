@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-24T05:42:19.203625Z",
- "story_count": 25,
+ "generated_at": "2026-10-24T10:49:21.169490Z",
+ "story_count": 22,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -24,15 +24,93 @@
  },
  "stories": [
   {
+   "id": "fdc2c63ff75628155ac69b0ae4bd3557cd71be9d",
+   "title": "Wales plans to ban steel pylons as government launches consultation",
+   "summary": [
+    "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-24T10:04:29Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "6f664207216e74e8904efa1424a86b0e677418ba",
+   "title": "Trains cancelled and road warnings as Scotland prepares for Storm Boelo",
+   "summary": [
+    "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-24T09:41:10Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "8b3ea104d20f7062f9e086db5135f1c307aef778",
+   "title": "Weather warnings in place ahead of Storm Boelo",
+   "summary": [
+    "The amber Met Office alert for counties Antrim and Londonderry lasts from 21:00 BST on Saturday until 21:00 GMT on Sunday."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c83vqn2x54v1o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-24T08:28:49Z",
+   "category": "science",
+   "related": []
+  },
+  {
    "id": "d957061e449510f088033d0da7ed213ea0f59bc3",
-   "title": "Second storm to hit UK with more wind and rain as thousands remain without power",
+   "title": "Second storm to hit UK with up to 80mph gusts as hundreds still without power",
    "summary": [
     "An amber weather warning has been issued for much of Scotland, parts of Northern Ireland and northern England, as Storm Boelo approaches."
    ],
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-10-24T02:25:54Z",
+   "published_at": "2026-10-24T06:40:39Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "0b14b3fa9c55b094927e4797dd908dc051b2e8cb",
+   "title": "Project to restore rare native trees with DNA testing",
+   "summary": [
+    "Conservation groups say black poplars are endangered due to felling, land drainage and habitat loss."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cw240ln41mq2o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-24T06:17:32Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "b970e175e01179ae2659bc92d750a24a8a711184",
+   "title": "Historic swimming pond to be restored",
+   "summary": [
+    "Specialists are looking at how to clear the Cornwall bath house pond and understand the tidal inlet."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c5lyellrmlego?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-24T06:08:37Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "a21218cbcd147b141e954e5720a7e9fa6dc1025f",
+   "title": "The people on standby when a storm strikes",
+   "summary": [
+    "While most people are preparing to stay indoors as another storm approaches, others are getting ready to head straight into it."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6gqwz79ylw4o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-24T05:44:22Z",
    "category": "science",
    "related": []
   },
@@ -50,32 +128,6 @@
    "related": []
   },
   {
-   "id": "6f664207216e74e8904efa1424a86b0e677418ba",
-   "title": "Trains cancelled and roads warnings as Scotland prepares for Storm Boelo",
-   "summary": [
-    "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-23T19:31:02Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "fdc2c63ff75628155ac69b0ae4bd3557cd71be9d",
-   "title": "Wales plans to ban steel pylons as government launches consultation",
-   "summary": [
-    "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-23T16:44:13Z",
-   "category": "science",
-   "related": []
-  },
-  {
    "id": "305f4aee5ae8e4481cbc37063d18c603f8873ef0",
    "title": "Scotland to be hit with 80mph wind gusts as Storm Boelo warning upgraded to amber",
    "summary": [
@@ -85,19 +137,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-23T16:13:11Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "8b3ea104d20f7062f9e086db5135f1c307aef778",
-   "title": "Weather warnings in place ahead of Storm Boelo",
-   "summary": [
-    "The amber Met Office alert for counties Antrim and Londonderry lasts from 21:00 BST on Saturday until 21:00 GMT on Sunday."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c83vqn2x54v1o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-23T14:37:05Z",
    "category": "science",
    "related": []
   },
@@ -184,19 +223,6 @@
    "related": []
   },
   {
-   "id": "2de4bd50b43506e8340612f70787c2016ff215c2",
-   "title": "Fund to help businesses switch to green vehicles",
-   "summary": [
-    "Council leader Stephen Place says it will help businesses counter the rising cost of fuel."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cr62ydqjvg9lo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-23T10:15:00Z",
-   "category": "science",
-   "related": []
-  },
-  {
    "id": "66a6a29ab67867278d532dfdd6d40eb59e8d3989",
    "title": "Scientists discover a surprising double benefit of exercise for Parkinson’s",
    "summary": [
@@ -251,32 +277,6 @@
    "related": []
   },
   {
-   "id": "2095ce34ac39e16ede124871e1c921b7d2c81098",
-   "title": "Could experts have a solution to toxic algae?",
-   "summary": [
-    "Experts from the University of Bath are testing out a new invention at a lake in Wiltshire."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c9e8l640xl3do?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-23T05:17:13Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "1e531b1500299798056fc757eee2975595244dd3",
-   "title": "'Shock' of first England farmer hit by bird flu this season",
-   "summary": [
-    "The first farmer in England hit by bird flu this season tells of the \"emotional roller coaster\" of losing 32,000 hens."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/crpdg235g76no?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-23T05:10:30Z",
-   "category": "science",
-   "related": []
-  },
-  {
    "id": "51fafb5713f546ddbe723784fcff72732f011854",
    "title": "40 years later, Chernobyl's nuclear fallout is not what scientists expected",
    "summary": [
@@ -315,45 +315,6 @@
    "url": "https://www.sciencedaily.com/releases/2026/10/261022081312.htm",
    "image": null,
    "published_at": "2026-10-23T01:21:47Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "9950e97a3e1c4c7f3c3893a2b517dda435da21d6",
-   "title": "Gasps as Prince William makes surprise appearance on Graham Norton Show",
-   "summary": [
-    "The Prince of Wales was marking his Earthshot Prize, to which all of Norton's guests were linked."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c30rlpkglkwpo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-22T21:21:22Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "a28da5926e3b1b4d79dc640b3ddd0f5d3110a05d",
-   "title": "BBC Inside Science",
-   "summary": [
-    "A Japanese spacecraft could become the first ever to bring Martian samples back to Earth."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/sounds/play/w3ct978b?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-22T20:00:00Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "5c6da52aa563cdb7890fdba3642049670ef52644",
-   "title": "Firefighters and public 'knowingly put at risk' during summer wildfires",
-   "summary": [
-    "Crews and control centre staff say the fires were relentless with many firefighters still off work injured."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cqvgjk3j0j9wo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-22T18:48:59Z",
    "category": "science",
    "related": []
   }
