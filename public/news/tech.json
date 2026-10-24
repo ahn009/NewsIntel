@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T22:04:24.304735Z",
+ "generated_at": "2026-10-24T00:34:42.630388Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -24,15 +24,93 @@
  },
  "stories": [
   {
+   "id": "b0a9bad81a50e0d64d454e5b28c4dbf6068a61ad",
+   "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+   "summary": [
+    "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-24T00:05:45Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "80380c2f64c9aa95d13794ed42092d03aa623868",
+   "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
+   "summary": [
+    "Article URL: https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhp"
+   ],
+   "source": "Hacker News",
+   "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+   "image": null,
+   "published_at": "2026-10-23T23:30:17Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ae826c96ec6cdcd11ec7a97175792757064374a5",
+   "title": "Startups don’t need to go viral to win customers",
+   "summary": [
+    "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+   "image": null,
+   "published_at": "2026-10-23T23:07:45Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "f699a3e5cdaf492915584e366379490fa9928321",
+   "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+   "summary": [
+    "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+   "image": null,
+   "published_at": "2026-10-23T23:05:49Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "4b3cd7933af49b3d163b46d8ca05bc3a896851b8",
+   "title": "German court calls Google aerial imagery 'spying'",
+   "summary": [
+    "Article URL: https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/ Comments URL: https://news.ycombinator.com/item?id=50216142 Points: 23 # Comments: 7"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/",
+   "image": null,
+   "published_at": "2026-10-23T22:18:49Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "67ab64203109c3c98ed561728e0db2c54e1b0434",
    "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
    "summary": [
-    "The robots, stomping their little feet and making tiny R2D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command."
+    "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command."
    ],
    "source": "TechCrunch",
    "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
    "image": null,
    "published_at": "2026-10-23T21:59:19Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "f91eeafcc1ba2c6604323147cdaa4792fa3d5a5b",
+   "title": "CVE Tracker",
+   "summary": [
+    "Article URL: https://cve.0xosprey.com/ Comments URL: https://news.ycombinator.com/item?id=50215530 Points: 82 # Comments: 23"
+   ],
+   "source": "Hacker News",
+   "url": "https://cve.0xosprey.com/",
+   "image": null,
+   "published_at": "2026-10-23T21:21:47Z",
    "category": "tech",
    "related": []
   },
@@ -53,7 +131,7 @@
    "id": "286f92fd01fbc5bf7fb094e2f1ed8ac79695a3a4",
    "title": "No Source Code? No Problem",
    "summary": [
-    "Article URL: https://queue.acm.org/doi/10.1145/945131.945155 Comments URL: https://news.ycombinator.com/item?id=50214994 Points: 4 # Comments: 0"
+    "Article URL: https://queue.acm.org/doi/10.1145/945131.945155 Comments URL: https://news.ycombinator.com/item?id=50214994 Points: 28 # Comments: 20"
    ],
    "source": "Hacker News",
    "url": "https://queue.acm.org/doi/10.1145/945131.945155",
@@ -66,7 +144,7 @@
    "id": "471d1b99111664b36bf4995e1839fedf3140de57",
    "title": "A whirlwind tour of systemd-nspawn containers",
    "summary": [
-    "Article URL: https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/ Comments URL: https://news.ycombinator.com/item?id=50214983 Points: 6 # Comments: 1"
+    "Article URL: https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/ Comments URL: https://news.ycombinator.com/item?id=50214983 Points: 28 # Comments: 6"
    ],
    "source": "Hacker News",
    "url": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
@@ -89,23 +167,10 @@
    "related": []
   },
   {
-   "id": "eed9013c252fa1aa058c260a23780e1e85ea3492",
-   "title": "Sony Retires Its Last 4K Blu-ray Player in Japan, PS5 Is All That's Left",
-   "summary": [
-    "Article URL: https://www.techpowerup.com/354081/sony-retires-its-last-4k-blu-ray-player-in-japan-ps5-is-all-thats-left Comments URL: https://news.ycombinator.com/item?id=50214447 Points: 39 # Comments: 20"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.techpowerup.com/354081/sony-retires-its-last-4k-blu-ray-player-in-japan-ps5-is-all-thats-left",
-   "image": null,
-   "published_at": "2026-10-23T19:53:55Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "48e2274fdf2ba9fe48db533ddecc410e5cc41b05",
-   "title": "OpenAI: Securing our frontier model training environment",
+   "title": "Securing our frontier model training environment",
    "summary": [
-    "Article URL: https://openai.com/index/securing-our-frontier-model-training-environment/ Comments URL: https://news.ycombinator.com/item?id=50214416 Points: 28 # Comments: 17"
+    "Article URL: https://openai.com/index/securing-our-frontier-model-training-environment/ Comments URL: https://news.ycombinator.com/item?id=50214416 Points: 66 # Comments: 78"
    ],
    "source": "Hacker News",
    "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
@@ -115,10 +180,25 @@
    "related": []
   },
   {
+   "id": "c94050b89bcaf4d3f6301c6e0526299dd1aced4e",
+   "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+   "summary": [
+    "There's also a simple shortcut (F1) to go to the next unread agent.I use multiple accounts, so I've added unified launcher for Codex/Claude Code/Pi.",
+    "It just reuses the agents to organize things for you: what is this http link? what is this worktree about? what is each agent doing?",
+    "The answer is more mixed than I had hoped, but I am happy with the result and thankful for the experience.I hope you like it! a few friends & myself have been using it for a few weeks and it's been pretty nice."
+   ],
+   "source": "Hacker News",
+   "url": "https://corgi.computer/",
+   "image": null,
+   "published_at": "2026-10-23T19:46:38Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "47d23b4bbd73424e8c94c8a6130802dcbeff2927",
    "title": "Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501",
    "summary": [
-    "Article URL: https://rune.build/blog/rune-1-3-release Comments URL: https://news.ycombinator.com/item?id=50214325 Points: 11 # Comments: 0"
+    "Article URL: https://rune.build/blog/rune-1-3-release Comments URL: https://news.ycombinator.com/item?id=50214325 Points: 33 # Comments: 7"
    ],
    "source": "Hacker News",
    "url": "https://rune.build/blog/rune-1-3-release",
@@ -131,7 +211,7 @@
    "id": "c4f73e1a6e7950c562181a526ce8f8c7abad6158",
    "title": "We are all living inside of an obscure sci-fi film from 1970",
    "summary": [
-    "Article URL: https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/ Comments URL: https://news.ycombinator.com/item?id=50214323 Points: 57 # Comments: 28"
+    "Article URL: https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/ Comments URL: https://news.ycombinator.com/item?id=50214323 Points: 107 # Comments: 104"
    ],
    "source": "Hacker News",
    "url": "https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/",
@@ -144,7 +224,7 @@
    "id": "55f38e2b0de99dcec02bd5e181d20522fbd198b1",
    "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
    "summary": [
-    "Article URL: https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update Comments URL: https://news.ycombinator.com/item?id=50214218 Points: 114 # Comments: 52"
+    "Article URL: https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update Comments URL: https://news.ycombinator.com/item?id=50214218 Points: 245 # Comments: 125"
    ],
    "source": "Hacker News",
    "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
@@ -170,7 +250,7 @@
    "id": "2ca67924f9fca88f90b4b29f6c6565e8ee2418b1",
    "title": "Dessa: the most authentic full-duplex speech model ever built",
    "summary": [
-    "Article URL: https://block.xyz/dessa Comments URL: https://news.ycombinator.com/item?id=50213925 Points: 105 # Comments: 33"
+    "Article URL: https://block.xyz/dessa Comments URL: https://news.ycombinator.com/item?id=50213925 Points: 195 # Comments: 87"
    ],
    "source": "Hacker News",
    "url": "https://block.xyz/dessa",
@@ -196,7 +276,7 @@
    "id": "82f501195509bfd37407107779d1dc9d2bc33387",
    "title": "DNS: A Replacement for Finger",
    "summary": [
-    "Article URL: https://altchan.org/sh/42 Comments URL: https://news.ycombinator.com/item?id=50213791 Points: 8 # Comments: 8"
+    "Article URL: https://altchan.org/sh/42 Comments URL: https://news.ycombinator.com/item?id=50213791 Points: 21 # Comments: 18"
    ],
    "source": "Hacker News",
    "url": "https://altchan.org/sh/42",
@@ -206,10 +286,23 @@
    "related": []
   },
   {
+   "id": "e6978f097eea8f5bfbf4196e533ae3fe85bab27b",
+   "title": "‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking",
+   "summary": [
+    "After discovery of severe bug in the PHP programming language, executives warn of ‘vulnerability tsunami’Leaders in cybersecurity are sounding the alarm after the discovery of a major vulnerability this week."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability",
+   "image": "https://i.guim.co.uk/img/media/cb4c18c4ae3df1d687b8488dfb57058ade00d1a7/731_0_3659_2927/master/3659.jpg?width=140&quality=85&auto=format&fit=max&s=22240fd63146e88296ce67fe0124324c",
+   "published_at": "2026-10-23T18:48:48Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "a321e92a967bd0ad53835d4f6ef6d314f8d5bf82",
    "title": "I turned my TV into a Game Boy Color with a Pokemon town as my home screen",
    "summary": [
-    "Article URL: https://twitter.com/robbietilton/status/2111936458923851923 Comments URL: https://news.ycombinator.com/item?id=50212668 Points: 51 # Comments: 14"
+    "Article URL: https://twitter.com/robbietilton/status/2111936458923851923 Comments URL: https://news.ycombinator.com/item?id=50212668 Points: 60 # Comments: 21"
    ],
    "source": "Hacker News",
    "url": "https://twitter.com/robbietilton/status/2111936458923851923",
@@ -219,28 +312,15 @@
    "related": []
   },
   {
-   "id": "658e0fcfe459e958f46e2dc6cfcb1f43083729bd",
-   "title": "Can we replace a $150k Looker with a bucket of HTML files?",
+   "id": "baca62f7ff23cbaf9860b544dc0e17f44932fc9e",
+   "title": "Air Purifiers as White Noise Machines",
    "summary": [
-    "Article URL: https://david.lequin.dev/blog/bi-software-is-dead/ Comments URL: https://news.ycombinator.com/item?id=50212320 Points: 97 # Comments: 60"
+    "Article URL: https://www.jefftk.com/p/air-purifiers-as-white-noise-machines Comments URL: https://news.ycombinator.com/item?id=50212507 Points: 54 # Comments: 80"
    ],
    "source": "Hacker News",
-   "url": "https://david.lequin.dev/blog/bi-software-is-dead/",
+   "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
    "image": null,
-   "published_at": "2026-10-23T17:15:03Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "64135f5b21e3a0c08610c33fb7cc84103a4bb1c8",
-   "title": "Time Nuts (2005)",
-   "summary": [
-    "Article URL: http://leapsecond.com/time-nuts.htm Comments URL: https://news.ycombinator.com/item?id=50212281 Points: 26 # Comments: 21"
-   ],
-   "source": "Hacker News",
-   "url": "http://leapsecond.com/time-nuts.htm",
-   "image": null,
-   "published_at": "2026-10-23T17:12:51Z",
+   "published_at": "2026-10-23T17:28:36Z",
    "category": "tech",
    "related": []
   },
@@ -248,7 +328,7 @@
    "id": "8008d01b071182f8a1c5aeeb6890dbf282521816",
    "title": "Animations for System Builders",
    "summary": [
-    "Article URL: https://brooker.co.za/blog/2026/10/23/animations.html Comments URL: https://news.ycombinator.com/item?id=50212124 Points: 23 # Comments: 3"
+    "Article URL: https://brooker.co.za/blog/2026/10/23/animations.html Comments URL: https://news.ycombinator.com/item?id=50212124 Points: 31 # Comments: 3"
    ],
    "source": "Hacker News",
    "url": "https://brooker.co.za/blog/2026/10/23/animations.html",
@@ -261,7 +341,7 @@
    "id": "1fd8476b4493a52be8d2b181f06e7c6ec459ff85",
    "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
    "summary": [
-    "https://www.kimi.com/code/docs/en/kimi-code/models.htmlhttps://artificialanalysis.ai/models/kimi-k3-1-prohttps://www.modelcompare.ai/blog/china-open-source-ai Comments URL: https://news.ycombinator.com/item?id=50212065 Points: 569 # Comments: 342"
+    "https://www.kimi.com/code/docs/en/kimi-code/models.htmlhttps://artificialanalysis.ai/models/kimi-k3-1-prohttps://www.modelcompare.ai/blog/china-open-source-ai Comments URL: https://news.ycombinator.com/item?id=50212065 Points: 679 # Comments: 433"
    ],
    "source": "Hacker News",
    "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
@@ -274,7 +354,7 @@
    "id": "530d412031fedbc749e48e0042cd3bfc48283b5e",
    "title": "UUIDv7 doesn't have the properties you think it does",
    "summary": [
-    "Article URL: https://alexsci.com/blog/uuidv7-is-weird/ Comments URL: https://news.ycombinator.com/item?id=50211746 Points: 89 # Comments: 73"
+    "Article URL: https://alexsci.com/blog/uuidv7-is-weird/ Comments URL: https://news.ycombinator.com/item?id=50211746 Points: 104 # Comments: 91"
    ],
    "source": "Hacker News",
    "url": "https://alexsci.com/blog/uuidv7-is-weird/",
@@ -287,25 +367,12 @@
    "id": "84ddf7326c49773807e8d0c21037a91a2e31b91a",
    "title": "The Missed Opportunities of Sonic 06 (2025)",
    "summary": [
-    "Article URL: https://isaacmarovitz.com/posts/sonic-06/ Comments URL: https://news.ycombinator.com/item?id=50211729 Points: 52 # Comments: 13"
+    "Article URL: https://isaacmarovitz.com/posts/sonic-06/ Comments URL: https://news.ycombinator.com/item?id=50211729 Points: 57 # Comments: 17"
    ],
    "source": "Hacker News",
    "url": "https://isaacmarovitz.com/posts/sonic-06/",
    "image": null,
    "published_at": "2026-10-23T16:38:35Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "83676c2473c571c96ccefb156f9d96cf9f08c416",
-   "title": "How is music possible",
-   "summary": [
-    "Article URL: https://www.henrikkarlsson.xyz/p/music Comments URL: https://news.ycombinator.com/item?id=50211719 Points: 73 # Comments: 59"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.henrikkarlsson.xyz/p/music",
-   "image": null,
-   "published_at": "2026-10-23T16:38:17Z",
    "category": "tech",
    "related": []
   },
@@ -324,23 +391,10 @@
    "related": []
   },
   {
-   "id": "a07ed747f1950379d4ca4fcfbee6a3582cc5e4be",
-   "title": "Total Historian",
-   "summary": [
-    "Article URL: https://www.theideasletter.org/essay/total-historian/ Comments URL: https://news.ycombinator.com/item?id=50211504 Points: 18 # Comments: 4"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.theideasletter.org/essay/total-historian/",
-   "image": null,
-   "published_at": "2026-10-23T16:23:29Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "46834880ed25d1918810644c48a44d28f7c2bbfb",
    "title": "Today, we hacked what we'd set out to hack: the iPhone",
    "summary": [
-    "Article URL: https://blog.calif.io/p/iphone Comments URL: https://news.ycombinator.com/item?id=50211474 Points: 635 # Comments: 420"
+    "Article URL: https://blog.calif.io/p/iphone Comments URL: https://news.ycombinator.com/item?id=50211474 Points: 727 # Comments: 470"
    ],
    "source": "Hacker News",
    "url": "https://blog.calif.io/p/iphone",
@@ -364,7 +418,7 @@
   },
   {
    "id": "989bc7148e2596ccb1c071bfddf3545f5bab4916",
-   "title": "What some of Anthropic’s backers are reportedly worth before its IPO",
+   "title": "What some of Anthropic’s backers are worth before its IPO",
    "summary": [
     "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns."
    ],
@@ -372,6 +426,19 @@
    "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
    "image": null,
    "published_at": "2026-10-23T16:02:43Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ae2af94d08fb0d90aeea1b9adabfcda712300dc7",
+   "title": "Reforming English Spelling",
+   "summary": [
+    "Article URL: https://blog.oup.com/2026/10/reforming-english-spelling/ Comments URL: https://news.ycombinator.com/item?id=50211084 Points: 18 # Comments: 74"
+   ],
+   "source": "Hacker News",
+   "url": "https://blog.oup.com/2026/10/reforming-english-spelling/",
+   "image": null,
+   "published_at": "2026-10-23T15:56:06Z",
    "category": "tech",
    "related": []
   },
@@ -400,19 +467,6 @@
    "url": "https://www.theguardian.com/games/2026/oct/23/bioware-rpg-games-ea-closure-mass-effect",
    "image": "https://i.guim.co.uk/img/media/db0a48ae4a8bab736e867ed6a0033af706ae7f1e/831_0_1713_1372/master/1713.jpg?width=140&quality=85&auto=format&fit=max&s=c57969addcf44d18009e58141e3a5c8f",
    "published_at": "2026-10-23T14:44:48Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "3085ac1896556d68f51a1f768092f82a47052511",
-   "title": "Gemma-4-26B-A4B with 39-69% less thinking at same accuracy",
-   "summary": [
-    "Article URL: https://bottlecapai.com/post/thinkingcap-gemma-4-26b/ Comments URL: https://news.ycombinator.com/item?id=50209907 Points: 85 # Comments: 14"
-   ],
-   "source": "Hacker News",
-   "url": "https://bottlecapai.com/post/thinkingcap-gemma-4-26b/",
-   "image": null,
-   "published_at": "2026-10-23T14:43:02Z",
    "category": "tech",
    "related": []
   },
@@ -494,61 +548,6 @@
    "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-23T08:04:17Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "19bacac62733ddc71f86ba308324a54a2c50ebfd",
-   "title": "Apple Watch Ultra 4 review: longer battery life but still awaiting new features",
-   "summary": [
-    "Biggest Apple smartwatch gets better health tracking and new readiness tools with a battery and chip boost in preparation for controversial audio AIAs the Ultra enters its fourth year as Apple’s biggest and beefiest smartwatch it gets the best kind of spec upgrade – longer battery life – while waiting for something potentially more transformative.That’s because several of the key features announced as part of Apple’s new smartwatch lineup for 2026 have yet to be enabled, awaiting updates towards the end of this year.",
-    "That leaves the £749 (€899/$799/A$1,349) Apple Watch Ultra 4 the top dog, but basically the same as last year’s model.Case size: 49 x 44mmCase thickness: 12mmWeight: 63gProcessor: S11Storage: 64GBOperating system: watchOS 27Water resistance: 100 metres (10ATM)Connectivity: Bluetooth 5.3, wifi 4, 5G RedCap/4G, UWBSensors: HR, ECG, spO2, temp, depth, dual-band GPS, compass, altimeter Continue reading..."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/oct/23/apple-watch-ultra-4-review-longer-battery-life-health-tracking",
-   "image": "https://i.guim.co.uk/img/media/4f1356823052f403fc9b5a13c8f45e5e5aa596d6/1367_680_4321_3456/master/4321.jpg?width=140&quality=85&auto=format&fit=max&s=82909c070641247b4560f99a29553500",
-   "published_at": "2026-10-23T06:00:01Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "e3480502faea8ded24c6012a80d72e45f466082f",
-   "title": "Oura sues rival Ultrahuman again, threatening its US smart ring comeback",
-   "summary": [
-    "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
-   "image": null,
-   "published_at": "2026-10-23T04:22:57Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "87bcc5e5bd4629571b7b3f790e3de9a4e6742420",
-   "title": "Call of Duty: Modern Warfare 4 review – a thrilling airport novel of a game",
-   "summary": [
-    "Last year’s Black Ops 7 instalment was a sales disappointment for Activision, and that has no doubt put extra pressure on Infinity Ward, the studio leading Modern Warfare 4 development.",
-    "Fortunately, this developer – like series heroes Price, Gaz and Ghost – seems to thrive on pressure.As you may have read, this year’s campaign is based around a fictitious North Korean ruling family that has seized an opportunity to invade its southern neighbour.",
-    "Amid the chaos, a small group of Korean and American marines must help lead the fightback, while in the shadows, SAS hard man John Price makes an unlikely new comrade in his own morally ambiguous quest to put the world to rights."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/games/2026/oct/23/call-of-duty-modern-warfare-4-review-a-thrilling-airport-novel-of-a-game",
-   "image": "https://i.guim.co.uk/img/media/aadca8b8e8a16323ad37c7be1f9c2e7e409cc7c9/573_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=9749524800e553b864961ff04a994271",
-   "published_at": "2026-10-23T04:00:06Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "3602c8887bef48aefb767a97d4aec2c2c6697621",
-   "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
-   "summary": [
-    "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-   "image": null,
-   "published_at": "2026-10-23T04:00:00Z",
    "category": "tech",
    "related": []
   }
