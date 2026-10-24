@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-24T14:26:56.175139Z",
- "story_count": 30,
+ "generated_at": "2026-10-24T18:03:42.005855Z",
+ "story_count": 29,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -24,6 +24,32 @@
  },
  "stories": [
   {
+   "id": "6f664207216e74e8904efa1424a86b0e677418ba",
+   "title": "Trains cancelled and road warnings as Scotland prepares for Storm Boelo",
+   "summary": [
+    "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-24T17:14:39Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "bd54f664fa38c6fe2fe6589bb5c6830b90595108",
+   "title": "Amber weather warning as Storm Boelo hits Scotland",
+   "summary": [
+    "The Met Office has issued an amber warning for wind over Scotland from 21:00 until 21:00 on Sunday."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/cmqlnkq6p6y7o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-24T14:40:18Z",
+   "category": "science",
+   "related": []
+  },
+  {
    "id": "955bb774840e3d987c557e792a62389fcda157d6",
    "title": "Could lowering high blood pressure be as simple as stimulating your ear?",
    "summary": [
@@ -35,19 +61,6 @@
    "url": "https://www.sciencedaily.com/releases/2026/10/261023023732.htm",
    "image": null,
    "published_at": "2026-10-24T13:15:00Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "6f664207216e74e8904efa1424a86b0e677418ba",
-   "title": "Trains cancelled and road warnings as Scotland prepares for Storm Boelo",
-   "summary": [
-    "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-24T13:08:05Z",
    "category": "science",
    "related": []
   },
@@ -402,34 +415,6 @@
    "url": "https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-23T08:26:47Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "51fafb5713f546ddbe723784fcff72732f011854",
-   "title": "40 years later, Chernobyl's nuclear fallout is not what scientists expected",
-   "summary": [
-    "Forty years after the Chornobyl disaster, tiny radioactive particles still linger in the soil, carrying a dangerous legacy.",
-    "Using powerful X-rays, scientists discovered that some of these particles have remained surprisingly stable, trapping radioactive substances inside instead of releasing them into the environment."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261021231241.htm",
-   "image": null,
-   "published_at": "2026-10-23T03:35:13Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "732bcc8708cd5af8eeced6d17c137a9565b3945a",
-   "title": "Nearly 3,000 exploding stars challenge our understanding of the Universe",
-   "summary": [
-    "A massive analysis of 2,884 exploding stars has uncovered new evidence that dark energy, the mysterious force accelerating the universe’s expansion, may change over time.",
-    "The findings challenge a cornerstone of modern cosmology and could reshape our understanding of how the universe works."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261021231244.htm",
-   "image": null,
-   "published_at": "2026-10-23T02:54:41Z",
    "category": "science",
    "related": []
   }

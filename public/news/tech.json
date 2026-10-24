@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T14:26:56.174046Z",
+ "generated_at": "2026-10-24T18:03:42.005103Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -23,6 +23,123 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "f25e86d37a66923fed830b7efc13dcbb8798c931",
+   "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
+   "summary": [
+    "Article URL: https://de.numista.com/9866 Comments URL: https://news.ycombinator.com/item?id=50222927 Points: 36 # Comments: 2"
+   ],
+   "source": "Hacker News",
+   "url": "https://de.numista.com/9866",
+   "image": null,
+   "published_at": "2026-10-24T16:41:55Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "508ed5afff2009a0e8525dd65f97e7ddc9937663",
+   "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
+   "summary": [
+    "Instacart might sell itself to a larger competitor."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+   "image": null,
+   "published_at": "2026-10-24T16:30:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "f686687fa50fc36084bf85517da81b9325dd646a",
+   "title": "Roku developer repositories moved from GitHub to GitLab",
+   "summary": [
+    "Article URL: https://blog.roku.com/developer/gitlab-move Comments URL: https://news.ycombinator.com/item?id=50222622 Points: 108 # Comments: 59"
+   ],
+   "source": "Hacker News",
+   "url": "https://blog.roku.com/developer/gitlab-move",
+   "image": null,
+   "published_at": "2026-10-24T16:06:26Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "688136660c106304b5046a5ebd37c3f3c722af5b",
+   "title": "Block’s new voice model sounds eerily human",
+   "summary": [
+    "Block said that the voice model can run locally on a MacBook M4 Max"
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+   "image": null,
+   "published_at": "2026-10-24T16:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a2ab57efc2fc4ba7fb81e706a8f025a1348920a3",
+   "title": "Neural chip decodes interactions between brain regions",
+   "summary": [
+    "Article URL: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/ Comments URL: https://news.ycombinator.com/item?id=50222525 Points: 39 # Comments: 5"
+   ],
+   "source": "Hacker News",
+   "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+   "image": null,
+   "published_at": "2026-10-24T15:57:17Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "79c7fe33c787356f39d7fcfff9326e07b96f322c",
+   "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+   "summary": [
+    "Article URL: https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/ Comments URL: https://news.ycombinator.com/item?id=50222283 Points: 5 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
+   "image": null,
+   "published_at": "2026-10-24T15:35:17Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "7e6031d0571a852b2a72d77d6b5bd602535c5fca",
+   "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
+   "summary": [
+    "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
+   "image": null,
+   "published_at": "2026-10-24T15:30:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "1b69ea9ef4ce4fa9122bdaa1c857872e1d757639",
+   "title": "These clever apps show off the iPhone Duo’s potential",
+   "summary": [
+    "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
+   "image": null,
+   "published_at": "2026-10-24T15:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "e4ac1d3f295acd6002b61261949e9040b5dc3cd2",
+   "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+   "summary": [
+    "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+   "image": null,
+   "published_at": "2026-10-24T15:00:00Z",
+   "category": "tech",
+   "related": []
+  },
   {
    "id": "e0f9c91b3506e0a6fb3ee603a83d4143a8b161de",
    "title": "The Boox Palma 2 Pro finally got me to stop reading on my phone",
@@ -50,45 +167,6 @@
    "related": []
   },
   {
-   "id": "2a94c313476a20770ee483f53415113bb8aa3e47",
-   "title": "One Must Fall 2097 Remastered",
-   "summary": [
-    "Article URL: https://github.com/Jared-woodruff/OMF-2097-Remastered/ Comments URL: https://news.ycombinator.com/item?id=50221179 Points: 9 # Comments: 1"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/Jared-woodruff/OMF-2097-Remastered/",
-   "image": null,
-   "published_at": "2026-10-24T13:47:07Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "44115490bcb6b7ca6cffdd85c16bbfe5778444d0",
-   "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
-   "summary": [
-    "Article URL: https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/ Comments URL: https://news.ycombinator.com/item?id=50220913 Points: 188 # Comments: 164"
-   ],
-   "source": "Hacker News",
-   "url": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
-   "image": null,
-   "published_at": "2026-10-24T13:09:28Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "8ef9c99c3688bb7873abf15039f1fab2d62541a4",
-   "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-   "summary": [
-    "Article URL: https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=50220204 Points: 54 # Comments: 13"
-   ],
-   "source": "Hacker News",
-   "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
-   "image": null,
-   "published_at": "2026-10-24T11:18:54Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "6c7835bd7e9c0e09c8584580570a5bc159293328",
    "title": "The datacentre next door: on the frontline of tech’s latest David v Goliath battle",
    "summary": [
@@ -107,7 +185,7 @@
    "id": "000984af5b78ce9ec2074cad1367ed2e267b37e0",
    "title": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
    "summary": [
-    "Article URL: https://gitlab.com/c4psu13/mali-pagecache-root Comments URL: https://news.ycombinator.com/item?id=50220042 Points: 13 # Comments: 1"
+    "Article URL: https://gitlab.com/c4psu13/mali-pagecache-root Comments URL: https://news.ycombinator.com/item?id=50220042 Points: 34 # Comments: 7"
    ],
    "source": "Hacker News",
    "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
@@ -117,10 +195,23 @@
    "related": []
   },
   {
+   "id": "8acda1e9f09f44481907bcbab7330308abce9b0b",
+   "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+   "summary": [
+    "Article URL: https://github.com/Zagitta/gpu-unlock Comments URL: https://news.ycombinator.com/item?id=50219700 Points: 84 # Comments: 40"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/Zagitta/gpu-unlock",
+   "image": null,
+   "published_at": "2026-10-24T09:58:27Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "6252a2c19dbe293cadc9aaca05e02bf2d3fe129a",
    "title": "I Don't Understand Quantum Physics (2018)",
    "summary": [
-    "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 153 # Comments: 99"
+    "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 211 # Comments: 150"
    ],
    "source": "Hacker News",
    "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
@@ -130,10 +221,23 @@
    "related": []
   },
   {
+   "id": "cafbc3aa04ad28b90cd1b9ec63db532791eb9013",
+   "title": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
+   "summary": [
+    "BBC series deliberately uses ‘more organic’ shots to assure viewers animals are not AI-generated, producers sayThe David Attenborough-narrated series Blue Planet III deliberately includes cloudier, less polished footage to counter AI fakery and assure viewers it is “authentic”, its producers have said.Nearly a decade after Blue Planet II shone a light on plastic pollution, and 25 years since the first Blue Planet aired, the hit BBC series is returning with more animal behaviour and cutting-edge technology, including the world’s first underwater CCTV camera – dubbed “stonefish” cam."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom",
+   "image": "https://i.guim.co.uk/img/media/ceaba2d2e573fa4bc480fbaee7cee88e2ce7c97b/620_0_4500_3600/master/4500.jpg?width=140&quality=85&auto=format&fit=max&s=f0d25aae5ae109f551faef3ce97d9432",
+   "published_at": "2026-10-24T08:32:56Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "69696c78864a6bdc51e36a5fa86c5c93e4287f5d",
    "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
    "summary": [
-    "Article URL: https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497 Comments URL: https://news.ycombinator.com/item?id=50219177 Points: 92 # Comments: 40"
+    "Article URL: https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497 Comments URL: https://news.ycombinator.com/item?id=50219177 Points: 188 # Comments: 88"
    ],
    "source": "Hacker News",
    "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
@@ -143,13 +247,26 @@
    "related": []
   },
   {
-   "id": "00783114a44a02c4e41c7eeae29d9b44050001cd",
-   "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+   "id": "810c1d05b83802931ef359a7f4651549406c626a",
+   "title": "Opposition deepfake video of Spanish PM’s wife sparks outrage before election",
    "summary": [
-    "Article URL: https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/ Comments URL: https://news.ycombinator.com/item?id=50218633 Points: 323 # Comments: 96"
+    "Video shows AI likenesses of people linked to Pedro Sánchez’s Socialist party appearing to admit to wrongdoingA political ad from Spain’s main opposition party that used a deepfake video of the prime minister’s wife has sparked outrage and set off a wider debate on AI, as the deeply polarised country gears up for general elections next month.Launched this week across the social media channels of the conservative People’s party (PP), the video used artificial intelligence to manipulate the likenesses of various people linked to Pedro Sánchez’s Socialist party and appeared to show them admitting to acts such as soliciting prostitutes and taking kickbacks."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election",
+   "image": "https://i.guim.co.uk/img/media/b2d99fbc0419494ad01c1db56e1c3987fef305dd/799_96_2908_2326/master/2908.jpg?width=140&quality=85&auto=format&fit=max&s=26b2782eab34845759c7884cee206583",
+   "published_at": "2026-10-24T06:51:53Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "c1471e2057d8de68117cc825d70f3336ec3b1a9a",
+   "title": "Root shell on Samsung TV",
+   "summary": [
+    "Article URL: https://twitter.com/log4j/status/2113014142600953868?s=46 Comments URL: https://news.ycombinator.com/item?id=50218633 Points: 436 # Comments: 171"
    ],
    "source": "Hacker News",
-   "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+   "url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
    "image": null,
    "published_at": "2026-10-24T05:49:57Z",
    "category": "tech",
@@ -172,7 +289,7 @@
    "id": "f244da1f1890907b17db562c9eadf83a5817e531",
    "title": "OBS Studio 33",
    "summary": [
-    "Article URL: https://github.com/obsproject/obs-studio/releases/tag/33.0.0 Comments URL: https://news.ycombinator.com/item?id=50218430 Points: 278 # Comments: 79"
+    "Article URL: https://github.com/obsproject/obs-studio/releases/tag/33.0.0 Comments URL: https://news.ycombinator.com/item?id=50218430 Points: 371 # Comments: 129"
    ],
    "source": "Hacker News",
    "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
@@ -185,7 +302,7 @@
    "id": "937563ab7080fc1a107feb80bd41ab0306f14e42",
    "title": "How close can pure functional programming get to C?",
    "summary": [
-    "Article URL: https://rtfeldman.com/fp-vs-c Comments URL: https://news.ycombinator.com/item?id=50218195 Points: 168 # Comments: 34"
+    "Article URL: https://rtfeldman.com/fp-vs-c Comments URL: https://news.ycombinator.com/item?id=50218195 Points: 214 # Comments: 60"
    ],
    "source": "Hacker News",
    "url": "https://rtfeldman.com/fp-vs-c",
@@ -195,23 +312,10 @@
    "related": []
   },
   {
-   "id": "2689b14cb18e3af4078ca2a1debf0052bac34c0e",
-   "title": "How Block Blast harvests its players for ad money",
-   "summary": [
-    "Article URL: https://ayoships.com/breakdowns/block-blast Comments URL: https://news.ycombinator.com/item?id=50217946 Points: 80 # Comments: 32"
-   ],
-   "source": "Hacker News",
-   "url": "https://ayoships.com/breakdowns/block-blast",
-   "image": null,
-   "published_at": "2026-10-24T02:43:43Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "a113505a95399695da3ed05105f764f087d3b324",
    "title": "Apple Security Research Device",
    "summary": [
-    "Article URL: https://security.apple.com/research-device/ Comments URL: https://news.ycombinator.com/item?id=50217903 Points: 103 # Comments: 44"
+    "Article URL: https://security.apple.com/research-device/ Comments URL: https://news.ycombinator.com/item?id=50217903 Points: 135 # Comments: 76"
    ],
    "source": "Hacker News",
    "url": "https://security.apple.com/research-device/",
@@ -221,7 +325,7 @@
    "related": [
     {
      "source": "Hacker News",
-     "url": "https://cve.0xosprey.com/"
+     "url": "https://freedns.afraid.org/"
     }
    ]
   },
@@ -229,7 +333,7 @@
    "id": "f80c4bbdb8d6f14796b2ac73993c90b835082432",
    "title": "Twelve years of distributed SQLite",
    "summary": [
-    "Article URL: https://philipotoole.com/twelve-years-of-distributed-sqlite/ Comments URL: https://news.ycombinator.com/item?id=50217500 Points: 271 # Comments: 42"
+    "Article URL: https://philipotoole.com/twelve-years-of-distributed-sqlite/ Comments URL: https://news.ycombinator.com/item?id=50217500 Points: 326 # Comments: 47"
    ],
    "source": "Hacker News",
    "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
@@ -242,7 +346,7 @@
    "id": "68b2e868f8ae751f7028c94d3ea0973f38ceb923",
    "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
    "summary": [
-    "Article URL: https://grapheneos.social/@GrapheneOS/117492375462459244 Comments URL: https://news.ycombinator.com/item?id=50217495 Points: 318 # Comments: 80"
+    "Article URL: https://grapheneos.social/@GrapheneOS/117492375462459244 Comments URL: https://news.ycombinator.com/item?id=50217495 Points: 529 # Comments: 189"
    ],
    "source": "Hacker News",
    "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
@@ -346,7 +450,7 @@
    "id": "2ca67924f9fca88f90b4b29f6c6565e8ee2418b1",
    "title": "Dessa: Conversation Model trained only on speech",
    "summary": [
-    "Article URL: https://block.xyz/dessa Comments URL: https://news.ycombinator.com/item?id=50213925 Points: 423 # Comments: 160"
+    "Article URL: https://block.xyz/dessa Comments URL: https://news.ycombinator.com/item?id=50213925 Points: 456 # Comments: 180"
    ],
    "source": "Hacker News",
    "url": "https://block.xyz/dessa",
@@ -385,7 +489,7 @@
    "id": "1fd8476b4493a52be8d2b181f06e7c6ec459ff85",
    "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
    "summary": [
-    "https://www.kimi.com/code/docs/en/kimi-code/models.htmlhttps://artificialanalysis.ai/models/kimi-k3-1-prohttps://www.modelcompare.ai/blog/china-open-source-ai Comments URL: https://news.ycombinator.com/item?id=50212065 Points: 980 # Comments: 585"
+    "https://www.kimi.com/code/docs/en/kimi-code/models.htmlhttps://artificialanalysis.ai/models/kimi-k3-1-prohttps://www.modelcompare.ai/blog/china-open-source-ai Comments URL: https://news.ycombinator.com/item?id=50212065 Points: 1031 # Comments: 628"
    ],
    "source": "Hacker News",
    "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
@@ -412,7 +516,7 @@
    "id": "46834880ed25d1918810644c48a44d28f7c2bbfb",
    "title": "Today, we hacked what we'd set out to hack: the iPhone",
    "summary": [
-    "Article URL: https://blog.calif.io/p/iphone Comments URL: https://news.ycombinator.com/item?id=50211474 Points: 967 # Comments: 621"
+    "Article URL: https://blog.calif.io/p/iphone Comments URL: https://news.ycombinator.com/item?id=50211474 Points: 1036 # Comments: 645"
    ],
    "source": "Hacker News",
    "url": "https://blog.calif.io/p/iphone",
@@ -444,116 +548,6 @@
    "url": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
    "image": null,
    "published_at": "2026-10-23T16:02:43Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "6e395679877eace4ab86746570993029cbb161b9",
-   "title": "Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach",
-   "summary": [
-    "Quest is the latest in a series of healthcare technology companies that have been hacked in recent months."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
-   "image": null,
-   "published_at": "2026-10-23T15:00:09Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "52e0f1d40c8a66b92e2779c078629092a2d48f1e",
-   "title": "A farewell to BioWare, maker of some of the best games of the 21st century | Lucy James",
-   "summary": [
-    "Its forthcoming game in the Mass Effect sci-fi series has been cancelled, and more than 400 people are losing their jobs.",
-    "EA was looking for weight to cut loose, and despite its hardcore fanbase and reputation for genre-defining RPGs such as Star Wars: Knights of the Old Republic and Dragon Age, BioWare hadn’t put out a critical or commercial hit in over 10 years.",
-    "Its forthcoming game, titled Mass Effect: Universe according to a leaked trailer, was announced back in 2020."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/games/2026/oct/23/bioware-rpg-games-ea-closure-mass-effect",
-   "image": "https://i.guim.co.uk/img/media/db0a48ae4a8bab736e867ed6a0033af706ae7f1e/831_0_1713_1372/master/1713.jpg?width=140&quality=85&auto=format&fit=max&s=c57969addcf44d18009e58141e3a5c8f",
-   "published_at": "2026-10-23T14:44:48Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "320353a94d7a0ffb1930333263832cf63142def3",
-   "title": "Experts cast doubt on Anthropic report detailing how AI has altered work at the company",
-   "summary": [
-    "Neither of those predictions came to pass.Now, in a report Anthropic published on Thursday, the company said it was hiring fewer junior technical workers and that human attention has become the new “bottleneck” as it increasingly relies on its Claude AI agents."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/oct/23/anthropic-report-ai-workplace-shifts",
-   "image": "https://i.guim.co.uk/img/media/7f1d891b55886b1bfb45b0cdd3e7df3e842cbdce/0_31_3364_2691/master/3364.jpg?width=140&quality=85&auto=format&fit=max&s=52de23b160d36f35c5482fa021f2448e",
-   "published_at": "2026-10-23T14:00:28Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "adb9608fdcbc8ab0f1b99d66df25263b4b87e355",
-   "title": "Apple Music 404 Not Found",
-   "summary": [
-    "https://www.macrumors.com/2026/10/23/apple-music-has-a-hidde...",
-    "Comments URL: https://news.ycombinator.com/item?id=50207910 Points: 824 # Comments: 246"
-   ],
-   "source": "Hacker News",
-   "url": "https://music.apple.com/this-url-doesnt-exist",
-   "image": null,
-   "published_at": "2026-10-23T12:28:47Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "b2917dd007e79a8ee3ce730443318c7d15a04690",
-   "title": "What is PHP and why did it spark a global cyber-security scramble?",
-   "summary": [
-    "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-23T12:24:17Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "a16499f23ad16d293aa4a8576feb330cefbf05ec",
-   "title": "'It's been relentless' say IT workers on frontline of PHP cyber-security scramble",
-   "summary": [
-    "IT and cyber experts have told the BBC about their struggles in the last 48 hours to update their systems."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cxnv025d8qpmo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-23T12:00:25Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "fcbd1f2bfc0dccf52851687c6c94083558bc8223",
-   "title": "The young Americans choosing Y2K cars over shiny new SUVs: ‘I get so much crap from people’",
-   "summary": [
-    "People under 35 are hunting for no-frills rides they can pay for in cash and fix themselves – defying expectations to take on steep loansJack Price joined the marines in fall 2021 knowing he would need a car to get around base and that he couldn’t afford a new one.",
-    "With just 60,000 miles (96,560km) on the meter, the car (a manual!) was mechanically sound, and the air conditioning, sunroof and Bluetooth radio worked too.",
-    "I get so much crap from people, but not people my age.” Continue reading..."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/oct/23/y2k-used-cars-gen-z",
-   "image": "https://i.guim.co.uk/img/media/8e4516adf299dc7cff29a4bd96731525cf367f24/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=705dc6814bb6843377ecd2dc3f8e73a4",
-   "published_at": "2026-10-23T11:30:24Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "eee3d0d409c3b67d3a9b64fbc0a6b35e453353c8",
-   "title": "Is a job guarantee the solution to mass AI unemployment?",
-   "summary": [
-    "When that crisis occurs, the actions that are taken depend on the ideas that are lying around,” he wrote.",
-    "The job of intellectuals, thinktanks and economists, he argued, is to refine the quality of these ambient ideas, so that good ones are ready when disaster strikes."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/oct/23/job-guarantee-ai-mass-unemployment",
-   "image": "https://i.guim.co.uk/img/media/5d838343b80e3163461a99b84753451e52e54078/724_0_7211_5773/master/7211.jpg?width=140&quality=85&auto=format&fit=max&s=5f0a1886ce0a420f06860d5211a18c3e",
-   "published_at": "2026-10-23T10:00:30Z",
    "category": "tech",
    "related": []
   }
