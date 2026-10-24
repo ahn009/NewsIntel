@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T20:41:31.719257Z",
+ "generated_at": "2026-10-24T23:06:32.270331Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -24,6 +24,64 @@
  },
  "stories": [
   {
+   "id": "d11d7fb22ad2616e85698a81019adbd93b3d5bbd",
+   "title": "Argus – a free, open-source agentic security operations platform – MIT",
+   "summary": [
+    "Article URL: https://thomasunise.com/argus Comments URL: https://news.ycombinator.com/item?id=50225748 Points: 13 # Comments: 3"
+   ],
+   "source": "Hacker News",
+   "url": "https://thomasunise.com/argus",
+   "image": null,
+   "published_at": "2026-10-24T21:54:16Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "e04ac878b49d46d8f94de9fd48ebff4896be50d3",
+   "title": "The Importance of Limitations for Creativity and Learning",
+   "summary": [
+    "Article URL: https://ratfactor.com/cards/limitations Comments URL: https://news.ycombinator.com/item?id=50225663 Points: 5 # Comments: 1"
+   ],
+   "source": "Hacker News",
+   "url": "https://ratfactor.com/cards/limitations",
+   "image": null,
+   "published_at": "2026-10-24T21:42:47Z",
+   "category": "tech",
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://ratfactor.com/cards/pl-small"
+    }
+   ]
+  },
+  {
+   "id": "9de87f6482a19532d061550297fdb3db821a0283",
+   "title": "Starlink seems to be working normally again in Ukraine",
+   "summary": [
+    "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+   "image": null,
+   "published_at": "2026-10-24T20:46:34Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "031828a0b81e748ecd7fd7f3e6101d51b283b66f",
+   "title": "Show HN: Steal My Bitcoin",
+   "summary": [
+    "Made this because I'm curious if anyone out there has figured out how to actually use this PHP RCE we spent the last few days panicking over.",
+    "Comments URL: https://news.ycombinator.com/item?id=50224916 Points: 289 # Comments: 141"
+   ],
+   "source": "Hacker News",
+   "url": "https://stealmybitcoin.com/",
+   "image": null,
+   "published_at": "2026-10-24T20:30:31Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "c95cc9144761b871191ae7d5dabc5a794fdff56b",
    "title": "Will AI expose the rickety infrastructure of the internet?",
    "summary": [
@@ -38,9 +96,9 @@
   },
   {
    "id": "074b7d5e1602db74c1fe6fb1c2ecbd9316e0e876",
-   "title": "No Signs of AI Payoff Outside the Tech Sector",
+   "title": "No signs of AI payoff outside the tech sector",
    "summary": [
-    "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 101 # Comments: 66"
+    "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 404 # Comments: 374"
    ],
    "source": "Hacker News",
    "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
@@ -53,7 +111,7 @@
    "id": "f8a41fa202c688c3a30279d8986fd5dca2b6c66d",
    "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
    "summary": [
-    "Article URL: https://missileer.watch Comments URL: https://news.ycombinator.com/item?id=50224422 Points: 18 # Comments: 7"
+    "Article URL: https://missileer.watch Comments URL: https://news.ycombinator.com/item?id=50224422 Points: 83 # Comments: 44"
    ],
    "source": "Hacker News",
    "url": "https://missileer.watch",
@@ -66,43 +124,12 @@
    "id": "84c9b463e77e350073151a77b3e64b6ccdd6507c",
    "title": "The Goose Programming Language",
    "summary": [
-    "Article URL: https://aardappel.github.io/goose/ Comments URL: https://news.ycombinator.com/item?id=50224300 Points: 52 # Comments: 14"
+    "https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 153 # Comments: 123"
    ],
    "source": "Hacker News",
    "url": "https://aardappel.github.io/goose/",
    "image": null,
-   "published_at": "2026-10-24T19:27:41Z",
-   "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "https://rtfeldman.com/fp-vs-c"
-    }
-   ]
-  },
-  {
-   "id": "d2c216e75b73ba714b36dcb4583580f5a43f8f18",
-   "title": "John Carmack on the Goose Language: multiple data stacks and relative references",
-   "summary": [
-    "Article URL: https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 62 # Comments: 21"
-   ],
-   "source": "Hacker News",
-   "url": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568",
-   "image": null,
    "published_at": "2026-10-24T19:06:55Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "ccfa6d0528669063f34d0638382f53b8ec998c32",
-   "title": "PHP Foundation 'under-funded' with one full-time staff member, director says",
-   "summary": [
-    "Article URL: https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/ Comments URL: https://news.ycombinator.com/item?id=50224074 Points: 68 # Comments: 18"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/",
-   "image": null,
-   "published_at": "2026-10-24T19:03:59Z",
    "category": "tech",
    "related": []
   },
@@ -134,23 +161,10 @@
    "related": []
   },
   {
-   "id": "64a1139d1cd1e49e967ea4218bf95f805e485a73",
-   "title": "Danish Government silently drops plan to dump MS Office",
-   "summary": [
-    "Article URL: https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft Comments URL: https://news.ycombinator.com/item?id=50223844 Points: 98 # Comments: 40"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft",
-   "image": null,
-   "published_at": "2026-10-24T18:31:48Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "0a5972b709e4b83fd2d2e1a503d61d80c0b639ea",
    "title": "Dream-1",
    "summary": [
-    "Article URL: https://dreamlabs.ai/research/dream-1/ Comments URL: https://news.ycombinator.com/item?id=50223785 Points: 90 # Comments: 50"
+    "Article URL: https://dreamlabs.ai/research/dream-1/ Comments URL: https://news.ycombinator.com/item?id=50223785 Points: 143 # Comments: 68"
    ],
    "source": "Hacker News",
    "url": "https://dreamlabs.ai/research/dream-1/",
@@ -160,20 +174,20 @@
    "related": [
     {
      "source": "Hacker News",
-     "url": "https://freedns.afraid.org/"
+     "url": "https://danluu.com/ambitious/"
     }
    ]
   },
   {
-   "id": "46dad15a371d099294d3de5c57dad5f543b3c985",
-   "title": "Glymphatic clearance to alleviate brain edema and Alzheimer's pathology in mice",
+   "id": "f6800b4d1216e0794270dc7c212444c9b802e239",
+   "title": "Bbtree: Fastest Ordered Map",
    "summary": [
-    "Article URL: https://www.science.org/doi/10.1126/sciadv.aeh8870 Comments URL: https://news.ycombinator.com/item?id=50223752 Points: 30 # Comments: 7"
+    "Article URL: https://bbtree.xiangpeng.systems/post/ Comments URL: https://news.ycombinator.com/item?id=50223777 Points: 15 # Comments: 2"
    ],
    "source": "Hacker News",
-   "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
+   "url": "https://bbtree.xiangpeng.systems/post/",
    "image": null,
-   "published_at": "2026-10-24T18:19:05Z",
+   "published_at": "2026-10-24T18:22:14Z",
    "category": "tech",
    "related": []
   },
@@ -181,7 +195,7 @@
    "id": "81c8fd74d5e2c7e186c0530b7d12352d60153b6a",
    "title": "Why is AI generated language so hard to understand?",
    "summary": [
-    "Article URL: https://arxiv.org/abs/2610.29162 Comments URL: https://news.ycombinator.com/item?id=50223647 Points: 80 # Comments: 67"
+    "Article URL: https://arxiv.org/abs/2610.29162 Comments URL: https://news.ycombinator.com/item?id=50223647 Points: 135 # Comments: 133"
    ],
    "source": "Hacker News",
    "url": "https://arxiv.org/abs/2610.29162",
@@ -194,7 +208,7 @@
    "id": "f25e86d37a66923fed830b7efc13dcbb8798c931",
    "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
    "summary": [
-    "Article URL: https://de.numista.com/9866 Comments URL: https://news.ycombinator.com/item?id=50222927 Points: 65 # Comments: 14"
+    "Article URL: https://de.numista.com/9866 Comments URL: https://news.ycombinator.com/item?id=50222927 Points: 80 # Comments: 20"
    ],
    "source": "Hacker News",
    "url": "https://de.numista.com/9866",
@@ -220,7 +234,7 @@
    "id": "f686687fa50fc36084bf85517da81b9325dd646a",
    "title": "Roku developer repositories moved from GitHub to GitLab",
    "summary": [
-    "Article URL: https://blog.roku.com/developer/gitlab-move Comments URL: https://news.ycombinator.com/item?id=50222622 Points: 195 # Comments: 132"
+    "Article URL: https://blog.roku.com/developer/gitlab-move Comments URL: https://news.ycombinator.com/item?id=50222622 Points: 227 # Comments: 154"
    ],
    "source": "Hacker News",
    "url": "https://blog.roku.com/developer/gitlab-move",
@@ -246,7 +260,7 @@
    "id": "a2ab57efc2fc4ba7fb81e706a8f025a1348920a3",
    "title": "Neural chip decodes interactions between brain regions",
    "summary": [
-    "Article URL: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/ Comments URL: https://news.ycombinator.com/item?id=50222525 Points: 64 # Comments: 18"
+    "Article URL: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/ Comments URL: https://news.ycombinator.com/item?id=50222525 Points: 77 # Comments: 26"
    ],
    "source": "Hacker News",
    "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
@@ -259,7 +273,7 @@
    "id": "79c7fe33c787356f39d7fcfff9326e07b96f322c",
    "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
    "summary": [
-    "Article URL: https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/ Comments URL: https://news.ycombinator.com/item?id=50222283 Points: 19 # Comments: 15"
+    "Article URL: https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/ Comments URL: https://news.ycombinator.com/item?id=50222283 Points: 27 # Comments: 19"
    ],
    "source": "Hacker News",
    "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
@@ -352,7 +366,7 @@
    "id": "8acda1e9f09f44481907bcbab7330308abce9b0b",
    "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
    "summary": [
-    "Article URL: https://github.com/Zagitta/gpu-unlock Comments URL: https://news.ycombinator.com/item?id=50219700 Points: 132 # Comments: 50"
+    "Article URL: https://github.com/Zagitta/gpu-unlock Comments URL: https://news.ycombinator.com/item?id=50219700 Points: 158 # Comments: 59"
    ],
    "source": "Hacker News",
    "url": "https://github.com/Zagitta/gpu-unlock",
@@ -365,7 +379,7 @@
    "id": "6252a2c19dbe293cadc9aaca05e02bf2d3fe129a",
    "title": "I don't understand quantum physics (2018)",
    "summary": [
-    "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 238 # Comments: 171"
+    "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 263 # Comments: 191"
    ],
    "source": "Hacker News",
    "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
@@ -391,7 +405,7 @@
    "id": "69696c78864a6bdc51e36a5fa86c5c93e4287f5d",
    "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
    "summary": [
-    "Article URL: https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497 Comments URL: https://news.ycombinator.com/item?id=50219177 Points: 238 # Comments: 119"
+    "Article URL: https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497 Comments URL: https://news.ycombinator.com/item?id=50219177 Points: 262 # Comments: 129"
    ],
    "source": "Hacker News",
    "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
@@ -423,32 +437,6 @@
    "url": "https://www.theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security",
    "image": "https://i.guim.co.uk/img/media/13ceb52a43f1b6771519d70b1eb33680ffbec0ca/0_0_2750_2200/master/2750.jpg?width=140&quality=85&auto=format&fit=max&s=7c0a9667489edbac502049a00339a656",
    "published_at": "2026-10-24T05:00:24Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "f244da1f1890907b17db562c9eadf83a5817e531",
-   "title": "OBS Studio 33",
-   "summary": [
-    "Article URL: https://github.com/obsproject/obs-studio/releases/tag/33.0.0 Comments URL: https://news.ycombinator.com/item?id=50218430 Points: 412 # Comments: 146"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
-   "image": null,
-   "published_at": "2026-10-24T04:49:58Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "f80c4bbdb8d6f14796b2ac73993c90b835082432",
-   "title": "Twelve years of distributed SQLite",
-   "summary": [
-    "Article URL: https://philipotoole.com/twelve-years-of-distributed-sqlite/ Comments URL: https://news.ycombinator.com/item?id=50217500 Points: 346 # Comments: 52"
-   ],
-   "source": "Hacker News",
-   "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
-   "image": null,
-   "published_at": "2026-10-24T01:16:58Z",
    "category": "tech",
    "related": []
   },
@@ -553,6 +541,19 @@
    "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
    "image": null,
    "published_at": "2026-10-23T19:06:23Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "e6978f097eea8f5bfbf4196e533ae3fe85bab27b",
+   "title": "‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking",
+   "summary": [
+    "After discovery of severe bug in the PHP programming language, executives warn of ‘vulnerability tsunami’Leaders in cybersecurity are sounding the alarm after the discovery of a major vulnerability this week."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability",
+   "image": "https://i.guim.co.uk/img/media/cb4c18c4ae3df1d687b8488dfb57058ade00d1a7/731_0_3659_2927/master/3659.jpg?width=140&quality=85&auto=format&fit=max&s=22240fd63146e88296ce67fe0124324c",
+   "published_at": "2026-10-23T18:48:48Z",
    "category": "tech",
    "related": []
   }
