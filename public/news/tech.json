@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-25T16:02:41.112400Z",
- "story_count": 35,
+ "generated_at": "2026-10-25T18:56:26.944598Z",
+ "story_count": 39,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -24,28 +24,95 @@
  },
  "stories": [
   {
-   "id": "fbc3f8d5d89ff3e947e821331a6dada74851c0cb",
-   "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
+   "id": "d3990852490cd50b88c4aafc54f7fe834c253409",
+   "title": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
    "summary": [
-    "Article URL: https://bigwhalehunting.com/workforce/ Comments URL: https://news.ycombinator.com/item?id=50232312 Points: 40 # Comments: 12"
+    "The lawsuit, first reported by Billboard, was filed on Friday."
    ],
-   "source": "Hacker News",
-   "url": "https://bigwhalehunting.com/workforce/",
-   "image": null,
-   "published_at": "2026-10-25T15:05:39Z",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music",
+   "image": "https://i.guim.co.uk/img/media/84aa6ec87e3e6db19123ab53bff1786594581607/0_358_2832_2265/master/2832.jpg?width=140&quality=85&auto=format&fit=max&s=b314d5ff58cb339d8ba3616e98aa3000",
+   "published_at": "2026-10-25T18:25:59Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "00ec2b8b9999088184477994b9068007b5a457ce",
-   "title": "A Few Thoughts on Intensity",
+   "id": "160285e908d8a85c7f50ff324c22970fbfd1273e",
+   "title": "I made a virtual pet fruit fly that Twitch chat can interact with",
    "summary": [
-    "Article URL: https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/ Comments URL: https://news.ycombinator.com/item?id=50232035 Points: 15 # Comments: 1"
+    "Article URL: https://www.twitch.tv/flytwitcher Comments URL: https://news.ycombinator.com/item?id=50234480 Points: 4 # Comments: 1"
    ],
    "source": "Hacker News",
-   "url": "https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/",
+   "url": "https://www.twitch.tv/flytwitcher",
    "image": null,
-   "published_at": "2026-10-25T14:37:49Z",
+   "published_at": "2026-10-25T18:24:20Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "89e06d81e035773e874b16087863c67464a33c9c",
+   "title": "Dolly Parton's Imagination Library",
+   "summary": [
+    "With today's news, I thought I'd share this great program:“When I was growing up in the hills of East Tennessee, I knew my dreams would come true.",
+    "I know there are children in your community with their own dreams.",
+    "They dream of becoming a doctor or an inventor or a minister."
+   ],
+   "source": "Hacker News",
+   "url": "https://imaginationlibrary.com/",
+   "image": null,
+   "published_at": "2026-10-25T18:23:54Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "d7598384e630ba6fbee456c25bc641b19bddfd33",
+   "title": "All you need is Wide Events, not \"Metrics, Logs and Traces\"",
+   "summary": [
+    "Article URL: https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics Comments URL: https://news.ycombinator.com/item?id=50234329 Points: 7 # Comments: 2"
+   ],
+   "source": "Hacker News",
+   "url": "https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics",
+   "image": null,
+   "published_at": "2026-10-25T18:11:38Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ba8662066c8993297ab0baad0ed1f2459472f1fa",
+   "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+   "summary": [
+    "Article URL: https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/ Comments URL: https://news.ycombinator.com/item?id=50234232 Points: 82 # Comments: 12"
+   ],
+   "source": "Hacker News",
+   "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+   "image": null,
+   "published_at": "2026-10-25T18:04:11Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a800da3117590f034eef263aff0d091e472b4969",
+   "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+   "summary": [
+    "Article URL: https://talkweb.eu/openweb/4558/ Comments URL: https://news.ycombinator.com/item?id=50233929 Points: 146 # Comments: 53"
+   ],
+   "source": "Hacker News",
+   "url": "https://talkweb.eu/openweb/4558/",
+   "image": null,
+   "published_at": "2026-10-25T17:30:55Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "659f1ddf349bd7ef3c6a7023a08b320f5f5e8f9f",
+   "title": "Fuck Nuance (2015)",
+   "summary": [
+    "Article URL: https://crookedtimber.org/2015/08/31/fuck-nuance/ Comments URL: https://news.ycombinator.com/item?id=50233883 Points: 16 # Comments: 2"
+   ],
+   "source": "Hacker News",
+   "url": "https://crookedtimber.org/2015/08/31/fuck-nuance/",
+   "image": null,
+   "published_at": "2026-10-25T17:26:08Z",
    "category": "tech",
    "related": [
     {
@@ -53,6 +120,112 @@
      "url": "https://www.speedcrunch.org/"
     }
    ]
+  },
+  {
+   "id": "7a0c3072d4bd4419b5e1a2839b217bb5fd1cba91",
+   "title": "Scientists rediscover how to make ancient Roman colour-changing glass",
+   "summary": [
+    "Article URL: https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass Comments URL: https://news.ycombinator.com/item?id=50233828 Points: 12 # Comments: 1"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass",
+   "image": null,
+   "published_at": "2026-10-25T17:20:22Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "1dc75a32fc6a65d3604d6f07708a6a4cf8951ef5",
+   "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+   "summary": [
+    "Article URL: https://lynchlab.net/llm-skin-cancer Comments URL: https://news.ycombinator.com/item?id=50233779 Points: 136 # Comments: 74"
+   ],
+   "source": "Hacker News",
+   "url": "https://lynchlab.net/llm-skin-cancer",
+   "image": null,
+   "published_at": "2026-10-25T17:15:38Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a24706b0eebc7f4b25472ece544e1f839c879446",
+   "title": "Sabre Wulf Remastered",
+   "summary": [
+    "Article URL: https://gp-64.com/swr/ Comments URL: https://news.ycombinator.com/item?id=50233775 Points: 39 # Comments: 5"
+   ],
+   "source": "Hacker News",
+   "url": "https://gp-64.com/swr/",
+   "image": null,
+   "published_at": "2026-10-25T17:15:16Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "b23877b88e691b4d2863ccf743aa1c192e2503c7",
+   "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+   "summary": [
+    "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\""
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+   "image": null,
+   "published_at": "2026-10-25T16:57:32Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "59ddf06fb26de586165a8e00064c33c6de4f6e02",
+   "title": "A Mathematician Reads the AI Future",
+   "summary": [
+    "Article URL: https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/ Comments URL: https://news.ycombinator.com/item?id=50233347 Points: 34 # Comments: 37"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
+   "image": null,
+   "published_at": "2026-10-25T16:31:21Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "2af7003f0e2faf2b901d2c003c5eb5aa18787f7e",
+   "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+   "summary": [
+    "Article URL: https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html Comments URL: https://news.ycombinator.com/item?id=50233304 Points: 70 # Comments: 102"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+   "image": null,
+   "published_at": "2026-10-25T16:28:26Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "7f3afb38eae3b354a8d691041b881d858c925018",
+   "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
+   "summary": [
+    "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
+   "image": null,
+   "published_at": "2026-10-25T16:05:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "fbc3f8d5d89ff3e947e821331a6dada74851c0cb",
+   "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
+   "summary": [
+    "I was playing around with visualising the S&P 500 by market cap and decided to add employees to each company's bubble.What surprised me was how empty some of the biggest companies looked.Nvidia is worth $5.2 trillion but employs only 42,000 people.",
+    "Meanwhile, Accenture employs 814,000 people and is worth $146 billion.Each stick figure represents 10,000 employees.",
+    "You can zoom in and explore individual companies.I wrote a bit more about what I found here: https://bigwhalehunting.com/blog/workforce/Would be interested to hear what you think."
+   ],
+   "source": "Hacker News",
+   "url": "https://bigwhalehunting.com/workforce/",
+   "image": null,
+   "published_at": "2026-10-25T15:05:39Z",
+   "category": "tech",
+   "related": []
   },
   {
    "id": "611184d5aa6fabe3d7214e2b387434ac811f0cb6",
@@ -81,85 +254,28 @@
    "related": []
   },
   {
-   "id": "61cc1fd271e79c06505c0ca89200909d9bb3f5c1",
-   "title": "Show HN: Farol – a risk map of a pull request for the person who approves it",
+   "id": "b788fc47bfc37b46df540662b83a2374bfe97250",
+   "title": "Active incident at Dreamhost forcing password reset",
    "summary": [
-    "Article URL: https://github.com/winnin/farol Comments URL: https://news.ycombinator.com/item?id=50231349 Points: 37 # Comments: 21"
+    "Article URL: https://www.dreamhoststatus.com/ Comments URL: https://news.ycombinator.com/item?id=50231166 Points: 52 # Comments: 18"
    ],
    "source": "Hacker News",
-   "url": "https://github.com/winnin/farol",
+   "url": "https://www.dreamhoststatus.com/",
    "image": null,
-   "published_at": "2026-10-25T13:28:06Z",
+   "published_at": "2026-10-25T13:09:16Z",
    "category": "tech",
    "related": []
-  },
-  {
-   "id": "ea5f521a8c09d0cd17f1a7dce5938daa035a2df3",
-   "title": "Samsung TVs look for microphones in your house via Bluetooth and then spy events",
-   "summary": [
-    "Article URL: https://twitter.com/freddier/status/2114042326758867453 Comments URL: https://news.ycombinator.com/item?id=50231189 Points: 27 # Comments: 10"
-   ],
-   "source": "Hacker News",
-   "url": "https://twitter.com/freddier/status/2114042326758867453",
-   "image": null,
-   "published_at": "2026-10-25T13:11:22Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "8a99d48c2aa46073c75ea538ca266dad02788132",
-   "title": "Imagine an AI future where being banned means you are now economically useless",
-   "summary": [
-    "Article URL: https://twitter.com/boneGPT/status/2114035719853265264 Comments URL: https://news.ycombinator.com/item?id=50230995 Points: 39 # Comments: 27"
-   ],
-   "source": "Hacker News",
-   "url": "https://twitter.com/boneGPT/status/2114035719853265264",
-   "image": null,
-   "published_at": "2026-10-25T12:47:20Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "d3af181c96b100fdc3388a00efc963570babfebb",
-   "title": "Tool book of a Nuremberg knight from 1505",
-   "summary": [
-    "Article URL: https://loeffelholz-codex.org/en/ Comments URL: https://news.ycombinator.com/item?id=50230917 Points: 115 # Comments: 55"
-   ],
-   "source": "Hacker News",
-   "url": "https://loeffelholz-codex.org/en/",
-   "image": null,
-   "published_at": "2026-10-25T12:37:54Z",
-   "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "https://freedns.afraid.org/"
-    }
-   ]
   },
   {
    "id": "75f0e0e121c265b5aa8609d6c9a4b154aba7f345",
    "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
    "summary": [
-    "Article URL: https://github.com/ihhub/fheroes2 Comments URL: https://news.ycombinator.com/item?id=50230384 Points: 117 # Comments: 37"
+    "Article URL: https://github.com/ihhub/fheroes2 Comments URL: https://news.ycombinator.com/item?id=50230384 Points: 175 # Comments: 62"
    ],
    "source": "Hacker News",
    "url": "https://github.com/ihhub/fheroes2",
    "image": null,
    "published_at": "2026-10-25T11:09:12Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "5431bd7fa76bae5bef52dfb8dcf7bc8c52c378eb",
-   "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
-   "summary": [
-    "Article URL: https://twitter.com/mike64_t/status/2114150399406202896 Comments URL: https://news.ycombinator.com/item?id=50230181 Points: 229 # Comments: 138"
-   ],
-   "source": "Hacker News",
-   "url": "https://twitter.com/mike64_t/status/2114150399406202896",
-   "image": null,
-   "published_at": "2026-10-25T10:42:01Z",
    "category": "tech",
    "related": []
   },
@@ -182,7 +298,7 @@
    "id": "b82b80f1678212b40cd3ac821b6fbbf854f14103",
    "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
    "summary": [
-    "Article URL: https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html Comments URL: https://news.ycombinator.com/item?id=50229827 Points: 80 # Comments: 20"
+    "Article URL: https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html Comments URL: https://news.ycombinator.com/item?id=50229827 Points: 111 # Comments: 44"
    ],
    "source": "Hacker News",
    "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
@@ -210,7 +326,7 @@
    "id": "2325af3360e067168cf6af742b1faed065229386",
    "title": "Cerebras Deploys Trillion-Parameter AI Models",
    "summary": [
-    "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 271 # Comments: 91"
+    "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 321 # Comments: 113"
    ],
    "source": "Hacker News",
    "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
@@ -220,23 +336,10 @@
    "related": []
   },
   {
-   "id": "8f5707e9a13cb37096450ac31a1c1ff37005ab56",
-   "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-   "summary": [
-    "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 437 # Comments: 458"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-   "image": null,
-   "published_at": "2026-10-24T23:11:54Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "13b5d33bcba3149eddf069c30fec7bec4b908bf6",
    "title": "We should be more ambitious with the software we build",
    "summary": [
-    "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 578 # Comments: 554"
+    "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 665 # Comments: 631"
    ],
    "source": "Hacker News",
    "url": "https://danluu.com/ambitious/",
@@ -246,22 +349,17 @@
    "related": []
   },
   {
-   "id": "e04ac878b49d46d8f94de9fd48ebff4896be50d3",
-   "title": "The Importance of Limitations for Creativity and Learning (2023)",
+   "id": "391734dd2e4ccd06cdb55366aa10b49183d09f3c",
+   "title": "Small Programs and Languages",
    "summary": [
-    "Article URL: https://ratfactor.com/cards/limitations Comments URL: https://news.ycombinator.com/item?id=50225663 Points: 106 # Comments: 33"
+    "Article URL: https://ratfactor.com/cards/pl-small Comments URL: https://news.ycombinator.com/item?id=50225674 Points: 171 # Comments: 27"
    ],
    "source": "Hacker News",
-   "url": "https://ratfactor.com/cards/limitations",
+   "url": "https://ratfactor.com/cards/pl-small",
    "image": null,
-   "published_at": "2026-10-24T21:42:47Z",
+   "published_at": "2026-10-24T21:44:23Z",
    "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "https://ratfactor.com/cards/pl-small"
-    }
-   ]
+   "related": []
   },
   {
    "id": "9de87f6482a19532d061550297fdb3db821a0283",
@@ -293,7 +391,7 @@
    "id": "84c9b463e77e350073151a77b3e64b6ccdd6507c",
    "title": "The Goose Programming Language",
    "summary": [
-    "https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 503 # Comments: 304"
+    "https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 533 # Comments: 330"
    ],
    "source": "Hacker News",
    "url": "https://aardappel.github.io/goose/",
@@ -352,19 +450,6 @@
    "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
    "image": null,
    "published_at": "2026-10-24T16:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "a2ab57efc2fc4ba7fb81e706a8f025a1348920a3",
-   "title": "Neural chip decodes interactions between brain regions",
-   "summary": [
-    "Article URL: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/ Comments URL: https://news.ycombinator.com/item?id=50222525 Points: 126 # Comments: 46"
-   ],
-   "source": "Hacker News",
-   "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
-   "image": null,
-   "published_at": "2026-10-24T15:57:17Z",
    "category": "tech",
    "related": []
   },
@@ -449,32 +534,6 @@
    "related": []
   },
   {
-   "id": "8acda1e9f09f44481907bcbab7330308abce9b0b",
-   "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-   "summary": [
-    "Article URL: https://github.com/Zagitta/gpu-unlock Comments URL: https://news.ycombinator.com/item?id=50219700 Points: 302 # Comments: 74"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/Zagitta/gpu-unlock",
-   "image": null,
-   "published_at": "2026-10-24T09:58:27Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "6252a2c19dbe293cadc9aaca05e02bf2d3fe129a",
-   "title": "I don't understand quantum physics (2018)",
-   "summary": [
-    "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 352 # Comments: 268"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-   "image": null,
-   "published_at": "2026-10-24T09:53:26Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "cafbc3aa04ad28b90cd1b9ec63db532791eb9013",
    "title": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
    "summary": [
@@ -484,19 +543,6 @@
    "url": "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom",
    "image": "https://i.guim.co.uk/img/media/ceaba2d2e573fa4bc480fbaee7cee88e2ce7c97b/620_0_4500_3600/master/4500.jpg?width=140&quality=85&auto=format&fit=max&s=f0d25aae5ae109f551faef3ce97d9432",
    "published_at": "2026-10-24T08:32:56Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "810c1d05b83802931ef359a7f4651549406c626a",
-   "title": "Opposition deepfake video of Spanish PM’s wife sparks outrage before election",
-   "summary": [
-    "Video shows AI likenesses of people linked to Pedro Sánchez’s Socialist party appearing to admit to wrongdoingA political ad from Spain’s main opposition party that used a deepfake video of the prime minister’s wife has sparked outrage and set off a wider debate on AI, as the deeply polarised country gears up for general elections next month.Launched this week across the social media channels of the conservative People’s party (PP), the video used artificial intelligence to manipulate the likenesses of various people linked to Pedro Sánchez’s Socialist party and appeared to show them admitting to acts such as soliciting prostitutes and taking kickbacks."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election",
-   "image": "https://i.guim.co.uk/img/media/b2d99fbc0419494ad01c1db56e1c3987fef305dd/799_96_2908_2326/master/2908.jpg?width=140&quality=85&auto=format&fit=max&s=26b2782eab34845759c7884cee206583",
-   "published_at": "2026-10-24T06:51:53Z",
    "category": "tech",
    "related": []
   }
