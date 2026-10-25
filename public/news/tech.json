@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-25T18:56:26.944598Z",
- "story_count": 39,
+ "generated_at": "2026-10-25T21:40:31.539839Z",
+ "story_count": 38,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -24,6 +24,120 @@
  },
  "stories": [
   {
+   "id": "bf7f18e0418c7776f9fc7fa37af8a7e82508f5b0",
+   "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+   "summary": [
+    "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+   "image": null,
+   "published_at": "2026-10-25T21:31:16Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "27bbc3c05afbffd3c241aa9f1ca368009cbaafb0",
+   "title": "The State of Context Engineering",
+   "summary": [
+    "Article URL: https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html Comments URL: https://news.ycombinator.com/item?id=50235780 Points: 3 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+   "image": null,
+   "published_at": "2026-10-25T20:32:31Z",
+   "category": "tech",
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html"
+    }
+   ]
+  },
+  {
+   "id": "ae9bbece165722a6dd341a2e4ec7bc485528767d",
+   "title": "What goes into making an animated film?",
+   "summary": [
+    "Article URL: https://www.disneyanimation.com/process/ Comments URL: https://news.ycombinator.com/item?id=50235738 Points: 16 # Comments: 6"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.disneyanimation.com/process/",
+   "image": null,
+   "published_at": "2026-10-25T20:27:09Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "e105f7e534a6f21277a970d009cc254afd687f62",
+   "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
+   "summary": [
+    "\"That's a 12-year-old view of the world.\""
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
+   "image": null,
+   "published_at": "2026-10-25T20:20:08Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "bb292756bb5dc8736a81250f0e27414163a4a203",
+   "title": "Eunice is almost here",
+   "summary": [
+    "Article URL: https://armincat.com/articles/eunice-is-almost-here Comments URL: https://news.ycombinator.com/item?id=50235316 Points: 34 # Comments: 27"
+   ],
+   "source": "Hacker News",
+   "url": "https://armincat.com/articles/eunice-is-almost-here",
+   "image": null,
+   "published_at": "2026-10-25T19:40:27Z",
+   "category": "tech",
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://focused.io/operating-principles"
+    }
+   ]
+  },
+  {
+   "id": "95f235603e5b7192a2916b0f9ee5801bc0c80376",
+   "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+   "summary": [
+    "Article URL: https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/ Comments URL: https://news.ycombinator.com/item?id=50235217 Points: 93 # Comments: 14"
+   ],
+   "source": "Hacker News",
+   "url": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+   "image": null,
+   "published_at": "2026-10-25T19:29:16Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "d91f0b108ecfb36f68dd0a1e000a856602f0069d",
+   "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
+   "summary": [
+    "Article URL: https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles Comments URL: https://news.ycombinator.com/item?id=50235010 Points: 24 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
+   "image": null,
+   "published_at": "2026-10-25T19:10:36Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "04b7086ca02a1e02c5fda24c7c153896f802d16d",
+   "title": "Where the Romans Fought (interactive map)",
+   "summary": [
+    "Article URL: https://iosiflazaridis.github.io/battles-of-the-romans/ Comments URL: https://news.ycombinator.com/item?id=50234879 Points: 8 # Comments: 1"
+   ],
+   "source": "Hacker News",
+   "url": "https://iosiflazaridis.github.io/battles-of-the-romans/",
+   "image": null,
+   "published_at": "2026-10-25T18:58:14Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "d3990852490cd50b88c4aafc54f7fe834c253409",
    "title": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
    "summary": [
@@ -33,19 +147,6 @@
    "url": "https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music",
    "image": "https://i.guim.co.uk/img/media/84aa6ec87e3e6db19123ab53bff1786594581607/0_358_2832_2265/master/2832.jpg?width=140&quality=85&auto=format&fit=max&s=b314d5ff58cb339d8ba3616e98aa3000",
    "published_at": "2026-10-25T18:25:59Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "160285e908d8a85c7f50ff324c22970fbfd1273e",
-   "title": "I made a virtual pet fruit fly that Twitch chat can interact with",
-   "summary": [
-    "Article URL: https://www.twitch.tv/flytwitcher Comments URL: https://news.ycombinator.com/item?id=50234480 Points: 4 # Comments: 1"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.twitch.tv/flytwitcher",
-   "image": null,
-   "published_at": "2026-10-25T18:24:20Z",
    "category": "tech",
    "related": []
   },
@@ -68,7 +169,7 @@
    "id": "d7598384e630ba6fbee456c25bc641b19bddfd33",
    "title": "All you need is Wide Events, not \"Metrics, Logs and Traces\"",
    "summary": [
-    "Article URL: https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics Comments URL: https://news.ycombinator.com/item?id=50234329 Points: 7 # Comments: 2"
+    "Article URL: https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics Comments URL: https://news.ycombinator.com/item?id=50234329 Points: 52 # Comments: 13"
    ],
    "source": "Hacker News",
    "url": "https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics",
@@ -81,7 +182,7 @@
    "id": "ba8662066c8993297ab0baad0ed1f2459472f1fa",
    "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
    "summary": [
-    "Article URL: https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/ Comments URL: https://news.ycombinator.com/item?id=50234232 Points: 82 # Comments: 12"
+    "Article URL: https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/ Comments URL: https://news.ycombinator.com/item?id=50234232 Points: 253 # Comments: 63"
    ],
    "source": "Hacker News",
    "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
@@ -94,7 +195,7 @@
    "id": "a800da3117590f034eef263aff0d091e472b4969",
    "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
    "summary": [
-    "Article URL: https://talkweb.eu/openweb/4558/ Comments URL: https://news.ycombinator.com/item?id=50233929 Points: 146 # Comments: 53"
+    "Article URL: https://talkweb.eu/openweb/4558/ Comments URL: https://news.ycombinator.com/item?id=50233929 Points: 282 # Comments: 148"
    ],
    "source": "Hacker News",
    "url": "https://talkweb.eu/openweb/4558/",
@@ -104,41 +205,10 @@
    "related": []
   },
   {
-   "id": "659f1ddf349bd7ef3c6a7023a08b320f5f5e8f9f",
-   "title": "Fuck Nuance (2015)",
-   "summary": [
-    "Article URL: https://crookedtimber.org/2015/08/31/fuck-nuance/ Comments URL: https://news.ycombinator.com/item?id=50233883 Points: 16 # Comments: 2"
-   ],
-   "source": "Hacker News",
-   "url": "https://crookedtimber.org/2015/08/31/fuck-nuance/",
-   "image": null,
-   "published_at": "2026-10-25T17:26:08Z",
-   "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "https://www.speedcrunch.org/"
-    }
-   ]
-  },
-  {
-   "id": "7a0c3072d4bd4419b5e1a2839b217bb5fd1cba91",
-   "title": "Scientists rediscover how to make ancient Roman colour-changing glass",
-   "summary": [
-    "Article URL: https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass Comments URL: https://news.ycombinator.com/item?id=50233828 Points: 12 # Comments: 1"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.theguardian.com/science/2026/oct/25/scientists-rediscover-ancient-roman-colour-changing-glass",
-   "image": null,
-   "published_at": "2026-10-25T17:20:22Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "1dc75a32fc6a65d3604d6f07708a6a4cf8951ef5",
    "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
    "summary": [
-    "Article URL: https://lynchlab.net/llm-skin-cancer Comments URL: https://news.ycombinator.com/item?id=50233779 Points: 136 # Comments: 74"
+    "Article URL: https://lynchlab.net/llm-skin-cancer Comments URL: https://news.ycombinator.com/item?id=50233779 Points: 306 # Comments: 158"
    ],
    "source": "Hacker News",
    "url": "https://lynchlab.net/llm-skin-cancer",
@@ -151,7 +221,7 @@
    "id": "a24706b0eebc7f4b25472ece544e1f839c879446",
    "title": "Sabre Wulf Remastered",
    "summary": [
-    "Article URL: https://gp-64.com/swr/ Comments URL: https://news.ycombinator.com/item?id=50233775 Points: 39 # Comments: 5"
+    "Article URL: https://gp-64.com/swr/ Comments URL: https://news.ycombinator.com/item?id=50233775 Points: 53 # Comments: 8"
    ],
    "source": "Hacker News",
    "url": "https://gp-64.com/swr/",
@@ -174,15 +244,15 @@
    "related": []
   },
   {
-   "id": "59ddf06fb26de586165a8e00064c33c6de4f6e02",
-   "title": "A Mathematician Reads the AI Future",
+   "id": "4b415143c1a54d53db1864aaae927b3176532ccb",
+   "title": "UTS #39: Unicode Security Mechanisms",
    "summary": [
-    "Article URL: https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/ Comments URL: https://news.ycombinator.com/item?id=50233347 Points: 34 # Comments: 37"
+    "Article URL: https://unicode.org/reports/tr39/ Comments URL: https://news.ycombinator.com/item?id=50233438 Points: 23 # Comments: 1"
    ],
    "source": "Hacker News",
-   "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
+   "url": "https://unicode.org/reports/tr39/",
    "image": null,
-   "published_at": "2026-10-25T16:31:21Z",
+   "published_at": "2026-10-25T16:40:37Z",
    "category": "tech",
    "related": []
   },
@@ -190,7 +260,7 @@
    "id": "2af7003f0e2faf2b901d2c003c5eb5aa18787f7e",
    "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
    "summary": [
-    "Article URL: https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html Comments URL: https://news.ycombinator.com/item?id=50233304 Points: 70 # Comments: 102"
+    "Article URL: https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html Comments URL: https://news.ycombinator.com/item?id=50233304 Points: 154 # Comments: 236"
    ],
    "source": "Hacker News",
    "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
@@ -257,7 +327,7 @@
    "id": "b788fc47bfc37b46df540662b83a2374bfe97250",
    "title": "Active incident at Dreamhost forcing password reset",
    "summary": [
-    "Article URL: https://www.dreamhoststatus.com/ Comments URL: https://news.ycombinator.com/item?id=50231166 Points: 52 # Comments: 18"
+    "Article URL: https://www.dreamhoststatus.com/ Comments URL: https://news.ycombinator.com/item?id=50231166 Points: 82 # Comments: 32"
    ],
    "source": "Hacker News",
    "url": "https://www.dreamhoststatus.com/",
@@ -270,7 +340,7 @@
    "id": "75f0e0e121c265b5aa8609d6c9a4b154aba7f345",
    "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
    "summary": [
-    "Article URL: https://github.com/ihhub/fheroes2 Comments URL: https://news.ycombinator.com/item?id=50230384 Points: 175 # Comments: 62"
+    "Article URL: https://github.com/ihhub/fheroes2 Comments URL: https://news.ycombinator.com/item?id=50230384 Points: 187 # Comments: 66"
    ],
    "source": "Hacker News",
    "url": "https://github.com/ihhub/fheroes2",
@@ -295,19 +365,6 @@
    "related": []
   },
   {
-   "id": "b82b80f1678212b40cd3ac821b6fbbf854f14103",
-   "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
-   "summary": [
-    "Article URL: https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html Comments URL: https://news.ycombinator.com/item?id=50229827 Points: 111 # Comments: 44"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
-   "image": null,
-   "published_at": "2026-10-25T09:51:17Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "7b52082e104fc65a36499125aef437815ef74c37",
    "title": "Cookie theft: how fraudsters get the digital key to your accounts",
    "summary": [
@@ -319,45 +376,6 @@
    "url": "https://www.theguardian.com/money/2026/oct/25/cookie-theft-how-fraudsters-get-the-digital-key-to-your-accounts",
    "image": "https://i.guim.co.uk/img/media/d704090ec1423450c012cae431933c0b4d4b1437/1425_927_4926_3943/master/4926.jpg?width=140&quality=85&auto=format&fit=max&s=900c5b114da3d3054d71f6f77be6e3db",
    "published_at": "2026-10-25T07:00:56Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "2325af3360e067168cf6af742b1faed065229386",
-   "title": "Cerebras Deploys Trillion-Parameter AI Models",
-   "summary": [
-    "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 321 # Comments: 113"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-   "image": null,
-   "published_at": "2026-10-25T01:33:49Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "13b5d33bcba3149eddf069c30fec7bec4b908bf6",
-   "title": "We should be more ambitious with the software we build",
-   "summary": [
-    "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 665 # Comments: 631"
-   ],
-   "source": "Hacker News",
-   "url": "https://danluu.com/ambitious/",
-   "image": null,
-   "published_at": "2026-10-24T21:47:31Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "391734dd2e4ccd06cdb55366aa10b49183d09f3c",
-   "title": "Small Programs and Languages",
-   "summary": [
-    "Article URL: https://ratfactor.com/cards/pl-small Comments URL: https://news.ycombinator.com/item?id=50225674 Points: 171 # Comments: 27"
-   ],
-   "source": "Hacker News",
-   "url": "https://ratfactor.com/cards/pl-small",
-   "image": null,
-   "published_at": "2026-10-24T21:44:23Z",
    "category": "tech",
    "related": []
   },
@@ -384,19 +402,6 @@
    "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
    "image": null,
    "published_at": "2026-10-24T20:15:33Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "84c9b463e77e350073151a77b3e64b6ccdd6507c",
-   "title": "The Goose Programming Language",
-   "summary": [
-    "https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 533 # Comments: 330"
-   ],
-   "source": "Hacker News",
-   "url": "https://aardappel.github.io/goose/",
-   "image": null,
-   "published_at": "2026-10-24T19:06:55Z",
    "category": "tech",
    "related": []
   },
@@ -530,19 +535,6 @@
    "url": "https://www.theguardian.com/technology/2026/oct/24/the-datacentre-next-door-on-the-frontline-of-techs-latest-david-v-goliath-battle",
    "image": "https://i.guim.co.uk/img/media/0373ee73af80c68fd75a9ab321de66de4801ad27/865_0_5902_4724/master/5902.jpg?width=140&quality=85&auto=format&fit=max&s=5f523b9df1901844cac4ef7d3a723b2b",
    "published_at": "2026-10-24T11:00:32Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "cafbc3aa04ad28b90cd1b9ec63db532791eb9013",
-   "title": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
-   "summary": [
-    "BBC series deliberately uses ‘more organic’ shots to assure viewers animals are not AI-generated, producers sayThe David Attenborough-narrated series Blue Planet III deliberately includes cloudier, less polished footage to counter AI fakery and assure viewers it is “authentic”, its producers have said.Nearly a decade after Blue Planet II shone a light on plastic pollution, and 25 years since the first Blue Planet aired, the hit BBC series is returning with more animal behaviour and cutting-edge technology, including the world’s first underwater CCTV camera – dubbed “stonefish” cam."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom",
-   "image": "https://i.guim.co.uk/img/media/ceaba2d2e573fa4bc480fbaee7cee88e2ce7c97b/620_0_4500_3600/master/4500.jpg?width=140&quality=85&auto=format&fit=max&s=f0d25aae5ae109f551faef3ce97d9432",
-   "published_at": "2026-10-24T08:32:56Z",
    "category": "tech",
    "related": []
   }
