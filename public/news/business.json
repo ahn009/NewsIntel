@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-24T23:06:32.271032Z",
- "story_count": 10,
+ "generated_at": "2026-10-25T01:05:32.401727Z",
+ "story_count": 9,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,19 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "f06838f075fde3da89246860a453aaee8634e7d3",
+   "title": "Rosebank: Life on the oil field at the centre of a political storm",
+   "summary": [
+    "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-24T23:15:18Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "a98c340973abc64cbcfa2ccc596edf894ea7b89d",
    "title": "Rising demand from families needing Christmas help",
@@ -124,32 +137,6 @@
    "url": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-23T15:15:13Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "5580b3e486b709e48c9aab36f4ea179de2f04db4",
-   "title": "Island inflation rate rises to 3%, figures show",
-   "summary": [
-    "The rising cost of food and alcohol drives an increase in the inflation rate, figures show."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmz6581p1ee8o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-23T11:58:19Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "682388b9603190ade9c06a4134075ff454bdad16",
-   "title": "Earnings limit of up to £140K for first-time buyers loan scheme",
-   "summary": [
-    "The Your First Home scheme will offer government-backed loans for those buying new-builds in England."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-23T11:48:04Z",
    "category": "business",
    "related": []
   }
