@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-25T11:15:01.612058Z",
- "story_count": 22,
+ "generated_at": "2026-10-25T16:02:41.113257Z",
+ "story_count": 29,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -24,28 +24,126 @@
  },
  "stories": [
   {
-   "id": "1f233b7d5c6926e936f359f84e04c7877abaabf9",
-   "title": "Flight disruption and thousands without electricity after Storm Boelo",
-   "summary": [
-    "Flights have been cancelled in Belfast and Dublin, while thousands of homes have been left without power."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c84g10r00221o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-25T11:00:22Z",
-   "category": "science",
-   "related": []
-  },
-  {
    "id": "72bac74b746bc7d9cda7abf248705ec80de32b97",
-   "title": "Wind gust of 84mph recorded as Storm Boelo brings disruption",
+   "title": "Travel disruption and power cuts after back-to-back storms",
    "summary": [
-    "More than 500 homes are without power and flooding and felled trees have been reported on roads."
+    "Authorities said they were dealing with flooding and fallen trees as Storm Boelo followed Storm Austen."
    ],
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/c6n9rzde1n80o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-10-25T10:54:23Z",
+   "published_at": "2026-10-25T15:58:33Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "6f664207216e74e8904efa1424a86b0e677418ba",
+   "title": "Overnight winds reach 85mph as Scotland is hit by Storm Boelo",
+   "summary": [
+    "Heavy rain and strong winds are affecting most of the country until 21:00 on Sunday."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-25T15:34:01Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "1f233b7d5c6926e936f359f84e04c7877abaabf9",
+   "title": "Flight disruption and thousands without electricity after Storm Boelo",
+   "summary": [
+    "About 350 incidents, including fallen trees and flooding, have been reported to the Department for Infrastructure."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c84g10r00221o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-25T15:14:26Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "d40dd80e980a67d9ea93b906f338930bf046a8f8",
+   "title": "Police using AI risks making discrimination worse, researchers warn",
+   "summary": [
+    "AI tools learn from biased records and may deepen discrimination against minorities without oversight, researchers say."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ckpdg4pl7pgvo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-25T12:18:56Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "bee12aa6ed27bc576e771a0439aa84110a9a0386",
+   "title": "Three giant black holes discovered in a galaxy from the dawn of time",
+   "summary": [
+    "Astronomers have discovered three actively feeding black holes inside a single galaxy more than 12.5 billion light-years away, revealing a remarkable scene from the universe’s infancy.",
+    "Two of the black holes are separated by just 620 light-years and are expected to eventually merge, while a third lurks farther away.",
+    "One weighs an astonishing 80 million suns, and another is growing faster than conventional theories predict."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261024222000.htm",
+   "image": null,
+   "published_at": "2026-10-25T12:07:01Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "f088c770504ff2890e88030cef33bd78cad08b0a",
+   "title": "New evidence suggests spinosaurus spent most of its life underwater",
+   "summary": [
+    "Millions of years after animals first conquered land, some took an extraordinary evolutionary U-turn and returned to the water.",
+    "Using machine learning and thousands of fossil measurements, Yale scientists have uncovered surprising clues about which prehistoric creatures truly became aquatic.",
+    "Their findings suggest that Spinosaurus spent most of its life underwater, while some ancient marine reptiles previously thought to be fully aquatic actually spent considerable time on land."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261024221956.htm",
+   "image": null,
+   "published_at": "2026-10-25T11:52:54Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "835caa402e506f1f9f76290f17b2391c3dc959b6",
+   "title": "'What was in the Clyde is basically now on the shore'",
+   "summary": [
+    "BBC Scotland reports from the scene at Cardross as Storm Boelo batters the country."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/cmg47e2znpzpo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-25T11:42:17Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "81c79aace3ea5945de94a2c263e146ed43199d9f",
+   "title": "Scientists discover how pancreatic cancer rewrites its DNA to escape treatment",
+   "summary": [
+    "Scientists have discovered how pancreatic cancer cells continually reshape their genetic makeup to become more aggressive, spread, and evade treatment.",
+    "In laboratory experiments, blocking a key gene reversed some of these dangerous changes, revealing a potential new way to fight the deadly disease."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261024221849.htm",
+   "image": null,
+   "published_at": "2026-10-25T11:00:25Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "b35a47d15ee27c70a78f5d009192cd3ad46101f9",
+   "title": "Low-dose aspirin linked to 70% lower dementia risk, but there's a catch",
+   "summary": [
+    "A common, inexpensive medication could hold an unexpected clue to preventing dementia.",
+    "Researchers found that older adults with a specific genetic profile had a 70% lower relative risk of dementia when taking low-dose aspirin, even though previous studies found no overall protective effect.",
+    "The discovery suggests that genetics could help explain why some people benefit while others do not."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261024222026.htm",
+   "image": null,
+   "published_at": "2026-10-25T10:21:48Z",
    "category": "science",
    "related": []
   },
@@ -76,19 +174,6 @@
    "related": []
   },
   {
-   "id": "6f664207216e74e8904efa1424a86b0e677418ba",
-   "title": "Overnight winds hit 85mph as Scotland is hit by Storm Beolo",
-   "summary": [
-    "Heavy rain and strong winds are affecting most of the country until 21:00 on Sunday."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-25T09:33:29Z",
-   "category": "science",
-   "related": []
-  },
-  {
    "id": "4961895ee2764b77390a9fa939a9ca711406f2a7",
    "title": "Seabirds and sewage among UNESCO status challenges",
    "summary": [
@@ -98,6 +183,50 @@
    "url": "https://www.bbc.co.uk/news/articles/cwzrd1e364jlo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-25T07:22:57Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "d392d2c5952a702e17711a4b6d7de3a237324ce2",
+   "title": "This mysterious mushroom makes people see hundreds of tiny humans",
+   "summary": [
+    "For nearly a century, people in distant parts of the world have reported a bizarre experience after eating certain wild mushrooms: seeing dozens or even hundreds of tiny, colorful humans moving through the real world.",
+    "Now, scientists have identified a mushroom species, Lanmaoa asiatica, responsible for these extraordinary hallucinations in China and the Philippines."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261024222021.htm",
+   "image": null,
+   "published_at": "2026-10-25T06:36:10Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "57873e1aad613676b223d8aac84b83226f53aef1",
+   "title": "Astronomers may have discovered the first moon beyond our Solar System",
+   "summary": [
+    "Astronomers have uncovered evidence of a bizarre, potentially historic discovery: the first moon ever detected beyond our Solar System.",
+    "Unlike familiar moons, this mysterious object is at least as massive as Jupiter and orbits a brown dwarf, which itself circles a star.",
+    "The unusual arrangement challenges traditional definitions of planets and moons, leaving scientists unsure what to call it."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261023023736.htm",
+   "image": null,
+   "published_at": "2026-10-25T03:13:05Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "c51e9f528e3f1376ba6609be8b05f91a30ad8a49",
+   "title": "Scientists discover a hidden flaw that challenges 40 years of superconductor science",
+   "summary": [
+    "A superconducting material studied for 40 years has turned out to be far more complex than scientists believed.",
+    "Advanced 3D imaging revealed a hidden patchwork of crystal structures, with unusually wide boundaries that may weaken superconductivity.",
+    "The discovery challenges decades of scientific assumptions and could explain why some superconductors outperform others."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261023023731.htm",
+   "image": null,
+   "published_at": "2026-10-25T02:19:07Z",
    "category": "science",
    "related": []
   },
@@ -290,34 +419,6 @@
    "url": "https://www.bbc.co.uk/news/articles/c6gqwz79ylw4o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-24T05:44:22Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "dcb7d5ebe5a8445b634b719124778a4016a84079",
-   "title": "This 150-million-year-old bird had dinosaur teeth and a strange secret",
-   "summary": [
-    "A 150-million-year-old fossil discovered in China reveals a bizarre early bird with sharp teeth, a dinosaur-like claw, and a body built for life on the ground rather than flight.",
-    "Scientists believe it represents the earliest known example of flight loss in birds, overturning assumptions about how these animals evolved."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261023023710.htm",
-   "image": null,
-   "published_at": "2026-10-24T02:42:19Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "d96f381018635a2acbde2fe9346980bb1b87584d",
-   "title": "Glioblastoma breakthrough reveals how brain cancer cells become more aggressive",
-   "summary": [
-    "Scientists discovered that the thick, sticky fluid surrounding glioblastoma tumors can make brain cancer cells smaller, more flexible, and better at invading surrounding tissue.",
-    "Even more troubling, some of these changes persist after the cells leave the thick fluid, revealing a previously overlooked mechanism that could help this deadly cancer spread."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261022081300.htm",
-   "image": null,
-   "published_at": "2026-10-24T00:48:21Z",
    "category": "science",
    "related": []
   }
