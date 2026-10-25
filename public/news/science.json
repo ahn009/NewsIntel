@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-25T06:01:18.995747Z",
- "story_count": 19,
+ "generated_at": "2026-10-25T11:15:01.612058Z",
+ "story_count": 22,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -24,28 +24,80 @@
  },
  "stories": [
   {
-   "id": "7b019283946358a71820af490a654492a33e813c",
-   "title": "From Russian cages to Irish sanctuary: The five-year rescue journey of Bu and Tyapa",
+   "id": "1f233b7d5c6926e936f359f84e04c7877abaabf9",
+   "title": "Flight disruption and thousands without electricity after Storm Boelo",
    "summary": [
-    "For Bu and Tyapa, the five-year journey from Russia to the Irish countryside was anything but straightforward."
+    "Flights have been cancelled in Belfast and Dublin, while thousands of homes have been left without power."
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cx62y9j1zyjvo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c84g10r00221o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-10-24T23:02:51Z",
+   "published_at": "2026-10-25T11:00:22Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "72bac74b746bc7d9cda7abf248705ec80de32b97",
+   "title": "Wind gust of 84mph recorded as Storm Boelo brings disruption",
+   "summary": [
+    "More than 500 homes are without power and flooding and felled trees have been reported on roads."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6n9rzde1n80o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-25T10:54:23Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "219173ef4599a0f69dd0f34b3f480103adc03bfc",
+   "title": "More wet and windy weather to follow stormy weekend",
+   "summary": [
+    "Following the first two named storms of the season, wet and very windy conditions are set to continue into the start of the new week."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/weather/articles/cwdd858z8ynlo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-25T10:16:20Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "8a5e172e0b227ca25f5a262d42825afdbfeab501",
+   "title": "The penguins are noisy, the people fantastic - what it takes to be an Antarctic postmaster",
+   "summary": [
+    "George Clarke from Bristol will run the post office at Port Lockroy in Antarctica from October to March."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6dxwklr409eo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-25T09:59:50Z",
    "category": "science",
    "related": []
   },
   {
    "id": "6f664207216e74e8904efa1424a86b0e677418ba",
-   "title": "Trains cancelled and road warnings as Storm Boelo sweeps into Scotland",
+   "title": "Overnight winds hit 85mph as Scotland is hit by Storm Beolo",
    "summary": [
-    "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast."
+    "Heavy rain and strong winds are affecting most of the country until 21:00 on Sunday."
    ],
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-10-24T22:39:52Z",
+   "published_at": "2026-10-25T09:33:29Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "4961895ee2764b77390a9fa939a9ca711406f2a7",
+   "title": "Seabirds and sewage among UNESCO status challenges",
+   "summary": [
+    "A report marking 10 years of the Isle of Man as a UNESCO Biosphere highlights the scheme's progress."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cwzrd1e364jlo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-25T07:22:57Z",
    "category": "science",
    "related": []
   },
@@ -266,19 +318,6 @@
    "url": "https://www.sciencedaily.com/releases/2026/10/261022081300.htm",
    "image": null,
    "published_at": "2026-10-24T00:48:21Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "5de1832767772d717d8a032ff6d3424a051c9439",
-   "title": "Storm Austen brings power cuts and travel disruption as more wind and rain forecast",
-   "summary": [
-    "A second storm, Storm Boelo, is expected to hit Scotland, Northern Ireland and northern England on Saturday bringing more wild weather."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-23T21:10:47Z",
    "category": "science",
    "related": []
   }
