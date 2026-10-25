@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-25T01:05:32.401727Z",
- "story_count": 9,
+ "generated_at": "2026-10-25T06:01:18.963378Z",
+ "story_count": 7,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,19 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "177ee20d981065d66bbb6830074ff55721bc77dc",
+   "title": "Budget to include £1bn for social and affordable housing",
+   "summary": [
+    "The move will take funding for the 10-year programme to more than £40bn."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-25T02:57:30Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "f06838f075fde3da89246860a453aaee8634e7d3",
    "title": "Rosebank: Life on the oil field at the centre of a political storm",
@@ -98,45 +111,6 @@
    "url": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
    "image": "https://i.guim.co.uk/img/media/a656adaa305948099a0698f8410031bd96ebf2ff/261_0_2655_2125/master/2655.jpg?width=140&quality=85&auto=format&fit=max&s=4d9cc435fff3980f6d247bc8abe9a63f",
    "published_at": "2026-10-23T22:03:07Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "d139ede9e73792f33f72751397f6de08967939a4",
-   "title": "Oil price rises above $117 a barrel amid fears US will renew strikes on Iran",
-   "summary": [
-    "Brent crude increase follows Tehran threatening retaliatory attacks on Gulf refineries and datacentresOil has hit its highest level in more than six months as fears of fresh escalation in the Middle East conflict grip the energy markets.Brent crude, the international benchmark for oil, rose by about 3.5% on Friday to pass $117 a barrel at one point – its highest level since April."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/oct/23/oil-five-month-high-fears-us-renews-strikes-iran",
-   "image": "https://i.guim.co.uk/img/media/c0f302e34e0b51e7da8489af30c4f6d217592b8a/424_0_4520_3616/master/4520.jpg?width=140&quality=85&auto=format&fit=max&s=c61c7f835c77b6046500b5ffba86d418",
-   "published_at": "2026-10-23T16:48:28Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "a6f4041bd35baff80f6fbbaf42f7b7ddd1611922",
-   "title": "The little-known investment Martin Lewis wants you to understand...",
-   "summary": [
-    "The little-known investment Martin Lewis wants you to understand"
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/c8ly0357prl7o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-23T15:41:28Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "4892ae6e79133f2bf09aede12b28eb76b5734f95",
-   "title": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
-   "summary": [
-    "Kashim Chowdhury denied being dishonest when not telling employers he had other jobs."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-23T15:15:13Z",
    "category": "business",
    "related": []
   }

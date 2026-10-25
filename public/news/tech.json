@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T01:05:32.401326Z",
+ "generated_at": "2026-10-25T06:01:18.894476Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -24,10 +24,67 @@
  },
  "stories": [
   {
+   "id": "325a829b858da832af1a0466f84265e1a4896ed5",
+   "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
+   "summary": [
+    "Article URL: https://github.com/slee-persis/GVS5H Comments URL: https://news.ycombinator.com/item?id=50228167 Points: 99 # Comments: 25"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/slee-persis/GVS5H",
+   "image": null,
+   "published_at": "2026-10-25T03:56:01Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "9785dbd4ad9ed4835af7a6e9fe30f0de282f6dc6",
+   "title": "Xbox Turns Down Netflix $500M Offer",
+   "summary": [
+    "Article URL: https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/ Comments URL: https://news.ycombinator.com/item?id=50227892 Points: 73 # Comments: 91"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/",
+   "image": null,
+   "published_at": "2026-10-25T03:05:53Z",
+   "category": "tech",
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://www.speedcrunch.org/"
+    }
+   ]
+  },
+  {
+   "id": "70ec479b28c26d8f285bc0b31a1ef020c2bdd5bd",
+   "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
+   "summary": [
+    "Article URL: https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report Comments URL: https://news.ycombinator.com/item?id=50227639 Points: 109 # Comments: 33"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report",
+   "image": null,
+   "published_at": "2026-10-25T02:18:35Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "2325af3360e067168cf6af742b1faed065229386",
+   "title": "Cerebras Deploys Trillion-Parameter AI Models",
+   "summary": [
+    "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 75 # Comments: 23"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+   "image": null,
+   "published_at": "2026-10-25T01:33:49Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "ceb7d26d07b0df042a5cf4b73f1efb829d7475a2",
    "title": "Why Gopher in 2026?",
    "summary": [
-    "Article URL: https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt Comments URL: https://news.ycombinator.com/item?id=50226577 Points: 15 # Comments: 4"
+    "Article URL: https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt Comments URL: https://news.ycombinator.com/item?id=50226577 Points: 49 # Comments: 14"
    ],
    "source": "Hacker News",
    "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
@@ -37,23 +94,10 @@
    "related": []
   },
   {
-   "id": "9d1e6d212b3c3a2848bd528f02bbcbb18989e924",
-   "title": "Google has officially turned these Nest thermostats back into dumb thermostats",
-   "summary": [
-    "Article URL: https://www.makeuseof.com/google-nest-thermostats-unsupported/ Comments URL: https://news.ycombinator.com/item?id=50226434 Points: 29 # Comments: 22"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.makeuseof.com/google-nest-thermostats-unsupported/",
-   "image": null,
-   "published_at": "2026-10-24T23:14:30Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "8f5707e9a13cb37096450ac31a1c1ff37005ab56",
-   "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+   "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
    "summary": [
-    "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 101 # Comments: 69"
+    "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 277 # Comments: 282"
    ],
    "source": "Hacker News",
    "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
@@ -66,7 +110,7 @@
    "id": "13b5d33bcba3149eddf069c30fec7bec4b908bf6",
    "title": "We should be more ambitious with the software we build",
    "summary": [
-    "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 137 # Comments: 92"
+    "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 293 # Comments: 258"
    ],
    "source": "Hacker News",
    "url": "https://danluu.com/ambitious/",
@@ -76,15 +120,15 @@
    "related": [
     {
      "source": "Hacker News",
-     "url": "https://www.speedcrunch.org/"
+     "url": "https://freedns.afraid.org/"
     }
    ]
   },
   {
    "id": "e04ac878b49d46d8f94de9fd48ebff4896be50d3",
-   "title": "The Importance of Limitations for Creativity and Learning",
+   "title": "The Importance of Limitations for Creativity and Learning (2023)",
    "summary": [
-    "Article URL: https://ratfactor.com/cards/limitations Comments URL: https://news.ycombinator.com/item?id=50225663 Points: 20 # Comments: 3"
+    "Article URL: https://ratfactor.com/cards/limitations Comments URL: https://news.ycombinator.com/item?id=50225663 Points: 50 # Comments: 12"
    ],
    "source": "Hacker News",
    "url": "https://ratfactor.com/cards/limitations",
@@ -116,7 +160,7 @@
    "title": "Show HN: Steal My Bitcoin",
    "summary": [
     "Made this because I'm curious if anyone out there has figured out how to actually use this PHP RCE we spent the last few days panicking over.",
-    "Comments URL: https://news.ycombinator.com/item?id=50224916 Points: 384 # Comments: 231"
+    "Comments URL: https://news.ycombinator.com/item?id=50224916 Points: 447 # Comments: 272"
    ],
    "source": "Hacker News",
    "url": "https://stealmybitcoin.com/",
@@ -139,23 +183,10 @@
    "related": []
   },
   {
-   "id": "074b7d5e1602db74c1fe6fb1c2ecbd9316e0e876",
-   "title": "No signs of AI payoff outside the tech sector",
-   "summary": [
-    "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224463 Points: 467 # Comments: 453"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-   "image": null,
-   "published_at": "2026-10-24T19:47:19Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "f8a41fa202c688c3a30279d8986fd5dca2b6c66d",
    "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
    "summary": [
-    "Article URL: https://missileer.watch Comments URL: https://news.ycombinator.com/item?id=50224422 Points: 109 # Comments: 73"
+    "Article URL: https://missileer.watch Comments URL: https://news.ycombinator.com/item?id=50224422 Points: 151 # Comments: 105"
    ],
    "source": "Hacker News",
    "url": "https://missileer.watch",
@@ -168,7 +199,7 @@
    "id": "84c9b463e77e350073151a77b3e64b6ccdd6507c",
    "title": "The Goose Programming Language",
    "summary": [
-    "https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 228 # Comments: 155"
+    "https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 318 # Comments: 212"
    ],
    "source": "Hacker News",
    "url": "https://aardappel.github.io/goose/",
@@ -208,7 +239,7 @@
    "id": "f6800b4d1216e0794270dc7c212444c9b802e239",
    "title": "Bbtree: Fastest Ordered Map",
    "summary": [
-    "Article URL: https://bbtree.xiangpeng.systems/post/ Comments URL: https://news.ycombinator.com/item?id=50223777 Points: 45 # Comments: 4"
+    "Article URL: https://bbtree.xiangpeng.systems/post/ Comments URL: https://news.ycombinator.com/item?id=50223777 Points: 84 # Comments: 11"
    ],
    "source": "Hacker News",
    "url": "https://bbtree.xiangpeng.systems/post/",
@@ -221,7 +252,7 @@
    "id": "f25e86d37a66923fed830b7efc13dcbb8798c931",
    "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
    "summary": [
-    "Article URL: https://de.numista.com/9866 Comments URL: https://news.ycombinator.com/item?id=50222927 Points: 91 # Comments: 28"
+    "Article URL: https://de.numista.com/9866 Comments URL: https://news.ycombinator.com/item?id=50222927 Points: 109 # Comments: 32"
    ],
    "source": "Hacker News",
    "url": "https://de.numista.com/9866",
@@ -247,7 +278,7 @@
    "id": "f686687fa50fc36084bf85517da81b9325dd646a",
    "title": "Roku developer repositories moved from GitHub to GitLab",
    "summary": [
-    "Article URL: https://blog.roku.com/developer/gitlab-move Comments URL: https://news.ycombinator.com/item?id=50222622 Points: 253 # Comments: 167"
+    "Article URL: https://blog.roku.com/developer/gitlab-move Comments URL: https://news.ycombinator.com/item?id=50222622 Points: 276 # Comments: 190"
    ],
    "source": "Hacker News",
    "url": "https://blog.roku.com/developer/gitlab-move",
@@ -273,25 +304,12 @@
    "id": "a2ab57efc2fc4ba7fb81e706a8f025a1348920a3",
    "title": "Neural chip decodes interactions between brain regions",
    "summary": [
-    "Article URL: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/ Comments URL: https://news.ycombinator.com/item?id=50222525 Points: 87 # Comments: 31"
+    "Article URL: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/ Comments URL: https://news.ycombinator.com/item?id=50222525 Points: 99 # Comments: 35"
    ],
    "source": "Hacker News",
    "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
    "image": null,
    "published_at": "2026-10-24T15:57:17Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "79c7fe33c787356f39d7fcfff9326e07b96f322c",
-   "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-   "summary": [
-    "Article URL: https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/ Comments URL: https://news.ycombinator.com/item?id=50222283 Points: 33 # Comments: 23"
-   ],
-   "source": "Hacker News",
-   "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
-   "image": null,
-   "published_at": "2026-10-24T15:35:17Z",
    "category": "tech",
    "related": []
   },
@@ -379,7 +397,7 @@
    "id": "8acda1e9f09f44481907bcbab7330308abce9b0b",
    "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
    "summary": [
-    "Article URL: https://github.com/Zagitta/gpu-unlock Comments URL: https://news.ycombinator.com/item?id=50219700 Points: 185 # Comments: 61"
+    "Article URL: https://github.com/Zagitta/gpu-unlock Comments URL: https://news.ycombinator.com/item?id=50219700 Points: 213 # Comments: 68"
    ],
    "source": "Hacker News",
    "url": "https://github.com/Zagitta/gpu-unlock",
@@ -392,7 +410,7 @@
    "id": "6252a2c19dbe293cadc9aaca05e02bf2d3fe129a",
    "title": "I don't understand quantum physics (2018)",
    "summary": [
-    "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 275 # Comments: 207"
+    "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 295 # Comments: 237"
    ],
    "source": "Hacker News",
    "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
@@ -411,19 +429,6 @@
    "url": "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom",
    "image": "https://i.guim.co.uk/img/media/ceaba2d2e573fa4bc480fbaee7cee88e2ce7c97b/620_0_4500_3600/master/4500.jpg?width=140&quality=85&auto=format&fit=max&s=f0d25aae5ae109f551faef3ce97d9432",
    "published_at": "2026-10-24T08:32:56Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "69696c78864a6bdc51e36a5fa86c5c93e4287f5d",
-   "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
-   "summary": [
-    "Article URL: https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497 Comments URL: https://news.ycombinator.com/item?id=50219177 Points: 274 # Comments: 137"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
-   "image": null,
-   "published_at": "2026-10-24T08:06:39Z",
    "category": "tech",
    "related": []
   },
