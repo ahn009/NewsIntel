@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-26T19:11:14.751321Z",
- "story_count": 12,
+ "generated_at": "2026-10-26T23:46:14.557174Z",
+ "story_count": 11,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,19 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "3e34e7a03b6ab601f0873cb56fd33305c4eea65d",
+   "title": "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
+   "summary": [
+    "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\"."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-26T22:30:02Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "80b5a397ef1a26d818d6fc6e9065b3b9a0f807dd",
    "title": "Anthropic files for stock market IPO; Meta announces $95bn fundraising drive to pay for AI expansion – as it happened",
@@ -77,6 +90,19 @@
    "url": "https://www.bbc.co.uk/news/articles/c60rlp8kkz1zo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-26T10:48:46Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "1fc158ac434d63370f002c01bb079ed1fc1bc8b9",
+   "title": "European gas prices soar to four-year high over winter supply fears",
+   "summary": [
+    "Jump fuelled by fears of further Middle East supply disruptions amid reports of US-Israeli plans to strike Iran European gas prices have jumped to levels not seen since 2022 as fears continue to grow around the continent’s supply this winter and the conflict in the Middle East.Wholesale gas prices hit €97 (£81) a megawatt-hour on Monday, as temperatures across Europe fell and traders priced in stronger demand for heating."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/oct/26/european-gas-prices-four-year-high-winter-supply-fears-middle-east",
+   "image": "https://i.guim.co.uk/img/media/275f98d8c2bcb343ced7e3b49bd547734a4db6f9/865_0_6406_5124/master/6406.jpg?width=140&quality=85&auto=format&fit=max&s=dc68ce3bf458c3ed174eb45b43df2aa2",
+   "published_at": "2026-10-26T10:35:24Z",
    "category": "business",
    "related": []
   },
@@ -142,45 +168,6 @@
    "url": "https://www.theguardian.com/business/2026/oct/25/volkswagen-to-build-4bn-audi-suv-factory-in-us-despite-job-cuts-at-home",
    "image": "https://i.guim.co.uk/img/media/3505a53736aa93c5c0c6865e0b06b5c8b49159c8/292_0_2917_2333/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=d9ace791d8eb1b39e0b7d8aea2563988",
    "published_at": "2026-10-25T13:43:19Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "177ee20d981065d66bbb6830074ff55721bc77dc",
-   "title": "Budget to include £1bn for social and affordable housing",
-   "summary": [
-    "The move will take funding for the 10-year programme to more than £40bn."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-25T10:03:17Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "f06838f075fde3da89246860a453aaee8634e7d3",
-   "title": "Rosebank: Life on the oil field at the centre of a political storm",
-   "summary": [
-    "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-25T07:15:38Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "e9d1515acbda257806824dd732c47dff2aaf9e61",
-   "title": "Heating oil costs 'more than double' ahead of winter",
-   "summary": [
-    "Middleton in Teesdale has no mains gas supply so many residents use expensive heating oil."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6n8de1jgrdvo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-25T07:12:21Z",
    "category": "business",
    "related": []
   }

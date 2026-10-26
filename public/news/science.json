@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-26T19:11:14.751593Z",
- "story_count": 26,
+ "generated_at": "2026-10-26T23:46:14.557408Z",
+ "story_count": 23,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -24,6 +24,32 @@
  },
  "stories": [
   {
+   "id": "160ecbb11ec0a02a1a4aaf346212a028bc90016a",
+   "title": "New weather warnings as third storm set to hit Scotland",
+   "summary": [
+    "The country is braced for the third storm in as many days as communities continue to clean up after the weekend."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-26T23:00:14Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "ef596de976c9e737bd94ef39112e2c002a1fea81",
+   "title": "Storm Boelo leaves 22,000 without power as Met Office issues new wind warning",
+   "summary": [
+    "A yellow warning for strong winds came in effect at 18:00 on Monday across the west coast of England, Wales and Scotland and eastern parts of Northern Ireland."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-26T22:43:44Z",
+   "category": "science",
+   "related": []
+  },
+  {
    "id": "866fdf907368c6853bb20343fd2e0c2528df2c33",
    "title": "Political battle intensifies within Labour over Rosebank oil field",
    "summary": [
@@ -46,19 +72,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cqe9lykm93jmo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-26T18:09:39Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "ef596de976c9e737bd94ef39112e2c002a1fea81",
-   "title": "Storm Boelo leaves 22,000 without power as Met Office issues new wind warning",
-   "summary": [
-    "The Met Office has issued a fresh wind warning from 18:00 on Monday across the west coast of England, Wales and Scotland and eastern parts of Northern Ireland."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-26T17:22:51Z",
    "category": "science",
    "related": []
   },
@@ -290,19 +303,6 @@
    "related": []
   },
   {
-   "id": "72bac74b746bc7d9cda7abf248705ec80de32b97",
-   "title": "Travel disruption and power cuts after back-to-back storms",
-   "summary": [
-    "Authorities said they were dealing with flooding and fallen trees as Storm Boelo followed Storm Austen."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6n9rzde1n80o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-25T18:50:09Z",
-   "category": "science",
-   "related": []
-  },
-  {
    "id": "bee12aa6ed27bc576e771a0439aa84110a9a0386",
    "title": "Three giant black holes discovered in a galaxy from the dawn of time",
    "summary": [
@@ -329,48 +329,6 @@
    "url": "https://www.sciencedaily.com/releases/2026/10/261024221956.htm",
    "image": null,
    "published_at": "2026-10-25T11:52:54Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "81c79aace3ea5945de94a2c263e146ed43199d9f",
-   "title": "Scientists discover how pancreatic cancer rewrites its DNA to escape treatment",
-   "summary": [
-    "Scientists have discovered how pancreatic cancer cells continually reshape their genetic makeup to become more aggressive, spread, and evade treatment.",
-    "In laboratory experiments, blocking a key gene reversed some of these dangerous changes, revealing a potential new way to fight the deadly disease."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261024221849.htm",
-   "image": null,
-   "published_at": "2026-10-25T11:00:25Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "b35a47d15ee27c70a78f5d009192cd3ad46101f9",
-   "title": "Low-dose aspirin linked to 70% lower dementia risk, but there's a catch",
-   "summary": [
-    "A common, inexpensive medication could hold an unexpected clue to preventing dementia.",
-    "Researchers found that older adults with a specific genetic profile had a 70% lower relative risk of dementia when taking low-dose aspirin, even though previous studies found no overall protective effect.",
-    "The discovery suggests that genetics could help explain why some people benefit while others do not."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261024222026.htm",
-   "image": null,
-   "published_at": "2026-10-25T10:21:48Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "efd6b68052c38572fc9f5115a45093ac51959c69",
-   "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-   "summary": [
-    "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-25T09:00:00Z",
    "category": "science",
    "related": []
   }
