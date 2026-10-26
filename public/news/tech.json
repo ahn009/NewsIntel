@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T21:40:31.539839Z",
+ "generated_at": "2026-10-26T00:09:32.954275Z",
  "story_count": 38,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -24,6 +24,32 @@
  },
  "stories": [
   {
+   "id": "03e91b2dcb779b9c37bd05f2053a898c1f4dea08",
+   "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+   "summary": [
+    "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-25T23:44:34Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "3be5a846bb100a06154e7bbb6f8b89e8d1922aa0",
+   "title": "F-Zero X on Nintendo 3DS",
+   "summary": [
+    "Article URL: https://hypnotize.works/gdx-3ds/postmortem/index.html Comments URL: https://news.ycombinator.com/item?id=50237078 Points: 5 # Comments: 1"
+   ],
+   "source": "Hacker News",
+   "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+   "image": null,
+   "published_at": "2026-10-25T23:27:30Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "bf7f18e0418c7776f9fc7fa37af8a7e82508f5b0",
    "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
    "summary": [
@@ -37,10 +63,36 @@
    "related": []
   },
   {
+   "id": "c45c68dc9fe27319a2fa5d0add6b78dd9d68ee22",
+   "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+   "summary": [
+    "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 81 # Comments: 105"
+   ],
+   "source": "Hacker News",
+   "url": "https://minimaxir.com/2026/10/cheap-llms/",
+   "image": null,
+   "published_at": "2026-10-25T21:11:31Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ae2ca87a8fe4ebad1b6df6722c9d9f2c1de844a7",
+   "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
+   "summary": [
+    "Article URL: https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/ Comments URL: https://news.ycombinator.com/item?id=50236081 Points: 183 # Comments: 79"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+   "image": null,
+   "published_at": "2026-10-25T21:08:28Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "27bbc3c05afbffd3c241aa9f1ca368009cbaafb0",
    "title": "The State of Context Engineering",
    "summary": [
-    "Article URL: https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html Comments URL: https://news.ycombinator.com/item?id=50235780 Points: 3 # Comments: 0"
+    "Article URL: https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html Comments URL: https://news.ycombinator.com/item?id=50235780 Points: 58 # Comments: 12"
    ],
    "source": "Hacker News",
    "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
@@ -58,7 +110,7 @@
    "id": "ae9bbece165722a6dd341a2e4ec7bc485528767d",
    "title": "What goes into making an animated film?",
    "summary": [
-    "Article URL: https://www.disneyanimation.com/process/ Comments URL: https://news.ycombinator.com/item?id=50235738 Points: 16 # Comments: 6"
+    "Article URL: https://www.disneyanimation.com/process/ Comments URL: https://news.ycombinator.com/item?id=50235738 Points: 71 # Comments: 31"
    ],
    "source": "Hacker News",
    "url": "https://www.disneyanimation.com/process/",
@@ -81,10 +133,23 @@
    "related": []
   },
   {
+   "id": "2e0859405bae082ae7b4974a97c150181be55dc4",
+   "title": "Focused Company Operating Principles",
+   "summary": [
+    "Article URL: https://focused.io/operating-principles Comments URL: https://news.ycombinator.com/item?id=50235639 Points: 15 # Comments: 2"
+   ],
+   "source": "Hacker News",
+   "url": "https://focused.io/operating-principles",
+   "image": null,
+   "published_at": "2026-10-25T20:16:51Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "bb292756bb5dc8736a81250f0e27414163a4a203",
    "title": "Eunice is almost here",
    "summary": [
-    "Article URL: https://armincat.com/articles/eunice-is-almost-here Comments URL: https://news.ycombinator.com/item?id=50235316 Points: 34 # Comments: 27"
+    "Article URL: https://armincat.com/articles/eunice-is-almost-here Comments URL: https://news.ycombinator.com/item?id=50235316 Points: 55 # Comments: 47"
    ],
    "source": "Hacker News",
    "url": "https://armincat.com/articles/eunice-is-almost-here",
@@ -94,41 +159,15 @@
    "related": [
     {
      "source": "Hacker News",
-     "url": "https://focused.io/operating-principles"
+     "url": "https://proton.me/flock-camera-map"
     }
    ]
-  },
-  {
-   "id": "95f235603e5b7192a2916b0f9ee5801bc0c80376",
-   "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
-   "summary": [
-    "Article URL: https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/ Comments URL: https://news.ycombinator.com/item?id=50235217 Points: 93 # Comments: 14"
-   ],
-   "source": "Hacker News",
-   "url": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
-   "image": null,
-   "published_at": "2026-10-25T19:29:16Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "d91f0b108ecfb36f68dd0a1e000a856602f0069d",
-   "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
-   "summary": [
-    "Article URL: https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles Comments URL: https://news.ycombinator.com/item?id=50235010 Points: 24 # Comments: 0"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
-   "image": null,
-   "published_at": "2026-10-25T19:10:36Z",
-   "category": "tech",
-   "related": []
   },
   {
    "id": "04b7086ca02a1e02c5fda24c7c153896f802d16d",
    "title": "Where the Romans Fought (interactive map)",
    "summary": [
-    "Article URL: https://iosiflazaridis.github.io/battles-of-the-romans/ Comments URL: https://news.ycombinator.com/item?id=50234879 Points: 8 # Comments: 1"
+    "Article URL: https://iosiflazaridis.github.io/battles-of-the-romans/ Comments URL: https://news.ycombinator.com/item?id=50234879 Points: 34 # Comments: 11"
    ],
    "source": "Hacker News",
    "url": "https://iosiflazaridis.github.io/battles-of-the-romans/",
@@ -166,23 +205,10 @@
    "related": []
   },
   {
-   "id": "d7598384e630ba6fbee456c25bc641b19bddfd33",
-   "title": "All you need is Wide Events, not \"Metrics, Logs and Traces\"",
-   "summary": [
-    "Article URL: https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics Comments URL: https://news.ycombinator.com/item?id=50234329 Points: 52 # Comments: 13"
-   ],
-   "source": "Hacker News",
-   "url": "https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics",
-   "image": null,
-   "published_at": "2026-10-25T18:11:38Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "ba8662066c8993297ab0baad0ed1f2459472f1fa",
    "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
    "summary": [
-    "Article URL: https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/ Comments URL: https://news.ycombinator.com/item?id=50234232 Points: 253 # Comments: 63"
+    "Article URL: https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/ Comments URL: https://news.ycombinator.com/item?id=50234232 Points: 350 # Comments: 86"
    ],
    "source": "Hacker News",
    "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
@@ -195,7 +221,7 @@
    "id": "a800da3117590f034eef263aff0d091e472b4969",
    "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
    "summary": [
-    "Article URL: https://talkweb.eu/openweb/4558/ Comments URL: https://news.ycombinator.com/item?id=50233929 Points: 282 # Comments: 148"
+    "Article URL: https://talkweb.eu/openweb/4558/ Comments URL: https://news.ycombinator.com/item?id=50233929 Points: 366 # Comments: 180"
    ],
    "source": "Hacker News",
    "url": "https://talkweb.eu/openweb/4558/",
@@ -208,25 +234,12 @@
    "id": "1dc75a32fc6a65d3604d6f07708a6a4cf8951ef5",
    "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
    "summary": [
-    "Article URL: https://lynchlab.net/llm-skin-cancer Comments URL: https://news.ycombinator.com/item?id=50233779 Points: 306 # Comments: 158"
+    "Article URL: https://lynchlab.net/llm-skin-cancer Comments URL: https://news.ycombinator.com/item?id=50233779 Points: 387 # Comments: 184"
    ],
    "source": "Hacker News",
    "url": "https://lynchlab.net/llm-skin-cancer",
    "image": null,
    "published_at": "2026-10-25T17:15:38Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "a24706b0eebc7f4b25472ece544e1f839c879446",
-   "title": "Sabre Wulf Remastered",
-   "summary": [
-    "Article URL: https://gp-64.com/swr/ Comments URL: https://news.ycombinator.com/item?id=50233775 Points: 53 # Comments: 8"
-   ],
-   "source": "Hacker News",
-   "url": "https://gp-64.com/swr/",
-   "image": null,
-   "published_at": "2026-10-25T17:15:16Z",
    "category": "tech",
    "related": []
   },
@@ -247,7 +260,7 @@
    "id": "4b415143c1a54d53db1864aaae927b3176532ccb",
    "title": "UTS #39: Unicode Security Mechanisms",
    "summary": [
-    "Article URL: https://unicode.org/reports/tr39/ Comments URL: https://news.ycombinator.com/item?id=50233438 Points: 23 # Comments: 1"
+    "Article URL: https://unicode.org/reports/tr39/ Comments URL: https://news.ycombinator.com/item?id=50233438 Points: 31 # Comments: 7"
    ],
    "source": "Hacker News",
    "url": "https://unicode.org/reports/tr39/",
@@ -257,10 +270,23 @@
    "related": []
   },
   {
+   "id": "59ddf06fb26de586165a8e00064c33c6de4f6e02",
+   "title": "A mathematician reads the AI future",
+   "summary": [
+    "Article URL: https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/ Comments URL: https://news.ycombinator.com/item?id=50233347 Points: 44 # Comments: 62"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
+   "image": null,
+   "published_at": "2026-10-25T16:31:21Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "2af7003f0e2faf2b901d2c003c5eb5aa18787f7e",
    "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
    "summary": [
-    "Article URL: https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html Comments URL: https://news.ycombinator.com/item?id=50233304 Points: 154 # Comments: 236"
+    "Article URL: https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html Comments URL: https://news.ycombinator.com/item?id=50233304 Points: 185 # Comments: 267"
    ],
    "source": "Hacker News",
    "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
@@ -283,21 +309,6 @@
    "related": []
   },
   {
-   "id": "fbc3f8d5d89ff3e947e821331a6dada74851c0cb",
-   "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
-   "summary": [
-    "I was playing around with visualising the S&P 500 by market cap and decided to add employees to each company's bubble.What surprised me was how empty some of the biggest companies looked.Nvidia is worth $5.2 trillion but employs only 42,000 people.",
-    "Meanwhile, Accenture employs 814,000 people and is worth $146 billion.Each stick figure represents 10,000 employees.",
-    "You can zoom in and explore individual companies.I wrote a bit more about what I found here: https://bigwhalehunting.com/blog/workforce/Would be interested to hear what you think."
-   ],
-   "source": "Hacker News",
-   "url": "https://bigwhalehunting.com/workforce/",
-   "image": null,
-   "published_at": "2026-10-25T15:05:39Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "611184d5aa6fabe3d7214e2b387434ac811f0cb6",
    "title": "The hottest AI wearables and gadgets you should know about",
    "summary": [
@@ -314,7 +325,7 @@
    "id": "d909e7d0042441009907485d943b29f2fdabd815",
    "title": "Neighbours is being recut into a microdrama focused on Margot Robbie – and her co-stars aren’t happy",
    "summary": [
-    "Robbie’s storylines in the famous soap will be recut into vertical micro-episodes to be watched on phones – but her fellow cast members say they haven’t been consultedThe long-running Australian soap opera Neighbours is being recut with AI into a microdrama designed to be watched on phones, sparking a debate among the show’s actors and the industry over the wider implications of television archives being mined for new content.RoseBerry Media, which specialises in making “vertical television” for phones, has repurposed original episodes of Neighbours for distribution on its Epis platform, using an AI-assisted production tool called RedSnapper."
+    "Actor’s storylines in the famous soap will be recut into vertical micro-episodes to be watched on phones – but her fellow cast members say they haven’t been consultedThe long-running Australian soap opera Neighbours is being recut with AI into a microdrama designed to be watched on phones, sparking a debate among the show’s actors and the industry over the wider implications of television archives being mined for new content.RoseBerry Media, which specialises in making “vertical television” for phones, has repurposed original episodes of Neighbours for distribution on its Epis platform, using an AI-assisted production tool called RedSnapper."
    ],
    "source": "The Guardian",
    "url": "https://www.theguardian.com/tv-and-radio/2026/oct/26/neighbours-soap-recut-ai-microdrama-mobile-series-feat-margot-robbie",
@@ -327,25 +338,12 @@
    "id": "b788fc47bfc37b46df540662b83a2374bfe97250",
    "title": "Active incident at Dreamhost forcing password reset",
    "summary": [
-    "Article URL: https://www.dreamhoststatus.com/ Comments URL: https://news.ycombinator.com/item?id=50231166 Points: 82 # Comments: 32"
+    "Article URL: https://www.dreamhoststatus.com/ Comments URL: https://news.ycombinator.com/item?id=50231166 Points: 103 # Comments: 37"
    ],
    "source": "Hacker News",
    "url": "https://www.dreamhoststatus.com/",
    "image": null,
    "published_at": "2026-10-25T13:09:16Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "75f0e0e121c265b5aa8609d6c9a4b154aba7f345",
-   "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
-   "summary": [
-    "Article URL: https://github.com/ihhub/fheroes2 Comments URL: https://news.ycombinator.com/item?id=50230384 Points: 187 # Comments: 66"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/ihhub/fheroes2",
-   "image": null,
-   "published_at": "2026-10-25T11:09:12Z",
    "category": "tech",
    "related": []
   },
@@ -376,6 +374,19 @@
    "url": "https://www.theguardian.com/money/2026/oct/25/cookie-theft-how-fraudsters-get-the-digital-key-to-your-accounts",
    "image": "https://i.guim.co.uk/img/media/d704090ec1423450c012cae431933c0b4d4b1437/1425_927_4926_3943/master/4926.jpg?width=140&quality=85&auto=format&fit=max&s=900c5b114da3d3054d71f6f77be6e3db",
    "published_at": "2026-10-25T07:00:56Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "2325af3360e067168cf6af742b1faed065229386",
+   "title": "Cerebras Deploys Trillion-Parameter AI Models",
+   "summary": [
+    "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 348 # Comments: 127"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+   "image": null,
+   "published_at": "2026-10-25T01:33:49Z",
    "category": "tech",
    "related": []
   },
@@ -520,21 +531,6 @@
    "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
    "image": null,
    "published_at": "2026-10-24T14:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "6c7835bd7e9c0e09c8584580570a5bc159293328",
-   "title": "The datacentre next door: on the frontline of tech’s latest David v Goliath battle",
-   "summary": [
-    "The AI boom is pitting local residents against corporate giants seeking to power their energy-hungry networks – but one Welsh city is fighting backDale Johnston opens the gate to his neat suburban garden on the western fringes of Newport in South Wales.",
-    "There’s a trampoline and a slide on the lawn for his grandchildren, and chairs for him and his wife.",
-    "It is heralded by the area’s Labour politicians as a job creator, yet all Johnston can think about is what he has lost: “Before, the sun used to come around here and it was lovely.” The way residents have been treated is “disgusting”."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/oct/24/the-datacentre-next-door-on-the-frontline-of-techs-latest-david-v-goliath-battle",
-   "image": "https://i.guim.co.uk/img/media/0373ee73af80c68fd75a9ab321de66de4801ad27/865_0_5902_4724/master/5902.jpg?width=140&quality=85&auto=format&fit=max&s=5f523b9df1901844cac4ef7d3a723b2b",
-   "published_at": "2026-10-24T11:00:32Z",
    "category": "tech",
    "related": []
   }

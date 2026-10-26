@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-25T21:40:31.541543Z",
- "story_count": 28,
+ "generated_at": "2026-10-26T00:09:32.955124Z",
+ "story_count": 26,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -24,15 +24,28 @@
  },
  "stories": [
   {
+   "id": "1f233b7d5c6926e936f359f84e04c7877abaabf9",
+   "title": "Majority of homes in NI have power restored after Storm Boelo",
+   "summary": [
+    "Northern Ireland Electricity Networks (NIE) said around 12,500 properties were without power at one stage."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c84g10r00221o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-25T23:53:04Z",
+   "category": "science",
+   "related": []
+  },
+  {
    "id": "e9e1e104120fc4397e7c5ad173e0d264d8138c2b",
-   "title": "Man killed by falling tree as Storm Boelo leaves 160,000 properties without power",
+   "title": "Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power",
    "summary": [
     "An amber wind warning has now expired after severe weather sweeps across the UK."
    ],
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-10-25T21:30:15Z",
+   "published_at": "2026-10-25T22:24:16Z",
    "category": "science",
    "related": []
   },
@@ -59,19 +72,6 @@
    "url": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-25T21:09:58Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "1f233b7d5c6926e936f359f84e04c7877abaabf9",
-   "title": "Around 6000 still without power in NI and Republic after Storm Boelo",
-   "summary": [
-    "Around 470 incidents, including fallen trees and flooding, have been reported to the Department for Infrastructure."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c84g10r00221o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-25T20:15:55Z",
    "category": "science",
    "related": []
   },
@@ -379,33 +379,6 @@
    "url": "https://www.sciencedaily.com/releases/2026/10/261023023718.htm",
    "image": null,
    "published_at": "2026-10-24T12:12:03Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "fa4873ddcf4f324981bc6c7dace73a57cc313c79",
-   "title": "Scientists discover a hidden switch that burns fat and blocks new fat cells",
-   "summary": [
-    "Scientists have discovered that switching off a protein called Mitch makes human cells burn more fat and prevents new fat cells from developing.",
-    "The breakthrough builds on experiments in mice that showed remarkable resistance to obesity and improved muscular endurance, raising hopes for a new approach to weight-loss treatment."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261023002905.htm",
-   "image": null,
-   "published_at": "2026-10-24T11:16:08Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "fdc2c63ff75628155ac69b0ae4bd3557cd71be9d",
-   "title": "Wales plans to ban steel pylons as government launches consultation",
-   "summary": [
-    "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-24T10:04:29Z",
    "category": "science",
    "related": []
   }
