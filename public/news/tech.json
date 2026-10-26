@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-26T12:48:33.712173Z",
- "story_count": 27,
+ "generated_at": "2026-10-26T19:11:14.750818Z",
+ "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -24,15 +24,400 @@
  },
  "stories": [
   {
-   "id": "ca922d363a659396b2e6099cbbbf8d0c8f6cdd9d",
-   "title": "Tasks as Code: Move Your Tickets into the Repository",
+   "id": "5e41d0e1a60b1553c730cd432aae722db19d936c",
+   "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
    "summary": [
-    "Article URL: https://typemill.net/knowledge-hub/tasks-as-code Comments URL: https://news.ycombinator.com/item?id=50241924 Points: 3 # Comments: 2"
+    "Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?"
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
+   "image": null,
+   "published_at": "2026-10-26T18:59:52Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "736ec48b32ec10c6cb4de1d12c50d136922f7b02",
+   "title": "US designates helium as a critical material",
+   "summary": [
+    "Article URL: https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c Comments URL: https://news.ycombinator.com/item?id=50248665 Points: 14 # Comments: 3"
    ],
    "source": "Hacker News",
-   "url": "https://typemill.net/knowledge-hub/tasks-as-code",
+   "url": "https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c",
    "image": null,
-   "published_at": "2026-10-26T11:15:43Z",
+   "published_at": "2026-10-26T18:31:39Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "2693f45a7074e61487baf466a4e847e325e600cf",
+   "title": "Microsoft Announces Type Server Protocol, Extension of Language Server Protocol",
+   "summary": [
+    "Article URL: https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md Comments URL: https://news.ycombinator.com/item?id=50248371 Points: 31 # Comments: 7"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+   "image": null,
+   "published_at": "2026-10-26T18:14:49Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "1758535ac6be3e6bbbbd229f2163da1b6bc77452",
+   "title": "GPT-6.1 Terra",
+   "summary": [
+    "Article URL: https://openai.com/index/introducing-gpt-6-1-terra/ Comments URL: https://news.ycombinator.com/item?id=50248124 Points: 146 # Comments: 71"
+   ],
+   "source": "Hacker News",
+   "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+   "image": null,
+   "published_at": "2026-10-26T18:01:17Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "04d9c86d757ac8c19b3388450ac33690d4cbe1c7",
+   "title": "Oldest GUI application that still runs on Windows 11",
+   "summary": [
+    "Article URL: https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/ Comments URL: https://news.ycombinator.com/item?id=50248055 Points: 23 # Comments: 4"
+   ],
+   "source": "Hacker News",
+   "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+   "image": null,
+   "published_at": "2026-10-26T17:56:55Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "24063c118384e5ef8662368e9b8bb92047d694a9",
+   "title": "In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real",
+   "summary": [
+    "Article URL: https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/ Comments URL: https://news.ycombinator.com/item?id=50248005 Points: 24 # Comments: 7"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/",
+   "image": null,
+   "published_at": "2026-10-26T17:54:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "5e46d1c4b73a64de2f612fe901297539b7ecb877",
+   "title": "A Man from the Future: Why Johnny Can't Stop Abstracting",
+   "summary": [
+    "Article URL: http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html Comments URL: https://news.ycombinator.com/item?id=50247928 Points: 14 # Comments: 3"
+   ],
+   "source": "Hacker News",
+   "url": "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
+   "image": null,
+   "published_at": "2026-10-26T17:49:55Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "5383be2c86d285af6032c76282f005acac4c30e4",
+   "title": "This startup’s self-driving excavators help dig up $600M in new funding",
+   "summary": [
+    "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
+   "image": null,
+   "published_at": "2026-10-26T17:45:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "7573a633db37ec72eed662d862ebf266c4eea2a9",
+   "title": "ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems",
+   "summary": [
+    "Article URL: https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/ Comments URL: https://news.ycombinator.com/item?id=50247630 Points: 92 # Comments: 21"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.404media.co/chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems/",
+   "image": null,
+   "published_at": "2026-10-26T17:32:16Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "d23f0c84008b80f4e46c4b2b9957f28f3ba27e9e",
+   "title": "Should Police Wipe a Criminal's Cellphone Before Returning It?–U.S. vs. Stathas",
+   "summary": [
+    "Article URL: https://blog.ericgoldman.org/archives/2026/10/should-police-wipe-a-criminals-cellphone-before-returning-it-u-s-v-stathas.htm Comments URL: https://news.ycombinator.com/item?id=50247559 Points: 7 # Comments: 5"
+   ],
+   "source": "Hacker News",
+   "url": "https://blog.ericgoldman.org/archives/2026/10/should-police-wipe-a-criminals-cellphone-before-returning-it-u-s-v-stathas.htm",
+   "image": null,
+   "published_at": "2026-10-26T17:28:26Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "c05a01278409abc6803f83d55210729b4794b0ec",
+   "title": "Nietzschian Debugger",
+   "summary": [
+    "Article URL: https://github.com/DilawarShafiq/nietzschian-debugger Comments URL: https://news.ycombinator.com/item?id=50247493 Points: 31 # Comments: 16"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/DilawarShafiq/nietzschian-debugger",
+   "image": null,
+   "published_at": "2026-10-26T17:25:30Z",
+   "category": "tech",
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://css-tricks.com/css-tricks-has-a-new-owner/"
+    }
+   ]
+  },
+  {
+   "id": "2cc0598e6cc3473d207fa4a454c4cb38586341a7",
+   "title": "The Git Forge for Agent-Human Collaboration",
+   "summary": [
+    "Article URL: https://entire.com/blog/the-git-forge-for-agent-human-collaboration Comments URL: https://news.ycombinator.com/item?id=50247453 Points: 41 # Comments: 22"
+   ],
+   "source": "Hacker News",
+   "url": "https://entire.com/blog/the-git-forge-for-agent-human-collaboration",
+   "image": null,
+   "published_at": "2026-10-26T17:23:11Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a73085d1e7d542ef0864527061366947c2a68a00",
+   "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
+   "summary": [
+    "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-26T17:20:54Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "8d6b6f60f40a0ec4b6170df7dff17a703fc22a84",
+   "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+   "summary": [
+    "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+   "image": null,
+   "published_at": "2026-10-26T16:49:42Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "62326578878251f201e9f7f034cccea6bdb0d9d2",
+   "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+   "summary": [
+    "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday.",
+    "In a statement, SpaceX called it the “largest committed GPU financing” ever."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+   "image": null,
+   "published_at": "2026-10-26T16:46:36Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ce5ce5fc43fb095851a962aa1eef99d6b2bf6227",
+   "title": "Concerning behavior from a popular open-weight AI model",
+   "summary": [
+    "Article URL: https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model Comments URL: https://news.ycombinator.com/item?id=50246658 Points: 119 # Comments: 42"
+   ],
+   "source": "Hacker News",
+   "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+   "image": null,
+   "published_at": "2026-10-26T16:35:44Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "d6c62b3447491c16ee6a0fcbb212b7c669d93ec7",
+   "title": "Anthropic reveals rapid revenue gains and larger losses in stock market filing",
+   "summary": [
+    "Market debut of AI company behind Claude chatbot will be one of largest in US history, a test of the AI boom’s financial viabilityAnthropic has publicly filed for a stock market listing in what is slated to be one of the largest debuts in history.",
+    "The company’s float on the US market will serve as a test of the financial viability of the multitrillion-dollar AI boom.Analysts and investors have valued the San Francisco-based company, founded in 2021, at more than $1.5tn.",
+    "The company, which will will list under the symbol ANT, confidentially filed with US financial regulators for an initial public offering in June."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/oct/26/anthropic-files-listing-stock-market",
+   "image": "https://i.guim.co.uk/img/media/445e90b032229c54129ea99217bf19c2cdd0d1a3/315_0_4582_3666/master/4582.jpg?width=140&quality=85&auto=format&fit=max&s=76e41e6d4313a6be1c4ded280c3f071f",
+   "published_at": "2026-10-26T16:22:28Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "8ee34db73ef01283a5e041d1768670c3acb2b1ac",
+   "title": "Microsoft offers buyouts to around 60,000 employees",
+   "summary": [
+    "The buyout offers mark Microsoft's latest efforts to cut costs and rework its workforce."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
+   "image": null,
+   "published_at": "2026-10-26T15:58:25Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "22fd1d0b13226c4a5bb3555d12037295b1fcd944",
+   "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+   "summary": [
+    "Article URL: https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/ Comments URL: https://news.ycombinator.com/item?id=50245524 Points: 439 # Comments: 390"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
+   "image": null,
+   "published_at": "2026-10-26T15:35:12Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "d1a3b4fa5d93fb49d3ffb0461ed4419c6c113f01",
+   "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+   "summary": [
+    "Article URL: https://magazine.sebastianraschka.com/p/building-reasoning-models Comments URL: https://news.ycombinator.com/item?id=50245138 Points: 334 # Comments: 50"
+   ],
+   "source": "Hacker News",
+   "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+   "image": null,
+   "published_at": "2026-10-26T15:11:59Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "71a132adcb9b03ec945522cb393d88eaad728b06",
+   "title": "Partyline: A group voice application for Reticulum, built on LXST",
+   "summary": [
+    "Article URL: https://github.com/RFnexus/partyline Comments URL: https://news.ycombinator.com/item?id=50244583 Points: 32 # Comments: 11"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/RFnexus/partyline",
+   "image": null,
+   "published_at": "2026-10-26T14:42:24Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "7ca6b100a30f009334c28bd1ec0727f353305f99",
+   "title": "Anthropic officially files for its public debut",
+   "summary": [
+    "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+   "image": null,
+   "published_at": "2026-10-26T14:35:22Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "4c1ce39718adb5ee0597ba04a99c3b0c06920c09",
+   "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip",
+   "summary": [
+    "The new iPad mini features a thinner and lighter design than its predecessor."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/",
+   "image": null,
+   "published_at": "2026-10-26T14:25:43Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "e2145f4328476f1fd069675514515bf1c7593252",
+   "title": "Matiks raises $10M to expand its math and puzzle gaming platform",
+   "summary": [
+    "Matiks has introduced a new platform for users to create games using AI."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/",
+   "image": null,
+   "published_at": "2026-10-26T14:08:04Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "d7b6b5fce56b21ea09673052fb7b55eade7a174a",
+   "title": "Anthropic S-1",
+   "summary": [
+    "Article URL: https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm Comments URL: https://news.ycombinator.com/item?id=50242939 Points: 1183 # Comments: 1132"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+   "image": null,
+   "published_at": "2026-10-26T13:04:50Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "bcce0e72773f6ec04ab1314a5fca25365f82b783",
+   "title": "Fixing Tool-Call Accuracy in vLLM",
+   "summary": [
+    "Article URL: https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm Comments URL: https://news.ycombinator.com/item?id=50242870 Points: 125 # Comments: 64"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+   "image": null,
+   "published_at": "2026-10-26T12:59:48Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "c26e68729164966a5bdfbbfa970cfb0f15c42fe8",
+   "title": "Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)",
+   "summary": [
+    "Eligible Turo hosts will also get a one-month free trial of Tesla's FSD software."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/",
+   "image": null,
+   "published_at": "2026-10-26T12:58:40Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "6da005897fea9861034616b93423fdc3808af2e8",
+   "title": "Brown student maps the hidden global labor powering AI",
+   "summary": [
+    "Article URL: https://www.brown.edu/news/2026-10-26/ai-data-workers Comments URL: https://news.ycombinator.com/item?id=50242843 Points: 153 # Comments: 130"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
+   "image": null,
+   "published_at": "2026-10-26T12:58:27Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "6d7190f877b09911fb500207836538605bf962e4",
+   "title": "Pharo 14",
+   "summary": [
+    "Article URL: https://pharo.org/news/2026-10-26-Pharo14Release.html Comments URL: https://news.ycombinator.com/item?id=50241925 Points: 182 # Comments: 42"
+   ],
+   "source": "Hacker News",
+   "url": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
+   "image": null,
+   "published_at": "2026-10-26T11:15:50Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "79e3e3e646b1d4ad024686d767b98d8993a60733",
+   "title": "Anthropic’s Claude AI model accessed Georgia voter data in US",
+   "summary": [
+    "Claude accessed aggregate vote counts as part of a statistics project at Anthropic, which is preparing for a $1.5tn (£1.1tn) flotation."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/oct/26/anthropics-claude-ai-model-accessed-georgia-voter-data-in-us",
+   "image": "https://i.guim.co.uk/img/media/53e6ecce82d90c5106536d7c112f492e510cdf2b/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=e1b5db06b4c6c72fbb756aa29fbf914f",
+   "published_at": "2026-10-26T11:03:33Z",
    "category": "tech",
    "related": []
   },
@@ -40,77 +425,12 @@
    "id": "f32074034d76e374a75cc24cec1cf289d11b13ea",
    "title": "Websites Should Be Printable",
    "summary": [
-    "Article URL: https://brennenputh.me/blog/printable-websites/ Comments URL: https://news.ycombinator.com/item?id=50241664 Points: 41 # Comments: 21"
+    "Article URL: https://brennenputh.me/blog/printable-websites/ Comments URL: https://news.ycombinator.com/item?id=50241664 Points: 222 # Comments: 159"
    ],
    "source": "Hacker News",
    "url": "https://brennenputh.me/blog/printable-websites/",
    "image": null,
    "published_at": "2026-10-26T10:32:14Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "1c46105f3c5460da1d3db3ded5933156391fcc62",
-   "title": "Switzerland. Block by block. At 1:1 scale",
-   "summary": [
-    "Article URL: https://blocks.manifold3d.ch/ Comments URL: https://news.ycombinator.com/item?id=50240922 Points: 230 # Comments: 95"
-   ],
-   "source": "Hacker News",
-   "url": "https://blocks.manifold3d.ch/",
-   "image": null,
-   "published_at": "2026-10-26T08:46:09Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "0939610601df1d57627afa0f3aa666ed897734bb",
-   "title": "Behind the scenes at the NeXT Computer office",
-   "summary": [
-    "Article URL: https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry Comments URL: https://news.ycombinator.com/item?id=50238763 Points: 157 # Comments: 83"
-   ],
-   "source": "Hacker News",
-   "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
-   "image": null,
-   "published_at": "2026-10-26T03:31:11Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "38d74fada35475758ee866e835d0fde3201eb3e0",
-   "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
-   "summary": [
-    "Article URL: https://github.com/KrushnaVardhanReddy/PaperPilot Comments URL: https://news.ycombinator.com/item?id=50238739 Points: 169 # Comments: 59"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
-   "image": null,
-   "published_at": "2026-10-26T03:29:05Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "a2181227bfa360bf5f66bd93f73816b6fcfcd049",
-   "title": "Show HN: TitleArt – Make text like it's 1997",
-   "summary": [
-    "Article URL: https://titleart.dvy.io/ Comments URL: https://news.ycombinator.com/item?id=50238708 Points: 278 # Comments: 46"
-   ],
-   "source": "Hacker News",
-   "url": "https://titleart.dvy.io/",
-   "image": null,
-   "published_at": "2026-10-26T03:23:57Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "0fe639e321946d77299e10ab029d6c81fb5bcc57",
-   "title": "IBM CEO says open weight models are now good and cheap on-prem",
-   "summary": [
-    "Article URL: https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640 Comments URL: https://news.ycombinator.com/item?id=50238088 Points: 313 # Comments: 219"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
-   "image": null,
-   "published_at": "2026-10-26T01:47:46Z",
    "category": "tech",
    "related": []
   },
@@ -128,54 +448,15 @@
    "related": []
   },
   {
-   "id": "6adc91551f3b5ea5941f5877e1247897d7bc3968",
-   "title": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
+   "id": "03e91b2dcb779b9c37bd05f2053a898c1f4dea08",
+   "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
    "summary": [
-    "Article URL: https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category Comments URL: https://news.ycombinator.com/item?id=50237712 Points: 162 # Comments: 96"
+    "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact."
    ],
-   "source": "Hacker News",
-   "url": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-10-26T01:03:39Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "97641e483a4e5660bd565530f1b00c23d0ab96c5",
-   "title": "Steal My Bitcoin CTF PoC",
-   "summary": [
-    "Article URL: https://github.com/KillaBoi/StealMyBitcoin-PoC Comments URL: https://news.ycombinator.com/item?id=50237379 Points: 135 # Comments: 36"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
-   "image": null,
-   "published_at": "2026-10-26T00:15:17Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "82dace83258b73232e02e18f6c324d11e669d47f",
-   "title": "Attention Is Not What You Need (2025)",
-   "summary": [
-    "Article URL: https://arxiv.org/abs/2512.19428 Comments URL: https://news.ycombinator.com/item?id=50237224 Points: 139 # Comments: 46"
-   ],
-   "source": "Hacker News",
-   "url": "https://arxiv.org/abs/2512.19428",
-   "image": null,
-   "published_at": "2026-10-25T23:52:05Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "3be5a846bb100a06154e7bbb6f8b89e8d1922aa0",
-   "title": "F-Zero X on Nintendo 3DS",
-   "summary": [
-    "Article URL: https://hypnotize.works/gdx-3ds/postmortem/index.html Comments URL: https://news.ycombinator.com/item?id=50237078 Points: 134 # Comments: 74"
-   ],
-   "source": "Hacker News",
-   "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
-   "image": null,
-   "published_at": "2026-10-25T23:27:30Z",
+   "published_at": "2026-10-25T23:44:34Z",
    "category": "tech",
    "related": []
   },
@@ -193,37 +474,6 @@
    "related": []
   },
   {
-   "id": "c45c68dc9fe27319a2fa5d0add6b78dd9d68ee22",
-   "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-   "summary": [
-    "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 358 # Comments: 338"
-   ],
-   "source": "Hacker News",
-   "url": "https://minimaxir.com/2026/10/cheap-llms/",
-   "image": null,
-   "published_at": "2026-10-25T21:11:31Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "27bbc3c05afbffd3c241aa9f1ca368009cbaafb0",
-   "title": "The State of Context Engineering",
-   "summary": [
-    "Article URL: https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html Comments URL: https://news.ycombinator.com/item?id=50235780 Points: 207 # Comments: 50"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
-   "image": null,
-   "published_at": "2026-10-25T20:32:31Z",
-   "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html"
-    }
-   ]
-  },
-  {
    "id": "e105f7e534a6f21277a970d009cc254afd687f62",
    "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
    "summary": [
@@ -237,19 +487,6 @@
    "related": []
   },
   {
-   "id": "04b7086ca02a1e02c5fda24c7c153896f802d16d",
-   "title": "Where the Romans Fought (interactive map)",
-   "summary": [
-    "Article URL: https://iosiflazaridis.github.io/battles-of-the-romans/ Comments URL: https://news.ycombinator.com/item?id=50234879 Points: 120 # Comments: 48"
-   ],
-   "source": "Hacker News",
-   "url": "https://iosiflazaridis.github.io/battles-of-the-romans/",
-   "image": null,
-   "published_at": "2026-10-25T18:58:14Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "d3990852490cd50b88c4aafc54f7fe834c253409",
    "title": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
    "summary": [
@@ -259,34 +496,6 @@
    "url": "https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music",
    "image": "https://i.guim.co.uk/img/media/84aa6ec87e3e6db19123ab53bff1786594581607/0_358_2832_2265/master/2832.jpg?width=140&quality=85&auto=format&fit=max&s=b314d5ff58cb339d8ba3616e98aa3000",
    "published_at": "2026-10-25T18:25:59Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "89e06d81e035773e874b16087863c67464a33c9c",
-   "title": "Dolly Parton's Imagination Library",
-   "summary": [
-    "With today's news, I thought I'd share this great program:“When I was growing up in the hills of East Tennessee, I knew my dreams would come true.",
-    "I know there are children in your community with their own dreams.",
-    "They dream of becoming a doctor or an inventor or a minister."
-   ],
-   "source": "Hacker News",
-   "url": "https://imaginationlibrary.com/",
-   "image": null,
-   "published_at": "2026-10-25T18:23:54Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "1dc75a32fc6a65d3604d6f07708a6a4cf8951ef5",
-   "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-   "summary": [
-    "Article URL: https://lynchlab.net/llm-skin-cancer Comments URL: https://news.ycombinator.com/item?id=50233779 Points: 586 # Comments: 250"
-   ],
-   "source": "Hacker News",
-   "url": "https://lynchlab.net/llm-skin-cancer",
-   "image": null,
-   "published_at": "2026-10-25T17:15:38Z",
    "category": "tech",
    "related": []
   },
@@ -339,47 +548,6 @@
    "url": "https://www.theguardian.com/australia-news/2026/oct/26/deloitte-report-wa-university-mergers-260m-discrepancy-ai",
    "image": "https://i.guim.co.uk/img/media/515a0bf6dc96a2183fa9f4bc90a2fbeac2d91271/391_144_3112_2491/master/3112.jpg?width=140&quality=85&auto=format&fit=max&s=3d13b211c9f4e75a81e2b1dca6ac93df",
    "published_at": "2026-10-25T14:00:06Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "b788fc47bfc37b46df540662b83a2374bfe97250",
-   "title": "Active incident at Dreamhost forcing password reset",
-   "summary": [
-    "Article URL: https://www.dreamhoststatus.com/ Comments URL: https://news.ycombinator.com/item?id=50231166 Points: 159 # Comments: 62"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.dreamhoststatus.com/",
-   "image": null,
-   "published_at": "2026-10-25T13:09:16Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "d256634beeaeddf9ad3c8ea5bf0829e6cabdce17",
-   "title": "Lara Croft is 30! We look at the video game icon’s biggest blunders",
-   "summary": [
-    "We all know the highlights of the tomb raider’s storied career – but what about the lowlights?",
-    "More than 100 million Tomb Raider games have been sold since.",
-    "We all remember the good times: the bold design and sheer playability of the original titles; the establishment of Lara as a 90s icon, embodying both lads’ mag culture and girl power; the way she made games cool, even appearing on the cover of the Face."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/games/2026/oct/25/lara-croft-is-30-we-look-at-the-video-game-icons-biggest-blunders",
-   "image": "https://i.guim.co.uk/img/media/52d12c6f6e9a9ca0bfdbcedb816f2d4b81c60040/263_0_2698_2160/master/2698.jpg?width=140&quality=85&auto=format&fit=max&s=29ebe3d7dc5f2777dc2a280789f5176a",
-   "published_at": "2026-10-25T10:00:01Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "68e16cd5b49c2854b48e3c1f2532cd1d9b8927b7",
-   "title": "Show HN: A Truly Modular Keyboard",
-   "summary": [
-    "Article URL: https://github.com/notaroomba/keybytes Comments URL: https://news.ycombinator.com/item?id=50228115 Points: 190 # Comments: 65"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/notaroomba/keybytes",
-   "image": null,
-   "published_at": "2026-10-25T03:47:56Z",
    "category": "tech",
    "related": []
   }
