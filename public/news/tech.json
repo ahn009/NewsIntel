@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-26T00:09:32.954275Z",
- "story_count": 38,
+ "generated_at": "2026-10-26T06:01:22.814035Z",
+ "story_count": 34,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -24,15 +24,171 @@
  },
  "stories": [
   {
-   "id": "03e91b2dcb779b9c37bd05f2053a898c1f4dea08",
-   "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+   "id": "33befcf227566bffa7763b2f03e33d99e690595d",
+   "title": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management",
    "summary": [
-    "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact."
+    "Article URL: https://proc-cli.com/ Comments URL: https://news.ycombinator.com/item?id=50239041 Points: 4 # Comments: 0"
    ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
+   "source": "Hacker News",
+   "url": "https://proc-cli.com/",
    "image": null,
-   "published_at": "2026-10-25T23:44:34Z",
+   "published_at": "2026-10-26T04:14:35Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "1bb180ff27723496719e45681f519f71122424da",
+   "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
+   "summary": [
+    "Article URL: https://contraptions.venkateshrao.com/p/cognitive-mercantilism Comments URL: https://news.ycombinator.com/item?id=50239027 Points: 4 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
+   "image": null,
+   "published_at": "2026-10-26T04:11:40Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "0939610601df1d57627afa0f3aa666ed897734bb",
+   "title": "Behind the scenes at the NeXT Computer office",
+   "summary": [
+    "Article URL: https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry Comments URL: https://news.ycombinator.com/item?id=50238763 Points: 46 # Comments: 18"
+   ],
+   "source": "Hacker News",
+   "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
+   "image": null,
+   "published_at": "2026-10-26T03:31:11Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "38d74fada35475758ee866e835d0fde3201eb3e0",
+   "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
+   "summary": [
+    "Article URL: https://github.com/KrushnaVardhanReddy/PaperPilot Comments URL: https://news.ycombinator.com/item?id=50238739 Points: 50 # Comments: 7"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+   "image": null,
+   "published_at": "2026-10-26T03:29:05Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a2181227bfa360bf5f66bd93f73816b6fcfcd049",
+   "title": "Show HN: TitleArt – Make text like it's 1997",
+   "summary": [
+    "Article URL: https://titleart.dvy.io/ Comments URL: https://news.ycombinator.com/item?id=50238708 Points: 73 # Comments: 14"
+   ],
+   "source": "Hacker News",
+   "url": "https://titleart.dvy.io/",
+   "image": null,
+   "published_at": "2026-10-26T03:23:57Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "9759a34338b6a72cde7b7b69cea301e0e234c982",
+   "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
+   "summary": [
+    "Article URL: https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/ Comments URL: https://news.ycombinator.com/item?id=50238620 Points: 24 # Comments: 8"
+   ],
+   "source": "Hacker News",
+   "url": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
+   "image": null,
+   "published_at": "2026-10-26T03:12:05Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "0fe639e321946d77299e10ab029d6c81fb5bcc57",
+   "title": "IBM CEO says open weight models are now good and cheap on-prem",
+   "summary": [
+    "Article URL: https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640 Comments URL: https://news.ycombinator.com/item?id=50238088 Points: 125 # Comments: 80"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+   "image": null,
+   "published_at": "2026-10-26T01:47:46Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ba7ccac6f9244da1741769c0715f5be595d57ffb",
+   "title": "iPhone Duo Teardown",
+   "summary": [
+    "Article URL: https://www.ifixit.com/News/119895/iphone-duo-teardown Comments URL: https://news.ycombinator.com/item?id=50237896 Points: 93 # Comments: 54"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.ifixit.com/News/119895/iphone-duo-teardown",
+   "image": null,
+   "published_at": "2026-10-26T01:23:24Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "7f821c66192981b615f0ad30bbf1b2c08ea07c3b",
+   "title": "The best apps for tracking your reading and discovering new books",
+   "summary": [
+    "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+   "image": null,
+   "published_at": "2026-10-26T01:10:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "6adc91551f3b5ea5941f5877e1247897d7bc3968",
+   "title": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
+   "summary": [
+    "Article URL: https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category Comments URL: https://news.ycombinator.com/item?id=50237712 Points: 91 # Comments: 46"
+   ],
+   "source": "Hacker News",
+   "url": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
+   "image": null,
+   "published_at": "2026-10-26T01:03:39Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "f230424bd0509f80880a90f26452fdb8060a61c0",
+   "title": "Lula wins election after final votes tallied",
+   "summary": [
+    "Article URL: https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/ Comments URL: https://news.ycombinator.com/item?id=50237485 Points: 285 # Comments: 273"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/",
+   "image": null,
+   "published_at": "2026-10-26T00:31:07Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "97641e483a4e5660bd565530f1b00c23d0ab96c5",
+   "title": "Steal My Bitcoin CTF PoC",
+   "summary": [
+    "Article URL: https://github.com/KillaBoi/StealMyBitcoin-PoC Comments URL: https://news.ycombinator.com/item?id=50237379 Points: 60 # Comments: 10"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+   "image": null,
+   "published_at": "2026-10-26T00:15:17Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "82dace83258b73232e02e18f6c324d11e669d47f",
+   "title": "Attention Is Not What You Need (2025)",
+   "summary": [
+    "Article URL: https://arxiv.org/abs/2512.19428 Comments URL: https://news.ycombinator.com/item?id=50237224 Points: 65 # Comments: 24"
+   ],
+   "source": "Hacker News",
+   "url": "https://arxiv.org/abs/2512.19428",
+   "image": null,
+   "published_at": "2026-10-25T23:52:05Z",
    "category": "tech",
    "related": []
   },
@@ -40,7 +196,7 @@
    "id": "3be5a846bb100a06154e7bbb6f8b89e8d1922aa0",
    "title": "F-Zero X on Nintendo 3DS",
    "summary": [
-    "Article URL: https://hypnotize.works/gdx-3ds/postmortem/index.html Comments URL: https://news.ycombinator.com/item?id=50237078 Points: 5 # Comments: 1"
+    "Article URL: https://hypnotize.works/gdx-3ds/postmortem/index.html Comments URL: https://news.ycombinator.com/item?id=50237078 Points: 91 # Comments: 44"
    ],
    "source": "Hacker News",
    "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
@@ -66,7 +222,7 @@
    "id": "c45c68dc9fe27319a2fa5d0add6b78dd9d68ee22",
    "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
    "summary": [
-    "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 81 # Comments: 105"
+    "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 235 # Comments: 260"
    ],
    "source": "Hacker News",
    "url": "https://minimaxir.com/2026/10/cheap-llms/",
@@ -76,23 +232,10 @@
    "related": []
   },
   {
-   "id": "ae2ca87a8fe4ebad1b6df6722c9d9f2c1de844a7",
-   "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
-   "summary": [
-    "Article URL: https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/ Comments URL: https://news.ycombinator.com/item?id=50236081 Points: 183 # Comments: 79"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
-   "image": null,
-   "published_at": "2026-10-25T21:08:28Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "27bbc3c05afbffd3c241aa9f1ca368009cbaafb0",
    "title": "The State of Context Engineering",
    "summary": [
-    "Article URL: https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html Comments URL: https://news.ycombinator.com/item?id=50235780 Points: 58 # Comments: 12"
+    "Article URL: https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html Comments URL: https://news.ycombinator.com/item?id=50235780 Points: 134 # Comments: 37"
    ],
    "source": "Hacker News",
    "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
@@ -110,7 +253,7 @@
    "id": "ae9bbece165722a6dd341a2e4ec7bc485528767d",
    "title": "What goes into making an animated film?",
    "summary": [
-    "Article URL: https://www.disneyanimation.com/process/ Comments URL: https://news.ycombinator.com/item?id=50235738 Points: 71 # Comments: 31"
+    "Article URL: https://www.disneyanimation.com/process/ Comments URL: https://news.ycombinator.com/item?id=50235738 Points: 122 # Comments: 51"
    ],
    "source": "Hacker News",
    "url": "https://www.disneyanimation.com/process/",
@@ -129,50 +272,6 @@
    "url": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
    "image": null,
    "published_at": "2026-10-25T20:20:08Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "2e0859405bae082ae7b4974a97c150181be55dc4",
-   "title": "Focused Company Operating Principles",
-   "summary": [
-    "Article URL: https://focused.io/operating-principles Comments URL: https://news.ycombinator.com/item?id=50235639 Points: 15 # Comments: 2"
-   ],
-   "source": "Hacker News",
-   "url": "https://focused.io/operating-principles",
-   "image": null,
-   "published_at": "2026-10-25T20:16:51Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "bb292756bb5dc8736a81250f0e27414163a4a203",
-   "title": "Eunice is almost here",
-   "summary": [
-    "Article URL: https://armincat.com/articles/eunice-is-almost-here Comments URL: https://news.ycombinator.com/item?id=50235316 Points: 55 # Comments: 47"
-   ],
-   "source": "Hacker News",
-   "url": "https://armincat.com/articles/eunice-is-almost-here",
-   "image": null,
-   "published_at": "2026-10-25T19:40:27Z",
-   "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "https://proton.me/flock-camera-map"
-    }
-   ]
-  },
-  {
-   "id": "04b7086ca02a1e02c5fda24c7c153896f802d16d",
-   "title": "Where the Romans Fought (interactive map)",
-   "summary": [
-    "Article URL: https://iosiflazaridis.github.io/battles-of-the-romans/ Comments URL: https://news.ycombinator.com/item?id=50234879 Points: 34 # Comments: 11"
-   ],
-   "source": "Hacker News",
-   "url": "https://iosiflazaridis.github.io/battles-of-the-romans/",
-   "image": null,
-   "published_at": "2026-10-25T18:58:14Z",
    "category": "tech",
    "related": []
   },
@@ -205,28 +304,15 @@
    "related": []
   },
   {
-   "id": "ba8662066c8993297ab0baad0ed1f2459472f1fa",
-   "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+   "id": "dea01e36232fa18fa4d294b452c51e8656097677",
+   "title": "Learning to Be Me (1990) [pdf]",
    "summary": [
-    "Article URL: https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/ Comments URL: https://news.ycombinator.com/item?id=50234232 Points: 350 # Comments: 86"
+    "Article URL: https://gwern.net/doc/fiction/science-fiction/1995-egan.pdf Comments URL: https://news.ycombinator.com/item?id=50234028 Points: 7 # Comments: 2"
    ],
    "source": "Hacker News",
-   "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+   "url": "https://gwern.net/doc/fiction/science-fiction/1995-egan.pdf",
    "image": null,
-   "published_at": "2026-10-25T18:04:11Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "a800da3117590f034eef263aff0d091e472b4969",
-   "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
-   "summary": [
-    "Article URL: https://talkweb.eu/openweb/4558/ Comments URL: https://news.ycombinator.com/item?id=50233929 Points: 366 # Comments: 180"
-   ],
-   "source": "Hacker News",
-   "url": "https://talkweb.eu/openweb/4558/",
-   "image": null,
-   "published_at": "2026-10-25T17:30:55Z",
+   "published_at": "2026-10-25T17:43:20Z",
    "category": "tech",
    "related": []
   },
@@ -234,7 +320,7 @@
    "id": "1dc75a32fc6a65d3604d6f07708a6a4cf8951ef5",
    "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
    "summary": [
-    "Article URL: https://lynchlab.net/llm-skin-cancer Comments URL: https://news.ycombinator.com/item?id=50233779 Points: 387 # Comments: 184"
+    "Article URL: https://lynchlab.net/llm-skin-cancer Comments URL: https://news.ycombinator.com/item?id=50233779 Points: 504 # Comments: 227"
    ],
    "source": "Hacker News",
    "url": "https://lynchlab.net/llm-skin-cancer",
@@ -253,45 +339,6 @@
    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
    "image": null,
    "published_at": "2026-10-25T16:57:32Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "4b415143c1a54d53db1864aaae927b3176532ccb",
-   "title": "UTS #39: Unicode Security Mechanisms",
-   "summary": [
-    "Article URL: https://unicode.org/reports/tr39/ Comments URL: https://news.ycombinator.com/item?id=50233438 Points: 31 # Comments: 7"
-   ],
-   "source": "Hacker News",
-   "url": "https://unicode.org/reports/tr39/",
-   "image": null,
-   "published_at": "2026-10-25T16:40:37Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "59ddf06fb26de586165a8e00064c33c6de4f6e02",
-   "title": "A mathematician reads the AI future",
-   "summary": [
-    "Article URL: https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/ Comments URL: https://news.ycombinator.com/item?id=50233347 Points: 44 # Comments: 62"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
-   "image": null,
-   "published_at": "2026-10-25T16:31:21Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "2af7003f0e2faf2b901d2c003c5eb5aa18787f7e",
-   "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-   "summary": [
-    "Article URL: https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html Comments URL: https://news.ycombinator.com/item?id=50233304 Points: 185 # Comments: 267"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-   "image": null,
-   "published_at": "2026-10-25T16:28:26Z",
    "category": "tech",
    "related": []
   },
@@ -322,6 +369,19 @@
    "related": []
   },
   {
+   "id": "bb7c1e3b8be879207370efc6d82e8e9dd7bfc03f",
+   "title": "‘Extremely disappointed’: WA government seeks reimbursement from Deloitte over flawed university report",
+   "summary": [
+    "State paid consultancy firm $166,000 for feasibility study on merging the three tertiary institutionsGet our breaking news email, free app or daily news podcastThe Western Australian government has said it is “extremely disappointed” and is seeking an “expedited” cost recovery from Deloitte after errors were discovered in a report about a potential university merger, including AI-hallucinated references and hundreds of millions of dollars in cost discrepancies.The government paid Deloitte $166,000 for a feasibility study on merging the University of Western Australia, Curtin University and Murdoch University."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/oct/26/deloitte-report-wa-university-mergers-260m-discrepancy-ai",
+   "image": "https://i.guim.co.uk/img/media/515a0bf6dc96a2183fa9f4bc90a2fbeac2d91271/391_144_3112_2491/master/3112.jpg?width=140&quality=85&auto=format&fit=max&s=3d13b211c9f4e75a81e2b1dca6ac93df",
+   "published_at": "2026-10-25T14:00:06Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "d909e7d0042441009907485d943b29f2fdabd815",
    "title": "Neighbours is being recut into a microdrama focused on Margot Robbie – and her co-stars aren’t happy",
    "summary": [
@@ -331,19 +391,6 @@
    "url": "https://www.theguardian.com/tv-and-radio/2026/oct/26/neighbours-soap-recut-ai-microdrama-mobile-series-feat-margot-robbie",
    "image": "https://i.guim.co.uk/img/media/d850e2558a1a7a06e667ee3f5cb1123b8775f401/189_38_3166_2534/master/3166.jpg?width=140&quality=85&auto=format&fit=max&s=fe1cb9d1d4badba3ae6fe42f103a214a",
    "published_at": "2026-10-25T14:00:06Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "b788fc47bfc37b46df540662b83a2374bfe97250",
-   "title": "Active incident at Dreamhost forcing password reset",
-   "summary": [
-    "Article URL: https://www.dreamhoststatus.com/ Comments URL: https://news.ycombinator.com/item?id=50231166 Points: 103 # Comments: 37"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.dreamhoststatus.com/",
-   "image": null,
-   "published_at": "2026-10-25T13:09:16Z",
    "category": "tech",
    "related": []
   },
@@ -374,19 +421,6 @@
    "url": "https://www.theguardian.com/money/2026/oct/25/cookie-theft-how-fraudsters-get-the-digital-key-to-your-accounts",
    "image": "https://i.guim.co.uk/img/media/d704090ec1423450c012cae431933c0b4d4b1437/1425_927_4926_3943/master/4926.jpg?width=140&quality=85&auto=format&fit=max&s=900c5b114da3d3054d71f6f77be6e3db",
    "published_at": "2026-10-25T07:00:56Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "2325af3360e067168cf6af742b1faed065229386",
-   "title": "Cerebras Deploys Trillion-Parameter AI Models",
-   "summary": [
-    "Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 348 # Comments: 127"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-   "image": null,
-   "published_at": "2026-10-25T01:33:49Z",
    "category": "tech",
    "related": []
   },
@@ -440,97 +474,6 @@
    "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
    "image": null,
    "published_at": "2026-10-24T19:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "508ed5afff2009a0e8525dd65f97e7ddc9937663",
-   "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
-   "summary": [
-    "Instacart might sell itself to a larger competitor."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
-   "image": null,
-   "published_at": "2026-10-24T16:30:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "688136660c106304b5046a5ebd37c3f3c722af5b",
-   "title": "Block’s new voice model sounds eerily human",
-   "summary": [
-    "Block said that the voice model can run locally on a MacBook M4 Max"
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-   "image": null,
-   "published_at": "2026-10-24T16:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "7e6031d0571a852b2a72d77d6b5bd602535c5fca",
-   "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
-   "summary": [
-    "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
-   "image": null,
-   "published_at": "2026-10-24T15:30:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "1b69ea9ef4ce4fa9122bdaa1c857872e1d757639",
-   "title": "These clever apps show off the iPhone Duo’s potential",
-   "summary": [
-    "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
-   "image": null,
-   "published_at": "2026-10-24T15:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "e4ac1d3f295acd6002b61261949e9040b5dc3cd2",
-   "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-   "summary": [
-    "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-   "image": null,
-   "published_at": "2026-10-24T15:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "e0f9c91b3506e0a6fb3ee603a83d4143a8b161de",
-   "title": "The Boox Palma 2 Pro finally got me to stop reading on my phone",
-   "summary": [
-    "The $400 Boox Palma 2 Pro is a smartphone-sized e-reader designed for people who want to read books, articles, and documents on a small E Ink display."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/",
-   "image": null,
-   "published_at": "2026-10-24T14:15:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "4a535eced667a36f30fd5e8875815af9caf74149",
-   "title": "Here are the top AI agents that can live in your text messages",
-   "summary": [
-    "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-   "image": null,
-   "published_at": "2026-10-24T14:00:00Z",
    "category": "tech",
    "related": []
   }

@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-26T00:09:32.954856Z",
- "story_count": 8,
+ "generated_at": "2026-10-26T06:01:22.814646Z",
+ "story_count": 10,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,32 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "cccc77875e3375107e78d493afad2dd08a99a0a6",
+   "title": "What is the Budget and what could be in it?",
+   "summary": [
+    "Chancellor John Healey will set out his plans for UK taxes on 28 October."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-26T02:16:37Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "5c8e7931e99b24289e0f39b3467ea2334bdfa580",
+   "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+   "summary": [
+    "The economic is positive now but come January things could become trickier for the Labour government"
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-26T00:26:49Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "177ee20d981065d66bbb6830074ff55721bc77dc",
    "title": "Budget to include £1bn for social and affordable housing",

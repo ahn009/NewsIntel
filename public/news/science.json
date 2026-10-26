@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-26T00:09:32.955124Z",
- "story_count": 26,
+ "generated_at": "2026-10-26T06:01:22.814976Z",
+ "story_count": 20,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -24,6 +24,32 @@
  },
  "stories": [
   {
+   "id": "e9e1e104120fc4397e7c5ad173e0d264d8138c2b",
+   "title": "Two men killed by falling trees as Storm Boelo leaves 90,000 properties without power",
+   "summary": [
+    "An amber wind warning has now expired after severe weather sweeps across the UK."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-26T04:41:36Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "246e0ecd529cbffde14697c8427a46ce1ff5bde4",
+   "title": "From agriculture to AI-griculture: How tech is changing farming",
+   "summary": [
+    "From remote monitoring of cattle to automation of processes that took up valuable time, farmers in NI are rapidly becoming skilled in technology."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cw80zk9k51j1o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-26T00:13:09Z",
+   "category": "science",
+   "related": []
+  },
+  {
    "id": "1f233b7d5c6926e936f359f84e04c7877abaabf9",
    "title": "Majority of homes in NI have power restored after Storm Boelo",
    "summary": [
@@ -33,19 +59,6 @@
    "url": "https://www.bbc.co.uk/news/articles/c84g10r00221o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-25T23:53:04Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "e9e1e104120fc4397e7c5ad173e0d264d8138c2b",
-   "title": "Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power",
-   "summary": [
-    "An amber wind warning has now expired after severe weather sweeps across the UK."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-25T22:24:16Z",
    "category": "science",
    "related": []
   },
@@ -279,106 +292,6 @@
    "url": "https://www.sciencedaily.com/releases/2026/10/261023023731.htm",
    "image": null,
    "published_at": "2026-10-25T02:19:07Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "bd54f664fa38c6fe2fe6589bb5c6830b90595108",
-   "title": "Amber weather warning as Storm Boelo hits Scotland",
-   "summary": [
-    "The Met Office has issued an amber warning for wind over Scotland from 21:00 until 21:00 on Sunday."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/cmqlnkq6p6y7o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-24T14:40:18Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "955bb774840e3d987c557e792a62389fcda157d6",
-   "title": "Could lowering high blood pressure be as simple as stimulating your ear?",
-   "summary": [
-    "A small device that gently stimulates nerves through the ear could offer a new way to tackle stubborn high blood pressure.",
-    "In a clinical trial of 63 patients already taking medication, the treatment proved safe, easy to use at home, and well tolerated.",
-    "Although it did not significantly outperform a placebo overall, patients with more severe hypertension showed promising reductions in blood pressure."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261023023732.htm",
-   "image": null,
-   "published_at": "2026-10-24T13:15:00Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "52e06179059e354d897dbffd31cce5bfa2e22176",
-   "title": "A hidden bias in human language challenges 70 years of science",
-   "summary": [
-    "A groundbreaking study challenges 70 years of assumptions about how human language works.",
-    "By analyzing billions of word uses, scientists discovered that meaning is organized around power, danger, and order rather than emotion alone.",
-    "Even more surprisingly, human language shows a powerful hidden preference for safety, suggesting that our words may reflect ancient survival instincts."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261023023738.htm",
-   "image": null,
-   "published_at": "2026-10-24T13:01:22Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "f72a1962627e4fb38dc4f8325df7b8af983c1448",
-   "title": "NASA’s asteroid Bennu samples reveal a 4.5-billion-year-old secret",
-   "summary": [
-    "Tiny samples from asteroid Bennu are rewriting scientists' understanding of how our Solar System formed.",
-    "New evidence suggests that Bennu was born where material from the inner and outer Solar System mixed, with Jupiter playing a surprising role in shaping its formation."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261023023734.htm",
-   "image": null,
-   "published_at": "2026-10-24T12:50:06Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "fb16112888abe885dd195575c7da32e8916cc66b",
-   "title": "Scientists propose a way to detect dangerous “mirror life” before it exists",
-   "summary": [
-    "Scientists have proposed a way to detect “mirror life,” a hypothetical form of life that could pose serious risks to humans, animals, and ecosystems if artificially created.",
-    "Using special fluorescent molecules and a type of polarized light also used in 3D movie technology, researchers believe they could distinguish ordinary organisms from their mirror-image counterparts."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261023023726.htm",
-   "image": null,
-   "published_at": "2026-10-24T12:39:16Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "a074e23fb0ed2b3ae4c355ded78c9e52d5734edc",
-   "title": "Astronomers uncover a mysterious magnetic web above the Sun",
-   "summary": [
-    "The Sun’s seemingly peaceful regions are hiding a surprisingly complex magnetic world.",
-    "Using a balloon-borne telescope high above Earth, scientists discovered delicate, thread-like magnetic structures woven through the solar atmosphere, apparently shaped by twisting motions on the Sun’s surface.",
-    "They also mapped magnetic fields inside towering jets of solar material, revealing how those fields change with height."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261023023723.htm",
-   "image": null,
-   "published_at": "2026-10-24T12:23:38Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "9b4338d5f72e6bf009901127f7e2b94552c3dfd4",
-   "title": "These tiny snakes roll four times faster than they slither",
-   "summary": [
-    "Tiny snakes in Southeast Asia have mastered an extraordinary escape technique: rolling across the ground at speeds up to four times faster than ordinary slithering.",
-    "Scientists discovered that dwarf reedsnakes accomplish this feat through precisely coordinated body movements that allow their bodies to rotate while their heads remain remarkably stable."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261023023718.htm",
-   "image": null,
-   "published_at": "2026-10-24T12:12:03Z",
    "category": "science",
    "related": []
   }
