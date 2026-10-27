@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T16:27:24.723606Z",
+ "generated_at": "2026-10-27T21:14:02.632214Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -24,10 +24,231 @@
  },
  "stories": [
   {
-   "id": "9739cf69c4dc7b901f840b53ae0aac61a5789aa4",
-   "title": "Apple introduces the new 14‑inch MacBook Pro with M6",
+   "id": "485d190c3a3eaae309b273e7e86c147c529b82ca",
+   "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
    "summary": [
-    "Article URL: https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/ Comments URL: https://news.ycombinator.com/item?id=50261352 Points: 14 # Comments: 2"
+    "The manufacturing accelerator bills itself as \"America’s answer to Shenzhen.\""
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
+   "image": null,
+   "published_at": "2026-10-27T20:31:17Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "9b9d3f26decfbc1d50a2de12416ca81d17b56c1b",
+   "title": "Tech Life",
+   "summary": [
+    "We hear from Ondřej Surý, the programmer whose PHP patches helped avert a cyber crisis."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/sounds/play/w3ct8jys?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-27T20:30:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "184179dd0a7d18c1f3415f5300f068d8403a5b4a",
+   "title": "Four Months of Zig",
+   "summary": [
+    "Article URL: https://gracefulliberty.com/articles/four-months-of-zig/ Comments URL: https://news.ycombinator.com/item?id=50265128 Points: 5 # Comments: 1"
+   ],
+   "source": "Hacker News",
+   "url": "https://gracefulliberty.com/articles/four-months-of-zig/",
+   "image": null,
+   "published_at": "2026-10-27T20:13:27Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "2fb0f351f38405364daa1e0520141fa488c415a6",
+   "title": "Tailscale SSH: Investigation and remediation update",
+   "summary": [
+    "Article URL: https://tailscale.com/ssh-investigation-update Comments URL: https://news.ycombinator.com/item?id=50264857 Points: 67 # Comments: 18"
+   ],
+   "source": "Hacker News",
+   "url": "https://tailscale.com/ssh-investigation-update",
+   "image": null,
+   "published_at": "2026-10-27T19:55:21Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "62b1fcdba263ec2da2b2a051c1fe220065c7bfb5",
+   "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+   "summary": [
+    "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 45 # Comments: 28"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.brangus.io/survival-llm",
+   "image": null,
+   "published_at": "2026-10-27T19:55:06Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "195cb6337f5e284cb79c5ea97aa2539080b4703c",
+   "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+   "summary": [
+    "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+   "image": null,
+   "published_at": "2026-10-27T18:55:35Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "4b0c52a0ad809c9c69135502d03b08dfe41e56d2",
+   "title": "Discord will soon let anyone find public server messages through Google",
+   "summary": [
+    "Article URL: https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover Comments URL: https://news.ycombinator.com/item?id=50263854 Points: 106 # Comments: 71"
+   ],
+   "source": "Hacker News",
+   "url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
+   "image": null,
+   "published_at": "2026-10-27T18:44:17Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "46f86b0d8871bc90b20df185a8b5150f9ec376b6",
+   "title": "Three TLS Bugs in GoAhead",
+   "summary": [
+    "Article URL: https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead Comments URL: https://news.ycombinator.com/item?id=50263701 Points: 33 # Comments: 3"
+   ],
+   "source": "Hacker News",
+   "url": "https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead",
+   "image": null,
+   "published_at": "2026-10-27T18:33:48Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "8a93bec2dc7c3bc2bd34406ffc697f94b5a16072",
+   "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+   "summary": [
+    "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+   "image": null,
+   "published_at": "2026-10-27T17:08:08Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "767a7db22edd66808e4acca675b8c8e6179886f9",
+   "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
+   "summary": [
+    "Article URL: https://www.liquid.ai/blog/lfm3 Comments URL: https://news.ycombinator.com/item?id=50262229 Points: 74 # Comments: 27"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.liquid.ai/blog/lfm3",
+   "image": null,
+   "published_at": "2026-10-27T17:04:50Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "068ca2c5cfaca264a74170d3f3f95f10b5d2a63c",
+   "title": "Ghostty 1.4.0",
+   "summary": [
+    "Article URL: https://ghostty.org/docs/install/release-notes/1-4-0 Comments URL: https://news.ycombinator.com/item?id=50261998 Points: 453 # Comments: 137"
+   ],
+   "source": "Hacker News",
+   "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+   "image": null,
+   "published_at": "2026-10-27T16:51:22Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "099c4912233a64d5a579b25c887fa70f90fa5db5",
+   "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
+   "summary": [
+    "Article URL: https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220 Comments URL: https://news.ycombinator.com/item?id=50261819 Points: 277 # Comments: 209"
+   ],
+   "source": "Hacker News",
+   "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+   "image": null,
+   "published_at": "2026-10-27T16:40:15Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a30b4228516c3392aa890e1a8264ff1f46bb2205",
+   "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+   "summary": [
+    "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+   "image": null,
+   "published_at": "2026-10-27T16:30:57Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "18198893af72c1594f8908575f9a350bad44030e",
+   "title": "Classification of Finite Simple Groups Formalized in Lean",
+   "summary": [
+    "Article URL: https://cfsg.axiommath.ai/ Comments URL: https://news.ycombinator.com/item?id=50261647 Points: 118 # Comments: 28"
+   ],
+   "source": "Hacker News",
+   "url": "https://cfsg.axiommath.ai/",
+   "image": null,
+   "published_at": "2026-10-27T16:29:02Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "aad7196a6fa6f89be088b1281c26ee94b9ff675c",
+   "title": "Vicious Cycles: Theses on a philosophy of news",
+   "summary": [
+    "Article URL: https://harpers.org/archive/2020/01/vicious-cycles-theses-on-a-philosophy-of-news/ Comments URL: https://news.ycombinator.com/item?id=50261623 Points: 20 # Comments: 5"
+   ],
+   "source": "Hacker News",
+   "url": "https://harpers.org/archive/2020/01/vicious-cycles-theses-on-a-philosophy-of-news/",
+   "image": null,
+   "published_at": "2026-10-27T16:27:29Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a044912b52ff7a524e3928e4f7659f9c8ad5b2ba",
+   "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+   "summary": [
+    "Article URL: https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova Comments URL: https://news.ycombinator.com/item?id=50261589 Points: 127 # Comments: 62"
+   ],
+   "source": "Hacker News",
+   "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+   "image": null,
+   "published_at": "2026-10-27T16:25:30Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "f32c6c080eccf77c050ef64ab84e0a39406c4378",
+   "title": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
+   "summary": [
+    "Article URL: https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/ Comments URL: https://news.ycombinator.com/item?id=50261583 Points: 37 # Comments: 4"
+   ],
+   "source": "Hacker News",
+   "url": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/",
+   "image": null,
+   "published_at": "2026-10-27T16:25:12Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "9739cf69c4dc7b901f840b53ae0aac61a5789aa4",
+   "title": "New 14‑inch MacBook Pro with M6",
+   "summary": [
+    "Article URL: https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/ Comments URL: https://news.ycombinator.com/item?id=50261352 Points: 182 # Comments: 195"
    ],
    "source": "Hacker News",
    "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
@@ -45,7 +266,7 @@
    "id": "5ef94984dce414f6cd0dec7eb033a3aff5071eaa",
    "title": "Genie 4",
    "summary": [
-    "Article URL: https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/ Comments URL: https://news.ycombinator.com/item?id=50261319 Points: 31 # Comments: 9"
+    "Article URL: https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/ Comments URL: https://news.ycombinator.com/item?id=50261319 Points: 528 # Comments: 318"
    ],
    "source": "Hacker News",
    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
@@ -55,41 +276,15 @@
    "related": []
   },
   {
-   "id": "c262499572feef27bb652bff5b2415fed0586c5e",
-   "title": "Data Recovery CEO Indicted for Allegedly Scamming Ransomware Victims",
-   "summary": [
-    "Article URL: https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment Comments URL: https://news.ycombinator.com/item?id=50260960 Points: 20 # Comments: 5"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment",
-   "image": null,
-   "published_at": "2026-10-27T15:39:29Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "a4c44e96b0a94df51038ee6157b11679115f6b1d",
    "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
    "summary": [
-    "Article URL: https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/ Comments URL: https://news.ycombinator.com/item?id=50260814 Points: 35 # Comments: 14"
+    "Article URL: https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/ Comments URL: https://news.ycombinator.com/item?id=50260814 Points: 322 # Comments: 175"
    ],
    "source": "Hacker News",
    "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
    "image": null,
    "published_at": "2026-10-27T15:28:26Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "70153fe16e9e72b7aebe559e2d1ca03768219021",
-   "title": "My video has unit tests",
-   "summary": [
-    "Article URL: https://pertiller.tech/blog/my-video-written-in-code/ Comments URL: https://news.ycombinator.com/item?id=50260619 Points: 14 # Comments: 2"
-   ],
-   "source": "Hacker News",
-   "url": "https://pertiller.tech/blog/my-video-written-in-code/",
-   "image": null,
-   "published_at": "2026-10-27T15:15:32Z",
    "category": "tech",
    "related": []
   },
@@ -112,25 +307,12 @@
    "summary": [
     "Implemented agent smith since start 2026 with over 1000 specifications which lead to about 500k lines of code.",
     "The procedure with that spec-first works well.",
-    "Comments URL: https://news.ycombinator.com/item?id=50260571 Points: 5 # Comments: 0"
+    "Comments URL: https://news.ycombinator.com/item?id=50260571 Points: 22 # Comments: 11"
    ],
    "source": "Hacker News",
    "url": "https://spec-first.dev/",
    "image": null,
    "published_at": "2026-10-27T15:12:20Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "38cdd0624529dc745fdc7fe9443039661489e53a",
-   "title": "A $300B 'Debt Wall' Is Looming over Private-Equity Backed Companies",
-   "summary": [
-    "Article URL: https://www.wsj.com/finance/investing/a-300-billion-debt-wall-is-looming-over-private-equity-backed-companies-d6359497 Comments URL: https://news.ycombinator.com/item?id=50260526 Points: 20 # Comments: 1"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.wsj.com/finance/investing/a-300-billion-debt-wall-is-looming-over-private-equity-backed-companies-d6359497",
-   "image": null,
-   "published_at": "2026-10-27T15:09:27Z",
    "category": "tech",
    "related": []
   },
@@ -158,19 +340,6 @@
    "url": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
    "image": null,
    "published_at": "2026-10-27T14:51:33Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "04bb830a3d2f8aac25deac313acb8cb1775b2c6b",
-   "title": "Viral Polls Are Not Representative Polls",
-   "summary": [
-    "Article URL: https://kevinreuning.com/blog/polling_virality.html Comments URL: https://news.ycombinator.com/item?id=50260242 Points: 30 # Comments: 21"
-   ],
-   "source": "Hacker News",
-   "url": "https://kevinreuning.com/blog/polling_virality.html",
-   "image": null,
-   "published_at": "2026-10-27T14:49:30Z",
    "category": "tech",
    "related": []
   },
@@ -215,27 +384,14 @@
   },
   {
    "id": "6a47fd58787ba82b85c2221845cfa1150f0c9ea2",
-   "title": "The US Government Is Hiding Secret Court Ruling About How It Spies on Americans",
+   "title": "US Government is hiding a secret court ruling about how it spies on Americans",
    "summary": [
-    "Article URL: https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/ Comments URL: https://news.ycombinator.com/item?id=50259604 Points: 258 # Comments: 65"
+    "Article URL: https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/ Comments URL: https://news.ycombinator.com/item?id=50259604 Points: 621 # Comments: 212"
    ],
    "source": "Hacker News",
    "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
    "image": null,
    "published_at": "2026-10-27T14:06:42Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "470e7f2ce2bd99e1ca5ef6076e9838a6818f1c2b",
-   "title": "Giving chat feedback gives Anthropic your data",
-   "summary": [
-    "Article URL: https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training Comments URL: https://news.ycombinator.com/item?id=50259406 Points: 134 # Comments: 63"
-   ],
-   "source": "Hacker News",
-   "url": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
-   "image": null,
-   "published_at": "2026-10-27T13:56:15Z",
    "category": "tech",
    "related": []
   },
@@ -254,9 +410,9 @@
   },
   {
    "id": "a23875735661b751d6385f66fcde0908b6d69212",
-   "title": "PHP2Shell: Exploitation Attempts and Remediation Trends",
+   "title": "PHP2Shell: Exploitation attempts and remediation trends",
    "summary": [
-    "Article URL: https://www.wiz.io/blog/php2shell-exploitation-so-far Comments URL: https://news.ycombinator.com/item?id=50259343 Points: 133 # Comments: 42"
+    "Article URL: https://www.wiz.io/blog/php2shell-exploitation-so-far Comments URL: https://news.ycombinator.com/item?id=50259343 Points: 170 # Comments: 55"
    ],
    "source": "Hacker News",
    "url": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
@@ -280,9 +436,9 @@
   },
   {
    "id": "8af34d90d669e0eb5175a0f0f34708f215ce5606",
-   "title": "Here Be Monsters: What Do You Still Need to Know When Agents Do the Work?",
+   "title": "Here be monsters: What do you still need to know when agents do the work?",
    "summary": [
-    "Article URL: https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work Comments URL: https://news.ycombinator.com/item?id=50258868 Points: 80 # Comments: 19"
+    "Article URL: https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work Comments URL: https://news.ycombinator.com/item?id=50258868 Points: 124 # Comments: 55"
    ],
    "source": "Hacker News",
    "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
@@ -309,7 +465,7 @@
    "id": "17e23f6bdae7a25a976b6d1e08bdc0a06f210255",
    "title": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
    "summary": [
-    "Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U.S. and by that he doesn't just mean assembly, but every individual component, some of which are exclusively made in China today."
+    "Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U.S., and by that he doesn't just mean assembly, but every individual component, some of which are exclusively made in China today."
    ],
    "source": "TechCrunch",
    "url": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/",
@@ -345,58 +501,6 @@
    "related": []
   },
   {
-   "id": "3da424e52d401b9469e724b0261c2ff039eac8d8",
-   "title": "Software may be getting worse, but it used to be horrible",
-   "summary": [
-    "Article URL: https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/ Comments URL: https://news.ycombinator.com/item?id=50257548 Points: 220 # Comments: 173"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/",
-   "image": null,
-   "published_at": "2026-10-27T11:30:35Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "1688335f378e11598690d353097d2852d6425b00",
-   "title": "Python's experimental JIT to be removed",
-   "summary": [
-    "Article URL: https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/ Comments URL: https://news.ycombinator.com/item?id=50257419 Points: 263 # Comments: 137"
-   ],
-   "source": "Hacker News",
-   "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
-   "image": null,
-   "published_at": "2026-10-27T11:17:57Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "acb3a24ef951cfe3981520356b377d13c83d2f40",
-   "title": "Wikipedia's Cleanup of AI-Generated Content",
-   "summary": [
-    "Article URL: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup Comments URL: https://news.ycombinator.com/item?id=50257326 Points: 248 # Comments: 107"
-   ],
-   "source": "Hacker News",
-   "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-   "image": null,
-   "published_at": "2026-10-27T11:08:15Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "c61ee1a62651ca79b73919ab03bb78272e5c4c3e",
-   "title": "AI promised less work. I've never worked more",
-   "summary": [
-    "Article URL: https://oioannou.com/blog/ai-promised-less-work/ Comments URL: https://news.ycombinator.com/item?id=50257325 Points: 531 # Comments: 457"
-   ],
-   "source": "Hacker News",
-   "url": "https://oioannou.com/blog/ai-promised-less-work/",
-   "image": null,
-   "published_at": "2026-10-27T11:08:14Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "02c774ec5299e23adb5c7164ec9b5c27d0981b48",
    "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
    "summary": [
@@ -406,32 +510,6 @@
    "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
    "image": null,
    "published_at": "2026-10-27T11:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "5964c0b19d95be20a7b11b6932c1667f93e80c8c",
-   "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
-   "summary": [
-    "Article URL: https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/ Comments URL: https://news.ycombinator.com/item?id=50256985 Points: 402 # Comments: 231"
-   ],
-   "source": "Hacker News",
-   "url": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
-   "image": null,
-   "published_at": "2026-10-27T10:27:50Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "c3478a7980fca0bb5a92b4df10e209e69d5015fe",
-   "title": "Gforth 1.0",
-   "summary": [
-    "Article URL: https://gforth.org/manual/1.0/NEWS.html Comments URL: https://news.ycombinator.com/item?id=50256952 Points: 102 # Comments: 6"
-   ],
-   "source": "Hacker News",
-   "url": "https://gforth.org/manual/1.0/NEWS.html",
-   "image": null,
-   "published_at": "2026-10-27T10:23:21Z",
    "category": "tech",
    "related": []
   },
@@ -473,86 +551,6 @@
    "url": "https://www.theguardian.com/technology/2026/oct/27/gen-z-digital-detox-apps",
    "image": "https://i.guim.co.uk/img/media/7ee2fa03bca99eb0692712afe9a5f5691be9e3e4/1025_0_6440_5152/master/6440.jpg?width=140&quality=85&auto=format&fit=max&s=ebbe85b844bcbc75c8b2812a86351342",
    "published_at": "2026-10-27T10:00:08Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "04bc564c11ffb96ad6006e5acfc17c62d5137210",
-   "title": "CurrentBody Series 3 review: a fully customisable LED mask that helps exactly where you need it",
-   "summary": [
-    "With six light wavelengths and almost endless ways to combine them, CurrentBody’s latest sets a new standard for red light therapy devices• The best LED face masksCurrentBody’s LED masks have long been my favourite.",
-    "My previous favourite, the now-discontinued CurrentBody Multi Light Therapy LED mask, offered five treatments that used different light wavelengths to address multiple skin concerns.",
-    "The company’s latest mask, the new Series 3, has the most detailed customisable treatments I’ve ever seen.This isn’t the first LED mask I’ve tried that allows its user to select different treatments for different areas of the face."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/thefilter/2026/oct/27/currentbody-series-3-review-tested-uk",
-   "image": "https://i.guim.co.uk/img/media/295a125bf2c6e321ab1c8a534eb3515172a6d731/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=0321656902b25ca1a8532cd8fe02f7c5",
-   "published_at": "2026-10-27T10:00:07Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "a447328950f5402f1e7719edad5a59a6715f77a7",
-   "title": "Apple to replace iPhone Duos affected by screen problem",
-   "summary": [
-    "Photos shared online showed faults appearing on the screens of Apple's first foldable device."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-27T09:37:55Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "d4c16ff94bb823acb2536e5c5e084e23647c0a91",
-   "title": "UK government met 137 businesses over AI datacentres – but no environmental groups",
-   "summary": [
-    "Investigation finds dozens of ministers and civil servants moved into AI roles as government developed datacentre expansion plansThe UK’s policy on datacentres and AI was developed without any meetings with environmental groups, an investigation has found.The nonprofit organisation Spotlight on Corruption said a “considerable revolving door” shaped the government’s development of “AI growth zones”, a central plank of the former prime minister Keir Starmer’s AI and economic policy, with 38 ministers, senior civil servants and special advisers hired to positions in AI companies between July 2024 and September 2026."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/oct/27/uk-government-environmental-groups-ai-datacentres-expansion-plans-investigation",
-   "image": "https://i.guim.co.uk/img/media/d7d40991e7793995807a7196e5227dd047cfc204/420_0_3413_2732/master/3413.jpg?width=140&quality=85&auto=format&fit=max&s=7f99b2c27b0b6e3bc4b2140de4812872",
-   "published_at": "2026-10-27T07:00:04Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "c13d666d5f8c423a638e237421a7833e1578fb69",
-   "title": "X is nudging users to promote their posts with a pointing hand, and people are confused",
-   "summary": [
-    "Whose hand is behind this travesty?"
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
-   "image": null,
-   "published_at": "2026-10-27T06:34:44Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "eb967c2830c030f6c49300dec6db5185dcdcd182",
-   "title": "The Mythical Man-Month in the Age of AI",
-   "summary": [
-    "Article URL: https://j11g.com/the-mythical-man-month-in-the-age-of-ai Comments URL: https://news.ycombinator.com/item?id=50255298 Points: 349 # Comments: 225"
-   ],
-   "source": "Hacker News",
-   "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-   "image": null,
-   "published_at": "2026-10-27T06:25:37Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "1bba7662ea67f4d881b43f9beb360a518975d563",
-   "title": "Four takeaways from Anthropic’s potentially record-breaking stock market filing",
-   "summary": [
-    "The filing to US financial regulators, known as an S-1, provides the public’s first look at an audited version of Anthropic’s finances."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/oct/26/anthropic-stock-market-filing-takeaways",
-   "image": "https://i.guim.co.uk/img/media/34972ab7bdc22bd58b4b430c49ae81493971934a/234_0_5907_4725/master/5907.jpg?width=140&quality=85&auto=format&fit=max&s=288348dd3aa3c598608d1126f3559d09",
-   "published_at": "2026-10-27T05:00:04Z",
    "category": "tech",
    "related": []
   }
