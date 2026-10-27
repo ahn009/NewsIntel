@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T23:46:14.556653Z",
+ "generated_at": "2026-10-27T04:52:07.599656Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -24,28 +24,62 @@
  },
  "stories": [
   {
-   "id": "75fc4f2059e7b10781206bce90629d1c512f9b16",
-   "title": "Just Imagining a Workout Can Make You Stronger",
+   "id": "291dd7fdf89aab0e6ed78f4f37c9ece21f08e072",
+   "title": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
    "summary": [
-    "Article URL: https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068 Comments URL: https://news.ycombinator.com/item?id=50252457 Points: 20 # Comments: 6"
+    "Other indexes of major companies dropped by about 20% over the same time period."
    ],
-   "source": "Hacker News",
-   "url": "https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068",
-   "image": null,
-   "published_at": "2026-10-26T23:08:27Z",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
+   "image": "https://i.guim.co.uk/img/media/3e7e3e603f728fb5136070ae808843aae4d175c6/504_0_3780_3024/master/3780.jpg?width=140&quality=85&auto=format&fit=max&s=dec92858dd3ceeac9a8d90a0f4326535",
+   "published_at": "2026-10-27T04:42:50Z",
    "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "https://corridorkey.com/"
-    }
-   ]
+   "related": []
+  },
+  {
+   "id": "62ecc12b68be504030a440a1810c5c8100c078b2",
+   "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+   "summary": [
+    "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+   "image": null,
+   "published_at": "2026-10-27T02:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a447328950f5402f1e7719edad5a59a6715f77a7",
+   "title": "Apple says it will replace iPhone Duo handsets with screen problems",
+   "summary": [
+    "Photos shared online showed faults appearing on the screens of Apple's first foldable device."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-27T01:48:04Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "9af0a1a0b38746665a507309048947ee3ecd9b26",
+   "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+   "summary": [
+    "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+   "image": null,
+   "published_at": "2026-10-27T01:12:21Z",
+   "category": "tech",
+   "related": []
   },
   {
    "id": "95d5916fd6281c36fd630aa1b5d1165f56c19b02",
    "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
    "summary": [
-    "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/ Comments URL: https://news.ycombinator.com/item?id=50252159 Points: 26 # Comments: 6"
+    "Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/ Comments URL: https://news.ycombinator.com/item?id=50252159 Points: 100 # Comments: 32"
    ],
    "source": "Hacker News",
    "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
@@ -58,7 +92,7 @@
    "id": "761e712e434a75f306dec1d7e96343e55e578953",
    "title": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",
    "summary": [
-    "Article URL: https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it Comments URL: https://news.ycombinator.com/item?id=50252008 Points: 7 # Comments: 5"
+    "Article URL: https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it Comments URL: https://news.ycombinator.com/item?id=50252008 Points: 34 # Comments: 28"
    ],
    "source": "Hacker News",
    "url": "https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it",
@@ -84,27 +118,19 @@
    "id": "820116fa460fbcd2d0d9530d862393d6050e4e3a",
    "title": "The Exponential Time Hypothesis Is False [pdf]",
    "summary": [
-    "Article URL: https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50251661 Points: 86 # Comments: 26"
+    "See also: Announcing three new discoveries in mathematics, computer science, and physics - https://news.ycombinator.com/item?id=50251344 Comments URL: https://news.ycombinator.com/item?id=50251661 Points: 436 # Comments: 167"
    ],
    "source": "Hacker News",
    "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
    "image": null,
    "published_at": "2026-10-26T21:59:15Z",
    "category": "tech",
-   "related": []
-  },
-  {
-   "id": "f16aefe89a6e3f3b8efed940fa1afba45d52bb2d",
-   "title": "Working with academic communities to build scientific understanding",
-   "summary": [
-    "Article URL: https://openai.com/index/building-scientific-understanding-with-academic-communities/ Comments URL: https://news.ycombinator.com/item?id=50251344 Points: 211 # Comments: 86"
-   ],
-   "source": "Hacker News",
-   "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-   "image": null,
-   "published_at": "2026-10-26T21:35:28Z",
-   "category": "tech",
-   "related": []
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/"
+    }
+   ]
   },
   {
    "id": "2af94b98e472ab8058a87cd0d818edca1dce65e6",
@@ -133,21 +159,6 @@
    "related": []
   },
   {
-   "id": "088c029d2bbf25e5662a63694f2b9ec742c589df",
-   "title": "Magic state cultivation on a superconducting quantum processor",
-   "summary": [
-    "Magic state cultivation offers an efficient alternative to resource-intensive distillation protocols; however, testing the proposal’s assumptions represents a challenging departure from quantum memory experiments.",
-    "We present an experimental study of magic state cultivation on a superconducting quantum processor.",
-    "We implement cultivation, including code-switching into a surface code, and develop a fault-tolerant measurement protocol to bound the magic state fidelity."
-   ],
-   "source": "Hacker News",
-   "url": "https://arxiv.org/abs/2512.13908",
-   "image": null,
-   "published_at": "2026-10-26T19:37:59Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "ecc95cef60a3de0887864991fe21d747ddfc3b8c",
    "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
    "summary": [
@@ -157,19 +168,6 @@
    "url": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
    "image": null,
    "published_at": "2026-10-26T19:22:40Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "ebeec3c556861012c28fba9b9e93d682e72364ea",
-   "title": "The EPA Is Quietly Killing Its Web Archive",
-   "summary": [
-    "Article URL: https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/ Comments URL: https://news.ycombinator.com/item?id=50249275 Points: 199 # Comments: 34"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
-   "image": null,
-   "published_at": "2026-10-26T19:05:41Z",
    "category": "tech",
    "related": []
   },
@@ -201,23 +199,10 @@
    "related": []
   },
   {
-   "id": "736ec48b32ec10c6cb4de1d12c50d136922f7b02",
-   "title": "US designates helium as a critical material",
-   "summary": [
-    "Article URL: https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c Comments URL: https://news.ycombinator.com/item?id=50248665 Points: 161 # Comments: 95"
-   ],
-   "source": "Hacker News",
-   "url": "https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c",
-   "image": null,
-   "published_at": "2026-10-26T18:31:39Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "2693f45a7074e61487baf466a4e847e325e600cf",
    "title": "Type Server Protocol",
    "summary": [
-    "Article URL: https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md Comments URL: https://news.ycombinator.com/item?id=50248371 Points: 176 # Comments: 130"
+    "Article URL: https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md Comments URL: https://news.ycombinator.com/item?id=50248371 Points: 213 # Comments: 145"
    ],
    "source": "Hacker News",
    "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
@@ -230,7 +215,7 @@
    "id": "1758535ac6be3e6bbbbd229f2163da1b6bc77452",
    "title": "GPT-6.1 Terra",
    "summary": [
-    "Article URL: https://openai.com/index/introducing-gpt-6-1-terra/ Comments URL: https://news.ycombinator.com/item?id=50248124 Points: 463 # Comments: 289"
+    "https://developers.openai.com/api/docs/models/gpt-6.1-terra Comments URL: https://news.ycombinator.com/item?id=50248124 Points: 551 # Comments: 344"
    ],
    "source": "Hacker News",
    "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
@@ -243,7 +228,7 @@
    "id": "04d9c86d757ac8c19b3388450ac33690d4cbe1c7",
    "title": "Oldest GUI application that still runs on Windows 11",
    "summary": [
-    "Article URL: https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/ Comments URL: https://news.ycombinator.com/item?id=50248055 Points: 239 # Comments: 149"
+    "Article URL: https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/ Comments URL: https://news.ycombinator.com/item?id=50248055 Points: 344 # Comments: 206"
    ],
    "source": "Hacker News",
    "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
@@ -253,23 +238,10 @@
    "related": []
   },
   {
-   "id": "24063c118384e5ef8662368e9b8bb92047d694a9",
-   "title": "In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real",
-   "summary": [
-    "Article URL: https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/ Comments URL: https://news.ycombinator.com/item?id=50248005 Points: 259 # Comments: 150"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/",
-   "image": null,
-   "published_at": "2026-10-26T17:54:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "5e46d1c4b73a64de2f612fe901297539b7ecb877",
    "title": "A Man from the Future: Why Johnny Can't Stop Abstracting",
    "summary": [
-    "Article URL: http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html Comments URL: https://news.ycombinator.com/item?id=50247928 Points: 99 # Comments: 54"
+    "Article URL: http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html Comments URL: https://news.ycombinator.com/item?id=50247928 Points: 144 # Comments: 70"
    ],
    "source": "Hacker News",
    "url": "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
@@ -295,7 +267,7 @@
    "id": "c05a01278409abc6803f83d55210729b4794b0ec",
    "title": "Nietzschian Debugger",
    "summary": [
-    "Article URL: https://github.com/DilawarShafiq/nietzschian-debugger Comments URL: https://news.ycombinator.com/item?id=50247493 Points: 116 # Comments: 37"
+    "Article URL: https://github.com/DilawarShafiq/nietzschian-debugger Comments URL: https://news.ycombinator.com/item?id=50247493 Points: 149 # Comments: 50"
    ],
    "source": "Hacker News",
    "url": "https://github.com/DilawarShafiq/nietzschian-debugger",
@@ -305,7 +277,7 @@
    "related": [
     {
      "source": "Hacker News",
-     "url": "https://css-tricks.com/css-tricks-has-a-new-owner/"
+     "url": "https://github.com/otya128/winevdm"
     }
    ]
   },
@@ -337,7 +309,7 @@
   },
   {
    "id": "d6c62b3447491c16ee6a0fcbb212b7c669d93ec7",
-   "title": "Anthropic files for potentially record-breaking $1.5tn stock market valuation in key test for AI industry",
+   "title": "Anthropic files for potentially record-breaking stock market valuation in key test for AI industry",
    "summary": [
     "Market debut of firm behind Claude chatbot will be one of largest in US history, a test of AI boom’s financial viabilityAnthropic has publicly filed for a stock market listing in what is slated to be one of the largest debuts in history.",
     "The company’s float on the US market will serve as a test of the financial viability of the multitrillion-dollar AI boom.Analysts and investors have valued the San Francisco-based company, founded in 2021, at more than $1.5tn.",
@@ -347,21 +319,6 @@
    "url": "https://www.theguardian.com/technology/2026/oct/26/anthropic-files-listing-stock-market",
    "image": "https://i.guim.co.uk/img/media/445e90b032229c54129ea99217bf19c2cdd0d1a3/315_0_4582_3666/master/4582.jpg?width=140&quality=85&auto=format&fit=max&s=76e41e6d4313a6be1c4ded280c3f071f",
    "published_at": "2026-10-26T16:22:28Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "8cfee209e93b7c87bce3a6e95fa3e7022cf73087",
-   "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
-   "summary": [
-    "Hob is a free, MIT-licensed desktop app for Mac, Windows and Linux that works on your files the way the Claude and ChatGPT desktop apps do, except the model runs on your own computer.",
-    "The main thing I noticed is that none of them could do what the ChatGPT and Claude apps do with your files, e.g. read and change files in a folder, look at images, run code in a sandbox, draw a chart.",
-    "I couldn't find anything that could easily parse images and bigger PDFs.The OSS solutions that were more advanced all seemed to default to hosted models (either OSS or closed), which defeats the entire point of the privacy that on-device OSS offers."
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/FrigadeHQ/hob",
-   "image": null,
-   "published_at": "2026-10-26T16:12:29Z",
    "category": "tech",
    "related": []
   },
@@ -382,7 +339,7 @@
    "id": "22fd1d0b13226c4a5bb3555d12037295b1fcd944",
    "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
    "summary": [
-    "Article URL: https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/ Comments URL: https://news.ycombinator.com/item?id=50245524 Points: 685 # Comments: 589"
+    "Article URL: https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/ Comments URL: https://news.ycombinator.com/item?id=50245524 Points: 839 # Comments: 759"
    ],
    "source": "Hacker News",
    "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
@@ -392,10 +349,23 @@
    "related": []
   },
   {
+   "id": "3c6c80c845d82e1d3615e41de6584c745d6beeca",
+   "title": "Solar power is becoming bigger than nuclear",
+   "summary": [
+    "Article URL: https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear Comments URL: https://news.ycombinator.com/item?id=50245385 Points: 195 # Comments: 315"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
+   "image": null,
+   "published_at": "2026-10-26T15:26:17Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "d1a3b4fa5d93fb49d3ffb0461ed4419c6c113f01",
    "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
    "summary": [
-    "Article URL: https://magazine.sebastianraschka.com/p/building-reasoning-models Comments URL: https://news.ycombinator.com/item?id=50245138 Points: 514 # Comments: 76"
+    "Article URL: https://magazine.sebastianraschka.com/p/building-reasoning-models Comments URL: https://news.ycombinator.com/item?id=50245138 Points: 620 # Comments: 87"
    ],
    "source": "Hacker News",
    "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
@@ -444,10 +414,23 @@
    "related": []
   },
   {
+   "id": "ebb1291fc04fed15d3de6ead28c596682135e592",
+   "title": "New iPad mini",
+   "summary": [
+    "Article URL: https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/ Comments URL: https://news.ycombinator.com/item?id=50243061 Points: 161 # Comments: 441"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
+   "image": null,
+   "published_at": "2026-10-26T13:13:36Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "d7b6b5fce56b21ea09673052fb7b55eade7a174a",
    "title": "Anthropic S-1",
    "summary": [
-    "Article URL: https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm Comments URL: https://news.ycombinator.com/item?id=50242939 Points: 1430 # Comments: 1395"
+    "Article URL: https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm Comments URL: https://news.ycombinator.com/item?id=50242939 Points: 1531 # Comments: 1489"
    ],
    "source": "Hacker News",
    "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
@@ -486,7 +469,7 @@
    "id": "6333a388ac31bd96183f4e670762e9f122c46115",
    "title": "Australians should prepare for online services to go down unexpectedly as threats rise, cyber agency warns",
    "summary": [
-    "Australian Signals Directorate chief says advanced AI tools are needed to defend against ‘AI-enabled attackers’Get our daily political email, free app or daily news podcastAustralians should prepare for more basic and important online services to go offline unexpectedly, the nation’s signals intelligence agency has warned, urging that “system security must be prioritised over system availability”.The Australian Signals Directorate (ASD) also says businesses and critical infrastructure must use cutting-edge AI models to defend against digital threats, raising alarm that artificial intelligence is enabling more dangerous threats than ever."
+    "Australian Signals Directorate chief says advanced AI tools are needed to defend against ‘AI-enabled attackers’Follow our Australian politics live blog for latest updatesGet our daily political email, free app or daily news podcastAustralians should prepare for more basic and important online services to go offline unexpectedly, the nation’s signals intelligence agency has warned, urging that “system security must be prioritised over system availability”.The Australian Signals Directorate (ASD) also says businesses and critical infrastructure must use cutting-edge AI models to defend against digital threats, raising alarm that artificial intelligence is enabling more dangerous threats than ever."
    ],
    "source": "The Guardian",
    "url": "https://www.theguardian.com/technology/2026/oct/26/australians-should-prepare-for-online-services-to-go-down-unexpectedly-as-threats-rise-cyber-agency-warns",
@@ -494,6 +477,24 @@
    "published_at": "2026-10-26T11:30:40Z",
    "category": "tech",
    "related": []
+  },
+  {
+   "id": "6d7190f877b09911fb500207836538605bf962e4",
+   "title": "Pharo 14",
+   "summary": [
+    "Article URL: https://pharo.org/news/2026-10-26-Pharo14Release.html Comments URL: https://news.ycombinator.com/item?id=50241925 Points: 248 # Comments: 66"
+   ],
+   "source": "Hacker News",
+   "url": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
+   "image": null,
+   "published_at": "2026-10-26T11:15:50Z",
+   "category": "tech",
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://css-tricks.com/css-tricks-has-a-new-owner/"
+    }
+   ]
   },
   {
    "id": "79e3e3e646b1d4ad024686d767b98d8993a60733",
@@ -505,6 +506,19 @@
    "url": "https://www.theguardian.com/technology/2026/oct/26/anthropics-claude-ai-model-accessed-georgia-voter-data-in-us",
    "image": "https://i.guim.co.uk/img/media/53e6ecce82d90c5106536d7c112f492e510cdf2b/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=e1b5db06b4c6c72fbb756aa29fbf914f",
    "published_at": "2026-10-26T11:03:33Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "1264d30f93b2a8ca9f07973faa106d01f00703e8",
+   "title": "How to grow a cacao tree at home",
+   "summary": [
+    "Article URL: https://www.cocoterra.com/guide-on-how-to-grow-chocolate-at-home/ Comments URL: https://news.ycombinator.com/item?id=50240465 Points: 25 # Comments: 4"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.cocoterra.com/guide-on-how-to-grow-chocolate-at-home/",
+   "image": null,
+   "published_at": "2026-10-26T07:50:17Z",
    "category": "tech",
    "related": []
   },
@@ -535,28 +549,15 @@
    "related": []
   },
   {
-   "id": "bf7f18e0418c7776f9fc7fa37af8a7e82508f5b0",
-   "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+   "id": "18c1c9261a90a4420c61f45a668b262559344d36",
+   "title": "SIMD-accelerated computer vision on a $2 microcontroller",
    "summary": [
-    "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest."
+    "Article URL: https://shraiwi.com/blog/simd-fast-esp32s3/ Comments URL: https://news.ycombinator.com/item?id=50236681 Points: 188 # Comments: 57"
    ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+   "source": "Hacker News",
+   "url": "https://shraiwi.com/blog/simd-fast-esp32s3/",
    "image": null,
-   "published_at": "2026-10-25T21:31:16Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "e105f7e534a6f21277a970d009cc254afd687f62",
-   "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
-   "summary": [
-    "\"That's a 12-year-old view of the world.\""
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
-   "image": null,
-   "published_at": "2026-10-25T20:20:08Z",
+   "published_at": "2026-10-25T22:29:47Z",
    "category": "tech",
    "related": []
   }
