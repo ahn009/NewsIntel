@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-27T04:52:07.600573Z",
- "story_count": 22,
+ "generated_at": "2026-10-27T10:24:54.158564Z",
+ "story_count": 19,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -24,6 +24,32 @@
  },
  "stories": [
   {
+   "id": "160ecbb11ec0a02a1a4aaf346212a028bc90016a",
+   "title": "New weather warnings as third storm set to hit Scotland",
+   "summary": [
+    "The country is braced for the third storm in as many days as communities continue to clean up after the weekend."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-27T06:35:26Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "32937da87e3fd998a9345f59f34227f36d627e6b",
+   "title": "Tiny zebra-striped bee in West a 'huge surprise'",
+   "summary": [
+    "A zebra-striped bee is seen in Somerset for the first time, offering hope in restored saltmarshes."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c3dxwjx7xpj0o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-27T06:20:58Z",
+   "category": "science",
+   "related": []
+  },
+  {
    "id": "ef596de976c9e737bd94ef39112e2c002a1fea81",
    "title": "Storm Boelo leaves thousands without power as Met Office issues new wind warning",
    "summary": [
@@ -33,19 +59,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-27T04:13:56Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "160ecbb11ec0a02a1a4aaf346212a028bc90016a",
-   "title": "New weather warnings as third storm set to hit Scotland",
-   "summary": [
-    "The country is braced for the third storm in as many days as communities continue to clean up after the weekend."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-26T23:00:14Z",
    "category": "science",
    "related": []
   },
@@ -225,19 +238,6 @@
    "related": []
   },
   {
-   "id": "605691a934e0eab99e6afab7ba2e21d4f4982f35",
-   "title": "Fire-hit nature reserve 'will never be the same'",
-   "summary": [
-    "Three months on from a devastating wildfire, the RSPB says it will take 20 years to recover."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c3vgxk9w9rqjo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-26T06:03:12Z",
-   "category": "science",
-   "related": []
-  },
-  {
    "id": "e9e1e104120fc4397e7c5ad173e0d264d8138c2b",
    "title": "Two men killed by falling trees as Storm Boelo leaves 90,000 properties without power",
    "summary": [
@@ -273,45 +273,6 @@
    "url": "https://www.bbc.co.uk/news/articles/c84g10r00221o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-25T23:53:04Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "44da220e8984eceb46866a8b271ecf57e23c25cf",
-   "title": "In pictures: Storm Boelo leaves a trail of destruction across Scotland",
-   "summary": [
-    "The severe weather brought strong winds and heavy rain to large parts of Scotland."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmewe8ndn1q4o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-25T21:11:43Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "6f664207216e74e8904efa1424a86b0e677418ba",
-   "title": "Man killed by falling tree as Storm Boelo batters Scotland",
-   "summary": [
-    "The 60-year-old man was struck by the tree near Castle Douglas as Storm Boelo brought strong winds and heavy rain to Scotland."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-25T21:09:58Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "c8ddceb8d419e81cb38349c3a3ff1b13e8094c2f",
-   "title": "The aftermath of Storm Boelo across Scotland",
-   "summary": [
-    "Flooding, travel disruption and fallen trees - Storm Boelo has left it's mark across Scotland."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/cr3wvzl947q7o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-25T19:31:36Z",
    "category": "science",
    "related": []
   }
