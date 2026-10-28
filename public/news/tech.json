@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T01:11:53.198799Z",
+ "generated_at": "2026-10-28T08:18:49.160635Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -24,6 +24,76 @@
  },
  "stories": [
   {
+   "id": "7f0f4484781e049007f8cf877ec99024b7f19a2b",
+   "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
+   "summary": [
+    "Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
+   "image": null,
+   "published_at": "2026-10-28T05:20:32Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "c5b7619718c5c9415ba3b1796a61879200c5b81a",
+   "title": "碁の国: Play Chess as Town Building",
+   "summary": [
+    "Article URL: https://gonokuni.plpl.town/ Comments URL: https://news.ycombinator.com/item?id=50269492 Points: 8 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://gonokuni.plpl.town/",
+   "image": null,
+   "published_at": "2026-10-28T04:57:11Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "34fa11d94c604198cb73579594700bdf1d13f3fa",
+   "title": "Artificial Analysis Intelligence Index v5",
+   "summary": [
+    "Article URL: https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5 Comments URL: https://news.ycombinator.com/item?id=50268868 Points: 27 # Comments: 40"
+   ],
+   "source": "Hacker News",
+   "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5",
+   "image": null,
+   "published_at": "2026-10-28T03:06:22Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ec58d21b88c564f121ad288d1c3c38a8f8f05062",
+   "title": "Git for the US Code",
+   "summary": [
+    "Article URL: https://lexifina.com/blog/git-for-the-us-code Comments URL: https://news.ycombinator.com/item?id=50268380 Points: 221 # Comments: 112"
+   ],
+   "source": "Hacker News",
+   "url": "https://lexifina.com/blog/git-for-the-us-code",
+   "image": null,
+   "published_at": "2026-10-28T01:47:50Z",
+   "category": "tech",
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://www.apple.com/imac/"
+    }
+   ]
+  },
+  {
+   "id": "1b16f2a2a47a7683e7e4f97cde93e187be54a44f",
+   "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+   "summary": [
+    "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+   "image": null,
+   "published_at": "2026-10-28T01:15:28Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "c4f4cbb28265b8c5f7450584b3e83889f8df3220",
    "title": "'An annoying buzz': The search for stealthier drones",
    "summary": [
@@ -40,7 +110,7 @@
    "id": "d4cfba1148abbdeab4cfa957fbd27ab33a6111ce",
    "title": "Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs",
    "summary": [
-    "Article URL: https://github.com/maharmstone/moxnox Comments URL: https://news.ycombinator.com/item?id=50267569 Points: 4 # Comments: 1"
+    "Article URL: https://github.com/maharmstone/moxnox Comments URL: https://news.ycombinator.com/item?id=50267569 Points: 60 # Comments: 10"
    ],
    "source": "Hacker News",
    "url": "https://github.com/maharmstone/moxnox",
@@ -76,19 +146,6 @@
    "related": []
   },
   {
-   "id": "1ca8390dc084802ece6cf247135f495afb981c55",
-   "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
-   "summary": [
-    "Article URL: https://www.bettascore.ai/research/reliability-reviewers-vs-owners Comments URL: https://news.ycombinator.com/item?id=50266780 Points: 44 # Comments: 48"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
-   "image": null,
-   "published_at": "2026-10-27T22:31:15Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "31f30cc34078c45a4ddf745d66e564449c97112c",
    "title": "Guidewire buys Hyperexponential for $1.7B in cash",
    "summary": [
@@ -102,15 +159,15 @@
    "related": []
   },
   {
-   "id": "16faca12f9641778719c92ca16cd33af5bbf9b6f",
-   "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+   "id": "6b6129fb93ff239f55c35629509cc707d567b66a",
+   "title": "Hunger beats tenure: Advice for junior engineers",
    "summary": [
-    "Article URL: https://www.anthropic.com/news/expanding-partnership-gsa Comments URL: https://news.ycombinator.com/item?id=50266701 Points: 15 # Comments: 10"
+    "Article URL: https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/ Comments URL: https://news.ycombinator.com/item?id=50266719 Points: 51 # Comments: 23"
    ],
    "source": "Hacker News",
-   "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+   "url": "https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/",
    "image": null,
-   "published_at": "2026-10-27T22:23:37Z",
+   "published_at": "2026-10-27T22:25:23Z",
    "category": "tech",
    "related": []
   },
@@ -184,7 +241,7 @@
    "id": "fdf27bf9960b1109d4f0b8c8cc98f8977bc59ae6",
    "title": "Early progress on accelerating drug development with Claude",
    "summary": [
-    "Article URL: https://www.anthropic.com/research/early-progress-drug-development Comments URL: https://news.ycombinator.com/item?id=50265609 Points: 112 # Comments: 97"
+    "Article URL: https://www.anthropic.com/research/early-progress-drug-development Comments URL: https://news.ycombinator.com/item?id=50265609 Points: 215 # Comments: 189"
    ],
    "source": "Hacker News",
    "url": "https://www.anthropic.com/research/early-progress-drug-development",
@@ -197,7 +254,7 @@
    "id": "1cdc2a43b76ebfc09a649d30347ac42412ef1f47",
    "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
    "summary": [
-    "Article URL: https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/ Comments URL: https://news.ycombinator.com/item?id=50265594 Points: 89 # Comments: 33"
+    "Article URL: https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/ Comments URL: https://news.ycombinator.com/item?id=50265594 Points: 151 # Comments: 79"
    ],
    "source": "Hacker News",
    "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
@@ -207,15 +264,15 @@
    "related": []
   },
   {
-   "id": "986ff5c64946ed0ba2a599594ce7a79ec9bd53b2",
-   "title": "Hex Raises $100M",
+   "id": "9d02bbba005f11f74e57ae8f8590c55b3e366cdd",
+   "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
    "summary": [
-    "Article URL: https://hex.tech/blog/hex-new-era/ Comments URL: https://news.ycombinator.com/item?id=50265413 Points: 46 # Comments: 24"
+    "Article URL: https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/ Comments URL: https://news.ycombinator.com/item?id=50265393 Points: 124 # Comments: 49"
    ],
    "source": "Hacker News",
-   "url": "https://hex.tech/blog/hex-new-era/",
+   "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
    "image": null,
-   "published_at": "2026-10-27T20:36:38Z",
+   "published_at": "2026-10-27T20:35:09Z",
    "category": "tech",
    "related": []
   },
@@ -249,7 +306,7 @@
    "id": "184179dd0a7d18c1f3415f5300f068d8403a5b4a",
    "title": "Four Months of Zig",
    "summary": [
-    "Article URL: https://gracefulliberty.com/articles/four-months-of-zig/ Comments URL: https://news.ycombinator.com/item?id=50265128 Points: 70 # Comments: 40"
+    "Article URL: https://gracefulliberty.com/articles/four-months-of-zig/ Comments URL: https://news.ycombinator.com/item?id=50265128 Points: 113 # Comments: 71"
    ],
    "source": "Hacker News",
    "url": "https://gracefulliberty.com/articles/four-months-of-zig/",
@@ -262,7 +319,7 @@
    "id": "2fb0f351f38405364daa1e0520141fa488c415a6",
    "title": "Tailscale SSH: Investigation and remediation update",
    "summary": [
-    "Article URL: https://tailscale.com/ssh-investigation-update Comments URL: https://news.ycombinator.com/item?id=50264857 Points: 179 # Comments: 101"
+    "Article URL: https://tailscale.com/ssh-investigation-update Comments URL: https://news.ycombinator.com/item?id=50264857 Points: 268 # Comments: 139"
    ],
    "source": "Hacker News",
    "url": "https://tailscale.com/ssh-investigation-update",
@@ -275,7 +332,7 @@
    "id": "62b1fcdba263ec2da2b2a051c1fe220065c7bfb5",
    "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
    "summary": [
-    "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 168 # Comments: 96"
+    "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 322 # Comments: 135"
    ],
    "source": "Hacker News",
    "url": "https://www.brangus.io/survival-llm",
@@ -298,37 +355,11 @@
    "related": []
   },
   {
-   "id": "4b0c52a0ad809c9c69135502d03b08dfe41e56d2",
-   "title": "Discord will soon let anyone find public server messages through Google",
-   "summary": [
-    "Article URL: https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover Comments URL: https://news.ycombinator.com/item?id=50263854 Points: 233 # Comments: 131"
-   ],
-   "source": "Hacker News",
-   "url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
-   "image": null,
-   "published_at": "2026-10-27T18:44:17Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "46f86b0d8871bc90b20df185a8b5150f9ec376b6",
-   "title": "Three TLS Bugs in GoAhead",
-   "summary": [
-    "Article URL: https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead Comments URL: https://news.ycombinator.com/item?id=50263701 Points: 59 # Comments: 13"
-   ],
-   "source": "Hacker News",
-   "url": "https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead",
-   "image": null,
-   "published_at": "2026-10-27T18:33:48Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "cef9db3bf1166d24e2477bb24b6bf5fe05cd97ca",
    "title": "Radio-tagged Monarch butterflies",
    "summary": [
     "https://celltracktech.com/pages/blumorphohttps://monarchresearch.org/news-and-events/monarch-research...https://monarchwatch.org/radiotag/https://swmonarchs.org/ProjectMonarch.phphttps://blog.cwf-fcf.org/index.php/en/tiny-tracking-tags-for...",
-    "Comments URL: https://news.ycombinator.com/item?id=50262982 Points: 25 # Comments: 8"
+    "Comments URL: https://news.ycombinator.com/item?id=50262982 Points: 53 # Comments: 17"
    ],
    "source": "Hacker News",
    "url": "https://news.vt.edu/articles/2026/10/cmi-monarchs.html",
@@ -351,23 +382,10 @@
    "related": []
   },
   {
-   "id": "767a7db22edd66808e4acca675b8c8e6179886f9",
-   "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
-   "summary": [
-    "Article URL: https://www.liquid.ai/blog/lfm3 Comments URL: https://news.ycombinator.com/item?id=50262229 Points: 118 # Comments: 48"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.liquid.ai/blog/lfm3",
-   "image": null,
-   "published_at": "2026-10-27T17:04:50Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "068ca2c5cfaca264a74170d3f3f95f10b5d2a63c",
    "title": "Ghostty 1.4",
    "summary": [
-    "Article URL: https://ghostty.org/docs/install/release-notes/1-4-0 Comments URL: https://news.ycombinator.com/item?id=50261998 Points: 734 # Comments: 224"
+    "Article URL: https://ghostty.org/docs/install/release-notes/1-4-0 Comments URL: https://news.ycombinator.com/item?id=50261998 Points: 976 # Comments: 299"
    ],
    "source": "Hacker News",
    "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
@@ -393,7 +411,7 @@
    "id": "18198893af72c1594f8908575f9a350bad44030e",
    "title": "Classification of Finite Simple Groups Formalized in Lean",
    "summary": [
-    "Article URL: https://cfsg.axiommath.ai/ Comments URL: https://news.ycombinator.com/item?id=50261647 Points: 165 # Comments: 42"
+    "Article URL: https://cfsg.axiommath.ai/ Comments URL: https://news.ycombinator.com/item?id=50261647 Points: 205 # Comments: 57"
    ],
    "source": "Hacker News",
    "url": "https://cfsg.axiommath.ai/",
@@ -403,23 +421,10 @@
    "related": []
   },
   {
-   "id": "a044912b52ff7a524e3928e4f7659f9c8ad5b2ba",
-   "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
-   "summary": [
-    "Article URL: https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova Comments URL: https://news.ycombinator.com/item?id=50261589 Points: 246 # Comments: 155"
-   ],
-   "source": "Hacker News",
-   "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
-   "image": null,
-   "published_at": "2026-10-27T16:25:30Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "9739cf69c4dc7b901f840b53ae0aac61a5789aa4",
    "title": "New 14‑inch MacBook Pro with M6",
    "summary": [
-    "Article URL: https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/ Comments URL: https://news.ycombinator.com/item?id=50261352 Points: 278 # Comments: 335"
+    "Article URL: https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/ Comments URL: https://news.ycombinator.com/item?id=50261352 Points: 348 # Comments: 453"
    ],
    "source": "Hacker News",
    "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
@@ -432,25 +437,12 @@
    "id": "5ef94984dce414f6cd0dec7eb033a3aff5071eaa",
    "title": "Genie 4",
    "summary": [
-    "Article URL: https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/ Comments URL: https://news.ycombinator.com/item?id=50261319 Points: 713 # Comments: 427"
+    "Article URL: https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/ Comments URL: https://news.ycombinator.com/item?id=50261319 Points: 860 # Comments: 503"
    ],
    "source": "Hacker News",
    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
    "image": null,
    "published_at": "2026-10-27T16:06:01Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "a4c44e96b0a94df51038ee6157b11679115f6b1d",
-   "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
-   "summary": [
-    "Article URL: https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/ Comments URL: https://news.ycombinator.com/item?id=50260814 Points: 452 # Comments: 260"
-   ],
-   "source": "Hacker News",
-   "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
-   "image": null,
-   "published_at": "2026-10-27T15:28:26Z",
    "category": "tech",
    "related": []
   },
@@ -537,12 +529,25 @@
    "id": "6a47fd58787ba82b85c2221845cfa1150f0c9ea2",
    "title": "US Government is hiding a secret court ruling about how it spies on Americans",
    "summary": [
-    "Article URL: https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/ Comments URL: https://news.ycombinator.com/item?id=50259604 Points: 772 # Comments: 277"
+    "Article URL: https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/ Comments URL: https://news.ycombinator.com/item?id=50259604 Points: 914 # Comments: 328"
    ],
    "source": "Hacker News",
    "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
    "image": null,
    "published_at": "2026-10-27T14:06:42Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "7a05e19b399896003ae5f51ce0f01c8663d34e50",
+   "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
+   "summary": [
+    "The latest Apple software update for iPhones and iPads includes new features and important security updates."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
+   "image": null,
+   "published_at": "2026-10-27T13:54:51Z",
    "category": "tech",
    "related": []
   }
