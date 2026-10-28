@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-28T08:18:49.161195Z",
- "story_count": 21,
+ "generated_at": "2026-10-28T15:56:46.402797Z",
+ "story_count": 22,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,63 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "2f0061a0ccd02226329664980ef532a6471c75bf",
+   "title": "Scientists discover a secret glow in toxic fire salamanders",
+   "summary": [
+    "Researchers have discovered a surprising hidden ability in Europe's familiar black-and-yellow fire salamanders: they glow green and cyan under ultraviolet light.",
+    "The mysterious fluorescence comes mainly from glands in their skin and their toxic secretions, which can continue glowing for more than 24 hours after being released."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261027063707.htm",
+   "image": null,
+   "published_at": "2026-10-28T12:11:52Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "ce917f69af257bc140c394cf3b981ef8faf269f4",
+   "title": "Scientists discover a hidden 100-million-year-old volcanic system",
+   "summary": [
+    "Scientists have uncovered a long-lost volcanic system in Iran that dates back roughly 100 million years, revealing a hidden chapter in Earth's tectonic history.",
+    "The discovery sheds new light on the disappearance of an ancient ocean and the powerful geological forces that reshaped the Middle East."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261026225615.htm",
+   "image": null,
+   "published_at": "2026-10-28T12:00:17Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "d8f6ffd452ddef66d850562c293e37a7e3f9ccc3",
+   "title": "Earth's ice ages may have been driven by a hidden ocean chain reaction",
+   "summary": [
+    "Scientists have uncovered a surprising connection between Earth's opposite poles that may help explain how the planet plunged into past ice ages.",
+    "New research suggests that as massive ice sheets expanded across the Northern Hemisphere, they cooled Atlantic Ocean waters that eventually traveled south toward Antarctica.",
+    "This cooling may have disrupted Southern Ocean circulation, allowing the ocean to absorb and store more carbon dioxide from the atmosphere, further cooling the planet."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261026225610.htm",
+   "image": null,
+   "published_at": "2026-10-28T11:08:25Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "53df4a8cbbd987c885e1e0958d84c8e9266ca53c",
+   "title": "NASA’s Artemis I mission reveals surprising radiation levels near the Moon",
+   "summary": [
+    "NASA’s Artemis I mission has revealed that cosmic radiation near the Moon is higher than in Earth orbit, but not by as much as scientists might expect.",
+    "Tiny experimental detectors also uncovered surprising details about how radiation passes through the human body, offering valuable insights for future lunar exploration."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261027063659.htm",
+   "image": null,
+   "published_at": "2026-10-28T10:29:36Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "2718276f993bf3955d67550478692d5d98dfe6df",
    "title": "The autistic brain processes faces differently than scientists thought",
@@ -49,20 +106,6 @@
    "url": "https://www.sciencedaily.com/releases/2026/10/261026225608.htm",
    "image": null,
    "published_at": "2026-10-28T01:40:35Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "3fe4c4b2ef4718061d559a687a4d42707c392866",
-   "title": "A bust-up between mathematicians is fuelling fears that AI could undermine science",
-   "summary": [
-    "AI has made some awesome scientific discoveries.",
-    "But now, questions are being raised about its accuracy"
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-28T01:01:02Z",
    "category": "science",
    "related": []
   },
@@ -103,6 +146,19 @@
    "url": "https://www.bbc.co.uk/news/articles/cq0megg87n3po?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-27T17:51:13Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "f060dfb58bbb9c4a8cf7d2ad037b5dc304a7c103",
+   "title": "Nanotyrannus skeleton sells for $47.3m in New York auction",
+   "summary": [
+    "The sale of the rare skeleton reignites debate in the scientific community about whether dinosaur remains should end up in private hands or public view."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-27T17:10:15Z",
    "category": "science",
    "related": []
   },
@@ -268,49 +324,6 @@
    "url": "https://www.sciencedaily.com/releases/2026/10/261025222538.htm",
    "image": null,
    "published_at": "2026-10-27T04:02:26Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "6338e001bb01e62daea6cdc3af431015b3cc4bc8",
-   "title": "Mayo Clinic discovers new ways to fight the “zombie” cells that drive aging",
-   "summary": [
-    "Mayo Clinic scientists have uncovered surprising new insights into “zombie cells,” aging cells that linger in the body and contribute to inflammation and disease.",
-    "In aging mice, experimental treatments reduced inflammation and improved physical and brain health.",
-    "The findings could open the door to therapies that combat some of the biological processes behind aging."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261025073049.htm",
-   "image": null,
-   "published_at": "2026-10-27T02:32:38Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "a0fb8a4a9a73a3e027a4fc986dd6517bcc9f990b",
-   "title": "1.9-million-year-old discovery rewrites the story of human evolution",
-   "summary": [
-    "New evidence suggests that early humans reached the Jordan Valley at least 1.9 million years ago, hundreds of thousands of years earlier than scientists previously thought.",
-    "Advanced dating methods revealed that the ‘Ubeidiya site is roughly as old as the famous Dmanisi site in Georgia, placing both among the earliest known human settlements outside Africa."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261025073042.htm",
-   "image": null,
-   "published_at": "2026-10-27T01:35:08Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "ef7c81aed97457af62634d4871bb799e06dd3d91",
-   "title": "Scientists solve a 30-year mystery behind inflammatory bowel disease",
-   "summary": [
-    "Scientists have identified a hidden cause of inflammatory bowel disease: antibodies that disable the immune system’s natural ability to control inflammation, potentially explaining severe illness in thousands of patients.",
-    "The breakthrough also solves a 30-year genetic mystery and could pave the way for more precise diagnoses and targeted treatments."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261025073053.htm",
-   "image": null,
-   "published_at": "2026-10-26T23:57:03Z",
    "category": "science",
    "related": []
   }
