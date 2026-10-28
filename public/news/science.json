@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-27T21:14:02.632780Z",
- "story_count": 28,
+ "generated_at": "2026-10-28T01:11:53.199538Z",
+ "story_count": 21,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -24,15 +24,29 @@
  },
  "stories": [
   {
+   "id": "3fe4c4b2ef4718061d559a687a4d42707c392866",
+   "title": "A bust-up between mathematicians is fuelling fears that AI could undermine science",
+   "summary": [
+    "AI has made some awesome scientific discoveries.",
+    "But now, questions are being raised about its accuracy"
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6gelgxjwzdzo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-28T01:01:02Z",
+   "category": "science",
+   "related": []
+  },
+  {
    "id": "160ecbb11ec0a02a1a4aaf346212a028bc90016a",
    "title": "Weather warning lifted as third storm to hit Scotland eases off",
    "summary": [
-    "Several thousand properties in the north of Scotland are still without power after days of high winds and heavy rain."
+    "Energy provider SSEN says 2,000 properties in the north of Scotland are still without power after days of high winds and heavy rain."
    ],
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-10-27T18:09:24Z",
+   "published_at": "2026-10-27T21:20:52Z",
    "category": "science",
    "related": []
   },
@@ -293,116 +307,6 @@
    "url": "https://www.bbc.co.uk/news/articles/ckvg7w919x09o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-26T14:54:40Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "495f108a3b90b5352d9a036084f29973fb6bb7e9",
-   "title": "Exercise doesn't just strengthen your heart. It rewires it",
-   "summary": [
-    "Regular exercise does more than strengthen the heart.",
-    "New research reveals that it actually reshapes the nerves controlling how the heart functions, and the changes are surprisingly different on the left and right sides of the body."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261025222848.htm",
-   "image": null,
-   "published_at": "2026-10-26T11:35:53Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "16fca335aee20c4be6b33549f7acc147213b2259",
-   "title": "Stunning photos capture October's Hunter's Moon around the world",
-   "summary": [
-    "October's full Moon, nicknamed the Hunter's Moon, lit up the night sky this weekend."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/weather/articles/c6zjxgj83n80o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-26T11:27:39Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "2d5f406e7beba2b01711fd21a63ad6225f150f63",
-   "title": "Storm Boelo clears but more wind and rain bear down on UK",
-   "summary": [
-    "Another area of low pressure will pass close to the north-west UK with a Met Office yellow wind warning issued for Tuesday."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/weather/articles/cqwy7w8dryrxo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-26T11:21:24Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "df185ef24106862233e2bbdad7c237bf3c2f7f98",
-   "title": "A 2,700-year-old solar eclipse just revealed something surprising about Earth",
-   "summary": [
-    "A solar eclipse recorded more than 2,700 years ago is revealing surprising secrets about Earth's rotation and the Sun's ancient behavior.",
-    "By correcting an eight-kilometer error in the location of an ancient Chinese capital, scientists were able to reconstruct a total solar eclipse that occurred in 709 BCE and obtain more accurate measurements of how fast Earth was spinning at the time."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261025073055.htm",
-   "image": null,
-   "published_at": "2026-10-26T11:06:08Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "e65cfa2d2f1d3d68a7433b694b704e932778a161",
-   "title": "What do we still need to know about the Tyne nurdle spill?",
-   "summary": [
-    "The spill of 18 tonnes of plastic pellets happened in July but there is still a lot we do not know."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c34g1e81e9jeo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-26T11:01:59Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "45a80ca2149f9db04adfa6dc2b817b80a0746ce6",
-   "title": "Chinese scientists discover “D-rex,” a giant fungus with roots stretching back 65 million years",
-   "summary": [
-    "Scientists have discovered a giant new fungus in China that grows up to 20 inches tall and weighs nearly five pounds, making it the largest known of its kind.",
-    "Dubbed “D-rex,” its evolutionary lineage appears to have emerged shortly after the dinosaurs went extinct, raising intriguing questions about how that ancient catastrophe may have shaped its evolution."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261025073034.htm",
-   "image": null,
-   "published_at": "2026-10-26T10:50:11Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "3272e9319f08666f5f0a2000e8502d23ad4372ae",
-   "title": "Tiny magnetic vortices could help computers work more like your brain",
-   "summary": [
-    "Scientists have filmed tiny magnetic vortices called skyrmions melting out of an organized lattice for the first time, revealing new ways to manipulate these unusual structures.",
-    "The breakthrough could help make brain-like computers a reality, potentially enabling dramatically smaller and more energy-efficient technology."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261025073038.htm",
-   "image": null,
-   "published_at": "2026-10-26T10:06:16Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "578d742fe2d4342657b486ec74bb6cff9d16843a",
-   "title": "Archaeologists may have just found the world's oldest shipwreck",
-   "summary": [
-    "A mysterious shipwreck off Turkey’s coast may be the oldest ever discovered, dating back approximately 4,500 years to the age of the Egyptian pyramids.",
-    "Although the wooden vessel has disappeared, its surviving pottery cargo reveals clues about an ancient trading network that may have connected distant Mediterranean civilizations.",
-    "Researchers believe the ship may have crashed against rocks during a storm while transporting valuable goods such as oil, wine, or tree resin."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261025073036.htm",
-   "image": null,
-   "published_at": "2026-10-26T09:51:15Z",
    "category": "science",
    "related": []
   }

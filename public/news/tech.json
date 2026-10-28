@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T21:14:02.632214Z",
+ "generated_at": "2026-10-28T01:11:53.198799Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -23,6 +23,202 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "c4f4cbb28265b8c5f7450584b3e83889f8df3220",
+   "title": "'An annoying buzz': The search for stealthier drones",
+   "summary": [
+    "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-28T00:01:10Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "d4cfba1148abbdeab4cfa957fbd27ab33a6111ce",
+   "title": "Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs",
+   "summary": [
+    "Article URL: https://github.com/maharmstone/moxnox Comments URL: https://news.ycombinator.com/item?id=50267569 Points: 4 # Comments: 1"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/maharmstone/moxnox",
+   "image": null,
+   "published_at": "2026-10-27T23:53:41Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a2f907c053dad857c45d188e32d412297851d431",
+   "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+   "summary": [
+    "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+   "image": null,
+   "published_at": "2026-10-27T23:34:27Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a81d0c1c06b00a4cb1cfeb2aa87c6657388c95ae",
+   "title": "The data center boom has an upside: innovation for the US grid",
+   "summary": [
+    "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+   "image": null,
+   "published_at": "2026-10-27T22:55:41Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "1ca8390dc084802ece6cf247135f495afb981c55",
+   "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
+   "summary": [
+    "Article URL: https://www.bettascore.ai/research/reliability-reviewers-vs-owners Comments URL: https://news.ycombinator.com/item?id=50266780 Points: 44 # Comments: 48"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
+   "image": null,
+   "published_at": "2026-10-27T22:31:15Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "31f30cc34078c45a4ddf745d66e564449c97112c",
+   "title": "Guidewire buys Hyperexponential for $1.7B in cash",
+   "summary": [
+    "The deal, expected to close sometime next year, is to help bring AI agents to work alongside humans to underwrite, analyze, and price decisions."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
+   "image": null,
+   "published_at": "2026-10-27T22:26:03Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "16faca12f9641778719c92ca16cd33af5bbf9b6f",
+   "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+   "summary": [
+    "Article URL: https://www.anthropic.com/news/expanding-partnership-gsa Comments URL: https://news.ycombinator.com/item?id=50266701 Points: 15 # Comments: 10"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+   "image": null,
+   "published_at": "2026-10-27T22:23:37Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "d03b0dd7f06722f1bd3ea58cd3ac10e9df56e1dc",
+   "title": "From 8VC to Benchmark, here’s what’s hiding in October SEC filings",
+   "summary": [
+    "A whole crop of venture capital firms are raising significant new funds."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/",
+   "image": null,
+   "published_at": "2026-10-27T22:17:18Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "2ea67223be98d223b6094af40ea2512581ce361f",
+   "title": "GM is embracing hybrids now",
+   "summary": [
+    "GM eschewed hybrids in favor of battery-electric vehicles.",
+    "Now it's gearing up to offer hybrid versions of its SUVs."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/",
+   "image": null,
+   "published_at": "2026-10-27T21:47:02Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "7afb98bf1433db02ab7deb31c07dba810d622f12",
+   "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+   "summary": [
+    "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+   "image": null,
+   "published_at": "2026-10-27T21:44:34Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "e4dbba9a243c7cf546419b616e46f5d5c4382724",
+   "title": "Who’s really in charge at Anthropic after the IPO?",
+   "summary": [
+    "Here's a clear explanation of Anthropic's incredibly complex governance structure."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+   "image": null,
+   "published_at": "2026-10-27T21:38:28Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "c81c181c88f168a12f30c30a192ab2dd5235f7e6",
+   "title": "Discord is making its public communities more searchable, and people have concerns",
+   "summary": [
+    "In December, messages from Discord's public discoverable servers will begin appearing in search engine results."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns/",
+   "image": null,
+   "published_at": "2026-10-27T21:22:35Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "fdf27bf9960b1109d4f0b8c8cc98f8977bc59ae6",
+   "title": "Early progress on accelerating drug development with Claude",
+   "summary": [
+    "Article URL: https://www.anthropic.com/research/early-progress-drug-development Comments URL: https://news.ycombinator.com/item?id=50265609 Points: 112 # Comments: 97"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.anthropic.com/research/early-progress-drug-development",
+   "image": null,
+   "published_at": "2026-10-27T20:50:42Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "1cdc2a43b76ebfc09a649d30347ac42412ef1f47",
+   "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+   "summary": [
+    "Article URL: https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/ Comments URL: https://news.ycombinator.com/item?id=50265594 Points: 89 # Comments: 33"
+   ],
+   "source": "Hacker News",
+   "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
+   "image": null,
+   "published_at": "2026-10-27T20:48:49Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "986ff5c64946ed0ba2a599594ce7a79ec9bd53b2",
+   "title": "Hex Raises $100M",
+   "summary": [
+    "Article URL: https://hex.tech/blog/hex-new-era/ Comments URL: https://news.ycombinator.com/item?id=50265413 Points: 46 # Comments: 24"
+   ],
+   "source": "Hacker News",
+   "url": "https://hex.tech/blog/hex-new-era/",
+   "image": null,
+   "published_at": "2026-10-27T20:36:38Z",
+   "category": "tech",
+   "related": []
+  },
   {
    "id": "485d190c3a3eaae309b273e7e86c147c529b82ca",
    "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
@@ -53,7 +249,7 @@
    "id": "184179dd0a7d18c1f3415f5300f068d8403a5b4a",
    "title": "Four Months of Zig",
    "summary": [
-    "Article URL: https://gracefulliberty.com/articles/four-months-of-zig/ Comments URL: https://news.ycombinator.com/item?id=50265128 Points: 5 # Comments: 1"
+    "Article URL: https://gracefulliberty.com/articles/four-months-of-zig/ Comments URL: https://news.ycombinator.com/item?id=50265128 Points: 70 # Comments: 40"
    ],
    "source": "Hacker News",
    "url": "https://gracefulliberty.com/articles/four-months-of-zig/",
@@ -66,7 +262,7 @@
    "id": "2fb0f351f38405364daa1e0520141fa488c415a6",
    "title": "Tailscale SSH: Investigation and remediation update",
    "summary": [
-    "Article URL: https://tailscale.com/ssh-investigation-update Comments URL: https://news.ycombinator.com/item?id=50264857 Points: 67 # Comments: 18"
+    "Article URL: https://tailscale.com/ssh-investigation-update Comments URL: https://news.ycombinator.com/item?id=50264857 Points: 179 # Comments: 101"
    ],
    "source": "Hacker News",
    "url": "https://tailscale.com/ssh-investigation-update",
@@ -79,7 +275,7 @@
    "id": "62b1fcdba263ec2da2b2a051c1fe220065c7bfb5",
    "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
    "summary": [
-    "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 45 # Comments: 28"
+    "Article URL: https://www.brangus.io/survival-llm Comments URL: https://news.ycombinator.com/item?id=50264853 Points: 168 # Comments: 96"
    ],
    "source": "Hacker News",
    "url": "https://www.brangus.io/survival-llm",
@@ -105,7 +301,7 @@
    "id": "4b0c52a0ad809c9c69135502d03b08dfe41e56d2",
    "title": "Discord will soon let anyone find public server messages through Google",
    "summary": [
-    "Article URL: https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover Comments URL: https://news.ycombinator.com/item?id=50263854 Points: 106 # Comments: 71"
+    "Article URL: https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover Comments URL: https://news.ycombinator.com/item?id=50263854 Points: 233 # Comments: 131"
    ],
    "source": "Hacker News",
    "url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
@@ -118,12 +314,26 @@
    "id": "46f86b0d8871bc90b20df185a8b5150f9ec376b6",
    "title": "Three TLS Bugs in GoAhead",
    "summary": [
-    "Article URL: https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead Comments URL: https://news.ycombinator.com/item?id=50263701 Points: 33 # Comments: 3"
+    "Article URL: https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead Comments URL: https://news.ycombinator.com/item?id=50263701 Points: 59 # Comments: 13"
    ],
    "source": "Hacker News",
    "url": "https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead",
    "image": null,
    "published_at": "2026-10-27T18:33:48Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "cef9db3bf1166d24e2477bb24b6bf5fe05cd97ca",
+   "title": "Radio-tagged Monarch butterflies",
+   "summary": [
+    "https://celltracktech.com/pages/blumorphohttps://monarchresearch.org/news-and-events/monarch-research...https://monarchwatch.org/radiotag/https://swmonarchs.org/ProjectMonarch.phphttps://blog.cwf-fcf.org/index.php/en/tiny-tracking-tags-for...",
+    "Comments URL: https://news.ycombinator.com/item?id=50262982 Points: 25 # Comments: 8"
+   ],
+   "source": "Hacker News",
+   "url": "https://news.vt.edu/articles/2026/10/cmi-monarchs.html",
+   "image": null,
+   "published_at": "2026-10-27T17:48:15Z",
    "category": "tech",
    "related": []
   },
@@ -144,7 +354,7 @@
    "id": "767a7db22edd66808e4acca675b8c8e6179886f9",
    "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
    "summary": [
-    "Article URL: https://www.liquid.ai/blog/lfm3 Comments URL: https://news.ycombinator.com/item?id=50262229 Points: 74 # Comments: 27"
+    "Article URL: https://www.liquid.ai/blog/lfm3 Comments URL: https://news.ycombinator.com/item?id=50262229 Points: 118 # Comments: 48"
    ],
    "source": "Hacker News",
    "url": "https://www.liquid.ai/blog/lfm3",
@@ -155,27 +365,14 @@
   },
   {
    "id": "068ca2c5cfaca264a74170d3f3f95f10b5d2a63c",
-   "title": "Ghostty 1.4.0",
+   "title": "Ghostty 1.4",
    "summary": [
-    "Article URL: https://ghostty.org/docs/install/release-notes/1-4-0 Comments URL: https://news.ycombinator.com/item?id=50261998 Points: 453 # Comments: 137"
+    "Article URL: https://ghostty.org/docs/install/release-notes/1-4-0 Comments URL: https://news.ycombinator.com/item?id=50261998 Points: 734 # Comments: 224"
    ],
    "source": "Hacker News",
    "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
    "image": null,
    "published_at": "2026-10-27T16:51:22Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "099c4912233a64d5a579b25c887fa70f90fa5db5",
-   "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
-   "summary": [
-    "Article URL: https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220 Comments URL: https://news.ycombinator.com/item?id=50261819 Points: 277 # Comments: 209"
-   ],
-   "source": "Hacker News",
-   "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
-   "image": null,
-   "published_at": "2026-10-27T16:40:15Z",
    "category": "tech",
    "related": []
   },
@@ -196,7 +393,7 @@
    "id": "18198893af72c1594f8908575f9a350bad44030e",
    "title": "Classification of Finite Simple Groups Formalized in Lean",
    "summary": [
-    "Article URL: https://cfsg.axiommath.ai/ Comments URL: https://news.ycombinator.com/item?id=50261647 Points: 118 # Comments: 28"
+    "Article URL: https://cfsg.axiommath.ai/ Comments URL: https://news.ycombinator.com/item?id=50261647 Points: 165 # Comments: 42"
    ],
    "source": "Hacker News",
    "url": "https://cfsg.axiommath.ai/",
@@ -206,23 +403,10 @@
    "related": []
   },
   {
-   "id": "aad7196a6fa6f89be088b1281c26ee94b9ff675c",
-   "title": "Vicious Cycles: Theses on a philosophy of news",
-   "summary": [
-    "Article URL: https://harpers.org/archive/2020/01/vicious-cycles-theses-on-a-philosophy-of-news/ Comments URL: https://news.ycombinator.com/item?id=50261623 Points: 20 # Comments: 5"
-   ],
-   "source": "Hacker News",
-   "url": "https://harpers.org/archive/2020/01/vicious-cycles-theses-on-a-philosophy-of-news/",
-   "image": null,
-   "published_at": "2026-10-27T16:27:29Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "a044912b52ff7a524e3928e4f7659f9c8ad5b2ba",
    "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
    "summary": [
-    "Article URL: https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova Comments URL: https://news.ycombinator.com/item?id=50261589 Points: 127 # Comments: 62"
+    "Article URL: https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova Comments URL: https://news.ycombinator.com/item?id=50261589 Points: 246 # Comments: 155"
    ],
    "source": "Hacker News",
    "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
@@ -232,41 +416,23 @@
    "related": []
   },
   {
-   "id": "f32c6c080eccf77c050ef64ab84e0a39406c4378",
-   "title": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
-   "summary": [
-    "Article URL: https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/ Comments URL: https://news.ycombinator.com/item?id=50261583 Points: 37 # Comments: 4"
-   ],
-   "source": "Hacker News",
-   "url": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/",
-   "image": null,
-   "published_at": "2026-10-27T16:25:12Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "9739cf69c4dc7b901f840b53ae0aac61a5789aa4",
    "title": "New 14‑inch MacBook Pro with M6",
    "summary": [
-    "Article URL: https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/ Comments URL: https://news.ycombinator.com/item?id=50261352 Points: 182 # Comments: 195"
+    "Article URL: https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/ Comments URL: https://news.ycombinator.com/item?id=50261352 Points: 278 # Comments: 335"
    ],
    "source": "Hacker News",
    "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
    "image": null,
    "published_at": "2026-10-27T16:08:32Z",
    "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "https://www.apple.com/imac/"
-    }
-   ]
+   "related": []
   },
   {
    "id": "5ef94984dce414f6cd0dec7eb033a3aff5071eaa",
    "title": "Genie 4",
    "summary": [
-    "Article URL: https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/ Comments URL: https://news.ycombinator.com/item?id=50261319 Points: 528 # Comments: 318"
+    "Article URL: https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/ Comments URL: https://news.ycombinator.com/item?id=50261319 Points: 713 # Comments: 427"
    ],
    "source": "Hacker News",
    "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
@@ -279,7 +445,7 @@
    "id": "a4c44e96b0a94df51038ee6157b11679115f6b1d",
    "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
    "summary": [
-    "Article URL: https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/ Comments URL: https://news.ycombinator.com/item?id=50260814 Points: 322 # Comments: 175"
+    "Article URL: https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/ Comments URL: https://news.ycombinator.com/item?id=50260814 Points: 452 # Comments: 260"
    ],
    "source": "Hacker News",
    "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
@@ -298,21 +464,6 @@
    "url": "https://www.theguardian.com/global/2026/oct/26/anthropic-accelerates-ai",
    "image": "https://i.guim.co.uk/img/media/445e90b032229c54129ea99217bf19c2cdd0d1a3/456_0_4580_3666/master/4580.jpg?width=140&quality=85&auto=format&fit=max&s=b7eef94194c3f1d3c639a4b9a8fc4668",
    "published_at": "2026-10-27T15:15:20Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "b54837d87805d922e5e04758b8528c5b21bfe50e",
-   "title": "Show HN: Specification First Agentic Development Plugin and Prove",
-   "summary": [
-    "Implemented agent smith since start 2026 with over 1000 specifications which lead to about 500k lines of code.",
-    "The procedure with that spec-first works well.",
-    "Comments URL: https://news.ycombinator.com/item?id=50260571 Points: 22 # Comments: 11"
-   ],
-   "source": "Hacker News",
-   "url": "https://spec-first.dev/",
-   "image": null,
-   "published_at": "2026-10-27T15:12:20Z",
    "category": "tech",
    "related": []
   },
@@ -386,171 +537,12 @@
    "id": "6a47fd58787ba82b85c2221845cfa1150f0c9ea2",
    "title": "US Government is hiding a secret court ruling about how it spies on Americans",
    "summary": [
-    "Article URL: https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/ Comments URL: https://news.ycombinator.com/item?id=50259604 Points: 621 # Comments: 212"
+    "Article URL: https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/ Comments URL: https://news.ycombinator.com/item?id=50259604 Points: 772 # Comments: 277"
    ],
    "source": "Hacker News",
    "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
    "image": null,
    "published_at": "2026-10-27T14:06:42Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "7a05e19b399896003ae5f51ce0f01c8663d34e50",
-   "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
-   "summary": [
-    "The latest Apple software update for iPhones and iPads includes new features and important security updates."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
-   "image": null,
-   "published_at": "2026-10-27T13:54:51Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "a23875735661b751d6385f66fcde0908b6d69212",
-   "title": "PHP2Shell: Exploitation attempts and remediation trends",
-   "summary": [
-    "Article URL: https://www.wiz.io/blog/php2shell-exploitation-so-far Comments URL: https://news.ycombinator.com/item?id=50259343 Points: 170 # Comments: 55"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
-   "image": null,
-   "published_at": "2026-10-27T13:52:12Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "3f5bc6113c36383414eaf50feabed6ce7888a1fc",
-   "title": "Japan internet giant GMO says hackers posted stolen customer data",
-   "summary": [
-    "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
-   "image": null,
-   "published_at": "2026-10-27T13:32:57Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "8af34d90d669e0eb5175a0f0f34708f215ce5606",
-   "title": "Here be monsters: What do you still need to know when agents do the work?",
-   "summary": [
-    "Article URL: https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work Comments URL: https://news.ycombinator.com/item?id=50258868 Points: 124 # Comments: 55"
-   ],
-   "source": "Hacker News",
-   "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
-   "image": null,
-   "published_at": "2026-10-27T13:23:22Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "396ecbb517cf8dff8962e3fc8765b0ed64f5a816",
-   "title": "Billionaire Palmer Luckey isn’t leaving California over the wealth tax",
-   "summary": [
-    "\"It's causing a lot of people to run who I don't want to be running,\" native Californian Palmer Luckey said.",
-    "\"But I'm planning on staying in California."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/",
-   "image": null,
-   "published_at": "2026-10-27T13:01:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "17e23f6bdae7a25a976b6d1e08bdc0a06f210255",
-   "title": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
-   "summary": [
-    "Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U.S., and by that he doesn't just mean assembly, but every individual component, some of which are exclusively made in China today."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/",
-   "image": null,
-   "published_at": "2026-10-27T13:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "e4dd73cec05da0a08bb12a5483ac37f2a2479638",
-   "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
-   "summary": [
-    "General Compute is betting on inference chips from outside the Nvidia ecosystem."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
-   "image": null,
-   "published_at": "2026-10-27T13:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "2d1cc6aaea4683bed004c36c40fccd03b298438f",
-   "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
-   "summary": [
-    "The new standard, WebAI, is designed to work with a variety of AI models."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
-   "image": null,
-   "published_at": "2026-10-27T13:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "02c774ec5299e23adb5c7164ec9b5c27d0981b48",
-   "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-   "summary": [
-    "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-   "image": null,
-   "published_at": "2026-10-27T11:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "7cf337f0598468a3dcdab9b53e9f308b1e42b31b",
-   "title": "AI-driven disinformation running rampant on social media before US midterms, experts warn",
-   "summary": [
-    "Social media companies including Meta have pulled back on efforts to protect voters from election-meddling liesSocial media feeds are awash with an unprecedented flood of AI-driven disinformation ahead of November’s US midterm elections, according to experts, who warn many posts are probably “slipping through the cracks”.As tens of millions of Americans prepare to cast their vote, social media companies have scaled back their efforts to protect voters from lies meant to manipulate elections."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/oct/27/ai-disinformation-social-media-midterm-elections",
-   "image": "https://i.guim.co.uk/img/media/d68f11cd3f15233005d45b70d00a9d9862b743ac/433_0_4332_3466/master/4332.jpg?width=140&quality=85&auto=format&fit=max&s=ea723306e08654b82b719f3e561e63a2",
-   "published_at": "2026-10-27T10:00:10Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "b5311eeeed20ae08fdefcee86ce6d645fe7b128c",
-   "title": "Eight great new indie horror games for Halloween",
-   "summary": [
-    "Whether you favour spooky fairtales, satanic card games or infernal hijinks at the chip shop there are all manner of fresh top scarers at large this witching seasonTis almost All Hallows’ Eve and naturally, the thoughts of all good video game players are turning to horror.",
-    "2026 has already been a bloody good year for the genre with Resident Evil Requiem and Silent Hill: Townfall leading the rabble.",
-    "But this autumn sees a festering surge of indie horror releases, featuring everything from cursed card games to Nazi-hunting penguins."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/games/2026/oct/27/new-indie-horror-games-halloween",
-   "image": "https://i.guim.co.uk/img/media/5c7f05da40cd83d5eeb4462753f4b75e00b57b1d/349_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=a78145cc484072e3aa8a78ac648cc99c",
-   "published_at": "2026-10-27T10:00:09Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "68ef19ebcf5fa6f54354f6d942d572206eefcada",
-   "title": "‘My social life completely plummeted’: gen Z is fighting back against big tech",
-   "summary": [
-    "From apps that block distractions to stripped-down phones, young people are finding ways to unplug from platforms they say profit from their attentionGen Z voters: tell us what is guiding your vote in the US midterm elections?Nelissa Moukoudi, 19, a university student in Canada, noticed a shift once she joined Instagram and TikTok.“My social life completely plummeted and it felt like my life was only [using] social media and school,” she said."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/oct/27/gen-z-digital-detox-apps",
-   "image": "https://i.guim.co.uk/img/media/7ee2fa03bca99eb0692712afe9a5f5691be9e3e4/1025_0_6440_5152/master/6440.jpg?width=140&quality=85&auto=format&fit=max&s=ebbe85b844bcbc75c8b2812a86351342",
-   "published_at": "2026-10-27T10:00:08Z",
    "category": "tech",
    "related": []
   }
