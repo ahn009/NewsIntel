@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T14:08:53.465906Z",
+ "generated_at": "2026-10-29T20:12:55.171354Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -23,6 +23,464 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "1e09943a421e9246b3e0b8e89cf39f0de8ae649c",
+   "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+   "summary": [
+    "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+   "image": null,
+   "published_at": "2026-10-29T20:08:31Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "7587406daf7d14d3030ba887665a0c517452eec6",
+   "title": "Rivian expands joint venture with VW to include AI assistant",
+   "summary": [
+    "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+   "image": null,
+   "published_at": "2026-10-29T20:05:47Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "145d8e85cf93e75a669c344f4afa96572f0eb0e5",
+   "title": "The R2 SUV is already Rivian’s best-selling vehicle",
+   "summary": [
+    "Rivian is seeing strong enough sales of the new EV that it improved its guidance to Wall Street for the second time this year."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle/",
+   "image": null,
+   "published_at": "2026-10-29T20:02:03Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "4db20898e948fcbbfe57b9ad9fb40b89b701dab2",
+   "title": "OpenAI-backed Thrive Holdings acquires ADT",
+   "summary": [
+    "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+   "image": null,
+   "published_at": "2026-10-29T19:56:19Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "1ffd1f6b6f1e33fffd8d713e4d8a30a066e78041",
+   "title": "Patrick Stewart has died",
+   "summary": [
+    "https://archive.ph/y4Egmhttps://en.wikipedia.org/wiki/Patrick_Stewart Comments URL: https://news.ycombinator.com/item?id=50294702 Points: 173 # Comments: 24"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+   "image": null,
+   "published_at": "2026-10-29T19:41:39Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "9c79112b0f2e55948662deafafe9d428f4387a05",
+   "title": "The importance of communities around software",
+   "summary": [
+    "Article URL: https://lumi.codeberg.page/blog/software-community.html Comments URL: https://news.ycombinator.com/item?id=50294507 Points: 17 # Comments: 5"
+   ],
+   "source": "Hacker News",
+   "url": "https://lumi.codeberg.page/blog/software-community.html",
+   "image": null,
+   "published_at": "2026-10-29T19:27:47Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "3fc7476dc7642df84b85b926ab5674c9b964b889",
+   "title": "Show HN: Auto Dismiss Mac OS \"Allow to find devices on local networks?\"",
+   "summary": [
+    "This popup has been a constant gripe of mine for years.",
+    "I almost NEVER want to allow this permission and there is no system setting to disable it globally and prevent the popup from interrupting your typing, etc. This tiny swift app I built will autoclose it in 1/4th of a second and leave behind a little notification that it did so.",
+    "Comments URL: https://news.ycombinator.com/item?id=50294506 Points: 25 # Comments: 12"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/johncassil/dontallow",
+   "image": null,
+   "published_at": "2026-10-29T19:27:44Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "849640f5ae5bd7ed094345de1f984cbee69052f1",
+   "title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
+   "summary": [
+    "Article URL: https://divergencelabs.com/publications/ige-preprint.pdf Comments URL: https://news.ycombinator.com/item?id=50294486 Points: 7 # Comments: 1"
+   ],
+   "source": "Hacker News",
+   "url": "https://divergencelabs.com/publications/ige-preprint.pdf",
+   "image": null,
+   "published_at": "2026-10-29T19:25:48Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ea24d47477581cb581e1d803fa084ec8ca26b343",
+   "title": "Where was my invite to the — wait, what? Airbnb had a gala?",
+   "summary": [
+    "Airbnb’s nonprofit held its inaugural gala on Wednesday in Los Angeles, and the internet had one reaction — the *what* gala?"
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/29/where-was-my-invite-to-the-wait-what-airbnb-had-a-gala/",
+   "image": null,
+   "published_at": "2026-10-29T19:17:49Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "bde015e58f3737fa35432c99a4d3fde247a09577",
+   "title": "Meta quietly launches an AI fashion app called Style Sketch",
+   "summary": [
+    "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+   "image": null,
+   "published_at": "2026-10-29T19:14:36Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "066f3bd17c5f1eff64a81b5b3942605b74aafa4c",
+   "title": "Granola crunches up a dictation feature to compete with Wispr",
+   "summary": [
+    "After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker.",
+    "The voice AI wars are getting interesting."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+   "image": null,
+   "published_at": "2026-10-29T17:54:38Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "6e8fb8e0c17daa04ba020560ad5e720ecdf04826",
+   "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
+   "summary": [
+    "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-..., https://archive.ph/K7bih Comments URL: https://news.ycombinator.com/item?id=50293047 Points: 42 # Comments: 4"
+   ],
+   "source": "Hacker News",
+   "url": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
+   "image": null,
+   "published_at": "2026-10-29T17:43:48Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "b63ff4a0230e417d252488b21b2ad797ab9da83a",
+   "title": "After 28 years walking across the globe, he's almost home",
+   "summary": [
+    "https://archive.ph/NCeML Comments URL: https://news.ycombinator.com/item?id=50293023 Points: 37 # Comments: 15"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.nytimes.com/2026/10/29/world/europe/karl-bushby-walking-globe-uk.html",
+   "image": null,
+   "published_at": "2026-10-29T17:42:22Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "9893b64114d0af225e027088362d5d42610a4b6f",
+   "title": "Google owner Alphabet loses $500bn in market value after profit disappoints Wall Street",
+   "summary": [
+    "Net profit slid 25% from a year earlier to $26.2bn, well short of expectations, though revenue rose to $127.6bnShares in the Google parent Alphabet fell double digits Wednesday evening into Thursday trading, erasing hundreds of billions of dollars in stock market value from the $4tn tech giant.The company had reported lower-than-expected profit and a slowdown in its advertising business while it maintained big spending on AI."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/oct/28/google-alphabet-q3-earnings-report",
+   "image": "https://i.guim.co.uk/img/media/1fbb3bf8e595e794d2bb46b7c93c9e9f51b4634e/173_0_5155_4125/master/5155.jpg?width=140&quality=85&auto=format&fit=max&s=9785ad3246f1ebf0743f62c3582ab1b4",
+   "published_at": "2026-10-29T17:29:46Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "11ef932bb8b9a008b41117b2ab8dbef0bf1c5309",
+   "title": "Duet is the future of chatbot interaction",
+   "summary": [
+    "Article URL: https://fig.blue/posts/duet-is-the-future/ Comments URL: https://news.ycombinator.com/item?id=50292727 Points: 8 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://fig.blue/posts/duet-is-the-future/",
+   "image": null,
+   "published_at": "2026-10-29T17:24:25Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "23e63926cceaf4fd9858e5195a7546407a2f2849",
+   "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+   "summary": [
+    "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+   "image": null,
+   "published_at": "2026-10-29T17:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "e90b807807fb4c7cacfd4f84e355441700a39b3e",
+   "title": "Tomáš Mikolov awarded the Medal of Merit by the President of the Czech Republic",
+   "summary": [
+    "Article URL: https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468 Comments URL: https://news.ycombinator.com/item?id=50292233 Points: 125 # Comments: 14"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.vut.cz/en/but/news-f19528/two-but-graduates-received-state-honors-from-the-president-of-the-republic-d378468",
+   "image": null,
+   "published_at": "2026-10-29T16:56:54Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a9493e03c65cfd3b58e56cd1aa7cb0fb95f52ed4",
+   "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
+   "summary": [
+    "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
+   "image": null,
+   "published_at": "2026-10-29T16:42:32Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "53a5e73183752016e2a2d0d652a1e593823230d9",
+   "title": "Google Search is now less than half of Alphabet’s revenue",
+   "summary": [
+    "Article URL: https://www.kadoa.com/companies/insights/google-search-below-half Comments URL: https://news.ycombinator.com/item?id=50291945 Points: 340 # Comments: 291"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.kadoa.com/companies/insights/google-search-below-half",
+   "image": null,
+   "published_at": "2026-10-29T16:42:17Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a361801492c5eab22ab5ea3adb20143066888b94",
+   "title": "Toxic experts (2017)",
+   "summary": [
+    "Article URL: https://nedbatchelder.com/blog/201711/toxic_experts Comments URL: https://news.ycombinator.com/item?id=50291927 Points: 63 # Comments: 38"
+   ],
+   "source": "Hacker News",
+   "url": "https://nedbatchelder.com/blog/201711/toxic_experts",
+   "image": null,
+   "published_at": "2026-10-29T16:41:11Z",
+   "category": "tech",
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://sidbala.com/h-264-is-magic/"
+    }
+   ]
+  },
+  {
+   "id": "4dcfcc0d194323eb6d43206a9947da4afb65f2f5",
+   "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+   "summary": [
+    "Dream is grounded in real physics and construction standards.",
+    "Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+   "image": null,
+   "published_at": "2026-10-29T16:21:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "d626a55e51254b839919ec608e62b5cccd5773de",
+   "title": "SuperMe raises $20M for its network of AI expert profiles",
+   "summary": [
+    "SuperMe is a network of AI profiles built from the knowledge of real-life experts.",
+    "When you ask a question, the platform determines which experts are best suited to answer and creates a group chat with their AI profiles."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/",
+   "image": null,
+   "published_at": "2026-10-29T16:19:43Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "b2249d571948ebd2e9344947f59715bdd1792fd3",
+   "title": "16colo.rs – ANSI/ASCII art archive",
+   "summary": [
+    "Article URL: https://16colo.rs/ Comments URL: https://news.ycombinator.com/item?id=50291421 Points: 53 # Comments: 5"
+   ],
+   "source": "Hacker News",
+   "url": "https://16colo.rs/",
+   "image": null,
+   "published_at": "2026-10-29T16:14:28Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "49db83e253edbf0771d468b99bafbdd0476979fa",
+   "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
+   "summary": [
+    "We are building the simulation layer that lets engineers and AI agents test and validate firmware without hardware.Before Simantic, we were ex-firmware engineers at companies like Neuralink and Tesla.",
+    "We built our MVP that was essentially a wrapper around Renode, but we quickly realized there were a lot of limitations to doing this.1.",
+    "Renode was released in 2017, which was when all code was still being written by hand, so I think it made sense looking back, but there were limitations because of the language itself.3."
+   ],
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50291116",
+   "image": null,
+   "published_at": "2026-10-29T15:56:32Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a525c413ff0565adb408c6d4b0b45d4352b993ab",
+   "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
+   "summary": [
+    "Article URL: https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler Comments URL: https://news.ycombinator.com/item?id=50290912 Points: 101 # Comments: 16"
+   ],
+   "source": "Hacker News",
+   "url": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
+   "image": null,
+   "published_at": "2026-10-29T15:45:05Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "796b6bd3e2181018d8bca7412f8f8d018b2ab41a",
+   "title": "I went to Mexico to test-drive the cars Americans can’t buy",
+   "summary": [
+    "https://archive.ph/sGqBh Comments URL: https://news.ycombinator.com/item?id=50290668 Points: 237 # Comments: 253"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/",
+   "image": null,
+   "published_at": "2026-10-29T15:30:22Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "bd43dca7b97353c9f4da2d7bb1f7ef4bd924778a",
+   "title": "Zombie stats: Where the numbers AI quotes come from",
+   "summary": [
+    "Article URL: https://trakkr.ai/trakkr-research/zombie-stats Comments URL: https://news.ycombinator.com/item?id=50290283 Points: 107 # Comments: 54"
+   ],
+   "source": "Hacker News",
+   "url": "https://trakkr.ai/trakkr-research/zombie-stats",
+   "image": null,
+   "published_at": "2026-10-29T15:06:17Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "7aa9dd32e3c7a04d60ae9df61d3b7ae99f9ee6aa",
+   "title": "What is it like to work when your co-workers are AI agents?",
+   "summary": [
+    "Using AI for roles from executive assistants to chiefs of staff, companies are boasting about doing more with less, creating tension with their human workersOn an average workday, Dhruv Amin chats with dozens of colleagues to get things done at his AI startup Anything.",
+    "They’re artificial intelligence agents, software that handles tasks without human intervention.",
+    "At Anything, there are 15 human employees and roughly 150 agents – a ratio that Amin believes will soon be the norm."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/oct/29/ai-agent-coworker",
+   "image": "https://i.guim.co.uk/img/media/96ab1d348d65947d1e741dfb0c36ee6140aa89e2/438_0_4207_3367/master/4207.jpg?width=140&quality=85&auto=format&fit=max&s=06dcc75fbd53921f5ff2eb3d6ebeea8a",
+   "published_at": "2026-10-29T15:00:46Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "172589dc6def3bbcbbb236c2c95c2501c344837b",
+   "title": "Puddlesuits, movie nights and daytime baths: how to survive rainy days with small kids",
+   "summary": [
+    "From screen-free stories and craft kits to waterproof gear, here’s how to keep little ones – and grownups – entertained• The best gifts for kids by ageBefore becoming a mum, I never appreciated quite how complicated getting out the front door would be with kids in tow.",
+    "But in my four and a half years of parenting two small people, I can confidently say it’s nothing compared with the challenge of a day spent inside when outside is off-limits."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/thefilter/2026/oct/29/rainy-day-hacks-for-kids-uk",
+   "image": "https://i.guim.co.uk/img/media/3751fea5e6d3ad1dfbf60046c0c619526f10c981/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=50c689bd2af7147ebd5aaef7c25bee70",
+   "published_at": "2026-10-29T15:00:46Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "c0ebd02c0deb749ff83761a9e72f48a392ab465c",
+   "title": "Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy",
+   "summary": [
+    "Mintive was founded by two engineers who have been working on AI for decades through Google Brain and Coursera.",
+    "It's platform promises to help IT easily control enterprise agents."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/",
+   "image": null,
+   "published_at": "2026-10-29T15:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "739e0b5535e3ec061840356572d3233664c1c295",
+   "title": "LLM Voice",
+   "summary": [
+    "Article URL: https://martinfowler.com/bliki/LLM-Voice.html Comments URL: https://news.ycombinator.com/item?id=50290177 Points: 214 # Comments: 123"
+   ],
+   "source": "Hacker News",
+   "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+   "image": null,
+   "published_at": "2026-10-29T14:57:55Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "5c450d9a985fdd096989ecf4cfc40ba6c5871dc6",
+   "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+   "summary": [
+    "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+   "image": null,
+   "published_at": "2026-10-29T14:35:26Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "7026960b106a4fe78add8be83a484a0c91f33d1a",
+   "title": "Keplearn: Extract Equations from Data in Seconds",
+   "summary": [
+    "Article URL: https://github.com/owls-on-wires/keplearn Comments URL: https://news.ycombinator.com/item?id=50289590 Points: 71 # Comments: 5"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/owls-on-wires/keplearn",
+   "image": null,
+   "published_at": "2026-10-29T14:22:53Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "8ccea7e89b7030862a9f53eb527a17d29d33f0d5",
+   "title": "We're releasing the weights of Mistral Large 4",
+   "summary": [
+    "Article URL: https://mistral.ai/news/mistral-large-4-oss/ Comments URL: https://news.ycombinator.com/item?id=50289418 Points: 883 # Comments: 253"
+   ],
+   "source": "Hacker News",
+   "url": "https://mistral.ai/news/mistral-large-4-oss/",
+   "image": null,
+   "published_at": "2026-10-29T14:13:21Z",
+   "category": "tech",
+   "related": []
+  },
   {
    "id": "540d559c7eda23064430e7c39642a71d49c20623",
    "title": "Bluesky blocks links to leaked DHS employee data as government seeks takedowns",
@@ -50,23 +508,10 @@
    "related": []
   },
   {
-   "id": "132f6324df255b1b33bb011cdaae3fd7e38d72fc",
-   "title": "Read the letter the FBI sent MLK to try to convince him to kill himself (2014)",
-   "summary": [
-    "Article URL: https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter Comments URL: https://news.ycombinator.com/item?id=50288867 Points: 49 # Comments: 6"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter",
-   "image": null,
-   "published_at": "2026-10-29T13:40:04Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "d0e2301d55a343cce8142210a89d4b9267e2049f",
    "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
    "summary": [
-    "Deepgram said that it is committed to keep Pipecat open source."
+    "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure."
    ],
    "source": "TechCrunch",
    "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
@@ -76,14 +521,13 @@
    "related": []
   },
   {
-   "id": "f1cd1b9663e9895d76732c7e08af9a1fe4425003",
-   "title": "Amazon updates Alexa to help you manage shopping lists, subscriptions, and update delivery instructions",
+   "id": "65d251570ded5fa827a325841a329340f41cdd55",
+   "title": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
    "summary": [
-    "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items.",
-    "You can also manage subscriptions with the AI bot."
+    "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items."
    ],
    "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions/",
+   "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/",
    "image": null,
    "published_at": "2026-10-29T13:00:00Z",
    "category": "tech",
@@ -93,105 +537,13 @@
    "id": "0503213862d63b3b4ada570f0af9dba74c72aff8",
    "title": "Who will you learn from in 6 days at TechCrunch Founder Summit? Meet the founders and investors taking the stages",
    "summary": [
-    "Six days from now, TechCrunch Founder Summit brings experienced founders, investors, and operators to Boston on Nov.",
-    "4 to share the decisions, mistakes, pivots, and lessons that shaped their companies.",
+    "Six days from now, on November 4, TechCrunch Founder Summit brings experienced founders, investors, and operators to Boston to share the decisions, mistakes, pivots, and lessons that shaped their companies.",
     "Register before it starts for ticket savings and deals."
    ],
    "source": "TechCrunch",
    "url": "https://techcrunch.com/2026/10/29/who-will-you-learn-from-in-6-days-at-techcrunch-founder-summit-meet-the-founders-and-investors-taking-the-stage/",
    "image": null,
    "published_at": "2026-10-29T13:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "eebb63f2228b3e378b5ad02b225701c5f87407f3",
-   "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
-   "summary": [
-    "Article URL: https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1 Comments URL: https://news.ycombinator.com/item?id=50288019 Points: 109 # Comments: 70"
-   ],
-   "source": "Hacker News",
-   "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
-   "image": null,
-   "published_at": "2026-10-29T12:41:56Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "271c4b510a85d1d6f5fdc08eed80c32ee0b94b59",
-   "title": "DoorDash to Acquire Instacart",
-   "summary": [
-    "Article URL: https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx Comments URL: https://news.ycombinator.com/item?id=50287919 Points: 90 # Comments: 65"
-   ],
-   "source": "Hacker News",
-   "url": "https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx",
-   "image": null,
-   "published_at": "2026-10-29T12:33:05Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "b8568a0a8eb66f364c1eb01f587e8a332009f315",
-   "title": "Hackers expose the identities of more than 40k DHS employees",
-   "summary": [
-    "Article URL: https://text.npr.org/nx-s1-6021497 Comments URL: https://news.ycombinator.com/item?id=50287898 Points: 71 # Comments: 16"
-   ],
-   "source": "Hacker News",
-   "url": "https://text.npr.org/nx-s1-6021497",
-   "image": null,
-   "published_at": "2026-10-29T12:31:09Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "55721d6c562b7fe9c1c0aa1558f7bb4e9962f808",
-   "title": "If IPv4 Were Land",
-   "summary": [
-    "Article URL: https://iptrust.co/blog/if-ipv4-were-land Comments URL: https://news.ycombinator.com/item?id=50287775 Points: 105 # Comments: 83"
-   ],
-   "source": "Hacker News",
-   "url": "https://iptrust.co/blog/if-ipv4-were-land",
-   "image": null,
-   "published_at": "2026-10-29T12:19:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "f059dcc02bfe67cc520b3d46b4ca80d5075a79fe",
-   "title": "NetBSD adds a new beginner-friendly text editor called atto",
-   "summary": [
-    "Article URL: https://mastodon.sdf.org/@netbsd/117518160563539748 Comments URL: https://news.ycombinator.com/item?id=50287599 Points: 49 # Comments: 37"
-   ],
-   "source": "Hacker News",
-   "url": "https://mastodon.sdf.org/@netbsd/117518160563539748",
-   "image": null,
-   "published_at": "2026-10-29T11:59:01Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "70ae37717506725346693e3a18bfb2ce34e29a02",
-   "title": "Google determines the names for bodies of water in Google Earth (2008)",
-   "summary": [
-    "Article URL: https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html Comments URL: https://news.ycombinator.com/item?id=50287448 Points: 85 # Comments: 60"
-   ],
-   "source": "Hacker News",
-   "url": "https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html",
-   "image": null,
-   "published_at": "2026-10-29T11:41:18Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "160c9c48756f5546ee44288f47868d2f3af8654a",
-   "title": "Show HN: UK Farming Simulator",
-   "summary": [
-    "Article URL: https://butterbean.farm/ Comments URL: https://news.ycombinator.com/item?id=50287255 Points: 25 # Comments: 28"
-   ],
-   "source": "Hacker News",
-   "url": "https://butterbean.farm/",
-   "image": null,
-   "published_at": "2026-10-29T11:15:59Z",
    "category": "tech",
    "related": []
   },
@@ -206,352 +558,6 @@
    "url": "https://www.theguardian.com/technology/ng-interactive/2026/oct/29/psychics-push-back-ai-readings",
    "image": "https://i.guim.co.uk/img/media/8965bdb4347fba9c905e802374a3cebfea5c77ac/375_0_2250_1800/master/2250.jpg?width=140&quality=85&auto=format&fit=max&s=4a32009de0acd05525ecb62a966fc3df",
    "published_at": "2026-10-29T11:00:31Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "128b1a095979f9f4c053c8ca0afdf12344ae87f1",
-   "title": "Night Plane review – join the jumbo jet to hell in this indie horror head trip",
-   "summary": [
-    "Liquid Static Studio; PCYou take on the role of flight attendant in this clever and absorbing retro-style game that veers from daft horror spoof to genuinely disturbingThere was always something creepy about the job-simulator genre.",
-    "You turn up for the first day of your new job, meet your colleagues, then take your spot at the departure gate, checking in customers and being careful to root out anyone with invalid tickets.",
-    "Then the plane crashes and, frankly, it all goes downhill from there."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/games/2026/oct/29/night-plane-review-join-the-jumbo-jet-to-hell-in-this-indie-horror-game",
-   "image": "https://i.guim.co.uk/img/media/3ecb37484c315f9684e380b5d0cb0a5d4db50e4a/277_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=edd51cadf182556517532e0dd381fadd",
-   "published_at": "2026-10-29T11:00:30Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "e813585790afea0fa25979c7f0cd4cdf9e223c41",
-   "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
-   "summary": [
-    "Article URL: https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/ Comments URL: https://news.ycombinator.com/item?id=50287001 Points: 133 # Comments: 94"
-   ],
-   "source": "Hacker News",
-   "url": "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/",
-   "image": null,
-   "published_at": "2026-10-29T10:44:49Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "482dcd575b14905eb44d09f5779dbd8b87cf9f40",
-   "title": "Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers",
-   "summary": [
-    "Article URL: https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers Comments URL: https://news.ycombinator.com/item?id=50286987 Points: 35 # Comments: 15"
-   ],
-   "source": "Hacker News",
-   "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
-   "image": null,
-   "published_at": "2026-10-29T10:42:41Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "42c92fbc7a0830831a405d8d85139786fc8acd4f",
-   "title": "I Used AI to Fake a Scientific Paper. Here's What Happened",
-   "summary": [
-    "Article URL: https://spectrum.ieee.org/ai-generated-scientific-papers Comments URL: https://news.ycombinator.com/item?id=50286738 Points: 21 # Comments: 10"
-   ],
-   "source": "Hacker News",
-   "url": "https://spectrum.ieee.org/ai-generated-scientific-papers",
-   "image": null,
-   "published_at": "2026-10-29T10:08:04Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "f5ece0df2009fd543431cfff8a74fb1646c642f8",
-   "title": "Despite the teething issues, Dyson’s Camerajet toothbrush packs in a lot of clever tech – but is it worth £420?",
-   "summary": [
-    "For a toothbrush!?”No, it wasn’t a stray decimal point – or if it was, Dyson is doubling down and leaning into the mistake.",
-    "Unlike high-end brushes from Oral-B or Philips Sonicare, where the “recommended” in “recommended retail price” is doing a heroic amount of heavy lifting given the frequent discounts, the Dyson CameraJet will actually set you back £419.99."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/thefilter/2026/oct/29/dyson-camerajet-electric-toothbrush-review-tested-uk",
-   "image": "https://i.guim.co.uk/img/media/b119d0e5b0cb9c32a5810f049912675ee79924d9/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3a780477e5137251d35351ea4c428f6f",
-   "published_at": "2026-10-29T10:00:30Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "91045090e6eab9de6acbefed8eab1b0a2e437e83",
-   "title": "Ofcom outlines age check methods ahead of social media ban for under-16s",
-   "summary": [
-    "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-29T09:31:44Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "fdf5c75d4a409d6165204efe3d2e560a66648e5f",
-   "title": "Zero click, silent, remote Android DoS",
-   "summary": [
-    "Article URL: https://smsofdeath.com/ Comments URL: https://news.ycombinator.com/item?id=50285452 Points: 199 # Comments: 110"
-   ],
-   "source": "Hacker News",
-   "url": "https://smsofdeath.com/",
-   "image": null,
-   "published_at": "2026-10-29T07:08:50Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "68f7c17af7873eeddc407f00fba6dfd7f683ac40",
-   "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
-   "summary": [
-    "Article URL: https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/ Comments URL: https://news.ycombinator.com/item?id=50285319 Points: 155 # Comments: 25"
-   ],
-   "source": "Hacker News",
-   "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
-   "image": null,
-   "published_at": "2026-10-29T06:47:28Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "271134257c4af766939cc6ec20ee0e8c3957e2cf",
-   "title": "Claude Code regularly sends each background agent’s transcript to its model",
-   "summary": [
-    "Article URL: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce Comments URL: https://news.ycombinator.com/item?id=50284255 Points: 481 # Comments: 192"
-   ],
-   "source": "Hacker News",
-   "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-   "image": null,
-   "published_at": "2026-10-29T03:33:42Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "0d295d6038b961f68dc4f6401076a2cb211418df",
-   "title": "Microsoft profits soar days after announcing thousands of layoffs",
-   "summary": [
-    "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-29T01:27:40Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "44e3e5f137f8038b1a03754d5e2349e9964f4e9d",
-   "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-   "summary": [
-    "Article URL: https://divagr.com/blog/qwenputer Comments URL: https://news.ycombinator.com/item?id=50282838 Points: 596 # Comments: 120"
-   ],
-   "source": "Hacker News",
-   "url": "https://divagr.com/blog/qwenputer",
-   "image": null,
-   "published_at": "2026-10-29T00:25:45Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "c6d25904346f640c5150eb407be1c2c1d3ab1c3f",
-   "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
-   "summary": [
-    "Article URL: https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html Comments URL: https://news.ycombinator.com/item?id=50282544 Points: 210 # Comments: 97"
-   ],
-   "source": "Hacker News",
-   "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-   "image": null,
-   "published_at": "2026-10-28T23:45:46Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "9893b64114d0af225e027088362d5d42610a4b6f",
-   "title": "Investors turn on Google owner Alphabet after profit miss, ad slowdown and high spending",
-   "summary": [
-    "Net profit slid 25% from a year earlier to $26.2bn, well short of expectations, though revenue rose to $127.6bnShares in Google parent Alphabet fell more than 10% in after-hours trading Wednesday, erasing tens of billions of dollars in stock market value from the $4tn tech giant."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/oct/28/google-alphabet-q3-earnings-report",
-   "image": "https://i.guim.co.uk/img/media/1fbb3bf8e595e794d2bb46b7c93c9e9f51b4634e/173_0_5155_4125/master/5155.jpg?width=140&quality=85&auto=format&fit=max&s=9785ad3246f1ebf0743f62c3582ab1b4",
-   "published_at": "2026-10-28T23:39:12Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "34bccb07b60f34dfb674cbdfc37b511e29411271",
-   "title": "StackOverflow now gets fewer than 1000 questions a month",
-   "summary": [
-    "Article URL: https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1 Comments URL: https://news.ycombinator.com/item?id=50282454 Points: 601 # Comments: 507"
-   ],
-   "source": "Hacker News",
-   "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
-   "image": null,
-   "published_at": "2026-10-28T23:35:02Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "823f1d2d8a8d212f73f4d2026318bf5a9637d4ff",
-   "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
-   "summary": [
-    "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
-   "image": null,
-   "published_at": "2026-10-28T23:15:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "96f530445fce0e5cf2024c9d75748761bf10afcf",
-   "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
-   "summary": [
-    "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
-   "image": null,
-   "published_at": "2026-10-28T22:47:50Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "ca17b3f8c6eadbdeac6e66931fd85eb3e60894f3",
-   "title": "Microsoft posts $92.3bn quarterly revenue after offering buyouts to 60,000 employees",
-   "summary": [
-    "Software giant reports $36.6bn in profit, beating Wall Street expectations, as Azure cloud computing division grows 48%Microsoft gained billions of dollars in stock market value Wednesday afternoon after it reported better than expected revenue and profit, just days after it offered voluntary buyouts to some 60,000 employees.The office software giant’s growth was fueled by its Azure cloud computing division, which grew by 48% in the September quarter."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/oct/28/microsoft-earnings",
-   "image": "https://i.guim.co.uk/img/media/36447ca68a44687ae5f40f5d254f97c4546afd43/450_0_4500_3600/master/4500.jpg?width=140&quality=85&auto=format&fit=max&s=36fadd07ebe089cedad7cd70e1741809",
-   "published_at": "2026-10-28T22:44:58Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "1134b6a1764aac4f4edd761d821d33469a5c1169",
-   "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
-   "summary": [
-    "Microsoft has never disclosed Azure's quarterly revenue in dollars.",
-    "But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-   "image": null,
-   "published_at": "2026-10-28T21:58:32Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "9b7dd4a7a6853f5d5578ec65f1b81b44ef5537c2",
-   "title": "Google expands AI Search ads globally as core ad growth slows",
-   "summary": [
-    "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
-   "image": null,
-   "published_at": "2026-10-28T21:48:37Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "f9d1493b929c42b62c5f7df2f4487f2d5b7dfbe6",
-   "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-   "summary": [
-    "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30.",
-    "It underscores the still-enormous financial dependency of the partnership."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-   "image": null,
-   "published_at": "2026-10-28T21:34:30Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "0ef91bd8c8c1525a43a6a4e355fcfd737ba7eeb5",
-   "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
-   "summary": [
-    "Whatever the future of AI might be, the current situation is still very good for Microsoft.",
-    "The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
-   "image": null,
-   "published_at": "2026-10-28T21:25:30Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "efddadad9dd209c63cc2839d52f1a3caf3fec5fe",
-   "title": "A Health Update",
-   "summary": [
-    "Article URL: https://furbo.org/2026/10/28/a-health-update/ Comments URL: https://news.ycombinator.com/item?id=50280974 Points: 306 # Comments: 47"
-   ],
-   "source": "Hacker News",
-   "url": "https://furbo.org/2026/10/28/a-health-update/",
-   "image": null,
-   "published_at": "2026-10-28T21:13:21Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "92ed55b9c1bd5e340e63a208859cc5bae9650754",
-   "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
-   "summary": [
-    "A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
-   "image": null,
-   "published_at": "2026-10-28T20:01:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "ea370fdd96af02d90278d483b9b98b9904d3162f",
-   "title": "Anthropic just launched tools to show companies what their AI spending is buying",
-   "summary": [
-    "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-   "image": null,
-   "published_at": "2026-10-28T19:19:58Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "8500267ec5b48f952342ab05b1dd4a4879eef689",
-   "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
-   "summary": [
-    "The PHP scare may have faded from your feed, but the cleanup is far from over.",
-    "Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched.",
-    "According to researchers who found the […]"
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
-   "image": null,
-   "published_at": "2026-10-28T19:05:46Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "7a44b0a9a58632266ed06537c2a77d166f609a7b",
-   "title": "Apple launches its new touchscreen MacBook Pro",
-   "summary": [
-    "Apple's new touchscreen MacBook Pro starts at $2,899."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/",
-   "image": null,
-   "published_at": "2026-10-28T17:26:10Z",
    "category": "tech",
    "related": []
   }

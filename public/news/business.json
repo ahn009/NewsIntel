@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-29T14:08:53.466523Z",
- "story_count": 25,
+ "generated_at": "2026-10-29T20:12:55.171681Z",
+ "story_count": 31,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,124 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "0172dd986ced9a5a94889bf1b5deddd77f3717e6",
+   "title": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
+   "summary": [
+    "Poundland's bosses are filing a notice of intention to appoint administrators to the business."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-29T19:11:10Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "3481c1b09580db88f7858f165d94179670a149ec",
+   "title": "The South West reacts to Budget announcements",
+   "summary": [
+    "Tourism and business leaders have been reacting to John Healey's first Budget as chancellor."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm62yle1g2wyo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-29T18:07:26Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "3a1a5401338e95df023ab45609603b3b250c5201",
+   "title": "US interest rates held steady and economy grows - what it means for you",
+   "summary": [
+    "The Federal Reserve's interest rate decisions affect everything from mortgages to car loans"
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-29T17:15:05Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "53fbe3740321bcd0045bbfae81daa9107bc76764",
+   "title": "Watch: Hundreds queue for city's new Lego store",
+   "summary": [
+    "Fans queued for hours ahead of the opening of a new Lego Store in Norwich."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/cw1m4k1nx5r0o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-29T17:10:34Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "234fb873d6a1dce4fb844440d2a38d1a5fb83be0",
+   "title": "Faisal Islam: This Budget was micro and that was deliberate",
+   "summary": [
+    "Chancellor John Healey's plans fall short of radical action to create a promised new economic model."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-29T15:48:44Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "2ce30905a2fdecc0788e5600fda090aa8959b872",
+   "title": "Bereaved families will not face tax bill over pension delays under new rules",
+   "summary": [
+    "Campaigners had warned some families could face an unfair financial penalty because of delays which were not their fault."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-29T15:18:04Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "c832c9c96b4b80ed70225cd57cefc481b5ad16e3",
+   "title": "Your pay, energy bills and savings: How the Budget affects you",
+   "summary": [
+    "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-29T15:11:35Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "3f7a6b0625eb1163a475d6f7f993fb9943cfaabd",
+   "title": "DoorDash to buy Instacart in $17bn deal it says will expand customer options",
+   "summary": [
+    "Instacart shoppers will be able to buy from 150,000 stores, compared to the 100,000 currently available on the platform, the firms said."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm79pjg2l57yo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-29T15:05:15Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "7995ecec87254dd4ac65af2074daeee7d9c74d6f",
+   "title": "DoorDash to buy Instacart for $17bn in major grocery delivery consolidation",
+   "summary": [
+    "Grocers can also choose to work with Instacart or DoorDash.",
+    "Instacart customers will now have access to 50,000 additional stores covered by DoorDash, the company said."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/oct/29/doordash-buys-instacart-grocery-delivery",
+   "image": "https://i.guim.co.uk/img/media/842dd704ad76e46d3aed21d1fb9bbed0aad6a73a/901_443_1942_1553/master/1942.jpg?width=140&quality=85&auto=format&fit=max&s=bfe026fb78ab753252573d1f92d7415d",
+   "published_at": "2026-10-29T13:41:43Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "d4101e294a1f2a867a9f3bd13f888f3b7cbf6f88",
    "title": "Island Energy: No plans to remove gas standing charge",
@@ -63,19 +181,6 @@
    "related": []
   },
   {
-   "id": "0172dd986ced9a5a94889bf1b5deddd77f3717e6",
-   "title": "Poundland's future hangs in the balance as chain edges towards collapse",
-   "summary": [
-    "Poundland's bosses is filing a notice of intention to appoint administrators to the business."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-29T13:27:29Z",
-   "category": "business",
-   "related": []
-  },
-  {
    "id": "a27ee9e6aeef041425cb782a810717e8570fdc20",
    "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
    "summary": [
@@ -85,6 +190,19 @@
    "url": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-29T13:19:24Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "904be2ae7ce3d57363b2d0b1e68a41b35d184766",
+   "title": "US economy grows faster than expected but inflation rises to 3.7%",
+   "summary": [
+    "Economists polled by Reuters had forecast GDP advancing at a 3.2% pace."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/oct/29/economy-growth-third-quarter",
+   "image": "https://i.guim.co.uk/img/media/df8fee0dd99b6b8cd095a534788c4e7dab0f2f36/1260_687_4554_3645/master/4554.jpg?width=140&quality=85&auto=format&fit=max&s=4fbe743f965841c5463a80d774984c2a",
+   "published_at": "2026-10-29T13:09:00Z",
    "category": "business",
    "related": []
   },
@@ -131,7 +249,7 @@
    "id": "d959686db9c1ed2e43d3374679288cd88a18b84b",
    "title": "Was Ralph Nader right about (almost) everything? His challenge to Democrats ahead of the midterm elections",
    "summary": [
-    "‘Really change things for the working class,’ the ex-presidential candidate saysA corporate plutocracy.",
+    "The ex-presidential candidate tells Democrats to prosecute corruption and bring real change for the working classA corporate plutocracy.",
     "But this time, things are much, much worse."
    ],
    "source": "The Guardian",
@@ -285,19 +403,6 @@
    "related": []
   },
   {
-   "id": "c832c9c96b4b80ed70225cd57cefc481b5ad16e3",
-   "title": "Your pay, energy bills and savings: How the Budget affects you",
-   "summary": [
-    "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-28T16:43:35Z",
-   "category": "business",
-   "related": []
-  },
-  {
    "id": "350cd3fc69199017f45206e50cabf838508c52ef",
    "title": "Trump says government to ‘terminate’ Biden-era methane emissions rules",
    "summary": [
@@ -320,32 +425,6 @@
    "url": "https://www.bbc.co.uk/news/videos/cqn49vy2jlx0o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-28T13:13:17Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "b4df05a16cb47f96224aa3cb543308bb1916009d",
-   "title": "John Healey pays homage to predecessor Rachel Reeves",
-   "summary": [
-    "The chancellor gave respects at the onset of his Autumn Budget speech."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/c95ynvr04vgdo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-28T12:57:22Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "4521242db1cd1ab5a2cd8b029852c299b3d15813",
-   "title": "Australia’s inflation rate rises to 4.3%, fuelling fears of fifth interest rate hike this year",
-   "summary": [
-    "CPI release comes ahead of Reserve Bank decision next week as the Middle East conflict intensifies the cost-of-living crisisFollow our Australian politics live blog for latest updatesGet our daily political email, free app or daily news podcastAustralia’s headline inflation rate has accelerated to 4.3%, with a key gauge that strips out volatile prices also elevated, sharpening expectations of another interest rate rise next week.The Reserve Bank of Australia’s preferred measure of consumer prices, called underlying inflation, came in at an annual 3.6% to September."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/oct/28/inflation-rate-australia-2026-number-data-consumer-price-index-cpi-release",
-   "image": "https://i.guim.co.uk/img/media/64e77a720baeac62ada354b54f34aae458a7f1e6/538_0_6187_4947/master/6187.jpg?width=140&quality=85&auto=format&fit=max&s=0bda041ece33a9ebe75420c1bdb9009b",
-   "published_at": "2026-10-28T02:17:32Z",
    "category": "business",
    "related": []
   }

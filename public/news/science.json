@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-29T14:08:53.467000Z",
- "story_count": 20,
+ "generated_at": "2026-10-29T20:12:55.171942Z",
+ "story_count": 21,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,32 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "a702e1c32b7c9376297ca912ead33c7d358d48b7",
+   "title": "Firefighters celebrate rain during Indonesia wildfires",
+   "summary": [
+    "A number of clips show firefighters celebrating in the rain."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/cm93zere04plo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-29T18:31:27Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "db65db566ac2ac351ee9cf995c34c398c9c0e619",
+   "title": "BBC Inside Science",
+   "summary": [
+    "Time is running out for one of the most ambitious environmental pledges in history."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/sounds/play/w3ct978j?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-29T17:00:00Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "980221234b0360ab7021f3c6317cd4b72cb6e78d",
    "title": "A single brain signal may explain schizophrenia's most puzzling symptoms",
@@ -285,21 +311,6 @@
    "url": "https://www.sciencedaily.com/releases/2026/10/261027063659.htm",
    "image": null,
    "published_at": "2026-10-28T10:29:36Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "2718276f993bf3955d67550478692d5d98dfe6df",
-   "title": "The autistic brain processes faces differently than scientists thought",
-   "summary": [
-    "A major new study reveals that autistic children’s brains process faces differently, and those differences may begin earlier than scientists previously thought.",
-    "Researchers found that brain signals associated with recognizing faces become more specialized as neurotypical children grow older, but show much less change in autistic children.",
-    "The discovery could help explain why some autistic people have difficulty recognizing faces and reading emotions."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261027063824.htm",
-   "image": null,
-   "published_at": "2026-10-28T03:02:38Z",
    "category": "science",
    "related": []
   }
