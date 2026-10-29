@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T20:58:11.852698Z",
+ "generated_at": "2026-10-29T00:48:25.814634Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -24,15 +24,236 @@
  },
  "stories": [
   {
-   "id": "cff8d922ed328414ddb344415449ff798d6be87e",
-   "title": "Alphabet Announces Third Quarter 2026 Results [pdf]",
+   "id": "0d295d6038b961f68dc4f6401076a2cb211418df",
+   "title": "Microsoft posts $36.6bn profit after offering buyouts to one in four workers",
    "summary": [
-    "Article URL: https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf Comments URL: https://news.ycombinator.com/item?id=50280197 Points: 41 # Comments: 14"
+    "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-29T00:36:12Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "2541389088f9fe7328324d4efd6a2424963fe5e6",
+   "title": "Get Ready for Touch on Mac",
+   "summary": [
+    "Article URL: https://developer.apple.com/touch-on-mac/ Comments URL: https://news.ycombinator.com/item?id=50282650 Points: 8 # Comments: 7"
    ],
    "source": "Hacker News",
-   "url": "https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf",
+   "url": "https://developer.apple.com/touch-on-mac/",
    "image": null,
-   "published_at": "2026-10-28T20:11:55Z",
+   "published_at": "2026-10-28T23:58:20Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "c6d25904346f640c5150eb407be1c2c1d3ab1c3f",
+   "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+   "summary": [
+    "Article URL: https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html Comments URL: https://news.ycombinator.com/item?id=50282544 Points: 42 # Comments: 3"
+   ],
+   "source": "Hacker News",
+   "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+   "image": null,
+   "published_at": "2026-10-28T23:45:46Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "8cbc7d4302903d735b7abfba4c8349e104f58ccb",
+   "title": "The first wired XR glasses powered by Android XR",
+   "summary": [
+    "Article URL: https://blog.google/products-and-platforms/platforms/android/xreal-aura/ Comments URL: https://news.ycombinator.com/item?id=50282538 Points: 4 # Comments: 2"
+   ],
+   "source": "Hacker News",
+   "url": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
+   "image": null,
+   "published_at": "2026-10-28T23:45:19Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "34bccb07b60f34dfb674cbdfc37b511e29411271",
+   "title": "StackOverflow now gets fewer than 1000 questions a month",
+   "summary": [
+    "Article URL: https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1 Comments URL: https://news.ycombinator.com/item?id=50282454 Points: 38 # Comments: 28"
+   ],
+   "source": "Hacker News",
+   "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+   "image": null,
+   "published_at": "2026-10-28T23:35:02Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "823f1d2d8a8d212f73f4d2026318bf5a9637d4ff",
+   "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
+   "summary": [
+    "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+   "image": null,
+   "published_at": "2026-10-28T23:15:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "1588baceb499f02aa1a3be1be23945b6d8f6ee08",
+   "title": "Details of thousands of US immigration agents leaked in major hack",
+   "summary": [
+    "A group called the Department of Peace released information on more than 41,000 DHS staff."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-28T23:11:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "96f530445fce0e5cf2024c9d75748761bf10afcf",
+   "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+   "summary": [
+    "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
+   "image": null,
+   "published_at": "2026-10-28T22:47:50Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "1134b6a1764aac4f4edd761d821d33469a5c1169",
+   "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+   "summary": [
+    "Microsoft has never disclosed Azure's quarterly revenue in dollars.",
+    "But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+   "image": null,
+   "published_at": "2026-10-28T21:58:32Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "9b7dd4a7a6853f5d5578ec65f1b81b44ef5537c2",
+   "title": "Google expands AI Search ads globally as core ad growth slows",
+   "summary": [
+    "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+   "image": null,
+   "published_at": "2026-10-28T21:48:37Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "f9d1493b929c42b62c5f7df2f4487f2d5b7dfbe6",
+   "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+   "summary": [
+    "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30.",
+    "It underscores the still-enormous financial dependency of the partnership."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+   "image": null,
+   "published_at": "2026-10-28T21:34:30Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "0ef91bd8c8c1525a43a6a4e355fcfd737ba7eeb5",
+   "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+   "summary": [
+    "Whatever the future of AI might be, the current situation is still very good for Microsoft.",
+    "The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+   "image": null,
+   "published_at": "2026-10-28T21:25:30Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "476c6499ada8fea361737e92108a1674b3f734f0",
+   "title": "Formlabs Studio 1 $699 Resin Printer",
+   "summary": [
+    "Article URL: https://formlabs.com/products/form-studio-1-basic-founders-edition/ Comments URL: https://news.ycombinator.com/item?id=50281044 Points: 97 # Comments: 76"
+   ],
+   "source": "Hacker News",
+   "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
+   "image": null,
+   "published_at": "2026-10-28T21:19:30Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "efddadad9dd209c63cc2839d52f1a3caf3fec5fe",
+   "title": "A Health Update",
+   "summary": [
+    "Article URL: https://furbo.org/2026/10/28/a-health-update/ Comments URL: https://news.ycombinator.com/item?id=50280974 Points: 65 # Comments: 5"
+   ],
+   "source": "Hacker News",
+   "url": "https://furbo.org/2026/10/28/a-health-update/",
+   "image": null,
+   "published_at": "2026-10-28T21:13:21Z",
+   "category": "tech",
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://wiki.alpinebsd.org"
+    }
+   ]
+  },
+  {
+   "id": "3fb5224919e8cdaeeef18cc90de42aeb4aa064c2",
+   "title": "Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel",
+   "summary": [
+    "Article URL: https://nango.dev/careers Comments URL: https://news.ycombinator.com/item?id=50280824 Points: 0 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://nango.dev/careers",
+   "image": null,
+   "published_at": "2026-10-28T21:00:06Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "743771232c407ace30cbbc936a4be99c0f88c7de",
+   "title": "The case of the 9 bit AES key",
+   "summary": [
+    "Article URL: https://v12.sh/blog/the-case-of-the-9bit-aes-key Comments URL: https://news.ycombinator.com/item?id=50280722 Points: 70 # Comments: 34"
+   ],
+   "source": "Hacker News",
+   "url": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
+   "image": null,
+   "published_at": "2026-10-28T20:51:44Z",
+   "category": "tech",
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://cursor.com/blog/agent-sdk"
+    }
+   ]
+  },
+  {
+   "id": "0b73a63f47d01a06774788a653c7ca8c3d382dc7",
+   "title": "Leak website releases data on DHS employees",
+   "summary": [
+    "Article URL: https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28/ Comments URL: https://news.ycombinator.com/item?id=50280662 Points: 58 # Comments: 10"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28/",
+   "image": null,
+   "published_at": "2026-10-28T20:46:52Z",
    "category": "tech",
    "related": []
   },
@@ -91,15 +312,15 @@
    "related": []
   },
   {
-   "id": "0bdc671869f115f5a9b80aa83010d1c9f3a0b69b",
-   "title": "Big Tech's thirst for water is sparking a global resistance",
+   "id": "def3d17f3c125f8782ebe936945f1df09922dd2f",
+   "title": "Scaling Hierarchical Networks",
    "summary": [
-    "Article URL: https://restofworld.org/2026/ai-datacenters-water-resistance-global/ Comments URL: https://news.ycombinator.com/item?id=50278754 Points: 37 # Comments: 16"
+    "Article URL: https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1 Comments URL: https://news.ycombinator.com/item?id=50278253 Points: 25 # Comments: 0"
    ],
    "source": "Hacker News",
-   "url": "https://restofworld.org/2026/ai-datacenters-water-resistance-global/",
+   "url": "https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1",
    "image": null,
-   "published_at": "2026-10-28T18:34:51Z",
+   "published_at": "2026-10-28T18:07:41Z",
    "category": "tech",
    "related": []
   },
@@ -107,7 +328,7 @@
    "id": "eca5bc916dac8df3ded583a157486aa1218a02c5",
    "title": "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
    "summary": [
-    "Article URL: https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/ Comments URL: https://news.ycombinator.com/item?id=50277755 Points: 12 # Comments: 0"
+    "Article URL: https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/ Comments URL: https://news.ycombinator.com/item?id=50277755 Points: 45 # Comments: 3"
    ],
    "source": "Hacker News",
    "url": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
@@ -131,9 +352,9 @@
   },
   {
    "id": "2365cd15a3284330e09c4eecdb39661d19b94b34",
-   "title": "Why Is This Fingerprinting Script Creating Bioweapons?",
+   "title": "Why is this fingerprinting script creating bioweapons?",
    "summary": [
-    "Article URL: https://nullpt.rs/fingerprinting-bioweapons Comments URL: https://news.ycombinator.com/item?id=50276998 Points: 336 # Comments: 68"
+    "Article URL: https://nullpt.rs/fingerprinting-bioweapons Comments URL: https://news.ycombinator.com/item?id=50276998 Points: 778 # Comments: 176"
    ],
    "source": "Hacker News",
    "url": "https://nullpt.rs/fingerprinting-bioweapons",
@@ -147,7 +368,7 @@
    "title": "MacBook Pro with PROLED XDR Display and Touch",
    "summary": [
     "https://www.apple.com/newsroom/2026/10/apple-unveils-groundb...",
-    "Comments URL: https://news.ycombinator.com/item?id=50276940 Points: 378 # Comments: 640"
+    "Comments URL: https://news.ycombinator.com/item?id=50276940 Points: 489 # Comments: 837"
    ],
    "source": "Hacker News",
    "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
@@ -160,7 +381,7 @@
    "id": "9b21feb75bde9c6c5b77ddacee6857cf041e5d47",
    "title": "Show HN: SlideBySide – Present slides without sharing your screen",
    "summary": [
-    "Comments URL: https://news.ycombinator.com/item?id=50276883 Points: 36 # Comments: 18"
+    "Comments URL: https://news.ycombinator.com/item?id=50276883 Points: 54 # Comments: 23"
    ],
    "source": "Hacker News",
    "url": "https://slidebyside.com/",
@@ -173,25 +394,12 @@
    "id": "6318bf62f2c5750d4debc093ba5deffe66f9f836",
    "title": "Gemini 4 Carbon",
    "summary": [
-    "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/ Comments URL: https://news.ycombinator.com/item?id=50276792 Points: 590 # Comments: 493"
+    "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/ Comments URL: https://news.ycombinator.com/item?id=50276792 Points: 781 # Comments: 640"
    ],
    "source": "Hacker News",
    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
    "image": null,
    "published_at": "2026-10-28T17:01:23Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "5a6a8c9a2257c46dc1a0ed1eca76a035aeee6dc2",
-   "title": "Converge (YC S23) Is Hiring a Founding Platform Engineer",
-   "summary": [
-    "Article URL: https://www.runconverge.com/careers/founding-platform-engineer Comments URL: https://news.ycombinator.com/item?id=50276779 Points: 0 # Comments: 0"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.runconverge.com/careers/founding-platform-engineer",
-   "image": null,
-   "published_at": "2026-10-28T17:00:24Z",
    "category": "tech",
    "related": []
   },
@@ -278,7 +486,7 @@
    "id": "97373eedda74b8cd62be18654abeb2c2a1bd8276",
    "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
    "summary": [
-    "Article URL: https://surgehq.ai/blog/dayjob-tax Comments URL: https://news.ycombinator.com/item?id=50275626 Points: 137 # Comments: 76"
+    "Article URL: https://surgehq.ai/blog/dayjob-tax Comments URL: https://news.ycombinator.com/item?id=50275626 Points: 193 # Comments: 119"
    ],
    "source": "Hacker News",
    "url": "https://surgehq.ai/blog/dayjob-tax",
@@ -314,15 +522,15 @@
    "related": []
   },
   {
-   "id": "7ae8eb20550eee7692436f1c407fce5b64ca68f4",
-   "title": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
+   "id": "949d7f1751b6508d15909664cf1cd596fda25bd4",
+   "title": "Archive.today links going forward",
    "summary": [
-    "Article URL: https://huggingface.co/blog/nvidia/nemotron-transcribe-granary Comments URL: https://news.ycombinator.com/item?id=50275128 Points: 78 # Comments: 15"
+    "Article URL: https://www.reddit.com/r/Seattle/comments/1xhf6qp/archivetoday_links_going_forward/ Comments URL: https://news.ycombinator.com/item?id=50275373 Points: 190 # Comments: 122"
    ],
    "source": "Hacker News",
-   "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+   "url": "https://www.reddit.com/r/Seattle/comments/1xhf6qp/archivetoday_links_going_forward/",
    "image": null,
-   "published_at": "2026-10-28T15:17:53Z",
+   "published_at": "2026-10-28T15:31:58Z",
    "category": "tech",
    "related": []
   },
@@ -353,207 +561,6 @@
    "url": "https://www.theguardian.com/games/2026/oct/28/social-media-is-full-of-weird-video-game-mashups-where-are-they-all-coming-from",
    "image": "https://i.guim.co.uk/img/media/1a3c98277d78595d1da189cd71df191cca462a56/377_0_3451_2761/master/3451.jpg?width=140&quality=85&auto=format&fit=max&s=9dd35296366ccefbef8f4253e48d3c25",
    "published_at": "2026-10-28T15:00:05Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "d9d3119199806147dfdc2a23336291cadcc77c6b",
-   "title": "Voice AI in vogue: Nvidia releases new open transcription model",
-   "summary": [
-    "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
-   "image": null,
-   "published_at": "2026-10-28T15:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "dc6480c529590219e94611d6cbcf412641219755",
-   "title": "CNC Stone Carving",
-   "summary": [
-    "Article URL: https://carmelitegothic.com/cnc-stone-carving/ Comments URL: https://news.ycombinator.com/item?id=50274409 Points: 322 # Comments: 105"
-   ],
-   "source": "Hacker News",
-   "url": "https://carmelitegothic.com/cnc-stone-carving/",
-   "image": null,
-   "published_at": "2026-10-28T14:38:22Z",
-   "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "https://wiki.alpinebsd.org"
-    }
-   ]
-  },
-  {
-   "id": "8732586230bb6e17f2f1af81a3fd6f1883f3bdd6",
-   "title": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
-   "summary": [
-    "Amazon's other new devices include an upgraded Echo Dot, an Echo Studio with visual intelligence features, and the Echo Show 16."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
-   "image": null,
-   "published_at": "2026-10-28T14:34:25Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "2d2cf55b2852c0508f311cb266be4a7d0f172bdc",
-   "title": "TikTok expands into restaurant guides with ‘Must Eat’ feature",
-   "summary": [
-    "The move puts TikTok in more direct competition with platforms like Yelp and Google."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/28/tiktok-expands-into-restaurant-guides-with-must-eat-feature/",
-   "image": null,
-   "published_at": "2026-10-28T14:26:36Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "e6fc173506faf527bcdf9297ea82b257445a8564",
-   "title": "Meta has a new AI pet app called Waddle World",
-   "summary": [
-    "Meta launched a new app called Waddle World, which essentially looks like a Tamagotchi clone, but with AI."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
-   "image": null,
-   "published_at": "2026-10-28T13:53:31Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "31ebe027e44146f94c2032e6b264d49c4b28d9cd",
-   "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
-   "summary": [
-    "Article URL: https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/ Comments URL: https://news.ycombinator.com/item?id=50273396 Points: 355 # Comments: 413"
-   ],
-   "source": "Hacker News",
-   "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
-   "image": null,
-   "published_at": "2026-10-28T13:41:30Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "5c6a2fe00f886384512d38d3242a8feeb006371e",
-   "title": "Free Fire returns to India as Garena launches localized version four years after ban",
-   "summary": [
-    "Free Fire India was originally set to launch in September 2023, but Garena postponed its release."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/28/free-fire-returns-to-india-as-garena-launches-localized-version-four-years-after-ban/",
-   "image": null,
-   "published_at": "2026-10-28T13:39:18Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "6527866099b384d2579771d1e38f3b203267abd4",
-   "title": "Emacs Turns 50",
-   "summary": [
-    "Article URL: https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/ Comments URL: https://news.ycombinator.com/item?id=50273171 Points: 338 # Comments: 140"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
-   "image": null,
-   "published_at": "2026-10-28T13:25:11Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "7be23c48f5e7ff899c94ee0f1e1fafea566c3c1a",
-   "title": "Kodiak lands first commercial deal to supply driverless trucks for public highways",
-   "summary": [
-    "The deal with DTL Transport puts it on a path to become an an asset-light tech supplier, rather than owner and operator."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/28/kodiak-lands-first-commercial-deal-to-supply-driverless-trucks-for-public-highways/",
-   "image": null,
-   "published_at": "2026-10-28T13:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "efca0b654d0c8b41e131147b5f1b0b24740e83bf",
-   "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
-   "summary": [
-    "In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4.",
-    "Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced founders, investors, and startup leaders is almost here."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
-   "image": null,
-   "published_at": "2026-10-28T13:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "75fecf27da8e20300cb24311f39ee94c58d25521",
-   "title": "US agency approves Amazon Leo’s $11.5B acquisition of Globalstar",
-   "summary": [
-    "Previously: Amazon to acquire Globalstar and expand Amazon Leo satellite network - https://news.ycombinator.com/item?id=47775183 - April 2026 (119 comments) Comments URL: https://news.ycombinator.com/item?id=50272145 Points: 206 # Comments: 95"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.reuters.com/business/media-telecom/us-agency-approves-amazon-leos-115-billion-acquisition-globalstar-2026-10-27/",
-   "image": null,
-   "published_at": "2026-10-28T11:54:23Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "c1abda2ec708e7902beb16f2d1f8a660c19fa248",
-   "title": "Apple's git still trusts the compromised eMudhra certificates",
-   "summary": [
-    "Article URL: https://emudhra.we-have-a-problem.com/apple.html Comments URL: https://news.ycombinator.com/item?id=50271640 Points: 938 # Comments: 359"
-   ],
-   "source": "Hacker News",
-   "url": "https://emudhra.we-have-a-problem.com/apple.html",
-   "image": null,
-   "published_at": "2026-10-28T11:03:40Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "c9877579a91d2cfd7279f6ab1d30b480643e6204",
-   "title": "‘Emotional intimacy’ from AI chatbots would be banned under Australia’s digital duty of care laws",
-   "summary": [
-    "Labor government under pressure to create social media watchdog as new online safety standards bill passes lower houseFollow our Australia politics live blog for latest updatesGet our breaking news email, free app or daily news podcastThe federal government wants to ban AI chatbo"
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/oct/28/emotional-intimacy-ai-chatbots-ban-digital-duty-of-care-laws-australian-politics",
-   "image": "https://i.guim.co.uk/img/media/b3e44fb72cc705d89a54b8eb9719b50630ca675c/549_0_5485_4388/master/5485.jpg?width=140&quality=85&auto=format&fit=max&s=0bfc40ec0228d608101e4331782d6dce",
-   "published_at": "2026-10-28T05:31:55Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "7f0f4484781e049007f8cf877ec99024b7f19a2b",
-   "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
-   "summary": [
-    "Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
-   "image": null,
-   "published_at": "2026-10-28T05:20:32Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "de8b6822bab27fd4e75a5fe65f272e9955c1c984",
-   "title": "Executable Archaeology: Reanimating the Heuristic Compiler (1961) and KBEmacs (1984)",
-   "summary": [
-    "Article URL: https://arxiv.org/abs/2610.36341 Comments URL: https://news.ycombinator.com/item?id=50268478 Points: 14 # Comments: 0"
-   ],
-   "source": "Hacker News",
-   "url": "https://arxiv.org/abs/2610.36341",
-   "image": null,
-   "published_at": "2026-10-28T02:01:51Z",
    "category": "tech",
    "related": []
   }

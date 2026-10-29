@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-28T20:58:11.853395Z",
- "story_count": 26,
+ "generated_at": "2026-10-29T00:48:25.815085Z",
+ "story_count": 28,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,32 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "29ebdec5eedb5529d9e8d9f094b85eaa12c0dc82",
+   "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
+   "summary": [
+    "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-29T00:00:25Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "0df7c69efe60ce5039a91d36aa7530fc4b96630f",
+   "title": "'I live with a ghost': Japan's haunted homes attract bargain hunters",
+   "summary": [
+    "Properties where someone has died in tragic circumstances can have big reductions in price."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-29T00:00:15Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "21cea21900ff1df3a7398dfe77bfe84665645af5",
    "title": "Restaurants sceptical over 'garlic and gherkins' plan",
@@ -72,6 +98,19 @@
    "url": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-28T19:51:01Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "7bc29a3b311c83d418a4dae373c2dc911a03183c",
+   "title": "Fed holds interest rates steady in last decision before midterms",
+   "summary": [
+    "Fed chair Kevin Warsh said politics played no role in pause of interest rate hikes, despite inflation remaining above 3%The US Federal Reserve left interest rates unchanged on Wednesday during its last board meeting before the midterm elections, keeping rates at one of the highest pre-election levels seen in over 20 years.Two out of 12 board members voted against the pause, preferring to raise rates by a quarter point this meeting, the Fed board said in a statement."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/oct/28/fed-interest-rates-midterms",
+   "image": "https://i.guim.co.uk/img/media/7880dcf74afd8e1464e25cee2da4b52881ed5e8e/1146_740_2868_2294/master/2868.jpg?width=140&quality=85&auto=format&fit=max&s=a275695d23d6cd43252182d5bfeaad61",
+   "published_at": "2026-10-28T19:26:41Z",
    "category": "business",
    "related": []
   },
@@ -345,21 +384,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-27T13:25:54Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "a951452c6d7e5697dfa43bbf3d69a59afc0a86f9",
-   "title": "The survival of American democracy depends on taxing billionaires",
-   "summary": [
-    "It is essential not just to fund the public goods the nation needs, it is indispensable to restore a sense of fairnessMoney doesn’t buy happiness, we’re told.",
-    "The Nobel prize-winning economists Daniel Kahneman and Angus Deaton once proposed that rising income increased people’s emotional wellbeing only up to a ceiling of about $115,000 in today’s money.They probably hadn’t met many billionaires.",
-    "The ultra-rich may not pursue happiness in the joyful sense of the word."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/oct/27/democracy-tax-billionaires",
-   "image": "https://i.guim.co.uk/img/media/e1ee2d6c7a916abffe9d76333c0444ad7d911a84/468_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=18d4392528abca946502e7ecb2ea1d32",
-   "published_at": "2026-10-27T11:00:36Z",
    "category": "business",
    "related": []
   }
