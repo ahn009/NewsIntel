@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-29T00:48:25.815419Z",
- "story_count": 16,
+ "generated_at": "2026-10-29T06:57:34.506771Z",
+ "story_count": 14,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,75 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "d4528a9ad6e1c2b711cbe72ed3877df53e864e8b",
+   "title": "RAF base chemical contamination worst in UK, report says",
+   "summary": [
+    "Testing at RAF Upper Heyford finds \"unacceptable\" levels of polyfluoroalkyl substances (PFAS)."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c64g1je3034ko?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-29T06:13:24Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "42fdcb4556bc2bd7b0d8771abacfeeb89fee003a",
+   "title": "Your blood pressure could be dangerous even when your numbers look normal",
+   "summary": [
+    "Researchers have discovered a small group of brain cells that prevents dangerous blood pressure swings, even when average readings appear normal.",
+    "The finding reveals a hidden source of cardiovascular risk and could open the door to new treatments that protect the heart and brain."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261027063814.htm",
+   "image": null,
+   "published_at": "2026-10-29T03:54:37Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "1f2b2a3c94be42d23bf7cd7e8111ec830a89470c",
+   "title": "Scientists just broke a textbook rule of physics",
+   "summary": [
+    "Scientists have defied a long-standing rule of laser physics by generating X-rays with much higher energies than conventional theory predicts.",
+    "The surprising discovery reveals how two electrons working together can overcome a previously accepted limit, opening new possibilities for quantum research."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261027063713.htm",
+   "image": null,
+   "published_at": "2026-10-29T03:39:27Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "80d7026d11d752ceb6ce2cb0f3d9d21995586bd6",
+   "title": "Meteors don't just burn up. What really happens is far more violent",
+   "summary": [
+    "Scientists have uncovered seven surprising stages that space rocks go through as they hurtle toward Earth, revealing that melting and violent fragmentation, rather than simple evaporation, determine their fate.",
+    "The discovery could help explain why meteorites scatter across the ground and how dangerous asteroids explode in Earth's atmosphere."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261027063710.htm",
+   "image": null,
+   "published_at": "2026-10-29T03:06:41Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "f3204a497e37de3f78c43331871a9623d754c980",
+   "title": "Scientists discover a hidden oxygen reservoir deep inside Earth",
+   "summary": [
+    "Scientists have discovered that magma deep inside Earth can store surprising amounts of extra oxygen, potentially revealing a hidden contributor to our planet's oxygen-rich atmosphere.",
+    "The findings suggest that ancient volcanic eruptions may have helped transform Earth's atmosphere billions of years ago, with implications for understanding life on other planets."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261027063702.htm",
+   "image": null,
+   "published_at": "2026-10-29T01:13:05Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "0898fb9fce38bf3aea1cc3bc843648f50e249bca",
    "title": "Building boom puts 300,000 people in the path of potential Himalayan disasters",
@@ -146,97 +215,6 @@
    "url": "https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-27T21:20:52Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "56d0eccc2e2d94196f1025e1367ff703c70a3b3c",
-   "title": "Will a new strategy help protect Northern Ireland's nature?",
-   "summary": [
-    "About 40% of the plants and animals in protected sites across Northern Ireland fall short of meeting the standard for \"favourable condition\"."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cq0megg87n3po?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-27T17:51:13Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "f060dfb58bbb9c4a8cf7d2ad037b5dc304a7c103",
-   "title": "Nanotyrannus skeleton sells for $47.3m in New York auction",
-   "summary": [
-    "The sale of the rare skeleton reignites debate in the scientific community about whether dinosaur remains should end up in private hands or public view."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-27T17:10:15Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "32937da87e3fd998a9345f59f34227f36d627e6b",
-   "title": "Tiny zebra-striped bee sighting a 'huge surprise'",
-   "summary": [
-    "A zebra-striped bee is seen in Somerset for the first time, offering hope in restored saltmarshes."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c3dxwjx7xpj0o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-27T16:50:13Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "f1a8532eca8fe3e8d6df6564577ec5b07de6ac25",
-   "title": "Scotland's recycling rates at five-year low. How is your area doing?",
-   "summary": [
-    "Environmental regulator Sepa says households recycled 42.8% of waste in 2025 - down from 44.3% the previous year."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c62ke84qwl1vo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-27T15:32:40Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "fcd7151222e24d85acd4a215ab10d03e5a13a1eb",
-   "title": "What's happening to our rubbish?",
-   "summary": [
-    "As Scotland's recycling rate falls to its lowest level in five years, Kevin Keane looks at what happens to our rubbish."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/c9ly02pj4kdjo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-27T15:30:50Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "d099a5239c2f0b29138d15c27aafa87b7885f2a1",
-   "title": "Wildlife appeal closes in on £30m target",
-   "summary": [
-    "The government pledges £1.9m to wildlife groups' efforts to buy the Rothbury Estate."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c69wznnn4p7yo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-27T13:26:13Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "c1249296a94564a1ab08d6a95655cd69f62dbd6d",
-   "title": "Regular spaceplane flights planned in project",
-   "summary": [
-    "Spaceplanes could take off on regular flights from Cornwall following an agreement."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmdxwzz7x4pno?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-27T13:11:50Z",
    "category": "science",
    "related": []
   }

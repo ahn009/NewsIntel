@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T00:48:25.814634Z",
+ "generated_at": "2026-10-29T06:57:34.505669Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -24,28 +24,93 @@
  },
  "stories": [
   {
+   "id": "91045090e6eab9de6acbefed8eab1b0a2e437e83",
+   "title": "Ofcom outlines ways social media can verify ages of users",
+   "summary": [
+    "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-29T05:57:15Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a6f4543381324d4c286af84561e357dc74297abb",
+   "title": "Zillow to pay $212.5M to settle class action for real estate venture",
+   "summary": [
+    "Article URL: https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/ Comments URL: https://news.ycombinator.com/item?id=50284342 Points: 29 # Comments: 8"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/",
+   "image": null,
+   "published_at": "2026-10-29T03:48:05Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "438e132dfe206dabc36f596da1d7b947f586956f",
+   "title": "The Milwaukee Brewers win the first World Series title in franchise history",
+   "summary": [
+    "Article URL: https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series Comments URL: https://news.ycombinator.com/item?id=50284329 Points: 74 # Comments: 39"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series",
+   "image": null,
+   "published_at": "2026-10-29T03:44:12Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "271134257c4af766939cc6ec20ee0e8c3957e2cf",
+   "title": "Claude Code regularly sends each background agent’s transcript to its model",
+   "summary": [
+    "Article URL: https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce Comments URL: https://news.ycombinator.com/item?id=50284255 Points: 244 # Comments: 73"
+   ],
+   "source": "Hacker News",
+   "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+   "image": null,
+   "published_at": "2026-10-29T03:33:42Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "1588baceb499f02aa1a3be1be23945b6d8f6ee08",
+   "title": "Details of thousands of US immigration agents leaked in major hack",
+   "summary": [
+    "A group called the Department of Peace released information on more than 41,000 DHS staff."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-29T01:30:43Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "0d295d6038b961f68dc4f6401076a2cb211418df",
-   "title": "Microsoft posts $36.6bn profit after offering buyouts to one in four workers",
+   "title": "Microsoft profits soar days after announcing thousands of layoffs",
    "summary": [
     "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs."
    ],
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-10-29T00:36:12Z",
+   "published_at": "2026-10-29T01:27:40Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "2541389088f9fe7328324d4efd6a2424963fe5e6",
-   "title": "Get Ready for Touch on Mac",
+   "id": "44e3e5f137f8038b1a03754d5e2349e9964f4e9d",
+   "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
    "summary": [
-    "Article URL: https://developer.apple.com/touch-on-mac/ Comments URL: https://news.ycombinator.com/item?id=50282650 Points: 8 # Comments: 7"
+    "Article URL: https://divagr.com/blog/qwenputer Comments URL: https://news.ycombinator.com/item?id=50282838 Points: 313 # Comments: 74"
    ],
    "source": "Hacker News",
-   "url": "https://developer.apple.com/touch-on-mac/",
+   "url": "https://divagr.com/blog/qwenputer",
    "image": null,
-   "published_at": "2026-10-28T23:58:20Z",
+   "published_at": "2026-10-29T00:25:45Z",
    "category": "tech",
    "related": []
   },
@@ -53,7 +118,7 @@
    "id": "c6d25904346f640c5150eb407be1c2c1d3ab1c3f",
    "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
    "summary": [
-    "Article URL: https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html Comments URL: https://news.ycombinator.com/item?id=50282544 Points: 42 # Comments: 3"
+    "Article URL: https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html Comments URL: https://news.ycombinator.com/item?id=50282544 Points: 144 # Comments: 64"
    ],
    "source": "Hacker News",
    "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
@@ -63,23 +128,10 @@
    "related": []
   },
   {
-   "id": "8cbc7d4302903d735b7abfba4c8349e104f58ccb",
-   "title": "The first wired XR glasses powered by Android XR",
-   "summary": [
-    "Article URL: https://blog.google/products-and-platforms/platforms/android/xreal-aura/ Comments URL: https://news.ycombinator.com/item?id=50282538 Points: 4 # Comments: 2"
-   ],
-   "source": "Hacker News",
-   "url": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
-   "image": null,
-   "published_at": "2026-10-28T23:45:19Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "34bccb07b60f34dfb674cbdfc37b511e29411271",
    "title": "StackOverflow now gets fewer than 1000 questions a month",
    "summary": [
-    "Article URL: https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1 Comments URL: https://news.ycombinator.com/item?id=50282454 Points: 38 # Comments: 28"
+    "Article URL: https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1 Comments URL: https://news.ycombinator.com/item?id=50282454 Points: 291 # Comments: 260"
    ],
    "source": "Hacker News",
    "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
@@ -98,19 +150,6 @@
    "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
    "image": null,
    "published_at": "2026-10-28T23:15:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "1588baceb499f02aa1a3be1be23945b6d8f6ee08",
-   "title": "Details of thousands of US immigration agents leaked in major hack",
-   "summary": [
-    "A group called the Department of Peace released information on more than 41,000 DHS staff."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-28T23:11:00Z",
    "category": "tech",
    "related": []
   },
@@ -186,7 +225,7 @@
    "id": "476c6499ada8fea361737e92108a1674b3f734f0",
    "title": "Formlabs Studio 1 $699 Resin Printer",
    "summary": [
-    "Article URL: https://formlabs.com/products/form-studio-1-basic-founders-edition/ Comments URL: https://news.ycombinator.com/item?id=50281044 Points: 97 # Comments: 76"
+    "Article URL: https://formlabs.com/products/form-studio-1-basic-founders-edition/ Comments URL: https://news.ycombinator.com/item?id=50281044 Points: 161 # Comments: 106"
    ],
    "source": "Hacker News",
    "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
@@ -199,7 +238,7 @@
    "id": "efddadad9dd209c63cc2839d52f1a3caf3fec5fe",
    "title": "A Health Update",
    "summary": [
-    "Article URL: https://furbo.org/2026/10/28/a-health-update/ Comments URL: https://news.ycombinator.com/item?id=50280974 Points: 65 # Comments: 5"
+    "Article URL: https://furbo.org/2026/10/28/a-health-update/ Comments URL: https://news.ycombinator.com/item?id=50280974 Points: 189 # Comments: 31"
    ],
    "source": "Hacker News",
    "url": "https://furbo.org/2026/10/28/a-health-update/",
@@ -230,7 +269,7 @@
    "id": "743771232c407ace30cbbc936a4be99c0f88c7de",
    "title": "The case of the 9 bit AES key",
    "summary": [
-    "Article URL: https://v12.sh/blog/the-case-of-the-9bit-aes-key Comments URL: https://news.ycombinator.com/item?id=50280722 Points: 70 # Comments: 34"
+    "Article URL: https://v12.sh/blog/the-case-of-the-9bit-aes-key Comments URL: https://news.ycombinator.com/item?id=50280722 Points: 103 # Comments: 53"
    ],
    "source": "Hacker News",
    "url": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
@@ -243,19 +282,6 @@
      "url": "https://cursor.com/blog/agent-sdk"
     }
    ]
-  },
-  {
-   "id": "0b73a63f47d01a06774788a653c7ca8c3d382dc7",
-   "title": "Leak website releases data on DHS employees",
-   "summary": [
-    "Article URL: https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28/ Comments URL: https://news.ycombinator.com/item?id=50280662 Points: 58 # Comments: 10"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.reuters.com/legal/government/leak-website-releases-data-tens-thousands-dhs-employees-2026-10-28/",
-   "image": null,
-   "published_at": "2026-10-28T20:46:52Z",
-   "category": "tech",
-   "related": []
   },
   {
    "id": "92ed55b9c1bd5e340e63a208859cc5bae9650754",
@@ -315,7 +341,7 @@
    "id": "def3d17f3c125f8782ebe936945f1df09922dd2f",
    "title": "Scaling Hierarchical Networks",
    "summary": [
-    "Article URL: https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1 Comments URL: https://news.ycombinator.com/item?id=50278253 Points: 25 # Comments: 0"
+    "Article URL: https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1 Comments URL: https://news.ycombinator.com/item?id=50278253 Points: 58 # Comments: 2"
    ],
    "source": "Hacker News",
    "url": "https://www.cartesia.ai/blog/from-tokens-to-bytes-part-1",
@@ -328,7 +354,7 @@
    "id": "eca5bc916dac8df3ded583a157486aa1218a02c5",
    "title": "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
    "summary": [
-    "Article URL: https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/ Comments URL: https://news.ycombinator.com/item?id=50277755 Points: 45 # Comments: 3"
+    "Article URL: https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/ Comments URL: https://news.ycombinator.com/item?id=50277755 Points: 56 # Comments: 6"
    ],
    "source": "Hacker News",
    "url": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
@@ -354,7 +380,7 @@
    "id": "2365cd15a3284330e09c4eecdb39661d19b94b34",
    "title": "Why is this fingerprinting script creating bioweapons?",
    "summary": [
-    "Article URL: https://nullpt.rs/fingerprinting-bioweapons Comments URL: https://news.ycombinator.com/item?id=50276998 Points: 778 # Comments: 176"
+    "Article URL: https://nullpt.rs/fingerprinting-bioweapons Comments URL: https://news.ycombinator.com/item?id=50276998 Points: 1048 # Comments: 212"
    ],
    "source": "Hacker News",
    "url": "https://nullpt.rs/fingerprinting-bioweapons",
@@ -368,7 +394,7 @@
    "title": "MacBook Pro with PROLED XDR Display and Touch",
    "summary": [
     "https://www.apple.com/newsroom/2026/10/apple-unveils-groundb...",
-    "Comments URL: https://news.ycombinator.com/item?id=50276940 Points: 489 # Comments: 837"
+    "Comments URL: https://news.ycombinator.com/item?id=50276940 Points: 555 # Comments: 937"
    ],
    "source": "Hacker News",
    "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
@@ -378,23 +404,10 @@
    "related": []
   },
   {
-   "id": "9b21feb75bde9c6c5b77ddacee6857cf041e5d47",
-   "title": "Show HN: SlideBySide – Present slides without sharing your screen",
-   "summary": [
-    "Comments URL: https://news.ycombinator.com/item?id=50276883 Points: 54 # Comments: 23"
-   ],
-   "source": "Hacker News",
-   "url": "https://slidebyside.com/",
-   "image": null,
-   "published_at": "2026-10-28T17:07:09Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "6318bf62f2c5750d4debc093ba5deffe66f9f836",
    "title": "Gemini 4 Carbon",
    "summary": [
-    "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/ Comments URL: https://news.ycombinator.com/item?id=50276792 Points: 781 # Comments: 640"
+    "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/ Comments URL: https://news.ycombinator.com/item?id=50276792 Points: 880 # Comments: 727"
    ],
    "source": "Hacker News",
    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
@@ -486,7 +499,7 @@
    "id": "97373eedda74b8cd62be18654abeb2c2a1bd8276",
    "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
    "summary": [
-    "Article URL: https://surgehq.ai/blog/dayjob-tax Comments URL: https://news.ycombinator.com/item?id=50275626 Points: 193 # Comments: 119"
+    "Article URL: https://surgehq.ai/blog/dayjob-tax Comments URL: https://news.ycombinator.com/item?id=50275626 Points: 223 # Comments: 144"
    ],
    "source": "Hacker News",
    "url": "https://surgehq.ai/blog/dayjob-tax",
@@ -518,19 +531,6 @@
    "url": "https://www.theguardian.com/us-news/2026/oct/28/datacenter-noise-lawsuit-elon-musk-mississippi",
    "image": "https://i.guim.co.uk/img/media/348dbc85214c965490fc99f4d07ce31c26d36a5c/389_0_6003_4803/master/6003.jpg?width=140&quality=85&auto=format&fit=max&s=c0ccf9d6429b849fb81965c7a7e2d0d1",
    "published_at": "2026-10-28T15:32:41Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "949d7f1751b6508d15909664cf1cd596fda25bd4",
-   "title": "Archive.today links going forward",
-   "summary": [
-    "Article URL: https://www.reddit.com/r/Seattle/comments/1xhf6qp/archivetoday_links_going_forward/ Comments URL: https://news.ycombinator.com/item?id=50275373 Points: 190 # Comments: 122"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.reddit.com/r/Seattle/comments/1xhf6qp/archivetoday_links_going_forward/",
-   "image": null,
-   "published_at": "2026-10-28T15:31:58Z",
    "category": "tech",
    "related": []
   },
