@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T19:12:57.578870Z",
+ "generated_at": "2026-10-30T23:39:18.529469Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -24,15 +24,216 @@
  },
  "stories": [
   {
-   "id": "a0a8edc845919467c27d17b41c2bb53b45ccd1b4",
-   "title": "French national assembly votes 0.055€/GB internet tax",
+   "id": "08a6fc069d4adf4f5abf43d91cf32393fabd60f6",
+   "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
    "summary": [
-    "Article URL: https://www.lesnumeriques.com/societe-numerique/netflix-steam-cloud-vos-abonnements-et-telechargements-bientot-plus-chers-a-cause-d-une-nouvelle-taxe-n264035.html Comments URL: https://news.ycombinator.com/item?id=50308240 Points: 15 # Comments: 9"
+    "The AI logistics startup will bolster the CRM giant's Missionforce defense platform."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+   "image": null,
+   "published_at": "2026-10-30T23:21:23Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "5d6f84404e1c71413fed3b8994ceaa927431a0c7",
+   "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+   "summary": [
+    "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+   "image": null,
+   "published_at": "2026-10-30T22:56:13Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "95e0b10aaf4d50d5cecd7f3f9c3b4409c7a2fdf8",
+   "title": "France is getting download tax for content providers (€0.055/GB)",
+   "summary": [
+    "Article URL: https://www.resetera.com/threads/france-is-getting-download-tax-for-content-providers-%E2%82%AC0-055-gb-for-data-delivered-to-french-users.1675109/ Comments URL: https://news.ycombinator.com/item?id=50310796 Points: 62 # Comments: 46"
    ],
    "source": "Hacker News",
-   "url": "https://www.lesnumeriques.com/societe-numerique/netflix-steam-cloud-vos-abonnements-et-telechargements-bientot-plus-chers-a-cause-d-une-nouvelle-taxe-n264035.html",
+   "url": "https://www.resetera.com/threads/france-is-getting-download-tax-for-content-providers-%E2%82%AC0-055-gb-for-data-delivered-to-french-users.1675109/",
    "image": null,
-   "published_at": "2026-10-30T18:31:56Z",
+   "published_at": "2026-10-30T22:10:12Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "231cdb4da6639f9bc8b12bcd4b15fa2143849c10",
+   "title": "Linode Security Incident",
+   "summary": [
+    "Article URL: https://status.linode.com/incidents/nt58zhx3pmgm Comments URL: https://news.ycombinator.com/item?id=50310687 Points: 106 # Comments: 51"
+   ],
+   "source": "Hacker News",
+   "url": "https://status.linode.com/incidents/nt58zhx3pmgm",
+   "image": null,
+   "published_at": "2026-10-30T21:57:40Z",
+   "category": "tech",
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://status.bunny.net/incidents/p6gf1by9kr7m"
+    }
+   ]
+  },
+  {
+   "id": "a977761811a976a3ce0fcc7ccfa207309cb2d343",
+   "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+   "summary": [
+    "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+   "image": null,
+   "published_at": "2026-10-30T21:54:34Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "1ad66cf690a946d3eeb6b2a9dbb080898748aa47",
+   "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+   "summary": [
+    "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+   "image": null,
+   "published_at": "2026-10-30T21:52:03Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "dfee52d8d032b97c8d0c6603d2c3eae832a7ccf8",
+   "title": "Applebee’s exposed customers’ personal data after leaving database password in app",
+   "summary": [
+    "EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
+   "image": null,
+   "published_at": "2026-10-30T21:48:53Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "17e634c433c0f41b76f991b8ca969a1af51018b6",
+   "title": "sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
+   "summary": [
+    "Article URL: https://www.firezone.dev/blog/introducing-sanstun Comments URL: https://news.ycombinator.com/item?id=50310398 Points: 41 # Comments: 3"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.firezone.dev/blog/introducing-sanstun",
+   "image": null,
+   "published_at": "2026-10-30T21:30:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ade2d7581a3b8c2ef2d32e5fc0701e05be7717aa",
+   "title": "Last-minute Halloween costumes for tech nerds",
+   "summary": [
+    "Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+   "image": null,
+   "published_at": "2026-10-30T21:26:59Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "07912041c313179bf36a7831586d2eea1d3c1046",
+   "title": "Cracks are emerging in the AI spending boom",
+   "summary": [
+    "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+   "image": null,
+   "published_at": "2026-10-30T21:17:40Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "2638e7ac2619f2490ab34d37b25a43f49286e903",
+   "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+   "summary": [
+    "Article URL: https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/ Comments URL: https://news.ycombinator.com/item?id=50309647 Points: 141 # Comments: 75"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+   "image": null,
+   "published_at": "2026-10-30T20:23:30Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "0f90f553dcd8f6f74e0bfd5c156538c881e5a813",
+   "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
+   "summary": [
+    "Like a real-life episode of \"Suits,\" the demise of famed white-shoe Wall Street law firm Weil, Gotshal & Manges has been the talk of the legal industry.",
+    "And now an AI firm has entered the picture."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
+   "image": null,
+   "published_at": "2026-10-30T19:55:13Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "0fabae75d6e7fc31b8c86954b6ad2be230d2b44d",
+   "title": "Jules Verne's Lost Novel",
+   "summary": [
+    "Article URL: https://blue-continuum.com/verne-paris Comments URL: https://news.ycombinator.com/item?id=50309314 Points: 62 # Comments: 13"
+   ],
+   "source": "Hacker News",
+   "url": "https://blue-continuum.com/verne-paris",
+   "image": null,
+   "published_at": "2026-10-30T19:55:10Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "b18ed8fdf2c4d43457195e4e755609fe56ca2bc0",
+   "title": "The oldest ice disappears and the Stone Age emerges from it",
+   "summary": [
+    "Article URL: https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921 Comments URL: https://news.ycombinator.com/item?id=50309266 Points: 60 # Comments: 17"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
+   "image": null,
+   "published_at": "2026-10-30T19:51:33Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "703293e3c51bfb28f931699af6e3b391a66bbf8e",
+   "title": "Infinite Mac: BeOS",
+   "summary": [
+    "Article URL: https://blog.persistent.info/2026/10/infinite-mac-beos.html Comments URL: https://news.ycombinator.com/item?id=50309029 Points: 81 # Comments: 17"
+   ],
+   "source": "Hacker News",
+   "url": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
+   "image": null,
+   "published_at": "2026-10-30T19:30:09Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "b61920b4d9f6c46f7fb3d4eb2a1a6d8afc085611",
+   "title": "A Pickpocket's Guide to New York",
+   "summary": [
+    "Article URL: https://www.newyorker.com/magazine/2026/11/02/a-pickpockets-guide-to-new-york Comments URL: https://news.ycombinator.com/item?id=50308986 Points: 45 # Comments: 6"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.newyorker.com/magazine/2026/11/02/a-pickpockets-guide-to-new-york",
+   "image": null,
+   "published_at": "2026-10-30T19:26:39Z",
    "category": "tech",
    "related": []
   },
@@ -53,7 +254,7 @@
    "id": "83ed3d9a165c4548ffabab1ce71d8c1e751e45f8",
    "title": "GitHub Incident with Actions, Pages, and Webhooks",
    "summary": [
-    "Article URL: https://www.githubstatus.com/incidents/pwxsjgnvrk6b Comments URL: https://news.ycombinator.com/item?id=50307723 Points: 52 # Comments: 23"
+    "Article URL: https://www.githubstatus.com/incidents/pwxsjgnvrk6b Comments URL: https://news.ycombinator.com/item?id=50307723 Points: 139 # Comments: 58"
    ],
    "source": "Hacker News",
    "url": "https://www.githubstatus.com/incidents/pwxsjgnvrk6b",
@@ -76,54 +277,15 @@
    "related": []
   },
   {
-   "id": "7b402e9b6da8847ae8fd050ecbeb91992cd39670",
-   "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-   "summary": [
-    "Article URL: https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f Comments URL: https://news.ycombinator.com/item?id=50307219 Points: 67 # Comments: 18"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
-   "image": null,
-   "published_at": "2026-10-30T17:27:25Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "e72de549995147a10234d91215807e051c723b56",
    "title": "My favourite PowerMac is a Nintendo Wii",
    "summary": [
-    "Article URL: https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/ Comments URL: https://news.ycombinator.com/item?id=50307190 Points: 71 # Comments: 8"
+    "Article URL: https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/ Comments URL: https://news.ycombinator.com/item?id=50307190 Points: 207 # Comments: 55"
    ],
    "source": "Hacker News",
    "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
    "image": null,
    "published_at": "2026-10-30T17:25:15Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "9226a0978b1ef723ce467e2cdc455127ae0b562c",
-   "title": "Proton's CEO Cancels AI 'Re-Interviews'",
-   "summary": [
-    "Article URL: https://www.404media.co/protons-ceo-cancels-ai-re-interviews/ Comments URL: https://news.ycombinator.com/item?id=50307183 Points: 169 # Comments: 116"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
-   "image": null,
-   "published_at": "2026-10-30T17:24:45Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "becaca49bba419789b5128c2836261801554c7c0",
-   "title": "Show HN: Spinf-serve – inference server for bulk scoring and decisions",
-   "summary": [
-    "Article URL: https://github.com/spinfinc/spinf-serve Comments URL: https://news.ycombinator.com/item?id=50306815 Points: 7 # Comments: 0"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/spinfinc/spinf-serve",
-   "image": null,
-   "published_at": "2026-10-30T17:03:12Z",
    "category": "tech",
    "related": []
   },
@@ -142,9 +304,9 @@
   },
   {
    "id": "58bdc6b4d6104e60ef38c4c9c3957fc4f143c208",
-   "title": "A Working Nintendo in ~1GB of Qwen Weights",
+   "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
    "summary": [
-    "Article URL: https://github.com/dbreunig/nesformer Comments URL: https://news.ycombinator.com/item?id=50306442 Points: 93 # Comments: 81"
+    "Article URL: https://github.com/dbreunig/nesformer Comments URL: https://news.ycombinator.com/item?id=50306442 Points: 167 # Comments: 105"
    ],
    "source": "Hacker News",
    "url": "https://github.com/dbreunig/nesformer",
@@ -154,15 +316,15 @@
    "related": []
   },
   {
-   "id": "1634c7b4a767843a2b7a2c8e2dbe0a73e56417be",
-   "title": "US tech stocks see sharp falls over AI cost fears",
+   "id": "b5f849ef9045e6642c5210b8ad4ce1135d56411b",
+   "title": "North Korea is likely culprit behind $6.3bn crypto hack, ‘largest heist in history’",
    "summary": [
-    "Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 190 # Comments: 182"
+    "Binance exchange says it will cover customer losses as it scrambles to freeze affected assets, with about $3bn located so far Q&A: How big a deal is the $6.3bn crypto heist?Tell us: have you been affected by the Binance hack?Business live – latest updatesThe world’s largest cryptocurrency exchange has been hit by a record $6.3bn (£4.7bn) hack described as the biggest heist in history, with experts identifying North Korea as the likely culprit.Binance said it would cover all customer losses as it froze $3bn of the affected assets."
    ],
-   "source": "Hacker News",
-   "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo",
-   "image": null,
-   "published_at": "2026-10-30T16:13:02Z",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
+   "image": "https://i.guim.co.uk/img/media/4824d0b9ac9b676f0f7a9915bd1edd46731ae136/366_0_3924_3139/master/3924.jpg?width=140&quality=85&auto=format&fit=max&s=27f44bf7541cca708bf964e7d5dfd1bc",
+   "published_at": "2026-10-30T16:35:44Z",
    "category": "tech",
    "related": []
   },
@@ -183,7 +345,7 @@
    "id": "9e37c40a85b31b2ef31105642896b8e8fe0bb453",
    "title": "AI isn't replacing SREs, it's deskilling them",
    "summary": [
-    "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 311 # Comments: 227"
+    "Article URL: https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling Comments URL: https://news.ycombinator.com/item?id=50305693 Points: 468 # Comments: 347"
    ],
    "source": "Hacker News",
    "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
@@ -196,7 +358,7 @@
    "id": "0ff9069790cedaecbf1315740f272b102d1d9e14",
    "title": "Florilegium: Procedural Flowers in LaTeX",
    "summary": [
-    "Article URL: https://github.com/kevinraymond/florilegium Comments URL: https://news.ycombinator.com/item?id=50305637 Points: 82 # Comments: 13"
+    "Article URL: https://github.com/kevinraymond/florilegium Comments URL: https://news.ycombinator.com/item?id=50305637 Points: 196 # Comments: 34"
    ],
    "source": "Hacker News",
    "url": "https://github.com/kevinraymond/florilegium",
@@ -209,45 +371,22 @@
    "id": "92d1bce2e693dd62518f8569c7cd32289b24f80d",
    "title": "The federated code forge",
    "summary": [
-    "Article URL: https://tangled.org/blog/forge/ Comments URL: https://news.ycombinator.com/item?id=50305573 Points: 113 # Comments: 39"
+    "Article URL: https://tangled.org/blog/forge/ Comments URL: https://news.ycombinator.com/item?id=50305573 Points: 207 # Comments: 68"
    ],
    "source": "Hacker News",
    "url": "https://tangled.org/blog/forge/",
    "image": null,
    "published_at": "2026-10-30T15:44:29Z",
    "category": "tech",
-   "related": []
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://www.otwstatus.org"
+    }
+   ]
   },
   {
-   "id": "154de9a42a60dd665e9df783146610ef45ad7331",
-   "title": "Show HN: I built a multiplayer game where you're an aerial fighter cat",
-   "summary": [
-    "It's a web multiplayer game where you can fly a dangerous cat and engage in competition with other players and critters (pterodactyls, chickens and angry penguins).",
-    "I made it initially for me and my friends but it was quite fun so I thought I'll share it here too.The game is intentionally dorky and it was fun to develop.",
-    "Luckily I had a lot of elements / game dynamics done before from another project of mine (https://flat.social) so the actual iteration here took me around a week."
-   ],
-   "source": "Hacker News",
-   "url": "https://catcopter.com",
-   "image": null,
-   "published_at": "2026-10-30T15:29:40Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "5fd19759265a019e4b3f7368bb1b551a75b414b1",
-   "title": "Polymarket 1h halt after vendor compromise; affected users will be 'made whole'",
-   "summary": [
-    "Article URL: https://www.nbcnews.com/business/consumer/polymarket-trading-halt-hack-wallets-rcna606405 Comments URL: https://news.ycombinator.com/item?id=50305225 Points: 75 # Comments: 22"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.nbcnews.com/business/consumer/polymarket-trading-halt-hack-wallets-rcna606405",
-   "image": null,
-   "published_at": "2026-10-30T15:23:41Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "2074ab0021c112340862fa4293e66bee8913145a",
+   "id": "e9848ef703203936eb55d0b58e1318f8660289ea",
    "title": "Show HN: Sketch Stadium – watch your agent play Pictionary",
    "summary": [
     "Watching the agents play Pictionary together has been compelling, so I thought I'd ship it as a standalone demonstration.In Sketch Stadium, your agent subscribes to game events.",
@@ -255,22 +394,9 @@
     "The best-supported way to achieve that at the time was long-polling.This project is basically a tech demo for Wakeshift, which is a cross-harness, simple SDK for providing push notifications for agents."
    ],
    "source": "Hacker News",
-   "url": "https://sketch.wakeshift.ai/",
+   "url": "https://sketch.wakeshift.ai/games/q5ucru",
    "image": null,
    "published_at": "2026-10-30T15:23:11Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "e34a839c61eb0979f4f8e01a83307806a08761df",
-   "title": "Northflank Breached",
-   "summary": [
-    "Article URL: https://status.northflank.com Comments URL: https://news.ycombinator.com/item?id=50305025 Points: 199 # Comments: 124"
-   ],
-   "source": "Hacker News",
-   "url": "https://status.northflank.com",
-   "image": null,
-   "published_at": "2026-10-30T15:10:31Z",
    "category": "tech",
    "related": []
   },
@@ -314,6 +440,19 @@
    "url": "https://www.theguardian.com/technology/ng-interactive/2026/oct/30/ai-ghost-hunting",
    "image": "https://i.guim.co.uk/img/media/1d39796c4dc7d5a873ed01119d02771c61581e07/414_0_1885_1508/master/1885.jpg?width=140&quality=85&auto=format&fit=max&s=ac27e695d908ce6a95cebbbd871a4de0",
    "published_at": "2026-10-30T15:00:16Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "32c78f8a2d41e7f546754ea543ab459be72d8021",
+   "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+   "summary": [
+    "Article URL: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/ Comments URL: https://news.ycombinator.com/item?id=50304122 Points: 76 # Comments: 78"
+   ],
+   "source": "Hacker News",
+   "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+   "image": null,
+   "published_at": "2026-10-30T14:08:20Z",
    "category": "tech",
    "related": []
   },
@@ -385,19 +524,6 @@
    "related": []
   },
   {
-   "id": "1c161a9657c3a0c49e62a7f5e351632af9aa300f",
-   "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
-   "summary": [
-    "Article URL: https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/ Comments URL: https://news.ycombinator.com/item?id=50303172 Points: 241 # Comments: 173"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
-   "image": null,
-   "published_at": "2026-10-30T12:50:01Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "4e7bcb7a6e4ca8de5aa3433375f548b33d821276",
    "title": "Who could be behind the Binance hack and what we know so far",
    "summary": [
@@ -433,126 +559,6 @@
    "url": "https://www.theguardian.com/games/2026/oct/30/after-50-years-of-playing-video-games-im-finally-starring-in-one",
    "image": "https://i.guim.co.uk/img/media/305a0c442ca68d5418eb3fc87e0ac63ff6f18f58/43_0_1819_1456/master/1819.jpg?width=140&quality=85&auto=format&fit=max&s=92dc445e39f7bc5c1f681854028e1d3c",
    "published_at": "2026-10-30T10:30:51Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "b804da29a44db35ec279d0e5296660cd80397299",
-   "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
-   "summary": [
-    "Article URL: https://www.binarysecurity.no/posts/2026/10/one-root-case Comments URL: https://news.ycombinator.com/item?id=50301854 Points: 209 # Comments: 36"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
-   "image": null,
-   "published_at": "2026-10-30T10:06:15Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "5cfd109c3b968907c8cde5442bdddee779660f93",
-   "title": "How do you take a picture of a black hole?",
-   "summary": [
-    "Article URL: https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/ Comments URL: https://news.ycombinator.com/item?id=50301717 Points: 62 # Comments: 45"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/",
-   "image": null,
-   "published_at": "2026-10-30T09:49:02Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "3957844ea4ba5918c72f5169297ed8f00c3d5565",
-   "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
-   "summary": [
-    "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-30T09:33:51Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "fca39479d8ef89e3acb268bdab94f07e118d6554",
-   "title": "How video game remakes tap the power of nostalgia",
-   "summary": [
-    "Video games are good at triggering nostalgia, a key reason why classic games keep getting remade."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-30T07:45:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "bf5aaab63512aa2419db23810d284897ea273c39",
-   "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-   "summary": [
-    "https://cursor.com/blog/claude-code-extension-security-notic...",
-    "Comments URL: https://news.ycombinator.com/item?id=50300683 Points: 509 # Comments: 392"
-   ],
-   "source": "Hacker News",
-   "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-   "image": null,
-   "published_at": "2026-10-30T07:09:12Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "345cc9797a9d6c5afcf73d34f1c197ffdb26e684",
-   "title": "Waymo taps Toyota to supply robotaxis for Japan and the UK",
-   "summary": [
-    "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
-   "image": null,
-   "published_at": "2026-10-30T07:01:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "b804dc3ad369072a3d919269412b8fb517a03f67",
-   "title": "Electrocutions, disease and no pay: how workers risk exploitation in Europe’s datacentres",
-   "summary": [
-    "He was winding down the last 15 minutes of his shift at a vast Google datacentre site in Saint-Ghislain, Belgium, in March, when the call came in.",
-    "People have been fired after saying no.”The task was one Sandu had done many times before and involved a series of tests measuring the safety and integrity of the electrical wiring.",
-    "The round trip would have added another 15 minutes to the job, he says, and people were waiting, so he decided not to retrieve the suit."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/global-development/2026/oct/30/electrocutions-disease-and-no-pay-how-workers-risk-exploitation-in-europes-datacentres",
-   "image": "https://i.guim.co.uk/img/media/6fcb0b6ab4c9aa6f723cd1957f6de710e173a9d3/0_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=64b721f818412703b8b2b6618f13c9ad",
-   "published_at": "2026-10-30T05:00:46Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "3f421dfac0528ad9911ac7f8eccc647d878ec06c",
-   "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-   "summary": [
-    "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-   "image": null,
-   "published_at": "2026-10-30T01:20:48Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "20fcd8c5d7b0bf82043b94d4f38ed63c4f01d9c2",
-   "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
-   "summary": [
-    "The success of blockbuster hits like \"Project Hail Mary\" and \"Verity\" is only part of the story, Amazon's CEO says."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
-   "image": null,
-   "published_at": "2026-10-29T23:44:56Z",
    "category": "tech",
    "related": []
   }
