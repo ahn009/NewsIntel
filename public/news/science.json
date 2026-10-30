@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-30T14:00:34.443267Z",
- "story_count": 27,
+ "generated_at": "2026-10-30T19:12:57.579995Z",
+ "story_count": 24,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,32 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "d7bc9b559541f131339e49c4e5429c762f95423b",
+   "title": "Attenborough-backed appeal secures £30m estate",
+   "summary": [
+    "The purchase of the vast Rothbury Estate by wildlife groups is hailed as \"something very special\"."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ck79pj8zn3vwo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-30T15:23:37Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "48c135919b0c966b2c5486cad9a40f29370e154c",
+   "title": "Fears for mature Scots Pines burned by huge Highland wildfire",
+   "summary": [
+    "Experts say some older Scot pine damaged by fire could die removing an important source of seeds"
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqd09pv4l3k0o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-30T15:12:17Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "99c61f8e8d72f7007f7827fc1654d5e56205519e",
    "title": "Physicists created a tiny universe and watched time emerge without a clock",
@@ -103,19 +129,6 @@
    "url": "https://www.bbc.co.uk/weather/articles/c6ly075l742ro?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-30T06:18:35Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "d7bc9b559541f131339e49c4e5429c762f95423b",
-   "title": "Attenborough-backed appeal secures £30m estate",
-   "summary": [
-    "The purchase of the vast Rothbury Estate by wildlife groups is hailed as \"something very special\"."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ck79pj8zn3vwo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-30T06:16:43Z",
    "category": "science",
    "related": []
   },
@@ -259,19 +272,6 @@
    "related": []
   },
   {
-   "id": "cee0df3b3d63bc562d66b050245b241c49ab9798",
-   "title": "South West Water given lowest environmental rating",
-   "summary": [
-    "The water firm is performing \"significantly below target\" for pollution, the Environment Agency says."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c574p7r0xnvpo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-29T12:56:58Z",
-   "category": "science",
-   "related": []
-  },
-  {
    "id": "4d91e1b6a638754c5b34fef8925bcda3fd26018d",
    "title": "A 700,000-year-old elephant tooth reveals a lost world where early humans lived",
    "summary": [
@@ -353,48 +353,6 @@
    "url": "https://www.sciencedaily.com/releases/2026/10/261028232713.htm",
    "image": null,
    "published_at": "2026-10-29T08:10:47Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "42fdcb4556bc2bd7b0d8771abacfeeb89fee003a",
-   "title": "Your blood pressure could be dangerous even when your numbers look normal",
-   "summary": [
-    "Researchers have discovered a small group of brain cells that prevents dangerous blood pressure swings, even when average readings appear normal.",
-    "The finding reveals a hidden source of cardiovascular risk and could open the door to new treatments that protect the heart and brain."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261027063814.htm",
-   "image": null,
-   "published_at": "2026-10-29T03:54:37Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "1f2b2a3c94be42d23bf7cd7e8111ec830a89470c",
-   "title": "Scientists just broke a textbook rule of physics",
-   "summary": [
-    "Scientists have defied a long-standing rule of laser physics by generating X-rays with much higher energies than conventional theory predicts.",
-    "The surprising discovery reveals how two electrons working together can overcome a previously accepted limit, opening new possibilities for quantum research."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261027063713.htm",
-   "image": null,
-   "published_at": "2026-10-29T03:39:27Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "80d7026d11d752ceb6ce2cb0f3d9d21995586bd6",
-   "title": "Meteors don't just burn up. What really happens is far more violent",
-   "summary": [
-    "Scientists have uncovered seven surprising stages that space rocks go through as they hurtle toward Earth, revealing that melting and violent fragmentation, rather than simple evaporation, determine their fate.",
-    "The discovery could help explain why meteorites scatter across the ground and how dangerous asteroids explode in Earth's atmosphere."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261027063710.htm",
-   "image": null,
-   "published_at": "2026-10-29T03:06:41Z",
    "category": "science",
    "related": []
   }
