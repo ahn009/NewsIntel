@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T00:49:37.407203Z",
+ "generated_at": "2026-10-30T07:00:03.185254Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -24,15 +24,82 @@
  },
  "stories": [
   {
-   "id": "3957844ea4ba5918c72f5169297ed8f00c3d5565",
-   "title": "Crypto giant Binance freezes $2.5bn of assets over suspected hack",
+   "id": "a99036d2c91bca40694d9d449c4472e51b2ad54e",
+   "title": "CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation",
    "summary": [
-    "The firm said transactions are suspended while it conducts security checks and will \"cover all losses\"."
+    "Article URL: https://www.penligent.ai/hackinglabs/cve-2026-98432/ Comments URL: https://news.ycombinator.com/item?id=50299182 Points: 48 # Comments: 31"
    ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+   "source": "Hacker News",
+   "url": "https://www.penligent.ai/hackinglabs/cve-2026-98432/",
    "image": null,
-   "published_at": "2026-10-30T00:46:41Z",
+   "published_at": "2026-10-30T02:33:04Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "f3e49f6f952398aac393cb6bde38b0c4e4ffee66",
+   "title": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
+   "summary": [
+    "Lasm has been my dream for a good part of 2026.",
+    "I firmly believe that formal verification is the next evolution of software engineering and programming languages.",
+    "Amazing.Lasm brings Lean to the browser, Node, serverless, and edge environments (and more)."
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/Millillion/lasm",
+   "image": null,
+   "published_at": "2026-10-30T02:05:41Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "341da2ec9e9a484f2ecff4e132d021110e34b5dd",
+   "title": "Pico CSS is no longer maintained",
+   "summary": [
+    "Article URL: https://github.com/picocss/pico/discussions/754 Comments URL: https://news.ycombinator.com/item?id=50298964 Points: 99 # Comments: 30"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/picocss/pico/discussions/754",
+   "image": null,
+   "published_at": "2026-10-30T01:58:44Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "3f421dfac0528ad9911ac7f8eccc647d878ec06c",
+   "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+   "summary": [
+    "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+   "image": null,
+   "published_at": "2026-10-30T01:20:48Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "d20004732056017ada61af9cfde1453ec3bea8d7",
+   "title": "Herdr has released native app",
+   "summary": [
+    "Article URL: https://github.com/herdrdev/herdr-app Comments URL: https://news.ycombinator.com/item?id=50298436 Points: 129 # Comments: 79"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/herdrdev/herdr-app",
+   "image": null,
+   "published_at": "2026-10-30T00:42:41Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "81a353740ffae9c64c28b138c4632d03ce55cb86",
+   "title": "Cormac McCarthy's Library",
+   "summary": [
+    "Article URL: https://cormacmccarthy.lib.utk.edu/ Comments URL: https://news.ycombinator.com/item?id=50298318 Points: 40 # Comments: 17"
+   ],
+   "source": "Hacker News",
+   "url": "https://cormacmccarthy.lib.utk.edu/",
+   "image": null,
+   "published_at": "2026-10-30T00:31:00Z",
    "category": "tech",
    "related": []
   },
@@ -40,7 +107,7 @@
    "id": "20fcd8c5d7b0bf82043b94d4f38ed63c4f01d9c2",
    "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
    "summary": [
-    "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says."
+    "The success of blockbuster hits like \"Project Hail Mary\" and \"Verity\" is only part of the story, Amazon's CEO says."
    ],
    "source": "TechCrunch",
    "url": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
@@ -51,7 +118,7 @@
   },
   {
    "id": "720b04b8c5b9a5a8cb9c64d61c06458931da3434",
-   "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+   "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
    "summary": [
     "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business.",
     "But to do that it will have to continue on its capex spending spree, its CEO said Thursday."
@@ -79,6 +146,19 @@
    "related": []
   },
   {
+   "id": "70cae7a87b46451b0bcf27c8a6facad840ee286e",
+   "title": "More than half of Victorian lawyers use AI – but only a quarter have cut client fees as a result",
+   "summary": [
+    "Research finds 55% of lawyers are using AI in legal practices, up from 37% last year, though efficiency gains aren’t as high as expectedGet our breaking news email, free app or daily news podcastMore than half of Victoria’s lawyers have reported using AI in their work, according to a new study, but just over a quarter say they have reduced fees as a result of efficiency gains.They also say clients seeking advice from chatbots have added to their workload, forcing them to correct errors made by AI."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/law/2026/oct/30/victorian-lawyers-ai-clients-fees",
+   "image": "https://i.guim.co.uk/img/media/f9f3f7bce6fc3e3ad11900d943ee204c5d52ddba/699_0_2699_2160/master/2699.jpg?width=140&quality=85&auto=format&fit=max&s=bddb04c3bbd223c314cf04d6e4c9aa08",
+   "published_at": "2026-10-29T23:00:37Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "87fbeeb86acfe72c64d02b3cf6ed4d0e815311b1",
    "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
    "summary": [
@@ -95,7 +175,7 @@
    "id": "7cdc370132341c6647400825050f137fd34f19fc",
    "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
    "summary": [
-    "Article URL: https://journal.animationstudies.org/article/id/66/ Comments URL: https://news.ycombinator.com/item?id=50297089 Points: 29 # Comments: 1"
+    "Article URL: https://journal.animationstudies.org/article/id/66/ Comments URL: https://news.ycombinator.com/item?id=50297089 Points: 96 # Comments: 22"
    ],
    "source": "Hacker News",
    "url": "https://journal.animationstudies.org/article/id/66/",
@@ -105,23 +185,10 @@
    "related": []
   },
   {
-   "id": "b8abd60f90cc4de2b24c9622933716f705ac523b",
-   "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
-   "summary": [
-    "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI search summaries were affecting ad revenue."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-29T22:17:52Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "0ff12019cea307080137f9d895bbef26c5ccbb03",
    "title": "The Great American Rascal: Tom Sawyer at 150",
    "summary": [
-    "Article URL: https://claremontreviewofbooks.com/the-great-american-rascal/ Comments URL: https://news.ycombinator.com/item?id=50296947 Points: 26 # Comments: 6"
+    "Article URL: https://claremontreviewofbooks.com/the-great-american-rascal/ Comments URL: https://news.ycombinator.com/item?id=50296947 Points: 62 # Comments: 31"
    ],
    "source": "Hacker News",
    "url": "https://claremontreviewofbooks.com/the-great-american-rascal/",
@@ -144,41 +211,10 @@
    "related": []
   },
   {
-   "id": "923d025e66a508f8053db2630d56a5ab797c90ad",
-   "title": "Proton goes all in on using AI",
-   "summary": [
-    "Article URL: https://convo.casa/@b/117525936178835007 Comments URL: https://news.ycombinator.com/item?id=50296602 Points: 47 # Comments: 21"
-   ],
-   "source": "Hacker News",
-   "url": "https://convo.casa/@b/117525936178835007",
-   "image": null,
-   "published_at": "2026-10-29T21:49:28Z",
-   "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "https://sidbala.com/h-264-is-magic/"
-    }
-   ]
-  },
-  {
-   "id": "a5791e5c0bc7a69bad8f62622439217956b5eb31",
-   "title": "El Niño Is Flooding California's Coasts with the Highest Tides to Come",
-   "summary": [
-    "Article URL: https://gizmodo.com/el-nino-is-already-flooding-californias-coasts-and-the-years-highest-tides-havent-arrived-2000832574 Comments URL: https://news.ycombinator.com/item?id=50296585 Points: 44 # Comments: 11"
-   ],
-   "source": "Hacker News",
-   "url": "https://gizmodo.com/el-nino-is-already-flooding-californias-coasts-and-the-years-highest-tides-havent-arrived-2000832574",
-   "image": null,
-   "published_at": "2026-10-29T21:48:35Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "d8eb5a4b641ea994beef2b1309fa81df183ebf37",
    "title": "We ran AI agent swarms in Minecraft and Mindustry",
    "summary": [
-    "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 119 # Comments: 45"
+    "Article URL: https://labs.ycombinator.com/projects/games/index.html Comments URL: https://news.ycombinator.com/item?id=50296486 Points: 247 # Comments: 82"
    ],
    "source": "Hacker News",
    "url": "https://labs.ycombinator.com/projects/games/index.html",
@@ -191,7 +227,7 @@
    "id": "4c4b30fd3641aca8b36641c7fdf5208951b46381",
    "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
    "summary": [
-    "Article URL: https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8 Comments URL: https://news.ycombinator.com/item?id=50296470 Points: 578 # Comments: 349"
+    "Article URL: https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8 Comments URL: https://news.ycombinator.com/item?id=50296470 Points: 1106 # Comments: 658"
    ],
    "source": "Hacker News",
    "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
@@ -243,7 +279,7 @@
    "id": "9407517eb39f2f6eadefda8406df8a10bda81f9d",
    "title": "Sylphide OS: a general-purpose OS for microcontroller-based computers",
    "summary": [
-    "Article URL: https://projects.freehackers.org/sylphide-os/ Comments URL: https://news.ycombinator.com/item?id=50295868 Points: 32 # Comments: 7"
+    "Article URL: https://projects.freehackers.org/sylphide-os/ Comments URL: https://news.ycombinator.com/item?id=50295868 Points: 57 # Comments: 15"
    ],
    "source": "Hacker News",
    "url": "https://projects.freehackers.org/sylphide-os/",
@@ -253,21 +289,8 @@
    "related": []
   },
   {
-   "id": "18520bb1d1311360b9886f36a870481c6f961b7d",
-   "title": "ElementaryUI – Swift, in the Browser",
-   "summary": [
-    "Article URL: https://elementary.codes Comments URL: https://news.ycombinator.com/item?id=50295821 Points: 49 # Comments: 9"
-   ],
-   "source": "Hacker News",
-   "url": "https://elementary.codes",
-   "image": null,
-   "published_at": "2026-10-29T20:56:39Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "b0491de2895f4e13e1a30380c694f4f840f140b9",
-   "title": "Fan-fiction site Archive of Our Own could be offline for up to 4 weeks",
+   "title": "Fan-fiction site Archive of Our Own (AO3) could be offline for up to 4 weeks after security incident",
    "summary": [
     "The site has such a passionate user base that, within two hours of the announcement, its status page's posts had garnered millions of views (and much panicked commentary) across social media."
    ],
@@ -282,7 +305,7 @@
    "id": "c30c38a613a77d2525945599e8846f44161bf9da",
    "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
    "summary": [
-    "Article URL: https://github.com/SheepSeb/tinyworldformer Comments URL: https://news.ycombinator.com/item?id=50295450 Points: 95 # Comments: 7"
+    "Article URL: https://github.com/SheepSeb/tinyworldformer Comments URL: https://news.ycombinator.com/item?id=50295450 Points: 185 # Comments: 10"
    ],
    "source": "Hacker News",
    "url": "https://github.com/SheepSeb/tinyworldformer",
@@ -347,7 +370,7 @@
    "id": "1ffd1f6b6f1e33fffd8d713e4d8a30a066e78041",
    "title": "Patrick Stewart has died",
    "summary": [
-    "https://archive.ph/y4Egmhttps://en.wikipedia.org/wiki/Patrick_Stewart Comments URL: https://news.ycombinator.com/item?id=50294702 Points: 2230 # Comments: 460"
+    "https://archive.ph/y4Egmhttps://en.wikipedia.org/wiki/Patrick_Stewart Comments URL: https://news.ycombinator.com/item?id=50294702 Points: 2764 # Comments: 585"
    ],
    "source": "Hacker News",
    "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
@@ -357,43 +380,17 @@
    "related": []
   },
   {
-   "id": "9c79112b0f2e55948662deafafe9d428f4387a05",
-   "title": "The importance of communities around software",
-   "summary": [
-    "Article URL: https://lumi.codeberg.page/blog/software-community.html Comments URL: https://news.ycombinator.com/item?id=50294507 Points: 94 # Comments: 91"
-   ],
-   "source": "Hacker News",
-   "url": "https://lumi.codeberg.page/blog/software-community.html",
-   "image": null,
-   "published_at": "2026-10-29T19:27:47Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "3fc7476dc7642df84b85b926ab5674c9b964b889",
    "title": "Show HN: Auto Dismiss Mac OS \"Allow to find devices on local networks?\"",
    "summary": [
     "This popup has been a constant gripe of mine for years.",
     "I almost NEVER want to allow this permission and there is no system setting to disable it globally and prevent the popup from interrupting your typing, etc. This tiny swift app I built will autoclose it in 1/4th of a second and leave behind a little notification that it did so.",
-    "Comments URL: https://news.ycombinator.com/item?id=50294506 Points: 88 # Comments: 71"
+    "Comments URL: https://news.ycombinator.com/item?id=50294506 Points: 121 # Comments: 92"
    ],
    "source": "Hacker News",
    "url": "https://github.com/johncassil/dontallow",
    "image": null,
    "published_at": "2026-10-29T19:27:44Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "849640f5ae5bd7ed094345de1f984cbee69052f1",
-   "title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
-   "summary": [
-    "Article URL: https://divergencelabs.com/publications/ige-preprint.pdf Comments URL: https://news.ycombinator.com/item?id=50294486 Points: 35 # Comments: 23"
-   ],
-   "source": "Hacker News",
-   "url": "https://divergencelabs.com/publications/ige-preprint.pdf",
-   "image": null,
-   "published_at": "2026-10-29T19:25:48Z",
    "category": "tech",
    "related": []
   },
@@ -438,19 +435,6 @@
    "related": []
   },
   {
-   "id": "6e8fb8e0c17daa04ba020560ad5e720ecdf04826",
-   "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
-   "summary": [
-    "https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-..., https://archive.ph/K7bih Comments URL: https://news.ycombinator.com/item?id=50293047 Points: 270 # Comments: 187"
-   ],
-   "source": "Hacker News",
-   "url": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
-   "image": null,
-   "published_at": "2026-10-29T17:43:48Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "9893b64114d0af225e027088362d5d42610a4b6f",
    "title": "Google owner Alphabet loses $500bn in market value after profit disappoints Wall Street",
    "summary": [
@@ -460,19 +444,6 @@
    "url": "https://www.theguardian.com/technology/2026/oct/28/google-alphabet-q3-earnings-report",
    "image": "https://i.guim.co.uk/img/media/1fbb3bf8e595e794d2bb46b7c93c9e9f51b4634e/173_0_5155_4125/master/5155.jpg?width=140&quality=85&auto=format&fit=max&s=9785ad3246f1ebf0743f62c3582ab1b4",
    "published_at": "2026-10-29T17:29:46Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "11ef932bb8b9a008b41117b2ab8dbef0bf1c5309",
-   "title": "Claude Duet is the first personal-assistant-type harness that feels useful",
-   "summary": [
-    "Article URL: https://fig.blue/posts/duet-is-the-future/ Comments URL: https://news.ycombinator.com/item?id=50292727 Points: 99 # Comments: 77"
-   ],
-   "source": "Hacker News",
-   "url": "https://fig.blue/posts/duet-is-the-future/",
-   "image": null,
-   "published_at": "2026-10-29T17:24:25Z",
    "category": "tech",
    "related": []
   },
@@ -534,7 +505,7 @@
    "id": "b2249d571948ebd2e9344947f59715bdd1792fd3",
    "title": "16colo.rs – ANSI/ASCII art archive",
    "summary": [
-    "Article URL: https://16colo.rs/ Comments URL: https://news.ycombinator.com/item?id=50291421 Points: 82 # Comments: 7"
+    "Article URL: https://16colo.rs/ Comments URL: https://news.ycombinator.com/item?id=50291421 Points: 106 # Comments: 8"
    ],
    "source": "Hacker News",
    "url": "https://16colo.rs/",
@@ -555,6 +526,39 @@
    "url": "https://news.ycombinator.com/item?id=50291116",
    "image": null,
    "published_at": "2026-10-29T15:56:32Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "72c27fdbb2d3b08f483515da05921b53d8c509ab",
+   "title": "H.264 Is Magic (2016)",
+   "summary": [
+    "Article URL: https://sidbala.com/h-264-is-magic/ Comments URL: https://news.ycombinator.com/item?id=50291054 Points: 382 # Comments: 143"
+   ],
+   "source": "Hacker News",
+   "url": "https://sidbala.com/h-264-is-magic/",
+   "image": null,
+   "published_at": "2026-10-29T15:53:03Z",
+   "category": "tech",
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://elementary.codes"
+    }
+   ]
+  },
+  {
+   "id": "7aa9dd32e3c7a04d60ae9df61d3b7ae99f9ee6aa",
+   "title": "What is it like to work when your co-workers are AI agents?",
+   "summary": [
+    "Using AI for roles from executive assistants to chiefs of staff, companies are boasting about doing more with less, creating tension with their human workersOn an average workday, Dhruv Amin chats with dozens of colleagues to get things done at his AI startup Anything.",
+    "They’re artificial intelligence agents, software that handles tasks without human intervention.",
+    "At Anything, there are 15 human employees and roughly 150 agents – a ratio that Amin believes will soon be the norm."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/oct/29/ai-agent-coworker",
+   "image": "https://i.guim.co.uk/img/media/96ab1d348d65947d1e741dfb0c36ee6140aa89e2/438_0_4207_3367/master/4207.jpg?width=140&quality=85&auto=format&fit=max&s=06dcc75fbd53921f5ff2eb3d6ebeea8a",
+   "published_at": "2026-10-29T15:00:46Z",
    "category": "tech",
    "related": []
   }
