@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T17:39:16.045369Z",
+ "generated_at": "2026-10-31T21:26:08.329654Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -24,30 +24,178 @@
  },
  "stories": [
   {
-   "id": "8e75ef2dddf00d73549057dfb01bbf1a83dd9bd5",
-   "title": "Show HN: Jointter – A daily word puzzle using dots and lines",
+   "id": "e07dacdb45dcc75e43fc5c0e372ea75eac8c7fbd",
+   "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
    "summary": [
-    "This \"alphabet\" is always displayed below the game board, so the player can see the letters.The goal of the game is simple: you are presented with three rows of dots and a set of lines, and you have to figure out the word.",
-    "A great feature of the game is that it’s possible to deduce the word in a single turn — all the necessary information is right there on the board, allowing you to arrive at the answer with certainty.",
-    "So, I came up with a different solution: adding red dots for dots that aren't part of the target word.Another drawback is that the game is somewhat skewed."
+    "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act."
    ],
-   "source": "Hacker News",
-   "url": "https://www.jointter.com/",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
    "image": null,
-   "published_at": "2026-10-31T16:24:24Z",
+   "published_at": "2026-10-31T21:17:03Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "827536c436297ed4e1ed025015d9075af056ba61",
-   "title": "A/SIDE – Private photo sharing and encrypted messages",
+   "id": "80c31d0598a5c5dcdf3907387596b1ecfcf22ea6",
+   "title": "With 86% of the words, you might understand only 38% of an anime's lines",
    "summary": [
-    "Article URL: https://a-side.social/ Comments URL: https://news.ycombinator.com/item?id=50317484 Points: 12 # Comments: 9"
+    "Article URL: https://learnfromx.com/research/anime-word-coverage-vs-lines-understood Comments URL: https://news.ycombinator.com/item?id=50320028 Points: 3 # Comments: 0"
    ],
    "source": "Hacker News",
-   "url": "https://a-side.social/",
+   "url": "https://learnfromx.com/research/anime-word-coverage-vs-lines-understood",
    "image": null,
-   "published_at": "2026-10-31T16:16:20Z",
+   "published_at": "2026-10-31T20:46:39Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "6ca6f97a3e1e6aff5ef27b7ef04bc2d67b53b3d3",
+   "title": "Common Desktop Environment available now as open-source",
+   "summary": [
+    "Article URL: https://sourceforge.net/projects/cdesktopenv/ Comments URL: https://news.ycombinator.com/item?id=50320003 Points: 15 # Comments: 7"
+   ],
+   "source": "Hacker News",
+   "url": "https://sourceforge.net/projects/cdesktopenv/",
+   "image": null,
+   "published_at": "2026-10-31T20:43:41Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "bc311e37aca430c32488e66c14f858de1b692aa0",
+   "title": "Surviving \"The Graduate\"",
+   "summary": [
+    "https://archive.ph/Eqn1F Comments URL: https://news.ycombinator.com/item?id=50319563 Points: 3 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
+   "image": null,
+   "published_at": "2026-10-31T20:02:06Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a7e11bfba6b108f7c1476180c9300e668f472022",
+   "title": "HackerTube: YouTube built from videos recommended by HN",
+   "summary": [
+    "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007.https://hackertube.org/ Comments URL: https://news.ycombinator.com/item?id=50319510 Points: 135 # Comments: 76"
+   ],
+   "source": "Hacker News",
+   "url": "https://karpathy.bearblog.dev/hacker-tube/",
+   "image": null,
+   "published_at": "2026-10-31T19:56:53Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "e07ec5d69c955902d8475cf5b03e223254e02a65",
+   "title": "Anthropic blocks users for anything touching training larger models",
+   "summary": [
+    "Article URL: https://twitter.com/jiahaoshao1/status/2116475922190922088 Comments URL: https://news.ycombinator.com/item?id=50319358 Points: 34 # Comments: 4"
+   ],
+   "source": "Hacker News",
+   "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+   "image": null,
+   "published_at": "2026-10-31T19:39:19Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "f9b76a950f0a3145844850cf8689f0ade671dc02",
+   "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
+   "summary": [
+    "Based on vermiceli's annotated disassembly of Contra: https://github.com/vermiceli/nes-contra-us.",
+    "Thanks for the great work.I ported it in two steps.",
+    "Then the C code to WebAssembly so it runs in the browser.The cherry on top: online multiplayer, so two players can play co-op over the internet.Source: https://github.com/epoyraz/nes-contra-us Comments URL: https://news.ycombinator.com/item?id=50319169 Points: 18 # Comments: 11"
+   ],
+   "source": "Hacker News",
+   "url": "https://epoyraz.github.io/nes-contra-us/",
+   "image": null,
+   "published_at": "2026-10-31T19:18:48Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "6bd209feefbeab17a3f5fb389d25b5a774e46e10",
+   "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+   "summary": [
+    "Article URL: https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf Comments URL: https://news.ycombinator.com/item?id=50319143 Points: 127 # Comments: 64"
+   ],
+   "source": "Hacker News",
+   "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+   "image": null,
+   "published_at": "2026-10-31T19:16:30Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "3fb536a91a4feabb364a22218850079ee78a6643",
+   "title": "The Duty of a Scholar",
+   "summary": [
+    "Article URL: https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html Comments URL: https://news.ycombinator.com/item?id=50319061 Points: 54 # Comments: 11"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
+   "image": null,
+   "published_at": "2026-10-31T19:07:36Z",
+   "category": "tech",
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://www.pgdp.net/c/"
+    }
+   ]
+  },
+  {
+   "id": "82785ab4f152db3e789ab8342b520f769ee36c8b",
+   "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+   "summary": [
+    "Article URL: https://ryanmadden.net/gpt-56-beats-factorio/ Comments URL: https://news.ycombinator.com/item?id=50318871 Points: 109 # Comments: 108"
+   ],
+   "source": "Hacker News",
+   "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
+   "image": null,
+   "published_at": "2026-10-31T18:50:34Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "c58cd229056d61a4d51ef6eb2083cb2397c050de",
+   "title": "It's the Memory Latency, Stupid",
+   "summary": [
+    "Article URL: https://pivotlake.io/blog/its-the-memory-latency-stupid/ Comments URL: https://news.ycombinator.com/item?id=50318720 Points: 50 # Comments: 7"
+   ],
+   "source": "Hacker News",
+   "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+   "image": null,
+   "published_at": "2026-10-31T18:38:16Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "9fd0bcadad75a939cc442442b981ce9d22fe1645",
+   "title": "I post trained a model on Demoscenes",
+   "summary": [
+    "Article URL: https://datavorous.com/writing/demoscener/ Comments URL: https://news.ycombinator.com/item?id=50318442 Points: 34 # Comments: 18"
+   ],
+   "source": "Hacker News",
+   "url": "https://datavorous.com/writing/demoscener/",
+   "image": null,
+   "published_at": "2026-10-31T18:08:24Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "444f2a06681d159b16e6e8324e79eb82571d2915",
+   "title": "William Nordhaus has died",
+   "summary": [
+    "Article URL: https://news.yale.edu/2026/10/31/william-nordhaus-nobel-laureate-who-integrated-economics-and-climate-change-devoted-yale Comments URL: https://news.ycombinator.com/item?id=50318376 Points: 34 # Comments: 7"
+   ],
+   "source": "Hacker News",
+   "url": "https://news.yale.edu/2026/10/31/william-nordhaus-nobel-laureate-who-integrated-economics-and-climate-change-devoted-yale",
+   "image": null,
+   "published_at": "2026-10-31T17:59:41Z",
    "category": "tech",
    "related": []
   },
@@ -65,35 +213,17 @@
    "related": []
   },
   {
-   "id": "823dae0b0219e8a00bcad2297aef0304d6fe36fb",
-   "title": "What is a light-day? The milestone Voyager 1 is closing in on",
+   "id": "2e58988f93d774670bbb7c6436dbc85fa7fa337d",
+   "title": "Show HN: A USB-C LTE modem that gives my computer a phone line",
    "summary": [
-    "Article URL: https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/ Comments URL: https://news.ycombinator.com/item?id=50317429 Points: 28 # Comments: 9"
+    "Article URL: https://github.com/Koppar-AI/koppar-lte-modem Comments URL: https://news.ycombinator.com/item?id=50317331 Points: 27 # Comments: 16"
    ],
    "source": "Hacker News",
-   "url": "https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/",
+   "url": "https://github.com/Koppar-AI/koppar-lte-modem",
    "image": null,
-   "published_at": "2026-10-31T16:09:55Z",
+   "published_at": "2026-10-31T15:56:41Z",
    "category": "tech",
    "related": []
-  },
-  {
-   "id": "e8430d9aa41f2bbc5cdd86294d7030f55aca4616",
-   "title": "Casio Watches of the 1980s",
-   "summary": [
-    "Article URL: https://www.casio.com/us/watches/50th/Heritage/1980s/ Comments URL: https://news.ycombinator.com/item?id=50317363 Points: 75 # Comments: 25"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.casio.com/us/watches/50th/Heritage/1980s/",
-   "image": null,
-   "published_at": "2026-10-31T16:00:48Z",
-   "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "https://www.phoronix.com/news/Enlightenment-0.28"
-    }
-   ]
   },
   {
    "id": "c64befe67ac30892ca13dc1b9f0a320a2af6af02",
@@ -109,23 +239,10 @@
    "related": []
   },
   {
-   "id": "c5808ed67d9179e5ceb6be579a348f9f68218741",
-   "title": "Ex-Meta Researcher Torrented Pirated Books, Deleted It 'Due to Litigation'",
-   "summary": [
-    "Article URL: https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/ Comments URL: https://news.ycombinator.com/item?id=50316760 Points: 73 # Comments: 49"
-   ],
-   "source": "Hacker News",
-   "url": "https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/",
-   "image": null,
-   "published_at": "2026-10-31T14:57:33Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "5b0ac3b976a1c0a5a8fe26ed07fa45bbd5e69d6f",
    "title": "Malware uses LLMs to rank victims by how much they're worth",
    "summary": [
-    "Article URL: https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/ Comments URL: https://news.ycombinator.com/item?id=50316531 Points: 132 # Comments: 59"
+    "Article URL: https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/ Comments URL: https://news.ycombinator.com/item?id=50316531 Points: 214 # Comments: 116"
    ],
    "source": "Hacker News",
    "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
@@ -151,12 +268,27 @@
    "id": "810faf01d51623255c20e09086023c983545c151",
    "title": "Jepsen: ParticleDB 1.1.4",
    "summary": [
-    "https://github.com/jepsen-io/particledb Comments URL: https://news.ycombinator.com/item?id=50316100 Points: 27 # Comments: 8"
+    "https://github.com/jepsen-io/particledb Comments URL: https://news.ycombinator.com/item?id=50316100 Points: 131 # Comments: 67"
    ],
    "source": "Hacker News",
    "url": "https://jepsen.io/analyses/particledb-1.1.4",
    "image": null,
    "published_at": "2026-10-31T13:39:52Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "14074b4203bb23f176964166bd2fb761022eb843",
+   "title": "Show HN: A language model that lives in a boot sector",
+   "summary": [
+    "The pointer to the biases table was stored in edx, which resulted in the first neuron being biased correctly and the following ones using garbage.",
+    "Another bug I found simply by looking at the code before I did my first run-through: the BIOS print routine zeros out bx, but bx contains the predicted character number.",
+    "It is the trade-off in the opposite direction, as my engine needs to fit into one sector and therefore my network has just one hidden layer of int8 operations for dreaming the dmesg."
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/kerlenton/bootgpt",
+   "image": null,
+   "published_at": "2026-10-31T12:58:29Z",
    "category": "tech",
    "related": []
   },
@@ -175,23 +307,10 @@
    "related": []
   },
   {
-   "id": "bcbaffe380df7eac6a778fb690ad0c237646112d",
-   "title": "Prospero: A new coding harness for a more civilized age",
-   "summary": [
-    "Article URL: https://nullprogram.com/blog/2026/10/31/ Comments URL: https://news.ycombinator.com/item?id=50315226 Points: 140 # Comments: 85"
-   ],
-   "source": "Hacker News",
-   "url": "https://nullprogram.com/blog/2026/10/31/",
-   "image": null,
-   "published_at": "2026-10-31T11:54:59Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "381223935ae368b9512e8857ba7a460b6c8f72a0",
-   "title": "We Took over ChatGPT Accounts",
+   "title": "Do the math: How we took over ChatGPT accounts",
    "summary": [
-    "Article URL: https://www.parameter.ai/labs/we-found-a-gap-at-openai Comments URL: https://news.ycombinator.com/item?id=50314699 Points: 222 # Comments: 108"
+    "Article URL: https://www.parameter.ai/labs/we-found-a-gap-at-openai Comments URL: https://news.ycombinator.com/item?id=50314699 Points: 284 # Comments: 139"
    ],
    "source": "Hacker News",
    "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
@@ -204,7 +323,7 @@
    "id": "ec5c571f059ef5ef1b811236b0f82cefea33491e",
    "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
    "summary": [
-    "Article URL: https://piefed.world/post/1503394 Comments URL: https://news.ycombinator.com/item?id=50314666 Points: 202 # Comments: 134"
+    "Article URL: https://piefed.world/post/1503394 Comments URL: https://news.ycombinator.com/item?id=50314666 Points: 275 # Comments: 159"
    ],
    "source": "Hacker News",
    "url": "https://piefed.world/post/1503394",
@@ -217,38 +336,12 @@
    "id": "0cc0a6009edfd9e8dac9a0921185afdac01ef3d6",
    "title": "Serbia just elected the world's brainiest parliament",
    "summary": [
-    "Article URL: https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament Comments URL: https://news.ycombinator.com/item?id=50314654 Points: 652 # Comments: 374"
+    "Article URL: https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament Comments URL: https://news.ycombinator.com/item?id=50314654 Points: 747 # Comments: 434"
    ],
    "source": "Hacker News",
    "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
    "image": null,
    "published_at": "2026-10-31T10:21:30Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "a2dd8ba86336037cb0facc722f090fc277c40ba5",
-   "title": "Switch Lowering in GCC",
-   "summary": [
-    "Article URL: https://xoranth.net/gcc-switch/ Comments URL: https://news.ycombinator.com/item?id=50314085 Points: 159 # Comments: 29"
-   ],
-   "source": "Hacker News",
-   "url": "https://xoranth.net/gcc-switch/",
-   "image": null,
-   "published_at": "2026-10-31T08:02:26Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "73acf00ea16812b9c52bca9bcfbbec7819522fd9",
-   "title": "Digital minimalism",
-   "summary": [
-    "Article URL: https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html Comments URL: https://news.ycombinator.com/item?id=50313661 Points: 214 # Comments: 155"
-   ],
-   "source": "Hacker News",
-   "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
-   "image": null,
-   "published_at": "2026-10-31T06:16:36Z",
    "category": "tech",
    "related": []
   },
@@ -277,21 +370,6 @@
    "url": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
    "image": null,
    "published_at": "2026-10-31T04:16:50Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "49db83e253edbf0771d468b99bafbdd0476979fa",
-   "title": "Tell HN: Scribd Breached",
-   "summary": [
-    "Instead type scribd.com, slideshare.net, everand.com, or fable.co directly into your browser.",
-    "Report it through Scribd, Inc.'s Help Center.",
-    "We are deeply sorry this happened and will keep you updated if anything further changes.Scribd, Inc."
-   ],
-   "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50312756",
-   "image": null,
-   "published_at": "2026-10-31T02:46:36Z",
    "category": "tech",
    "related": []
   },
@@ -429,15 +507,17 @@
    "related": []
   },
   {
-   "id": "b18ed8fdf2c4d43457195e4e755609fe56ca2bc0",
-   "title": "The oldest ice disappears and the Stone Age emerges from it",
+   "id": "c6608a9a5604e0855aea0a17ba81a5f1f1c8a11f",
+   "title": "Tech sell-off drives US markets down by nearly $1tn after subpar earnings reports",
    "summary": [
-    "Article URL: https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921 Comments URL: https://news.ycombinator.com/item?id=50309266 Points: 190 # Comments: 86"
+    "It was on track to erase its gain for October, even though it set its all-time high during the same month.",
+    "The weakness for technology stocks dragged the Nasdaq composite down even further, more than 3%, also erasing hundreds of billions in value.",
+    "The Dow Jones Industrial Average fell less."
    ],
-   "source": "Hacker News",
-   "url": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
-   "image": null,
-   "published_at": "2026-10-30T19:51:33Z",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/oct/30/tech-stocks-drop-earnings-report",
+   "image": "https://i.guim.co.uk/img/media/7a052dd1015720ea8d19c722dd7b8bcd0586aab3/452_0_4515_3613/master/4515.jpg?width=140&quality=85&auto=format&fit=max&s=caca7d3f30c1eef3ea87cd4a8a986b56",
+   "published_at": "2026-10-30T18:27:51Z",
    "category": "tech",
    "related": []
   },
@@ -468,19 +548,6 @@
    "related": []
   },
   {
-   "id": "e72de549995147a10234d91215807e051c723b56",
-   "title": "My favourite PowerMac is a Nintendo Wii",
-   "summary": [
-    "Article URL: https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/ Comments URL: https://news.ycombinator.com/item?id=50307190 Points: 355 # Comments: 108"
-   ],
-   "source": "Hacker News",
-   "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
-   "image": null,
-   "published_at": "2026-10-30T17:25:15Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "fc6c7228713784133471de435e607ec5f6fa1074",
    "title": "Google’s first data center satellite is online and writing poetry",
    "summary": [
@@ -490,71 +557,6 @@
    "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
    "image": null,
    "published_at": "2026-10-30T17:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "b5f849ef9045e6642c5210b8ad4ce1135d56411b",
-   "title": "North Korea is likely culprit behind $6.3bn crypto hack, ‘largest heist in history’",
-   "summary": [
-    "Binance exchange says it will cover customer losses as it scrambles to freeze affected assets, with about $3bn located so farQ&A: How big a deal is the $6.3bn crypto heist?Tell us: have you been affected by the Binance hack?The world’s largest cryptocurrency exchange has been hit by a record $6.3bn (£4.7bn) hack described as the biggest heist in history, with experts identifying North Korea as the likely culprit.Binance said it would cover all customer losses as it froze $3bn of the affected assets."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/oct/29/binance-crypto-exchange-hack",
-   "image": "https://i.guim.co.uk/img/media/4824d0b9ac9b676f0f7a9915bd1edd46731ae136/366_0_3924_3139/master/3924.jpg?width=140&quality=85&auto=format&fit=max&s=27f44bf7541cca708bf964e7d5dfd1bc",
-   "published_at": "2026-10-30T16:35:44Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "d906f2ca87fcfb32f5a091c308a771ec7002e915",
-   "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
-   "summary": [
-    "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-   "image": null,
-   "published_at": "2026-10-30T16:03:45Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "0ff9069790cedaecbf1315740f272b102d1d9e14",
-   "title": "Florilegium: Procedural Flowers in LaTeX",
-   "summary": [
-    "Article URL: https://github.com/kevinraymond/florilegium Comments URL: https://news.ycombinator.com/item?id=50305637 Points: 361 # Comments: 52"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/kevinraymond/florilegium",
-   "image": null,
-   "published_at": "2026-10-30T15:48:12Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "e34a839c61eb0979f4f8e01a83307806a08761df",
-   "title": "Northflank Breached",
-   "summary": [
-    "Article URL: https://status.northflank.com Comments URL: https://news.ycombinator.com/item?id=50305025 Points: 464 # Comments: 343"
-   ],
-   "source": "Hacker News",
-   "url": "https://status.northflank.com",
-   "image": null,
-   "published_at": "2026-10-30T15:10:31Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "9486e5ae65c4486e874d5d4b015db8b1dc5f5203",
-   "title": "Billionaire tax: how a union leader’s ‘crazy’ idea became the defining issue of California’s midterms",
-   "summary": [
-    "Back then, it was a bold and desperate answer to Donald Trump’s healthcare cuts."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/30/california-billionaire-tax",
-   "image": "https://i.guim.co.uk/img/media/f84e43fdfd782096ab7cda1b19640357b6b43cb3/299_52_2305_1844/master/2305.jpg?width=140&quality=85&auto=format&fit=max&s=d3e08772ea4eae20d747d5b40f7669cf",
-   "published_at": "2026-10-30T15:00:19Z",
    "category": "tech",
    "related": []
   }
