@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-30T23:39:18.530562Z",
- "story_count": 22,
+ "generated_at": "2026-10-31T05:24:06.184550Z",
+ "story_count": 17,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,19 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "9a050f5d72373de77f1cad62f553b96b49bbcc31",
+   "title": "UK could see 10 days without rain after 'wettest week in two years'",
+   "summary": [
+    "With high pressure developing across the UK, the start of November is looking very settled with no significant rain in the forecast."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/weather/articles/cq98zrwd42jzo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-31T00:06:31Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "d7bc9b559541f131339e49c4e5429c762f95423b",
    "title": "Attenborough-backed appeal secures £30m estate",
@@ -240,90 +253,6 @@
    "url": "https://www.bbc.co.uk/news/videos/cm93zere04plo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-29T18:31:27Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "980221234b0360ab7021f3c6317cd4b72cb6e78d",
-   "title": "A single brain signal may explain schizophrenia's most puzzling symptoms",
-   "summary": [
-    "Scientists have identified a weakened brain signal that may connect several seemingly unrelated symptoms of schizophrenia, including sensory processing difficulties, disorganized speech, and greater symptom severity.",
-    "The surprising discovery could help explain the disorder's underlying mechanisms and potentially lead to earlier detection and new treatments."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261028232659.htm",
-   "image": null,
-   "published_at": "2026-10-29T13:14:52Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "2891d0ce69d566b6581e684b66a4ea8719730cf8",
-   "title": "Six popular sugar substitutes linked to faster brain aging",
-   "summary": [
-    "A study of nearly 13,000 adults found that people consuming the most artificial sweeteners experienced a 62% faster decline in memory and thinking skills, equivalent to approximately 1.6 additional years of brain aging.",
-    "Six popular sweeteners were linked to faster cognitive decline, raising concerns about the long-term brain health effects of common sugar substitutes, although causation was not established."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261028234238.htm",
-   "image": null,
-   "published_at": "2026-10-29T13:04:04Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "4d91e1b6a638754c5b34fef8925bcda3fd26018d",
-   "title": "A 700,000-year-old elephant tooth reveals a lost world where early humans lived",
-   "summary": [
-    "A remarkably preserved elephant tooth dating back nearly 700,000 years has revealed a surprisingly lush prehistoric world where giant elephants and early humans lived side by side.",
-    "Discovered in northern Israel alongside ancient stone tools, the tooth belonged to a straight-tusked elephant, one of the largest land mammals of the Ice Age."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261028232709.htm",
-   "image": null,
-   "published_at": "2026-10-29T12:38:53Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "82355b31bc9b94706f03a3a77fb877b55550c2f2",
-   "title": "NASA discovers Jupiter’s invisible shield is more complex than Earth’s",
-   "summary": [
-    "NASA’s Juno spacecraft has discovered that Jupiter uses a surprisingly complex system of powerful plasma waves and multiple shock regions to defend against the solar wind.",
-    "The findings reveal major differences between Jupiter and Earth and could help scientists understand the enormous shock waves produced by exploding stars."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261028232715.htm",
-   "image": null,
-   "published_at": "2026-10-29T12:26:25Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "4f8c99c0580ecfa0717a6b9bc8958c356c5284ef",
-   "title": "Serious pollution by water industry remains high despite £5bn investment",
-   "summary": [
-    "All but one of England's water companies were rated as \"poor\" or \"requiring improvement\" for environmental targets."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cw5ynxepy4gno?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-29T12:08:01Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "bda9ea8203f5fcbdb067587d5d0728cd676d6f80",
-   "title": "Einstein's equations may explain the universe without dark energy",
-   "summary": [
-    "Mathematicians have uncovered what they argue is a fundamental flaw in the standard model of the universe, potentially challenging the need for dark energy.",
-    "Their calculations suggest that the mathematical framework used to describe cosmic expansion is inherently unstable and that the universe could accelerate naturally under Einstein's original theory of gravity.",
-    "The findings also raise surprising questions about whether our location in the universe is as ordinary as scientists have long assumed."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261028232719.htm",
-   "image": null,
-   "published_at": "2026-10-29T12:07:58Z",
    "category": "science",
    "related": []
   }
