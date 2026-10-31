@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-31T05:24:06.184550Z",
- "story_count": 17,
+ "generated_at": "2026-10-31T12:12:51.786418Z",
+ "story_count": 16,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,19 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "0f56bbc5d94d4b6f2a52cd197314812408d83662",
+   "title": "Rewilding project aims to restore peatland",
+   "summary": [
+    "Cumbria Wildlife Trust starts work repairing damage to Skiddaw Forest's peatland."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/crq8nw0q7d5ko?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-31T06:58:30Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "9a050f5d72373de77f1cad62f553b96b49bbcc31",
    "title": "UK could see 10 days without rain after 'wettest week in two years'",
@@ -227,32 +240,6 @@
    "url": "https://www.sciencedaily.com/releases/2026/10/261028232706.htm",
    "image": null,
    "published_at": "2026-10-30T00:26:37Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "db65db566ac2ac351ee9cf995c34c398c9c0e619",
-   "title": "BBC Inside Science",
-   "summary": [
-    "Time is running out for one of the most ambitious environmental pledges in history."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/sounds/play/w3ct978j?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-29T21:00:00Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "a702e1c32b7c9376297ca912ead33c7d358d48b7",
-   "title": "Firefighters celebrate rain during Indonesia wildfires",
-   "summary": [
-    "A number of clips show firefighters celebrating in the rain."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/cm93zere04plo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-29T18:31:27Z",
    "category": "science",
    "related": []
   }

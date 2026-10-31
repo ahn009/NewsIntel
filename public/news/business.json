@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-31T05:24:06.184388Z",
- "story_count": 14,
+ "generated_at": "2026-10-31T12:12:51.786165Z",
+ "story_count": 12,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,19 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "e44a882fffb1846291692b982008ddc08e9be23c",
+   "title": "The staggering $446m Elon Musk has spent on the US midterms – visualized",
+   "summary": [
+    "The contributions have made him the Republicans’ most prominent financial backer and the largest single-cycle political donor in modern US history."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/elon-musk-midterms-spending-visualized",
+   "image": "https://i.guim.co.uk/img/media/87f71c610e349be86307c3bc3899c73108b60411/1_0_2999_2400/master/2999.jpg?width=140&quality=85&auto=format&fit=max&s=677a3b257b8a6e5d7d53780c68c3e1dc",
+   "published_at": "2026-10-31T10:00:40Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "79157d163a4edd35e4b0f78cd9d668d3eaf2bced",
    "title": "Soaring cost of Halloween treats spooks shoppers",
@@ -166,45 +179,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cw07304l5je7o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-30T06:08:22Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "289026cfa5fa2c5e46242b1e52be355e44270c97",
-   "title": "From Levi's to Primark - the fashion chains selling mended clothes",
-   "summary": [
-    "A new generation is embracing eye-catching patching and visible mends."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-30T00:00:35Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "0172dd986ced9a5a94889bf1b5deddd77f3717e6",
-   "title": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
-   "summary": [
-    "Poundland's bosses are filing a notice of intention to appoint administrators to the business."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-29T19:11:10Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "3481c1b09580db88f7858f165d94179670a149ec",
-   "title": "The South West reacts to Budget announcements",
-   "summary": [
-    "Tourism and business leaders have been reacting to John Healey's first Budget as chancellor."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm62yle1g2wyo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-10-29T18:07:26Z",
    "category": "business",
    "related": []
   }
