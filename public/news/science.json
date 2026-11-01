@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-01T14:58:38.980664Z",
- "story_count": 19,
+ "generated_at": "2026-11-01T19:32:29.608758Z",
+ "story_count": 18,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,19 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "d0930d0ae299361a543e0a62fc32ab4d4322423f",
+   "title": "'Fascinating' rare beetle found in Wales again after 60 years",
+   "summary": [
+    "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys"
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-01T18:04:52Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "858d08893264653199fd1f598fed560e4321ee5d",
    "title": "Common pesticide linked to 2.5 times the risk of Parkinson’s disease",
@@ -115,19 +128,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cqrkypljk526o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-01T07:11:35Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "d0930d0ae299361a543e0a62fc32ab4d4322423f",
-   "title": "'Fascinating' rare beetle found in Wales again after 60 years",
-   "summary": [
-    "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys"
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-01T07:08:04Z",
    "category": "science",
    "related": []
   },
@@ -266,20 +266,6 @@
    "url": "https://www.sciencedaily.com/releases/2026/10/261029072123.htm",
    "image": null,
    "published_at": "2026-10-31T10:38:30Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "c797c1ad49fd53b48559f9bb1c8d45038f1db7d9",
-   "title": "A surprising vitamin A discovery is changing what scientists know about vision",
-   "summary": [
-    "Scientists at Johns Hopkins University have uncovered a surprising process that helps humans develop sharp vision before birth, challenging decades of assumptions about how the eye forms.",
-    "Using miniature human retinas grown in the lab, researchers discovered that a vitamin A derivative and thyroid hormones work together to shape the foveola, the tiny region at the center of the retina responsible for our sharpest vision."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261028234813.htm",
-   "image": null,
-   "published_at": "2026-10-31T04:31:41Z",
    "category": "science",
    "related": []
   }

@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-01T14:58:38.980444Z",
- "story_count": 5,
+ "generated_at": "2026-11-01T19:32:29.608633Z",
+ "story_count": 6,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,19 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "522a758e51d04317d700b690bd0414f9b3ec9938",
+   "title": "Thousands of jobs at Virgin Media O2 to be cut",
+   "summary": [
+    "The broadband provider has not finalised the number of roles to be axed but it will likely be a sizeable chunk of its workforce, the BBC understands."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-01T16:57:14Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "43c0246decab48360b17083954eba46aeb39ecb7",
    "title": "Affordability top of mind for voters in final sprint to midterms: ‘I have to pick between medicine or groceries’",
