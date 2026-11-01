@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-01T07:24:52.516387Z",
- "story_count": 3,
+ "generated_at": "2026-11-01T14:58:38.980444Z",
+ "story_count": 5,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,19 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "43c0246decab48360b17083954eba46aeb39ecb7",
+   "title": "Affordability top of mind for voters in final sprint to midterms: ‘I have to pick between medicine or groceries’",
+   "summary": [
+    "Cost of living has loomed over this election cycle as workers and unions champion candidates fighting for higher wages and tackling rising pricesFor millions of Americans heading to the polls on Tuesday, affordability is a constant and worsening issue, and it’s been a prevailing concern this election cycle.In Lorain county, Ohio, Gina Jones and her co-workers at the Lorain county job and family services have been on strike since February 2026, the longest public sector strike in Ohio history and on pace to break the US record for longest public sector strike."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/01/affordability-voters-final-sprint-midterms",
+   "image": "https://i.guim.co.uk/img/media/b42001773186bc6ae7daa884a92f176ae4a00846/446_0_4853_3883/master/4853.jpg?width=140&quality=85&auto=format&fit=max&s=c4f7b795e372687c8b13058167e9b3fc",
+   "published_at": "2026-11-01T12:00:11Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "d5388254314cacdf2bfea0f95407dbf1db19a365",
    "title": "Energy bills help 'doesn't go far enough'",
@@ -50,15 +63,29 @@
    "related": []
   },
   {
-   "id": "79157d163a4edd35e4b0f78cd9d668d3eaf2bced",
-   "title": "Soaring cost of Halloween treats spooks shoppers",
+   "id": "222a215da624e63471a7af839d9e25f7ddfc04ee",
+   "title": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
    "summary": [
-    "The price of candy, especially chocolate, is up, and Halloween bargain hunters are searching for deals and ways to cut costs."
+    "Airbnb hosts must stop asking guests to wash-up or take out bins under rules coming into force in November."
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cr0qk25p1yeno?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-10-30T21:34:32Z",
+   "published_at": "2026-11-01T00:17:05Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "1a14a028a9441aeaa95d94ed13f22329f180a203",
+   "title": "The Trump administration wants to give married parents money to stay at home. Will it be enough?",
+   "summary": [
+    "When her first child was born, Hall had to self-fund her maternity leave by drawing on savings.",
+    "And recently, Hall was laid off from her tech job, leaving her at a crossroads."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/money/2026/oct/31/trump-married-parents-payments",
+   "image": "https://i.guim.co.uk/img/media/9b661a74913e60aa190fb20d2b04f746c342d60b/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=b2eee15fbd500fe48f7c768efd4cdf70",
+   "published_at": "2026-10-31T10:00:41Z",
    "category": "business",
    "related": []
   }
