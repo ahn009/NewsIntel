@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T19:32:29.608633Z",
+ "generated_at": "2026-11-01T23:30:19.985122Z",
  "story_count": 6,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -23,6 +23,19 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "757a23938f9bcebc5d2ffab223c4caf283135b20",
+   "title": "'I've had people eating cat food': Rising cost of living top of mind for US voters",
+   "summary": [
+    "The BBC's Clive Myrie travelled to North Caroline where voters voiced their frustrations ahead of midterm elections."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/cwly0eev3m44o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-01T22:25:51Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "522a758e51d04317d700b690bd0414f9b3ec9938",
    "title": "Thousands of jobs at Virgin Media O2 to be cut",
@@ -85,20 +98,6 @@
    "url": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-01T00:17:05Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "1a14a028a9441aeaa95d94ed13f22329f180a203",
-   "title": "The Trump administration wants to give married parents money to stay at home. Will it be enough?",
-   "summary": [
-    "When her first child was born, Hall had to self-fund her maternity leave by drawing on savings.",
-    "And recently, Hall was laid off from her tech job, leaving her at a crossroads."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/money/2026/oct/31/trump-married-parents-payments",
-   "image": "https://i.guim.co.uk/img/media/9b661a74913e60aa190fb20d2b04f746c342d60b/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=b2eee15fbd500fe48f7c768efd4cdf70",
-   "published_at": "2026-10-31T10:00:41Z",
    "category": "business",
    "related": []
   }
