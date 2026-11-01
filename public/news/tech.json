@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T00:59:57.396892Z",
+ "generated_at": "2026-11-01T07:24:52.515770Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -24,41 +24,77 @@
  },
  "stories": [
   {
-   "id": "062f94d6c1c86d0738d8334fa3e062bed7780820",
-   "title": "When electric cars were for women",
+   "id": "8a042d77f1d6d19b5d440bd17fc3bc85850b52c4",
+   "title": "Data centers are now a midterm issue, even in Brooklyn",
    "summary": [
-    "Article URL: https://spectrum.ieee.org/early-electric-vehicles Comments URL: https://news.ycombinator.com/item?id=50321130 Points: 22 # Comments: 3"
+    "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers."
    ],
-   "source": "Hacker News",
-   "url": "https://spectrum.ieee.org/early-electric-vehicles",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
    "image": null,
-   "published_at": "2026-10-31T23:08:12Z",
+   "published_at": "2026-11-01T02:22:10Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "daeae1bce20af8c881beb8351a1f1cde73743109",
-   "title": "Altoids Project",
+   "id": "2a10a176a3e712e51be6df4a5186ece2a90e6f63",
+   "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
    "summary": [
-    "Article URL: https://uvdn7.github.io/altoids-project/ Comments URL: https://news.ycombinator.com/item?id=50321048 Points: 22 # Comments: 0"
+    "Article URL: https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/ Comments URL: https://news.ycombinator.com/item?id=50322173 Points: 85 # Comments: 32"
    ],
    "source": "Hacker News",
-   "url": "https://uvdn7.github.io/altoids-project/",
+   "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
    "image": null,
-   "published_at": "2026-10-31T22:54:55Z",
+   "published_at": "2026-11-01T02:19:53Z",
    "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "https://jepsen.io/analyses/particledb-1.1.4"
-    }
-   ]
+   "related": []
+  },
+  {
+   "id": "d7e241d7cf24e4ae09d57afdc9eb78a1533ece7b",
+   "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+   "summary": [
+    "Article URL: https://arxiv.org/abs/2409.02292 Comments URL: https://news.ycombinator.com/item?id=50322022 Points: 60 # Comments: 29"
+   ],
+   "source": "Hacker News",
+   "url": "https://arxiv.org/abs/2409.02292",
+   "image": null,
+   "published_at": "2026-11-01T01:46:29Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "2b639ec43620655e9decc5b247793952c1629bca",
+   "title": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
+   "summary": [
+    "I also never found one that had a decent UI/UX and worked well on mobile or with a trackpad.Happy to answer anything, and tell me what breaks.p.s.",
+    "Maker plan is $7/month; code HACKERNEWS makes the first month free and then $5/month for as long as you keep it.",
+    "Comments URL: https://news.ycombinator.com/item?id=50321522 Points: 22 # Comments: 6"
+   ],
+   "source": "Hacker News",
+   "url": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
+   "image": null,
+   "published_at": "2026-11-01T00:10:30Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "d48f8f2f24492dda07da6769b84ff2083b26c2ce",
+   "title": "Constructing a Quine from Kleene's Second Recursion Theorem",
+   "summary": [
+    "Article URL: https://emarzion.github.io/KSRT/ Comments URL: https://news.ycombinator.com/item?id=50321436 Points: 16 # Comments: 1"
+   ],
+   "source": "Hacker News",
+   "url": "https://emarzion.github.io/KSRT/",
+   "image": null,
+   "published_at": "2026-10-31T23:55:21Z",
+   "category": "tech",
+   "related": []
   },
   {
    "id": "f9b8a9efbf26f92e2babf22b014f92b24059ae7c",
    "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
    "summary": [
-    "Article URL: https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve Comments URL: https://news.ycombinator.com/item?id=50320995 Points: 50 # Comments: 23"
+    "Article URL: https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve Comments URL: https://news.ycombinator.com/item?id=50320995 Points: 188 # Comments: 95"
    ],
    "source": "Hacker News",
    "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
@@ -71,7 +107,7 @@
    "id": "a5cafb824bf7d120b1d7de4491a3cae09b1dc4fb",
    "title": "An Italian farmer found some unknown seeds in his attic and planted them",
    "summary": [
-    "Article URL: https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/ Comments URL: https://news.ycombinator.com/item?id=50320963 Points: 98 # Comments: 40"
+    "Article URL: https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/ Comments URL: https://news.ycombinator.com/item?id=50320963 Points: 324 # Comments: 93"
    ],
    "source": "Hacker News",
    "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
@@ -81,15 +117,15 @@
    "related": []
   },
   {
-   "id": "567c750dad4150c29f399ce84f4c9a1241f7e0c8",
-   "title": "AI text watermarking and quality loss",
+   "id": "85c82f0a957177ca5125b1b3319938ad77cd28da",
+   "title": "ChatGPT and Codex usage limits merging",
    "summary": [
-    "Article URL: https://blog.keyvan.net/p/ai-text-watermarking-and-quality Comments URL: https://news.ycombinator.com/item?id=50320599 Points: 12 # Comments: 1"
+    "Article URL: https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits Comments URL: https://news.ycombinator.com/item?id=50320588 Points: 80 # Comments: 27"
    ],
    "source": "Hacker News",
-   "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+   "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
    "image": null,
-   "published_at": "2026-10-31T21:50:13Z",
+   "published_at": "2026-10-31T21:49:07Z",
    "category": "tech",
    "related": []
   },
@@ -134,23 +170,10 @@
    "related": []
   },
   {
-   "id": "80c31d0598a5c5dcdf3907387596b1ecfcf22ea6",
-   "title": "With 86% of the words, you might understand only 38% of an anime's lines",
-   "summary": [
-    "Article URL: https://learnfromx.com/research/anime-word-coverage-vs-lines-understood Comments URL: https://news.ycombinator.com/item?id=50320028 Points: 61 # Comments: 39"
-   ],
-   "source": "Hacker News",
-   "url": "https://learnfromx.com/research/anime-word-coverage-vs-lines-understood",
-   "image": null,
-   "published_at": "2026-10-31T20:46:39Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "bc311e37aca430c32488e66c14f858de1b692aa0",
    "title": "Surviving \"The Graduate\"",
    "summary": [
-    "https://archive.ph/Eqn1F Comments URL: https://news.ycombinator.com/item?id=50319563 Points: 53 # Comments: 14"
+    "https://archive.ph/Eqn1F Comments URL: https://news.ycombinator.com/item?id=50319563 Points: 107 # Comments: 31"
    ],
    "source": "Hacker News",
    "url": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
@@ -163,7 +186,7 @@
    "id": "a7e11bfba6b108f7c1476180c9300e668f472022",
    "title": "HackerTube: YouTube built from videos recommended by HN",
    "summary": [
-    "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007.https://hackertube.org/ Comments URL: https://news.ycombinator.com/item?id=50319510 Points: 636 # Comments: 226"
+    "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007.https://hackertube.org/ Comments URL: https://news.ycombinator.com/item?id=50319510 Points: 1105 # Comments: 329"
    ],
    "source": "Hacker News",
    "url": "https://karpathy.bearblog.dev/hacker-tube/",
@@ -176,7 +199,7 @@
    "id": "e07ec5d69c955902d8475cf5b03e223254e02a65",
    "title": "Anthropic blocks users for anything touching training larger models",
    "summary": [
-    "Article URL: https://twitter.com/jiahaoshao1/status/2116475922190922088 Comments URL: https://news.ycombinator.com/item?id=50319358 Points: 173 # Comments: 78"
+    "Article URL: https://twitter.com/jiahaoshao1/status/2116475922190922088 Comments URL: https://news.ycombinator.com/item?id=50319358 Points: 310 # Comments: 179"
    ],
    "source": "Hacker News",
    "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
@@ -191,7 +214,7 @@
    "summary": [
     "Based on vermiceli's annotated disassembly of Contra: https://github.com/vermiceli/nes-contra-us.",
     "Thanks for the great work.I ported it in two steps.",
-    "Then the C code to WebAssembly so it runs in the browser.The cherry on top: online multiplayer, so two players can play co-op over the internet.Source: https://github.com/epoyraz/nes-contra-us Comments URL: https://news.ycombinator.com/item?id=50319169 Points: 41 # Comments: 27"
+    "Then the C code to WebAssembly so it runs in the browser.The cherry on top: online multiplayer, so two players can play co-op over the internet.Source: https://github.com/epoyraz/nes-contra-us Comments URL: https://news.ycombinator.com/item?id=50319169 Points: 82 # Comments: 48"
    ],
    "source": "Hacker News",
    "url": "https://epoyraz.github.io/nes-contra-us/",
@@ -204,7 +227,7 @@
    "id": "6bd209feefbeab17a3f5fb389d25b5a774e46e10",
    "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
    "summary": [
-    "Article URL: https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf Comments URL: https://news.ycombinator.com/item?id=50319143 Points: 310 # Comments: 153"
+    "Article URL: https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf Comments URL: https://news.ycombinator.com/item?id=50319143 Points: 467 # Comments: 214"
    ],
    "source": "Hacker News",
    "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
@@ -214,10 +237,23 @@
    "related": []
   },
   {
+   "id": "7be82fece5a3c6045800b604c96cf63ea39c5fa5",
+   "title": "Electrification Could Cut Global Energy Use in Half",
+   "summary": [
+    "Article URL: https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/ Comments URL: https://news.ycombinator.com/item?id=50319110 Points: 82 # Comments: 23"
+   ],
+   "source": "Hacker News",
+   "url": "https://fullycharged.show/podcasts/podcast-361-why-electrification-could-cut-global-energy-use-in-half/",
+   "image": null,
+   "published_at": "2026-10-31T19:13:34Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "3fb536a91a4feabb364a22218850079ee78a6643",
    "title": "The Duty of a Scholar",
    "summary": [
-    "Article URL: https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html Comments URL: https://news.ycombinator.com/item?id=50319061 Points: 81 # Comments: 28"
+    "Article URL: https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html Comments URL: https://news.ycombinator.com/item?id=50319061 Points: 110 # Comments: 32"
    ],
    "source": "Hacker News",
    "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
@@ -227,7 +263,7 @@
    "related": [
     {
      "source": "Hacker News",
-     "url": "https://www.pgdp.net/c/"
+     "url": "https://www.otape.org/"
     }
    ]
   },
@@ -235,25 +271,12 @@
    "id": "c58cd229056d61a4d51ef6eb2083cb2397c050de",
    "title": "It's the memory latency, stupid",
    "summary": [
-    "Article URL: https://pivotlake.io/blog/its-the-memory-latency-stupid/ Comments URL: https://news.ycombinator.com/item?id=50318720 Points: 114 # Comments: 34"
+    "Article URL: https://pivotlake.io/blog/its-the-memory-latency-stupid/ Comments URL: https://news.ycombinator.com/item?id=50318720 Points: 181 # Comments: 52"
    ],
    "source": "Hacker News",
    "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
    "image": null,
    "published_at": "2026-10-31T18:38:16Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "444f2a06681d159b16e6e8324e79eb82571d2915",
-   "title": "William Nordhaus has died",
-   "summary": [
-    "Article URL: https://news.yale.edu/2026/10/31/william-nordhaus-nobel-laureate-who-integrated-economics-and-climate-change-devoted-yale Comments URL: https://news.ycombinator.com/item?id=50318376 Points: 48 # Comments: 21"
-   ],
-   "source": "Hacker News",
-   "url": "https://news.yale.edu/2026/10/31/william-nordhaus-nobel-laureate-who-integrated-economics-and-climate-change-devoted-yale",
-   "image": null,
-   "published_at": "2026-10-31T17:59:41Z",
    "category": "tech",
    "related": []
   },
@@ -297,6 +320,19 @@
    "related": []
   },
   {
+   "id": "810faf01d51623255c20e09086023c983545c151",
+   "title": "Jepsen: ParticleDB 1.1.4",
+   "summary": [
+    "https://github.com/jepsen-io/particledb Comments URL: https://news.ycombinator.com/item?id=50316100 Points: 245 # Comments: 137"
+   ],
+   "source": "Hacker News",
+   "url": "https://jepsen.io/analyses/particledb-1.1.4",
+   "image": null,
+   "published_at": "2026-10-31T13:39:52Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "14074b4203bb23f176964166bd2fb761022eb843",
    "title": "Show HN: A language model that lives in a boot sector",
    "summary": [
@@ -329,7 +365,7 @@
    "id": "381223935ae368b9512e8857ba7a460b6c8f72a0",
    "title": "Do the math: How we took over ChatGPT accounts",
    "summary": [
-    "Article URL: https://www.parameter.ai/labs/we-found-a-gap-at-openai Comments URL: https://news.ycombinator.com/item?id=50314699 Points: 300 # Comments: 148"
+    "Article URL: https://www.parameter.ai/labs/we-found-a-gap-at-openai Comments URL: https://news.ycombinator.com/item?id=50314699 Points: 321 # Comments: 157"
    ],
    "source": "Hacker News",
    "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
@@ -339,28 +375,15 @@
    "related": []
   },
   {
-   "id": "ec5c571f059ef5ef1b811236b0f82cefea33491e",
-   "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
+   "id": "e44a882fffb1846291692b982008ddc08e9be23c",
+   "title": "The staggering $446m Elon Musk has spent on the US midterms – visualized",
    "summary": [
-    "Article URL: https://piefed.world/post/1503394 Comments URL: https://news.ycombinator.com/item?id=50314666 Points: 299 # Comments: 175"
+    "The contributions have made him the Republicans’ most prominent financial backer and the largest single-cycle political donor in modern US history."
    ],
-   "source": "Hacker News",
-   "url": "https://piefed.world/post/1503394",
-   "image": null,
-   "published_at": "2026-10-31T10:23:41Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "0cc0a6009edfd9e8dac9a0921185afdac01ef3d6",
-   "title": "Serbia just elected the world's brainiest parliament",
-   "summary": [
-    "Article URL: https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament Comments URL: https://news.ycombinator.com/item?id=50314654 Points: 802 # Comments: 461"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
-   "image": null,
-   "published_at": "2026-10-31T10:21:30Z",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/elon-musk-midterms-spending-visualized",
+   "image": "https://i.guim.co.uk/img/media/87f71c610e349be86307c3bc3899c73108b60411/1_0_2999_2400/master/2999.jpg?width=140&quality=85&auto=format&fit=max&s=677a3b257b8a6e5d7d53780c68c3e1dc",
+   "published_at": "2026-10-31T10:00:40Z",
    "category": "tech",
    "related": []
   },
@@ -535,34 +558,6 @@
    "url": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
    "image": null,
    "published_at": "2026-10-30T19:55:13Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "c6608a9a5604e0855aea0a17ba81a5f1f1c8a11f",
-   "title": "Tech sell-off drives US markets down by nearly $1tn after subpar earnings reports",
-   "summary": [
-    "It was on track to erase its gain for October, even though it set its all-time high during the same month.",
-    "The weakness for technology stocks dragged the Nasdaq composite down even further, more than 3%, also erasing hundreds of billions in value.",
-    "The Dow Jones Industrial Average fell less."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/oct/30/tech-stocks-drop-earnings-report",
-   "image": "https://i.guim.co.uk/img/media/7a052dd1015720ea8d19c722dd7b8bcd0586aab3/452_0_4515_3613/master/4515.jpg?width=140&quality=85&auto=format&fit=max&s=caca7d3f30c1eef3ea87cd4a8a986b56",
-   "published_at": "2026-10-30T18:27:51Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "c72b5877fcb8b1a4b967e3df7d34c134ac6bedcd",
-   "title": "Satlyt takes another step toward turning satellites into space data centers",
-   "summary": [
-    "Satlyt ran a successful test this month bringing it closer to turning spacecraft, starting with satellites, into virtual data centers."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
-   "image": null,
-   "published_at": "2026-10-30T18:01:24Z",
    "category": "tech",
    "related": []
   }
