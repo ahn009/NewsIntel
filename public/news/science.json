@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-31T21:26:08.330240Z",
- "story_count": 17,
+ "generated_at": "2026-11-01T00:59:57.397734Z",
+ "story_count": 14,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,19 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "d0930d0ae299361a543e0a62fc32ab4d4322423f",
+   "title": "'Fascinating' rare beetle found in Wales again after 60 years",
+   "summary": [
+    "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys"
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-31T22:07:56Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "a198af7fe747fec1becc5362eff4d56f50db9e36",
    "title": "Bute House protested by environmental campaigners",
@@ -198,63 +211,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-10-30T15:06:05Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "99c61f8e8d72f7007f7827fc1654d5e56205519e",
-   "title": "Physicists created a tiny universe and watched time emerge without a clock",
-   "summary": [
-    "Scientists have created a miniature universe in the laboratory that could help answer one of the biggest mysteries in physics: What is time, and where does it come from?",
-    "Using 24,000 ultracold atoms, a University of Birmingham researcher built an isolated quantum system that repeatedly expands and contracts, mimicking the Big Bang and a possible Big Crunch.",
-    "Remarkably, the experiment showed that time could emerge from changes happening inside the system, without relying on an external clock."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261028234703.htm",
-   "image": null,
-   "published_at": "2026-10-30T11:42:36Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "a6bfd940a4a61ecbca6038e9d0c30a79f720b625",
-   "title": "The asteroid killed the dinosaurs. Why did crocodiles survive?",
-   "summary": [
-    "Scientists may have solved a 66-million-year-old mystery: how crocodiles survived the asteroid that wiped out the dinosaurs.",
-    "A sweeping analysis of fossils and ancient climates suggests that their preference for warm environments placed them in tropical refuges that remained habitable even after the catastrophic impact."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261030002922.htm",
-   "image": null,
-   "published_at": "2026-10-30T11:34:16Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "6bfc82dbf2af94c89ae6b149be15254e61432e18",
-   "title": "Hubble reveals a stunning twist in how the universe emerged from darkness",
-   "summary": [
-    "A surprising discovery by astronomers using the Hubble Space Telescope is challenging a leading explanation for how the early universe emerged from a dense fog of hydrogen roughly 13 billion years ago.",
-    "Scientists once believed powerful winds from exploding stars helped radiation escape galaxies and clear that cosmic fog, but new observations reveal that these winds actually block radiation instead."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261029072113.htm",
-   "image": null,
-   "published_at": "2026-10-30T10:50:22Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "3d2f5798fc5535bf08ce969f5bf3ee9bccea7d09",
-   "title": "Scientists reveal a hidden snakebite crisis killing up to 513,000 people a year",
-   "summary": [
-    "A startling new study suggests that venomous snakebites are killing far more people worldwide than official statistics indicate, with an estimated 274,000 to 513,000 deaths every year.",
-    "Researchers found that as many as 7 million people could suffer snake envenoming annually, while more than 800,000 survivors are left with long-term disabilities."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261029072117.htm",
-   "image": null,
-   "published_at": "2026-10-30T10:37:00Z",
    "category": "science",
    "related": []
   }

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T21:26:08.329654Z",
+ "generated_at": "2026-11-01T00:59:57.396892Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -24,6 +24,103 @@
  },
  "stories": [
   {
+   "id": "062f94d6c1c86d0738d8334fa3e062bed7780820",
+   "title": "When electric cars were for women",
+   "summary": [
+    "Article URL: https://spectrum.ieee.org/early-electric-vehicles Comments URL: https://news.ycombinator.com/item?id=50321130 Points: 22 # Comments: 3"
+   ],
+   "source": "Hacker News",
+   "url": "https://spectrum.ieee.org/early-electric-vehicles",
+   "image": null,
+   "published_at": "2026-10-31T23:08:12Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "daeae1bce20af8c881beb8351a1f1cde73743109",
+   "title": "Altoids Project",
+   "summary": [
+    "Article URL: https://uvdn7.github.io/altoids-project/ Comments URL: https://news.ycombinator.com/item?id=50321048 Points: 22 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://uvdn7.github.io/altoids-project/",
+   "image": null,
+   "published_at": "2026-10-31T22:54:55Z",
+   "category": "tech",
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://jepsen.io/analyses/particledb-1.1.4"
+    }
+   ]
+  },
+  {
+   "id": "f9b8a9efbf26f92e2babf22b014f92b24059ae7c",
+   "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+   "summary": [
+    "Article URL: https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve Comments URL: https://news.ycombinator.com/item?id=50320995 Points: 50 # Comments: 23"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+   "image": null,
+   "published_at": "2026-10-31T22:46:12Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a5cafb824bf7d120b1d7de4491a3cae09b1dc4fb",
+   "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+   "summary": [
+    "Article URL: https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/ Comments URL: https://news.ycombinator.com/item?id=50320963 Points: 98 # Comments: 40"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+   "image": null,
+   "published_at": "2026-10-31T22:41:06Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "567c750dad4150c29f399ce84f4c9a1241f7e0c8",
+   "title": "AI text watermarking and quality loss",
+   "summary": [
+    "Article URL: https://blog.keyvan.net/p/ai-text-watermarking-and-quality Comments URL: https://news.ycombinator.com/item?id=50320599 Points: 12 # Comments: 1"
+   ],
+   "source": "Hacker News",
+   "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+   "image": null,
+   "published_at": "2026-10-31T21:50:13Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "9f56e268b05ea69134d92ef78e09b3b78f4b6f63",
+   "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+   "summary": [
+    "Apple's new CEO defended the company's current position in the AI landscape."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+   "image": null,
+   "published_at": "2026-10-31T21:41:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "5a4bff0c2db23b045cd7fa25bcd86c5de5800d91",
+   "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+   "summary": [
+    "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup.",
+    "Register before all prices go up at the door."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+   "image": null,
+   "published_at": "2026-10-31T21:36:07Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "e07dacdb45dcc75e43fc5c0e372ea75eac8c7fbd",
    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
    "summary": [
@@ -40,7 +137,7 @@
    "id": "80c31d0598a5c5dcdf3907387596b1ecfcf22ea6",
    "title": "With 86% of the words, you might understand only 38% of an anime's lines",
    "summary": [
-    "Article URL: https://learnfromx.com/research/anime-word-coverage-vs-lines-understood Comments URL: https://news.ycombinator.com/item?id=50320028 Points: 3 # Comments: 0"
+    "Article URL: https://learnfromx.com/research/anime-word-coverage-vs-lines-understood Comments URL: https://news.ycombinator.com/item?id=50320028 Points: 61 # Comments: 39"
    ],
    "source": "Hacker News",
    "url": "https://learnfromx.com/research/anime-word-coverage-vs-lines-understood",
@@ -50,23 +147,10 @@
    "related": []
   },
   {
-   "id": "6ca6f97a3e1e6aff5ef27b7ef04bc2d67b53b3d3",
-   "title": "Common Desktop Environment available now as open-source",
-   "summary": [
-    "Article URL: https://sourceforge.net/projects/cdesktopenv/ Comments URL: https://news.ycombinator.com/item?id=50320003 Points: 15 # Comments: 7"
-   ],
-   "source": "Hacker News",
-   "url": "https://sourceforge.net/projects/cdesktopenv/",
-   "image": null,
-   "published_at": "2026-10-31T20:43:41Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "bc311e37aca430c32488e66c14f858de1b692aa0",
    "title": "Surviving \"The Graduate\"",
    "summary": [
-    "https://archive.ph/Eqn1F Comments URL: https://news.ycombinator.com/item?id=50319563 Points: 3 # Comments: 0"
+    "https://archive.ph/Eqn1F Comments URL: https://news.ycombinator.com/item?id=50319563 Points: 53 # Comments: 14"
    ],
    "source": "Hacker News",
    "url": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
@@ -79,7 +163,7 @@
    "id": "a7e11bfba6b108f7c1476180c9300e668f472022",
    "title": "HackerTube: YouTube built from videos recommended by HN",
    "summary": [
-    "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007.https://hackertube.org/ Comments URL: https://news.ycombinator.com/item?id=50319510 Points: 135 # Comments: 76"
+    "YouTube-style UI over 6,454 videos sourced from 39,834 HN comments since 2007.https://hackertube.org/ Comments URL: https://news.ycombinator.com/item?id=50319510 Points: 636 # Comments: 226"
    ],
    "source": "Hacker News",
    "url": "https://karpathy.bearblog.dev/hacker-tube/",
@@ -92,7 +176,7 @@
    "id": "e07ec5d69c955902d8475cf5b03e223254e02a65",
    "title": "Anthropic blocks users for anything touching training larger models",
    "summary": [
-    "Article URL: https://twitter.com/jiahaoshao1/status/2116475922190922088 Comments URL: https://news.ycombinator.com/item?id=50319358 Points: 34 # Comments: 4"
+    "Article URL: https://twitter.com/jiahaoshao1/status/2116475922190922088 Comments URL: https://news.ycombinator.com/item?id=50319358 Points: 173 # Comments: 78"
    ],
    "source": "Hacker News",
    "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
@@ -107,7 +191,7 @@
    "summary": [
     "Based on vermiceli's annotated disassembly of Contra: https://github.com/vermiceli/nes-contra-us.",
     "Thanks for the great work.I ported it in two steps.",
-    "Then the C code to WebAssembly so it runs in the browser.The cherry on top: online multiplayer, so two players can play co-op over the internet.Source: https://github.com/epoyraz/nes-contra-us Comments URL: https://news.ycombinator.com/item?id=50319169 Points: 18 # Comments: 11"
+    "Then the C code to WebAssembly so it runs in the browser.The cherry on top: online multiplayer, so two players can play co-op over the internet.Source: https://github.com/epoyraz/nes-contra-us Comments URL: https://news.ycombinator.com/item?id=50319169 Points: 41 # Comments: 27"
    ],
    "source": "Hacker News",
    "url": "https://epoyraz.github.io/nes-contra-us/",
@@ -120,7 +204,7 @@
    "id": "6bd209feefbeab17a3f5fb389d25b5a774e46e10",
    "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
    "summary": [
-    "Article URL: https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf Comments URL: https://news.ycombinator.com/item?id=50319143 Points: 127 # Comments: 64"
+    "Article URL: https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf Comments URL: https://news.ycombinator.com/item?id=50319143 Points: 310 # Comments: 153"
    ],
    "source": "Hacker News",
    "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
@@ -133,7 +217,7 @@
    "id": "3fb536a91a4feabb364a22218850079ee78a6643",
    "title": "The Duty of a Scholar",
    "summary": [
-    "Article URL: https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html Comments URL: https://news.ycombinator.com/item?id=50319061 Points: 54 # Comments: 11"
+    "Article URL: https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html Comments URL: https://news.ycombinator.com/item?id=50319061 Points: 81 # Comments: 28"
    ],
    "source": "Hacker News",
    "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
@@ -148,23 +232,10 @@
    ]
   },
   {
-   "id": "82785ab4f152db3e789ab8342b520f769ee36c8b",
-   "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-   "summary": [
-    "Article URL: https://ryanmadden.net/gpt-56-beats-factorio/ Comments URL: https://news.ycombinator.com/item?id=50318871 Points: 109 # Comments: 108"
-   ],
-   "source": "Hacker News",
-   "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
-   "image": null,
-   "published_at": "2026-10-31T18:50:34Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "c58cd229056d61a4d51ef6eb2083cb2397c050de",
-   "title": "It's the Memory Latency, Stupid",
+   "title": "It's the memory latency, stupid",
    "summary": [
-    "Article URL: https://pivotlake.io/blog/its-the-memory-latency-stupid/ Comments URL: https://news.ycombinator.com/item?id=50318720 Points: 50 # Comments: 7"
+    "Article URL: https://pivotlake.io/blog/its-the-memory-latency-stupid/ Comments URL: https://news.ycombinator.com/item?id=50318720 Points: 114 # Comments: 34"
    ],
    "source": "Hacker News",
    "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
@@ -174,23 +245,10 @@
    "related": []
   },
   {
-   "id": "9fd0bcadad75a939cc442442b981ce9d22fe1645",
-   "title": "I post trained a model on Demoscenes",
-   "summary": [
-    "Article URL: https://datavorous.com/writing/demoscener/ Comments URL: https://news.ycombinator.com/item?id=50318442 Points: 34 # Comments: 18"
-   ],
-   "source": "Hacker News",
-   "url": "https://datavorous.com/writing/demoscener/",
-   "image": null,
-   "published_at": "2026-10-31T18:08:24Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "444f2a06681d159b16e6e8324e79eb82571d2915",
    "title": "William Nordhaus has died",
    "summary": [
-    "Article URL: https://news.yale.edu/2026/10/31/william-nordhaus-nobel-laureate-who-integrated-economics-and-climate-change-devoted-yale Comments URL: https://news.ycombinator.com/item?id=50318376 Points: 34 # Comments: 7"
+    "Article URL: https://news.yale.edu/2026/10/31/william-nordhaus-nobel-laureate-who-integrated-economics-and-climate-change-devoted-yale Comments URL: https://news.ycombinator.com/item?id=50318376 Points: 48 # Comments: 21"
    ],
    "source": "Hacker News",
    "url": "https://news.yale.edu/2026/10/31/william-nordhaus-nobel-laureate-who-integrated-economics-and-climate-change-devoted-yale",
@@ -213,19 +271,6 @@
    "related": []
   },
   {
-   "id": "2e58988f93d774670bbb7c6436dbc85fa7fa337d",
-   "title": "Show HN: A USB-C LTE modem that gives my computer a phone line",
-   "summary": [
-    "Article URL: https://github.com/Koppar-AI/koppar-lte-modem Comments URL: https://news.ycombinator.com/item?id=50317331 Points: 27 # Comments: 16"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/Koppar-AI/koppar-lte-modem",
-   "image": null,
-   "published_at": "2026-10-31T15:56:41Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "c64befe67ac30892ca13dc1b9f0a320a2af6af02",
    "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
    "summary": [
@@ -239,19 +284,6 @@
    "related": []
   },
   {
-   "id": "5b0ac3b976a1c0a5a8fe26ed07fa45bbd5e69d6f",
-   "title": "Malware uses LLMs to rank victims by how much they're worth",
-   "summary": [
-    "Article URL: https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/ Comments URL: https://news.ycombinator.com/item?id=50316531 Points: 214 # Comments: 116"
-   ],
-   "source": "Hacker News",
-   "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
-   "image": null,
-   "published_at": "2026-10-31T14:29:03Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "8629cb13d327d952bc7fcd245477923d5cf2ca6b",
    "title": "I took two iPhones on vacation. The Duo won me over.",
    "summary": [
@@ -261,19 +293,6 @@
    "url": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
    "image": null,
    "published_at": "2026-10-31T14:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "810faf01d51623255c20e09086023c983545c151",
-   "title": "Jepsen: ParticleDB 1.1.4",
-   "summary": [
-    "https://github.com/jepsen-io/particledb Comments URL: https://news.ycombinator.com/item?id=50316100 Points: 131 # Comments: 67"
-   ],
-   "source": "Hacker News",
-   "url": "https://jepsen.io/analyses/particledb-1.1.4",
-   "image": null,
-   "published_at": "2026-10-31T13:39:52Z",
    "category": "tech",
    "related": []
   },
@@ -310,7 +329,7 @@
    "id": "381223935ae368b9512e8857ba7a460b6c8f72a0",
    "title": "Do the math: How we took over ChatGPT accounts",
    "summary": [
-    "Article URL: https://www.parameter.ai/labs/we-found-a-gap-at-openai Comments URL: https://news.ycombinator.com/item?id=50314699 Points: 284 # Comments: 139"
+    "Article URL: https://www.parameter.ai/labs/we-found-a-gap-at-openai Comments URL: https://news.ycombinator.com/item?id=50314699 Points: 300 # Comments: 148"
    ],
    "source": "Hacker News",
    "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
@@ -323,7 +342,7 @@
    "id": "ec5c571f059ef5ef1b811236b0f82cefea33491e",
    "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
    "summary": [
-    "Article URL: https://piefed.world/post/1503394 Comments URL: https://news.ycombinator.com/item?id=50314666 Points: 275 # Comments: 159"
+    "Article URL: https://piefed.world/post/1503394 Comments URL: https://news.ycombinator.com/item?id=50314666 Points: 299 # Comments: 175"
    ],
    "source": "Hacker News",
    "url": "https://piefed.world/post/1503394",
@@ -336,7 +355,7 @@
    "id": "0cc0a6009edfd9e8dac9a0921185afdac01ef3d6",
    "title": "Serbia just elected the world's brainiest parliament",
    "summary": [
-    "Article URL: https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament Comments URL: https://news.ycombinator.com/item?id=50314654 Points: 747 # Comments: 434"
+    "Article URL: https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament Comments URL: https://news.ycombinator.com/item?id=50314654 Points: 802 # Comments: 461"
    ],
    "source": "Hacker News",
    "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
@@ -478,6 +497,19 @@
    "related": []
   },
   {
+   "id": "1634c7b4a767843a2b7a2c8e2dbe0a73e56417be",
+   "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+   "summary": [
+    "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-10-30T20:34:46Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "4aba13433844bde179fd9ed2e69c0db8f4406da2",
    "title": "I read Anthropic's 92-page risk factor document, so you don't have to – video explainer",
    "summary": [
@@ -531,32 +563,6 @@
    "url": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
    "image": null,
    "published_at": "2026-10-30T18:01:24Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "a457451f7b0ab4965d867bed1fd886e3eb73eedc",
-   "title": "Zest’s new AI agent finds restaurants and books reservations over text",
-   "summary": [
-    "Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-   "image": null,
-   "published_at": "2026-10-30T17:47:12Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "fc6c7228713784133471de435e607ec5f6fa1074",
-   "title": "Google’s first data center satellite is online and writing poetry",
-   "summary": [
-    "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-   "image": null,
-   "published_at": "2026-10-30T17:00:00Z",
    "category": "tech",
    "related": []
   }
