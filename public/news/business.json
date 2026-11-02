@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-01T23:30:19.985122Z",
- "story_count": 6,
+ "generated_at": "2026-11-02T05:50:48.729613Z",
+ "story_count": 7,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,19 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "9bbc0ed4b174b98a60e90197d9572b0dc162c641",
+   "title": "Don't get caught out by new Buy Now Pay Later rules",
+   "summary": [
+    "New affordability checks mean you could be blocked from using Buy Now Pay Later but here are ways to avoid it."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-01T23:34:49Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "757a23938f9bcebc5d2ffab223c4caf283135b20",
    "title": "'I've had people eating cat food': Rising cost of living top of mind for US voters",
