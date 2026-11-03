@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T23:26:35.866990Z",
+ "generated_at": "2026-11-03T06:34:12.359638Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -23,6 +23,190 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "11e3f43ff96f76922d3213b15279326873cd0a04",
+   "title": "Cloudflare experiencing multiple active incidents",
+   "summary": [
+    "Article URL: https://www.cloudflarestatus.com/ Comments URL: https://news.ycombinator.com/item?id=50348260 Points: 11 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.cloudflarestatus.com/",
+   "image": null,
+   "published_at": "2026-11-03T04:57:27Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "4ed35bdfdb651ac6f96141541f33292414e533f7",
+   "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+   "summary": [
+    "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+   "image": null,
+   "published_at": "2026-11-03T03:30:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "973a99fe5b316f9d4b72e6ef07c39a7ec3ffc0af",
+   "title": "Show HN: I built a little browser game to practice Vim commands",
+   "summary": [
+    "I made hjkl to help myself remember Vim commands."
+   ],
+   "source": "Hacker News",
+   "url": "https://hjkl.duy.run",
+   "image": null,
+   "published_at": "2026-11-03T03:10:04Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "1bf45015b3b96518e5a0d4f8f62f4fb791ffae18",
+   "title": "Show HN: Rustable is an open source database client built in Rust",
+   "summary": [
+    "Article URL: https://rustable.app Comments URL: https://news.ycombinator.com/item?id=50347524 Points: 18 # Comments: 7"
+   ],
+   "source": "Hacker News",
+   "url": "https://rustable.app",
+   "image": null,
+   "published_at": "2026-11-03T03:06:53Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "25e7697eca0b7d74a339baa3db1dfef24f40cc07",
+   "title": "Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities",
+   "summary": [
+    "Article URL: https://arxiv.org/abs/2608.25820 Comments URL: https://news.ycombinator.com/item?id=50347464 Points: 16 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://arxiv.org/abs/2608.25820",
+   "image": null,
+   "published_at": "2026-11-03T02:58:44Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "01025415992b83a874556a27deda5bb3c07d712f",
+   "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+   "summary": [
+    "I thought it would be fun to browse HN as if it were a newspaper.",
+    "Comments URL: https://news.ycombinator.com/item?id=50346981 Points: 161 # Comments: 52"
+   ],
+   "source": "Hacker News",
+   "url": "https://hackertimes.ca/",
+   "image": null,
+   "published_at": "2026-11-03T01:53:34Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "968f14d53faf7f9a70410254fa96995186eafcb5",
+   "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+   "summary": [
+    "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+   "image": null,
+   "published_at": "2026-11-03T01:49:52Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "6eaa64434e8db0c7302690ce4ba15da911a56bbe",
+   "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+   "summary": [
+    "Article URL: https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio Comments URL: https://news.ycombinator.com/item?id=50346849 Points: 119 # Comments: 26"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+   "image": null,
+   "published_at": "2026-11-03T01:33:43Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a251fc6094e1e9e19094a08edc1be3d06e2f757a",
+   "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
+   "summary": [
+    "A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals could make the victory short-lived."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
+   "image": null,
+   "published_at": "2026-11-03T01:12:55Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "793a736581dc167fc1337ccbebcb688ca6a56f9f",
+   "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+   "summary": [
+    "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents.",
+    "On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+   "image": null,
+   "published_at": "2026-11-03T00:35:52Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "f1f696f097dae603480ca53a3bb682ea1f732a00",
+   "title": "Apple unsure when more foldable iPhones will be available after selling out",
+   "summary": [
+    "Apple’s foldable iPhone Duo was a hit with people willing to spend $2,000 on a new mobile."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-03T00:29:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "91f6035193effa5854765b779ab41dcfd27fc31c",
+   "title": "Hinge tests a cheaper plan as users become more fed up paying for dating apps",
+   "summary": [
+    "At a time when people are increasingly tired of dating apps, Hinge is testing a cheaper subscription plan."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/",
+   "image": null,
+   "published_at": "2026-11-03T00:14:51Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "fc62d69d866a3038f5bb53f2d75983d42aa6e0f4",
+   "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
+   "summary": [
+    "Article URL: https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html Comments URL: https://news.ycombinator.com/item?id=50346153 Points: 179 # Comments: 126"
+   ],
+   "source": "Hacker News",
+   "url": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
+   "image": null,
+   "published_at": "2026-11-03T00:08:53Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "de4cf53f9db96311cdf47867a4e06ac73ec122a0",
+   "title": "Scaling Git at OpenAI",
+   "summary": [
+    "Article URL: https://openai.com/index/scaling-git-at-openai/ Comments URL: https://news.ycombinator.com/item?id=50345924 Points: 157 # Comments: 66"
+   ],
+   "source": "Hacker News",
+   "url": "https://openai.com/index/scaling-git-at-openai/",
+   "image": null,
+   "published_at": "2026-11-02T23:47:56Z",
+   "category": "tech",
+   "related": []
+  },
   {
    "id": "d7428879f8d512c90bdf5198af9d115ea1429db0",
    "title": "Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve",
@@ -63,28 +247,28 @@
    "related": []
   },
   {
-   "id": "3e54baa4f89982b08393da0b0b1b1d76d3953e08",
-   "title": "Anthropic's growth just flattened",
-   "summary": [
-    "Article URL: https://www.regenerator1.com/p/anthropics-growth-just-flattened Comments URL: https://news.ycombinator.com/item?id=50344958 Points: 54 # Comments: 29"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
-   "image": null,
-   "published_at": "2026-11-02T22:33:20Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "b9a70981a2e542b641bab7c709d1ea3183f73c6b",
    "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
    "summary": [
-    "Article URL: https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/ Comments URL: https://news.ycombinator.com/item?id=50344919 Points: 67 # Comments: 23"
+    "Article URL: https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/ Comments URL: https://news.ycombinator.com/item?id=50344919 Points: 289 # Comments: 225"
    ],
    "source": "Hacker News",
    "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
    "image": null,
    "published_at": "2026-11-02T22:30:47Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "e6b03977333ecaa43b894c75676c3ea01e9c01dd",
+   "title": "V100 SXM2 pinout and NVLink reference",
+   "summary": [
+    "Article URL: https://github.com/pigeon-labs-stack/v100-sxm2-reference Comments URL: https://news.ycombinator.com/item?id=50344912 Points: 27 # Comments: 5"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/pigeon-labs-stack/v100-sxm2-reference",
+   "image": null,
+   "published_at": "2026-11-02T22:30:13Z",
    "category": "tech",
    "related": []
   },
@@ -103,80 +287,15 @@
    "related": []
   },
   {
-   "id": "86ba2fea3e94ce9d98d9f1b3a795fcb9e98c5954",
-   "title": "Apple reports fourth quarter results",
-   "summary": [
-    "Article URL: https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/ Comments URL: https://news.ycombinator.com/item?id=50344670 Points: 44 # Comments: 17"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
-   "image": null,
-   "published_at": "2026-11-02T22:13:42Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "34323101d1a30d65e63faea26f90282cb8c11438",
-   "title": "Stop Hogging RAM You Monster",
-   "summary": [
-    "Article URL: https://ramhogger.monster/ Comments URL: https://news.ycombinator.com/item?id=50344536 Points: 6 # Comments: 2"
-   ],
-   "source": "Hacker News",
-   "url": "https://ramhogger.monster/",
-   "image": null,
-   "published_at": "2026-11-02T22:05:16Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "04e463b9a2ea307deba979cb7f40c202a1f11144",
    "title": "SLAC researchers find proof of altermagnetism, a new magnetic phase",
    "summary": [
-    "Article URL: https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase Comments URL: https://news.ycombinator.com/item?id=50344224 Points: 5 # Comments: 2"
+    "Article URL: https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase Comments URL: https://news.ycombinator.com/item?id=50344224 Points: 59 # Comments: 8"
    ],
    "source": "Hacker News",
    "url": "https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase",
    "image": null,
    "published_at": "2026-11-02T21:42:25Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "3054ec89b2683b9dcfe1a4c5cb6164266ab0de95",
-   "title": "Can’t fish Ethernet? Use “invisible” fiber instead",
-   "summary": [
-    "Article URL: https://momandpop.network/2026/11/02/cant-fish-ethernet-use-invisible-fiber-instead/ Comments URL: https://news.ycombinator.com/item?id=50344222 Points: 33 # Comments: 35"
-   ],
-   "source": "Hacker News",
-   "url": "https://momandpop.network/2026/11/02/cant-fish-ethernet-use-invisible-fiber-instead/",
-   "image": null,
-   "published_at": "2026-11-02T21:42:18Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "02f89e1aaff7c61687fbbc8188105c7f8feafb2a",
-   "title": "BYD sold more EVs last month than the US did all quarter",
-   "summary": [
-    "Article URL: https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/ Comments URL: https://news.ycombinator.com/item?id=50344181 Points: 201 # Comments: 179"
-   ],
-   "source": "Hacker News",
-   "url": "https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/",
-   "image": null,
-   "published_at": "2026-11-02T21:38:49Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "ba074cfe7c685b0c6a0ae3951922f44aaf569cda",
-   "title": "The Ford Privacy Promise: You're in Control of Your Data",
-   "summary": [
-    "Article URL: https://www.fromtheroad.ford.com/us/en/articles/2026/introducing-the-ford-privacy-promise Comments URL: https://news.ycombinator.com/item?id=50344158 Points: 5 # Comments: 3"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.fromtheroad.ford.com/us/en/articles/2026/introducing-the-ford-privacy-promise",
-   "image": null,
-   "published_at": "2026-11-02T21:37:00Z",
    "category": "tech",
    "related": []
   },
@@ -190,19 +309,6 @@
    "url": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
    "image": null,
    "published_at": "2026-11-02T19:45:54Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "885b04d7832e283d2315af9783a92f8ddcc28477",
-   "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
-   "summary": [
-    "Article URL: https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html Comments URL: https://news.ycombinator.com/item?id=50342284 Points: 134 # Comments: 90"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
-   "image": null,
-   "published_at": "2026-11-02T19:27:37Z",
    "category": "tech",
    "related": []
   },
@@ -249,7 +355,7 @@
    "id": "c931d5a15c07d0002a47f76c0756d78a31c770bd",
    "title": "Egoless Mathematics in the AI Era",
    "summary": [
-    "Article URL: https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50341736 Points: 91 # Comments: 68"
+    "Article URL: https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/ Comments URL: https://news.ycombinator.com/item?id=50341736 Points: 144 # Comments: 98"
    ],
    "source": "Hacker News",
    "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
@@ -262,7 +368,7 @@
    "id": "0d7890576a84033a1d0c4d03a09da9b4ea142b49",
    "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
    "summary": [
-    "Article URL: https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432 Comments URL: https://news.ycombinator.com/item?id=50341462 Points: 242 # Comments: 41"
+    "Article URL: https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432 Comments URL: https://news.ycombinator.com/item?id=50341462 Points: 423 # Comments: 124"
    ],
    "source": "Hacker News",
    "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
@@ -272,23 +378,10 @@
    "related": []
   },
   {
-   "id": "c48ef4b6aa4d68d15715f54079b29f832a281566",
-   "title": "Agentic backdoors via pretraining poisoning",
-   "summary": [
-    "Article URL: https://arxiv.org/abs/2610.37741 Comments URL: https://news.ycombinator.com/item?id=50341334 Points: 80 # Comments: 23"
-   ],
-   "source": "Hacker News",
-   "url": "https://arxiv.org/abs/2610.37741",
-   "image": null,
-   "published_at": "2026-11-02T18:30:58Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "38c41eb0ed980884ec9af5f714f53f6096d7af32",
    "title": "Astra can read and write weights to improve Qwen",
    "summary": [
-    "Article URL: https://rikiyat.github.io/blog/weight-space-programming/ Comments URL: https://news.ycombinator.com/item?id=50341174 Points: 1614 # Comments: 516"
+    "Article URL: https://rikiyat.github.io/blog/weight-space-programming/ Comments URL: https://news.ycombinator.com/item?id=50341174 Points: 2347 # Comments: 737"
    ],
    "source": "Hacker News",
    "url": "https://rikiyat.github.io/blog/weight-space-programming/",
@@ -301,7 +394,7 @@
    "id": "1a35cd77691c46848c67079e2bf6f039f69306da",
    "title": "Sneaking into the auditorium for the Windows 2000 launch rehearsal",
    "summary": [
-    "Article URL: https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/ Comments URL: https://news.ycombinator.com/item?id=50341028 Points: 86 # Comments: 30"
+    "Article URL: https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/ Comments URL: https://news.ycombinator.com/item?id=50341028 Points: 121 # Comments: 43"
    ],
    "source": "Hacker News",
    "url": "https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/",
@@ -314,7 +407,7 @@
    "id": "b2806e00753fc0939ce4f9114426651adc1b059c",
    "title": "Skill to Create Product Videos",
    "summary": [
-    "Article URL: https://github.com/aaitor/skill-video-studio Comments URL: https://news.ycombinator.com/item?id=50340992 Points: 50 # Comments: 17"
+    "Article URL: https://github.com/aaitor/skill-video-studio Comments URL: https://news.ycombinator.com/item?id=50340992 Points: 90 # Comments: 26"
    ],
    "source": "Hacker News",
    "url": "https://github.com/aaitor/skill-video-studio",
@@ -351,23 +444,10 @@
    "related": []
   },
   {
-   "id": "980cbe08fd216477c1db42351c6808d1c3268bd4",
-   "title": "Making Peace with the Projective Plane",
-   "summary": [
-    "Article URL: https://www.johndcook.com/blog/2026/11/02/projective-plane/ Comments URL: https://news.ycombinator.com/item?id=50340629 Points: 21 # Comments: 12"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.johndcook.com/blog/2026/11/02/projective-plane/",
-   "image": null,
-   "published_at": "2026-11-02T17:47:59Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "50f64d3e7875f30104e29b77c3d29ef1e255378c",
    "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
    "summary": [
-    "Article URL: https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you Comments URL: https://news.ycombinator.com/item?id=50340619 Points: 51 # Comments: 15"
+    "Article URL: https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you Comments URL: https://news.ycombinator.com/item?id=50340619 Points: 174 # Comments: 48"
    ],
    "source": "Hacker News",
    "url": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
@@ -380,7 +460,7 @@
    "id": "4b0af90dd5664e8e099263c557aa664bff314df4",
    "title": "Polyend releases the Tracker firmware source code",
    "summary": [
-    "Article URL: https://polyend.com/whats-up/tracker-the-biggest-update-yet/ Comments URL: https://news.ycombinator.com/item?id=50340159 Points: 59 # Comments: 11"
+    "Article URL: https://polyend.com/whats-up/tracker-the-biggest-update-yet/ Comments URL: https://news.ycombinator.com/item?id=50340159 Points: 112 # Comments: 34"
    ],
    "source": "Hacker News",
    "url": "https://polyend.com/whats-up/tracker-the-biggest-update-yet/",
@@ -468,85 +548,6 @@
    "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
    "image": null,
    "published_at": "2026-11-02T15:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "7f72fef9bf6315be4405e8c7ca957b7a24333a1d",
-   "title": "Ninja’s first-ever microwave just replaced two of my kitchen appliances at once",
-   "summary": [
-    "The Ninja Crispi Microwave stands out for its FusionCrisp technology, which combines the speed of a microwave with the crispy results you'd expect from an air fryer."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/02/ninjas-first-ever-microwave-just-replaced-two-of-my-kitchen-appliances-at-once/",
-   "image": null,
-   "published_at": "2026-11-02T14:42:38Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "82f342e8d2accd8acec0f2f8e91e03e50d2a41f3",
-   "title": "Northwood Space raises $375M Series C at a $2B valuation from a16z and DFJ Growth",
-   "summary": [
-    "Space infrastructure company Northwood Space on Monday said it had raised $375 million in a Series C round co-led by Andreessen Horowitz and DFJ Growth, valuing the company at $2 billion."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/02/northwood-space-raises-375m-series-c-at-a-2b-valuation-from-a16z-and-dfj-growth/",
-   "image": null,
-   "published_at": "2026-11-02T14:22:35Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "89a203976283b659fe5ff3547bd7639a80aaca9b",
-   "title": "A fresh wave of cyberattacks has hit Europe’s supermarket refrigerators, destroying food across countries",
-   "summary": [
-    "This is the second wave of cyberattacks to hit supermarket refrigerators in a month, spoiling food and disrupting supplies."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/",
-   "image": null,
-   "published_at": "2026-11-02T14:08:52Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "b1d1b8b0266c2b5573b31921901d58f64f34d9ee",
-   "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
-   "summary": [
-    "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections.",
-    "Save up to $100 or get discounts with group passes."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
-   "image": null,
-   "published_at": "2026-11-02T14:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "1ab8989706eae846b50f1590664484ecbe1eb23f",
-   "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
-   "summary": [
-    "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-   "image": null,
-   "published_at": "2026-11-02T13:57:53Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "4357af9f73d21b808786d682df4222a932d61898",
-   "title": "Unions gain access to thousands of Google workers after UK employment rights overhaul",
-   "summary": [
-    "Prospect to hold workplace sessions and recruit members under agreement with tech companyTrade unions are expected to make further inroads into big tech companies in the UK after new rights for unions to access workplaces came into force, with Google UK signing an agreement on Monday.The Prospect union has reached an agreement with Google to begin organising among about 7,000 workers across its UK operations, including YouTube but excluding DeepMind."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/02/unions-google-workers-uk-employment-rights",
-   "image": "https://i.guim.co.uk/img/media/d8988641e21bb8fd2d44db51041429733aa99965/1739_468_4261_3409/master/4261.jpg?width=140&quality=85&auto=format&fit=max&s=70c1612535cf38bde032d73165d1e074",
-   "published_at": "2026-11-02T13:00:41Z",
    "category": "tech",
    "related": []
   }
