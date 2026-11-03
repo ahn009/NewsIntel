@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-03T06:34:12.360093Z",
- "story_count": 10,
+ "generated_at": "2026-11-03T14:59:51.636407Z",
+ "story_count": 17,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,111 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "75fedd0516e77a9ca5e4887dc457eb55d2646a74",
+   "title": "What in the World",
+   "summary": [
+    "Some employers create job ads with no intent to hire"
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/sounds/play/w3ct990m?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-03T14:30:00Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "54446b7a07d13d529999987fb14f0f8ff2563f16",
+   "title": "Car finance compensation payments explained",
+   "summary": [
+    "Millions could be entitled to compensation as a result of commission arrangements between lenders and dealers."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c2l9vvj097lo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-03T12:30:04Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "640cf68696f2735d25759b4f0f993e1576e41b4d",
+   "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+   "summary": [
+    "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-03T12:07:59Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "a9d2c85ac16e72116d5943393fce3fe3ce6e72ce",
+   "title": "Drivers may get compensation offers before car finance saga ends",
+   "summary": [
+    "The regulator says it supports lenders offering early compensation offers, as long as they are fair."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-03T11:56:31Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "e7d04363fdae1aee6fadcb1198592488fd593d99",
+   "title": "Proposal for free bus service scrapped",
+   "summary": [
+    "The one-year free bus service pilot was initially put forward as an amendment to next year's budget."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmrly74wr9n2o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-03T11:21:42Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "e3726f84f7d589f9d37ac2a1c07842288127a189",
+   "title": "'Quiet quitting' could be hitting the economy - here's why",
+   "summary": [
+    "Britons have become less engaged with the jobs they do and are less willing to put in extra effort, a report has found."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cw23d5z87drpo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-03T11:15:51Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "2dcca4ce3daba3d491cc6261dc099e7861a209cc",
+   "title": "‘In the trenches’: Wisconsin’s struggling small businesses could turn a Trump ally’s district blue",
+   "summary": [
+    "But the current economic crisis proved too much.",
+    "She’s seen a downward trend in sales for two years, and was dipping into her own pocket from her other job, as the executive director of business non-profit Downtown Eau Claire Inc, to pay staff."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/03/small-business-economy-wisconsin-house-race",
+   "image": "https://i.guim.co.uk/img/media/b1afe41f84359b0b0eb68634b8f9d1e9453ff951/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=8027df5781b930793069c14644095bba",
+   "published_at": "2026-11-03T11:00:57Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "f061bb9311cdc053d955d92e88d076a971e489a1",
+   "title": "From scooters to shampoo - the people saving hundreds from dumpster diving",
+   "summary": [
+    "The men and women who rummage through commercial bins to take clothes and other items."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-03T07:50:14Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "10b65f1abcd02a21ccb585f52c44d9043bd265dd",
    "title": "Public venues offer tea and warm welcome in winter",
@@ -50,28 +155,41 @@
    "related": []
   },
   {
-   "id": "640cf68696f2735d25759b4f0f993e1576e41b4d",
-   "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+   "id": "2a7fe15bf00203c0bf7c38ef3d884104931dbea2",
+   "title": "Business Daily",
    "summary": [
-    "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far."
+    "We trace the gold supply chain from a mine to a Delhi jeweller"
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sounds/play/w3ct8grr?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-03T02:11:13Z",
+   "published_at": "2026-11-02T21:30:00Z",
    "category": "business",
    "related": []
   },
   {
-   "id": "f061bb9311cdc053d955d92e88d076a971e489a1",
-   "title": "From scooters to shampoo - the people saving hundreds from dumpster diving",
+   "id": "449dcd1abf8fe5737b4b773375069027aba3c9a5",
+   "title": "Shop freezers in seven European countries hit by cyber-attack",
    "summary": [
-    "The men and women who rummage through commercial bins to take clothes and other items."
+    "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C."
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-03T00:41:36Z",
+   "published_at": "2026-11-02T17:38:11Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "993570a5e9b2d2127d587dd6ff7ee82bf5b04531",
+   "title": "Shop fridges and freezers across Europe hit by fresh suspected cyber-attack",
+   "summary": [
+    "Chains in seven countries say cooling unit temperatures rose overnight in incident similar to hack of French shopsWho is hacking Europe’s supermarket fridges and freezers, and why?Supermarket chains in at least seven European countries have said the temperatures of refrigerators and freezers in some of their shops soared overnight to as high as 50C (122F), echoing a cyber-attack last month that caused millions of euros of damage in France.Retailers in Belgium, Estonia, Ireland, Finland, Luxembourg, the Netherlands and Sweden reported problems with their refrigeration systems on Monday, and several companies confirmed they had been hacked."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
+   "image": "https://i.guim.co.uk/img/media/47506f81531a77d5b27d52c5ed4d7ac3485d3802/528_0_5356_4284/master/5356.jpg?width=140&quality=85&auto=format&fit=max&s=bd257e87d40e0fdc3ad4b8c235a0da6b",
+   "published_at": "2026-11-02T16:39:20Z",
    "category": "business",
    "related": []
   },
@@ -85,6 +203,19 @@
    "url": "https://www.bbc.co.uk/news/articles/ck1wv1j0xgywo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-02T13:40:36Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "70e5da24af66d9f1b9362af5f2e9f02f456f7487",
+   "title": "Ryanair says it may freeze workers' pay and raise airfares",
+   "summary": [
+    "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-02T12:22:10Z",
    "category": "business",
    "related": []
   },
@@ -111,45 +242,6 @@
    "url": "https://www.theguardian.com/us-news/2026/nov/02/content-creators-tv-network-midterm-coverage",
    "image": "https://i.guim.co.uk/img/media/4f609433c163e958715f08d68777de0633a130cf/264_0_4681_3744/master/4681.jpg?width=140&quality=85&auto=format&fit=max&s=770c8541a1cfa13e8878afa49e94fcee",
    "published_at": "2026-11-02T11:00:41Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "e9802e6085dee61b59861510b33a33325d8a90c8",
-   "title": "Christmas donations gift demand up, charities say",
-   "summary": [
-    "Charities collecting Christmas presents for struggling families say demand has gone up."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm5ynrp0lg2yo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-02T06:22:48Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "bfbcc3b23c60151224a650cfba2426e91c40cdfa",
-   "title": "Christmas shoebox appeal launches to help children",
-   "summary": [
-    "A gift-filled shoebox campaign launched for children who would otherwise go without this Christmas."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cv98zr5wxp21o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-02T06:21:09Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "9bbc0ed4b174b98a60e90197d9572b0dc162c641",
-   "title": "Don't get caught out by new Buy Now Pay Later rules",
-   "summary": [
-    "New affordability checks mean you could be blocked from using Buy Now Pay Later but here are ways to avoid it."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-01T23:34:49Z",
    "category": "business",
    "related": []
   }
