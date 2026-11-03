@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-03T14:59:51.636743Z",
- "story_count": 22,
+ "generated_at": "2026-11-03T20:55:20.699372Z",
+ "story_count": 20,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,19 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "d6efe5e100a0bbba3a7798e5c1306ac491dbee7a",
+   "title": "Action needed to tackle 'biodiversity crisis'",
+   "summary": [
+    "The issue is part of wider concerns the government is not focused enough on the environment."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c8wy94ewzw03o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-03T17:25:10Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "3a441115c6c970b89d5eafa25b8d8d2564fbf95b",
    "title": "The brain’s hidden fear mechanism may explain anxiety and PTSD",
@@ -243,19 +256,6 @@
    "related": []
   },
   {
-   "id": "9966781edd32f78e1cc1ebeb261f2f5a869bf9dc",
-   "title": "'New kit' helps battle against bugs",
-   "summary": [
-    "The chemical-free decoys are used while clearing riverside vegetation."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/cm369dep8jwno?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-02T15:05:59Z",
-   "category": "science",
-   "related": []
-  },
-  {
    "id": "5f7ba44a9f94f5d8b34760804885899cf42101fd",
    "title": "IceCube detects ghost particles with 10 billion times the energy of solar neutrinos",
    "summary": [
@@ -294,34 +294,6 @@
    "url": "https://www.sciencedaily.com/releases/2026/11/261101010538.htm",
    "image": null,
    "published_at": "2026-11-02T09:50:36Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "1839467c15b48c341de9e9288b4159917517600b",
-   "title": "30,000-year-old DNA reveals Ice Age Europeans were far more connected than we thought",
-   "summary": [
-    "Scientists have uncovered surprising DNA evidence that Europeans living more than 30,000 years ago were connected across vast distances, challenging the idea that ancient populations remained largely isolated.",
-    "Genetic clues from human remains and cave sediments reveal prehistoric migration, long-lasting communities, and survival through the harshest conditions of the Ice Age."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261031221153.htm",
-   "image": null,
-   "published_at": "2026-11-02T07:30:31Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "63f9b0151b5faea5601a3a105e71efb274974111",
-   "title": "NASA's Hubble and Webb discover ancient worlds that remember their past",
-   "summary": [
-    "NASA’s Hubble and James Webb Space Telescopes have uncovered surprising clues about the solar system’s origins by studying 27 tiny, distant objects beyond Neptune.",
-    "Scientists discovered that these ancient building blocks of planets have remained remarkably unchanged for billions of years, while their unexpected sizes and numbers challenge existing theories of planet formation."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261031221209.htm",
-   "image": null,
-   "published_at": "2026-11-02T03:07:01Z",
    "category": "science",
    "related": []
   }
