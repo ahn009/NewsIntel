@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-03T20:55:20.699167Z",
- "story_count": 19,
+ "generated_at": "2026-11-04T01:14:52.789590Z",
+ "story_count": 18,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,32 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "57e44e3d60a9882d2e641c63b087f2f226b3cf82",
+   "title": "Canva announces major job cuts after 'our hardest year yet'",
+   "summary": [
+    "CEO Melanie Perkins says more than 1,000 staff will either lose their jobs or be asked to change roles."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-04T00:09:35Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "43d16c1970abe6ad5726f40f18c8bf8ec1d76fd3",
+   "title": "Poundland supplier 'will lose millions' if retailer collapses",
+   "summary": [
+    "One of Poundland's suppliers will lose millions if it collapses, while other suppliers have said they would go under."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-04T00:03:17Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "640cf68696f2735d25759b4f0f993e1576e41b4d",
    "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
@@ -229,45 +255,6 @@
    "url": "https://www.bbc.co.uk/news/articles/ck1wv1j0xgywo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-02T13:40:36Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "70e5da24af66d9f1b9362af5f2e9f02f456f7487",
-   "title": "Ryanair says it may freeze workers' pay and raise airfares",
-   "summary": [
-    "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-02T12:22:10Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "0cb896a4fcbd251ebbdfaa62b51b6b42f136f497",
-   "title": "Texas voters on high gas prices under Trump: ‘Probably made me go more Democrat’",
-   "summary": [
-    "Some stop once they’ve reached $10 or $20 worth of gasoline."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/02/texas-voters-trump-fuel-prices",
-   "image": "https://i.guim.co.uk/img/media/7ca0d93d4826e78ad57f99087fe57ac408602fce/661_0_6640_5312/master/6640.jpg?width=140&quality=85&auto=format&fit=max&s=9d06d985cc3b42a6019ab437ef0b6d8a",
-   "published_at": "2026-11-02T11:00:41Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "d903bfac9fe946dd0b2ab538a414e2d755fdf83e",
-   "title": "‘The content creator election’: digital streamers and TV networks face off for midterms coverage",
-   "summary": [
-    "Journalists such as Jim Acosta and Scott MacFarlane are now competing against their former employers for eyeballsOn Tuesday, for the first time in more than 20 years, Jim Acosta, a former CNN stalwart, will not be working for a mainstream television network on election night.Acosta, who left CNN last year after nearly 18 years at the network, is putting on his own live broadcast at the University of Virginia that will air on YouTube and his Substack platform."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/02/content-creators-tv-network-midterm-coverage",
-   "image": "https://i.guim.co.uk/img/media/4f609433c163e958715f08d68777de0633a130cf/264_0_4681_3744/master/4681.jpg?width=140&quality=85&auto=format&fit=max&s=770c8541a1cfa13e8878afa49e94fcee",
-   "published_at": "2026-11-02T11:00:41Z",
    "category": "business",
    "related": []
   }
