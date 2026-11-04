@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T09:00:26.994053Z",
+ "generated_at": "2026-11-04T17:06:42.555671Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -24,28 +24,414 @@
  },
  "stories": [
   {
-   "id": "37c6b9eb8edd8c34fffb826354218caaab72b7b4",
-   "title": "The lost malloc()",
+   "id": "472484bded0ab565bcda4a29dd75596cea2aebf9",
+   "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
    "summary": [
-    "Article URL: https://napcakes.nekoweb.org/posts/malloc/ Comments URL: https://news.ycombinator.com/item?id=50362466 Points: 15 # Comments: 3"
+    "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations."
    ],
-   "source": "Hacker News",
-   "url": "https://napcakes.nekoweb.org/posts/malloc/",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
    "image": null,
-   "published_at": "2026-11-04T07:37:30Z",
+   "published_at": "2026-11-04T16:51:35Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "f6ec0fa5805c917ae4be92d19c1d73d6da2e8756",
-   "title": "AI stocks slide as Texas governor result raises data center risks",
+   "id": "381c8f769b2804391f71d54233c1a18c368b3e43",
+   "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
    "summary": [
-    "Article URL: https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html Comments URL: https://news.ycombinator.com/item?id=50362274 Points: 17 # Comments: 5"
+    "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-04T16:26:15Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ac5380eefb5a465ec3c2a40fc67d9d89aee0fffb",
+   "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+   "summary": [
+    "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+   "image": null,
+   "published_at": "2026-11-04T16:17:22Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "c6f96d4d723ddd380e31216d43f609745aaaaf3f",
+   "title": "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms",
+   "summary": [
+    "The billionaire's political action committee (Pac) contributed $47m (£35m) to Ken Paxton's campaign."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-04T15:51:37Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "86c78077069c2a484712cc1aad5e657bdd92fb20",
+   "title": "Kemi Badenoch says Africans should apologise for slavery",
+   "summary": [
+    "Article URL: https://www.theguardian.com/news/2026/nov/04/kemi-badenoch-says-africans-should-apologise-for-slavery-she-should-read-a-history-book Comments URL: https://news.ycombinator.com/item?id=50367148 Points: 9 # Comments: 2"
    ],
    "source": "Hacker News",
-   "url": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html",
+   "url": "https://www.theguardian.com/news/2026/nov/04/kemi-badenoch-says-africans-should-apologise-for-slavery-she-should-read-a-history-book",
    "image": null,
-   "published_at": "2026-11-04T07:00:20Z",
+   "published_at": "2026-11-04T15:40:02Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "5b592f80e93a78651afd36120560628e486adc95",
+   "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+   "summary": [
+    "Article URL: https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections Comments URL: https://news.ycombinator.com/item?id=50367125 Points: 80 # Comments: 21"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+   "image": null,
+   "published_at": "2026-11-04T15:38:34Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "cfea5628a66795358c4802175ba8dfc4e74bd32a",
+   "title": "Letting users trust their own MCP clients, without opening a phishing hole",
+   "summary": [
+    "Article URL: https://streamvessel.com/blog/mcp-trusted-redirect-uris Comments URL: https://news.ycombinator.com/item?id=50367004 Points: 15 # Comments: 2"
+   ],
+   "source": "Hacker News",
+   "url": "https://streamvessel.com/blog/mcp-trusted-redirect-uris",
+   "image": null,
+   "published_at": "2026-11-04T15:30:57Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "7838c87736f9082fb144453a5a532f0d0cfd974f",
+   "title": "Kimi K3.1 Pro model weights are out",
+   "summary": [
+    "Article URL: https://huggingface.co/moonshotai/Kimi-K3.1-Pro Comments URL: https://news.ycombinator.com/item?id=50366999 Points: 55 # Comments: 6"
+   ],
+   "source": "Hacker News",
+   "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+   "image": null,
+   "published_at": "2026-11-04T15:30:30Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "fa315682243b04744442e33838c2b9f2409f70e3",
+   "title": "Show HN: I built a tool that prices a prebuilt PC part by part",
+   "summary": [
+    "I've missed out on an awesome computer that I could use for a project because figuring out value took too long.",
+    "Users paste a listing and receive a value grade, dated component estimates and a shareable report.",
+    "AI reads the listing but my custom built price engine determines the grade (updated every day)."
+   ],
+   "source": "Hacker News",
+   "url": "https://pcdealcheck.com/",
+   "image": null,
+   "published_at": "2026-11-04T15:25:33Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "0444b4a9f4d5c6ef302cbc827844f4ad548d324f",
+   "title": "Evergreen: A Provably Safe Systems Language",
+   "summary": [
+    "Article URL: https://evergreenlang.net Comments URL: https://news.ycombinator.com/item?id=50366919 Points: 36 # Comments: 19"
+   ],
+   "source": "Hacker News",
+   "url": "https://evergreenlang.net",
+   "image": null,
+   "published_at": "2026-11-04T15:25:04Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "bac6032ee652b16867d4769a560f3e06afdcb10f",
+   "title": "Pierre Computer is being acquired by OpenAI",
+   "summary": [
+    "Article URL: https://twitter.com/pierrecomputer/status/2117999036175188183 Comments URL: https://news.ycombinator.com/item?id=50366863 Points: 35 # Comments: 14"
+   ],
+   "source": "Hacker News",
+   "url": "https://twitter.com/pierrecomputer/status/2117999036175188183",
+   "image": null,
+   "published_at": "2026-11-04T15:21:21Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "fdd74105cae02d8d485ef195e3232495a95eed29",
+   "title": "Adding Window Functions to a Spreadsheet",
+   "summary": [
+    "Article URL: https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/ Comments URL: https://news.ycombinator.com/item?id=50366860 Points: 17 # Comments: 13"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/",
+   "image": null,
+   "published_at": "2026-11-04T15:21:12Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ea56d3c93074786b497480f2023bd4339c4c7254",
+   "title": "Show HN: Codemap – one-page interactive map of any Go repository",
+   "summary": [
+    "Article URL: https://github.com/peterretief/codemap Comments URL: https://news.ycombinator.com/item?id=50366811 Points: 20 # Comments: 5"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/peterretief/codemap",
+   "image": null,
+   "published_at": "2026-11-04T15:18:24Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a7a9c63910c053fe9eebb6b9365e587c4371cccb",
+   "title": "Debian apt security update (man-in-the-middle)",
+   "summary": [
+    "Article URL: https://lists.debian.org/debian-security-announce/2026/msg00526.html?pow_referer= Comments URL: https://news.ycombinator.com/item?id=50366575 Points: 64 # Comments: 13"
+   ],
+   "source": "Hacker News",
+   "url": "https://lists.debian.org/debian-security-announce/2026/msg00526.html?pow_referer=",
+   "image": null,
+   "published_at": "2026-11-04T15:04:14Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "fef31214013aac937686bed5e3ae9844f365e83e",
+   "title": "Guerrilla Bike Lanes: San Francisco Makes Illicit Infrastructure Permanent (2016)",
+   "summary": [
+    "Article URL: https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/ Comments URL: https://news.ycombinator.com/item?id=50366522 Points: 89 # Comments: 23"
+   ],
+   "source": "Hacker News",
+   "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+   "image": null,
+   "published_at": "2026-11-04T15:01:44Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "0d5811a82ab28a82c579fb5aa727e0ed08688b74",
+   "title": "Why the weirdest game of 2026 is also one of my favourites",
+   "summary": [
+    "Titanium Court is a bizarre world of 8-bit fairies, Shakespeare and surprise songs – its magic lies in never knowing what on earth is going on• Don’t get Pushing Buttons delivered to your inbox?",
+    "In the middle of one of those long nights, unable to sleep, I played a game called Titanium Court.",
+    "I began to wonder if my meds were making me hallucinate."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/games/2026/nov/04/why-the-weirdest-game-of-2026-is-also-one-of-my-favourites",
+   "image": "https://i.guim.co.uk/img/media/ba416c83d04ed8b47b3685bbbc82d44fa33e5148/600_2_1320_1057/master/1320.jpg?width=140&quality=85&auto=format&fit=max&s=ca27ca7a36dbb49f89676447db4b444f",
+   "published_at": "2026-11-04T15:00:38Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "e5e6237f873c3e4c3c9861638be2bae9c280ff43",
+   "title": "Titan OS raises $46 million to expand its smart TV OS internationally",
+   "summary": [
+    "Titan OS has raised $110 million in funding to date."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/",
+   "image": null,
+   "published_at": "2026-11-04T15:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "99eee0796c9bd4eb07035b8d2989ed732fbaa3b1",
+   "title": "Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank",
+   "summary": [
+    "Rowe Price were among the investors that led the share sale."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/",
+   "image": null,
+   "published_at": "2026-11-04T14:10:10Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "7f80142f2f1d30ef876000591220b9765f3d4368",
+   "title": "North Korean fake job interview led to $6.3B Binance heist",
+   "summary": [
+    "Article URL: https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398 Comments URL: https://news.ycombinator.com/item?id=50365755 Points: 273 # Comments: 158"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+   "image": null,
+   "published_at": "2026-11-04T14:09:55Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "dced5fd7ea4d9ed64069397eb81d8fceeb36b89a",
+   "title": "Mocktastic: A Meshtastic Node on Arduino",
+   "summary": [
+    "Article URL: https://github.com/Vapmuz/Mocktastic Comments URL: https://news.ycombinator.com/item?id=50365516 Points: 13 # Comments: 1"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/Vapmuz/Mocktastic",
+   "image": null,
+   "published_at": "2026-11-04T13:51:52Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "6c35d4c936099f16cc0c359b08c6d983733d62a9",
+   "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+   "summary": [
+    "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station.",
+    "Register now to join this founder-focused conference today."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
+   "image": null,
+   "published_at": "2026-11-04T13:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "3429ee1bc81e7d6044078200422bb374218ed103",
+   "title": "UK to deploy facial recognition in biggest-ever immigration crackdown",
+   "summary": [
+    "Documents show Home Office developing programme to use technology for general immigration enforcementThe Home Office is preparing to deploy facial recognition technology at transport hubs and public events as part of the biggest immigration enforcement crackdown in British history.Policy documents show the government has been developing a programme to deploy live facial recognition (LFR) cameras for “general immigration enforcement”, including non-criminal immigration offences."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/04/uk-deploy-facial-recognition-biggest-ever-immigration-crackdown",
+   "image": "https://i.guim.co.uk/img/media/7dae8a8f1193d4f6ba98a2f706a36b65a4dc2a10/222_0_1781_1425/master/1781.jpg?width=140&quality=85&auto=format&fit=max&s=02a871bd76b3863b7ce46866ab81cc4d",
+   "published_at": "2026-11-04T12:15:31Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "fc7287d32812aa7298062fd57be90e120f7c013b",
+   "title": "Canva lays off over 1,200 people amid slowing growth",
+   "summary": [
+    "Canva is cutting 22% of its staff as it faces its 'hardest year' yet."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/",
+   "image": null,
+   "published_at": "2026-11-04T11:59:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "68c44263a0af55942d00f413b692ebe06ba48987",
+   "title": "AI is forcing us to pay off 40 years of technical debt",
+   "summary": [
+    "Article URL: https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability Comments URL: https://news.ycombinator.com/item?id=50364336 Points: 596 # Comments: 389"
+   ],
+   "source": "Hacker News",
+   "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+   "image": null,
+   "published_at": "2026-11-04T11:52:17Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "26ac3ad10ebe4ef59ade6e5e2c3ac2779676d661",
+   "title": "Synaptics Appears to Use Legal Threats to Block Open-Source DisplayLink Driver",
+   "summary": [
+    "Article URL: https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver Comments URL: https://news.ycombinator.com/item?id=50363968 Points: 116 # Comments: 48"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver",
+   "image": null,
+   "published_at": "2026-11-04T11:14:12Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "0f83db72d5313cefe6fa14ce0c19496722cef54d",
+   "title": "The Legend of Zelda: Ocarina of Time review – a dream come true",
+   "summary": [
+    "Nintendo Switch 2; NintendoThis ambitious remake transforms a landmark Zelda game into a modern masterpiece, clearer and easier to navigate, more beautiful to look at, with playful musical touches.",
+    "Yet the melancholy remainsIt’s always a worry, returning to a formative piece of art from your childhood.",
+    "Will your jaded adult sensibilities render you unable to locate the magic that captivated your child self?"
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/games/2026/nov/04/the-legend-of-zelda-ocarina-of-time-review-nintendo-switch",
+   "image": "https://i.guim.co.uk/img/media/8a2d98784a3e1b4f40da5a86e375407c004b7753/558_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=f166b0e3b10b4ea26c6403380c9173ac",
+   "published_at": "2026-11-04T11:03:18Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "49db83e253edbf0771d468b99bafbdd0476979fa",
+   "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+   "summary": [
+    "If you have a personal Google AI subscription, all your saved chat history in Gemini can be used for training and there is no way to opt out unless you turn off chat history or use temporary chat sessions.",
+    "These chat transcripts may even be read by human reviewers.",
+    "Turning that off means you’ll lose any chat sessions after 72 hours.I learned this too late, thinking that having a paid subscription = not being turned into the product."
+   ],
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50363461",
+   "image": null,
+   "published_at": "2026-11-04T10:10:27Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "3257ffecc3ac915ea6b484a92c8d692e4a3f81e1",
+   "title": "Incident with Pull Requests, Git Operations and Issues",
+   "summary": [
+    "Article URL: https://www.githubstatus.com/incidents/smtdswd1h2w4 Comments URL: https://news.ycombinator.com/item?id=50363378 Points: 197 # Comments: 100"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+   "image": null,
+   "published_at": "2026-11-04T10:00:06Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "6908611519fc26af9be746d4aa3a8f86de9a995f",
+   "title": "Verification Is Not Knowledge: Science needs more than answers",
+   "summary": [
+    "Article URL: https://blog.cosmos-institute.org/p/verification-is-not-knowledge Comments URL: https://news.ycombinator.com/item?id=50363019 Points: 170 # Comments: 99"
+   ],
+   "source": "Hacker News",
+   "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
+   "image": null,
+   "published_at": "2026-11-04T09:01:58Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "3f989514aa0deab0d59a1690da78c4d5652dab59",
+   "title": "Kitty 0.50",
+   "summary": [
+    "Article URL: https://sw.kovidgoyal.net/kitty/changelog/# Comments URL: https://news.ycombinator.com/item?id=50362980 Points: 290 # Comments: 185"
+   ],
+   "source": "Hacker News",
+   "url": "https://sw.kovidgoyal.net/kitty/changelog/#",
+   "image": null,
+   "published_at": "2026-11-04T08:57:10Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "88c23216a431785abc6288676db72447b6542253",
+   "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+   "summary": [
+    "Article URL: https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop Comments URL: https://news.ycombinator.com/item?id=50362905 Points: 414 # Comments: 192"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+   "image": null,
+   "published_at": "2026-11-04T08:46:29Z",
    "category": "tech",
    "related": []
   },
@@ -53,64 +439,13 @@
    "id": "39f6558b019b6926c039547928481568612f6f5f",
    "title": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market",
    "summary": [
-    "StoryTV has more than 33 million monthly active users according to Sensor Tower figures"
+    "More than 118 million users watch microdramas every month as the serialized format has taken off in India.",
+    "EloElo's Story TV is one of the top apps for microdramas, with over 33 million active users, according to analysts."
    ],
    "source": "TechCrunch",
    "url": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/",
    "image": null,
    "published_at": "2026-11-04T04:45:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "5ded7db5c84bde684aa4b11b961aec62e6a51fa7",
-   "title": "Jelly Sheet",
-   "summary": [
-    "Article URL: https://mrdoob.github.io/codevember-2026/01/ Comments URL: https://news.ycombinator.com/item?id=50361268 Points: 215 # Comments: 52"
-   ],
-   "source": "Hacker News",
-   "url": "https://mrdoob.github.io/codevember-2026/01/",
-   "image": null,
-   "published_at": "2026-11-04T03:40:50Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "76457a280aad251c6f4ed6a8d48faf5c11d1459f",
-   "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
-   "summary": [
-    "Article URL: https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients Comments URL: https://news.ycombinator.com/item?id=50361154 Points: 65 # Comments: 7"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
-   "image": null,
-   "published_at": "2026-11-04T03:20:13Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "dd6ec5aeda804f38d5b38d2250ba3eb5ece1b5d9",
-   "title": "Giant canyon on Mars is still tectonically active",
-   "summary": [
-    "Article URL: https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today Comments URL: https://news.ycombinator.com/item?id=50360573 Points: 77 # Comments: 8"
-   ],
-   "source": "Hacker News",
-   "url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
-   "image": null,
-   "published_at": "2026-11-04T01:40:42Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "a04a448906e41be524ef67bb0f7b5161a71b0de7",
-   "title": "C++26 Disapproved",
-   "summary": [
-    "Article URL: https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/ Comments URL: https://news.ycombinator.com/item?id=50360164 Points: 272 # Comments: 159"
-   ],
-   "source": "Hacker News",
-   "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
-   "image": null,
-   "published_at": "2026-11-04T00:33:22Z",
    "category": "tech",
    "related": []
   },
@@ -180,19 +515,6 @@
    "related": []
   },
   {
-   "id": "67bf24197a0c3537efee82b7129e658945ec41fd",
-   "title": "The Internals of PostgreSQL",
-   "summary": [
-    "Article URL: https://www.interdb.jp/pg/index.html Comments URL: https://news.ycombinator.com/item?id=50358702 Points: 260 # Comments: 18"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.interdb.jp/pg/index.html",
-   "image": null,
-   "published_at": "2026-11-03T21:51:06Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "f7b02949050ddc0ae2afbe9be08aecde422f30b8",
    "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
    "summary": [
@@ -206,58 +528,15 @@
    "related": []
   },
   {
-   "id": "edbf4ed1a954103dcdf4610ea6be0137462eaa4e",
-   "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+   "id": "d9931a8b95debc0860de8d5fe6828d3ea520d770",
+   "title": "AI ‘godfather’ Geoffrey Hinton: it might turn out we were better off without AI",
    "summary": [
-    "Article URL: https://arxiv.org/abs/2605.29713 Comments URL: https://news.ycombinator.com/item?id=50358582 Points: 331 # Comments: 51"
+    "Nobel winner warns the tech could be near to triggering major incident such as power or banking shutdownOne of the “godfathers of AI”, Geoffrey Hinton, has said it could turn out that humans would have been better off never developing the technology as he warned it could trigger a large-scale incident this year or next, such as a temporary blackout of financial or power systems.The Nobel prize-winning computer scientist told the Guardian he is not a “doomer” about the technology that is underpinned by his groundbreaking research into artificial neural networks and believes AI has the potential to lead to a “wonderful future” but he said “it might be that we would have been better off never developing it”."
    ],
-   "source": "Hacker News",
-   "url": "https://arxiv.org/abs/2605.29713",
-   "image": null,
-   "published_at": "2026-11-03T21:40:53Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "7da3b08fd70d7f5417f7b3db10fa44ebe892389b",
-   "title": "Safari introduces Adaptive Dark Mode in 27.3",
-   "summary": [
-    "Article URL: https://webkit.org/blog/18541/introducing-adaptive-dark-mode/ Comments URL: https://news.ycombinator.com/item?id=50358562 Points: 419 # Comments: 222"
-   ],
-   "source": "Hacker News",
-   "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
-   "image": null,
-   "published_at": "2026-11-03T21:39:05Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "40ed0478e937b28f3c3ebdf1b8ecbaf46e58a4c8",
-   "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-   "summary": [
-    "The idea came from wanting players to discover cities.",
-    "Each city has its own history, so every case is set in a real city with real public places.",
-    "The part that I care most is the playable aspect of the game, a model plays the detective and must solve the case before it goes live.As of today: it's free on Android, the iOS version is still waiting to be reviewed by Apple."
-   ],
-   "source": "Hacker News",
-   "url": "https://uncracked.city",
-   "image": null,
-   "published_at": "2026-11-03T21:20:03Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "78da873c3350fa2086e589d8a4055e21194a9d42",
-   "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
-   "summary": [
-    "Kairos addresses two of the biggest problems facing traditional decisioning tools: a lack of labeled data to train on and dealing with fraudsters that are constantly changing their tactics.1.",
-    "Traditional fraud solutions use ML models such as XGBoost to detect fraud, but these models are dependent on quality labeled data which many businesses do not have.",
-    "This also allows you to capture aspects of fraud that are more unstructured, which is something that XGBoost models struggle with.2."
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/finic-ai/kairos",
-   "image": null,
-   "published_at": "2026-11-03T21:16:48Z",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+   "image": "https://i.guim.co.uk/img/media/2874e862dc2a0fc34d651f70e5ecffd542d947a6/543_22_2658_2128/master/2658.jpg?width=140&quality=85&auto=format&fit=max&s=72ea6b35d68dbf21a28aa061a29ce3fb",
+   "published_at": "2026-11-03T21:35:42Z",
    "category": "tech",
    "related": []
   },
@@ -271,281 +550,6 @@
    "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
    "image": null,
    "published_at": "2026-11-03T21:05:55Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "fc591ddcfa11a069ee714964f4d6a8678e5c01b7",
-   "title": "Orbital Matter 3D-printed the first rigid beam in the vacuum of space",
-   "summary": [
-    "An in-space construction first could be an enabler for the space data centers of the future."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/",
-   "image": null,
-   "published_at": "2026-11-03T20:57:17Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "015960caa3ded74cccf39818293f00633a78be8d",
-   "title": "Google says there’s no way to use Search without using artificial intelligence",
-   "summary": [
-    "The company said the schools should have control over whether students use AI in the classroom.",
-    "There’s one catch, though: if a school or teacher blocks the use of Google’s AI features, students won’t be able to use Google Search."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/03/google-search-artificial-intelligence",
-   "image": "https://i.guim.co.uk/img/media/bcabbc779233306fc944dc23627a71897d2bbd68/344_0_2931_2345/master/2931.jpg?width=140&quality=85&auto=format&fit=max&s=8b6eea525ab2db3209822065ee1072ad",
-   "published_at": "2026-11-03T20:30:06Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "e683618b688c26b304ca0070cbc3126495ed1e12",
-   "title": "Tech Life",
-   "summary": [
-    "When copyright strikes silence reporters, rail safety & the Lord of the Rings live show."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyt?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-03T20:30:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "8f72d813f63adee5c3cbf2d8fd9bd1d81378f11e",
-   "title": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist",
-   "summary": [
-    "Cybersecurity experts have long warned of the persistent and patient threat from North Korea's long-running hacks.",
-    "The world's largest crypto exchange was still caught off-guard."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/",
-   "image": null,
-   "published_at": "2026-11-03T19:45:48Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "42ec3b43220bf36cb0466f5ca1ee074bb3f8d52c",
-   "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-   "summary": [
-    "The five-year-old startup raised a $1.3 billion round led by Bessemer."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
-   "image": null,
-   "published_at": "2026-11-03T19:34:43Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "bcdf1947b2172d7e16978c9b584e0e8594434652",
-   "title": "Introduction to Programming in ATS",
-   "summary": [
-    "Article URL: https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html Comments URL: https://news.ycombinator.com/item?id=50356913 Points: 72 # Comments: 9"
-   ],
-   "source": "Hacker News",
-   "url": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
-   "image": null,
-   "published_at": "2026-11-03T19:25:18Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "1ad7effb0a177bf3191aab242668ecf1144adb28",
-   "title": "Reddit tests ads in search results as traffic declines and growth concerns mount",
-   "summary": [
-    "The new ad placements could help Reddit squeeze more revenue from existing users as Google's AI search changes how people discover its content."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/",
-   "image": null,
-   "published_at": "2026-11-03T19:24:37Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "5a4c000fbee6e026c160f52a66ac05c082745369",
-   "title": "Ten years later, ‘Pokémon Go to the polls’ still haunts the internet",
-   "summary": [
-    "Hillary Clinton's 2016 political gaffe has become an irony-shrouded rallying cry for jaded young voters who still dare to hope for change."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
-   "image": null,
-   "published_at": "2026-11-03T19:04:52Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "5d2cdd8508318a8809f630352a2db5a9f0917433",
-   "title": "Hackers behind $6.3bn Binance heist ‘used malware and bogus job interviews’",
-   "summary": [
-    "Firm reveals details about how its cryptocurrency exchange was compromised, saying operation began in JuneThe hackers behind the $6.3bn (£4.7bn) Binance heist used bogus job interviews, malicious software and an internal AI tool, the company has revealed.The world’s largest cryptocurrency exchange was compromised in an operation that began with an inadvertent download of malware in June, led to a recruitment scam in September and then a raid last week of “hot wallets” where billions of dollars worth of crypto-assets were taken."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/03/hackers-63bn-binance-heist-malware-bogus-job-interviews-cryptocurrency",
-   "image": "https://i.guim.co.uk/img/media/f67cc40e017c9be99ab108202d9308c5bb1694fb/356_0_3333_2666/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=487438a07d6c27b83b2345b8ed2b3fd0",
-   "published_at": "2026-11-03T19:00:23Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "f5824b7ace6bf24c4981caa9f187b4900fb90c41",
-   "title": "Ferrari’s controversial Luce EV is sold out for 2027",
-   "summary": [
-    "The Luce, Ferrari's first electric car and one of its most polarizing models, is \"fully allocated\" through 2027, according to CEO Benedetto Vigna."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/03/ferraris-controversial-luce-ev-is-sold-out-for-2027/",
-   "image": null,
-   "published_at": "2026-11-03T18:51:33Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "36315b3cb5b626b920de18a848ce9412e23dc1b1",
-   "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
-   "summary": [
-    "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
-   "image": null,
-   "published_at": "2026-11-03T18:42:16Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "a959325bd7bead26f7dd7e0753fc988f6ff3e945",
-   "title": "How I use AI (Oct 2026)",
-   "summary": [
-    "Article URL: https://ben.stolovitz.com/posts/how-use-ai-oct-2026/ Comments URL: https://news.ycombinator.com/item?id=50355767 Points: 165 # Comments: 147"
-   ],
-   "source": "Hacker News",
-   "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
-   "image": null,
-   "published_at": "2026-11-03T18:11:11Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "8fc2315555ec1ef98043f7130881a5a8e9bea502",
-   "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
-   "summary": [
-    "CrowdStrike said it will buy Fiddler AI, which makes AI agent observability software, and Dreadnode, which helps companies automate AI security testing."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
-   "image": null,
-   "published_at": "2026-11-03T17:56:52Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "9b0f1b3870f8f7bfef142b6cf7e94bd9b847c298",
-   "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-   "summary": [
-    "Article URL: https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/ Comments URL: https://news.ycombinator.com/item?id=50355251 Points: 606 # Comments: 178"
-   ],
-   "source": "Hacker News",
-   "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-   "image": null,
-   "published_at": "2026-11-03T17:40:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "f2b7af65fe4f1772b653da25a7a9ba152e320da7",
-   "title": "Food suppliers in UK hit by cyber-attacks after freezers targeted in Europe",
-   "summary": [
-    "Cybersecurity experts say national impact ‘minimal’ but incidents may represent the ‘foothills’ of a wider threat Food suppliers in the UK have been hit by cyber-attacks after hackers raised the temperatures of supermarket freezers across Europe.The UK’s National Cyber Security Centre (NSCS) said it was working with the affected companies but the national impact was minimal."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/03/uk-meat-processing-firms-fridges-heat-up-cyber-attacks",
-   "image": "https://i.guim.co.uk/img/media/e064a29c22199860beb7b0ec6295bac52120a126/82_0_4972_3978/master/4972.jpg?width=140&quality=85&auto=format&fit=max&s=8951ad8047f14fe63235d453e53fe462",
-   "published_at": "2026-11-03T17:28:49Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "da9a5824109ffaf4d36b11b44e51a59070ea60b1",
-   "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-   "summary": [
-    "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 1247 # Comments: 410"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-   "image": null,
-   "published_at": "2026-11-03T17:22:37Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "a4abd1e2a1c1fb27829459d67ee93a3d44981fc3",
-   "title": "Anthropic is still grappling with the economics of compute",
-   "summary": [
-    "At a moment when Anthropic's compute margins should be getting better, they’re getting worse."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-   "image": null,
-   "published_at": "2026-11-03T17:07:01Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "13775dae291d1ca876e4944f153d1fe97f4d8e25",
-   "title": "Rivian spinout Also was working on an e-moto project in Kenya — until it walked away",
-   "summary": [
-    "Also co-founder and president Chris Yu told TechCrunch that he wanted to prioritize autonomous vehicles."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/",
-   "image": null,
-   "published_at": "2026-11-03T16:49:09Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "95dce5da618a3a9d3a8fb35666853edaa07266aa",
-   "title": "Stringman, an $800 open-source room scale gripper robot",
-   "summary": [
-    "Article URL: https://neufangled.com/ Comments URL: https://news.ycombinator.com/item?id=50354358 Points: 571 # Comments: 193"
-   ],
-   "source": "Hacker News",
-   "url": "https://neufangled.com/",
-   "image": null,
-   "published_at": "2026-11-03T16:47:29Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "ba273efe94abcde6ec8ee2d1c4ec54e2c19cc5ac",
-   "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
-   "summary": [
-    "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
-   "image": null,
-   "published_at": "2026-11-03T16:30:34Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "bb49342b4e9e9ad76c63c7cd071511a065a6e4e9",
-   "title": "New York City’s Mamdani criticizes Madison Square Garden owner over surveillance tech",
-   "summary": [
-    "The mayor's comments come after the entertainment giant's data breach last year, which exposed James Dolan's surveillance."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/03/new-york-citys-mamdani-criticizes-madison-square-garden-owner-over-surveillance-tech/",
-   "image": null,
-   "published_at": "2026-11-03T16:04:55Z",
    "category": "tech",
    "related": []
   }

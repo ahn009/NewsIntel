@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-04T09:00:26.994673Z",
- "story_count": 23,
+ "generated_at": "2026-11-04T17:06:42.556937Z",
+ "story_count": 27,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,119 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "b3ff44d6d7b1c13614bb3f2b501c922387c2fb97",
+   "title": "Scientists may have finally explained why our brains and bodies are cross-wired",
+   "summary": [
+    "Scientists propose that the brain’s mysterious cross-wiring, which connects each hemisphere to the opposite side of the body, may have originated more than 500 million years ago in the visual systems of ancient fish.",
+    "Rather than evolving for a specific advantage, this unusual arrangement may simply be a legacy of evolution building new brain circuits on an ancient foundation."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261103003146.htm",
+   "image": null,
+   "published_at": "2026-11-04T13:24:52Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "fe1c642e4b59c86c4c8e2cfa580f47dc1d177a5c",
+   "title": "Permanent daylight saving time has a dark side, scientists warn",
+   "summary": [
+    "A new study warns that permanent daylight saving time could force American children to make at least 2 billion additional school commutes in darkness, potentially increasing safety risks and disrupting their biological clocks.",
+    "Researchers found that fatal crashes involving school-aged pedestrians were roughly twice as likely during dark mornings as after sunrise."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261103003157.htm",
+   "image": null,
+   "published_at": "2026-11-04T12:50:48Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "8850037c50bb886effc3a5456587191c9d35c1d7",
+   "title": "A tiny squeeze dramatically changes the magnetism of exotic materials",
+   "summary": [
+    "Scientists have discovered that a simple mechanical squeeze can dramatically alter the magnetic properties and electrical behavior of exotic materials called altermagnets.",
+    "The surprising breakthrough could open the door to faster, more energy-efficient electronics and new technologies for quantum computing."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261101010541.htm",
+   "image": null,
+   "published_at": "2026-11-04T12:37:52Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "6059ef3a52dd7bca21b40e977986c9a420fb5e80",
+   "title": "MIT scientists break a 20-year rule and unlock never-before-seen crystal structures",
+   "summary": [
+    "MIT scientists have challenged two decades of conventional thinking by discovering that flexible molecular connections, rather than rigid ones, can unlock entirely new ways to arrange nanoparticles.",
+    "The breakthrough could lead to a new generation of designer materials with unusual properties and applications in electronics, medicine, and energy."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261104012248.htm",
+   "image": null,
+   "published_at": "2026-11-04T12:23:36Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "010d721bdb86c3a313762b5dd6926ac3d09332bf",
+   "title": "William meets firefighters who tackled summer blazes",
+   "summary": [
+    "The prince says 2026 was the first summer he felt \"worried about the scale of the wildfires\"."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/c94g1m232pgyo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-04T11:35:08Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "917d636c727036494843e9646246e5911aa9a970",
+   "title": "NASA is racing against time to save the Hubble Space Telescope",
+   "summary": [
+    "NASA is exploring a daring plan to save the legendary Hubble Space Telescope from its eventual fiery plunge into Earth's atmosphere.",
+    "After more than 35 years of groundbreaking discoveries, Hubble is slowly losing altitude, and without intervention, it could fall back to Earth as early as 2033 or 2034.",
+    "To keep the iconic observatory operating, NASA is asking private space companies to propose innovative ways to boost Hubble into a higher orbit, upgrade its capabilities, or safely dispose of it when its mission finally ends."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261104012254.htm",
+   "image": null,
+   "published_at": "2026-11-04T11:22:33Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "11e21462d76e09583e428dad9df7768502e1a454",
+   "title": "SLAC scientists find conclusive proof of a mysterious third type of magnetism",
+   "summary": [
+    "For nearly 90 years, scientists believed magnetism fell into just two categories, but researchers have now confirmed a remarkable third type called altermagnetism.",
+    "Using specialized X-rays, they uncovered a unique magnetic signature that proves these materials behave differently from conventional magnets.",
+    "Altermagnets combine stability with the ability to efficiently carry information, potentially overcoming major limitations in today's electronics."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
+   "image": null,
+   "published_at": "2026-11-04T10:43:44Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "06c34b210643cfbbf5fe0901106d1329c9770140",
+   "title": "AI helps Stanford scientists discover a “natural Ozempic” with a surprising advantage",
+   "summary": [
+    "Stanford researchers have discovered an AI-identified natural molecule that dramatically suppresses appetite and promotes fat loss in animals, potentially offering an Ozempic-like weight-loss treatment without common digestive side effects or significant muscle loss.",
+    "Called BRP, the molecule reduced food intake by up to 50% and targets a different brain pathway, raising hopes for a more precise obesity treatment if future human trials prove successful."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261104004909.htm",
+   "image": null,
+   "published_at": "2026-11-04T06:57:06Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "899a20179f4e8a8ea50ecf2e1f7480d1c2449be8",
    "title": "Tiktoker 'super excited' to co-host BBC nature show",
@@ -278,63 +391,6 @@
    "url": "https://www.bbc.co.uk/news/articles/c5pvgxkkv4dzo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-03T06:01:23Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "c2d562a91019309e1895948f4c6e3a013a3d8d8c",
-   "title": "Scientists discover new Alzheimer’s drug that repairs DNA damage and reduces brain inflammation",
-   "summary": [
-    "Scientists have discovered that a drug originally developed for spinal cord injuries can tackle several key features of Alzheimer’s disease, including DNA damage and inflammation.",
-    "Already tested for initial safety in humans, the experimental treatment could offer a faster path toward therapies that target the disease at its roots."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261102075806.htm",
-   "image": null,
-   "published_at": "2026-11-03T04:11:58Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "971d0ce0f8f5de028e61a4d0b16bb5036e941b1b",
-   "title": "Large Hadron Collider reveals evidence of Big Bang matter in surprisingly small collisions",
-   "summary": [
-    "Scientists at CERN's Large Hadron Collider have uncovered compelling new evidence that even relatively small atomic collisions can recreate the extraordinary state of matter that filled the universe moments after the Big Bang.",
-    "Known as quark-gluon plasma, this exotic substance forms at temperatures more than 100,000 times hotter than the center of the Sun, causing ordinary particles to break apart into their fundamental building blocks."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261031221211.htm",
-   "image": null,
-   "published_at": "2026-11-03T02:39:04Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "0c9240313ae9527894d954c69d5011fdf02234ec",
-   "title": "Scientists just found a loophole that could let black holes split in two",
-   "summary": [
-    "Scientists have discovered a possible loophole in the laws that normally prevent black holes from splitting apart, suggesting that extremely fast-spinning black holes might divide into two.",
-    "The surprising finding raises the possibility of an entirely new black hole phenomenon that future telescopes could potentially detect."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261101010525.htm",
-   "image": null,
-   "published_at": "2026-11-03T01:27:49Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "9099393b662976feb8779b3b01468303ecb3749a",
-   "title": "Scientists reverse liver cell aging and cut Alzheimer’s-linked protein in half",
-   "summary": [
-    "A surprising discovery suggests that rejuvenating the liver could help protect against Alzheimer’s disease and heart disease.",
-    "USC researchers found that an experimental drug restored aging liver cells in rats, cutting levels of an Alzheimer’s-linked protein in half and bringing bad cholesterol down to youthful levels.",
-    "The treatment also revived a previously unknown communication system that helps liver cells remove harmful substances from the bloodstream."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261031221155.htm",
-   "image": null,
-   "published_at": "2026-11-03T00:34:59Z",
    "category": "science",
    "related": []
   }
