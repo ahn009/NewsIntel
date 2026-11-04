@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T01:14:52.788929Z",
+ "generated_at": "2026-11-04T09:00:26.994053Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -23,6 +23,110 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "37c6b9eb8edd8c34fffb826354218caaab72b7b4",
+   "title": "The lost malloc()",
+   "summary": [
+    "Article URL: https://napcakes.nekoweb.org/posts/malloc/ Comments URL: https://news.ycombinator.com/item?id=50362466 Points: 15 # Comments: 3"
+   ],
+   "source": "Hacker News",
+   "url": "https://napcakes.nekoweb.org/posts/malloc/",
+   "image": null,
+   "published_at": "2026-11-04T07:37:30Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "f6ec0fa5805c917ae4be92d19c1d73d6da2e8756",
+   "title": "AI stocks slide as Texas governor result raises data center risks",
+   "summary": [
+    "Article URL: https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html Comments URL: https://news.ycombinator.com/item?id=50362274 Points: 17 # Comments: 5"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html",
+   "image": null,
+   "published_at": "2026-11-04T07:00:20Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "39f6558b019b6926c039547928481568612f6f5f",
+   "title": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market",
+   "summary": [
+    "StoryTV has more than 33 million monthly active users according to Sensor Tower figures"
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/",
+   "image": null,
+   "published_at": "2026-11-04T04:45:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "5ded7db5c84bde684aa4b11b961aec62e6a51fa7",
+   "title": "Jelly Sheet",
+   "summary": [
+    "Article URL: https://mrdoob.github.io/codevember-2026/01/ Comments URL: https://news.ycombinator.com/item?id=50361268 Points: 215 # Comments: 52"
+   ],
+   "source": "Hacker News",
+   "url": "https://mrdoob.github.io/codevember-2026/01/",
+   "image": null,
+   "published_at": "2026-11-04T03:40:50Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "76457a280aad251c6f4ed6a8d48faf5c11d1459f",
+   "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
+   "summary": [
+    "Article URL: https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients Comments URL: https://news.ycombinator.com/item?id=50361154 Points: 65 # Comments: 7"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
+   "image": null,
+   "published_at": "2026-11-04T03:20:13Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "dd6ec5aeda804f38d5b38d2250ba3eb5ece1b5d9",
+   "title": "Giant canyon on Mars is still tectonically active",
+   "summary": [
+    "Article URL: https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today Comments URL: https://news.ycombinator.com/item?id=50360573 Points: 77 # Comments: 8"
+   ],
+   "source": "Hacker News",
+   "url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
+   "image": null,
+   "published_at": "2026-11-04T01:40:42Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a04a448906e41be524ef67bb0f7b5161a71b0de7",
+   "title": "C++26 Disapproved",
+   "summary": [
+    "Article URL: https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/ Comments URL: https://news.ycombinator.com/item?id=50360164 Points: 272 # Comments: 159"
+   ],
+   "source": "Hacker News",
+   "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+   "image": null,
+   "published_at": "2026-11-04T00:33:22Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ac851c0f80b60f91f472b5826fb4c39d34f156bd",
+   "title": "Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure",
+   "summary": [
+    "Chief executive Melanie Perkins describes job cuts as ‘without doubt the hardest moment in our thirteen-year history’ in email to staffGet our breaking news email, free app or daily news podcastCanva is cutting or relocating more than 1,200 jobs, representing 22% of its global workforce, as part of a major restructure that includes laying off staff who helped build the Australian-founded design platform.The changes mirror a trend across the technology sector, where software companies are fighting to stay competitive against cheaper artificial intelligence disrupters while aggressively embedding AI tools themselves."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure",
+   "image": "https://i.guim.co.uk/img/media/1df62ce1cc8ffecf2d4291f28ff2212397c08553/473_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=a3cd1b1ec9b2997cc425b36c0410e91c",
+   "published_at": "2026-11-04T00:14:49Z",
+   "category": "tech",
+   "related": []
+  },
   {
    "id": "d4e1ba88ef8e8a1b3e376de32cdd6e890f6b1374",
    "title": "Graduates are managing AI - but are they learning much else?",
@@ -79,7 +183,7 @@
    "id": "67bf24197a0c3537efee82b7129e658945ec41fd",
    "title": "The Internals of PostgreSQL",
    "summary": [
-    "Article URL: https://www.interdb.jp/pg/index.html Comments URL: https://news.ycombinator.com/item?id=50358702 Points: 87 # Comments: 2"
+    "Article URL: https://www.interdb.jp/pg/index.html Comments URL: https://news.ycombinator.com/item?id=50358702 Points: 260 # Comments: 18"
    ],
    "source": "Hacker News",
    "url": "https://www.interdb.jp/pg/index.html",
@@ -105,7 +209,7 @@
    "id": "edbf4ed1a954103dcdf4610ea6be0137462eaa4e",
    "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
    "summary": [
-    "Article URL: https://arxiv.org/abs/2605.29713 Comments URL: https://news.ycombinator.com/item?id=50358582 Points: 208 # Comments: 32"
+    "Article URL: https://arxiv.org/abs/2605.29713 Comments URL: https://news.ycombinator.com/item?id=50358582 Points: 331 # Comments: 51"
    ],
    "source": "Hacker News",
    "url": "https://arxiv.org/abs/2605.29713",
@@ -118,7 +222,7 @@
    "id": "7da3b08fd70d7f5417f7b3db10fa44ebe892389b",
    "title": "Safari introduces Adaptive Dark Mode in 27.3",
    "summary": [
-    "Article URL: https://webkit.org/blog/18541/introducing-adaptive-dark-mode/ Comments URL: https://news.ycombinator.com/item?id=50358562 Points: 268 # Comments: 172"
+    "Article URL: https://webkit.org/blog/18541/introducing-adaptive-dark-mode/ Comments URL: https://news.ycombinator.com/item?id=50358562 Points: 419 # Comments: 222"
    ],
    "source": "Hacker News",
    "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
@@ -128,15 +232,17 @@
    "related": []
   },
   {
-   "id": "f3900be82c6f7ae65c769c93e0203c426c120a5b",
-   "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+   "id": "40ed0478e937b28f3c3ebdf1b8ecbaf46e58a4c8",
+   "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
    "summary": [
-    "Article URL: https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months Comments URL: https://news.ycombinator.com/item?id=50358422 Points: 215 # Comments: 81"
+    "The idea came from wanting players to discover cities.",
+    "Each city has its own history, so every case is set in a real city with real public places.",
+    "The part that I care most is the playable aspect of the game, a model plays the detective and must solve the case before it goes live.As of today: it's free on Android, the iOS version is still waiting to be reviewed by Apple."
    ],
    "source": "Hacker News",
-   "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+   "url": "https://uncracked.city",
    "image": null,
-   "published_at": "2026-11-03T21:26:44Z",
+   "published_at": "2026-11-03T21:20:03Z",
    "category": "tech",
    "related": []
   },
@@ -209,19 +315,6 @@
    "related": []
   },
   {
-   "id": "55ad78933df42a7b8ae2c4ec9a86014367b6e336",
-   "title": "Pratt parsing is a black box",
-   "summary": [
-    "Article URL: https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/ Comments URL: https://news.ycombinator.com/item?id=50357457 Points: 37 # Comments: 16"
-   ],
-   "source": "Hacker News",
-   "url": "https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/",
-   "image": null,
-   "published_at": "2026-11-03T20:07:41Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "8f72d813f63adee5c3cbf2d8fd9bd1d81378f11e",
    "title": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist",
    "summary": [
@@ -249,36 +342,10 @@
    "related": []
   },
   {
-   "id": "a010bae6b2edc7fda9bb6ac17dac1101297160e3",
-   "title": "Preparing for the Flipper One Kickstarter and opening pre-orders",
-   "summary": [
-    "https://docs.flipper.net/one Comments URL: https://news.ycombinator.com/item?id=50356994 Points: 169 # Comments: 78"
-   ],
-   "source": "Hacker News",
-   "url": "https://flipper.net/pages/flipper-one",
-   "image": null,
-   "published_at": "2026-11-03T19:32:13Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "1b35b6c8242f211666ca7dc433dfc7b0bd45898a",
-   "title": "macOS 27 does not support CoreStorage volumes",
-   "summary": [
-    "Article URL: https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/ Comments URL: https://news.ycombinator.com/item?id=50356944 Points: 102 # Comments: 59"
-   ],
-   "source": "Hacker News",
-   "url": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
-   "image": null,
-   "published_at": "2026-11-03T19:27:53Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "bcdf1947b2172d7e16978c9b584e0e8594434652",
    "title": "Introduction to Programming in ATS",
    "summary": [
-    "Article URL: https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html Comments URL: https://news.ycombinator.com/item?id=50356913 Points: 52 # Comments: 7"
+    "Article URL: https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html Comments URL: https://news.ycombinator.com/item?id=50356913 Points: 72 # Comments: 9"
    ],
    "source": "Hacker News",
    "url": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
@@ -356,7 +423,7 @@
    "id": "a959325bd7bead26f7dd7e0753fc988f6ff3e945",
    "title": "How I use AI (Oct 2026)",
    "summary": [
-    "Article URL: https://ben.stolovitz.com/posts/how-use-ai-oct-2026/ Comments URL: https://news.ycombinator.com/item?id=50355767 Points: 77 # Comments: 72"
+    "Article URL: https://ben.stolovitz.com/posts/how-use-ai-oct-2026/ Comments URL: https://news.ycombinator.com/item?id=50355767 Points: 165 # Comments: 147"
    ],
    "source": "Hacker News",
    "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
@@ -382,7 +449,7 @@
    "id": "9b0f1b3870f8f7bfef142b6cf7e94bd9b847c298",
    "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
    "summary": [
-    "Article URL: https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/ Comments URL: https://news.ycombinator.com/item?id=50355251 Points: 478 # Comments: 151"
+    "Article URL: https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/ Comments URL: https://news.ycombinator.com/item?id=50355251 Points: 606 # Comments: 178"
    ],
    "source": "Hacker News",
    "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
@@ -392,10 +459,23 @@
    "related": []
   },
   {
+   "id": "f2b7af65fe4f1772b653da25a7a9ba152e320da7",
+   "title": "Food suppliers in UK hit by cyber-attacks after freezers targeted in Europe",
+   "summary": [
+    "Cybersecurity experts say national impact ‘minimal’ but incidents may represent the ‘foothills’ of a wider threat Food suppliers in the UK have been hit by cyber-attacks after hackers raised the temperatures of supermarket freezers across Europe.The UK’s National Cyber Security Centre (NSCS) said it was working with the affected companies but the national impact was minimal."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/03/uk-meat-processing-firms-fridges-heat-up-cyber-attacks",
+   "image": "https://i.guim.co.uk/img/media/e064a29c22199860beb7b0ec6295bac52120a126/82_0_4972_3978/master/4972.jpg?width=140&quality=85&auto=format&fit=max&s=8951ad8047f14fe63235d453e53fe462",
+   "published_at": "2026-11-03T17:28:49Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "da9a5824109ffaf4d36b11b44e51a59070ea60b1",
    "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
    "summary": [
-    "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 1005 # Comments: 336"
+    "Article URL: https://github.com/postmanlabs/postman-app-support/issues/14370 Comments URL: https://news.ycombinator.com/item?id=50354960 Points: 1247 # Comments: 410"
    ],
    "source": "Hacker News",
    "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
@@ -418,19 +498,6 @@
    "related": []
   },
   {
-   "id": "b9e945383901d8f80f597817c6f53e763bbc40f4",
-   "title": "Ashby (YC W19) Is Hiring EMs",
-   "summary": [
-    "Article URL: https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&utm_source=hn Comments URL: https://news.ycombinator.com/item?id=50354582 Points: 0 # Comments: 0"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&utm_source=hn",
-   "image": null,
-   "published_at": "2026-11-03T17:00:53Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "13775dae291d1ca876e4944f153d1fe97f4d8e25",
    "title": "Rivian spinout Also was working on an e-moto project in Kenya — until it walked away",
    "summary": [
@@ -447,25 +514,12 @@
    "id": "95dce5da618a3a9d3a8fb35666853edaa07266aa",
    "title": "Stringman, an $800 open-source room scale gripper robot",
    "summary": [
-    "Article URL: https://neufangled.com/ Comments URL: https://news.ycombinator.com/item?id=50354358 Points: 360 # Comments: 138"
+    "Article URL: https://neufangled.com/ Comments URL: https://news.ycombinator.com/item?id=50354358 Points: 571 # Comments: 193"
    ],
    "source": "Hacker News",
    "url": "https://neufangled.com/",
    "image": null,
    "published_at": "2026-11-03T16:47:29Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "a0bc910aca1279cd35199766e87ce9180af424e5",
-   "title": "USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance",
-   "summary": [
-    "Article URL: https://arxiv.org/abs/2611.02618 Comments URL: https://news.ycombinator.com/item?id=50354250 Points: 45 # Comments: 7"
-   ],
-   "source": "Hacker News",
-   "url": "https://arxiv.org/abs/2611.02618",
-   "image": null,
-   "published_at": "2026-11-03T16:40:02Z",
    "category": "tech",
    "related": []
   },
@@ -492,63 +546,6 @@
    "url": "https://techcrunch.com/2026/11/03/new-york-citys-mamdani-criticizes-madison-square-garden-owner-over-surveillance-tech/",
    "image": null,
    "published_at": "2026-11-03T16:04:55Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "b20c657114df43ae5bd21d072c03924fb135277f",
-   "title": "Apple restricts dating apps and AI companions to users 18 and up",
-   "summary": [
-    "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-   "image": null,
-   "published_at": "2026-11-03T15:38:27Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "9968f772fa1401eba9e29de77e2ca1533072ee87",
-   "title": "There is no posttraining data commons",
-   "summary": [
-    "Article URL: https://openathena.ai/blog/there-is-no-posttraining-data-commons/ Comments URL: https://news.ycombinator.com/item?id=50352641 Points: 15 # Comments: 2"
-   ],
-   "source": "Hacker News",
-   "url": "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
-   "image": null,
-   "published_at": "2026-11-03T14:45:47Z",
-   "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "https://namespace.so/blog/mac-at-any-scale"
-    }
-   ]
-  },
-  {
-   "id": "7730f9e1f258ceabc8dbac18dee03600c5aa3d03",
-   "title": "Binance battles to save its brand after record $6.3bn crypto hack",
-   "summary": [
-    "World’s largest crypto exchange faces fallout from angry customers, and Lula wins with WhatsAppThis was originally published in TechScape, a newsletter about how technology shapes our lives."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/02/binance-cryptocurrency-exchange-hack",
-   "image": "https://i.guim.co.uk/img/media/5a2878d35143dc13d3a8fd841eed958d041cea3c/204_0_3267_2613/master/3267.jpg?width=140&quality=85&auto=format&fit=max&s=5fda70b85bb3ee904f5b16d17aab6e6c",
-   "published_at": "2026-11-03T14:45:30Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "d874c67377832b9500ca93e0c6a9f99b796cb902",
-   "title": "Practice speaking Japanese with real YouTube videos, graded line by line",
-   "summary": [
-    "Article URL: https://jivx.com/yt Comments URL: https://news.ycombinator.com/item?id=50352577 Points: 83 # Comments: 31"
-   ],
-   "source": "Hacker News",
-   "url": "https://jivx.com/yt",
-   "image": null,
-   "published_at": "2026-11-03T14:41:02Z",
    "category": "tech",
    "related": []
   }
