@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-04T22:35:57.200357Z",
- "story_count": 21,
+ "generated_at": "2026-11-05T03:26:34.519894Z",
+ "story_count": 17,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,19 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "7cdab45567231a47651a1d87755d46f6ee1b2ded",
+   "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
+   "summary": [
+    "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-04T23:12:47Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "b3ff44d6d7b1c13614bb3f2b501c922387c2fb97",
    "title": "Scientists may have finally explained why our brains and bodies are cross-wired",
@@ -242,76 +255,6 @@
    "url": "https://www.bbc.co.uk/news/articles/c8wy94ewzw03o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-03T17:25:10Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "2dbc1004d19fd58ec139a8c77b397175412903ef",
-   "title": "Charity warns about damage of over-foraging fungi",
-   "summary": [
-    "It says over-foraging, particularly in protected areas, damages habitats and wildlife."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/cmp3gr673zz9o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-03T14:36:36Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "3a441115c6c970b89d5eafa25b8d8d2564fbf95b",
-   "title": "The brain’s hidden fear mechanism may explain anxiety and PTSD",
-   "summary": [
-    "A surprising new discovery suggests that fear may cause the brain to blur the line between danger and safety rather than distinguish them more clearly.",
-    "By observing brain activity in mice using augmented reality, scientists found that memories of threatening and harmless environments began to overlap, potentially allowing faster responses to danger.",
-    "This \"better safe than sorry\" survival mechanism could help explain why people with anxiety or PTSD sometimes experience intense fear in completely safe situations."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261102202833.htm",
-   "image": null,
-   "published_at": "2026-11-03T13:03:02Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "2661bb752d264df83d15cdb88a339ca839afd479",
-   "title": "A 50-year-old mystery of vanishing frogs reveals a hidden killer",
-   "summary": [
-    "A nearly 50-year-old mystery involving disappearing frogs in Brazil may finally be solved, with scientists uncovering evidence that a deadly fungus swept through the region and devastated vulnerable species.",
-    "Remarkably, many frog populations have since rebounded, suggesting they developed greater tolerance to the disease that once threatened their survival."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261102202838.htm",
-   "image": null,
-   "published_at": "2026-11-03T12:51:53Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "03809a7f8933f0af9621f90cc3da18b3bcc95190",
-   "title": "Scientists identify two overlooked skills that predict reading success",
-   "summary": [
-    "A massive new study reveals that intelligence plays a surprisingly limited role in children's reading success, while visual processing showed no meaningful connection at all.",
-    "Instead, the strongest predictors are sound recognition, vocabulary, and background knowledge, offering new clues about how to help struggling readers."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261102202845.htm",
-   "image": null,
-   "published_at": "2026-11-03T12:15:18Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "e66d3b28d0adae27ded09db11094ddaeedf2db60",
-   "title": "All 5 genetic “letters” of DNA and RNA discovered in a 4.5-billion-year-old asteroid",
-   "summary": [
-    "Scientists have discovered all five essential nucleobases used in DNA and RNA in pristine samples from asteroid Ryugu, revealing that key ingredients for life existed in space billions of years ago.",
-    "The remarkable finding adds to growing evidence from other asteroids and meteorites that these molecules were widespread throughout the early Solar System."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261102075903.htm",
-   "image": null,
-   "published_at": "2026-11-03T10:58:24Z",
    "category": "science",
    "related": []
   }
