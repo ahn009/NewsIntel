@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-05T12:11:06.926915Z",
- "story_count": 16,
+ "generated_at": "2026-11-05T20:36:55.335662Z",
+ "story_count": 19,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -24,15 +24,28 @@
  },
  "stories": [
   {
-   "id": "ebf53c76bc0ccbbda2c37e53300c5084f919b8be",
-   "title": "Three ways the interest rate rise could affect you",
+   "id": "bfd986f81986953748649f2ed1aa573279446fb2",
+   "title": "Interest rates hiked to 4% in first increase in over three years",
    "summary": [
-    "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England."
+    "Most analysts expected the increase from 3.75% to 4%."
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-05T12:02:12Z",
+   "published_at": "2026-11-05T17:09:55Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "d39892909fefad327e520794284a120e9dbbff09",
+   "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
+   "summary": [
+    "A consultation will consider fines and other ways to clamp down on dangerous e-bike riders."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-05T15:27:09Z",
    "category": "business",
    "related": []
   },
@@ -45,20 +58,59 @@
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/cmgqw51gdnzyo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-05T12:01:54Z",
+   "published_at": "2026-11-05T15:19:36Z",
    "category": "business",
    "related": []
   },
   {
-   "id": "bfd986f81986953748649f2ed1aa573279446fb2",
-   "title": "Interest rates hiked to 4% in first increase in over three years",
+   "id": "c6585b5b1b1d177d9657924ffc2fcacdd811d6c7",
+   "title": "Debt of poorest countries at record $9.4tn high, World Bank data shows",
    "summary": [
-    "Most analysts expected the increase from 3.75% to 4%."
+    "Cost of servicing external debt is preventing developing countries from investing for futureDebt owed by developing countries rose to a record $9.4tn (£7tn) last year, with the poorest paying the highest interest rates since the late 1980s, World Bank data shows.The UK government is preparing to champion a “new drive on debt” as part of its presidency of the G20 next year – a move the prime minister, Andy Burnham, has linked to confronting the legacy of slavery."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/05/developing-country-debt-record-94tn-high-world-bank-data",
+   "image": "https://i.guim.co.uk/img/media/85f4db268f9e270df6f680d2524c254755da2af2/202_0_3755_3004/master/3755.jpg?width=140&quality=85&auto=format&fit=max&s=64f01f64c40df4c1fa475f6395c445f1",
+   "published_at": "2026-11-05T14:30:25Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "b892ceee22fdb45cc24554a5d405ef425d542522",
+   "title": "What does the raise in interest rates mean?",
+   "summary": [
+    "The BBC's cost of living correspondent Kevin Peachey explains what the change could mean for those saving for a holiday or to buying a house."
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/c9kgjvmn4vlno?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-05T12:00:29Z",
+   "published_at": "2026-11-05T14:02:24Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "4f1186279f4e9b2e592461e3ade168a87a377732",
+   "title": "Faisal Islam: How high will interest rates go?",
+   "summary": [
+    "The BBC's economics editor views one more interest rate as likely, but thinks that will be all."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-05T13:17:10Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "ebf53c76bc0ccbbda2c37e53300c5084f919b8be",
+   "title": "Three ways the interest rate rise could affect you",
+   "summary": [
+    "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-05T13:08:30Z",
    "category": "business",
    "related": []
   },
@@ -76,15 +128,15 @@
    "related": []
   },
   {
-   "id": "d39892909fefad327e520794284a120e9dbbff09",
-   "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
+   "id": "62d367a8bbe9496991acb0930ef9471ea1175d35",
+   "title": "Rural voters were feeling left behind before the midterms, poll shows",
    "summary": [
-    "A consultation will consider fines and other ways to clamp down on dangerous e-bike riders."
+    "By October, 61% of voters believed the country was experiencing a recession, even though technically it wasn’t."
    ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-05T10:04:51Z",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/05/former-trump-voters-economy",
+   "image": "https://i.guim.co.uk/img/media/5feaf034b448cd4570f9ab8900aa709e74ef9e07/452_0_4997_3999/master/4997.jpg?width=140&quality=85&auto=format&fit=max&s=b464ed158e8a7f51a2184f93c180ea83",
+   "published_at": "2026-11-05T11:00:22Z",
    "category": "business",
    "related": []
   },
@@ -116,9 +168,9 @@
   },
   {
    "id": "81edee9bcdaaddffd9e38c6544232bfd88d341cc",
-   "title": "Food, fuel and taxes – can the Democrats do anything to ease cost of living pressures?",
+   "title": "Food, fuel and taxes – can the Democrats actually make life cheaper?",
    "summary": [
-    "Democrats will hold Congress but President Donald Trump still has the power to block their plans."
+    "Their message on cost of living resonated with voters."
    ],
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/ck1ex50x5q46o?at_medium=RSS&at_campaign=rss",
@@ -215,19 +267,6 @@
    "url": "https://www.bbc.co.uk/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-04T10:47:31Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "7b4412b96807ee7a0780476f626ce16a07a6a978",
-   "title": "Swim and gym prices set to rise above inflation",
-   "summary": [
-    "The rises would impact Perdiswell, St John's Sports Centre and Nunnery Wood Sports Complex."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6pvgw8gz1k4o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-04T06:13:19Z",
    "category": "business",
    "related": []
   }
