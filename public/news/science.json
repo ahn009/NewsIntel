@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-06T09:16:59.277600Z",
- "story_count": 12,
+ "generated_at": "2026-11-06T17:25:01.874290Z",
+ "story_count": 22,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -24,6 +24,153 @@
  },
  "stories": [
   {
+   "id": "9a27a57e9fe73945312e87581cbceb5a45aaaf90",
+   "title": "How climate change worsens heatwaves, droughts, wildfires and floods",
+   "summary": [
+    "Rising global temperatures mean extreme weather events are becoming more common and more intense."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-06T16:43:30Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "0ccf28b337e9fd401afaccb3024d211a9bee98d7",
+   "title": "A really simple guide to climate change",
+   "summary": [
+    "Human activities are causing the world to heat up, posing serious threats to people and nature."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c9w15nggj58o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-06T16:40:51Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "e50f1cdb13d6339ad7b2922d7b257a76031efdbe",
+   "title": "What is the Paris Agreement and why does 1.5C matter?",
+   "summary": [
+    "The 2015 pact is at the heart of the international commitment to tackle rising global temperatures."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c93d59d4zy1o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-06T16:39:07Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "374d4a7163da79509df63ad3c2e8876184b589b5",
+   "title": "What is net zero and is the UK on track to achieve it?",
+   "summary": [
+    "Reaching net zero carbon emissions worldwide is essential to limit global warming, UN scientists say."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cx238yyr40qo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-06T16:22:51Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "7d2735033d3ad54f90cb59b3bdbcffbbfb7d4d6a",
+   "title": "Wales scraps controversial Uganda tree-planting scheme",
+   "summary": [
+    "The Welsh government has given more than £4m to the scheme since 2015, but will end it due to budget pressures."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqm26m2l4p7eo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-06T15:27:44Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "4fa5446fd4c0ade31279abadb1466264a72de0ab",
+   "title": "US rockets firm eyes up mothballed Highland spaceport",
+   "summary": [
+    "Colorado-based Leap is looking at the spaceport near Tongue as its first launch site outside of the US."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmrlyy5xw276o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-06T12:47:23Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "9c41a513889c8d4f12b61e2cc8e68d0645638693",
+   "title": "Scientists just found dinosaur blood that survived 115 million years",
+   "summary": [
+    "Scientists have discovered chemically confirmed traces of ancient blood inside 115-million-year-old dinosaur bones, challenging assumptions about how long biological molecules can survive.",
+    "The extraordinary preservation could unlock new clues about dinosaur physiology and even help scientists search for ancient life elsewhere in the universe."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261105224542.htm",
+   "image": null,
+   "published_at": "2026-11-06T11:28:01Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "17ddde8d0034734eecf8d07b7b815cad18f9989d",
+   "title": "Could you live on a remote island as a job?",
+   "summary": [
+    "The new manager will start each workday surrounded by nature at the island wildlife reserve."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/c6kg77jqpwk2o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-06T10:14:18Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "2cd94d21b408ddb2ded287783a6d8fbdc1bdb69c",
+   "title": "Five-inch-long beetle larvae are quietly destroying blueberry roots",
+   "summary": [
+    "Scientists have solved a mystery surrounding destructive beetles attacking blueberry bushes in North Carolina, identifying a species whose massive larvae can grow up to five inches long and destroy plant roots.",
+    "Although farmers have reported damage for more than a decade, the insects responsible remained unidentified until researchers used DNA analysis to uncover the culprit."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261103003200.htm",
+   "image": null,
+   "published_at": "2026-11-06T09:33:36Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "835761b55cc5f013600313dc2cddae354341726c",
+   "title": "Don't miss: Meteor showers, fireballs, and a supermoon light up November's night sky",
+   "summary": [
+    "November's night sky is packed with celestial wonders, from bright meteor fireballs and a close pairing of Mars and Jupiter to a spectacular supermoon.",
+    "Meanwhile, NASA's Voyager 1 is making history by becoming the first spacecraft to reach a distance of one light-day from Earth."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261105224547.htm",
+   "image": null,
+   "published_at": "2026-11-06T08:21:08Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "ffaae19f99e2ef8da4e584fa2e1e539fa046b04a",
+   "title": "NASA’s Swift telescope falls to Earth after nearly 22 years in space",
+   "summary": [
+    "After nearly 22 years of exploring the universe’s most violent explosions, NASA’s Swift Observatory has re-entered Earth’s atmosphere over Indonesia.",
+    "Originally designed to last just two years, the pioneering space telescope transformed our understanding of black holes, exploding stars, and mysterious cosmic outbursts."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261105224545.htm",
+   "image": null,
+   "published_at": "2026-11-06T07:12:55Z",
+   "category": "science",
+   "related": []
+  },
+  {
    "id": "d4d0c401b0d9951c712ab2ce4b099661dcb2cad6",
    "title": "'Extra special' tamarin twins born at zoo",
    "summary": [
@@ -37,6 +184,21 @@
    "related": []
   },
   {
+   "id": "225ab5981c9df5b6cfec87a41a6d9c100bcb402a",
+   "title": "Dead stars could break one of physics' most famous limits",
+   "summary": [
+    "A surprising new discovery suggests that some dead stars can grow far more massive than scientists once thought possible.",
+    "Computer simulations show that powerful magnetic fields could allow white dwarfs to reach 2.4 times the mass of the Sun, dramatically exceeding a famous limit that has stood for decades.",
+    "The findings could help explain unusually bright supernova explosions that have long puzzled astronomers."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261102202835.htm",
+   "image": null,
+   "published_at": "2026-11-06T03:11:09Z",
+   "category": "science",
+   "related": []
+  },
+  {
    "id": "39029a1fb0f18621f605ce08f46bf0c82295ffbd",
    "title": "Could the earliest weakening of the polar vortex on record bring UK snow?",
    "summary": [
@@ -46,6 +208,21 @@
    "url": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-06T01:22:39Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "794bc3250f5793ced19c65f3097517be264d1bb2",
+   "title": "An anti-aging drug may help protect the brain before Alzheimer's symptoms begin",
+   "summary": [
+    "A surprising new study suggests that an anti-aging drug could help protect people genetically predisposed to Alzheimer's disease.",
+    "Researchers found that just four weeks of low-dose rapamycin improved brain blood flow in healthy middle-aged adults carrying the high-risk APOE4 gene variant, with women showing the strongest benefits.",
+    "Because declining blood flow can occur years before Alzheimer's symptoms appear, the discovery raises hopes for preventing or delaying the disease before memory loss begins."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261104084017.htm",
+   "image": null,
+   "published_at": "2026-11-06T01:11:19Z",
    "category": "science",
    "related": []
   },
@@ -132,19 +309,6 @@
    "related": []
   },
   {
-   "id": "e176928d6a96d8d7e61ef426d06a8b7dbc3f678d",
-   "title": "Google refused 54K-name petition, say campaigners",
-   "summary": [
-    "Campaigners oppose the development of a large data centre on a wildlife site at Thurrock."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c5ev3wm3ng42o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-05T11:30:03Z",
-   "category": "science",
-   "related": []
-  },
-  {
    "id": "4a9bb134f643a6e1d45d5b17a12162e596a772ac",
    "title": "Scientists solve 30-year-old mystery and discover a hidden defense against inflammation",
    "summary": [
@@ -155,34 +319,6 @@
    "url": "https://www.sciencedaily.com/releases/2026/11/261101010554.htm",
    "image": null,
    "published_at": "2026-11-05T11:05:46Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "ac4413a3e10a16405d5012c872b96d90aa825e83",
-   "title": "Scientists turn viruses into weapons against deadly superbugs",
-   "summary": [
-    "Scientists are advancing a promising new way to fight antibiotic-resistant infections by using viruses that specifically target and kill harmful bacteria.",
-    "An international team has released the first coordinated guidelines for personalized phage therapy, offering a roadmap for safely bringing this experimental treatment into clinical practice.",
-    "Early findings are encouraging, with one study reporting improvement in 77% of patients and the disappearance of targeted bacteria in 61%."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261102202828.htm",
-   "image": null,
-   "published_at": "2026-11-05T02:40:33Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "7cdab45567231a47651a1d87755d46f6ee1b2ded",
-   "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
-   "summary": [
-    "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-04T23:12:47Z",
    "category": "science",
    "related": []
   }

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T09:16:59.276770Z",
+ "generated_at": "2026-11-06T17:25:01.873415Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -24,28 +24,446 @@
  },
  "stories": [
   {
-   "id": "cbe2ba7d2f63b14f91a7ae172042908b9ec05932",
-   "title": "Living Maps: Bay Area tech since 1960s",
+   "id": "ef57b5d475853af99a9e9ecaf8a562acc5ba28cc",
+   "title": "After the midterms, is the AI industry in for a rough two years?",
    "summary": [
-    "Article URL: https://tomorrowasusual.com/living-maps/bay-area-tech/ Comments URL: https://news.ycombinator.com/item?id=50389498 Points: 4 # Comments: 3"
+    "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry.",
+    "The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development.",
+    "And even when data centers weren’t on the ballot directly, they were a […]"
    ],
-   "source": "Hacker News",
-   "url": "https://tomorrowasusual.com/living-maps/bay-area-tech/",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
    "image": null,
-   "published_at": "2026-11-06T08:08:19Z",
+   "published_at": "2026-11-06T17:23:52Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "4d8ea370c2b887d1cb15ff4e1b96ff49f97460f5",
-   "title": "App Store 2026 in numbers: AI, pricing, abandoned apps",
+   "id": "6d4b91e6a38caceda1e61f98687baf66dd20e5f0",
+   "title": "UpCodes (YC S17) is hiring SDR's to sell AI compliance software",
    "summary": [
-    "Article URL: https://obelisk.club/research/app-store-2026 Comments URL: https://news.ycombinator.com/item?id=50389448 Points: 15 # Comments: 6"
+    "Article URL: https://up.codes/careers?utm_source=HN Comments URL: https://news.ycombinator.com/item?id=50395043 Points: 0 # Comments: 0"
    ],
    "source": "Hacker News",
-   "url": "https://obelisk.club/research/app-store-2026",
+   "url": "https://up.codes/careers?utm_source=HN",
    "image": null,
-   "published_at": "2026-11-06T07:59:19Z",
+   "published_at": "2026-11-06T17:03:33Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "20c1278149bb3591dcac0d89aff35387e72dade9",
+   "title": "First steps in bare-metal programming using UEFI",
+   "summary": [
+    "Article URL: https://kevinboone.me/efitest_index.html Comments URL: https://news.ycombinator.com/item?id=50394855 Points: 8 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://kevinboone.me/efitest_index.html",
+   "image": null,
+   "published_at": "2026-11-06T16:50:29Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "81e4cffc9954641961818db0687f4d8853dee425",
+   "title": "Pentagon offers battery startup 6K $250M loan to build U.S. factory",
+   "summary": [
+    "The Pentagon has conditionally approved a $250 million loan to help 6K scale up its microwave-plasma battery material manufacturing process."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
+   "image": null,
+   "published_at": "2026-11-06T16:50:01Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "af363febb52f0a7805640e2b9b44f6ee564c678c",
+   "title": "Scriptable GeoDNS: Leaving AWS for Bunny",
+   "summary": [
+    "Article URL: https://vincent.bernat.ch/en/blog/2026-bunny-geodns Comments URL: https://news.ycombinator.com/item?id=50394292 Points: 4 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://vincent.bernat.ch/en/blog/2026-bunny-geodns",
+   "image": null,
+   "published_at": "2026-11-06T16:15:03Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "51396ab0f1383e4eac690789dc960d9a1694886e",
+   "title": "Promethevs: Full DeepSeek-v4.1-Flash-1017, locally, on 12GB of VRAM",
+   "summary": [
+    "Article URL: https://github.com/Magnvs7/Promethevs Comments URL: https://news.ycombinator.com/item?id=50394288 Points: 6 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/Magnvs7/Promethevs",
+   "image": null,
+   "published_at": "2026-11-06T16:14:47Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "6654bc4a3a64c64662cb1d3bbbd23502988062c2",
+   "title": "Could the US midterms burst the AI bubble?",
+   "summary": [
+    "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-06T16:14:23Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "f959e165337451c71c8fb9801ca5abe1d0d4740c",
+   "title": "Fox completes its $22B acquisition of Roku",
+   "summary": [
+    "A few months after DOJ investigators were probing the deal, Fox just completed its $22B acquisition of the streaming giant Roku."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
+   "image": null,
+   "published_at": "2026-11-06T16:05:36Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "7c70b636a2cf1bbd255f523485aaf71f014c5274",
+   "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+   "summary": [
+    "AI usage keeps climbing, but spending has stalled.",
+    "Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+   "image": null,
+   "published_at": "2026-11-06T15:54:47Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "586df0c94182c7883b25551210e67f4872457612",
+   "title": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
+   "summary": [
+    "(C) Centralize tool approvals and audit logging.We built AIB to fill an infrastructure gap in our own agent platform.",
+    "At this moment in time, IETF working groups are still finalizing standards for agent identity, and vendors are still turning the necessary infrastructure into off-the-shelf products.",
+    "We needed that infrastructure today.How it works: the user consents once per agent and service."
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/zalando-incubator/agentic-identity-broker",
+   "image": null,
+   "published_at": "2026-11-06T15:07:47Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "f5d40ebb64e04f72baa30db2a42979f9084cebad",
+   "title": "FAA Begins Retiring Decades Old Floppy Disks from Air Traffic Control",
+   "summary": [
+    "Article URL: https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air Comments URL: https://news.ycombinator.com/item?id=50393183 Points: 71 # Comments: 42"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air",
+   "image": null,
+   "published_at": "2026-11-06T15:03:24Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "d0315f121c0299e90dc3f76d381c475a6096f07c",
+   "title": "Where Each U.S. State Gets Its Tax Revenue From",
+   "summary": [
+    "Article URL: https://www.visualcapitalist.com/where-each-states-tax-revenue-comes-from/ Comments URL: https://news.ycombinator.com/item?id=50393165 Points: 43 # Comments: 22"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.visualcapitalist.com/where-each-states-tax-revenue-comes-from/",
+   "image": null,
+   "published_at": "2026-11-06T15:02:07Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "bf12c6e05c441cf1b15dd3b5810268504cd92008",
+   "title": "RIP Cybertruck",
+   "summary": [
+    "Article URL: https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/ Comments URL: https://news.ycombinator.com/item?id=50393154 Points: 228 # Comments: 313"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/",
+   "image": null,
+   "published_at": "2026-11-06T15:01:38Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "bf2720faad4004ab6aed7713d7edae27faf0ac5f",
+   "title": "The 36 best Christmas gifts in the UK for every kind of teenager – chosen by teens",
+   "summary": [
+    "We also made sure to ask a broad range of teens – from book lovers to tech fiends and plenty in between – to try to represent the myriad tastes of this age group."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/thefilter/2026/nov/06/best-christmas-gifts-teenagers-uk",
+   "image": "https://i.guim.co.uk/img/media/204c00013989f6f2f22fe56adc9ec75406a3634b/242_154_3718_2974/master/3718.jpg?width=140&quality=85&auto=format&fit=max&s=0ed81f5910c91bff27245412abfb4812",
+   "published_at": "2026-11-06T15:00:44Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "49db83e253edbf0771d468b99bafbdd0476979fa",
+   "title": "Ask HN: What in the world is taking Ubuntu so long?",
+   "summary": [
+    "Ubuntu has CVE-2026-98432 marked as a 9.8, but yet it's coming up on a week with no update to fix it.",
+    "It's still marked as \"work in progress\" (though at least now they've listed a mitigation):https://ubuntu.com/security/CVE-2026-98432I've had mitigations in place for a week, but this response is really shaking my confidence in Ubuntu.",
+    "I'm just trying to understand what is going on with Ubuntu."
+   ],
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50393105",
+   "image": null,
+   "published_at": "2026-11-06T14:58:33Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "1920b48c76531d996236eaa0e318c73f814293e7",
+   "title": "Lippitt-Knoster in Practice (Field Notes for Managing Complex Projects)",
+   "summary": [
+    "Article URL: https://sharedphysics.com/lippitt-knoster-in-practice-field-notes-for-managing-complex-projects/ Comments URL: https://news.ycombinator.com/item?id=50393089 Points: 22 # Comments: 1"
+   ],
+   "source": "Hacker News",
+   "url": "https://sharedphysics.com/lippitt-knoster-in-practice-field-notes-for-managing-complex-projects/",
+   "image": null,
+   "published_at": "2026-11-06T14:57:16Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "255a39d766325238e9d05f4482d702ac916f0067",
+   "title": "MTG-I2 First Images",
+   "summary": [
+    "Article URL: https://www.eumetsat.int/mtg-i2-first-images Comments URL: https://news.ycombinator.com/item?id=50392787 Points: 19 # Comments: 2"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.eumetsat.int/mtg-i2-first-images",
+   "image": null,
+   "published_at": "2026-11-06T14:35:29Z",
+   "category": "tech",
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://www.filfre.net/2026/11/deus-ex/"
+    }
+   ]
+  },
+  {
+   "id": "c63019ae7846985dacd6459b30014d009a0d7014",
+   "title": "University libraries are being swarmed by AI bots, putting public access at risk",
+   "summary": [
+    "Article URL: https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287 Comments URL: https://news.ycombinator.com/item?id=50392499 Points: 82 # Comments: 37"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+   "image": null,
+   "published_at": "2026-11-06T14:13:09Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "4a6109d50595a1932f9594e6833264ccc3415e82",
+   "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+   "summary": [
+    "Amazon said that the feature will roll out to millions of users in coming weeks."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+   "image": null,
+   "published_at": "2026-11-06T14:10:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "6d64941928f18c9a6e5b4f501cdde87bbaa2f591",
+   "title": "Fearing AI disruption, white-collar workers are quitting their jobs",
+   "summary": [
+    "While there’s no evidence linking AI to mass layoffs, the tech has already ‘changed worker psychology’When artificial intelligence researcher Mrinank Sharma quit his job at Anthropic earlier this year, the news rippled across the internet.",
+    "In his resignation letter, posted on X and viewed 15.3m times, Sharma warned of a world “in peril” from the technology he had helped build.“It is clear to me the time has come to move on,” he wrote."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/06/ai-disruption-job-quitting",
+   "image": "https://i.guim.co.uk/img/media/cc5b8c0e7695f4ff8f85fabfe7e45245dba4b777/1828_516_3920_3136/master/3920.jpg?width=140&quality=85&auto=format&fit=max&s=3fdfa4c47a0cedecc7169d9fa1389746",
+   "published_at": "2026-11-06T14:00:45Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "d7e9e3e89ee778d6f0e0cdfdb8adebe3fbc25559",
+   "title": "Gemini Omni 1.2 Flash",
+   "summary": [
+    "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/ Comments URL: https://news.ycombinator.com/item?id=50392118 Points: 193 # Comments: 148"
+   ],
+   "source": "Hacker News",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+   "image": null,
+   "published_at": "2026-11-06T13:35:27Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "b43a95e51bed2bb6e2e439fe35b92d1ff7679dce",
+   "title": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
+   "summary": [
+    "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-06T13:25:50Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a394d9aad7a2ef1699f9615afdff4162736f0413",
+   "title": "Underdog shows off a 32MB speech model in new demo",
+   "summary": [
+    "Despite its small size, Underdog's new model can generate both speech and music."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+   "image": null,
+   "published_at": "2026-11-06T13:02:16Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "897148a24bb0b9f05763bd8ac0da0770678e5c55",
+   "title": "The Legend of Zelda: Ocarina of Time has revived the midnight game launch – but was it worth the wait?",
+   "summary": [
+    "When the clock strikes midnight, the lavish 4K Switch 2 remake of beloved N64 classic The Legend of Zelda: Ocarina of Time will be released, and I have joined a lengthy queue of about 500 fans desperate to snag early copies.",
+    "But in a bygone era, when we used to go to shops to buy games, midnight launches offered a space for likeminded enthusiasts to gather and celebrate their fandom.",
+    "Every Call of Duty, Halo or Grand Theft Auto release would have fans queueing outside branches of Game or Electronics Boutique, many dressed as favourite characters."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/games/2026/nov/06/the-legend-of-zelda-ocarina-of-time-midnight-game-launch",
+   "image": "https://i.guim.co.uk/img/media/6faa0bb9c9a766ed30a17dc1d250c2c3f315b6f4/250_238_7202_5762/master/7202.jpg?width=140&quality=85&auto=format&fit=max&s=2278ae4ff2513e8c78e601c2cb94663b",
+   "published_at": "2026-11-06T13:00:43Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "1f3694f5e3c91711fca9880f543e3b204d6f74d4",
+   "title": "Physicl raises $10M to make the digital world real enough for robots",
+   "summary": [
+    "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+   "image": null,
+   "published_at": "2026-11-06T13:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "7fda1dbd7e2317cde171b290b96fa389070ff7bc",
+   "title": "Measles, mumps and misinformation: how Crunchy Moms became ‘the most dangerous’ group on Facebook",
+   "summary": [
+    "They were considering getting their three-year-old vaccinated, in part to protect their six-month-old.“I’m nervous for my baby,” the parent wrote."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/06/crunchy-moms-facebook-vaccines",
+   "image": "https://i.guim.co.uk/img/media/03a82c3073c26abbf8d1d9523115a15b393db5e5/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=ba8c493aa12711e4a90c560fe46fcde2",
+   "published_at": "2026-11-06T12:00:41Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "b840037bb54ac5652733f2f5f582e25d83cd7d0b",
+   "title": "Tesla will stop making the Cybertruck in 2027",
+   "summary": [
+    "Elon Musk said the company will use the factory space to make more Cybercabs."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+   "image": null,
+   "published_at": "2026-11-06T11:50:10Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "4037c0f61ee98650026442e2d410dddeffd67b84",
+   "title": "We've built an open-source feature flag server for 11 years",
+   "summary": [
+    "Article URL: https://github.com/Unleash/unleash Comments URL: https://news.ycombinator.com/item?id=50391145 Points: 97 # Comments: 61"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/Unleash/unleash",
+   "image": null,
+   "published_at": "2026-11-06T11:40:06Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "83acf75ad16227a00b287cc3b580f1a1079e1344",
+   "title": "Russia and US seek to block plan for binding rules on autonomous weapons",
+   "summary": [
+    "UN conference this month seen as key moment after years of discussions on filling gap in governance of AI systemsPlans to fill a gap in the global governance of autonomous weapons are in jeopardy as a group of nations led by Russia and the US move to use a UN conference this month to block proposals to negotiate a legally binding set of rules.The scale of the opposition will become clear at a diplomatic retreat starting on Friday before the seventh review conference on “certain conventional weapons” in Geneva due to be attended by 128 countries from 16 to 20 November."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/06/autonomous-weapons-ai-russia-us-binding-rules",
+   "image": "https://i.guim.co.uk/img/media/2b97461e84807bb32749b118516d8352f35b3813/781_0_4661_3731/master/4661.jpg?width=140&quality=85&auto=format&fit=max&s=3dc5cfabfab5dd9995ff8599e96cea6a",
+   "published_at": "2026-11-06T11:08:33Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "eddee53c24b61f405e52ff2e395e230d848ad17e",
+   "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
+   "summary": [
+    "Article URL: https://jhr.pensoft.net/articles.php?id=9096 Comments URL: https://news.ycombinator.com/item?id=50390525 Points: 120 # Comments: 41"
+   ],
+   "source": "Hacker News",
+   "url": "https://jhr.pensoft.net/articles.php?id=9096",
+   "image": null,
+   "published_at": "2026-11-06T10:21:15Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "25a6a123ca912b950de636c9fc4f320af8200f54",
+   "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+   "summary": [
+    "Article URL: https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105 Comments URL: https://news.ycombinator.com/item?id=50390124 Points: 525 # Comments: 323"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+   "image": null,
+   "published_at": "2026-11-06T09:27:12Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "3b78672d47e119baacf70de028ebfdb7ae018343",
+   "title": "AI for scientific discovery: How researchers use Claude",
+   "summary": [
+    "Article URL: https://www.anthropic.com/research/how-researchers-use-claude Comments URL: https://news.ycombinator.com/item?id=50389990 Points: 52 # Comments: 10"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.anthropic.com/research/how-researchers-use-claude",
+   "image": null,
+   "published_at": "2026-11-06T09:13:30Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a2e585ed9b09bee3dade1da04d9f28fda187b2c8",
+   "title": "Chomsky and the Two Cultures of Statistical Learning (2011)",
+   "summary": [
+    "Article URL: https://www.norvig.com/chomsky.html Comments URL: https://news.ycombinator.com/item?id=50389570 Points: 58 # Comments: 32"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.norvig.com/chomsky.html",
+   "image": null,
+   "published_at": "2026-11-06T08:18:36Z",
    "category": "tech",
    "related": []
   },
@@ -53,90 +471,12 @@
    "id": "c5045ba62773651c44a1fa044197bdfe42ae027b",
    "title": "Multiplayer tanks that demolish real buildings from OpenStreetMap",
    "summary": [
-    "Article URL: https://worldstrike.fun/ Comments URL: https://news.ycombinator.com/item?id=50389420 Points: 18 # Comments: 3"
+    "Article URL: https://worldstrike.fun/ Comments URL: https://news.ycombinator.com/item?id=50389420 Points: 144 # Comments: 89"
    ],
    "source": "Hacker News",
    "url": "https://worldstrike.fun/",
    "image": null,
    "published_at": "2026-11-06T07:55:48Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "d38af5d863024a8d065cc5d8ecb5198913987668",
-   "title": "Global stocks tumble as AI panic grips markets after Democrats' midterm success",
-   "summary": [
-    "Article URL: https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates Comments URL: https://news.ycombinator.com/item?id=50389401 Points: 11 # Comments: 0"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates",
-   "image": null,
-   "published_at": "2026-11-06T07:52:53Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "df89720934dec725b234d6264d03bb9f5cbf555f",
-   "title": "Kugelblitz – Mac-Native Google Earth Alternative",
-   "summary": [
-    "Article URL: https://apps.metaebene.me/en/kugelblitz Comments URL: https://news.ycombinator.com/item?id=50389370 Points: 28 # Comments: 2"
-   ],
-   "source": "Hacker News",
-   "url": "https://apps.metaebene.me/en/kugelblitz",
-   "image": null,
-   "published_at": "2026-11-06T07:47:38Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "3a41e347243261e3a7eb95ec4a70d1ee9825678a",
-   "title": "Blender's UI and Runtime: Much Faster Than GPUI",
-   "summary": [
-    "Article URL: https://github.com/ppmpreetham/BUI Comments URL: https://news.ycombinator.com/item?id=50389333 Points: 71 # Comments: 18"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/ppmpreetham/BUI",
-   "image": null,
-   "published_at": "2026-11-06T07:40:35Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "6695e7484e3126095b0a4b9639f109cefcc66ac0",
-   "title": "Hardcoded credentials and other issues in Tata Motors App",
-   "summary": [
-    "Article URL: https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0537 Comments URL: https://news.ycombinator.com/item?id=50389260 Points: 11 # Comments: 3"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0537",
-   "image": null,
-   "published_at": "2026-11-06T07:28:39Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "b43a95e51bed2bb6e2e439fe35b92d1ff7679dce",
-   "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
-   "summary": [
-    "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-06T07:27:26Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "1fd1a3dfad135fddf147b79799f35fca3184deb7",
-   "title": "Britain to make salary disclosure in job ads mandatory",
-   "summary": [
-    "Article URL: https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/ Comments URL: https://news.ycombinator.com/item?id=50389222 Points: 109 # Comments: 75"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
-   "image": null,
-   "published_at": "2026-11-06T07:22:04Z",
    "category": "tech",
    "related": []
   },
@@ -163,58 +503,6 @@
    "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
    "image": null,
    "published_at": "2026-11-06T06:28:32Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "ad7cf1f4b65d3725d421fbfee8a26f7979078a29",
-   "title": "I struggle to believe that AI R&D is ingenious",
-   "summary": [
-    "Article URL: https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL Comments URL: https://news.ycombinator.com/item?id=50388513 Points: 69 # Comments: 51"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
-   "image": null,
-   "published_at": "2026-11-06T05:19:04Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "24b0a9d1f60ce9857e0e7fa71a1d5eb90bc84bfa",
-   "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
-   "summary": [
-    "Article URL: https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/ Comments URL: https://news.ycombinator.com/item?id=50388122 Points: 68 # Comments: 30"
-   ],
-   "source": "Hacker News",
-   "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
-   "image": null,
-   "published_at": "2026-11-06T04:17:49Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "b95f6aa29001e5a7c2d835487a1f161969aa5b29",
-   "title": "Nvidia Kubernetes Engine (NVKE)",
-   "summary": [
-    "Article URL: https://github.com/dsx-ai-factory/nvke Comments URL: https://news.ycombinator.com/item?id=50387738 Points: 73 # Comments: 19"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/dsx-ai-factory/nvke",
-   "image": null,
-   "published_at": "2026-11-06T03:16:26Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "8a3c39376664bf00e5f88cebf2225b7907a5a28f",
-   "title": "MoofTCP – A modern replacement for MacTCP on 68k Macs",
-   "summary": [
-    "Article URL: https://github.com/matthewmrichter/mooftcp Comments URL: https://news.ycombinator.com/item?id=50386789 Points: 44 # Comments: 20"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/matthewmrichter/mooftcp",
-   "image": null,
-   "published_at": "2026-11-06T00:54:15Z",
    "category": "tech",
    "related": []
   },
@@ -258,19 +546,6 @@
    "related": []
   },
   {
-   "id": "6f78e24cdb5b04f2b7b58a11152bdb26c3e7204e",
-   "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-   "summary": [
-    "Article URL: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html Comments URL: https://news.ycombinator.com/item?id=50385870 Points: 309 # Comments: 143"
-   ],
-   "source": "Hacker News",
-   "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
-   "image": null,
-   "published_at": "2026-11-05T23:09:57Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "1eac7fe42e873b214d34725a063d1c6dd8d3ef25",
    "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
    "summary": [
@@ -280,272 +555,6 @@
    "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
    "image": null,
    "published_at": "2026-11-05T22:40:55Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "3b58ffb304e7b124cccfb142a59a8052fc0d1e06",
-   "title": "Claude Code sends your email address to websites",
-   "summary": [
-    "Article URL: https://github.com/anthropics/claude-code/issues/107757 Comments URL: https://news.ycombinator.com/item?id=50385272 Points: 1073 # Comments: 334"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/anthropics/claude-code/issues/107757",
-   "image": null,
-   "published_at": "2026-11-05T22:17:15Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "dcb771ac66309941ffbb7674083b18977cd6427d",
-   "title": "Nasdaq sees worst day in 19 months as investors bet on AI slowdown after Democrats’ election triumph",
-   "summary": [
-    "The tech-heavy index had its biggest one-day fall since Donald Trump announced his “liberation day” tariffs on US trading partners in April 2025."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses",
-   "image": "https://i.guim.co.uk/img/media/3a568c8ddd6dd680b69418b3c568815a7cbbea29/261_0_3478_2784/master/3478.jpg?width=140&quality=85&auto=format&fit=max&s=06500e89cb38f5ecdd58baa634d2acb4",
-   "published_at": "2026-11-05T21:23:18Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "e017e0e5b6c6d213e9e2a22aa8cf4a6913991858",
-   "title": "Serve Robotics launches new business to become the AWS for robots",
-   "summary": [
-    "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
-   "image": null,
-   "published_at": "2026-11-05T21:15:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "cf35ff0ba3dabfe9cce82f23e9c0f629e83f0896",
-   "title": "Google, Meta and TikTok sue California to block law protecting children from addiction risk",
-   "summary": [
-    "It also requires the deletion of children’s accounts with those features."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/05/california-children-social-media-lawsuit-tiktok-google-meta",
-   "image": "https://i.guim.co.uk/img/media/2e625b0b0dc104fac0991f36acae25500080dbde/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3ca9b7f82baa3bf8a02490736c080090",
-   "published_at": "2026-11-05T21:10:21Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "bcd084fbddc00f6d5f79cf4d92b2bde0e8db0bed",
-   "title": "MS Paint Remote Code Execution Vulnerability",
-   "summary": [
-    "Article URL: https://www.cve.org/CVERecord?id=CVE-2026-83844 Comments URL: https://news.ycombinator.com/item?id=50384233 Points: 525 # Comments: 189"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
-   "image": null,
-   "published_at": "2026-11-05T20:43:42Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "3c0e84566a0e25faec8c7735bdef975da8b58d6a",
-   "title": "Meta says US users can now video chat with their Muse AI avatar",
-   "summary": [
-    "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-   "image": null,
-   "published_at": "2026-11-05T19:48:28Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "2e06a7a163b7d0a271f25e5ca663092b3c3a9a86",
-   "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-   "summary": [
-    "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-   "image": null,
-   "published_at": "2026-11-05T19:12:39Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "c0ab0888e5e72c1e521d48f843dd65ebea61c9ff",
-   "title": "The Hackintosh Reborn",
-   "summary": [
-    "Article URL: https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/ Comments URL: https://news.ycombinator.com/item?id=50383057 Points: 305 # Comments: 166"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
-   "image": null,
-   "published_at": "2026-11-05T19:08:22Z",
-   "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "https://pwn.college/"
-    }
-   ]
-  },
-  {
-   "id": "ec73671ce52f6e9d29c52ce9c4022f44ad13f0d2",
-   "title": "OpenAI released a new cybersecurity model. Is that enough?",
-   "summary": [
-    "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-   "image": null,
-   "published_at": "2026-11-05T19:06:12Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "953bd109ac0d8666760eb9d98983af6d5d5bf8a8",
-   "title": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
-   "summary": [
-    "A joint U.S. government statement says the hacks are affecting the food, transportation, and healthcare industries after reports of global mass hacks."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
-   "image": null,
-   "published_at": "2026-11-05T18:48:34Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "be1b302213d8d7c92b5a445a572763d0c4a6568e",
-   "title": "Winner of the Prix Goncourt literary prize admits to using AI",
-   "summary": [
-    "Philippe Jaenada told French radio that he used ChatGPT to ‘play with the reader’, after the prize removed a different book from its longlist over allegations of AI useThe winner of France’s most prestigious literary prize has admitted using artificial intelligence while writing his novel, barely a day after collecting an award whose jury had thrown out another book over suspected AI use.Philippe Jaenada, who won the Prix Goncourt on Tuesday for L’Inconnue du quai de Javel (The Unknown Woman of the Quai de Javel), told France Inter radio on Wednesday that he had turned to AI “three times” while writing it."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/books/2026/nov/05/winner-of-the-prix-goncourt-literary-prize-admits-to-using-ai-philippe-jaenada",
-   "image": "https://i.guim.co.uk/img/media/3828a993d195cb9ebff36c53aed34bb94581d25f/299_0_6000_4800/master/6000.jpg?width=140&quality=85&auto=format&fit=max&s=238b427a8fd2e13915e0fcbd73cffd7e",
-   "published_at": "2026-11-05T18:08:58Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "cfd1704d56b5f495a85a08d1ec5674488ba3382c",
-   "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-   "summary": [
-    "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-   "image": null,
-   "published_at": "2026-11-05T18:02:27Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "e492e309bbbc35e2ece54875c51afcb49c83e163",
-   "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
-   "summary": [
-    "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
-   "image": null,
-   "published_at": "2026-11-05T18:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "7b187a5bdc2864190b0605e7efc2bb8ad9934f7d",
-   "title": "Claude can now analyze your spending with its new Personal Finance tool",
-   "summary": [
-    "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-   "image": null,
-   "published_at": "2026-11-05T18:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "f3a0f74ded4b4fa5d393375e84c62499a68f8131",
-   "title": "Harbinger raises $240M after expanding into defense",
-   "summary": [
-    "The Los Angeles-based startup has now raised more than $650 million, and is working on electric trucks, emergency vehicles, and a driverless platform for the military."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
-   "image": null,
-   "published_at": "2026-11-05T17:52:44Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "cb74380025e35bc993115bb10c9f2c5a363d4909",
-   "title": "UK government considers smart glasses ban over secret filming concerns",
-   "summary": [
-    "Minister hints at restriction on selling technology ‘to certain users’ amid worries over surreptitious filming of womenThe government is considering placing restrictions on smart glasses amid concerns the technology is being used to surreptitiously film women, a minister has said.Speaking in the House of Commons, the safeguarding minister, Satvir Kaur, hinted at a ban on selling the technology “to certain users”."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/04/uk-government-considers-smart-glasses-ban-over-secret-filming-concerns",
-   "image": "https://i.guim.co.uk/img/media/4715f465419ef48f670873b52cf277ecc33598de/186_0_4168_3335/master/4168.jpg?width=140&quality=85&auto=format&fit=max&s=3cbfed1bbf2f2888a614772b7b09b79f",
-   "published_at": "2026-11-05T17:21:51Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "b3dde555b22f0fffe06b06e7432e670168210926",
-   "title": "Food delivery startup Wonder files for IPO as it explores its next big bite",
-   "summary": [
-    "Following years of fundraising, acquisitions, and expansion, food delivery startup Wonder is moving closer to becoming a publicly traded company."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
-   "image": null,
-   "published_at": "2026-11-05T17:11:48Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "2846e03446f423d72ed7490c15d4ee7c761f97cc",
-   "title": "Axiom Math wants to keep AI slop out of mathematics",
-   "summary": [
-    "As AI floods math with unchecked proofs, Axiom Math is betting on verification.",
-    "The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-   "image": null,
-   "published_at": "2026-11-05T16:16:45Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "05596a99e079893175af8d2684191dda9fce9301",
-   "title": "Bluesky hit peak usage for the year on election night",
-   "summary": [
-    "Bluesky CEO Toni Schneider said posts and likes doubled during to the U.S. midterm elections on Tuesday."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/05/bluesky-hit-peak-usage-for-the-year-on-election-night/",
-   "image": null,
-   "published_at": "2026-11-05T15:44:58Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "c0298e22e94332d1956d0d2480254706dee53d3e",
-   "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
-   "summary": [
-    "Zipline raised $1.5 billion and ramped up its partnership with Walmart."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
-   "image": null,
-   "published_at": "2026-11-05T15:40:34Z",
    "category": "tech",
    "related": []
   }
