@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-05T20:36:55.335662Z",
- "story_count": 19,
+ "generated_at": "2026-11-06T01:29:21.237035Z",
+ "story_count": 18,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,32 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "226bd7c0051e42960af68356b7e683d85b0a49a1",
+   "title": "'I was asked if I was a crier': Your worst job interviews revealed",
+   "summary": [
+    "Bad job interviews can be horrible to experience in the moment, but there is a lot they can teach us about the world of work"
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-06T00:02:52Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "75b0af2bbdb41e457199d90815ea4cf54c1309f2",
+   "title": "Firms told to publish salaries in job adverts ahead of new law",
+   "summary": [
+    "The goverment argues the change will help jobseekers and could help to prevent pay discrimination."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-05T22:32:02Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "bfd986f81986953748649f2ed1aa573279446fb2",
    "title": "Interest rates hiked to 4% in first increase in over three years",
@@ -193,19 +219,6 @@
    "related": []
   },
   {
-   "id": "fc681865f7e14d915f8bb8ddd35a1d648d7d58c1",
-   "title": "Australia's oldest department store David Jones folds after 188 years",
-   "summary": [
-    "The brand's 38 physical stores and online site will continue to operate while receivers review its operations."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-05T00:59:22Z",
-   "category": "business",
-   "related": []
-  },
-  {
    "id": "8e52d7bfe24861b14bd5227f0b1ba932bbe7e09c",
    "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
    "summary": [
@@ -241,32 +254,6 @@
    "url": "https://www.theguardian.com/us-news/2026/nov/04/cvs-health-pharmacy-insurance",
    "image": "https://i.guim.co.uk/img/media/1ebcef503646c218494ed04a856037e72199a84f/447_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=0e9075f74c0199935b52e419130ba977",
    "published_at": "2026-11-04T15:20:24Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "12a9b3f78dbfa12859fccf819303be70b872b84b",
-   "title": "Trump blamed Fox News for Republican losses even as network’s hosts went easy on him",
-   "summary": [
-    "Fox News pundits hardly criticized the US president in midterms coverage but Trump was still quick to cast blameUS midterms 2026 live – latest updatesTrack live results from all 50 statesTell us: what do you want to know about the midterm election results?In the weeks leading up to Tuesday’s midterm elections, Donald Trump made clear that he would place some blame on his favorite cable channel, Fox News, if his party did poorly.On election day, he didn’t disappoint.This article was amended on 4 November 2026; a previous version incorrectly stated that Karoline Leavitt is Donald Trump’s most recent press secretary, when it is in fact Katie Zacharia."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/04/trump-blames-fox-news-republican-losses",
-   "image": "https://i.guim.co.uk/img/media/de67ae6aae54b626b8a5227703466697b87a5acc/1_0_2999_2400/master/2999.jpg?width=140&quality=85&auto=format&fit=max&s=683cb6af40a4c28e09dbf5bdfed0ab63",
-   "published_at": "2026-11-04T12:30:29Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "7c32c15739c3caefc2e73f9141457a04664a4076",
-   "title": "What's happening to UK interest rates and what does it mean for mortgages?",
-   "summary": [
-    "The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c3dky111m40o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-04T10:47:31Z",
    "category": "business",
    "related": []
   }
