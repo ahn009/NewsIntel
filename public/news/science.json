@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-07T02:42:29.786304Z",
- "story_count": 20,
+ "generated_at": "2026-11-07T09:56:02.315109Z",
+ "story_count": 18,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,19 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "af59daf2e14ab34bd675ef5d88bdce37bee49de1",
+   "title": "New Forest wildfire restoration work begins",
+   "summary": [
+    "Work begins to restore nature to part of the New Forest destroyed by a summer wildfire."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cw98zzn7z04vo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-07T07:14:33Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "11487214155090fac10ba37d55d7c7b3e4dc0cf3",
    "title": "One of the year's most prolific meteor showers to light up the night sky this weekend",
@@ -249,45 +262,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-05T23:16:53Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "64e88711fdee4091d0a4440617ab8b752bda39b1",
-   "title": "BBC Inside Science",
-   "summary": [
-    "A glimpse into the world of the incredibly tiny"
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/sounds/play/w3ct978k?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-05T21:00:00Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "4629beb692878a757f665fffc26cd176e5ab999d",
-   "title": "Over 1,000 tonnes of sewage seen at landfill site",
-   "summary": [
-    "The Environment Agency says it has issued the operator with a series of actions after an inspection."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmp8ggn9gpjjo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-05T20:01:05Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "0987c826d294237afb0a297d23d6ff435a8fdd1e",
-   "title": "Investigation into 'major fish kill' after pollution incident",
-   "summary": [
-    "The pollution caused the death of brown and migratory sea trout in the Inler river."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cx1l36y2d941o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-05T14:51:45Z",
    "category": "science",
    "related": []
   }
