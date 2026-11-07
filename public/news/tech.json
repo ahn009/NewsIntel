@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T23:00:07.768690Z",
+ "generated_at": "2026-11-07T02:42:29.785568Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -24,6 +24,89 @@
  },
  "stories": [
   {
+   "id": "c2107a5a7cf60537f369c36d5ad304c77510a2f1",
+   "title": "Crusoe sells troubled Wyoming data center project to Google",
+   "summary": [
+    "The deal highlights the challenges of developing massive AI data centers."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+   "image": null,
+   "published_at": "2026-11-07T01:40:28Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "f38a17de3acfd3490ef5b06b9d2ad22b6a5a225e",
+   "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
+   "summary": [
+    "Article URL: https://josef.cn/blog/unitree Comments URL: https://news.ycombinator.com/item?id=50400597 Points: 27 # Comments: 10"
+   ],
+   "source": "Hacker News",
+   "url": "https://josef.cn/blog/unitree",
+   "image": null,
+   "published_at": "2026-11-07T01:05:16Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "b42d708d410861770381745a618b06dfca306049",
+   "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+   "summary": [
+    "Article URL: https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/ Comments URL: https://news.ycombinator.com/item?id=50399991 Points: 26 # Comments: 5"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
+   "image": null,
+   "published_at": "2026-11-06T23:37:19Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "68be897c8b54bcd75a9c92a21f06821a33e74f45",
+   "title": "Libghostty 1.0",
+   "summary": [
+    "Article URL: https://mitchellh.com/writing/libghostty-1-0 Comments URL: https://news.ycombinator.com/item?id=50399933 Points: 226 # Comments: 28"
+   ],
+   "source": "Hacker News",
+   "url": "https://mitchellh.com/writing/libghostty-1-0",
+   "image": null,
+   "published_at": "2026-11-06T23:30:52Z",
+   "category": "tech",
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://a90.com/experiments/88x31/"
+    }
+   ]
+  },
+  {
+   "id": "0ec4cf12020c4d40869bb6c8569ba2e130d5eb4d",
+   "title": "Outbound SIP calling is now available to all organizations",
+   "summary": [
+    "Article URL: https://developers.openai.com/api/docs/guides/voice-sip Comments URL: https://news.ycombinator.com/item?id=50399695 Points: 50 # Comments: 33"
+   ],
+   "source": "Hacker News",
+   "url": "https://developers.openai.com/api/docs/guides/voice-sip",
+   "image": null,
+   "published_at": "2026-11-06T23:03:55Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "f296669c2a895af9e09b06362199be59eeb41af5",
+   "title": "Sodium-ion batteries approach cost parity with LFP",
+   "summary": [
+    "Article URL: https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/ Comments URL: https://news.ycombinator.com/item?id=50399657 Points: 137 # Comments: 57"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
+   "image": null,
+   "published_at": "2026-11-06T23:00:46Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "118369de89f061c412ea65c20ee978af918c525e",
    "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
    "summary": [
@@ -37,10 +120,23 @@
    "related": []
   },
   {
+   "id": "54d4f685c5e084994346a6dfd0de8df46a1d970a",
+   "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+   "summary": [
+    "Article URL: https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053 Comments URL: https://news.ycombinator.com/item?id=50399569 Points: 76 # Comments: 34"
+   ],
+   "source": "Hacker News",
+   "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+   "image": null,
+   "published_at": "2026-11-06T22:50:43Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "a065d4b73b45d4ca236bc7578b04ee56c4e3e28a",
    "title": "The Duo apps are coming, says Apple",
    "summary": [
-    "There are now 100K Duo-optimized apps, says Apple, and thousands more arrive daily."
+    "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily."
    ],
    "source": "TechCrunch",
    "url": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
@@ -50,10 +146,23 @@
    "related": []
   },
   {
+   "id": "fc0b940e8d8ff47328e482ddf2cdd392a262753f",
+   "title": "Several Democrats renew calls for datacenter pauses after blue wave",
+   "summary": [
+    "Tech industry fears delays to its multi-trillion dollar infrastructure buildout meant to power artificial intelligence Several newly elected Democrats and Senator Bernie Sanders have renewed calls for datacenter moratoriums in the days after the US midterm elections."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/06/democrats-renew-calls-for-datacenter-pauses",
+   "image": "https://i.guim.co.uk/img/media/970f70f987dc7eac0861b19182f1571b300dab67/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=39df1482a09503c4a3875897aa378d36",
+   "published_at": "2026-11-06T21:14:46Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "5072f0d6af005438b40c2d5c9abe43e47e3432c5",
    "title": "AI is dramatically accelerating AI research",
    "summary": [
-    "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 112 # Comments: 66"
+    "Article URL: https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai Comments URL: https://news.ycombinator.com/item?id=50397994 Points: 212 # Comments: 160"
    ],
    "source": "Hacker News",
    "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
@@ -76,10 +185,23 @@
    "related": []
   },
   {
+   "id": "408898b35a01b8ac4c7e305f0bf6e9d9ca9e1ef8",
+   "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
+   "summary": [
+    "Article URL: https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update Comments URL: https://news.ycombinator.com/item?id=50397711 Points: 42 # Comments: 7"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
+   "image": null,
+   "published_at": "2026-11-06T20:09:14Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "ef2a83f7f3a44d746cc2451560fee6a857699074",
    "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
    "summary": [
-    "Article URL: https://hightouch.com/blog/llm-judges-identity-resolution Comments URL: https://news.ycombinator.com/item?id=50397429 Points: 224 # Comments: 50"
+    "Article URL: https://hightouch.com/blog/llm-judges-identity-resolution Comments URL: https://news.ycombinator.com/item?id=50397429 Points: 352 # Comments: 78"
    ],
    "source": "Hacker News",
    "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
@@ -89,36 +211,10 @@
    "related": []
   },
   {
-   "id": "add023bd20855b0c6dcce353bcec3ea92c6aefb7",
-   "title": "Show HN: Agents infer Lego mechanisms from sources, then animate them",
-   "summary": [
-    "Comments URL: https://news.ycombinator.com/item?id=50397325 Points: 21 # Comments: 0"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0",
-   "image": null,
-   "published_at": "2026-11-06T19:41:20Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "261cec1211f32a1ff0585b4546f4b193f917781b",
-   "title": "As the Japanese countryside empties out, wildlife is disappearing",
-   "summary": [
-    "Article URL: https://e360.yale.edu/digest/japan-depopulation-biodiversity Comments URL: https://news.ycombinator.com/item?id=50397264 Points: 65 # Comments: 33"
-   ],
-   "source": "Hacker News",
-   "url": "https://e360.yale.edu/digest/japan-depopulation-biodiversity",
-   "image": null,
-   "published_at": "2026-11-06T19:36:16Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "f441801c064cce85972f578b6c32c3afb1af080c",
    "title": "Firecracker VM Escape: PwnEscape Part 2",
    "summary": [
-    "Article URL: https://pwn.ai/blog/firecracker-escape Comments URL: https://news.ycombinator.com/item?id=50397219 Points: 122 # Comments: 63"
+    "Article URL: https://pwn.ai/blog/firecracker-escape Comments URL: https://news.ycombinator.com/item?id=50397219 Points: 180 # Comments: 79"
    ],
    "source": "Hacker News",
    "url": "https://pwn.ai/blog/firecracker-escape",
@@ -128,15 +224,15 @@
    "related": []
   },
   {
-   "id": "42cba9fcec781ccc7357dbf9f25cebda6551a61f",
-   "title": "My first and last telegram was from Rebecca West",
+   "id": "69af5f8a122011ad538ccd4f462b04fe25ea9963",
+   "title": "GitHub's new Git storage architecture",
    "summary": [
-    "Article URL: https://thelampmagazine.com/blog/rebecca-wests-nightingale Comments URL: https://news.ycombinator.com/item?id=50397176 Points: 29 # Comments: 6"
+    "Article URL: https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/ Comments URL: https://news.ycombinator.com/item?id=50397099 Points: 72 # Comments: 11"
    ],
    "source": "Hacker News",
-   "url": "https://thelampmagazine.com/blog/rebecca-wests-nightingale",
+   "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
    "image": null,
-   "published_at": "2026-11-06T19:30:00Z",
+   "published_at": "2026-11-06T19:24:21Z",
    "category": "tech",
    "related": []
   },
@@ -144,7 +240,7 @@
    "id": "7f1ae8a0ef661ee3f35d9c48f299a0b0627f29b0",
    "title": "Restaurant Delivery Payment-Skimming Campaign",
    "summary": [
-    "Article URL: https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming Comments URL: https://news.ycombinator.com/item?id=50397017 Points: 53 # Comments: 22"
+    "Article URL: https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming Comments URL: https://news.ycombinator.com/item?id=50397017 Points: 98 # Comments: 43"
    ],
    "source": "Hacker News",
    "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
@@ -157,7 +253,7 @@
    "id": "55ee84c6404a8bfb34e70e2ca7d44b9395924b02",
    "title": "Replit rebuilt its sandbox engine with microVMs",
    "summary": [
-    "Article URL: https://frontier.replit.com/sandbox-engine-microvms-part-1/ Comments URL: https://news.ycombinator.com/item?id=50396834 Points: 37 # Comments: 9"
+    "Article URL: https://frontier.replit.com/sandbox-engine-microvms-part-1/ Comments URL: https://news.ycombinator.com/item?id=50396834 Points: 71 # Comments: 19"
    ],
    "source": "Hacker News",
    "url": "https://frontier.replit.com/sandbox-engine-microvms-part-1/",
@@ -210,7 +306,7 @@
    "id": "b05c7bffb56baaba7fb168543b7c2e2dfc1a8569",
    "title": "40C3 halfnarp – Submit talk preferences to aid scheduling",
    "summary": [
-    "Article URL: https://halfnarp.events.ccc.de Comments URL: https://news.ycombinator.com/item?id=50396108 Points: 30 # Comments: 6"
+    "Article URL: https://halfnarp.events.ccc.de Comments URL: https://news.ycombinator.com/item?id=50396108 Points: 46 # Comments: 9"
    ],
    "source": "Hacker News",
    "url": "https://halfnarp.events.ccc.de",
@@ -220,23 +316,10 @@
    "related": []
   },
   {
-   "id": "cd8d75dc40e5eaded9eebb9dcd8b34ef71415b10",
-   "title": "We know 15k websites are infected. how do we tell them?",
-   "summary": [
-    "Article URL: https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/ Comments URL: https://news.ycombinator.com/item?id=50396064 Points: 129 # Comments: 108"
-   ],
-   "source": "Hacker News",
-   "url": "https://scotthelme.co.uk/we-know-15-579-websites-are-infected-how-do-we-tell-them/",
-   "image": null,
-   "published_at": "2026-11-06T18:13:35Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "e086e2a5c6055677ddb859ac7251a72e8cb53224",
    "title": "Memorilla: Latent Semantic Memory for LLMs",
    "summary": [
-    "Article URL: https://arxiv.org/abs/2610.21375 Comments URL: https://news.ycombinator.com/item?id=50395919 Points: 69 # Comments: 5"
+    "Article URL: https://arxiv.org/abs/2610.21375 Comments URL: https://news.ycombinator.com/item?id=50395919 Points: 88 # Comments: 7"
    ],
    "source": "Hacker News",
    "url": "https://arxiv.org/abs/2610.21375",
@@ -274,42 +357,16 @@
    "related": []
   },
   {
-   "id": "a3bca2c056971c1c488da5e36a1fd3eb61f2a697",
-   "title": "PyLings: Solve Exercises and Learn Python",
-   "summary": [
-    "Article URL: https://github.com/thesayfulla/pylings Comments URL: https://news.ycombinator.com/item?id=50394977 Points: 37 # Comments: 2"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/thesayfulla/pylings",
-   "image": null,
-   "published_at": "2026-11-06T16:59:40Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "28c2d038c17b72aaf01360beb8c29df99ad3c995",
    "title": "Anthropic IPO buyers see valuation as low as $1.1T",
    "summary": [
     "https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3...",
-    "Comments URL: https://news.ycombinator.com/item?id=50394906 Points: 174 # Comments: 402"
+    "Comments URL: https://news.ycombinator.com/item?id=50394906 Points: 241 # Comments: 495"
    ],
    "source": "Hacker News",
    "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
    "image": null,
    "published_at": "2026-11-06T16:54:36Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "20c1278149bb3591dcac0d89aff35387e72dade9",
-   "title": "First steps in bare-metal programming using UEFI",
-   "summary": [
-    "Article URL: https://kevinboone.me/efitest_index.html Comments URL: https://news.ycombinator.com/item?id=50394855 Points: 157 # Comments: 29"
-   ],
-   "source": "Hacker News",
-   "url": "https://kevinboone.me/efitest_index.html",
-   "image": null,
-   "published_at": "2026-11-06T16:50:29Z",
    "category": "tech",
    "related": []
   },
@@ -323,19 +380,6 @@
    "url": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
    "image": null,
    "published_at": "2026-11-06T16:50:01Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "8e64409f361732f46e74a8f8203df8ab4250462a",
-   "title": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
-   "summary": [
-    "Article URL: https://github.com/anomalyco/rune Comments URL: https://news.ycombinator.com/item?id=50394569 Points: 132 # Comments: 97"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/anomalyco/rune",
-   "image": null,
-   "published_at": "2026-11-06T16:31:32Z",
    "category": "tech",
    "related": []
   },
@@ -393,24 +437,6 @@
    "related": []
   },
   {
-   "id": "fd661e28d5d6314043310484a92abcddeb374633",
-   "title": "Deus Ex",
-   "summary": [
-    "Article URL: https://www.filfre.net/2026/11/deus-ex/ Comments URL: https://news.ycombinator.com/item?id=50393758 Points: 309 # Comments: 153"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.filfre.net/2026/11/deus-ex/",
-   "image": null,
-   "published_at": "2026-11-06T15:44:36Z",
-   "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "https://magnitudle.com/size-it-up"
-    }
-   ]
-  },
-  {
    "id": "bf2720faad4004ab6aed7713d7edae27faf0ac5f",
    "title": "The 36 best Christmas gifts in the UK for every kind of teenager – chosen by teens",
    "summary": [
@@ -420,19 +446,6 @@
    "url": "https://www.theguardian.com/thefilter/2026/nov/06/best-christmas-gifts-teenagers-uk",
    "image": "https://i.guim.co.uk/img/media/204c00013989f6f2f22fe56adc9ec75406a3634b/242_154_3718_2974/master/3718.jpg?width=140&quality=85&auto=format&fit=max&s=0ed81f5910c91bff27245412abfb4812",
    "published_at": "2026-11-06T15:00:44Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "1920b48c76531d996236eaa0e318c73f814293e7",
-   "title": "Lippitt-Knoster in Practice (Field Notes for Managing Complex Projects)",
-   "summary": [
-    "Article URL: https://sharedphysics.com/lippitt-knoster-in-practice-field-notes-for-managing-complex-projects/ Comments URL: https://news.ycombinator.com/item?id=50393089 Points: 57 # Comments: 2"
-   ],
-   "source": "Hacker News",
-   "url": "https://sharedphysics.com/lippitt-knoster-in-practice-field-notes-for-managing-complex-projects/",
-   "image": null,
-   "published_at": "2026-11-06T14:57:16Z",
    "category": "tech",
    "related": []
   },
@@ -540,19 +553,6 @@
    "url": "https://www.theguardian.com/technology/2026/nov/06/crunchy-moms-facebook-vaccines",
    "image": "https://i.guim.co.uk/img/media/03a82c3073c26abbf8d1d9523115a15b393db5e5/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=ba8c493aa12711e4a90c560fe46fcde2",
    "published_at": "2026-11-06T12:00:41Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "b840037bb54ac5652733f2f5f582e25d83cd7d0b",
-   "title": "Tesla will stop making the Cybertruck in 2027",
-   "summary": [
-    "Elon Musk said the company will use the factory space to make more Cybercabs."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
-   "image": null,
-   "published_at": "2026-11-06T11:50:10Z",
    "category": "tech",
    "related": []
   }

@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-06T23:00:07.769526Z",
- "story_count": 23,
+ "generated_at": "2026-11-07T02:42:29.786304Z",
+ "story_count": 20,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,19 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "11487214155090fac10ba37d55d7c7b3e4dc0cf3",
+   "title": "One of the year's most prolific meteor showers to light up the night sky this weekend",
+   "summary": [
+    "The Leonid meteor shower, known for its bright and fast meteors, will kick off this weekend and continue until the end of November."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-07T02:03:28Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "9a27a57e9fe73945312e87581cbceb5a45aaaf90",
    "title": "How climate change worsens heatwaves, droughts, wildfires and floods",
@@ -275,63 +288,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cx1l36y2d941o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-05T14:51:45Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "df544b94f58f2d23388ce39591914bddea54b367",
-   "title": "Scientists discover that a clogged filter could revolutionize oil refining",
-   "summary": [
-    "Scientists have developed a remarkable new membrane that separates crude oil at room temperature, using the oil itself to create microscopic filtration channels.",
-    "The breakthrough could cut refining energy consumption by nearly 32%, carbon emissions by almost 38%, and operating costs by 36%, potentially transforming one of the world's most energy-intensive industries."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261103003207.htm",
-   "image": null,
-   "published_at": "2026-11-05T14:04:07Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "0104c7b9ce8475a5e656c6b65a7b97edd7b84be7",
-   "title": "400,000-year-old teeth reveal a stunning twist in human evolution",
-   "summary": [
-    "A groundbreaking discovery is rewriting the story of human evolution, revealing that an ancient human species once thought to be an evolutionary dead end may have left genetic traces in people alive today.",
-    "By extracting proteins from 400,000-year-old Homo erectus teeth discovered in China, scientists uncovered evidence suggesting that these early humans interbred with Denisovans, another mysterious ancient human group.",
-    "That genetic connection may have eventually reached modern populations in the Philippines, Papua New Guinea, and other parts of Southeast Asia."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261102202836.htm",
-   "image": null,
-   "published_at": "2026-11-05T13:05:12Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "0bab44666b06b93031e7fd530b6e5f20f0e4bdb3",
-   "title": "Scientists discover mysterious “lonely” brain waves linked to memory loss",
-   "summary": [
-    "Scientists have uncovered a surprising link between Alzheimer’s-related protein buildup, disrupted brain waves during deep sleep, and fading memory.",
-    "The findings suggest that hidden changes in how the brain processes memories overnight may contribute to age-related memory loss long before Alzheimer’s symptoms appear."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261101010556.htm",
-   "image": null,
-   "published_at": "2026-11-05T12:50:34Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "4a9bb134f643a6e1d45d5b17a12162e596a772ac",
-   "title": "Scientists solve 30-year-old mystery and discover a hidden defense against inflammation",
-   "summary": [
-    "Scientists have solved a decades-old mystery and uncovered a hidden immune system defense that protects healthy cells from the very inflammation meant to fight infections.",
-    "The surprising discovery could lead to new approaches for treating cancer, inflammatory bowel disease, and other conditions involving excessive inflammation."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261101010554.htm",
-   "image": null,
-   "published_at": "2026-11-05T11:05:46Z",
    "category": "science",
    "related": []
   }

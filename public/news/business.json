@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-06T23:00:07.769219Z",
- "story_count": 19,
+ "generated_at": "2026-11-07T02:42:29.786042Z",
+ "story_count": 14,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,19 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "ef7c2ba006ff9d664f12f107def010ae3bdd8383",
+   "title": "'My mortgage is going up £200': How rising interest rates are hitting people's pockets",
+   "summary": [
+    "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-07T01:41:36Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "ffb8d349a96446e6cad8c6bd5910799cab2f47d5",
    "title": "Why smoky bacon crisps threaten to reignite rows over EU rules",
@@ -191,84 +204,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-05T15:27:09Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "c6585b5b1b1d177d9657924ffc2fcacdd811d6c7",
-   "title": "Debt of poorest countries at record $9.4tn high, World Bank data shows",
-   "summary": [
-    "Cost of servicing external debt is preventing developing countries from investing for futureDebt owed by developing countries rose to a record $9.4tn (£7tn) last year, with the poorest paying the highest interest rates since the late 1980s, World Bank data shows.The UK government is preparing to champion a “new drive on debt” as part of its presidency of the G20 next year – a move the prime minister, Andy Burnham, has linked to confronting the legacy of slavery."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/05/developing-country-debt-record-94tn-high-world-bank-data",
-   "image": "https://i.guim.co.uk/img/media/85f4db268f9e270df6f680d2524c254755da2af2/202_0_3755_3004/master/3755.jpg?width=140&quality=85&auto=format&fit=max&s=64f01f64c40df4c1fa475f6395c445f1",
-   "published_at": "2026-11-05T14:30:25Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "b892ceee22fdb45cc24554a5d405ef425d542522",
-   "title": "What does the raise in interest rates mean?",
-   "summary": [
-    "The BBC's cost of living correspondent Kevin Peachey explains what the change could mean for those saving for a holiday or to buying a house."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/c9kgjvmn4vlno?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-05T14:02:24Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "4f1186279f4e9b2e592461e3ade168a87a377732",
-   "title": "Faisal Islam: How high will interest rates go?",
-   "summary": [
-    "The BBC's economics editor views one more interest rate as likely, but thinks that will be all."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-05T13:17:10Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "ebf53c76bc0ccbbda2c37e53300c5084f919b8be",
-   "title": "Three ways the interest rate rise could affect you",
-   "summary": [
-    "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-05T13:08:30Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "e4437a9f17854b59f11954de80d10fe0c8fe3843",
-   "title": "Welsh aviation firm AerFin bought in £475m deal",
-   "summary": [
-    "The company, which was majority owned by a private equity firm, said it was beginning a \"new chapter\"."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cq203vjxnln7o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-05T11:01:06Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "62d367a8bbe9496991acb0930ef9471ea1175d35",
-   "title": "Rural voters were feeling left behind before the midterms, poll shows",
-   "summary": [
-    "By October, 61% of voters believed the country was experiencing a recession, even though technically it wasn’t."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/05/former-trump-voters-economy",
-   "image": "https://i.guim.co.uk/img/media/5feaf034b448cd4570f9ab8900aa709e74ef9e07/452_0_4997_3999/master/4997.jpg?width=140&quality=85&auto=format&fit=max&s=b464ed158e8a7f51a2184f93c180ea83",
-   "published_at": "2026-11-05T11:00:22Z",
    "category": "business",
    "related": []
   }
