@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T16:19:51.173835Z",
+ "generated_at": "2026-11-07T20:49:05.746378Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -24,10 +24,221 @@
  },
  "stories": [
   {
+   "id": "782ffd47a51f10f84d9c0fb97ea315fe7804c05b",
+   "title": "Parents want safer phones for kids. These companies are answering the call.",
+   "summary": [
+    "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+   "image": null,
+   "published_at": "2026-11-07T19:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "e4da1fc3654cef88cf2c3c5bee2e8cf79b7ef1c9",
+   "title": "What I run on my $10 USD OpenStick homelab",
+   "summary": [
+    "Article URL: https://blog.bosscher.ch/posts/openstick/ Comments URL: https://news.ycombinator.com/item?id=50406670 Points: 124 # Comments: 24"
+   ],
+   "source": "Hacker News",
+   "url": "https://blog.bosscher.ch/posts/openstick/",
+   "image": null,
+   "published_at": "2026-11-07T18:12:12Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "0426388b76f3c1f1436f4e137a436f8edb6301d9",
+   "title": "The end of Microsoft Research's AI Frontiers group",
+   "summary": [
+    "https://archive.is/AaY5Ohttps://businessexaminer.ca/victoria-articles/item/microsoft...",
+    "Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 187 # Comments: 99"
+   ],
+   "source": "Hacker News",
+   "url": "https://hunch.net/?p=13764006",
+   "image": null,
+   "published_at": "2026-11-07T18:02:17Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "c38557adbea19537b34f4feaddef97c801eb9f5a",
+   "title": "GeoWorks, Microsoft Windows' Upstart '90s Competitor",
+   "summary": [
+    "Article URL: https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor Comments URL: https://news.ycombinator.com/item?id=50406502 Points: 12 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor",
+   "image": null,
+   "published_at": "2026-11-07T17:54:56Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "e2ddf63848ab645733ebf5e6944269c948502874",
+   "title": "Five memorable books about programming (2008)",
+   "summary": [
+    "Article URL: https://prog21.dadgum.com/19.html Comments URL: https://news.ycombinator.com/item?id=50406319 Points: 45 # Comments: 17"
+   ],
+   "source": "Hacker News",
+   "url": "https://prog21.dadgum.com/19.html",
+   "image": null,
+   "published_at": "2026-11-07T17:30:49Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "75033d6b18a041016defb8f632069a9bc19c7159",
+   "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+   "summary": [
+    "Inspired by the events on industrial fridge installations in the past weeks, I wanted to see what people would try against a convincing fake.To learn more about this I built a honeypot that resembled perfectly the Danfoss AK-SM 800A and Dixell XWEB interfaces.",
+    "I used Shodan records of real devices to match header order, page titles, certificate fields and TLS versions.",
+    "The Danfoss persona sends nginx headers in the same order as a real AK-SM 800A."
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/hedgerow-dev/coldframe",
+   "image": null,
+   "published_at": "2026-11-07T17:27:30Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "f777d8aa2bf4bf349888ba07aa9ec7fa62d64eb7",
+   "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+   "summary": [
+    "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+   "image": null,
+   "published_at": "2026-11-07T17:24:07Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "f7fffb994d85a6077ae0e4fe82068f528565d828",
+   "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+   "summary": [
+    "Article URL: https://maxxbench.unlap.ai/research/why-maxxbench/ Comments URL: https://news.ycombinator.com/item?id=50406222 Points: 99 # Comments: 25"
+   ],
+   "source": "Hacker News",
+   "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+   "image": null,
+   "published_at": "2026-11-07T17:19:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "de8f61359cd82e66d309c305b7f4a8add5bba33a",
+   "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
+   "summary": [
+    "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
+   "image": null,
+   "published_at": "2026-11-07T17:18:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "9c95d9f4cc46cae2887084645757b259ad4f20f0",
+   "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+   "summary": [
+    "Article URL: https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you Comments URL: https://news.ycombinator.com/item?id=50406111 Points: 161 # Comments: 115"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+   "image": null,
+   "published_at": "2026-11-07T17:06:36Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a83c33866c41f13d87fa01bccbcdb2c3c3dd1b4e",
+   "title": "How Long Can Life Wait?",
+   "summary": [
+    "Article URL: https://mceglowski.substack.com/p/how-long-can-life-wait Comments URL: https://news.ycombinator.com/item?id=50405789 Points: 83 # Comments: 45"
+   ],
+   "source": "Hacker News",
+   "url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
+   "image": null,
+   "published_at": "2026-11-07T16:22:59Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "d7778c9e4e9e6af196170eb05263eed427407229",
+   "title": "Every processor die anyone has photographed and given away",
+   "summary": [
+    "Article URL: https://sheets.works/data-viz/cpu-dies Comments URL: https://news.ycombinator.com/item?id=50405782 Points: 44 # Comments: 11"
+   ],
+   "source": "Hacker News",
+   "url": "https://sheets.works/data-viz/cpu-dies",
+   "image": null,
+   "published_at": "2026-11-07T16:21:36Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "205f4e514c1c3f888ef3c8ae9fdf854400c28825",
+   "title": "They don't make 'em like that any more: Borland Turbo Pascal 7",
+   "summary": [
+    "Article URL: https://kevinboone.me/tpwin.html Comments URL: https://news.ycombinator.com/item?id=50405678 Points: 144 # Comments: 81"
+   ],
+   "source": "Hacker News",
+   "url": "https://kevinboone.me/tpwin.html",
+   "image": null,
+   "published_at": "2026-11-07T16:06:27Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "8c245c685254a75bad814291d31b1cd639bf72a9",
+   "title": "Terry Pratchett's Study",
+   "summary": [
+    "Article URL: https://www.sussi.dk/terry-pratchetts-study Comments URL: https://news.ycombinator.com/item?id=50405674 Points: 36 # Comments: 6"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.sussi.dk/terry-pratchetts-study",
+   "image": null,
+   "published_at": "2026-11-07T16:05:45Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "f459736103541901209fa1adb37e33bf9ce7cfb7",
+   "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+   "summary": [
+    "Article URL: https://github.com/Video-Rebirth/hyperflow-h3-flash Comments URL: https://news.ycombinator.com/item?id=50405263 Points: 37 # Comments: 10"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
+   "image": null,
+   "published_at": "2026-11-07T15:16:01Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "67538c1327eac7e4208c06546078630f4c272e5a",
+   "title": "The Gordon Gekko Effect: The Role of Culture in the Financial Industry [pdf] (2016)",
+   "summary": [
+    "Article URL: https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf Comments URL: https://news.ycombinator.com/item?id=50404747 Points: 42 # Comments: 21"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf",
+   "image": null,
+   "published_at": "2026-11-07T14:18:45Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "077466db6c7b4aa412b5bc147439835bb5ec41a0",
    "title": "The $8 Linux Computer (2022)",
    "summary": [
-    "Article URL: http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html Comments URL: https://news.ycombinator.com/item?id=50404599 Points: 57 # Comments: 26"
+    "Article URL: http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html Comments URL: https://news.ycombinator.com/item?id=50404599 Points: 169 # Comments: 76"
    ],
    "source": "Hacker News",
    "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
@@ -65,6 +276,19 @@
    "related": []
   },
   {
+   "id": "f9f42d3a6e9f2eecbb664984a02504a25de098c4",
+   "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
+   "summary": [
+    "Article URL: https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/ Comments URL: https://news.ycombinator.com/item?id=50403507 Points: 110 # Comments: 132"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
+   "image": null,
+   "published_at": "2026-11-07T11:11:15Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "aae7d52c6eaba4c2186afba9b484165e4b7302bd",
    "title": "Lanarkshire AI datacentre to fully rely on National Grid despite renewables claim",
    "summary": [
@@ -96,7 +320,7 @@
    "id": "5ec03af4da1d836d9dad8f0be411db409e6bd298",
    "title": "Every Mac comes with an (undocumented) family member classifier",
    "summary": [
-    "Article URL: https://8rank.ai/game/apple-intelligence-personal-knowledge-graph Comments URL: https://news.ycombinator.com/item?id=50403097 Points: 347 # Comments: 200"
+    "Article URL: https://8rank.ai/game/apple-intelligence-personal-knowledge-graph Comments URL: https://news.ycombinator.com/item?id=50403097 Points: 490 # Comments: 287"
    ],
    "source": "Hacker News",
    "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
@@ -109,7 +333,7 @@
    "id": "81e98a9f5568e3035713f41b0480825224401034",
    "title": "Running a law firm on Free software",
    "summary": [
-    "Article URL: https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/ Comments URL: https://news.ycombinator.com/item?id=50403066 Points: 92 # Comments: 46"
+    "Article URL: https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/ Comments URL: https://news.ycombinator.com/item?id=50403066 Points: 197 # Comments: 86"
    ],
    "source": "Hacker News",
    "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
@@ -119,23 +343,10 @@
    "related": []
   },
   {
-   "id": "acbac2a5a0c77bc38b6cd9261caf864821611bb0",
-   "title": "Port 0: The Port That Does Not Exist",
-   "summary": [
-    "Article URL: https://acid.vegas/blog/the-port-that-does-not-exist/ Comments URL: https://news.ycombinator.com/item?id=50403063 Points: 39 # Comments: 15"
-   ],
-   "source": "Hacker News",
-   "url": "https://acid.vegas/blog/the-port-that-does-not-exist/",
-   "image": null,
-   "published_at": "2026-11-07T09:38:26Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "822aa1f84e507d81e9dea8bb3f73c43be6503141",
    "title": "Need for Speed Underground 2 online in the browser",
    "summary": [
-    "Article URL: https://nfsu2.xyz/ Comments URL: https://news.ycombinator.com/item?id=50403052 Points: 404 # Comments: 130"
+    "Article URL: https://nfsu2.xyz/ Comments URL: https://news.ycombinator.com/item?id=50403052 Points: 639 # Comments: 191"
    ],
    "source": "Hacker News",
    "url": "https://nfsu2.xyz/",
@@ -189,12 +400,25 @@
    "id": "594105e3c51985edcce42f9416ed7abaf1e696b9",
    "title": "The Components of Agent Memory",
    "summary": [
-    "Article URL: https://www.anthropic.com/research/components-of-agent-memory Comments URL: https://news.ycombinator.com/item?id=50402212 Points: 99 # Comments: 57"
+    "Article URL: https://www.anthropic.com/research/components-of-agent-memory Comments URL: https://news.ycombinator.com/item?id=50402212 Points: 136 # Comments: 69"
    ],
    "source": "Hacker News",
    "url": "https://www.anthropic.com/research/components-of-agent-memory",
    "image": null,
    "published_at": "2026-11-07T06:39:04Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "fe4697100c8e8c62b9b9ba2a8d5a4ba18b2a7d75",
+   "title": "Asahi Linux Progress Linux 7.3",
+   "summary": [
+    "Article URL: https://asahilinux.org/2026/11/progress-report-7-3/ Comments URL: https://news.ycombinator.com/item?id=50401867 Points: 254 # Comments: 214"
+   ],
+   "source": "Hacker News",
+   "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
+   "image": null,
+   "published_at": "2026-11-07T05:20:18Z",
    "category": "tech",
    "related": []
   },
@@ -227,19 +451,6 @@
    "related": []
   },
   {
-   "id": "d482c20de9cd112dc4eeb339330f63320673d045",
-   "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
-   "summary": [
-    "Article URL: https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals Comments URL: https://news.ycombinator.com/item?id=50401740 Points: 159 # Comments: 131"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
-   "image": null,
-   "published_at": "2026-11-07T04:54:36Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "0819cd72b72eb53b0e2ca7c835ef4b2171cf18fa",
    "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
    "summary": [
@@ -262,19 +473,6 @@
    "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
    "image": null,
    "published_at": "2026-11-07T01:40:28Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "b42d708d410861770381745a618b06dfca306049",
-   "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
-   "summary": [
-    "Article URL: https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/ Comments URL: https://news.ycombinator.com/item?id=50399991 Points: 155 # Comments: 113"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
-   "image": null,
-   "published_at": "2026-11-06T23:37:19Z",
    "category": "tech",
    "related": []
   },
@@ -354,210 +552,6 @@
    "url": "https://www.theguardian.com/thefilter-us/2026/nov/06/best-personalized-custom-gift-ideas",
    "image": "https://i.guim.co.uk/img/media/916a350ef95f6264f22ddf0f6898ff1adb457690/0_0_1799_1440/master/1799.jpg?width=140&quality=85&auto=format&fit=max&s=9084e35d496be603b983150503556ce4",
    "published_at": "2026-11-06T20:15:51Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "ef2a83f7f3a44d746cc2451560fee6a857699074",
-   "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-   "summary": [
-    "Article URL: https://hightouch.com/blog/llm-judges-identity-resolution Comments URL: https://news.ycombinator.com/item?id=50397429 Points: 535 # Comments: 131"
-   ],
-   "source": "Hacker News",
-   "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
-   "image": null,
-   "published_at": "2026-11-06T19:48:51Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "f441801c064cce85972f578b6c32c3afb1af080c",
-   "title": "Firecracker VM Escape: PwnEscape Part 2",
-   "summary": [
-    "Article URL: https://pwn.ai/blog/firecracker-escape Comments URL: https://news.ycombinator.com/item?id=50397219 Points: 264 # Comments: 114"
-   ],
-   "source": "Hacker News",
-   "url": "https://pwn.ai/blog/firecracker-escape",
-   "image": null,
-   "published_at": "2026-11-06T19:33:38Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "69af5f8a122011ad538ccd4f462b04fe25ea9963",
-   "title": "GitHub's new Git storage architecture",
-   "summary": [
-    "Article URL: https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/ Comments URL: https://news.ycombinator.com/item?id=50397099 Points: 184 # Comments: 52"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
-   "image": null,
-   "published_at": "2026-11-06T19:24:21Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "7f1ae8a0ef661ee3f35d9c48f299a0b0627f29b0",
-   "title": "Restaurant Delivery Payment-Skimming Campaign",
-   "summary": [
-    "Article URL: https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming Comments URL: https://news.ycombinator.com/item?id=50397017 Points: 155 # Comments: 81"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
-   "image": null,
-   "published_at": "2026-11-06T19:19:27Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "29c568495a81ef6e7a1c5f1c8065ed251ff80216",
-   "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-   "summary": [
-    "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-   "image": null,
-   "published_at": "2026-11-06T18:44:38Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "016e849ea3abf5a8afcf2007dd4ab37bfebf8b7e",
-   "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-   "summary": [
-    "Meta's Muse agents continue to get new features and integrations.",
-    "Spaces promises to be a new way to interact with the AI helpers."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-   "image": null,
-   "published_at": "2026-11-06T18:44:20Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "6654bc4a3a64c64662cb1d3bbbd23502988062c2",
-   "title": "Why the US midterms sparked an AI stock selloff",
-   "summary": [
-    "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-06T18:32:16Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "ef57b5d475853af99a9e9ecaf8a562acc5ba28cc",
-   "title": "After the midterms, is the AI industry in for a rough two years?",
-   "summary": [
-    "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry.",
-    "The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development.",
-    "And even when data centers weren’t on the ballot directly, they were a […]"
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-   "image": null,
-   "published_at": "2026-11-06T17:23:52Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "1bcbebc8cbf97a25306318c4c96c357142164b3e",
-   "title": "Notes on San Marino",
-   "summary": [
-    "Article URL: https://mattlakeman.org/2026/11/05/notes-on-san-marino/ Comments URL: https://news.ycombinator.com/item?id=50395183 Points: 107 # Comments: 45"
-   ],
-   "source": "Hacker News",
-   "url": "https://mattlakeman.org/2026/11/05/notes-on-san-marino/",
-   "image": null,
-   "published_at": "2026-11-06T17:12:05Z",
-   "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "https://uploadyourram.org"
-    }
-   ]
-  },
-  {
-   "id": "20c1278149bb3591dcac0d89aff35387e72dade9",
-   "title": "First steps in bare-metal programming using UEFI",
-   "summary": [
-    "Article URL: https://kevinboone.me/efitest_index.html Comments URL: https://news.ycombinator.com/item?id=50394855 Points: 237 # Comments: 48"
-   ],
-   "source": "Hacker News",
-   "url": "https://kevinboone.me/efitest_index.html",
-   "image": null,
-   "published_at": "2026-11-06T16:50:29Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "81e4cffc9954641961818db0687f4d8853dee425",
-   "title": "Pentagon offers battery startup 6K $250M loan to build US factory",
-   "summary": [
-    "The Pentagon has conditionally approved a $250 million loan to help 6K scale up its microwave-plasma battery material manufacturing process."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
-   "image": null,
-   "published_at": "2026-11-06T16:50:01Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "f959e165337451c71c8fb9801ca5abe1d0d4740c",
-   "title": "Fox completes its $22B acquisition of Roku",
-   "summary": [
-    "A few months after DOJ investigators were probing the deal, Fox just completed its $22B acquisition of the streaming giant Roku."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
-   "image": null,
-   "published_at": "2026-11-06T16:05:36Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "7c70b636a2cf1bbd255f523485aaf71f014c5274",
-   "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-   "summary": [
-    "AI usage keeps climbing, but spending has stalled.",
-    "Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-   "image": null,
-   "published_at": "2026-11-06T15:54:47Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "bf2720faad4004ab6aed7713d7edae27faf0ac5f",
-   "title": "The 36 best Christmas gifts in the UK for every kind of teenager – chosen by teens",
-   "summary": [
-    "We also made sure to ask a broad range of teens – from book lovers to tech fiends and plenty in between – to try to represent the myriad tastes of this age group."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/thefilter/2026/nov/06/best-christmas-gifts-teenagers-uk",
-   "image": "https://i.guim.co.uk/img/media/204c00013989f6f2f22fe56adc9ec75406a3634b/242_154_3718_2974/master/3718.jpg?width=140&quality=85&auto=format&fit=max&s=0ed81f5910c91bff27245412abfb4812",
-   "published_at": "2026-11-06T15:00:44Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "4a6109d50595a1932f9594e6833264ccc3415e82",
-   "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-   "summary": [
-    "Amazon said that the feature will roll out to millions of users in coming weeks."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
-   "image": null,
-   "published_at": "2026-11-06T14:10:00Z",
    "category": "tech",
    "related": []
   }
