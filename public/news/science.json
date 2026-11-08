@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-08T00:26:35.273167Z",
- "story_count": 13,
+ "generated_at": "2026-11-08T07:12:33.494619Z",
+ "story_count": 8,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,19 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "5e71cbc7397da4ca3a86792965c139edb47483c6",
+   "title": "Hundreds of seagrass shoots found in estuary",
+   "summary": [
+    "There were fears a restoration trial may not succeed when only six seedlings had emerged in April."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ck1wvx3r9rgeo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-08T07:06:13Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "413adeb247b05b7b7ced07966546af4423723e70",
    "title": "Human bodies produce 2 billion metric tons of CO2 a year just by staying alive",
@@ -118,84 +131,6 @@
    "url": "https://www.sciencedaily.com/releases/2026/11/261103003205.htm",
    "image": null,
    "published_at": "2026-11-06T21:28:04Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "9a27a57e9fe73945312e87581cbceb5a45aaaf90",
-   "title": "How climate change worsens heatwaves, droughts, wildfires and floods",
-   "summary": [
-    "Rising global temperatures mean extreme weather events are becoming more common and more intense."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-06T16:43:30Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "0ccf28b337e9fd401afaccb3024d211a9bee98d7",
-   "title": "A really simple guide to climate change",
-   "summary": [
-    "Human activities are causing the world to heat up, posing serious threats to people and nature."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c9w15nggj58o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-06T16:40:51Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "e50f1cdb13d6339ad7b2922d7b257a76031efdbe",
-   "title": "What is the Paris Agreement and why does 1.5C matter?",
-   "summary": [
-    "The 2015 pact is at the heart of the international commitment to tackle rising global temperatures."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c93d59d4zy1o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-06T16:39:07Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "374d4a7163da79509df63ad3c2e8876184b589b5",
-   "title": "What is net zero and is the UK on track to achieve it?",
-   "summary": [
-    "Reaching net zero carbon emissions worldwide is essential to limit global warming, UN scientists say."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cx238yyr40qo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-06T16:22:51Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "7d2735033d3ad54f90cb59b3bdbcffbbfb7d4d6a",
-   "title": "Wales scraps controversial Uganda tree-planting scheme",
-   "summary": [
-    "The Welsh government has given more than £4m to the scheme since 2015, but will end it due to budget pressures."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cqm26m2l4p7eo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-06T15:27:44Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "4fa5446fd4c0ade31279abadb1466264a72de0ab",
-   "title": "US rockets firm eyes up mothballed Highland spaceport",
-   "summary": [
-    "Colorado-based Leap is looking at the spaceport near Tongue as its first launch site outside of the US."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmrlyy5xw276o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-06T12:47:23Z",
    "category": "science",
    "related": []
   }

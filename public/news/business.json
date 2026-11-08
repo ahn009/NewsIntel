@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-08T00:26:35.272995Z",
- "story_count": 13,
+ "generated_at": "2026-11-08T07:12:33.494469Z",
+ "story_count": 5,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,19 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "350bcda2063a9bbacb7f08a0931c3809ffdce9f1",
+   "title": "Traders 'priced out' of £12,000 Christmas market pitches",
+   "summary": [
+    "Stall holders said they'd met the council leader to express their concerns at high costs since a new operator took over."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ckn8wew92xw1o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-08T07:11:02Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "b466e88afd7dcb67460b167041222cf4f3ee6cef",
    "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
@@ -50,19 +63,6 @@
    "related": []
   },
   {
-   "id": "9d7b8b214be0da42e73513827db1e7a96513bdb1",
-   "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-   "summary": [
-    "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-07T21:36:16Z",
-   "category": "business",
-   "related": []
-  },
-  {
    "id": "08cc2b9e5bf27be208e4b4a99f0034909c5bf5f9",
    "title": "Trump may have lost but don’t bet Democrats can fix the economy",
    "summary": [
@@ -86,112 +86,6 @@
    "url": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-07T01:41:36Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "ffb8d349a96446e6cad8c6bd5910799cab2f47d5",
-   "title": "Why smoky bacon crisps threaten to reignite rows over EU rules",
-   "summary": [
-    "A post-Brexit deal on food standards has raised questions over the future naming of the classic British snack."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-06T17:19:38Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "9f19b7bb3f93ca061338ac073133b35c9bb6bf4f",
-   "title": "Could the AI bubble burst after Democrats' midterms sweep? - The Latest",
-   "summary": [
-    "Global tech stocks have plunged after the Democrats’ victory in the US midterm elections, with fears of a slowdown in AI development.",
-    "Major tech corporations including Apple, Tesla and Nvidia shed about $1tn in a single trading session.",
-    "Is this stock market jitters, or a sign the AI bubble might be about to burst?"
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/news/video/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest",
-   "image": "https://i.guim.co.uk/img/media/b17a059303674bee4fb3dec0de66bf842d9d60d6/0_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=277623698e965024e7df131a0134b0dc",
-   "published_at": "2026-11-06T17:04:41Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "dddd95111fa0794abad2902635dbfc1aff4cb6cf",
-   "title": "Food bank to close amid rising costs",
-   "summary": [
-    "A food bank in Goole annouces it will close in January as costs rise and donations drop."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cqrkyyj6rx7ro?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-06T16:42:23Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "dd5e9e71dcd7f18072706de00ef6bad75ebeb208",
-   "title": "Winter support for residents facing cost pressures",
-   "summary": [
-    "The plans aim to help more people access food, financial advice and help with heating costs."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm20rrer25ezo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-06T16:22:18Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "75b0af2bbdb41e457199d90815ea4cf54c1309f2",
-   "title": "PM tells firms to publish salaries in job adverts ahead of new law",
-   "summary": [
-    "The government argues the change will help jobseekers and could help to prevent pay discrimination."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-06T15:25:43Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "4dc8def3051aa657d8f665c35f160335ed9eb6b7",
-   "title": "Workers' rights 'second place' to economic growth",
-   "summary": [
-    "Jersey's Economic Development Minister has told the BBC that workers' rights may have to take 'second place' to economic growth."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/cq369l9r634ro?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-06T14:52:49Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "2a2c483ce3c39e44a50d27b7ea7428156bc490a0",
-   "title": "US job growth exceeds expectations in October despite economic uncertainty",
-   "summary": [
-    "The unemployment rate went down slightly to 4.1%, the Bureau of Labor Statistics (BLS) reported."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/06/us-job-growth-october",
-   "image": "https://i.guim.co.uk/img/media/6ce70de0573447bd4b3b70f4ceb6e8fd81f1379f/647_0_6469_5178/master/6469.jpg?width=140&quality=85&auto=format&fit=max&s=f2a97354698dfd0d291e56355350bdd2",
-   "published_at": "2026-11-06T13:42:26Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "a4e5b28d6d5a36a5bec655a4012595060e84330d",
-   "title": "Tesla to wind down Cybertruck production as Elon Musk focuses on robotics and AI",
-   "summary": [
-    "Decision made in order for factory in Texas to be used for Cybercab, the carmaker’s self-driving taxiElon Musk has announced that Tesla will wind down production of its Cybertruck, marking the end of a failed effort to take a chunk of the lucrative market for pickups in the US.The billionaire chief executive said production of the car would stop in about the middle of next year at the company’s factory in Texas in order to use the plant for the Cybercab, its self-driving taxi."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/06/tesla-to-wind-down-cybertruck-production-as-elon-musk-focuses-on-robotics-and-ai",
-   "image": "https://i.guim.co.uk/img/media/067248f953434b6b22df921bb895b2c6f11d1011/74_41_3730_2983/master/3730.jpg?width=140&quality=85&auto=format&fit=max&s=d1d8e0453e1c5cda49341eb1e46720a6",
-   "published_at": "2026-11-06T12:38:05Z",
    "category": "business",
    "related": []
   }
