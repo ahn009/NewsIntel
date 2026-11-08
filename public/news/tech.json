@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T19:31:23.291079Z",
+ "generated_at": "2026-11-08T23:38:53.785256Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -24,23 +24,242 @@
  },
  "stories": [
   {
-   "id": "d8ba3532e1ffa712dda4bd6fec771c4392bf63bb",
-   "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+   "id": "8eab40c7ce416e4d9577f0c93326979dbabb467d",
+   "title": "Chimera Vocal Synth",
    "summary": [
-    "Article URL: https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c Comments URL: https://news.ycombinator.com/item?id=50415817 Points: 27 # Comments: 17"
+    "Article URL: https://chimera-vocal-synth.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50418182 Points: 19 # Comments: 6"
    ],
    "source": "Hacker News",
-   "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+   "url": "https://chimera-vocal-synth.vercel.app/",
    "image": null,
-   "published_at": "2026-11-08T18:43:07Z",
+   "published_at": "2026-11-08T22:36:03Z",
+   "category": "tech",
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://packethound.app/"
+    }
+   ]
+  },
+  {
+   "id": "2fab79d06b7a4b4ba55c4a6019c9aa9cb4241e54",
+   "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+   "summary": [
+    "Article URL: https://ketchup3d.github.io/app/ Comments URL: https://news.ycombinator.com/item?id=50418176 Points: 14 # Comments: 2"
+   ],
+   "source": "Hacker News",
+   "url": "https://ketchup3d.github.io/app/",
+   "image": null,
+   "published_at": "2026-11-08T22:35:35Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "a78801b83036129313094bc773949a575c7cf443",
-   "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+   "id": "4ac45e74548db3788dd5a63ec49276599a13085e",
+   "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
    "summary": [
-    "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers Comments URL: https://news.ycombinator.com/item?id=50415628 Points: 153 # Comments: 90"
+    "Article URL: https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company Comments URL: https://news.ycombinator.com/item?id=50418016 Points: 190 # Comments: 159"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
+   "image": null,
+   "published_at": "2026-11-08T22:20:09Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "07b2a4632338082c86230ca9287fcc528f9d6549",
+   "title": "Apps to distract you from the endless cycle of doomscrolling",
+   "summary": [
+    "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
+   "image": null,
+   "published_at": "2026-11-08T22:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "51be044a46f2798f0ce4d2fef4daa87d056b5688",
+   "title": "Show HN: SafeScript, a safe version of JavaScript for executing untrusted code",
+   "summary": [
+    "Article URL: https://github.com/SafeScript/safescript Comments URL: https://news.ycombinator.com/item?id=50417478 Points: 4 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/SafeScript/safescript",
+   "image": null,
+   "published_at": "2026-11-08T21:26:33Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "49db83e253edbf0771d468b99bafbdd0476979fa",
+   "title": "Ask HN: What are you working on? (November 2026)",
+   "summary": [
+    "What have you been curious about lately?",
+    "Comments URL: https://news.ycombinator.com/item?id=50417407 Points: 65 # Comments: 309"
+   ],
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50417407",
+   "image": null,
+   "published_at": "2026-11-08T21:20:20Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "45da7994669e5304c4a61eebac176cd114fa2bb1",
+   "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+   "summary": [
+    "In a memo to the company, Huang admitted that he had an affair."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+   "image": null,
+   "published_at": "2026-11-08T21:00:11Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "092818df61d395e0b951040fac01a7e4bb5b2bc7",
+   "title": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
+   "summary": [
+    "Snap's Specs, which have been in development for many years now, are going to market this fall."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
+   "image": null,
+   "published_at": "2026-11-08T21:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "552b8c95ef4266077e7462f7795767f905c938fb",
+   "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
+   "summary": [
+    "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
+   "image": null,
+   "published_at": "2026-11-08T20:30:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a24fdfddefa6b5e43959db83295bc5951bdac094",
+   "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
+   "summary": [
+    "Article URL: https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors Comments URL: https://news.ycombinator.com/item?id=50416801 Points: 321 # Comments: 253"
+   ],
+   "source": "Hacker News",
+   "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+   "image": null,
+   "published_at": "2026-11-08T20:26:43Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "8f9edb697d23e20219f78d7a22d6e4ee6482f950",
+   "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+   "summary": [
+    "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
+   "image": null,
+   "published_at": "2026-11-08T19:51:30Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "4e501f9826d014090ed9312e94f357780c8cd449",
+   "title": "Starship Flight 15 on 11/13 plans to catch both booster and ship",
+   "summary": [
+    "Article URL: https://www.spacex.com/launches/starship-flight-15 Comments URL: https://news.ycombinator.com/item?id=50416471 Points: 64 # Comments: 27"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.spacex.com/launches/starship-flight-15",
+   "image": null,
+   "published_at": "2026-11-08T19:49:46Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "c353641c8e4ce45c30f70761401165931b2d061d",
+   "title": "The Web Is More Than Enough, by Paul Ford",
+   "summary": [
+    "Article URL: https://ftrain.com/aboard-the-web-is-more-than-enough Comments URL: https://news.ycombinator.com/item?id=50416456 Points: 40 # Comments: 15"
+   ],
+   "source": "Hacker News",
+   "url": "https://ftrain.com/aboard-the-web-is-more-than-enough",
+   "image": null,
+   "published_at": "2026-11-08T19:48:32Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "45fb196cb1bb2b06f21b2eb5e6fd52288b5fd9f4",
+   "title": "How I Fight AI Brain Fry",
+   "summary": [
+    "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 122 # Comments: 108"
+   ],
+   "source": "Hacker News",
+   "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+   "image": null,
+   "published_at": "2026-11-08T19:37:42Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ec6779b05ebb24a90fced8bee83eb63c45b6ac78",
+   "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+   "summary": [
+    "Article URL: https://mailroute.net/blog/outlook-rejecting-email-without-dmarc Comments URL: https://news.ycombinator.com/item?id=50416158 Points: 186 # Comments: 152"
+   ],
+   "source": "Hacker News",
+   "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+   "image": null,
+   "published_at": "2026-11-08T19:20:32Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ddea982e4231abd2122fdf719ba17c656a255c98",
+   "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+   "summary": [
+    "Article URL: https://duxlabs.dev/ Comments URL: https://news.ycombinator.com/item?id=50416053 Points: 155 # Comments: 49"
+   ],
+   "source": "Hacker News",
+   "url": "https://duxlabs.dev/",
+   "image": null,
+   "published_at": "2026-11-08T19:08:51Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "2133bbe6b7b156cc759d3279b5b4ef599b8c6899",
+   "title": "Playing with the STM32MP2",
+   "summary": [
+    "Article URL: https://serd.es/2026/11/08/playing-with-stm32mp2.html Comments URL: https://news.ycombinator.com/item?id=50416014 Points: 23 # Comments: 11"
+   ],
+   "source": "Hacker News",
+   "url": "https://serd.es/2026/11/08/playing-with-stm32mp2.html",
+   "image": null,
+   "published_at": "2026-11-08T19:04:07Z",
+   "category": "tech",
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://kevinboone.me/cpmzork.html"
+    }
+   ]
+  },
+  {
+   "id": "a78801b83036129313094bc773949a575c7cf443",
+   "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+   "summary": [
+    "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers Comments URL: https://news.ycombinator.com/item?id=50415628 Points: 526 # Comments: 320"
    ],
    "source": "Hacker News",
    "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
@@ -63,19 +282,6 @@
    "related": []
   },
   {
-   "id": "2bc3b76597c61ff6348d4415020200ef186f1451",
-   "title": "Ads in Popular Apps Give Police a Powerful Tool to Spy on Users",
-   "summary": [
-    "Article URL: https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/ Comments URL: https://news.ycombinator.com/item?id=50415281 Points: 34 # Comments: 3"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/",
-   "image": null,
-   "published_at": "2026-11-08T17:32:55Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "d42d09f1aa1dafab80a28d482ecab6b08160198f",
    "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
    "summary": [
@@ -89,23 +295,10 @@
    "related": []
   },
   {
-   "id": "94ffbccc03ec05a3b17051f23f9553e0896307b6",
-   "title": "A Little Snitch for Windows",
-   "summary": [
-    "Article URL: https://packethound.app/ Comments URL: https://news.ycombinator.com/item?id=50415135 Points: 34 # Comments: 16"
-   ],
-   "source": "Hacker News",
-   "url": "https://packethound.app/",
-   "image": null,
-   "published_at": "2026-11-08T17:16:07Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "11af8520fb86a34725150f7541072cf636df5284",
    "title": "A field guide to CAPTCHA types and how they break",
    "summary": [
-    "Article URL: https://github.com/vsmutok/FuckCaptcha Comments URL: https://news.ycombinator.com/item?id=50415078 Points: 24 # Comments: 5"
+    "Article URL: https://github.com/vsmutok/FuckCaptcha Comments URL: https://news.ycombinator.com/item?id=50415078 Points: 43 # Comments: 12"
    ],
    "source": "Hacker News",
    "url": "https://github.com/vsmutok/FuckCaptcha",
@@ -124,19 +317,6 @@
    "url": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
    "image": null,
    "published_at": "2026-11-08T17:02:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "572c9f37943355735a1fccb58d1394bd66cfef33",
-   "title": "UK House of Lords to propose mandatory CSAM detection software on smartphones",
-   "summary": [
-    "Article URL: https://observer.co.uk/news/national/article/fight-to-block-child-sexual-abuse-images-unites-peers-and-mps-in-cross-party-campaign Comments URL: https://news.ycombinator.com/item?id=50414331 Points: 46 # Comments: 21"
-   ],
-   "source": "Hacker News",
-   "url": "https://observer.co.uk/news/national/article/fight-to-block-child-sexual-abuse-images-unites-peers-and-mps-in-cross-party-campaign",
-   "image": null,
-   "published_at": "2026-11-08T15:57:37Z",
    "category": "tech",
    "related": []
   },
@@ -170,7 +350,7 @@
    "id": "cac662825b6fce8f737eea73dc3fdb48845548c5",
    "title": "I'm not a fan of Deno's security model (2024)",
    "summary": [
-    "Article URL: https://goldstein.lol/posts/deno-security/ Comments URL: https://news.ycombinator.com/item?id=50413769 Points: 44 # Comments: 21"
+    "Article URL: https://goldstein.lol/posts/deno-security/ Comments URL: https://news.ycombinator.com/item?id=50413769 Points: 76 # Comments: 36"
    ],
    "source": "Hacker News",
    "url": "https://goldstein.lol/posts/deno-security/",
@@ -183,7 +363,7 @@
    "id": "bc719b468fccc563415418a94a2c8ed1b73df252",
    "title": "How to prove equations using diagrams, part 1",
    "summary": [
-    "Article URL: https://www.epatters.org/post/e-graphs-1/ Comments URL: https://news.ycombinator.com/item?id=50412830 Points: 35 # Comments: 3"
+    "Article URL: https://www.epatters.org/post/e-graphs-1/ Comments URL: https://news.ycombinator.com/item?id=50412830 Points: 58 # Comments: 4"
    ],
    "source": "Hacker News",
    "url": "https://www.epatters.org/post/e-graphs-1/",
@@ -193,28 +373,10 @@
    "related": []
   },
   {
-   "id": "7cbf7714d7200cce9fbbcc0650de18bfc1f2042d",
-   "title": "Petered",
-   "summary": [
-    "Article URL: https://aworkinglibrary.com/writing/petered Comments URL: https://news.ycombinator.com/item?id=50412152 Points: 137 # Comments: 84"
-   ],
-   "source": "Hacker News",
-   "url": "https://aworkinglibrary.com/writing/petered",
-   "image": null,
-   "published_at": "2026-11-08T10:56:43Z",
-   "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "https://krthr.co/person-of-interest/"
-    }
-   ]
-  },
-  {
    "id": "2803a1342d9d6e4e615b5641b63a43a58745fba1",
    "title": "JIT bitmap text rendering for microcontrollers",
    "summary": [
-    "Article URL: https://linebender.org/blog/jit-bitmap-text/ Comments URL: https://news.ycombinator.com/item?id=50412072 Points: 80 # Comments: 14"
+    "Article URL: https://linebender.org/blog/jit-bitmap-text/ Comments URL: https://news.ycombinator.com/item?id=50412072 Points: 91 # Comments: 17"
    ],
    "source": "Hacker News",
    "url": "https://linebender.org/blog/jit-bitmap-text/",
@@ -227,38 +389,12 @@
    "id": "89f365ccf93a650b69b2f889b0226d88fdb9255b",
    "title": "Writing as a thinking tool",
    "summary": [
-    "Article URL: http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html Comments URL: https://news.ycombinator.com/item?id=50412067 Points: 174 # Comments: 56"
+    "Article URL: http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html Comments URL: https://news.ycombinator.com/item?id=50412067 Points: 255 # Comments: 76"
    ],
    "source": "Hacker News",
    "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
    "image": null,
    "published_at": "2026-11-08T10:41:52Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "5e9d3fd0e59ccb776c0fc24529575136232b3097",
-   "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-   "summary": [
-    "Article URL: https://github.com/synchopate/llama-modchip Comments URL: https://news.ycombinator.com/item?id=50411961 Points: 272 # Comments: 88"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/synchopate/llama-modchip",
-   "image": null,
-   "published_at": "2026-11-08T10:22:04Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "76aa428f83cc15ef87cb28d92dafb6c2470d74f1",
-   "title": "Agent memory needs its OpenTelemetry moment",
-   "summary": [
-    "Article URL: https://www.lorekit.io/blog/open-agent-memory-format Comments URL: https://news.ycombinator.com/item?id=50411467 Points: 143 # Comments: 97"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.lorekit.io/blog/open-agent-memory-format",
-   "image": null,
-   "published_at": "2026-11-08T08:40:23Z",
    "category": "tech",
    "related": []
   },
@@ -290,15 +426,15 @@
    "related": []
   },
   {
-   "id": "e66f4eeac8f3ba07dca3bf37622af135d8cf21c7",
-   "title": "Goodbye Claude, hello Pi",
+   "id": "14ea1f816d292445832ecb6aec3cc109faee1c9d",
+   "title": "Ukraine’s new frontier: how space has become critical to balance of the war",
    "summary": [
-    "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 594 # Comments: 384"
+    "In a war driven by drones and battlefield sensors, access to space is essential."
    ],
-   "source": "Hacker News",
-   "url": "https://caleb.software/posts/claude-to-pi.html",
-   "image": null,
-   "published_at": "2026-11-08T03:11:48Z",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/science/ng-interactive/2026/nov/08/ukraine-space-critical-war-starlink",
+   "image": "https://i.guim.co.uk/img/media/a2e74883c34189ee475959f8f42c735f8b9f1483/0_883_4000_3198/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=9edf40374512a24b3ad5de87b5e1040d",
+   "published_at": "2026-11-08T05:00:30Z",
    "category": "tech",
    "related": []
   },
@@ -312,19 +448,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-08T00:37:45Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "15a5be954f3eb5277144a3dc9ae4fbfe7654e68e",
-   "title": "Making any integer with four 2s (2025)",
-   "summary": [
-    "Article URL: https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/ Comments URL: https://news.ycombinator.com/item?id=50408713 Points: 191 # Comments: 51"
-   ],
-   "source": "Hacker News",
-   "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
-   "image": null,
-   "published_at": "2026-11-07T22:38:58Z",
    "category": "tech",
    "related": []
   },
@@ -355,19 +478,6 @@
    "related": []
   },
   {
-   "id": "5186d80b7eef562645f5a129edb9b36422b5932f",
-   "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-   "summary": [
-    "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 520 # Comments: 379"
-   ],
-   "source": "Hacker News",
-   "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-   "image": null,
-   "published_at": "2026-11-07T20:45:32Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "81aeae3b418c0aaefefffc12305ca998e968c11e",
    "title": "FAA announces first US digital air traffic control towers in Florida and Alaska",
    "summary": [
@@ -394,19 +504,6 @@
    "related": []
   },
   {
-   "id": "e4da1fc3654cef88cf2c3c5bee2e8cf79b7ef1c9",
-   "title": "What I run on my $10 USD OpenStick homelab",
-   "summary": [
-    "Article URL: https://blog.bosscher.ch/posts/openstick/ Comments URL: https://news.ycombinator.com/item?id=50406670 Points: 725 # Comments: 128"
-   ],
-   "source": "Hacker News",
-   "url": "https://blog.bosscher.ch/posts/openstick/",
-   "image": null,
-   "published_at": "2026-11-07T18:12:12Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "f777d8aa2bf4bf349888ba07aa9ec7fa62d64eb7",
    "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
    "summary": [
@@ -420,19 +517,6 @@
    "related": []
   },
   {
-   "id": "f7fffb994d85a6077ae0e4fe82068f528565d828",
-   "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
-   "summary": [
-    "Article URL: https://maxxbench.unlap.ai/research/why-maxxbench/ Comments URL: https://news.ycombinator.com/item?id=50406222 Points: 373 # Comments: 101"
-   ],
-   "source": "Hacker News",
-   "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
-   "image": null,
-   "published_at": "2026-11-07T17:19:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "de8f61359cd82e66d309c305b7f4a8add5bba33a",
    "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
    "summary": [
@@ -442,19 +526,6 @@
    "url": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
    "image": null,
    "published_at": "2026-11-07T17:18:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "67538c1327eac7e4208c06546078630f4c272e5a",
-   "title": "The Gordon Gekko effect: The role of culture in the financial industry (2016) [pdf]",
-   "summary": [
-    "Article URL: https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf Comments URL: https://news.ycombinator.com/item?id=50404747 Points: 73 # Comments: 49"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf",
-   "image": null,
-   "published_at": "2026-11-07T14:18:45Z",
    "category": "tech",
    "related": []
   },
@@ -483,74 +554,6 @@
    "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/07/philadelphia-blocking-food-delivery-robots",
    "image": "https://i.guim.co.uk/img/media/6c9b99624b2d4f830d94948c591fde5d07839cf9/148_0_6358_5086/master/6358.jpg?width=140&quality=85&auto=format&fit=max&s=731516b3b10b69bcfb54fdbce5864718",
    "published_at": "2026-11-07T14:00:12Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "48ebc69d655da24b30802be8333b0da3dcba2e6c",
-   "title": "A ‘customer success story’: leaked documents show Cisco doubled down on Israeli military deals during Gaza war",
-   "summary": [
-    "Tech giant leaped to shore up relationship even as company was roiled by worker protest over its role in the warA year into the war in Gaza, the networks of Israel’s military intelligence community were plagued with technical problems.",
-    "There were major, multi-hour outages to their systems, and repeated crashes."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/07/israel-intelligence-cisco-gaza-palestine",
-   "image": "https://i.guim.co.uk/img/media/60a84798eb17356220e1eb8ab76f14087a8cd747/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=cea2e5100ec572f808c1994331acef93",
-   "published_at": "2026-11-07T12:00:12Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "c1395cf60132524b3612f92943ac63e4d8e0353e",
-   "title": "Gotta buy ’em all: how Pokémon card collecting became race against scalpers",
-   "summary": [
-    "Fans trying to access latest releases are being priced out in a cut-throat market driven by crypto-like hypeThe runaway demand for Pokemon cards is because they are being hyped “like crypto”, according to one young fan who had spent the night queueing outside a London store to make sure he did not miss out on the latest card release.Before its 10am opening on Friday, the line outside the pop culture store Forbidden Planet in central London snaked past five others and, despite its strict sales policy, was probably “50/50” fans and resellers, said Kai, who had been there since 3am."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/games/2026/nov/07/gotta-buy-em-all-how-pokemon-card-collecting-became-race-against-scalpers",
-   "image": "https://i.guim.co.uk/img/media/add3efa623b78699ceac7a663e4ab615f38fb13d/378_0_3378_2704/master/3378.jpg?width=140&quality=85&auto=format&fit=max&s=9cbf16c0a06e9a9b6f60466fd302ad8a",
-   "published_at": "2026-11-07T12:00:11Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "aae7d52c6eaba4c2186afba9b484165e4b7302bd",
-   "title": "Lanarkshire AI datacentre to fully rely on National Grid despite renewables claim",
-   "summary": [
-    "But when the Guardian raised questions about the pledge, it said the arrangement was “subject to final commercial agreements, planning, grid and consenting processes”."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/07/lanarkshire-ai-datacentre-datavita-chapelhall-national-grid-renewable-energy",
-   "image": "https://i.guim.co.uk/img/media/c1b8eb2d05fbcf3925b8a30a9e3d4612d3eaa8c7/1365_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=3ef7aa4b0036b9e0fb5e9137ca280cb4",
-   "published_at": "2026-11-07T10:00:08Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "b7ff11958707349fa5f0009ee2396152a61d2e5c",
-   "title": "The datacentre arms race hits pause in south-east Asia",
-   "summary": [
-    "Power and water constraints are pressuring what seemed like a juggernaut of growth for the region just months agoIn early 2026, Thailand’s datacentre industry was on a roll.",
-    "Thailand paused construction on 49 projects and approval decisions on 117 more in September 2026, amidst growing concern about the lack of sufficient details for regulation and monitoring.",
-    "It is not alone in reconsidering datacentre projects."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/07/datacentres-southeast-asia",
-   "image": "https://i.guim.co.uk/img/media/97317ac683d16a9b43f8f91ba651c0c5be5113a7/836_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=b3dcfcb97fc179796641df3a7d439106",
-   "published_at": "2026-11-07T10:00:07Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "44d1c1e684bb0c503d8d0055d213dc5e1f622249",
-   "title": "TikTok accused of helping to promote sex industry to girls",
-   "summary": [
-    "Researchers say popular performers covertly market OnlyFans content and tell followers about wealthy lifestyleTikTok is helping to promote and normalise the sex industry, allowing “sexfluencers” to post videos aimed at marketing pornographic content they have uploaded elsewhere on sites such as OnlyFans, a report indicates.After studying non-explicit content posted on TikTok over the course of a year by some of OnlyFans’ most popular young female performers, researchers said the women buried coded references to pornography in “girly lifestyle content” that showed them shopping, playing with their pets, baking or offering skincare advice."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/07/tiktok-sex-industry-girls-onlyfans",
-   "image": "https://i.guim.co.uk/img/media/4c15ad088ea9124f8235261941f6a598cbe96eb1/0_0_2500_2001/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=49db3bd2ae088c593641c5fcdf9fe21d",
-   "published_at": "2026-11-07T09:00:07Z",
    "category": "tech",
    "related": []
   }
