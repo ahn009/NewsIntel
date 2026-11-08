@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-08T07:12:33.494619Z",
- "story_count": 8,
+ "generated_at": "2026-11-08T15:01:44.305796Z",
+ "story_count": 14,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -24,6 +24,60 @@
  },
  "stories": [
   {
+   "id": "b3823dfce331a133029d7ddf061961261225687e",
+   "title": "Dormice 'thrive' at National Trust site",
+   "summary": [
+    "Killerton National Trust has 100 nest boxes across its estate in Devon."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c50meerl8xp1o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-08T12:22:05Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "091c40b8df8f96626dd9ece79783b1336e93affe",
+   "title": "A nuclear blast could save Earth from an asteroid, but there's a catch",
+   "summary": [
+    "A nuclear explosion might save Earth from a deadly asteroid, but new research suggests that hitting the wrong side could make the difference between success and disaster.",
+    "Scientists found that an asteroid's irregular shape can dramatically affect how it responds to an X-ray blast, with deflection effectiveness varying nearly fivefold depending on the angle."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261106174532.htm",
+   "image": null,
+   "published_at": "2026-11-08T10:11:25Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "69d32c5a275bce4c84f922135c918e154822e54f",
+   "title": "Ancient Siberian tomb reveals surprising secrets of cannabis use 2,800 years ago",
+   "summary": [
+    "Scientists investigating a 2,800-year-old Siberian tomb discovered roughly 1,000 cannabis seeds and chemical evidence suggesting ancient Scythians used the plant for its intoxicating effects.",
+    "The remarkable find, surrounded by evidence of elaborate burial rituals and animal sacrifices, offers the oldest directly dated archaeological evidence of psychoactive cannabis use."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261106174528.htm",
+   "image": null,
+   "published_at": "2026-11-08T08:14:23Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "b4c24fa453190eb033274c006e4a1b0f39aabd7b",
+   "title": "Countryside managers prepare for climate change",
+   "summary": [
+    "North Pennines National Landscape's plan includes restoring peatland and wildfire preparedness."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c3ewe99dzdlpo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-08T07:16:55Z",
+   "category": "science",
+   "related": []
+  },
+  {
    "id": "5e71cbc7397da4ca3a86792965c139edb47483c6",
    "title": "Hundreds of seagrass shoots found in estuary",
    "summary": [
@@ -33,6 +87,75 @@
    "url": "https://www.bbc.co.uk/news/articles/ck1wvx3r9rgeo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-08T07:06:13Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "bd171fbe60e742b78d629c1ac00434804689ced4",
+   "title": "Scientists discover hidden brain changes linked to common sleep disorders",
+   "summary": [
+    "Scientists have discovered that sleep disorders are associated with structural changes in brain regions that control attention, decision-making, and emotions, potentially explaining why disrupted sleep can affect everyday thinking and behavior.",
+    "The findings, drawn from 57 brain imaging studies, reveal both shared and disorder-specific patterns that could lead to more targeted treatments."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261104012303.htm",
+   "image": null,
+   "published_at": "2026-11-08T04:47:52Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "cd5eca77b80ff812859156d488d05d181eca469d",
+   "title": "Scientists squeeze record-breaking X-ray power into an incredibly tiny spot",
+   "summary": [
+    "Scientists have created record-breaking X-ray flashes lasting just 300 attoseconds, concentrating enormous power into an incredibly tiny spot.",
+    "The breakthrough could unlock a new way to observe electrons in action and potentially control the ultrafast processes that drive chemical reactions."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261104012329.htm",
+   "image": null,
+   "published_at": "2026-11-08T03:46:51Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "815f64161be9122c72d793e8cddf5e3ea90b8817",
+   "title": "Stronger flu shot linked to nearly 55% lower Alzheimer's risk",
+   "summary": [
+    "A surprising new study suggests that a stronger flu shot could offer older adults significantly greater protection against Alzheimer's disease."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261105224609.htm",
+   "image": null,
+   "published_at": "2026-11-08T02:52:28Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "00f19074f4097983ac2b61df82f7633159e596f7",
+   "title": "Mysterious gas leaks suggest Mars may still be volcanically alive",
+   "summary": [
+    "Mysterious gas emissions and fresh volcanic fissures suggest that Mars may not be geologically dead after all, with hot magma potentially still active deep underground.",
+    "The discovery could point to hidden pockets of warmth and chemical energy capable of supporting microbial life beneath the Red Planet’s surface."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261106174525.htm",
+   "image": null,
+   "published_at": "2026-11-08T01:09:55Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "ff03b4bafa044c32af360ff9a026f943eadb359a",
+   "title": "A hidden limit of space and time could unlock electronics 100,000 times faster",
+   "summary": [
+    "Scientists have discovered a surprising quantum limit that prevents electrons from being tracked with unlimited precision in both space and time.",
+    "The breakthrough could pave the way for manipulating chemical reactions and developing electronics hundreds of thousands of times faster than today's technology."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm",
+   "image": null,
+   "published_at": "2026-11-07T23:34:19Z",
    "category": "science",
    "related": []
   },
@@ -89,48 +212,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cw98zzn7z04vo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-07T07:14:33Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "11487214155090fac10ba37d55d7c7b3e4dc0cf3",
-   "title": "One of the year's most prolific meteor showers to light up the night sky this weekend",
-   "summary": [
-    "The Leonid meteor shower, known for its bright and fast meteors, will kick off this weekend and continue until the end of November."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-07T02:03:28Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "467bfcc0f8cab596857e5cd93c58c56132e975d4",
-   "title": "A dead star's mysterious rings reveal what could happen when our Sun dies",
-   "summary": [
-    "Astronomers have discovered a strange double ring of planetary wreckage around a dead star, revealing a possible preview of our Solar System's distant future.",
-    "The two rings are separated by a mysterious gap that researchers believe is maintained by surviving planetary bodies, including one potentially as large as Pluto or the Moon.",
-    "Their different chemical compositions suggest they may contain the remains of separate destroyed planets."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261104012250.htm",
-   "image": null,
-   "published_at": "2026-11-06T22:12:56Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "eb9f81bba305fde524ef0ff22843ffe69164eae9",
-   "title": "Scientists accidentally solve a chemistry mystery that lasted 60 years",
-   "summary": [
-    "After more than 60 years of unsuccessful attempts, scientists have finally isolated stable examples of elusive boron-oxygen molecules once considered too unstable to capture.",
-    "The surprising breakthrough, achieved using relatively simple chemical reactions, could pave the way for an entirely new class of exotic compounds."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261103003205.htm",
-   "image": null,
-   "published_at": "2026-11-06T21:28:04Z",
    "category": "science",
    "related": []
   }

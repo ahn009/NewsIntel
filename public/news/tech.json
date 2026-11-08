@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T07:12:33.493868Z",
+ "generated_at": "2026-11-08T15:01:44.304905Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -24,10 +24,141 @@
  },
  "stories": [
   {
+   "id": "c14d10cd549c7544036b657cb8facb9d61b1d263",
+   "title": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
+   "summary": [
+    "The AutoBarista's \"Grind iQ\" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
+   "image": null,
+   "published_at": "2026-11-08T15:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "b87fc3d96a2dfda27332ca11c37c7abd4fff5b6a",
+   "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+   "summary": [
+    "The culture secretary confirms reports they could be in the list of platforms set to be banned next March."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-08T11:25:32Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a7064e2068c87c656ed824ad20241c473b0b3c34",
+   "title": "Person of Interest",
+   "summary": [
+    "Article URL: https://krthr.co/person-of-interest/ Comments URL: https://news.ycombinator.com/item?id=50412318 Points: 180 # Comments: 117"
+   ],
+   "source": "Hacker News",
+   "url": "https://krthr.co/person-of-interest/",
+   "image": null,
+   "published_at": "2026-11-08T11:23:28Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "7cbf7714d7200cce9fbbcc0650de18bfc1f2042d",
+   "title": "Petered (what happens after the Peter Principle)",
+   "summary": [
+    "Article URL: https://aworkinglibrary.com/writing/petered Comments URL: https://news.ycombinator.com/item?id=50412152 Points: 91 # Comments: 55"
+   ],
+   "source": "Hacker News",
+   "url": "https://aworkinglibrary.com/writing/petered",
+   "image": null,
+   "published_at": "2026-11-08T10:56:43Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "2803a1342d9d6e4e615b5641b63a43a58745fba1",
+   "title": "JIT bitmap text rendering for microcontrollers",
+   "summary": [
+    "Article URL: https://linebender.org/blog/jit-bitmap-text/ Comments URL: https://news.ycombinator.com/item?id=50412072 Points: 47 # Comments: 7"
+   ],
+   "source": "Hacker News",
+   "url": "https://linebender.org/blog/jit-bitmap-text/",
+   "image": null,
+   "published_at": "2026-11-08T10:42:15Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "89f365ccf93a650b69b2f889b0226d88fdb9255b",
+   "title": "Writing as a Thinking Tool",
+   "summary": [
+    "Article URL: http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html Comments URL: https://news.ycombinator.com/item?id=50412067 Points: 20 # Comments: 1"
+   ],
+   "source": "Hacker News",
+   "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+   "image": null,
+   "published_at": "2026-11-08T10:41:52Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "5e9d3fd0e59ccb776c0fc24529575136232b3097",
+   "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+   "summary": [
+    "Article URL: https://github.com/synchopate/llama-modchip Comments URL: https://news.ycombinator.com/item?id=50411961 Points: 82 # Comments: 30"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/synchopate/llama-modchip",
+   "image": null,
+   "published_at": "2026-11-08T10:22:04Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "76aa428f83cc15ef87cb28d92dafb6c2470d74f1",
+   "title": "Agent memory needs its OpenTelemetry moment",
+   "summary": [
+    "Article URL: https://www.lorekit.io/blog/open-agent-memory-format Comments URL: https://news.ycombinator.com/item?id=50411467 Points: 91 # Comments: 74"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.lorekit.io/blog/open-agent-memory-format",
+   "image": null,
+   "published_at": "2026-11-08T08:40:23Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "827e1a67c1201d44973900e9f2de8a05aee35e6d",
+   "title": "WaveDudeNext 2D Wave Simulator",
+   "summary": [
+    "Article URL: https://github.com/graealex/WaveDudeNext Comments URL: https://news.ycombinator.com/item?id=50411083 Points: 36 # Comments: 9"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/graealex/WaveDudeNext",
+   "image": null,
+   "published_at": "2026-11-08T07:09:02Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "08249d244a8316d25cfc65faa54e4d74c53a9c0e",
+   "title": "Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?",
+   "summary": [
+    "As AI exposes flaws in IT systems and geopolitics plays out on the cyber frontline, some experts say the events of recent weeks could soon be a common occurrenceAlex Pearce was doing the morning rounds at his fruit and vegetable wholesale business in London on Monday last week when he noticed something odd.The defrost light on refrigeration unit 2 was on, and the panel reading was 150C.",
+    "Unit 4 was the same."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic",
+   "image": "https://i.guim.co.uk/img/media/09d27a91ac5dc51fcea6ef2db11a85053e40bb50/0_158_4000_3198/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=61f705fa3e603f228abbd6c56fd24887",
+   "published_at": "2026-11-08T06:00:33Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "2b15b1cc1697e8a3409198092690c81399d94001",
    "title": "Kirlian Photography: Building Your Own Equipment",
    "summary": [
-    "Article URL: https://imagesco.com/articles/kirlian/kirlian-photography.html Comments URL: https://news.ycombinator.com/item?id=50410359 Points: 17 # Comments: 2"
+    "Article URL: https://imagesco.com/articles/kirlian/kirlian-photography.html Comments URL: https://news.ycombinator.com/item?id=50410359 Points: 61 # Comments: 16"
    ],
    "source": "Hacker News",
    "url": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
@@ -40,7 +171,7 @@
    "id": "3ad26f087baba09bef5f2fc3a8af63abda5169be",
    "title": "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
    "summary": [
-    "Article URL: https://github.com/dmunozv04/isponsorblocktv Comments URL: https://news.ycombinator.com/item?id=50410249 Points: 9 # Comments: 0"
+    "Article URL: https://github.com/dmunozv04/isponsorblocktv Comments URL: https://news.ycombinator.com/item?id=50410249 Points: 76 # Comments: 30"
    ],
    "source": "Hacker News",
    "url": "https://github.com/dmunozv04/isponsorblocktv",
@@ -53,7 +184,7 @@
    "id": "e66f4eeac8f3ba07dca3bf37622af135d8cf21c7",
    "title": "Goodbye Claude, Hello Pi",
    "summary": [
-    "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 141 # Comments: 82"
+    "Article URL: https://caleb.software/posts/claude-to-pi.html Comments URL: https://news.ycombinator.com/item?id=50410107 Points: 465 # Comments: 310"
    ],
    "source": "Hacker News",
    "url": "https://caleb.software/posts/claude-to-pi.html",
@@ -66,25 +197,12 @@
    "id": "41a5428cc5a23d0ed028c34eb1bc049d9aba67fd",
    "title": "Consumer brain wave headsets threaten privacy",
    "summary": [
-    "Article URL: https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F Comments URL: https://news.ycombinator.com/item?id=50409856 Points: 20 # Comments: 6"
+    "Article URL: https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F Comments URL: https://news.ycombinator.com/item?id=50409856 Points: 89 # Comments: 52"
    ],
    "source": "Hacker News",
    "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
    "image": null,
    "published_at": "2026-11-08T02:02:38Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "4fe6bf290bd6b928727262a135873aa35519f951",
-   "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
-   "summary": [
-    "Article URL: https://github.com/crmne/zapfast Comments URL: https://news.ycombinator.com/item?id=50409855 Points: 52 # Comments: 29"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/crmne/zapfast",
-   "image": null,
-   "published_at": "2026-11-08T02:02:27Z",
    "category": "tech",
    "related": []
   },
@@ -102,23 +220,10 @@
    "related": []
   },
   {
-   "id": "5148e26639109db38de3687b4cc625d6001a531f",
-   "title": "Commodore PET – The Worlds First Personal Computer",
-   "summary": [
-    "Article URL: https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/ Comments URL: https://news.ycombinator.com/item?id=50408961 Points: 44 # Comments: 15"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/",
-   "image": null,
-   "published_at": "2026-11-07T23:15:34Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "3bcdfa6e04aad911f2758654780c5d32368198f4",
    "title": "GitHub New pull request overview page in public preview",
    "summary": [
-    "Article URL: https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/ Comments URL: https://news.ycombinator.com/item?id=50408931 Points: 113 # Comments: 81"
+    "Article URL: https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/ Comments URL: https://news.ycombinator.com/item?id=50408931 Points: 159 # Comments: 108"
    ],
    "source": "Hacker News",
    "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
@@ -128,23 +233,10 @@
    "related": []
   },
   {
-   "id": "6243508cfb34ca50e62a471853c37a2ef5adfb7a",
-   "title": "IRA Velinsky – Commodore's Industrial Designer",
-   "summary": [
-    "Article URL: https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/ Comments URL: https://news.ycombinator.com/item?id=50408750 Points: 28 # Comments: 1"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/",
-   "image": null,
-   "published_at": "2026-11-07T22:45:39Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "15a5be954f3eb5277144a3dc9ae4fbfe7654e68e",
    "title": "Making any integer with four 2s (2025)",
    "summary": [
-    "Article URL: https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/ Comments URL: https://news.ycombinator.com/item?id=50408713 Points: 107 # Comments: 26"
+    "Article URL: https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/ Comments URL: https://news.ycombinator.com/item?id=50408713 Points: 169 # Comments: 46"
    ],
    "source": "Hacker News",
    "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
@@ -183,12 +275,25 @@
    "id": "5186d80b7eef562645f5a129edb9b36422b5932f",
    "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
    "summary": [
-    "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 322 # Comments: 222"
+    "Article URL: https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again Comments URL: https://news.ycombinator.com/item?id=50407882 Points: 470 # Comments: 330"
    ],
    "source": "Hacker News",
    "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
    "image": null,
    "published_at": "2026-11-07T20:45:32Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "81aeae3b418c0aaefefffc12305ca998e968c11e",
+   "title": "FAA announces first US digital air traffic control towers in Florida and Alaska",
+   "summary": [
+    "Systems provide 360-degree view of airport operations, but concerns have been raised about the technologyThe Federal Aviation Administration (FAA) has announced that the first digital air traffic control towers in the US are officially operational, bringing new technology first to smaller airports in Florida and Alaska as the Trump administration presses ahead with updating the country’s ageing aviation infrastructure.The systems are now online at the Bartow executive airport (KBOW) in Florida and the Kenai municipal airport (PAEN) in Alaska, with five additional regional airports slated to receive the technology next."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/07/faa-digital-air-traffic-control-tower-technology",
+   "image": "https://i.guim.co.uk/img/media/e713b6ce0cb3abec030579736ea07b0d1821a0da/334_0_3338_2670/master/3338.jpg?width=140&quality=85&auto=format&fit=max&s=0dec4bcc78b00a8ba4fada6d106eee57",
+   "published_at": "2026-11-07T20:03:23Z",
    "category": "tech",
    "related": []
   },
@@ -209,7 +314,7 @@
    "id": "e4da1fc3654cef88cf2c3c5bee2e8cf79b7ef1c9",
    "title": "What I run on my $10 USD OpenStick homelab",
    "summary": [
-    "Article URL: https://blog.bosscher.ch/posts/openstick/ Comments URL: https://news.ycombinator.com/item?id=50406670 Points: 503 # Comments: 99"
+    "Article URL: https://blog.bosscher.ch/posts/openstick/ Comments URL: https://news.ycombinator.com/item?id=50406670 Points: 663 # Comments: 121"
    ],
    "source": "Hacker News",
    "url": "https://blog.bosscher.ch/posts/openstick/",
@@ -223,38 +328,12 @@
    "title": "The end of Microsoft Research's AI Frontiers group",
    "summary": [
     "https://archive.is/AaY5Ohttps://businessexaminer.ca/victoria-articles/item/microsoft...",
-    "Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 439 # Comments: 260"
+    "Comments URL: https://news.ycombinator.com/item?id=50406563 Points: 477 # Comments: 290"
    ],
    "source": "Hacker News",
    "url": "https://hunch.net/?p=13764006",
    "image": null,
    "published_at": "2026-11-07T18:02:17Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "c38557adbea19537b34f4feaddef97c801eb9f5a",
-   "title": "GeoWorks, Microsoft Windows' Upstart '90s Competitor (2016)",
-   "summary": [
-    "Article URL: https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor Comments URL: https://news.ycombinator.com/item?id=50406502 Points: 55 # Comments: 20"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor",
-   "image": null,
-   "published_at": "2026-11-07T17:54:56Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "e2ddf63848ab645733ebf5e6944269c948502874",
-   "title": "Five memorable books about programming (2008)",
-   "summary": [
-    "Article URL: https://prog21.dadgum.com/19.html Comments URL: https://news.ycombinator.com/item?id=50406319 Points: 107 # Comments: 65"
-   ],
-   "source": "Hacker News",
-   "url": "https://prog21.dadgum.com/19.html",
-   "image": null,
-   "published_at": "2026-11-07T17:30:49Z",
    "category": "tech",
    "related": []
   },
@@ -290,7 +369,7 @@
    "id": "f7fffb994d85a6077ae0e4fe82068f528565d828",
    "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
    "summary": [
-    "Article URL: https://maxxbench.unlap.ai/research/why-maxxbench/ Comments URL: https://news.ycombinator.com/item?id=50406222 Points: 274 # Comments: 74"
+    "Article URL: https://maxxbench.unlap.ai/research/why-maxxbench/ Comments URL: https://news.ycombinator.com/item?id=50406222 Points: 342 # Comments: 95"
    ],
    "source": "Hacker News",
    "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
@@ -309,58 +388,6 @@
    "url": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
    "image": null,
    "published_at": "2026-11-07T17:18:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "9c95d9f4cc46cae2887084645757b259ad4f20f0",
-   "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
-   "summary": [
-    "Article URL: https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you Comments URL: https://news.ycombinator.com/item?id=50406111 Points: 434 # Comments: 281"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-   "image": null,
-   "published_at": "2026-11-07T17:06:36Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "d7778c9e4e9e6af196170eb05263eed427407229",
-   "title": "Every processor die anyone has photographed and given away",
-   "summary": [
-    "Article URL: https://sheets.works/data-viz/cpu-dies Comments URL: https://news.ycombinator.com/item?id=50405782 Points: 107 # Comments: 18"
-   ],
-   "source": "Hacker News",
-   "url": "https://sheets.works/data-viz/cpu-dies",
-   "image": null,
-   "published_at": "2026-11-07T16:21:36Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "65af8895cf55a38404be5c92a05a2044445acca6",
-   "title": "Retro Song Bird: Plug in any Game Boy cartridge to hear the soundtrack",
-   "summary": [
-    "Article URL: https://www.retrosongbird.com/ Comments URL: https://news.ycombinator.com/item?id=50405172 Points: 64 # Comments: 16"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.retrosongbird.com/",
-   "image": null,
-   "published_at": "2026-11-07T15:06:54Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "077466db6c7b4aa412b5bc147439835bb5ec41a0",
-   "title": "The $8 Linux Computer (2022)",
-   "summary": [
-    "Article URL: http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html Comments URL: https://news.ycombinator.com/item?id=50404599 Points: 219 # Comments: 87"
-   ],
-   "source": "Hacker News",
-   "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
-   "image": null,
-   "published_at": "2026-11-07T14:00:20Z",
    "category": "tech",
    "related": []
   },
@@ -420,6 +447,19 @@
    "related": []
   },
   {
+   "id": "f9f42d3a6e9f2eecbb664984a02504a25de098c4",
+   "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
+   "summary": [
+    "Article URL: https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/ Comments URL: https://news.ycombinator.com/item?id=50403507 Points: 379 # Comments: 378"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
+   "image": null,
+   "published_at": "2026-11-07T11:11:15Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "aae7d52c6eaba4c2186afba9b484165e4b7302bd",
    "title": "Lanarkshire AI datacentre to fully rely on National Grid despite renewables claim",
    "summary": [
@@ -444,6 +484,19 @@
    "url": "https://www.theguardian.com/technology/2026/nov/07/datacentres-southeast-asia",
    "image": "https://i.guim.co.uk/img/media/97317ac683d16a9b43f8f91ba651c0c5be5113a7/836_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=b3dcfcb97fc179796641df3a7d439106",
    "published_at": "2026-11-07T10:00:07Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "5ec03af4da1d836d9dad8f0be411db409e6bd298",
+   "title": "Every Mac comes with an (undocumented) family member classifier",
+   "summary": [
+    "Article URL: https://8rank.ai/game/apple-intelligence-personal-knowledge-graph Comments URL: https://news.ycombinator.com/item?id=50403097 Points: 773 # Comments: 420"
+   ],
+   "source": "Hacker News",
+   "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+   "image": null,
+   "published_at": "2026-11-07T09:46:03Z",
    "category": "tech",
    "related": []
   },
@@ -498,60 +551,6 @@
    "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
    "image": null,
    "published_at": "2026-11-07T05:01:54Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "afacb97b62128b379d91a4407c827e51fc734392",
-   "title": "Freezer meltdowns and airline hoaxes are a taste of things to come. Hoping for the best is no longer an option | Elisabeth Braw",
-   "summary": [
-    "Europe has to show the saboteurs that we are resilientIt was as though a ghostly hand had switched the settings on supermarket freezers across Europe from “freeze” to “defrost”.",
-    "Like pretty much everything else in 2026, supermarket freezers are digitally enabled.",
-    "Governments regularly warn retailers and other companies about cyber-attacks and even provide cyber-defence training to businesses."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/07/freezer-meltdowns-airline-hoaxes-greyzone-aggression-europe",
-   "image": "https://i.guim.co.uk/img/media/fcd2f563900100a09e32551733206c8276b969a9/896_0_5047_4037/master/5047.jpg?width=140&quality=85&auto=format&fit=max&s=fc9fb69476e03fe39d3ccddb2b9176ab",
-   "published_at": "2026-11-07T05:00:02Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "0819cd72b72eb53b0e2ca7c835ef4b2171cf18fa",
-   "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
-   "summary": [
-    "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
-   "image": null,
-   "published_at": "2026-11-07T04:16:43Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "c2107a5a7cf60537f369c36d5ad304c77510a2f1",
-   "title": "Crusoe sells troubled Wyoming data center project to Google",
-   "summary": [
-    "The deal highlights the challenges of developing massive AI data centers."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-   "image": null,
-   "published_at": "2026-11-07T01:40:28Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "118369de89f061c412ea65c20ee978af918c525e",
-   "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-   "summary": [
-    "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-   "image": null,
-   "published_at": "2026-11-06T22:53:46Z",
    "category": "tech",
    "related": []
   }
