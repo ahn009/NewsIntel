@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-08T23:38:53.785934Z",
- "story_count": 4,
+ "generated_at": "2026-11-09T06:04:38.753212Z",
+ "story_count": 5,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,32 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "9a163dd578211e1dfe8ef4ffa844c5f2b678ef24",
+   "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+   "summary": [
+    "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-09T00:50:06Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "58435d411c44147d5ccba0ea047af914bbbdfa0e",
+   "title": "Doing these things now will help you save money at Christmas",
+   "summary": [
+    "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-09T00:09:14Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "350bcda2063a9bbacb7f08a0931c3809ffdce9f1",
    "title": "Traders 'priced out' of £12,000 Christmas market pitches",
@@ -59,19 +85,6 @@
    "url": "https://www.bbc.co.uk/news/videos/cxnv0455zq5jo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-07T21:40:32Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "0545b1b04e570ff48a94b835ae043efbd919ed90",
-   "title": "Five European leaders call for closer EU-UK ties ahead of Brussels summit",
-   "summary": [
-    "Germany, Belgium, Netherlands, Luxembourg and Denmark say cooperation on clean energy will benefit both sidesFive European leaders have called for closer ties with Britain ahead of a keenly anticipated EU-UK summit.The leaders of Germany, Belgium, the Netherlands, Luxembourg and Denmark, said deeper cooperation on clean energy would benefit both sides in a letter to Ursula von der Leyen and António Costa."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/07/europe-leaders-call-closer-eu-uk-ties-brussels-summit",
-   "image": "https://i.guim.co.uk/img/media/a82621f2173bcdb47b29018958e54222130414c4/291_0_2520_2016/master/2520.jpg?width=140&quality=85&auto=format&fit=max&s=61faaabb5ec3b188e3a2f40a602a4f1e",
-   "published_at": "2026-11-07T15:30:35Z",
    "category": "business",
    "related": []
   }

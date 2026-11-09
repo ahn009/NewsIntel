@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-08T23:38:53.785256Z",
- "story_count": 40,
+ "generated_at": "2026-11-09T06:04:38.752863Z",
+ "story_count": 38,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -24,28 +24,124 @@
  },
  "stories": [
   {
+   "id": "fbc14e5f6ea51acf7e41dbc90f370bde25e02b07",
+   "title": "Jensen Huang: Silicon Valley superstar engulfed by personal scandal",
+   "summary": [
+    "Once lauded as the \"Taylor Swift of tech\", Huang is mired in scandal after an affair with a suspected Chinese spy."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-09T06:01:52Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "b10abbc74a2315ba64db799e4d7e9f35ff87c03e",
+   "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+   "summary": [
+    "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+   "image": null,
+   "published_at": "2026-11-09T05:26:29Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "8627f51ccc6bd7c2fa063f57e92d55f24f6a6e0d",
+   "title": "A Critique of GPUI",
+   "summary": [
+    "Article URL: https://blog.zortax.de/posts/a-critique-of-gpui Comments URL: https://news.ycombinator.com/item?id=50420857 Points: 48 # Comments: 17"
+   ],
+   "source": "Hacker News",
+   "url": "https://blog.zortax.de/posts/a-critique-of-gpui",
+   "image": null,
+   "published_at": "2026-11-09T03:51:10Z",
+   "category": "tech",
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://aphyr.com/posts/427-rip-harvest"
+    }
+   ]
+  },
+  {
+   "id": "928dacff669bad97a9d751828f1727c14f8403fd",
+   "title": "A Bit about Email",
+   "summary": [
+    "Article URL: https://maurycyz.com/misc/email/ Comments URL: https://news.ycombinator.com/item?id=50420383 Points: 16 # Comments: 2"
+   ],
+   "source": "Hacker News",
+   "url": "https://maurycyz.com/misc/email/",
+   "image": null,
+   "published_at": "2026-11-09T02:46:21Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "b1fb5a70556bf82423a41f24db61355ce87ded1a",
+   "title": "Unlocking any car from X brand in most of the world",
+   "summary": [
+    "Article URL: https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/ Comments URL: https://news.ycombinator.com/item?id=50419215 Points: 190 # Comments: 67"
+   ],
+   "source": "Hacker News",
+   "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+   "image": null,
+   "published_at": "2026-11-09T00:10:50Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "b4717b7762b78b196aae8577959f5cb13995ff11",
+   "title": "I'm not convinced the AI bubble exists",
+   "summary": [
+    "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 130 # Comments: 177"
+   ],
+   "source": "Hacker News",
+   "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+   "image": null,
+   "published_at": "2026-11-08T23:44:36Z",
+   "category": "tech",
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://serd.es/2026/11/08/playing-with-stm32mp2.html"
+    }
+   ]
+  },
+  {
+   "id": "6964c43b4ad45c4dbcbbd764c76b3884f79bdf89",
+   "title": "When a language's creator and its owners strongly disagree [pdf]",
+   "summary": [
+    "Article URL: https://isocpp.org/files/papers/P4454R0.pdf Comments URL: https://news.ycombinator.com/item?id=50418818 Points: 101 # Comments: 88"
+   ],
+   "source": "Hacker News",
+   "url": "https://isocpp.org/files/papers/P4454R0.pdf",
+   "image": null,
+   "published_at": "2026-11-08T23:28:01Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "8eab40c7ce416e4d9577f0c93326979dbabb467d",
    "title": "Chimera Vocal Synth",
    "summary": [
-    "Article URL: https://chimera-vocal-synth.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50418182 Points: 19 # Comments: 6"
+    "Article URL: https://chimera-vocal-synth.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50418182 Points: 156 # Comments: 23"
    ],
    "source": "Hacker News",
    "url": "https://chimera-vocal-synth.vercel.app/",
    "image": null,
    "published_at": "2026-11-08T22:36:03Z",
    "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "https://packethound.app/"
-    }
-   ]
+   "related": []
   },
   {
    "id": "2fab79d06b7a4b4ba55c4a6019c9aa9cb4241e54",
    "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
    "summary": [
-    "Article URL: https://ketchup3d.github.io/app/ Comments URL: https://news.ycombinator.com/item?id=50418176 Points: 14 # Comments: 2"
+    "Article URL: https://ketchup3d.github.io/app/ Comments URL: https://news.ycombinator.com/item?id=50418176 Points: 351 # Comments: 93"
    ],
    "source": "Hacker News",
    "url": "https://ketchup3d.github.io/app/",
@@ -55,13 +151,14 @@
    "related": []
   },
   {
-   "id": "4ac45e74548db3788dd5a63ec49276599a13085e",
+   "id": "9709ee9b2939f7735c603b054a0e7a301215998a",
    "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
    "summary": [
-    "Article URL: https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company Comments URL: https://news.ycombinator.com/item?id=50418016 Points: 190 # Comments: 159"
+    "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-aff..., https://archive.ph/Hxn5hhttps://www.nytimes.com/2026/11/06/us/politics/chinese-spy-a..., https://archive.ph/atMcphttps://www.cnn.com/2026/11/08/business/nvidia-investigation...",
+    "Comments URL: https://news.ycombinator.com/item?id=50418016 Points: 479 # Comments: 514"
    ],
    "source": "Hacker News",
-   "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
+   "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
    "image": null,
    "published_at": "2026-11-08T22:20:09Z",
    "category": "tech",
@@ -81,24 +178,11 @@
    "related": []
   },
   {
-   "id": "51be044a46f2798f0ce4d2fef4daa87d056b5688",
-   "title": "Show HN: SafeScript, a safe version of JavaScript for executing untrusted code",
-   "summary": [
-    "Article URL: https://github.com/SafeScript/safescript Comments URL: https://news.ycombinator.com/item?id=50417478 Points: 4 # Comments: 0"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/SafeScript/safescript",
-   "image": null,
-   "published_at": "2026-11-08T21:26:33Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "49db83e253edbf0771d468b99bafbdd0476979fa",
    "title": "Ask HN: What are you working on? (November 2026)",
    "summary": [
     "What have you been curious about lately?",
-    "Comments URL: https://news.ycombinator.com/item?id=50417407 Points: 65 # Comments: 309"
+    "Comments URL: https://news.ycombinator.com/item?id=50417407 Points: 180 # Comments: 596"
    ],
    "source": "Hacker News",
    "url": "https://news.ycombinator.com/item?id=50417407",
@@ -147,19 +231,6 @@
    "related": []
   },
   {
-   "id": "a24fdfddefa6b5e43959db83295bc5951bdac094",
-   "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
-   "summary": [
-    "Article URL: https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors Comments URL: https://news.ycombinator.com/item?id=50416801 Points: 321 # Comments: 253"
-   ],
-   "source": "Hacker News",
-   "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
-   "image": null,
-   "published_at": "2026-11-08T20:26:43Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "8f9edb697d23e20219f78d7a22d6e4ee6482f950",
    "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
    "summary": [
@@ -173,23 +244,10 @@
    "related": []
   },
   {
-   "id": "4e501f9826d014090ed9312e94f357780c8cd449",
-   "title": "Starship Flight 15 on 11/13 plans to catch both booster and ship",
-   "summary": [
-    "Article URL: https://www.spacex.com/launches/starship-flight-15 Comments URL: https://news.ycombinator.com/item?id=50416471 Points: 64 # Comments: 27"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.spacex.com/launches/starship-flight-15",
-   "image": null,
-   "published_at": "2026-11-08T19:49:46Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "c353641c8e4ce45c30f70761401165931b2d061d",
    "title": "The Web Is More Than Enough, by Paul Ford",
    "summary": [
-    "Article URL: https://ftrain.com/aboard-the-web-is-more-than-enough Comments URL: https://news.ycombinator.com/item?id=50416456 Points: 40 # Comments: 15"
+    "Article URL: https://ftrain.com/aboard-the-web-is-more-than-enough Comments URL: https://news.ycombinator.com/item?id=50416456 Points: 108 # Comments: 61"
    ],
    "source": "Hacker News",
    "url": "https://ftrain.com/aboard-the-web-is-more-than-enough",
@@ -202,7 +260,7 @@
    "id": "45fb196cb1bb2b06f21b2eb5e6fd52288b5fd9f4",
    "title": "How I Fight AI Brain Fry",
    "summary": [
-    "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 122 # Comments: 108"
+    "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 200 # Comments: 158"
    ],
    "source": "Hacker News",
    "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
@@ -213,9 +271,9 @@
   },
   {
    "id": "ec6779b05ebb24a90fced8bee83eb63c45b6ac78",
-   "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+   "title": "Outlook.com is rejecting email from domains without DMARC",
    "summary": [
-    "Article URL: https://mailroute.net/blog/outlook-rejecting-email-without-dmarc Comments URL: https://news.ycombinator.com/item?id=50416158 Points: 186 # Comments: 152"
+    "Article URL: https://mailroute.net/blog/outlook-rejecting-email-without-dmarc Comments URL: https://news.ycombinator.com/item?id=50416158 Points: 333 # Comments: 246"
    ],
    "source": "Hacker News",
    "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
@@ -228,7 +286,7 @@
    "id": "ddea982e4231abd2122fdf719ba17c656a255c98",
    "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
    "summary": [
-    "Article URL: https://duxlabs.dev/ Comments URL: https://news.ycombinator.com/item?id=50416053 Points: 155 # Comments: 49"
+    "Article URL: https://duxlabs.dev/ Comments URL: https://news.ycombinator.com/item?id=50416053 Points: 238 # Comments: 74"
    ],
    "source": "Hacker News",
    "url": "https://duxlabs.dev/",
@@ -238,28 +296,10 @@
    "related": []
   },
   {
-   "id": "2133bbe6b7b156cc759d3279b5b4ef599b8c6899",
-   "title": "Playing with the STM32MP2",
-   "summary": [
-    "Article URL: https://serd.es/2026/11/08/playing-with-stm32mp2.html Comments URL: https://news.ycombinator.com/item?id=50416014 Points: 23 # Comments: 11"
-   ],
-   "source": "Hacker News",
-   "url": "https://serd.es/2026/11/08/playing-with-stm32mp2.html",
-   "image": null,
-   "published_at": "2026-11-08T19:04:07Z",
-   "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "https://kevinboone.me/cpmzork.html"
-    }
-   ]
-  },
-  {
    "id": "a78801b83036129313094bc773949a575c7cf443",
    "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
    "summary": [
-    "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers Comments URL: https://news.ycombinator.com/item?id=50415628 Points: 526 # Comments: 320"
+    "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers Comments URL: https://news.ycombinator.com/item?id=50415628 Points: 688 # Comments: 384"
    ],
    "source": "Hacker News",
    "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
@@ -291,19 +331,6 @@
    "url": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
    "image": null,
    "published_at": "2026-11-08T17:30:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "11af8520fb86a34725150f7541072cf636df5284",
-   "title": "A field guide to CAPTCHA types and how they break",
-   "summary": [
-    "Article URL: https://github.com/vsmutok/FuckCaptcha Comments URL: https://news.ycombinator.com/item?id=50415078 Points: 43 # Comments: 12"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/vsmutok/FuckCaptcha",
-   "image": null,
-   "published_at": "2026-11-08T17:09:55Z",
    "category": "tech",
    "related": []
   },
@@ -350,7 +377,7 @@
    "id": "cac662825b6fce8f737eea73dc3fdb48845548c5",
    "title": "I'm not a fan of Deno's security model (2024)",
    "summary": [
-    "Article URL: https://goldstein.lol/posts/deno-security/ Comments URL: https://news.ycombinator.com/item?id=50413769 Points: 76 # Comments: 36"
+    "Article URL: https://goldstein.lol/posts/deno-security/ Comments URL: https://news.ycombinator.com/item?id=50413769 Points: 96 # Comments: 49"
    ],
    "source": "Hacker News",
    "url": "https://goldstein.lol/posts/deno-security/",
@@ -360,15 +387,17 @@
    "related": []
   },
   {
-   "id": "bc719b468fccc563415418a94a2c8ed1b73df252",
-   "title": "How to prove equations using diagrams, part 1",
+   "id": "a4c533ab2b702725119bca02a5db5a2221537c67",
+   "title": "The efficiency trap: why optimising everything can backfire, badly",
    "summary": [
-    "Article URL: https://www.epatters.org/post/e-graphs-1/ Comments URL: https://news.ycombinator.com/item?id=50412830 Points: 58 # Comments: 4"
+    "A protective flu jab offers some reassurance, but so does the thought that there will be a hospital bed for you, should you need it.",
+    "Yet, in England, about 95% of adult hospital beds were occupied at the height of flu season last year.If hospitals were hotels, that level of occupancy would be good business, and we would commend them for their efficiency.",
+    "But do we really want a hospital to have so few beds in reserve that it’s just one bad flu week away from having to treat patients in corridors?"
    ],
-   "source": "Hacker News",
-   "url": "https://www.epatters.org/post/e-graphs-1/",
-   "image": null,
-   "published_at": "2026-11-08T12:51:38Z",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/books/2026/nov/08/the-efficiency-trap-why-optimising-everything-can-backfire-badly",
+   "image": "https://i.guim.co.uk/img/media/e68bbef8dbe92c67f604bdd86917dcb9368a1049/0_349_1847_1476/master/1847.jpg?width=140&quality=85&auto=format&fit=max&s=c7091ded2f897e1aec5c686288270d78",
+   "published_at": "2026-11-08T12:00:39Z",
    "category": "tech",
    "related": []
   },
@@ -376,7 +405,7 @@
    "id": "2803a1342d9d6e4e615b5641b63a43a58745fba1",
    "title": "JIT bitmap text rendering for microcontrollers",
    "summary": [
-    "Article URL: https://linebender.org/blog/jit-bitmap-text/ Comments URL: https://news.ycombinator.com/item?id=50412072 Points: 91 # Comments: 17"
+    "Article URL: https://linebender.org/blog/jit-bitmap-text/ Comments URL: https://news.ycombinator.com/item?id=50412072 Points: 95 # Comments: 20"
    ],
    "source": "Hacker News",
    "url": "https://linebender.org/blog/jit-bitmap-text/",
@@ -389,14 +418,19 @@
    "id": "89f365ccf93a650b69b2f889b0226d88fdb9255b",
    "title": "Writing as a thinking tool",
    "summary": [
-    "Article URL: http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html Comments URL: https://news.ycombinator.com/item?id=50412067 Points: 255 # Comments: 76"
+    "Article URL: http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html Comments URL: https://news.ycombinator.com/item?id=50412067 Points: 318 # Comments: 84"
    ],
    "source": "Hacker News",
    "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
    "image": null,
    "published_at": "2026-11-08T10:41:52Z",
    "category": "tech",
-   "related": []
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "http://mamememo.blogspot.com/2010/09/qlobe.html"
+    }
+   ]
   },
   {
    "id": "f22d837c2d1d7f6ebf7e5f3dc8412a42d59ae62b",
@@ -500,60 +534,6 @@
    "url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
    "image": null,
    "published_at": "2026-11-07T19:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "f777d8aa2bf4bf349888ba07aa9ec7fa62d64eb7",
-   "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
-   "summary": [
-    "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
-   "image": null,
-   "published_at": "2026-11-07T17:24:07Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "de8f61359cd82e66d309c305b7f4a8add5bba33a",
-   "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
-   "summary": [
-    "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
-   "image": null,
-   "published_at": "2026-11-07T17:18:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "b348eade91a26c93b95d555bed28dbfe10224cb4",
-   "title": "The Trump administration wants underwater datacenters. One Great Lakes non-profit is already preparing",
-   "summary": [
-    "Tech companies like the idea, as they largely eliminate community opposition, and could cut down on utility costsWhile Elon Musk has often touted putting datacenters in space, reports suggest that another geographic area may soon become a widespread target: our lakes and oceans.Two underwater datacenters are already in operation off the coast of China, and recent reports suggest that the Trump administration is considering plans for four proposed underwater, sealed-pod datacenters to be built off the shores of Maine and Alaska."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/07/underwater-datacenters-great-lakes-trump",
-   "image": "https://i.guim.co.uk/img/media/90c2d090a335bb315daba9621a26b958330e6918/724_0_7212_5773/master/7212.jpg?width=140&quality=85&auto=format&fit=max&s=fa55f080faaeac50e942a94c3047ee52",
-   "published_at": "2026-11-07T14:00:14Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "022e329a512042ed536b0976144fd1d45175d011",
-   "title": "Standing in the way of slop bowls: the woman blocking food delivery robots",
-   "summary": [
-    "Tucked away in a dingy alley, opposite a garage called Patriot Parking, 78-year-old Carolyn Marvin is laying out some ground rules for a robot-disrupting expedition.",
-    "Once a suitable target is identified, we will follow it to a busy sidewalk and Marvin will stand in front of the robot, blocking its way.",
-    "The photographer and I will take turns ensuring we’re not all carted off by the police."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/07/philadelphia-blocking-food-delivery-robots",
-   "image": "https://i.guim.co.uk/img/media/6c9b99624b2d4f830d94948c591fde5d07839cf9/148_0_6358_5086/master/6358.jpg?width=140&quality=85&auto=format&fit=max&s=731516b3b10b69bcfb54fdbce5864718",
-   "published_at": "2026-11-07T14:00:12Z",
    "category": "tech",
    "related": []
   }
