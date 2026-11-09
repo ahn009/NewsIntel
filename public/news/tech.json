@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-09T06:04:38.752863Z",
- "story_count": 38,
+ "generated_at": "2026-11-09T16:04:06.107194Z",
+ "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -24,15 +24,247 @@
  },
  "stories": [
   {
-   "id": "fbc14e5f6ea51acf7e41dbc90f370bde25e02b07",
-   "title": "Jensen Huang: Silicon Valley superstar engulfed by personal scandal",
+   "id": "7acfd4df1c207d1e7ba524594e304d7bb0b709f2",
+   "title": "Meta expands Instagram’s AI age-guessing tech globally",
    "summary": [
-    "Once lauded as the \"Taylor Swift of tech\", Huang is mired in scandal after an affair with a suspected Chinese spy."
+    "Meta says it will use its AI technology to look for clues about people it suspects to be teenagers — even if they use an adult birthday."
    ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/",
    "image": null,
-   "published_at": "2026-11-09T06:01:52Z",
+   "published_at": "2026-11-09T15:32:27Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "878b2df8eff4525b1426578279d289ad44ef2bd1",
+   "title": "Waymo robotaxis kept illegally passing school buses after software fix, feds say",
+   "summary": [
+    "The update to Waymo's self-driving system was rolled out nearly a year ago."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/",
+   "image": null,
+   "published_at": "2026-11-09T15:24:59Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "bb1ab8dba6d9d4bab8dcf7e468a95c56268d96ff",
+   "title": "Crypto foundation demanded employees endorse suicide pledge",
+   "summary": [
+    "Article URL: https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/ Comments URL: https://news.ycombinator.com/item?id=50426899 Points: 16 # Comments: 9"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/",
+   "image": null,
+   "published_at": "2026-11-09T15:23:57Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "d55296af924f33a115af927341193e8f0b4ff390",
+   "title": "Zebkit – Chromium as an embeddable library",
+   "summary": [
+    "Article URL: https://github.com/ikey4u/zebkit Comments URL: https://news.ycombinator.com/item?id=50426207 Points: 40 # Comments: 21"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/ikey4u/zebkit",
+   "image": null,
+   "published_at": "2026-11-09T14:34:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "eea9b1843c8a5753bcda4b4a0b11af7e7d6ed12d",
+   "title": "Parents and teachers decry Google pledge to yank Search if schools block AI: ‘This threat is nothing but extortion’",
+   "summary": [
+    "The company said schools should have control over whether students use AI in the classroom, but that schools that choose to block Google’s AI tools will also lose access to its search engine."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/09/parents-teachers-google-search-schools-ai",
+   "image": "https://i.guim.co.uk/img/media/f9e7e92c7afc213ee5f07553302bd0c680f2720b/0_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=534a4116ff23636a52d743808193e31a",
+   "published_at": "2026-11-09T14:00:11Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "2da6f634525db415f83dd1a802a82cb9247a860b",
+   "title": "Meet Drops, the new music app bringing back the fun of sharing songs with friends",
+   "summary": [
+    "The new music discovery app lets users scroll through 10-to-30-second snippets of songs, comment, and share with friends."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends/",
+   "image": null,
+   "published_at": "2026-11-09T14:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "bd74b7cf0c1bc812c40a73b2e655563c45e1821d",
+   "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
+   "summary": [
+    "Automattic aims to compete with likes of Lovable with Spacefast"
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+   "image": null,
+   "published_at": "2026-11-09T14:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "247a6146d78ba9157554e509aab7270b16282f25",
+   "title": "Musk says Tesla will refund some Cybertruck deposits, defends decision to end production",
+   "summary": [
+    "Elon Musk defended the company's decision to stop making the Cybertruck, which will go out of production in around 8 months."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
+   "image": null,
+   "published_at": "2026-11-09T13:43:28Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "4c9d3c114f5ec3fc028b108e158922509d89527c",
+   "title": "Humans will never again create a project like Wikipedia",
+   "summary": [
+    "Article URL: https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia Comments URL: https://news.ycombinator.com/item?id=50424704 Points: 331 # Comments: 260"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia",
+   "image": null,
+   "published_at": "2026-11-09T12:30:20Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "71c69c4523e38767a140d18ceee4298b4e9209fb",
+   "title": "Fold Epic Paper Airplanes",
+   "summary": [
+    "Article URL: https://www.foldableflight.com Comments URL: https://news.ycombinator.com/item?id=50424581 Points: 353 # Comments: 67"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.foldableflight.com",
+   "image": null,
+   "published_at": "2026-11-09T12:19:22Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "017ffda2700c77f363c047268589bf6498b47723",
+   "title": "What is malloc doing, anyway?",
+   "summary": [
+    "Article URL: https://benmandrew.com/articles/what-is-malloc-doing-anyway Comments URL: https://news.ycombinator.com/item?id=50424157 Points: 94 # Comments: 18"
+   ],
+   "source": "Hacker News",
+   "url": "https://benmandrew.com/articles/what-is-malloc-doing-anyway",
+   "image": null,
+   "published_at": "2026-11-09T11:31:05Z",
+   "category": "tech",
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/"
+    }
+   ]
+  },
+  {
+   "id": "41c6725eded910e1e1507d3e35355e337b73a783",
+   "title": "Tesla expands robotaxi service to San Antonio",
+   "summary": [
+    "This will be the fourth Texas city in which Tesla will launch robotaxis."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
+   "image": null,
+   "published_at": "2026-11-09T11:30:24Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "11a2167fe1d6515da7545e6b416348a01add546a",
+   "title": "Today’s AI won’t achieve superintelligence. But catastrophic risk is real | Sunita Verma",
+   "summary": [
+    "The same technical limits that prevent superintelligence make these systems dangerous.",
+    "But we know how to regulate themMany Silicon Valley leaders believe superintelligence is an imminent threat to society.",
+    "The Anthropic CEO, Dario Amodei, argued that unchecked AI “could outrun our ability to understand and control these systems”."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/09/ai-superintelligence-risk",
+   "image": "https://i.guim.co.uk/img/media/61f2a12727abb4833954c062ef986ee4b1361691/497_0_4966_3972/master/4966.jpg?width=140&quality=85&auto=format&fit=max&s=87d19e8a1d315e06060f76c97505733e",
+   "published_at": "2026-11-09T11:00:07Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "1203c00b66fce8ec0cc3c81c133d2bd27fdf3664",
+   "title": "Fun things to do with your VM/370 CE machine – Fun with big computers",
+   "summary": [
+    "Article URL: https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/ Comments URL: https://news.ycombinator.com/item?id=50423569 Points: 75 # Comments: 12"
+   ],
+   "source": "Hacker News",
+   "url": "https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/",
+   "image": null,
+   "published_at": "2026-11-09T10:11:47Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ccbe947fd6b484da4a4ae734d7c0abb41bbf3306",
+   "title": "Crime pays: how Grand Theft Auto became a cultural colossus",
+   "summary": [
+    "Ever since it crashed on to PC and consoles in the late 90s, GTA has been tearing up the game-making rulebook.",
+    "Rockstar would sometimes begin its presentation not with footage from its new game, but clips from classic movies.",
+    "This is the context of what we are making, Rockstar was saying, and that is where we belong."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/games/2026/nov/09/grand-theft-auto-creators-gta",
+   "image": "https://i.guim.co.uk/img/media/c7262b2b31f4e3d5755f1c6fb351f69798afcb64/297_0_1406_1125/master/1406.jpg?width=140&quality=85&auto=format&fit=max&s=4bbac76f2a319e91ed6091b5a4fafe4f",
+   "published_at": "2026-11-09T10:00:05Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "3f5393a450c5a4940c429a5048227d0862ac393b",
+   "title": "Borrowing a Microsoft-signed shim to abuse Secure Boot on corporate hardware",
+   "summary": [
+    "Article URL: https://leosmith.wtf/blog/not-so-secure-boot.html Comments URL: https://news.ycombinator.com/item?id=50423151 Points: 28 # Comments: 8"
+   ],
+   "source": "Hacker News",
+   "url": "https://leosmith.wtf/blog/not-so-secure-boot.html",
+   "image": null,
+   "published_at": "2026-11-09T09:22:30Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a9c06162812cf7ad0d887094abd0bc64d33afe33",
+   "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+   "summary": [
+    "Article URL: https://arxiv.org/abs/2610.14162 Comments URL: https://news.ycombinator.com/item?id=50422168 Points: 146 # Comments: 33"
+   ],
+   "source": "Hacker News",
+   "url": "https://arxiv.org/abs/2610.14162",
+   "image": null,
+   "published_at": "2026-11-09T07:20:37Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "53c633f38dc858f9db02129a2daee05e14c29115",
+   "title": "British people don’t trust Palantir – it’s not too late to reverse the NHS’s dependence on it | Ben Coleman",
+   "summary": [
+    "It won’t be easy, but next spring the job of clawing it back must beginBen Coleman is Labour MP for Chelsea and Fulham and a member of the health and social care committeeNext March, Palantir’s £330m contract to run NHS England’s federated data platform (FDP) ends.",
+    "They should move on from Palantir, and transition to new suppliers that put the NHS in full control of its technology and patient data.I sit on the health and social care committee.",
+    "But that would not give the NHS the control it lacks: the freedom to switch supplier without losing what it has built.Ben Coleman is Labour MP for Chelsea and Fulham and a member of the health and social care committee Continue reading..."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/09/british-people-palantir-nhs-health-data-us-tech-firm",
+   "image": "https://i.guim.co.uk/img/media/cd2ae82f92f835963dbd32bd2ff67aa7268b2b97/1073_0_6243_4994/master/6243.jpg?width=140&quality=85&auto=format&fit=max&s=42887642e45d1be894c281a75fd1b789",
+   "published_at": "2026-11-09T06:00:02Z",
    "category": "tech",
    "related": []
   },
@@ -50,33 +282,30 @@
    "related": []
   },
   {
-   "id": "8627f51ccc6bd7c2fa063f57e92d55f24f6a6e0d",
-   "title": "A Critique of GPUI",
+   "id": "6b17c6abdcc1ed011428afccf91570c78255203b",
+   "title": "‘Thicky thicky dumb dumb’ satirist Cody Dahler on his viral videos: ‘my material is presented to me on a silver platter!’",
    "summary": [
-    "Article URL: https://blog.zortax.de/posts/a-critique-of-gpui Comments URL: https://news.ycombinator.com/item?id=50420857 Points: 48 # Comments: 17"
+    "The writer and podcaster on why politics is made to seem more complicated than it is and his mission to unpack world events for everyoneWhy did you get into comedy?",
+    "Given that I have zero rhythm, comedy was my other option.",
+    "In a world where Robert Jenrick claims Nigel Farage has “probably done more than almost anybody to stand against racism”, the answer is that my material is presented to me on a silver platter each morning."
    ],
-   "source": "Hacker News",
-   "url": "https://blog.zortax.de/posts/a-critique-of-gpui",
-   "image": null,
-   "published_at": "2026-11-09T03:51:10Z",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/stage/2026/nov/09/cody-dahler-the-state-of-this-thicky-thicky-dumb-dumb-comedy",
+   "image": "https://i.guim.co.uk/img/media/59055f0d397c465621f8da5eb34b10408c20a92c/32_171_1454_1163/master/1454.jpg?width=140&quality=85&auto=format&fit=max&s=1e4b70f85ecc4c6125027c91ef16991c",
+   "published_at": "2026-11-09T05:00:59Z",
    "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "https://aphyr.com/posts/427-rip-harvest"
-    }
-   ]
+   "related": []
   },
   {
-   "id": "928dacff669bad97a9d751828f1727c14f8403fd",
-   "title": "A Bit about Email",
+   "id": "285f83056600dcf19dd58d5a8b6503dee625f287",
+   "title": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
    "summary": [
-    "Article URL: https://maurycyz.com/misc/email/ Comments URL: https://news.ycombinator.com/item?id=50420383 Points: 16 # Comments: 2"
+    "Decision models need their own inference engine.So we developed Flide, a high-performance and exact inference engine for Jev-like decision models.Flide achieves up to a 9.5x speedup over vLLM and SGLang.It now supports 30+ popular local Jev-like decision models.Start to make your"
    ],
    "source": "Hacker News",
-   "url": "https://maurycyz.com/misc/email/",
+   "url": "https://github.com/OmniJev/Flide",
    "image": null,
-   "published_at": "2026-11-09T02:46:21Z",
+   "published_at": "2026-11-09T04:43:12Z",
    "category": "tech",
    "related": []
   },
@@ -84,7 +313,7 @@
    "id": "b1fb5a70556bf82423a41f24db61355ce87ded1a",
    "title": "Unlocking any car from X brand in most of the world",
    "summary": [
-    "Article URL: https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/ Comments URL: https://news.ycombinator.com/item?id=50419215 Points: 190 # Comments: 67"
+    "Article URL: https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/ Comments URL: https://news.ycombinator.com/item?id=50419215 Points: 521 # Comments: 275"
    ],
    "source": "Hacker News",
    "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
@@ -97,30 +326,12 @@
    "id": "b4717b7762b78b196aae8577959f5cb13995ff11",
    "title": "I'm not convinced the AI bubble exists",
    "summary": [
-    "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 130 # Comments: 177"
+    "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 454 # Comments: 780"
    ],
    "source": "Hacker News",
    "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
    "image": null,
    "published_at": "2026-11-08T23:44:36Z",
-   "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "https://serd.es/2026/11/08/playing-with-stm32mp2.html"
-    }
-   ]
-  },
-  {
-   "id": "6964c43b4ad45c4dbcbbd764c76b3884f79bdf89",
-   "title": "When a language's creator and its owners strongly disagree [pdf]",
-   "summary": [
-    "Article URL: https://isocpp.org/files/papers/P4454R0.pdf Comments URL: https://news.ycombinator.com/item?id=50418818 Points: 101 # Comments: 88"
-   ],
-   "source": "Hacker News",
-   "url": "https://isocpp.org/files/papers/P4454R0.pdf",
-   "image": null,
-   "published_at": "2026-11-08T23:28:01Z",
    "category": "tech",
    "related": []
   },
@@ -128,7 +339,7 @@
    "id": "8eab40c7ce416e4d9577f0c93326979dbabb467d",
    "title": "Chimera Vocal Synth",
    "summary": [
-    "Article URL: https://chimera-vocal-synth.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50418182 Points: 156 # Comments: 23"
+    "Article URL: https://chimera-vocal-synth.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50418182 Points: 296 # Comments: 52"
    ],
    "source": "Hacker News",
    "url": "https://chimera-vocal-synth.vercel.app/",
@@ -141,7 +352,7 @@
    "id": "2fab79d06b7a4b4ba55c4a6019c9aa9cb4241e54",
    "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
    "summary": [
-    "Article URL: https://ketchup3d.github.io/app/ Comments URL: https://news.ycombinator.com/item?id=50418176 Points: 351 # Comments: 93"
+    "Article URL: https://ketchup3d.github.io/app/ Comments URL: https://news.ycombinator.com/item?id=50418176 Points: 648 # Comments: 191"
    ],
    "source": "Hacker News",
    "url": "https://ketchup3d.github.io/app/",
@@ -155,7 +366,7 @@
    "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
    "summary": [
     "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-aff..., https://archive.ph/Hxn5hhttps://www.nytimes.com/2026/11/06/us/politics/chinese-spy-a..., https://archive.ph/atMcphttps://www.cnn.com/2026/11/08/business/nvidia-investigation...",
-    "Comments URL: https://news.ycombinator.com/item?id=50418016 Points: 479 # Comments: 514"
+    "Comments URL: https://news.ycombinator.com/item?id=50418016 Points: 857 # Comments: 1042"
    ],
    "source": "Hacker News",
    "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
@@ -182,7 +393,7 @@
    "title": "Ask HN: What are you working on? (November 2026)",
    "summary": [
     "What have you been curious about lately?",
-    "Comments URL: https://news.ycombinator.com/item?id=50417407 Points: 180 # Comments: 596"
+    "Comments URL: https://news.ycombinator.com/item?id=50417407 Points: 252 # Comments: 887"
    ],
    "source": "Hacker News",
    "url": "https://news.ycombinator.com/item?id=50417407",
@@ -244,36 +455,10 @@
    "related": []
   },
   {
-   "id": "c353641c8e4ce45c30f70761401165931b2d061d",
-   "title": "The Web Is More Than Enough, by Paul Ford",
-   "summary": [
-    "Article URL: https://ftrain.com/aboard-the-web-is-more-than-enough Comments URL: https://news.ycombinator.com/item?id=50416456 Points: 108 # Comments: 61"
-   ],
-   "source": "Hacker News",
-   "url": "https://ftrain.com/aboard-the-web-is-more-than-enough",
-   "image": null,
-   "published_at": "2026-11-08T19:48:32Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "45fb196cb1bb2b06f21b2eb5e6fd52288b5fd9f4",
-   "title": "How I Fight AI Brain Fry",
-   "summary": [
-    "Article URL: https://sergeykuhne.com/blog/fighting-ai-brain-fry Comments URL: https://news.ycombinator.com/item?id=50416363 Points: 200 # Comments: 158"
-   ],
-   "source": "Hacker News",
-   "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-   "image": null,
-   "published_at": "2026-11-08T19:37:42Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "ec6779b05ebb24a90fced8bee83eb63c45b6ac78",
    "title": "Outlook.com is rejecting email from domains without DMARC",
    "summary": [
-    "Article URL: https://mailroute.net/blog/outlook-rejecting-email-without-dmarc Comments URL: https://news.ycombinator.com/item?id=50416158 Points: 333 # Comments: 246"
+    "Article URL: https://mailroute.net/blog/outlook-rejecting-email-without-dmarc Comments URL: https://news.ycombinator.com/item?id=50416158 Points: 491 # Comments: 334"
    ],
    "source": "Hacker News",
    "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
@@ -286,25 +471,12 @@
    "id": "ddea982e4231abd2122fdf719ba17c656a255c98",
    "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
    "summary": [
-    "Article URL: https://duxlabs.dev/ Comments URL: https://news.ycombinator.com/item?id=50416053 Points: 238 # Comments: 74"
+    "Article URL: https://duxlabs.dev/ Comments URL: https://news.ycombinator.com/item?id=50416053 Points: 323 # Comments: 123"
    ],
    "source": "Hacker News",
    "url": "https://duxlabs.dev/",
    "image": null,
    "published_at": "2026-11-08T19:08:51Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "a78801b83036129313094bc773949a575c7cf443",
-   "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-   "summary": [
-    "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers Comments URL: https://news.ycombinator.com/item?id=50415628 Points: 688 # Comments: 384"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-   "image": null,
-   "published_at": "2026-11-08T18:16:07Z",
    "category": "tech",
    "related": []
   },
@@ -318,6 +490,19 @@
    "url": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
    "image": null,
    "published_at": "2026-11-08T18:00:04Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "836d3453271e05d215f681be8d4fd1c778494dd3",
+   "title": "Labour expected to cut EV targets for UK’s car industry despite MPs’ protests",
+   "summary": [
+    "Exclusive: Louise Haigh likely to weaken mandate for sales that forms key part of emission reduction planAnalysis: Climate always comes second – are green issues slipping down Burnham’s agenda?Ministers are expected to make steep cuts to the government’s electric vehicle (EV) targets this week, in a move that will relieve carmakers but alarm many Labour MPs who are worried about the government’s commitment to the green agenda.Louise Haigh, the de facto deputy prime minister, will finalise the plan after a crunch meeting in Downing Street on Wednesday to settle a long-running dispute between the transport, energy and business departments."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/2026/nov/08/labour-cut-ev-target-car-industry-despite-climate-concerns",
+   "image": "https://i.guim.co.uk/img/media/2db94dc51d06421443808c322eecd0e97b2d330b/27_0_4763_3811/master/4763.jpg?width=140&quality=85&auto=format&fit=max&s=1b4cf9fd666a4b3707f6b50a2765ee86",
+   "published_at": "2026-11-08T17:51:19Z",
    "category": "tech",
    "related": []
   },
@@ -370,170 +555,6 @@
    "url": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
    "image": null,
    "published_at": "2026-11-08T15:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "cac662825b6fce8f737eea73dc3fdb48845548c5",
-   "title": "I'm not a fan of Deno's security model (2024)",
-   "summary": [
-    "Article URL: https://goldstein.lol/posts/deno-security/ Comments URL: https://news.ycombinator.com/item?id=50413769 Points: 96 # Comments: 49"
-   ],
-   "source": "Hacker News",
-   "url": "https://goldstein.lol/posts/deno-security/",
-   "image": null,
-   "published_at": "2026-11-08T14:42:38Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "a4c533ab2b702725119bca02a5db5a2221537c67",
-   "title": "The efficiency trap: why optimising everything can backfire, badly",
-   "summary": [
-    "A protective flu jab offers some reassurance, but so does the thought that there will be a hospital bed for you, should you need it.",
-    "Yet, in England, about 95% of adult hospital beds were occupied at the height of flu season last year.If hospitals were hotels, that level of occupancy would be good business, and we would commend them for their efficiency.",
-    "But do we really want a hospital to have so few beds in reserve that it’s just one bad flu week away from having to treat patients in corridors?"
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/books/2026/nov/08/the-efficiency-trap-why-optimising-everything-can-backfire-badly",
-   "image": "https://i.guim.co.uk/img/media/e68bbef8dbe92c67f604bdd86917dcb9368a1049/0_349_1847_1476/master/1847.jpg?width=140&quality=85&auto=format&fit=max&s=c7091ded2f897e1aec5c686288270d78",
-   "published_at": "2026-11-08T12:00:39Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "2803a1342d9d6e4e615b5641b63a43a58745fba1",
-   "title": "JIT bitmap text rendering for microcontrollers",
-   "summary": [
-    "Article URL: https://linebender.org/blog/jit-bitmap-text/ Comments URL: https://news.ycombinator.com/item?id=50412072 Points: 95 # Comments: 20"
-   ],
-   "source": "Hacker News",
-   "url": "https://linebender.org/blog/jit-bitmap-text/",
-   "image": null,
-   "published_at": "2026-11-08T10:42:15Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "89f365ccf93a650b69b2f889b0226d88fdb9255b",
-   "title": "Writing as a thinking tool",
-   "summary": [
-    "Article URL: http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html Comments URL: https://news.ycombinator.com/item?id=50412067 Points: 318 # Comments: 84"
-   ],
-   "source": "Hacker News",
-   "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
-   "image": null,
-   "published_at": "2026-11-08T10:41:52Z",
-   "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "http://mamememo.blogspot.com/2010/09/qlobe.html"
-    }
-   ]
-  },
-  {
-   "id": "f22d837c2d1d7f6ebf7e5f3dc8412a42d59ae62b",
-   "title": "‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints",
-   "summary": [
-    "“It is definitely more taxing.” Continue reading..."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence",
-   "image": "https://i.guim.co.uk/img/media/82c6e92cb6cbcabc717462a79d11fbaac898da2c/0_0_5906_4724/master/5906.jpg?width=140&quality=85&auto=format&fit=max&s=94570b4f9d7eac5982f2eba6f0827561",
-   "published_at": "2026-11-08T08:00:36Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "08249d244a8316d25cfc65faa54e4d74c53a9c0e",
-   "title": "Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?",
-   "summary": [
-    "As AI exposes flaws in IT systems and geopolitics plays out on the cyber frontline, some experts say the events of recent weeks could soon be a common occurrenceAlex Pearce was doing the morning rounds at his fruit and vegetable wholesale business in London on Monday last week when he noticed something odd.The defrost light on refrigeration unit 2 was on, and the panel reading was 150C.",
-    "Unit 4 was the same."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic",
-   "image": "https://i.guim.co.uk/img/media/09d27a91ac5dc51fcea6ef2db11a85053e40bb50/0_158_4000_3198/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=61f705fa3e603f228abbd6c56fd24887",
-   "published_at": "2026-11-08T06:00:33Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "14ea1f816d292445832ecb6aec3cc109faee1c9d",
-   "title": "Ukraine’s new frontier: how space has become critical to balance of the war",
-   "summary": [
-    "In a war driven by drones and battlefield sensors, access to space is essential."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/science/ng-interactive/2026/nov/08/ukraine-space-critical-war-starlink",
-   "image": "https://i.guim.co.uk/img/media/a2e74883c34189ee475959f8f42c735f8b9f1483/0_883_4000_3198/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=9edf40374512a24b3ad5de87b5e1040d",
-   "published_at": "2026-11-08T05:00:30Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "4e69f89a3a15c3c57454837edcd05a3e5ceda65b",
-   "title": "Can the Zelda remake capture the magic of the original?",
-   "summary": [
-    "Nintendo has released its remake of what is considered one of the best games ever made - the BBC's Tom Gerken gives his verdict."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-08T00:37:45Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "d44fec61ccb764a3800546ca9fda3dee7ea60bb1",
-   "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-   "summary": [
-    "On Equity, we unpacked what the midterms mean for the tech industry."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-   "image": null,
-   "published_at": "2026-11-07T22:07:22Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "2c93e9013ac15b4c158d5aa95ac7df4346244366",
-   "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-   "summary": [
-    "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-   "image": null,
-   "published_at": "2026-11-07T21:17:08Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "81aeae3b418c0aaefefffc12305ca998e968c11e",
-   "title": "FAA announces first US digital air traffic control towers in Florida and Alaska",
-   "summary": [
-    "Systems provide 360-degree view of airport operations, but concerns have been raised about the technologyThe Federal Aviation Administration (FAA) has announced that the first digital air traffic control towers in the US are officially operational, bringing new technology first to smaller airports in Florida and Alaska as the Trump administration presses ahead with updating the country’s ageing aviation infrastructure.The systems are now online at the Bartow executive airport (KBOW) in Florida and the Kenai municipal airport (PAEN) in Alaska, with five additional regional airports slated to receive the technology next."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/07/faa-digital-air-traffic-control-tower-technology",
-   "image": "https://i.guim.co.uk/img/media/e713b6ce0cb3abec030579736ea07b0d1821a0da/334_0_3338_2670/master/3338.jpg?width=140&quality=85&auto=format&fit=max&s=0dec4bcc78b00a8ba4fada6d106eee57",
-   "published_at": "2026-11-07T20:03:23Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "782ffd47a51f10f84d9c0fb97ea315fe7804c05b",
-   "title": "Parents want safer phones for kids. These companies are answering the call.",
-   "summary": [
-    "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
-   "image": null,
-   "published_at": "2026-11-07T19:00:00Z",
    "category": "tech",
    "related": []
   }

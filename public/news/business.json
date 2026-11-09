@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-09T06:04:38.753212Z",
- "story_count": 5,
+ "generated_at": "2026-11-09T16:04:06.107716Z",
+ "story_count": 12,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -24,6 +24,32 @@
  },
  "stories": [
   {
+   "id": "c58d7e0e8d4bb2a3db026d29a44a35ccfbc5ecf3",
+   "title": "Action on energy costs is my overriding aim, says Fahnbulleh",
+   "summary": [
+    "The energy secretary says reducing bills is key to maintaining public support for climate action."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmz7x7q7q8vvo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-09T16:01:19Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "5f5cb4ebacd3954d3ff9b9932e574b1d95def999",
+   "title": "Nvidia’s value tumbles by $330bn after ‘honeytrap’ investigation launched, as China denies spying claims – business live",
+   "summary": [
+    "Shares in world’s most valuable company hit seven-month low after CEO Huang admits to affair, after allegations of relationship with Chinese spyNvidia opens investigation after report CEO Jensen Huang was target of foreign intelligenceHuang is receiving support from some fellow t"
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates",
+   "image": "https://i.guim.co.uk/img/media/08b95212f11f3d89e76bc0696f48e07fec9913c3/2_0_1971_1577/master/1971.jpg?width=140&quality=85&auto=format&fit=max&s=38f5d69d097ceb497e05f287de44be52",
+   "published_at": "2026-11-09T15:45:15Z",
+   "category": "business",
+   "related": []
+  },
+  {
    "id": "9a163dd578211e1dfe8ef4ffa844c5f2b678ef24",
    "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
    "summary": [
@@ -32,7 +58,99 @@
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-09T00:50:06Z",
+   "published_at": "2026-11-09T15:42:30Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "cb84f65d2a5c346cd76353327c98bc146177b471",
+   "title": "Civil servant who juggled five jobs found guilty of fraud",
+   "summary": [
+    "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-09T15:33:35Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "03f2cc428bd4a5c35f72f62fb015713ef62af850",
+   "title": "Rising cost of living tests UK's net zero ambitions",
+   "summary": [
+    "From floods to wildfires to heatwaves, 2026 is the year it became hard to ignore the impact of climate change on UK weather.",
+    "But will soaring living costs affect the government’s commitment to tackling climate change?"
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/cm1dwd4e4ywvo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-09T13:42:03Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "f03fc21c1881897fe9a2add9ea54d3d3ec3b3172",
+   "title": "Government's EV targets expected to be reduced this week",
+   "summary": [
+    "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-09T12:06:22Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "b653c461e3860d9e862afdc5bff427b0e9c2a7f0",
+   "title": "Economic relief is on the way, Democrats say. But what, how and when?",
+   "summary": [
+    "Winning candidates promised to cut costs, rein in corporations, curb billionaire power and improve the economyDon’t worry, cash-strapped Americans, “relief is on the way”, the senator Chuck Schumer promised last week in a press conference celebrating Democrats’ massive midterms win.Winning candidates promised to cut food and healthcare costs, rein in corporations ripping off consumers and workers, curb billionaire power and make the world’s biggest economy better serve the working class."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/09/democrats-midterms-economy-healthcare",
+   "image": "https://i.guim.co.uk/img/media/3a8e041b1ffd178a038a02782c554293ae66c6fa/234_0_3164_2533/master/3164.jpg?width=140&quality=85&auto=format&fit=max&s=fc99693f076985a68290bb8204c2d34d",
+   "published_at": "2026-11-09T11:00:07Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "7ff1c10afc2f48d0640b12b48989ceb27fac6861",
+   "title": "Is it the end of free school milk?",
+   "summary": [
+    "Free school milk has been provided to children in Wales since the 1970s, but that could now change."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/c65ynnx2e7kko?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-09T08:12:30Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "89254e8187b4712bc6f1a2f3f8503d685aff5b94",
+   "title": "Hut owner wins battle to keep living in off-grid home he built",
+   "summary": [
+    "The man has lived in the self-built hut since 2020 - but never told authorities or asked for permission."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c933x074xz58o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-09T06:13:11Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "86a5bc3887c36d41cf5879a0905450c4c7f8c0db",
+   "title": "How you can get council's £250 cost of living help",
+   "summary": [
+    "Applications for household grants of up to £250 are opening to some Surrey residents."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmd6dd3652zvo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-09T06:11:28Z",
    "category": "business",
    "related": []
   },
@@ -50,41 +168,15 @@
    "related": []
   },
   {
-   "id": "350bcda2063a9bbacb7f08a0931c3809ffdce9f1",
-   "title": "Traders 'priced out' of £12,000 Christmas market pitches",
+   "id": "525373ac9a1d9ef61bf66ce46ce8113e4811039d",
+   "title": "Chinese carmaker BYD’s offices in Netherlands raided over JLR ‘copycat car’ claim",
    "summary": [
-    "Stall holders said they'd met the council leader to express their concerns at high costs since a new operator took over."
+    "Bailiffs reportedly seized digital records before court case over alleged intellectual property breaches on Land Rover DefenderBailiffs acting for Jaguar Land Rover raided the Dutch offices of a Chinese “copycat” rival before a legal showdown this week over whether its “Defender clone” infringes intellectual property rights.Bailiffs acting on behalf of JLR reportedly seized digital records from the offices of Chinese carmaker BYD in Schiedam and Hoofddorp in August, according to the Sunday Times."
    ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ckn8wew92xw1o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-08T07:11:02Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "b466e88afd7dcb67460b167041222cf4f3ee6cef",
-   "title": "He spent $50,000 on Labubus but now the craze is dying",
-   "summary": [
-    "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-07T23:02:35Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "1bbb64d2e8b89a8ab0cd1b436df8c6b301efe9e8",
-   "title": "Ipswich Town's new club shop 'here to stay'",
-   "summary": [
-    "Fans and players are delighted at the new \"activation space\" in the town centre."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/cxnv0455zq5jo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-07T21:40:32Z",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/08/chinese-carmaker-byd-offices-raided-netherlands-land-rover-copycat-claim",
+   "image": "https://i.guim.co.uk/img/media/df3641cd7932ef0f9d4ed70becb2641c5d68b0eb/334_0_1666_1333/master/1666.jpg?width=140&quality=85&auto=format&fit=max&s=1ea67ae59ab4bf614766c2310f73b0c2",
+   "published_at": "2026-11-08T16:50:58Z",
    "category": "business",
    "related": []
   }
