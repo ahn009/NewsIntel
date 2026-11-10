@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T16:04:06.107194Z",
+ "generated_at": "2026-11-10T00:11:28.069628Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -24,6 +24,527 @@
  },
  "stories": [
   {
+   "id": "6a0e52570825f435def5194ebc6c1f920491b777",
+   "title": "Tracking the Harm of DOGE Cuts",
+   "summary": [
+    "Article URL: https://www.clasp.org/doge-tracker/ Comments URL: https://news.ycombinator.com/item?id=50433978 Points: 67 # Comments: 3"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.clasp.org/doge-tracker/",
+   "image": null,
+   "published_at": "2026-11-09T23:40:54Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "9b0466c1eb021a36f3a35080d2526ac4ec82c66a",
+   "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+   "summary": [
+    "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+   "image": null,
+   "published_at": "2026-11-09T23:28:37Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "b3e146f4d749171ca121021daf639d5e15a91f31",
+   "title": "Hotel giant Wyndham exposed customer data after app security lapse",
+   "summary": [
+    "Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data.",
+    "The hotel giant wouldn't say if it has the ability to check for any past unauthorized access."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
+   "image": null,
+   "published_at": "2026-11-09T23:03:46Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "3c40bebd524077292a0d5adf749c7abc3b1746b8",
+   "title": "Exact – a new cross platform UI framework by the Expo team",
+   "summary": [
+    "Article URL: https://github.com/expo/exact Comments URL: https://news.ycombinator.com/item?id=50433541 Points: 11 # Comments: 5"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/expo/exact",
+   "image": null,
+   "published_at": "2026-11-09T22:59:13Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "432027aa0838b90958621870f6825d43c2760fc6",
+   "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+   "summary": [
+    "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+   "image": null,
+   "published_at": "2026-11-09T22:46:09Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "09274ed8ecd7dd5c691c378e18e03cc5e743e83d",
+   "title": "The race is on to sue Nvidia",
+   "summary": [
+    "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+   "image": null,
+   "published_at": "2026-11-09T22:23:42Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "faf2bdff916c2901fd5aad4c8ce97da4ef7262d3",
+   "title": "I did a meditation and it sort of changed my personality?",
+   "summary": [
+    "Article URL: https://www.benkuhn.net/meditation/ Comments URL: https://news.ycombinator.com/item?id=50433129 Points: 11 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.benkuhn.net/meditation/",
+   "image": null,
+   "published_at": "2026-11-09T22:23:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ed213adeba37dce7c28882655e6450243906bd0b",
+   "title": "TPUs",
+   "summary": [
+    "Article URL: https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/ Comments URL: https://news.ycombinator.com/item?id=50432831 Points: 152 # Comments: 20"
+   ],
+   "source": "Hacker News",
+   "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+   "image": null,
+   "published_at": "2026-11-09T21:56:57Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a122d1bf94c5904e722402fa25f0f57dfacd3d24",
+   "title": "Supply chain attack on Qubole customers",
+   "summary": [
+    "Article URL: https://sentra.io/blog/breaches/inside-the-qubole-supply-chain-attack Comments URL: https://news.ycombinator.com/item?id=50432147 Points: 15 # Comments: 6"
+   ],
+   "source": "Hacker News",
+   "url": "https://sentra.io/blog/breaches/inside-the-qubole-supply-chain-attack",
+   "image": null,
+   "published_at": "2026-11-09T21:07:26Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "be6d9f91051fd73a367e7c991b22a8a4dfcd8d25",
+   "title": "Fervo now has $12B in orders for its geothermal power tech",
+   "summary": [
+    "Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in Utah."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/",
+   "image": null,
+   "published_at": "2026-11-09T20:55:34Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "506a7d7aad4b028986ca67d5434e8352afcbd51c",
+   "title": "Jensen Huang’s image has been shattered. Could he be pushed out at Nvidia?",
+   "summary": [
+    "Huang built Nvidia as a family business but after the co-founder had an affair with an alleged Chinese spy, its board faces a difficult decisionFor more than 30 years, Jensen Huang has been the seemingly unshakable public face of Nvidia.",
+    "He co-founded the company as a young engineer in 1993 and oversaw its growth into a multitrillion dollar chipmaker and bellwether of the AI industry at large.He’s also made it a family business.",
+    "While not a company executive, his wife, Lori Mills Huang, leads the family foundation which, as of 2024, controls over 60m Nvidia shares."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/09/jensen-huang-image-nvidia",
+   "image": "https://i.guim.co.uk/img/media/55b2e52d9f44f9c355f1d6205d0dc7ce85b47cbe/345_0_3849_3080/master/3849.jpg?width=140&quality=85&auto=format&fit=max&s=afdecc31729b9181eb40ced7efa95880",
+   "published_at": "2026-11-09T20:27:07Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "3541a994b8f0a12c2e2f405c535aecf782cada2e",
+   "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+   "summary": [
+    "The Nvidia CEO also pulled out of an Anthropic event earlier."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+   "image": null,
+   "published_at": "2026-11-09T20:09:06Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "255b56db4a4a44d0d4a2de8a77fb172cf2dc5a84",
+   "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+   "summary": [
+    "Article URL: https://artificialanalysis.ai/models/claude-fable-5-2 Comments URL: https://news.ycombinator.com/item?id=50431144 Points: 254 # Comments: 175"
+   ],
+   "source": "Hacker News",
+   "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+   "image": null,
+   "published_at": "2026-11-09T20:04:55Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ebc96c3f5b6c20f3b62559acdaee499402563fac",
+   "title": "The AI poster boy, the ‘Chinese spy’ and Trump: how an affair may have harmed US security",
+   "summary": [
+    "Jensen Huang’s close relationship with president means Nvidia CEO’s affair with woman alleged to be working for Beijing is under intense scrutinyA hand on the back, a kiss on the cheek; the footage of Alice Huang’s interaction with Jensen Huang in a Taipei venue last year does not seem particularly remarkable at first glance.But the Nvidia chief executive’s revelation on Sunday that he had an affair with Ms Huang has given it new significance."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/09/nvidia-affair-huang-trump-national-security",
+   "image": "https://i.guim.co.uk/img/media/b4b824c7d10e7e9cf32fc762d69d763186eb0815/898_0_2126_1701/master/2126.jpg?width=140&quality=85&auto=format&fit=max&s=a719322d934a458d16dd90c7e5930f84",
+   "published_at": "2026-11-09T20:01:05Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "1130d877dd4cae01c03b70a747a4c3a031edc956",
+   "title": "USPS now offers official ZIP Code boundary polygons",
+   "summary": [
+    "Article URL: https://postalpro.usps.com/zcb Comments URL: https://news.ycombinator.com/item?id=50431058 Points: 391 # Comments: 195"
+   ],
+   "source": "Hacker News",
+   "url": "https://postalpro.usps.com/zcb",
+   "image": null,
+   "published_at": "2026-11-09T19:58:59Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "dc00d8f8c3be0777f2e3463546f2078006eb8d5c",
+   "title": "Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)",
+   "summary": [
+    "Article URL: https://parkgraph.com/parking-app-fees Comments URL: https://news.ycombinator.com/item?id=50430991 Points: 45 # Comments: 25"
+   ],
+   "source": "Hacker News",
+   "url": "https://parkgraph.com/parking-app-fees",
+   "image": null,
+   "published_at": "2026-11-09T19:55:53Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "63c11913c8fbbe3211517482575687fcac469060",
+   "title": "YouTube streaming data returns to Billboard charts, ending major disagreement",
+   "summary": [
+    "YouTube will resume sharing streaming data with Billboard in 2027 after changes to the chart formula give more weight to free, ad-supported music streams."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/",
+   "image": null,
+   "published_at": "2026-11-09T19:39:41Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "fc11e7ab68934d4bcf61c210621dc9076f5c8f30",
+   "title": "CUI – Native UI components for C",
+   "summary": [
+    "Article URL: https://yappologistic.github.io/CUI/ Comments URL: https://news.ycombinator.com/item?id=50430621 Points: 140 # Comments: 71"
+   ],
+   "source": "Hacker News",
+   "url": "https://yappologistic.github.io/CUI/",
+   "image": null,
+   "published_at": "2026-11-09T19:35:16Z",
+   "category": "tech",
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://e-means.github.io/"
+    }
+   ]
+  },
+  {
+   "id": "56a49980686e6366f2f4cf5ddabb27d293150491",
+   "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+   "summary": [
+    "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+   "image": null,
+   "published_at": "2026-11-09T19:24:51Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "9021bc9e2db8fd492687095527557c4437ee0f7d",
+   "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+   "summary": [
+    "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+   "image": null,
+   "published_at": "2026-11-09T19:21:46Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a9d5fc43a01def8ae3fc17419b995cde5bb73a99",
+   "title": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
+   "summary": [
+    "France's foreign minister blamed Iran for launching at least two waves of cyberattacks targeting industrial refrigerated and freezer units across France and wider Europe."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/",
+   "image": null,
+   "published_at": "2026-11-09T19:19:24Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "796a7f7ee338b70fa58b8f6d3d2f21d8f08f0e22",
+   "title": "Claude Fable 5.2 and Mythos 5.2",
+   "summary": [
+    "Article URL: https://www.anthropic.com/claude-fable-and-mythos-5-2 Comments URL: https://news.ycombinator.com/item?id=50429906 Points: 855 # Comments: 514"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+   "image": null,
+   "published_at": "2026-11-09T18:56:29Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "3b1b1624118706512fa2a70b8b06eff9e572eeb1",
+   "title": "Show HN: Someone Was Here – Find out who used your Mac while you were away",
+   "summary": [
+    "It all runs locally on your Mac with no tracking or ads.Real-time remote alerts are available via one-time $4.99 lifetime purchase via the free companion iPhone/iPad app, Pushover, ntfy, Telegram or a webhook.",
+    "Comments URL: https://news.ycombinator.com/item?id=50429812 Points: 46 # Comments: 18"
+   ],
+   "source": "Hacker News",
+   "url": "https://someonewashere.app/",
+   "image": null,
+   "published_at": "2026-11-09T18:50:56Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "f0a7364ef803e186daf306c0bbfb2c9277ccfdc3",
+   "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+   "summary": [
+    "I've since taken it in a more phone-first direction, with work on the interaction, streaming and security layers.",
+    "I've credited OpenDisplay and its developer Philip in the README under \"Built on OpenDisplay\".MeowDisplay is my take on the control your Mac from your phone scene.",
+    "Floating windows: coming in the 2.1 release.Touch input approaches: Direct Touch(Classic or Natural), experimental Smart Touch, and Trackpad mode alongside Apple Pencil support."
+   ],
+   "source": "Hacker News",
+   "url": "https://meowdisplay.app/",
+   "image": null,
+   "published_at": "2026-11-09T18:39:22Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "53d4a4a12968e84d91bca246fa0a95d1ea7f93b1",
+   "title": "DeepX claims inference up to 100B parameters at less than 5 W",
+   "summary": [
+    "Article URL: https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/ Comments URL: https://news.ycombinator.com/item?id=50429545 Points: 136 # Comments: 22"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/",
+   "image": null,
+   "published_at": "2026-11-09T18:33:58Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "e18cab0e30e95e16d44e388f45a8b4827700a695",
+   "title": "Infineon marks innovation milestone with 300mm power silicon carbide wafer",
+   "summary": [
+    "Article URL: https://www.infineon.com/press-release/2026/infpr202611-028 Comments URL: https://news.ycombinator.com/item?id=50429430 Points: 91 # Comments: 55"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
+   "image": null,
+   "published_at": "2026-11-09T18:25:01Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "1b18e8c9acf73639c21b05ec6b44f20b8e848ba7",
+   "title": "Google Gemini routes personal Drive files and emails to human annotators",
+   "summary": [
+    "Article URL: https://github.com/thisisme6598/gemini_files/ Comments URL: https://news.ycombinator.com/item?id=50429426 Points: 314 # Comments: 72"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/thisisme6598/gemini_files/",
+   "image": null,
+   "published_at": "2026-11-09T18:24:38Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "faa2c8a3a82075751ad44d31243f538950ca9f66",
+   "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+   "summary": [
+    "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+   "image": null,
+   "published_at": "2026-11-09T18:09:52Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "99d632aaa41667526b1d0c7d4eb67e0cd558fd99",
+   "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+   "summary": [
+    "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+   "image": null,
+   "published_at": "2026-11-09T18:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "feb2ba2115590aafaa5bb7048f59684d671aadd6",
+   "title": "Our Smallest, Most Efficient Model: Muse Ember",
+   "summary": [
+    "Article URL: https://research.meta.ai/blog/muse-ember Comments URL: https://news.ycombinator.com/item?id=50429024 Points: 225 # Comments: 96"
+   ],
+   "source": "Hacker News",
+   "url": "https://research.meta.ai/blog/muse-ember",
+   "image": null,
+   "published_at": "2026-11-09T17:58:46Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "cb7863665107d049fe4e6d5be9b4a8055f42c94f",
+   "title": "Revealed: Palantir lobbied minister to stretch AI tools’ reach to NHS GP records",
+   "summary": [
+    "The push came in February this year despite GP data being expressly ruled out of the scope of Palantir’s existing £330m contract with NHS England to run its federated data platform (FDP), which it says has helped cut surgery waiting times and discharge delays."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records",
+   "image": "https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=140&quality=85&auto=format&fit=max&s=7f86011f4d4d9f2a535c3ab895ab5f7e",
+   "published_at": "2026-11-09T17:58:05Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "167dd95f3231049779c80373aa9bda13fe660f24",
+   "title": "Who is Alice Huang, the woman linked to Nvidia’s CEO?",
+   "summary": [
+    "The lack of public information about the Megaspeed boss is fuelling claims she is a Chinese intelligence assetThere is little public information available about Alice Huang, the woman reportedly at the centre of the Jensen Huang honeypot allegations, a fact that has only added fuel to claims she is a Chinese intelligence asset.She was the chief executive of a Singapore-based datacentre company reportedly suspected of evading US export controls and routing Nvidia chips to China."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/09/who-is-alice-huang-the-woman-linked-to-nvidias-ceo",
+   "image": "https://i.guim.co.uk/img/media/b4b824c7d10e7e9cf32fc762d69d763186eb0815/888_0_2126_1701/master/2126.jpg?width=140&quality=85&auto=format&fit=max&s=c5e0157bda56635089dee4f05e9e649e",
+   "published_at": "2026-11-09T17:57:42Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "2d576da8fefc8eb912e827116e9e56a799a9a202",
+   "title": "Show HN: Every satellite that passed over any place this week, and its photos",
+   "summary": [
+    "hey HN, i built this because i wanted to know what had actually photographed my street.type in any place and it finds every satellite that passed over it in the last 7 days (SGP4 on the CelesTrak catalog, runs in your browser in about half a second), then pulls the real Sentinel-2 / Landsat / NASA images from those passes.some fun bits: - the pass search can't skip a pass.",
+    "checked it against a brute force on poles, the antimeridian and tiny swaths: 0 missed - all ~17k objects in orbit are drawn on the GPU, solving Kepler's equation every frame - Sentinel-2 timestamps are often 5-10 min off from when the sat actually crosses your spot, which was a fun one to figure outit only says \"watched\" if a real image exists, and it doesn't store your location.code: https://github.com/dev-Armaan/satelliteswould love feedback, especially on what data sources to add Comments URL: https://news.ycombinator.com/item?id=50428907 Points: 209 # Comments: 43"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.watched.earth",
+   "image": null,
+   "published_at": "2026-11-09T17:51:31Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ba436dfdc0d3e84d341ade2f45ee0236f99c7709",
+   "title": "Nvidia’s board needs to do some succession planning – sharpish | Nils Pratley",
+   "summary": [
+    "The chipmaker faces business risks and political scrutiny due to its over-reliance on founder and CEO Jensen HuangWhy is Nvidia’s Jensen Huang at the centre of a US-China row?Too big – and too well-connected – to sack?",
+    "One doesn’t have to be overly cynical to think Jensen Huang, the Nvidia boss, starts with one huge advantage as the chipmaker’s board starts its independent investigation into the alleged honeytrap spy scandal.",
+    "The world of US big tech is not, to put it mildly, strong on checks and balances on a founder’s power.Huang does not enjoy the supercharged voting rights that are par for the course elsewhere – his shareholding is a plain vanilla 3.6%."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/09/nvidia-board-jensen-huang",
+   "image": "https://i.guim.co.uk/img/media/ca8a563c8870958117c887980ea56de8f955a9f2/526_0_2134_1708/master/2134.jpg?width=140&quality=85&auto=format&fit=max&s=86b0f27ad305114a4a2f242505daffff",
+   "published_at": "2026-11-09T17:06:23Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "4d584363b40e0a5165d6d61aa9c4eaf49d6db72f",
+   "title": "Y/N (YC S23) is hiring a growth lead to distribute superhuman A.I. storytelling",
+   "summary": [
+    "Article URL: https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer Comments URL: https://news.ycombinator.com/item?id=50428266 Points: 0 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer",
+   "image": null,
+   "published_at": "2026-11-09T17:00:06Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "3fa06ed954eaa4f2caecdc6e612ef2c4e14fe4c0",
+   "title": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
+   "summary": [
+    "Uber Parking is the latest example of the company offering products beyond its core ride-hailing service."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/",
+   "image": null,
+   "published_at": "2026-11-09T17:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "d75c80b5454dda4b23d5bb848c445de2b45f5161",
+   "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+   "summary": [
+    "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+   "image": null,
+   "published_at": "2026-11-09T16:56:54Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "dbd9680f73cbc53865d90cc5bc157bfb04eeffa3",
+   "title": "Medium’s new TK app brings AI assistance directly into the writing process",
+   "summary": [
+    "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+   "image": null,
+   "published_at": "2026-11-09T16:12:28Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "3ef732dd0eb2ada62cadb34f7e136103f3175350",
+   "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+   "summary": [
+    "Article URL: https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy Comments URL: https://news.ycombinator.com/item?id=50427362 Points: 444 # Comments: 253"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+   "image": null,
+   "published_at": "2026-11-09T16:00:45Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "7acfd4df1c207d1e7ba524594e304d7bb0b709f2",
    "title": "Meta expands Instagram’s AI age-guessing tech globally",
    "summary": [
@@ -33,528 +554,6 @@
    "url": "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/",
    "image": null,
    "published_at": "2026-11-09T15:32:27Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "878b2df8eff4525b1426578279d289ad44ef2bd1",
-   "title": "Waymo robotaxis kept illegally passing school buses after software fix, feds say",
-   "summary": [
-    "The update to Waymo's self-driving system was rolled out nearly a year ago."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/",
-   "image": null,
-   "published_at": "2026-11-09T15:24:59Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "bb1ab8dba6d9d4bab8dcf7e468a95c56268d96ff",
-   "title": "Crypto foundation demanded employees endorse suicide pledge",
-   "summary": [
-    "Article URL: https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/ Comments URL: https://news.ycombinator.com/item?id=50426899 Points: 16 # Comments: 9"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/",
-   "image": null,
-   "published_at": "2026-11-09T15:23:57Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "d55296af924f33a115af927341193e8f0b4ff390",
-   "title": "Zebkit – Chromium as an embeddable library",
-   "summary": [
-    "Article URL: https://github.com/ikey4u/zebkit Comments URL: https://news.ycombinator.com/item?id=50426207 Points: 40 # Comments: 21"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/ikey4u/zebkit",
-   "image": null,
-   "published_at": "2026-11-09T14:34:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "eea9b1843c8a5753bcda4b4a0b11af7e7d6ed12d",
-   "title": "Parents and teachers decry Google pledge to yank Search if schools block AI: ‘This threat is nothing but extortion’",
-   "summary": [
-    "The company said schools should have control over whether students use AI in the classroom, but that schools that choose to block Google’s AI tools will also lose access to its search engine."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/09/parents-teachers-google-search-schools-ai",
-   "image": "https://i.guim.co.uk/img/media/f9e7e92c7afc213ee5f07553302bd0c680f2720b/0_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=534a4116ff23636a52d743808193e31a",
-   "published_at": "2026-11-09T14:00:11Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "2da6f634525db415f83dd1a802a82cb9247a860b",
-   "title": "Meet Drops, the new music app bringing back the fun of sharing songs with friends",
-   "summary": [
-    "The new music discovery app lets users scroll through 10-to-30-second snippets of songs, comment, and share with friends."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends/",
-   "image": null,
-   "published_at": "2026-11-09T14:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "bd74b7cf0c1bc812c40a73b2e655563c45e1821d",
-   "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
-   "summary": [
-    "Automattic aims to compete with likes of Lovable with Spacefast"
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
-   "image": null,
-   "published_at": "2026-11-09T14:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "247a6146d78ba9157554e509aab7270b16282f25",
-   "title": "Musk says Tesla will refund some Cybertruck deposits, defends decision to end production",
-   "summary": [
-    "Elon Musk defended the company's decision to stop making the Cybertruck, which will go out of production in around 8 months."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
-   "image": null,
-   "published_at": "2026-11-09T13:43:28Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "4c9d3c114f5ec3fc028b108e158922509d89527c",
-   "title": "Humans will never again create a project like Wikipedia",
-   "summary": [
-    "Article URL: https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia Comments URL: https://news.ycombinator.com/item?id=50424704 Points: 331 # Comments: 260"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia",
-   "image": null,
-   "published_at": "2026-11-09T12:30:20Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "71c69c4523e38767a140d18ceee4298b4e9209fb",
-   "title": "Fold Epic Paper Airplanes",
-   "summary": [
-    "Article URL: https://www.foldableflight.com Comments URL: https://news.ycombinator.com/item?id=50424581 Points: 353 # Comments: 67"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.foldableflight.com",
-   "image": null,
-   "published_at": "2026-11-09T12:19:22Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "017ffda2700c77f363c047268589bf6498b47723",
-   "title": "What is malloc doing, anyway?",
-   "summary": [
-    "Article URL: https://benmandrew.com/articles/what-is-malloc-doing-anyway Comments URL: https://news.ycombinator.com/item?id=50424157 Points: 94 # Comments: 18"
-   ],
-   "source": "Hacker News",
-   "url": "https://benmandrew.com/articles/what-is-malloc-doing-anyway",
-   "image": null,
-   "published_at": "2026-11-09T11:31:05Z",
-   "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/"
-    }
-   ]
-  },
-  {
-   "id": "41c6725eded910e1e1507d3e35355e337b73a783",
-   "title": "Tesla expands robotaxi service to San Antonio",
-   "summary": [
-    "This will be the fourth Texas city in which Tesla will launch robotaxis."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
-   "image": null,
-   "published_at": "2026-11-09T11:30:24Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "11a2167fe1d6515da7545e6b416348a01add546a",
-   "title": "Today’s AI won’t achieve superintelligence. But catastrophic risk is real | Sunita Verma",
-   "summary": [
-    "The same technical limits that prevent superintelligence make these systems dangerous.",
-    "But we know how to regulate themMany Silicon Valley leaders believe superintelligence is an imminent threat to society.",
-    "The Anthropic CEO, Dario Amodei, argued that unchecked AI “could outrun our ability to understand and control these systems”."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/09/ai-superintelligence-risk",
-   "image": "https://i.guim.co.uk/img/media/61f2a12727abb4833954c062ef986ee4b1361691/497_0_4966_3972/master/4966.jpg?width=140&quality=85&auto=format&fit=max&s=87d19e8a1d315e06060f76c97505733e",
-   "published_at": "2026-11-09T11:00:07Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "1203c00b66fce8ec0cc3c81c133d2bd27fdf3664",
-   "title": "Fun things to do with your VM/370 CE machine – Fun with big computers",
-   "summary": [
-    "Article URL: https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/ Comments URL: https://news.ycombinator.com/item?id=50423569 Points: 75 # Comments: 12"
-   ],
-   "source": "Hacker News",
-   "url": "https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/",
-   "image": null,
-   "published_at": "2026-11-09T10:11:47Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "ccbe947fd6b484da4a4ae734d7c0abb41bbf3306",
-   "title": "Crime pays: how Grand Theft Auto became a cultural colossus",
-   "summary": [
-    "Ever since it crashed on to PC and consoles in the late 90s, GTA has been tearing up the game-making rulebook.",
-    "Rockstar would sometimes begin its presentation not with footage from its new game, but clips from classic movies.",
-    "This is the context of what we are making, Rockstar was saying, and that is where we belong."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/games/2026/nov/09/grand-theft-auto-creators-gta",
-   "image": "https://i.guim.co.uk/img/media/c7262b2b31f4e3d5755f1c6fb351f69798afcb64/297_0_1406_1125/master/1406.jpg?width=140&quality=85&auto=format&fit=max&s=4bbac76f2a319e91ed6091b5a4fafe4f",
-   "published_at": "2026-11-09T10:00:05Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "3f5393a450c5a4940c429a5048227d0862ac393b",
-   "title": "Borrowing a Microsoft-signed shim to abuse Secure Boot on corporate hardware",
-   "summary": [
-    "Article URL: https://leosmith.wtf/blog/not-so-secure-boot.html Comments URL: https://news.ycombinator.com/item?id=50423151 Points: 28 # Comments: 8"
-   ],
-   "source": "Hacker News",
-   "url": "https://leosmith.wtf/blog/not-so-secure-boot.html",
-   "image": null,
-   "published_at": "2026-11-09T09:22:30Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "a9c06162812cf7ad0d887094abd0bc64d33afe33",
-   "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
-   "summary": [
-    "Article URL: https://arxiv.org/abs/2610.14162 Comments URL: https://news.ycombinator.com/item?id=50422168 Points: 146 # Comments: 33"
-   ],
-   "source": "Hacker News",
-   "url": "https://arxiv.org/abs/2610.14162",
-   "image": null,
-   "published_at": "2026-11-09T07:20:37Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "53c633f38dc858f9db02129a2daee05e14c29115",
-   "title": "British people don’t trust Palantir – it’s not too late to reverse the NHS’s dependence on it | Ben Coleman",
-   "summary": [
-    "It won’t be easy, but next spring the job of clawing it back must beginBen Coleman is Labour MP for Chelsea and Fulham and a member of the health and social care committeeNext March, Palantir’s £330m contract to run NHS England’s federated data platform (FDP) ends.",
-    "They should move on from Palantir, and transition to new suppliers that put the NHS in full control of its technology and patient data.I sit on the health and social care committee.",
-    "But that would not give the NHS the control it lacks: the freedom to switch supplier without losing what it has built.Ben Coleman is Labour MP for Chelsea and Fulham and a member of the health and social care committee Continue reading..."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/09/british-people-palantir-nhs-health-data-us-tech-firm",
-   "image": "https://i.guim.co.uk/img/media/cd2ae82f92f835963dbd32bd2ff67aa7268b2b97/1073_0_6243_4994/master/6243.jpg?width=140&quality=85&auto=format&fit=max&s=42887642e45d1be894c281a75fd1b789",
-   "published_at": "2026-11-09T06:00:02Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "b10abbc74a2315ba64db799e4d7e9f35ff87c03e",
-   "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
-   "summary": [
-    "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
-   "image": null,
-   "published_at": "2026-11-09T05:26:29Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "6b17c6abdcc1ed011428afccf91570c78255203b",
-   "title": "‘Thicky thicky dumb dumb’ satirist Cody Dahler on his viral videos: ‘my material is presented to me on a silver platter!’",
-   "summary": [
-    "The writer and podcaster on why politics is made to seem more complicated than it is and his mission to unpack world events for everyoneWhy did you get into comedy?",
-    "Given that I have zero rhythm, comedy was my other option.",
-    "In a world where Robert Jenrick claims Nigel Farage has “probably done more than almost anybody to stand against racism”, the answer is that my material is presented to me on a silver platter each morning."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/stage/2026/nov/09/cody-dahler-the-state-of-this-thicky-thicky-dumb-dumb-comedy",
-   "image": "https://i.guim.co.uk/img/media/59055f0d397c465621f8da5eb34b10408c20a92c/32_171_1454_1163/master/1454.jpg?width=140&quality=85&auto=format&fit=max&s=1e4b70f85ecc4c6125027c91ef16991c",
-   "published_at": "2026-11-09T05:00:59Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "285f83056600dcf19dd58d5a8b6503dee625f287",
-   "title": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
-   "summary": [
-    "Decision models need their own inference engine.So we developed Flide, a high-performance and exact inference engine for Jev-like decision models.Flide achieves up to a 9.5x speedup over vLLM and SGLang.It now supports 30+ popular local Jev-like decision models.Start to make your"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/OmniJev/Flide",
-   "image": null,
-   "published_at": "2026-11-09T04:43:12Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "b1fb5a70556bf82423a41f24db61355ce87ded1a",
-   "title": "Unlocking any car from X brand in most of the world",
-   "summary": [
-    "Article URL: https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/ Comments URL: https://news.ycombinator.com/item?id=50419215 Points: 521 # Comments: 275"
-   ],
-   "source": "Hacker News",
-   "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
-   "image": null,
-   "published_at": "2026-11-09T00:10:50Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "b4717b7762b78b196aae8577959f5cb13995ff11",
-   "title": "I'm not convinced the AI bubble exists",
-   "summary": [
-    "Article URL: https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists Comments URL: https://news.ycombinator.com/item?id=50418975 Points: 454 # Comments: 780"
-   ],
-   "source": "Hacker News",
-   "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
-   "image": null,
-   "published_at": "2026-11-08T23:44:36Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "8eab40c7ce416e4d9577f0c93326979dbabb467d",
-   "title": "Chimera Vocal Synth",
-   "summary": [
-    "Article URL: https://chimera-vocal-synth.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50418182 Points: 296 # Comments: 52"
-   ],
-   "source": "Hacker News",
-   "url": "https://chimera-vocal-synth.vercel.app/",
-   "image": null,
-   "published_at": "2026-11-08T22:36:03Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "2fab79d06b7a4b4ba55c4a6019c9aa9cb4241e54",
-   "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
-   "summary": [
-    "Article URL: https://ketchup3d.github.io/app/ Comments URL: https://news.ycombinator.com/item?id=50418176 Points: 648 # Comments: 191"
-   ],
-   "source": "Hacker News",
-   "url": "https://ketchup3d.github.io/app/",
-   "image": null,
-   "published_at": "2026-11-08T22:35:35Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "9709ee9b2939f7735c603b054a0e7a301215998a",
-   "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
-   "summary": [
-    "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-aff..., https://archive.ph/Hxn5hhttps://www.nytimes.com/2026/11/06/us/politics/chinese-spy-a..., https://archive.ph/atMcphttps://www.cnn.com/2026/11/08/business/nvidia-investigation...",
-    "Comments URL: https://news.ycombinator.com/item?id=50418016 Points: 857 # Comments: 1042"
-   ],
-   "source": "Hacker News",
-   "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
-   "image": null,
-   "published_at": "2026-11-08T22:20:09Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "07b2a4632338082c86230ca9287fcc528f9d6549",
-   "title": "Apps to distract you from the endless cycle of doomscrolling",
-   "summary": [
-    "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
-   "image": null,
-   "published_at": "2026-11-08T22:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "49db83e253edbf0771d468b99bafbdd0476979fa",
-   "title": "Ask HN: What are you working on? (November 2026)",
-   "summary": [
-    "What have you been curious about lately?",
-    "Comments URL: https://news.ycombinator.com/item?id=50417407 Points: 252 # Comments: 887"
-   ],
-   "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50417407",
-   "image": null,
-   "published_at": "2026-11-08T21:20:20Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "45da7994669e5304c4a61eebac176cd114fa2bb1",
-   "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-   "summary": [
-    "In a memo to the company, Huang admitted that he had an affair."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-   "image": null,
-   "published_at": "2026-11-08T21:00:11Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "092818df61d395e0b951040fac01a7e4bb5b2bc7",
-   "title": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
-   "summary": [
-    "Snap's Specs, which have been in development for many years now, are going to market this fall."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
-   "image": null,
-   "published_at": "2026-11-08T21:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "552b8c95ef4266077e7462f7795767f905c938fb",
-   "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
-   "summary": [
-    "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
-   "image": null,
-   "published_at": "2026-11-08T20:30:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "8f9edb697d23e20219f78d7a22d6e4ee6482f950",
-   "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
-   "summary": [
-    "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
-   "image": null,
-   "published_at": "2026-11-08T19:51:30Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "ec6779b05ebb24a90fced8bee83eb63c45b6ac78",
-   "title": "Outlook.com is rejecting email from domains without DMARC",
-   "summary": [
-    "Article URL: https://mailroute.net/blog/outlook-rejecting-email-without-dmarc Comments URL: https://news.ycombinator.com/item?id=50416158 Points: 491 # Comments: 334"
-   ],
-   "source": "Hacker News",
-   "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
-   "image": null,
-   "published_at": "2026-11-08T19:20:32Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "ddea982e4231abd2122fdf719ba17c656a255c98",
-   "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
-   "summary": [
-    "Article URL: https://duxlabs.dev/ Comments URL: https://news.ycombinator.com/item?id=50416053 Points: 323 # Comments: 123"
-   ],
-   "source": "Hacker News",
-   "url": "https://duxlabs.dev/",
-   "image": null,
-   "published_at": "2026-11-08T19:08:51Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "0675638659a41ac355e162d546dea90347a3af7e",
-   "title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
-   "summary": [
-    "SNL seems to have its knives out for tech executives."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
-   "image": null,
-   "published_at": "2026-11-08T18:00:04Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "836d3453271e05d215f681be8d4fd1c778494dd3",
-   "title": "Labour expected to cut EV targets for UK’s car industry despite MPs’ protests",
-   "summary": [
-    "Exclusive: Louise Haigh likely to weaken mandate for sales that forms key part of emission reduction planAnalysis: Climate always comes second – are green issues slipping down Burnham’s agenda?Ministers are expected to make steep cuts to the government’s electric vehicle (EV) targets this week, in a move that will relieve carmakers but alarm many Labour MPs who are worried about the government’s commitment to the green agenda.Louise Haigh, the de facto deputy prime minister, will finalise the plan after a crunch meeting in Downing Street on Wednesday to settle a long-running dispute between the transport, energy and business departments."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/environment/2026/nov/08/labour-cut-ev-target-car-industry-despite-climate-concerns",
-   "image": "https://i.guim.co.uk/img/media/2db94dc51d06421443808c322eecd0e97b2d330b/27_0_4763_3811/master/4763.jpg?width=140&quality=85&auto=format&fit=max&s=1b4cf9fd666a4b3707f6b50a2765ee86",
-   "published_at": "2026-11-08T17:51:19Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "d42d09f1aa1dafab80a28d482ecab6b08160198f",
-   "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
-   "summary": [
-    "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
-   "image": null,
-   "published_at": "2026-11-08T17:30:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "02f2d6614b1890b31f535cd06b1cc1e70635da6b",
-   "title": "TechCrunch Mobility: The Cybertruck experiment is over",
-   "summary": [
-    "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
-   "image": null,
-   "published_at": "2026-11-08T17:02:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "b87fc3d96a2dfda27332ca11c37c7abd4fff5b6a",
-   "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-   "summary": [
-    "The culture secretary confirms reports they could be in the list of platforms set to be banned next March."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-08T15:37:25Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "c14d10cd549c7544036b657cb8facb9d61b1d263",
-   "title": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
-   "summary": [
-    "The AutoBarista's \"Grind iQ\" technology allows the machine to analyze your coffee beans to inform how it pulls a shot of espresso."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
-   "image": null,
-   "published_at": "2026-11-08T15:00:00Z",
    "category": "tech",
    "related": []
   }
