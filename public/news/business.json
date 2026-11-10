@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-10T08:18:47.024575Z",
- "story_count": 15,
+ "generated_at": "2026-11-10T16:58:40.345825Z",
+ "story_count": 19,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -24,15 +24,119 @@
  },
  "stories": [
   {
-   "id": "52085c7e43728e0116f15bad53bf120b5871eefe",
-   "title": "Independent bookshop closing after rise in bills",
+   "id": "a1a36b281320128281790afbfbe58539b0de1596",
+   "title": "Some pupils 'struggling just to get a hot meal'",
    "summary": [
-    "The Chicken and Frog in Brentwood says business rates and electricity bills have risen dramatically."
+    "Students speak out as school dinner prices are set to increase for the second time in a year."
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/crx2dd92ne9yo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c9m262yv6yx8o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-10T06:22:52Z",
+   "published_at": "2026-11-10T16:46:21Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "c2481ff0a6af706bdebae45a5290eb919fa6c656",
+   "title": "Thousands of 'off-grid' homes eligible for £250 to help with heating bills",
+   "summary": [
+    "Households dependent on either heating oil or LPG and are eligible for reduced council tax will benefit."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm70p050824po?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-10T16:03:46Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "c95b62b2f4ee626edd66969b4f7d0c4805d8e2f8",
+   "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
+   "summary": [
+    "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-10T15:10:20Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "4c87d886823702504c2a333241134019ac4b771f",
+   "title": "US inflation higher than expected in October - here's what is happening with prices",
+   "summary": [
+    "Prices rose by 0.4% over the month, driven by increases in shelter, food and energy costs."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-10T14:45:46Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "6326fc4249902c8a37ca0f2c523c3f91d5f452e4",
+   "title": "New regulation for heating oil market, but no price controls",
+   "summary": [
+    "The Competition and Markets Authority has investigated the heating oil market in Northern Ireland and other parts of the UK."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cv70p0d3d686o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-10T13:42:29Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "cb84f65d2a5c346cd76353327c98bc146177b471",
+   "title": "Civil servant who secretly held five jobs found guilty of fraud",
+   "summary": [
+    "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-10T13:39:28Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "1017054ad62d70ce6ddfb5b478189edfe643944b",
+   "title": "Tech’s biggest names sunk a tax on billionaires’ wealth with $425m and a familiar playbook",
+   "summary": [
+    "Venture capitalist Ilya Sukhar posted: “God bless Sergey Brin.” And David Marcus, a crypto entrepreneur, simply wrote: “Hero.” Continue reading..."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/10/california-billionaire-tax-opposition",
+   "image": "https://i.guim.co.uk/img/media/fd8dfac0aab8a5e85c8766c2eace30a1b0749a21/490_0_4876_3903/master/4876.jpg?width=140&quality=85&auto=format&fit=max&s=4b0d39dbbed023c8c471c72c2927ba5e",
+   "published_at": "2026-11-10T13:19:35Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "f49c000f8f8e72506e900b251895dd640b65c36d",
+   "title": "Oil prices fall to lowest since August as Trump says Iran war is ‘effectively over’",
+   "summary": [
+    "The fall came after a near 6% drop on Monday on signs that the conflict might be nearing an end."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/10/oil-prices-fall-donald-trump-iran-war-ftse-100-markets",
+   "image": "https://i.guim.co.uk/img/media/16ccda76da166c6543538e5a98c8b9b5f2481d15/0_0_5039_4031/master/5039.jpg?width=140&quality=85&auto=format&fit=max&s=904510b7206ac0ce08a6e9328e358b69",
+   "published_at": "2026-11-10T10:28:47Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "fc281f4b359ab9cceaaa846db14a9312f2260f8c",
+   "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
+   "summary": [
+    "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-10T09:57:49Z",
    "category": "business",
    "related": []
   },
@@ -45,20 +149,7 @@
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/cmewewgvrwpqo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-10T06:21:02Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "71e8ac828ee1b3cf94f49b8926407f3adc32818a",
-   "title": "New chief outlines main issues facing Isle of Man",
-   "summary": [
-    "The chief minister says connectivity and food storage were among his top government priorities."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cw0737zmv799o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-10T06:09:01Z",
+   "published_at": "2026-11-10T09:35:03Z",
    "category": "business",
    "related": []
   },
@@ -85,19 +176,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cm369e3l15lwo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-10T00:27:37Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "a1a36b281320128281790afbfbe58539b0de1596",
-   "title": "Headteachers say families will struggle after another rise in school dinner prices",
-   "summary": [
-    "The price of a school dinner in a primary school will have risen from £2.60 to £3.40 since the start of 2026."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c9m262yv6yx8o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-10T00:00:22Z",
    "category": "business",
    "related": []
   },
@@ -141,19 +219,6 @@
    "related": []
   },
   {
-   "id": "cb84f65d2a5c346cd76353327c98bc146177b471",
-   "title": "Civil servant who secretly held five jobs found guilty of fraud",
-   "summary": [
-    "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-09T17:17:16Z",
-   "category": "business",
-   "related": []
-  },
-  {
    "id": "0efff29fa6e1a2af803e6e461f00ed036bffab2c",
    "title": "Poundland unable to buy new stock as fears over collapse grow",
    "summary": [
@@ -163,19 +228,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-09T16:46:40Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "c58d7e0e8d4bb2a3db026d29a44a35ccfbc5ecf3",
-   "title": "Action on energy costs is my overriding aim, says Fahnbulleh",
-   "summary": [
-    "The energy secretary says reducing bills is key to maintaining public support for climate action."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmz7x7q7q8vvo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-09T16:01:19Z",
    "category": "business",
    "related": []
   },
@@ -206,15 +258,15 @@
    "related": []
   },
   {
-   "id": "58435d411c44147d5ccba0ea047af914bbbdfa0e",
-   "title": "Doing these things now will help you save money at Christmas",
+   "id": "853b8e49c061d4aa0b4ac461dbef4a8c652a81d4",
+   "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
    "summary": [
-    "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips."
+    "Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?"
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-09T00:09:14Z",
+   "published_at": "2026-11-09T07:10:11Z",
    "category": "business",
    "related": []
   }
