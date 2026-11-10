@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-10T00:11:28.070392Z",
- "story_count": 16,
+ "generated_at": "2026-11-10T08:18:47.024842Z",
+ "story_count": 20,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -24,6 +24,88 @@
  },
  "stories": [
   {
+   "id": "a2506723218a63d06579b29ad197649330c31077",
+   "title": "Locals launch campaign to buy ancient wood",
+   "summary": [
+    "Locals have a year to raise the money needed to buy Ruscombe Wood near Stroud."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c3rryynzqxwno?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-10T08:13:42Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "06bbb196a74ccb73baca0e6173243548d7f18fbb",
+   "title": "House martin artificial nests scheme set to expand",
+   "summary": [
+    "The artificial nests are more robust than the endangered migratory birds' own mud creations."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c64g1ge73y8lo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-10T07:27:21Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "c07fddaa7ce39baabc31f41bcccd1dc8ece249f3",
+   "title": "The swan sanctuary wetland fighting climate change",
+   "summary": [
+    "The global campaign to restore the \"soggy secret weapon\" that can combat against climate change."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c60rleej7dqgo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-10T06:30:29Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "e109ed741d2606c0700741cd498fd1b5f1a01509",
+   "title": "Alzheimer’s may have early warning signs outside the brain",
+   "summary": [
+    "A surprising discovery suggests that some early signs of Alzheimer’s disease may begin outside the brain.",
+    "Using miniature laboratory systems made from human cells, scientists found that genetic mutations associated with inherited Alzheimer’s can disrupt nerve-to-muscle connections without any involvement from the brain or spinal cord.",
+    "This could help explain why some patients experience changes in balance, walking, and coordination long before memory problems develop."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261108233103.htm",
+   "image": null,
+   "published_at": "2026-11-10T01:47:34Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "aa5ff3ce791baa85062834d1f5a08bacd769d72f",
+   "title": "After 40 years, CERN finds evidence of a one-in-10-billion particle decay",
+   "summary": [
+    "CERN scientists have finally found evidence of a particle decay so rare that it happens only once in roughly 10 billion decays, ending a search spanning more than 40 years.",
+    "The breakthrough could help physicists uncover hidden particles and forces that lie beyond the reach of today's most powerful accelerators."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261108233047.htm",
+   "image": null,
+   "published_at": "2026-11-10T00:42:52Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "1f204bc2423009274ff6e5cd06b80d80e15b7e24",
+   "title": "Scientists finally discover why we learn to love bitter coffee",
+   "summary": [
+    "Scientists have uncovered a hidden gut-to-brain dopamine pathway that helps explain why bitter coffee and other initially unpleasant flavors can become favorites over time.",
+    "The discovery reveals how the brain learns to crave certain foods and could eventually lead to new ways of reshaping eating habits and food preferences."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261108233100.htm",
+   "image": null,
+   "published_at": "2026-11-09T23:19:35Z",
+   "category": "science",
+   "related": []
+  },
+  {
    "id": "78e561ca962ef92e94d8cc52ef7586930d8e58d1",
    "title": "Birds return to waterfowl park after oil vandalism",
    "summary": [
@@ -33,19 +115,6 @@
    "url": "https://www.bbc.co.uk/news/articles/c6gqwq1x85e0o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-09T14:52:07Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "f1c3684f8f3ff36afdaf29202fbe4038633fd59f",
-   "title": "How yesterday's waste is becoming tomorrow's fashion",
-   "summary": [
-    "Brands including Dr Martens, Nike and Coach are among those using recycled materials."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm5yd1q12g1no?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-09T13:18:38Z",
    "category": "science",
    "related": []
   },
@@ -129,19 +198,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cw98zm084dr3o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-09T06:18:19Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "6aa39fe78cb96560f71c329eb3ed36919b75fcbd",
-   "title": "Charity wants bee, bird and butterfly population boost",
-   "summary": [
-    "Berkshire, Buckinghamshire and Oxfordshire Wildlife Trust aims to raise £70,000 for the project."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ckvg77j83p0vo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-09T06:00:40Z",
    "category": "science",
    "related": []
   },
