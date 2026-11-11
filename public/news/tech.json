@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T10:44:11.027344Z",
+ "generated_at": "2026-11-11T18:37:21.936352Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -23,6 +23,407 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "70a69d3bb58228021bc9cc8347babadc9bc0bc9b",
+   "title": "AWS Finally Built Its Own AWS Emulator",
+   "summary": [
+    "Article URL: https://github.com/aws/aws-emulator Comments URL: https://news.ycombinator.com/item?id=50456631 Points: 3 # Comments: 1"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/aws/aws-emulator",
+   "image": null,
+   "published_at": "2026-11-11T18:21:38Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "40b74f6d31cfc87a05416dcfecb549ad28027b37",
+   "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
+   "summary": [
+    "We connect your agents to any website by turning sites into deterministic, self-healing APIs in minutes, fully self-serve.Agents are no longer limited by their intelligence, but rather by their ability to interact with systems.",
+    "Before Pomerado, agents couldn’t login and use the site reliably, so this was all manual- Car dealerships connecting their Grok Bots to legacy dealer systems, including marketplaces, CRMs, and ERPs.",
+    "Dealers switched from computer use, which could take 1hr+- Personal assistants using Pomerado to integrate with a broad range of consumer websitesPlease ask any questions or share any feedback in the comments, thanks!"
+   ],
+   "source": "Hacker News",
+   "url": "https://pomerado.ai/",
+   "image": null,
+   "published_at": "2026-11-11T17:11:56Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "7a69c1b89eda0814b73757a63fb89b12fb26d384",
+   "title": "Faster Retrieval for Better, More Efficient RAG",
+   "summary": [
+    "Article URL: https://machinelearning.apple.com/research/faster-retrieval Comments URL: https://news.ycombinator.com/item?id=50455633 Points: 41 # Comments: 1"
+   ],
+   "source": "Hacker News",
+   "url": "https://machinelearning.apple.com/research/faster-retrieval",
+   "image": null,
+   "published_at": "2026-11-11T16:57:45Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "12a9550d1f6a0c049713ed1352e00f23431a40da",
+   "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+   "summary": [
+    "Article URL: https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/ Comments URL: https://news.ycombinator.com/item?id=50455394 Points: 173 # Comments: 88"
+   ],
+   "source": "Hacker News",
+   "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+   "image": null,
+   "published_at": "2026-11-11T16:38:44Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "7a8ca7de71bda47ab2f41743cd27643cb6821a68",
+   "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+   "summary": [
+    "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+   "image": null,
+   "published_at": "2026-11-11T16:16:07Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "2ed3a890d3d8bbd2d6609ad76bfad00c62941b0f",
+   "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+   "summary": [
+    "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+   "image": null,
+   "published_at": "2026-11-11T16:14:44Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "871a328ee469f0c29d288e46e969f901eddd17ed",
+   "title": "Multiple remote code execution vulnerabilities in danfoss sm-800A",
+   "summary": [
+    "Article URL: https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a Comments URL: https://news.ycombinator.com/item?id=50455031 Points: 8 # Comments: 1"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.midnightblue.nl/blog/multiple-rce-danfoss-aksm800a",
+   "image": null,
+   "published_at": "2026-11-11T16:08:14Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "3b3664f7464b029356c0c2495bae03ad22bc0414",
+   "title": "The hardest notes to find on the guitar fretboard",
+   "summary": [
+    "Article URL: https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard Comments URL: https://news.ycombinator.com/item?id=50454995 Points: 23 # Comments: 15"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.gitori.com/blog/articles/hardest-notes-on-the-guitar-fretboard",
+   "image": null,
+   "published_at": "2026-11-11T16:05:18Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "3f42633dc5b5e54d8214779bbc3bfb0a2f765c38",
+   "title": "Show HN: Klad, a paint app your coding agent can drive (source-available)",
+   "summary": [
+    "(After that, you or the agent can change absolutely every brush stroke in the app again, which makes edits a breeze.)The quality of the drawings really depends on the agent you use.",
+    "I'm confident that this will only improve.I use it every day on Mac, so that definitely works well.",
+    "The file format, CLI reference and agent skill are MIT.What I want to hear from people who try it: Can your agent work out the CLI without help, and where does it get confused?"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/klad-app/klad",
+   "image": null,
+   "published_at": "2026-11-11T16:00:50Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "4cc1960e3b74eb4e3cba770dd3f0ec981a967779",
+   "title": "The Computer Graphics Book of Knowledge",
+   "summary": [
+    "Article URL: https://www.cs.cmu.edu/~ph/nyit/masson/history.htm Comments URL: https://news.ycombinator.com/item?id=50454823 Points: 26 # Comments: 3"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.cs.cmu.edu/~ph/nyit/masson/history.htm",
+   "image": null,
+   "published_at": "2026-11-11T15:50:02Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "f6b29b4e2ab3b1b99d2fffbdc6980c84e367039d",
+   "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+   "summary": [
+    "But unlike Granola, Yogurt is open-source, free to use, and private.",
+    "And if you want to make your notes available to a frontier model, you can just share it with Anthropic, OpenAI, etc. directly via Yogurt’s local MCP server.",
+    "There’s no need to use a paid cloud service as a middleman.I tried some of the most popular OSS note taking tools, and most were missing features like calendar integration, MCP server, etc. or required you to connect or create an account."
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/FrigadeHQ/yogurt",
+   "image": null,
+   "published_at": "2026-11-11T15:33:06Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "de395c3eeb13e5fe626b9d3c11a7331641b5e2d0",
+   "title": "Siri co-founder backs Helix for its voice ID tech",
+   "summary": [
+    "Helix said that its voice ID tech can run on an iPhone 13"
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/",
+   "image": null,
+   "published_at": "2026-11-11T15:02:47Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "f3fccc6147cd9e2351aae84bf9301469c470ada8",
+   "title": "The 37 best Christmas gifts in the UK for tweens – chosen by 10- to 12-year-olds",
+   "summary": [
+    "We asked 20 tweenagers what they already own, love and think would make great gifts.",
+    "But instead of asking what they want, I quizzed them on the things they already have, truly love and use regularly.",
+    "Here are their tried and tested gift ideas for a range of prices."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/thefilter/2026/nov/11/best-christmas-gifts-ideas-tweens-uk",
+   "image": "https://i.guim.co.uk/img/media/0a8d13968f6d03da339850dda67e6e26b25e731a/0_0_4000_3200/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=e1422ae0c617d2047e0cc6f1184e630e",
+   "published_at": "2026-11-11T15:00:52Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ae21c2f528d9d3a525456d7ac5a4074a4d622405",
+   "title": "How years of research built Grand Theft Auto VI’s obsessively detailed world",
+   "summary": [
+    "The developers behind its virtual Florida share how they built their most ambitious world so far• Don’t get Pushing Buttons delivered to your inbox?",
+    "This is the biggest game in the world, after all; I imagine it would be difficult to go entirely undercover. “We’re always semi-undercover,” he says. “But if you have a bunch of dorks going through a terrifying neighbourhood, you do stick out a bit.” Continue reading..."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/games/2026/nov/11/a-world-of-its-own-inside-the-making-of-the-most-detailed-grand-theft-auto-yet",
+   "image": "https://i.guim.co.uk/img/media/f9bf30fc1431ef6e783a0570dd352f24c3ddc240/302_0_1902_1522/master/1902.jpg?width=140&quality=85&auto=format&fit=max&s=a6067a2c34608e08173aff16dfb294c8",
+   "published_at": "2026-11-11T15:00:51Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "6619f09dbc0d0a8f87f2d0193d81898e8086b20a",
+   "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+   "summary": [
+    "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him.",
+    "He uses Databricks' newly revised Genie agent for that."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+   "image": null,
+   "published_at": "2026-11-11T15:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "4094c0e884d3133105143ceae3ef9d4320aacfef",
+   "title": "Pharo in the Browser with WebAssembly",
+   "summary": [
+    "Article URL: https://massimo-nocentini.github.io/pharo-vm/world.html Comments URL: https://news.ycombinator.com/item?id=50453763 Points: 95 # Comments: 24"
+   ],
+   "source": "Hacker News",
+   "url": "https://massimo-nocentini.github.io/pharo-vm/world.html",
+   "image": null,
+   "published_at": "2026-11-11T14:21:27Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "f3e91f75ed135df54c08166966caab49a982606c",
+   "title": "Atuin Threads: All your agent sessions on every machine",
+   "summary": [
+    "Article URL: https://blog.atuin.sh/threads-agent-sessions/ Comments URL: https://news.ycombinator.com/item?id=50453637 Points: 116 # Comments: 42"
+   ],
+   "source": "Hacker News",
+   "url": "https://blog.atuin.sh/threads-agent-sessions/",
+   "image": null,
+   "published_at": "2026-11-11T14:10:46Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "6d41d763cffcca94ce571cb1da9f7bed74a3f658",
+   "title": "Apple is killing its Support Community forum next week",
+   "summary": [
+    "Article URL: https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down Comments URL: https://news.ycombinator.com/item?id=50453555 Points: 205 # Comments: 112"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
+   "image": null,
+   "published_at": "2026-11-11T14:02:11Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "0ccfb511c0c877ba5927f56f156fed37151972e9",
+   "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+   "summary": [
+    "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+   "image": null,
+   "published_at": "2026-11-11T14:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "10647024152430dfa5893682b69f19b6786cd517",
+   "title": "I asked every TV manufacturer 17 questions about how they spy on you",
+   "summary": [
+    "Article URL: https://www.theverge.com/tech/1012372/tv-privacy-acr-questions Comments URL: https://news.ycombinator.com/item?id=50453474 Points: 258 # Comments: 142"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
+   "image": null,
+   "published_at": "2026-11-11T13:56:05Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "f74f75d6547aaeffa480dc05ca12e4f2af3ab327",
+   "title": "Hyper-Realistic Sand with WebGL2",
+   "summary": [
+    "Article URL: https://av.github.io/safe-sand/ Comments URL: https://news.ycombinator.com/item?id=50453288 Points: 175 # Comments: 39"
+   ],
+   "source": "Hacker News",
+   "url": "https://av.github.io/safe-sand/",
+   "image": null,
+   "published_at": "2026-11-11T13:39:29Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "d4125130139b747f1de49511b60b6f54ffe06167",
+   "title": "Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)",
+   "summary": [
+    "Uses a locally-installed compiler for assembly generation.",
+    "Comments URL: https://news.ycombinator.com/item?id=50453229 Points: 66 # Comments: 13"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/0xdeadf1sh/AssemblyForNeovim",
+   "image": null,
+   "published_at": "2026-11-11T13:34:24Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "f20aa0a9a1f223ed86733fc6012db1ec1162809b",
+   "title": "Attention to Mamba: A Recipe for Cross-Architecture Distillation",
+   "summary": [
+    "Article URL: https://machinelearning.apple.com/research/attention-mamba-distillation Comments URL: https://news.ycombinator.com/item?id=50453171 Points: 38 # Comments: 3"
+   ],
+   "source": "Hacker News",
+   "url": "https://machinelearning.apple.com/research/attention-mamba-distillation",
+   "image": null,
+   "published_at": "2026-11-11T13:29:46Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "488f8483b8c12d1f8cf62d46b42336a7f5b4f9c4",
+   "title": "EventSourcingDB 1.3.0 Is Available",
+   "summary": [
+    "Article URL: https://www.eventfoundation.io/resources/blog/eventsourcingdb-1-3-0-is-available Comments URL: https://news.ycombinator.com/item?id=50453080 Points: 34 # Comments: 5"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.eventfoundation.io/resources/blog/eventsourcingdb-1-3-0-is-available",
+   "image": null,
+   "published_at": "2026-11-11T13:19:45Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "fc15b1445ad5b30be3d06fb0e6fc484727e44229",
+   "title": "Can a Linear Program Do Weight-Space Programming?",
+   "summary": [
+    "Article URL: https://nathan.rs/posts/weight-space-lp/ Comments URL: https://news.ycombinator.com/item?id=50452655 Points: 177 # Comments: 29"
+   ],
+   "source": "Hacker News",
+   "url": "https://nathan.rs/posts/weight-space-lp/",
+   "image": null,
+   "published_at": "2026-11-11T12:30:17Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "338093b71c15dfa83d8f2f07a1196c33bdc53698",
+   "title": "We need more goat sacrifices",
+   "summary": [
+    "Article URL: https://www.experimental-history.com/p/we-need-more-goat-sacrifices Comments URL: https://news.ycombinator.com/item?id=50452652 Points: 116 # Comments: 75"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.experimental-history.com/p/we-need-more-goat-sacrifices",
+   "image": null,
+   "published_at": "2026-11-11T12:29:48Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "8d8bc38f54a7d35094ab7cd9a3d589c05f2992b9",
+   "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+   "summary": [
+    "Article URL: https://pietromiotti.com/latest/maya-site/?maya Comments URL: https://news.ycombinator.com/item?id=50452455 Points: 778 # Comments: 289"
+   ],
+   "source": "Hacker News",
+   "url": "https://pietromiotti.com/latest/maya-site/?maya",
+   "image": null,
+   "published_at": "2026-11-11T12:05:22Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "6acb111c18e6ee276cca6b192028654947b4a53b",
+   "title": "AI datacentres plan on-site power stations on huge scale despite climate risks, research reveals",
+   "summary": [
+    "This is almost four times the total peak electricity demand of Great Britain."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/11/ai-datacentres-on-site-gas-fired-power-stations",
+   "image": "https://i.guim.co.uk/img/media/822a68edf6ef4a66a93f5946bbe1be09e4138679/195_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a8acbf551c8b667da4d0383e559dc4e5",
+   "published_at": "2026-11-11T12:00:48Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "49fd977ed9793125962f9c9396aab5337bb69a7b",
+   "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
+   "summary": [
+    "The Tamil Nadu government has ordered an internal audit of library collections across the state."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-11T11:33:24Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "48052ecfcabece328a9ffc352586da433e436862",
+   "title": "Germany reportedly bans Chinese drones at military bases over security concerns",
+   "summary": [
+    "Western military forces increasingly worried Chinese-made technology ⁠could send ‌sensitive information to BeijingGermany has banned commercially available Chinese-made drones ⁠from its military bases and training grounds due to security concerns, ⁠according to reports.Western military forces have grown increasingly concerned that Chinese-made technology ⁠could pose a security risk and may be ​used to transmit ‌sensitive information to Beijing."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/11/germany-bans-chinese-drones-military-bases-spying-security",
+   "image": "https://i.guim.co.uk/img/media/cd544b4eda9c6644bc1f2a607c6d84915015d8c7/614_0_5179_4144/master/5179.jpg?width=140&quality=85&auto=format&fit=max&s=3c51c8e8330c90d8d889f7e8ff4dd854",
+   "published_at": "2026-11-11T09:41:05Z",
+   "category": "tech",
+   "related": []
+  },
   {
    "id": "fbc14e5f6ea51acf7e41dbc90f370bde25e02b07",
    "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
@@ -50,69 +451,15 @@
    "related": []
   },
   {
-   "id": "7bd2c60903fcb3dfae1622c6a5a68bf5bbd44920",
-   "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+   "id": "d03bc3f1122697de44daf5c925c77c6875fff219",
+   "title": "AI has made it ‘close to impossible’ to assess university coursework, regulator says",
    "summary": [
-    "Article URL: https://github.com/gmkurtzer/ginux Comments URL: https://news.ycombinator.com/item?id=50450007 Points: 73 # Comments: 36"
+    "Office for Students says institutions in England should return to traditional exams and in-person presentations Universities should go back to traditional exams and in-person presentations to grade students after lecturers complained that AI has made it “close to impossible” to assess coursework, according to an investigation by England’s higher education regulator.The Office for Students (OfS) said the credibility of degrees from England’s universities was under threat from the prolific use of AI in essays, dissertations and “open book” exams, with students reporting that their peers boasted of using AI undetected by staff."
    ],
-   "source": "Hacker News",
-   "url": "https://github.com/gmkurtzer/ginux",
-   "image": null,
-   "published_at": "2026-11-11T05:25:54Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "2855a6dd0b52b57a6fea13b09a1dc61d89d9a61f",
-   "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
-   "summary": [
-    "So I used Claude Opus 5.5 to create a tool that converts your copy of the game (from Steam) to a native ARM64 Mac app, with almost 60fps in all areas.",
-    "The whole game is statically recompilated ahead-of-time (AOT) and does not use any emulator whatsoever, be it Wine, Crossover or Rosetta.",
-    "You get to play the whole Campaign, local Multiplayer (with bots) and local Zombies (all DLCs maps; you need to have them in your Steam library obviously) at about 60fps."
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/adrbn/bo2-mac",
-   "image": null,
-   "published_at": "2026-11-11T04:56:47Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "7820b043505ea54e2e307f4dae3ad07d81d80eb6",
-   "title": "Protecting SSH Keys with macOS Secure Enclave",
-   "summary": [
-    "Article URL: https://gatezh.com/posts/macos-secure-enclave-ssh-keys/ Comments URL: https://news.ycombinator.com/item?id=50449748 Points: 206 # Comments: 77"
-   ],
-   "source": "Hacker News",
-   "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
-   "image": null,
-   "published_at": "2026-11-11T04:28:57Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "6bdd0b4410e5c511f646165235559c0797502557",
-   "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
-   "summary": [
-    "Article URL: https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna Comments URL: https://news.ycombinator.com/item?id=50449275 Points: 104 # Comments: 64"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
-   "image": null,
-   "published_at": "2026-11-11T02:57:08Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "8526b86f26c08b721c2043a79d5c33af3dadb2b4",
-   "title": "A great old-timey game-programming hack (2013)",
-   "summary": [
-    "Article URL: https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html Comments URL: https://news.ycombinator.com/item?id=50448921 Points: 171 # Comments: 34"
-   ],
-   "source": "Hacker News",
-   "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
-   "image": null,
-   "published_at": "2026-11-11T01:56:31Z",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator",
+   "image": "https://i.guim.co.uk/img/media/d3a1271d3a03313b67f28cd9ca99f9f80e115ce7/671_0_5849_4679/master/5849.jpg?width=140&quality=85&auto=format&fit=max&s=13f95af4e1009984ed9e8b436680a793",
+   "published_at": "2026-11-11T07:00:33Z",
    "category": "tech",
    "related": []
   },
@@ -126,19 +473,6 @@
    "url": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
    "image": null,
    "published_at": "2026-11-11T01:02:13Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "c0a7d49575128b5d9cbbfe56d7c39199ac9a302c",
-   "title": "LLMs Play Zachtronics' TIS-100",
-   "summary": [
-    "Article URL: https://tis-100.wincon.dev/ Comments URL: https://news.ycombinator.com/item?id=50448340 Points: 71 # Comments: 12"
-   ],
-   "source": "Hacker News",
-   "url": "https://tis-100.wincon.dev/",
-   "image": null,
-   "published_at": "2026-11-11T00:37:05Z",
    "category": "tech",
    "related": []
   },
@@ -169,50 +503,6 @@
    "related": []
   },
   {
-   "id": "ae3c6c28ceab44c439869fe49aa425fb62291258",
-   "title": "Tracking Anthropic-discovered vulnerabilities",
-   "summary": [
-    "Article URL: https://www.vulncheck.com/blog/anthropic-glasswing-november-update Comments URL: https://news.ycombinator.com/item?id=50447074 Points: 401 # Comments: 192"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
-   "image": null,
-   "published_at": "2026-11-10T22:17:56Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "369640935efcece9ace4c3d5a3381c9e3330cfc2",
-   "title": "$30M Raised to Redo the CPU",
-   "summary": [
-    "Article URL: https://tendrils.co/blog/2026-11-10/30m-raised Comments URL: https://news.ycombinator.com/item?id=50447036 Points: 105 # Comments: 106"
-   ],
-   "source": "Hacker News",
-   "url": "https://tendrils.co/blog/2026-11-10/30m-raised",
-   "image": null,
-   "published_at": "2026-11-10T22:14:03Z",
-   "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "https://starlink.com/mini-2"
-    }
-   ]
-  },
-  {
-   "id": "77d255b4e9ac58d271a8dca6bba86b2ad8b90c34",
-   "title": "Apple has new Mac app coming to make running local AI models easy",
-   "summary": [
-    "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 263 # Comments: 220"
-   ],
-   "source": "Hacker News",
-   "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-   "image": null,
-   "published_at": "2026-11-10T21:25:03Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "571fb0494bf3f24fb53a290f9b861603638a0e6a",
    "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
    "summary": [
@@ -223,19 +513,6 @@
    "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
    "image": null,
    "published_at": "2026-11-10T21:08:52Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "c7d653343bd193a309965330ab5f2535a985bea6",
-   "title": "Six Math Essentials",
-   "summary": [
-    "Article URL: https://teorth.github.io/tao-web/six-math-essentials.html Comments URL: https://news.ycombinator.com/item?id=50446246 Points: 253 # Comments: 44"
-   ],
-   "source": "Hacker News",
-   "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
-   "image": null,
-   "published_at": "2026-11-10T20:58:44Z",
    "category": "tech",
    "related": []
   },
@@ -275,282 +552,6 @@
    "url": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
    "image": null,
    "published_at": "2026-11-10T20:43:55Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "6cd2d74ab68c71b39c1618a430a5d56a132b4812",
-   "title": "Tech Life",
-   "summary": [
-    "We investigate internet-connected device flaws worldwide, plus US election tech fallout."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyv?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-10T20:30:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "e18f58ec7dc7acb92f5531ab8868f5022073f136",
-   "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-   "summary": [
-    "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
-   "image": null,
-   "published_at": "2026-11-10T19:57:52Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "12179ed519d5b3baac95c3c9456e1f61b53555a5",
-   "title": "Scion is back and is going to sell a kei truck in America",
-   "summary": [
-    "Article URL: https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/ Comments URL: https://news.ycombinator.com/item?id=50445401 Points: 478 # Comments: 315"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
-   "image": null,
-   "published_at": "2026-11-10T19:50:46Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "7739f93bab443e2138826720992fc186824509be",
-   "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-   "summary": [
-    "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”"
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
-   "image": null,
-   "published_at": "2026-11-10T19:23:34Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "6fcd75d626ddcf98f01098081544791603611ba4",
-   "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-   "summary": [
-    "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
-   "image": null,
-   "published_at": "2026-11-10T19:03:52Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "445fc6287a33b8c194d5a3f1da6cb82e360de53d",
-   "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-   "summary": [
-    "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
-   "image": null,
-   "published_at": "2026-11-10T18:49:52Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "124de346798cfa2756df92a5e86192fde130e7f8",
-   "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
-   "summary": [
-    "Google's Pixel Tag lets you track lost items with your Android device, similar to Apple's AirTag."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
-   "image": null,
-   "published_at": "2026-11-10T18:49:19Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "f2a365891fa20b3c542947e72b9d907497ded8c6",
-   "title": "Synaptics patent claims stop work on DisplayLink drivers",
-   "summary": [
-    "Article URL: https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/ Comments URL: https://news.ycombinator.com/item?id=50443824 Points: 405 # Comments: 229"
-   ],
-   "source": "Hacker News",
-   "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
-   "image": null,
-   "published_at": "2026-11-10T18:02:02Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "5175b6a2b765750a6d5cc37ad8b4945c20190f28",
-   "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-   "summary": [
-    "The RAG work I'm pretty proud of… originally a 500mb native stack down to a ~7MB pure-JS package, ~10ms search on your CPU.We just introduced a deterministic 'legacy-scan' (trained on 30k github repos) to identify old 'n dusted patterns that your agent can modernize.",
-    "(92% avg precision on held-out repos.)People make a lot of claims about what coding agents are good/bad at.",
-    "(Ofc, some of the things we thought AI didn't know turned out to be wrong :) We run codex/claude/agy against 200 tasks without the skill and then with.."
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/GoogleChrome/modern-web-guidance",
-   "image": null,
-   "published_at": "2026-11-10T18:01:15Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "12050a325dc072d68c65d2bb962fd2ea7b283369",
-   "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
-   "summary": [
-    "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-10T17:56:12Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "7737e173e31a598869bdd5fd48b466d0bd6a67de",
-   "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
-   "summary": [
-    "Article URL: https://claude.com/resources/articles/sheets-whiteboards-data Comments URL: https://news.ycombinator.com/item?id=50443716 Points: 231 # Comments: 165"
-   ],
-   "source": "Hacker News",
-   "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
-   "image": null,
-   "published_at": "2026-11-10T17:55:07Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "96721366569b200d28d4473830262f1edbbb2cff",
-   "title": "UK social media ban expansion for under-16s could cover YouTube Kids",
-   "summary": [
-    "Regulations under consideration could affect up to 150 platforms, including LegoPlay, Spotify and eBay, sources sayA substantial expansion of the social media ban for under-16s could inadvertently lead to a ban on YouTube Kids and other sites that had been thought exempt, sources briefed on the government’s proposals have said.One source close to the talks said the regulations now under consideration meant up to 150 platforms, including games platforms such as Lego Play, could be covered by the ban, which is set to come into force in March."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/10/uk-social-media-ban-expansion-for-under-16s-could-cover-youtube-kids",
-   "image": "https://i.guim.co.uk/img/media/3485bd630744777adf8bb553b08a61e0182f1eda/485_101_2808_2247/master/2808.jpg?width=140&quality=85&auto=format&fit=max&s=b9f09c7d712884339342ceaa7fe2c23d",
-   "published_at": "2026-11-10T17:30:15Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "af7403b4563990ca0e267ef99404ecaf459df8ee",
-   "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-   "summary": [
-    "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-   "image": null,
-   "published_at": "2026-11-10T17:30:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "9922bcaa36cd876a25aa346793cfc5691b5b987b",
-   "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
-   "summary": [
-    "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-   "image": null,
-   "published_at": "2026-11-10T17:04:19Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "de95d8349f73200c8d7ad76a6f1f5016aa2787bb",
-   "title": "AMD's Zen 6 Family: Feeding the Beast",
-   "summary": [
-    "Article URL: https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast Comments URL: https://news.ycombinator.com/item?id=50443090 Points: 239 # Comments: 95"
-   ],
-   "source": "Hacker News",
-   "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
-   "image": null,
-   "published_at": "2026-11-10T17:02:32Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "82a0165047363bb4d33c3cd575421c1ee1eeb20a",
-   "title": "Sundrop turns your endless baby photos into recaps, time lapses, and more — without AI",
-   "summary": [
-    "Sundrop is a new iPhone app that uses Apple's on-device AI to help parents rediscover their favorite photos and create keepsakes without uploading images to the cloud."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/",
-   "image": null,
-   "published_at": "2026-11-10T16:50:38Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "ad9eb20db0e4109524a47d89785b0ac3e1c992b5",
-   "title": ".name Grandfathered",
-   "summary": [
-    "Previously: .name Termination - https://news.ycombinator.com/item?id=49550772 - Sept 2026 (547 comments) Comments URL: https://news.ycombinator.com/item?id=50442736 Points: 847 # Comments: 184"
-   ],
-   "source": "Hacker News",
-   "url": "https://neil.fraser.name/news/2026/11/10/",
-   "image": null,
-   "published_at": "2026-11-10T16:37:44Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "8a541d0f4144173d56a644474ec10729e014bed6",
-   "title": "‘Flying cars’ could launch in China next summer, maker of two-seat model says",
-   "summary": [
-    "After 10 years of development including trials of flying motorbikes at the company’s Guangzhou base, it has been approved by China’s civil aviation authorities for limited use."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/10/flying-cars-china-next-summer-xpeng",
-   "image": "https://i.guim.co.uk/img/media/8df726b5a5310c3a6db89297bbc9ba32d8cfa244/279_0_3938_3150/master/3938.jpg?width=140&quality=85&auto=format&fit=max&s=0c3f9242ac951387df06b2a3f81702ca",
-   "published_at": "2026-11-10T16:14:50Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "a1514935e728d4900166c8f9c553b3767deb3eca",
-   "title": "Anthropic targets valuation of up to $1.4tn in stock market flotation",
-   "summary": [
-    "Claude chatbot developer had been reported to be aiming for $2tn IPO on Wall Street before investors cooled on AIAnthropic is seeking a valuation of up to $1.4tn (£1.1tn) in its imminent stock market flotation, short of the $2tn that had been expected before investors started to question the durability of the AI boom.The developer of the Claude chatbot was widely reported to be targeting a $2tn initial public offering on Wall Street but its sights have been set lower, according to a US regulatory filing on Tuesday."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/10/anthropic-valuation-stock-market-flotation-ipo-wall-street-ai",
-   "image": "https://i.guim.co.uk/img/media/7595bf7c7d68e19dc13e69a53295d21b0cd839cc/394_0_3255_2605/master/3255.jpg?width=140&quality=85&auto=format&fit=max&s=6750b636ee6a4b506dd07faad1ab2935",
-   "published_at": "2026-11-10T16:13:13Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "8eacae9504da13a16d726547ab44a65b995ef3b9",
-   "title": "Announcing .NET 11",
-   "summary": [
-    "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotn...",
-    "Comments URL: https://news.ycombinator.com/item?id=50442225 Points: 194 # Comments: 246"
-   ],
-   "source": "Hacker News",
-   "url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
-   "image": null,
-   "published_at": "2026-11-10T16:01:27Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "2910000df2abb78bc67022d95cf246f8dd2c235a",
-   "title": "Apple TV makes sign language interpretation a built-in accessibility feature",
-   "summary": [
-    "Apple TV's new accessibility feature lets viewers turn on sign language interpretation within supported titles."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/",
-   "image": null,
-   "published_at": "2026-11-10T16:00:00Z",
    "category": "tech",
    "related": []
   }

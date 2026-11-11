@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-11T10:44:11.027936Z",
- "story_count": 18,
+ "generated_at": "2026-11-11T18:37:21.936967Z",
+ "story_count": 19,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,103 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "887325dee52831422e871121640e6222d91c3c80",
+   "title": "Toby Jones stars in film about UK Mars mission",
+   "summary": [
+    "Mackenzie Crook directs the story of the British professor whose probe lost contact upon touchdown."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqm2l304w0x9o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-11T14:10:11Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "24dbfecdedf27a0b4f1024a430845ac590f8b8bb",
+   "title": "The mystery of how hair knows where to grow may finally be solved",
+   "summary": [
+    "Scientists have discovered that the intricate patterns of hair follicles on mammals may arise from a remarkably simple process involving cells following chemical signals.",
+    "The findings challenge a long-standing theory and reveal how nature can create complex biological patterns without a detailed blueprint."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261109205413.htm",
+   "image": null,
+   "published_at": "2026-11-11T12:48:30Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "f25da697c27ddcaa0941fecf4ab0060325aeec13",
+   "title": "NASA reveals Earth's ozone hole has grown to a size not seen in a decade",
+   "summary": [
+    "The Antarctic ozone hole expanded to its seventh-largest size on record in 2026, driven by unusual weather conditions that pushed it close to its historic maximum.",
+    "Scientists say international restrictions on ozone-destroying chemicals prevented even greater damage, and Earth's protective ozone layer is still recovering."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261110042546.htm",
+   "image": null,
+   "published_at": "2026-11-11T12:32:48Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "806cc78ecb2394f23a4bff374026a23eda3d64e5",
+   "title": "Scientists find deadly virus DNA hidden in 1,000-year-old manuscripts",
+   "summary": [
+    "Ancient manuscripts, including the 1,000-year-old York Gospels, have revealed traces of a deadly sheep virus whose history stretches back more than 3,700 years.",
+    "Scientists discovered that the virus has remained remarkably unchanged for millennia, turning historic parchment into an unexpected record of ancient disease outbreaks."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261106174545.htm",
+   "image": null,
+   "published_at": "2026-11-11T12:10:47Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "471c17449dbbe29fc7a7d99d6032d0010464b8ee",
+   "title": "Scientists uncover a 192-year-old mystery hidden in a mangled silver coin",
+   "summary": [
+    "A bizarrely deformed 1834 British silver coin found at a car boot sale may preserve evidence of a rare minting accident nearly 200 years ago.",
+    "Advanced 3D scans and microscopic analysis revealed unusual metal distortions suggesting the coin was crushed under extreme pressure, potentially during its original production."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261109205359.htm",
+   "image": null,
+   "published_at": "2026-11-11T10:48:22Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "1e328afeb6e141bc1c63d794bb33bb6dcef0a379",
+   "title": "Where are all the males? Ancient human fossils reveal a startling mystery",
+   "summary": [
+    "A remarkable discovery in a South African cave suggests that an extinct human relative may have created an all-female burial site more than 240,000 years ago.",
+    "Scientists analyzed ancient proteins preserved in Homo naledi teeth and found no male-specific markers among at least 20 individuals, potentially solving a mystery that has puzzled researchers for over a decade."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261110042558.htm",
+   "image": null,
+   "published_at": "2026-11-11T09:43:55Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "1c6f950365a23e8fa72e7bc5eb13a568f17336d7",
+   "title": "A radical theory says the universe is twice as old as we thought",
+   "summary": [
+    "A provocative new cosmological model suggests the Universe could be 26.7 billion years old and might not need dark matter or dark energy to explain its behavior.",
+    "University of Ottawa researchers tested the theory against several major astronomical observations, finding that it could explain galaxy rotation, cosmic expansion, and the formation of early elements."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261108233040.htm",
+   "image": null,
+   "published_at": "2026-11-11T06:46:30Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "1c7695d0c1eff0665688e2435733e6c978b7f6c2",
    "title": "Bid to restore rare Atlantic rainforest secures £6m lottery grant",
@@ -185,90 +282,6 @@
    "url": "https://www.bbc.co.uk/news/articles/c64g1ge73y8lo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-10T07:27:21Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "c07fddaa7ce39baabc31f41bcccd1dc8ece249f3",
-   "title": "The swan sanctuary wetland fighting climate change",
-   "summary": [
-    "The global campaign to restore the \"soggy secret weapon\" that can combat against climate change."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c60rleej7dqgo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-10T06:30:29Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "47691686072f0b06e3474185491e997a429e1aaf",
-   "title": "NASA’s CHAPEA Mars crew finally emerges after more than a year in isolation",
-   "summary": [
-    "After more than a year of simulated life on Mars, four NASA volunteers have finally emerged from isolation, bringing a remarkable space exploration experiment to an end.",
-    "Their experiences growing food, conserving resources, and overcoming Mars-like challenges could help NASA prepare for humanity's future on the Moon and Mars."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261109205406.htm",
-   "image": null,
-   "published_at": "2026-11-10T05:00:41Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "918fea0d47f6da7429fc2c53706d9b18c3c12c19",
-   "title": "Why heart attacks can still happen even when bad cholesterol is low",
-   "summary": [
-    "Even when bad cholesterol is brought down to healthy levels, some people remain at risk of heart attacks, and scientists may have discovered why.",
-    "Researchers identified two types of fat-carrying particles that appear to promote inflammation and damage blood vessels through mechanisms beyond cholesterol buildup."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261109205415.htm",
-   "image": null,
-   "published_at": "2026-11-10T01:54:15Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "e109ed741d2606c0700741cd498fd1b5f1a01509",
-   "title": "Alzheimer’s may have early warning signs outside the brain",
-   "summary": [
-    "A surprising discovery suggests that some early signs of Alzheimer’s disease may begin outside the brain.",
-    "Using miniature laboratory systems made from human cells, scientists found that genetic mutations associated with inherited Alzheimer’s can disrupt nerve-to-muscle connections without any involvement from the brain or spinal cord.",
-    "This could help explain why some patients experience changes in balance, walking, and coordination long before memory problems develop."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261108233103.htm",
-   "image": null,
-   "published_at": "2026-11-10T01:47:34Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "aa5ff3ce791baa85062834d1f5a08bacd769d72f",
-   "title": "After 40 years, CERN finds evidence of a one-in-10-billion particle decay",
-   "summary": [
-    "CERN scientists have finally found evidence of a particle decay so rare that it happens only once in roughly 10 billion decays, ending a search spanning more than 40 years.",
-    "The breakthrough could help physicists uncover hidden particles and forces that lie beyond the reach of today's most powerful accelerators."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261108233047.htm",
-   "image": null,
-   "published_at": "2026-11-10T00:42:52Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "1f204bc2423009274ff6e5cd06b80d80e15b7e24",
-   "title": "Scientists finally discover why we learn to love bitter coffee",
-   "summary": [
-    "Scientists have uncovered a hidden gut-to-brain dopamine pathway that helps explain why bitter coffee and other initially unpleasant flavors can become favorites over time.",
-    "The discovery reveals how the brain learns to crave certain foods and could eventually lead to new ways of reshaping eating habits and food preferences."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261108233100.htm",
-   "image": null,
-   "published_at": "2026-11-09T23:19:35Z",
    "category": "science",
    "related": []
   }
