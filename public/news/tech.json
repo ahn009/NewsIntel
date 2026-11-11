@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T02:42:58.971003Z",
+ "generated_at": "2026-11-11T10:44:11.027344Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -24,10 +24,90 @@
  },
  "stories": [
   {
+   "id": "fbc14e5f6ea51acf7e41dbc90f370bde25e02b07",
+   "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+   "summary": [
+    "The billionaire tech executive finds himself mired in a personal and national security scandal."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-11T07:44:24Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "e28ff692f1183bacc8b196a3c33b6a66b6eda069",
+   "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+   "summary": [
+    "The governance experts we talked to say nobody has seen anything like what's unfolding right now."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+   "image": null,
+   "published_at": "2026-11-11T07:30:51Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "7bd2c60903fcb3dfae1622c6a5a68bf5bbd44920",
+   "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+   "summary": [
+    "Article URL: https://github.com/gmkurtzer/ginux Comments URL: https://news.ycombinator.com/item?id=50450007 Points: 73 # Comments: 36"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/gmkurtzer/ginux",
+   "image": null,
+   "published_at": "2026-11-11T05:25:54Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "2855a6dd0b52b57a6fea13b09a1dc61d89d9a61f",
+   "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
+   "summary": [
+    "So I used Claude Opus 5.5 to create a tool that converts your copy of the game (from Steam) to a native ARM64 Mac app, with almost 60fps in all areas.",
+    "The whole game is statically recompilated ahead-of-time (AOT) and does not use any emulator whatsoever, be it Wine, Crossover or Rosetta.",
+    "You get to play the whole Campaign, local Multiplayer (with bots) and local Zombies (all DLCs maps; you need to have them in your Steam library obviously) at about 60fps."
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/adrbn/bo2-mac",
+   "image": null,
+   "published_at": "2026-11-11T04:56:47Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "7820b043505ea54e2e307f4dae3ad07d81d80eb6",
+   "title": "Protecting SSH Keys with macOS Secure Enclave",
+   "summary": [
+    "Article URL: https://gatezh.com/posts/macos-secure-enclave-ssh-keys/ Comments URL: https://news.ycombinator.com/item?id=50449748 Points: 206 # Comments: 77"
+   ],
+   "source": "Hacker News",
+   "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+   "image": null,
+   "published_at": "2026-11-11T04:28:57Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "6bdd0b4410e5c511f646165235559c0797502557",
+   "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
+   "summary": [
+    "Article URL: https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna Comments URL: https://news.ycombinator.com/item?id=50449275 Points: 104 # Comments: 64"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
+   "image": null,
+   "published_at": "2026-11-11T02:57:08Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "8526b86f26c08b721c2043a79d5c33af3dadb2b4",
    "title": "A great old-timey game-programming hack (2013)",
    "summary": [
-    "Article URL: https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html Comments URL: https://news.ycombinator.com/item?id=50448921 Points: 18 # Comments: 1"
+    "Article URL: https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html Comments URL: https://news.ycombinator.com/item?id=50448921 Points: 171 # Comments: 34"
    ],
    "source": "Hacker News",
    "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
@@ -53,7 +133,7 @@
    "id": "c0a7d49575128b5d9cbbfe56d7c39199ac9a302c",
    "title": "LLMs Play Zachtronics' TIS-100",
    "summary": [
-    "Article URL: https://tis-100.wincon.dev/ Comments URL: https://news.ycombinator.com/item?id=50448340 Points: 11 # Comments: 0"
+    "Article URL: https://tis-100.wincon.dev/ Comments URL: https://news.ycombinator.com/item?id=50448340 Points: 71 # Comments: 12"
    ],
    "source": "Hacker News",
    "url": "https://tis-100.wincon.dev/",
@@ -76,36 +156,23 @@
    "related": []
   },
   {
-   "id": "dedf14429bab19570a4029070eb5190440e5f5aa",
-   "title": "AI is an information gateway. Audiences still don't want it making their news",
+   "id": "f5f2ae55de09ab44f04e86fb6c31cd070ee2a5d8",
+   "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
    "summary": [
-    "Article URL: https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/ Comments URL: https://news.ycombinator.com/item?id=50448174 Points: 13 # Comments: 1"
+    "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China."
    ],
-   "source": "Hacker News",
-   "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-11T00:15:33Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "671cfe359b0712eecbed789edc82fe4ea2d147ed",
-   "title": "The DRAM interface and the PHY (why a DDR3+ interface must be tuned at boot)",
-   "summary": [
-    "Article URL: https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md Comments URL: https://news.ycombinator.com/item?id=50447900 Points: 22 # Comments: 3"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md",
-   "image": null,
-   "published_at": "2026-11-10T23:41:41Z",
+   "published_at": "2026-11-10T22:52:15Z",
    "category": "tech",
    "related": []
   },
   {
    "id": "ae3c6c28ceab44c439869fe49aa425fb62291258",
-   "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+   "title": "Tracking Anthropic-discovered vulnerabilities",
    "summary": [
-    "Article URL: https://www.vulncheck.com/blog/anthropic-glasswing-november-update Comments URL: https://news.ycombinator.com/item?id=50447074 Points: 269 # Comments: 114"
+    "Article URL: https://www.vulncheck.com/blog/anthropic-glasswing-november-update Comments URL: https://news.ycombinator.com/item?id=50447074 Points: 401 # Comments: 192"
    ],
    "source": "Hacker News",
    "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
@@ -118,7 +185,7 @@
    "id": "369640935efcece9ace4c3d5a3381c9e3330cfc2",
    "title": "$30M Raised to Redo the CPU",
    "summary": [
-    "Article URL: https://tendrils.co/blog/2026-11-10/30m-raised Comments URL: https://news.ycombinator.com/item?id=50447036 Points: 37 # Comments: 23"
+    "Article URL: https://tendrils.co/blog/2026-11-10/30m-raised Comments URL: https://news.ycombinator.com/item?id=50447036 Points: 105 # Comments: 106"
    ],
    "source": "Hacker News",
    "url": "https://tendrils.co/blog/2026-11-10/30m-raised",
@@ -133,15 +200,15 @@
    ]
   },
   {
-   "id": "fbc14e5f6ea51acf7e41dbc90f370bde25e02b07",
-   "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+   "id": "77d255b4e9ac58d271a8dca6bba86b2ad8b90c34",
+   "title": "Apple has new Mac app coming to make running local AI models easy",
    "summary": [
-    "The billionaire tech executive finds himself mired in a personal and national security scandal."
+    "Article URL: https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/ Comments URL: https://news.ycombinator.com/item?id=50446520 Points: 263 # Comments: 220"
    ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+   "source": "Hacker News",
+   "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
    "image": null,
-   "published_at": "2026-11-10T21:22:36Z",
+   "published_at": "2026-11-10T21:25:03Z",
    "category": "tech",
    "related": []
   },
@@ -161,27 +228,14 @@
   },
   {
    "id": "c7d653343bd193a309965330ab5f2535a985bea6",
-   "title": "Six Math Essentials by Terence Tao",
+   "title": "Six Math Essentials",
    "summary": [
-    "Article URL: https://teorth.github.io/tao-web/six-math-essentials.html Comments URL: https://news.ycombinator.com/item?id=50446246 Points: 142 # Comments: 26"
+    "Article URL: https://teorth.github.io/tao-web/six-math-essentials.html Comments URL: https://news.ycombinator.com/item?id=50446246 Points: 253 # Comments: 44"
    ],
    "source": "Hacker News",
    "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
    "image": null,
    "published_at": "2026-11-10T20:58:44Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "36a31799a5ab460a1340edb43d1c1aa12f025c06",
-   "title": "Sherman Anti-Trust Act (1890)",
-   "summary": [
-    "Article URL: https://www.archives.gov/milestone-documents/sherman-anti-trust-act Comments URL: https://news.ycombinator.com/item?id=50446219 Points: 75 # Comments: 45"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.archives.gov/milestone-documents/sherman-anti-trust-act",
-   "image": null,
-   "published_at": "2026-11-10T20:56:16Z",
    "category": "tech",
    "related": []
   },
@@ -254,38 +308,12 @@
    "id": "12179ed519d5b3baac95c3c9456e1f61b53555a5",
    "title": "Scion is back and is going to sell a kei truck in America",
    "summary": [
-    "Article URL: https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/ Comments URL: https://news.ycombinator.com/item?id=50445401 Points: 347 # Comments: 259"
+    "Article URL: https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/ Comments URL: https://news.ycombinator.com/item?id=50445401 Points: 478 # Comments: 315"
    ],
    "source": "Hacker News",
    "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
    "image": null,
    "published_at": "2026-11-10T19:50:46Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "e188d6fc74ca240a91618ac3b8a13363bbf55ffe",
-   "title": "Research taste in history: the importance of learning Babylonian math",
-   "summary": [
-    "Article URL: https://resobscura.substack.com/p/research-taste-in-history-the-importance Comments URL: https://news.ycombinator.com/item?id=50445279 Points: 15 # Comments: 0"
-   ],
-   "source": "Hacker News",
-   "url": "https://resobscura.substack.com/p/research-taste-in-history-the-importance",
-   "image": null,
-   "published_at": "2026-11-10T19:42:44Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "db09e2e8ec2b8780bf93b198510c2e9e280a9c95",
-   "title": "What objective is reasoning solving?",
-   "summary": [
-    "Article URL: https://alexwang.ai/posts/reasoning-as-pathfinding/ Comments URL: https://news.ycombinator.com/item?id=50445013 Points: 110 # Comments: 49"
-   ],
-   "source": "Hacker News",
-   "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
-   "image": null,
-   "published_at": "2026-11-10T19:25:14Z",
    "category": "tech",
    "related": []
   },
@@ -299,19 +327,6 @@
    "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
    "image": null,
    "published_at": "2026-11-10T19:23:34Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "bb743bd9d467443ec1f7f7c448239cd0d86623e5",
-   "title": "A comprehensive study of how fingerprintable users are",
-   "summary": [
-    "Article URL: https://fingerprinting.study/ Comments URL: https://news.ycombinator.com/item?id=50444684 Points: 78 # Comments: 36"
-   ],
-   "source": "Hacker News",
-   "url": "https://fingerprinting.study/",
-   "image": null,
-   "published_at": "2026-11-10T19:03:54Z",
    "category": "tech",
    "related": []
   },
@@ -358,7 +373,7 @@
    "id": "f2a365891fa20b3c542947e72b9d907497ded8c6",
    "title": "Synaptics patent claims stop work on DisplayLink drivers",
    "summary": [
-    "Article URL: https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/ Comments URL: https://news.ycombinator.com/item?id=50443824 Points: 311 # Comments: 167"
+    "Article URL: https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/ Comments URL: https://news.ycombinator.com/item?id=50443824 Points: 405 # Comments: 229"
    ],
    "source": "Hacker News",
    "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
@@ -392,6 +407,19 @@
    "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-10T17:56:12Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "7737e173e31a598869bdd5fd48b466d0bd6a67de",
+   "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+   "summary": [
+    "Article URL: https://claude.com/resources/articles/sheets-whiteboards-data Comments URL: https://news.ycombinator.com/item?id=50443716 Points: 231 # Comments: 165"
+   ],
+   "source": "Hacker News",
+   "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+   "image": null,
+   "published_at": "2026-11-10T17:55:07Z",
    "category": "tech",
    "related": []
   },
@@ -438,7 +466,7 @@
    "id": "de95d8349f73200c8d7ad76a6f1f5016aa2787bb",
    "title": "AMD's Zen 6 Family: Feeding the Beast",
    "summary": [
-    "Article URL: https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast Comments URL: https://news.ycombinator.com/item?id=50443090 Points: 190 # Comments: 71"
+    "Article URL: https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast Comments URL: https://news.ycombinator.com/item?id=50443090 Points: 239 # Comments: 95"
    ],
    "source": "Hacker News",
    "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
@@ -464,7 +492,7 @@
    "id": "ad9eb20db0e4109524a47d89785b0ac3e1c992b5",
    "title": ".name Grandfathered",
    "summary": [
-    "Previously: .name Termination - https://news.ycombinator.com/item?id=49550772 - Sept 2026 (547 comments) Comments URL: https://news.ycombinator.com/item?id=50442736 Points: 699 # Comments: 164"
+    "Previously: .name Termination - https://news.ycombinator.com/item?id=49550772 - Sept 2026 (547 comments) Comments URL: https://news.ycombinator.com/item?id=50442736 Points: 847 # Comments: 184"
    ],
    "source": "Hacker News",
    "url": "https://neil.fraser.name/news/2026/11/10/",
@@ -500,6 +528,20 @@
    "related": []
   },
   {
+   "id": "8eacae9504da13a16d726547ab44a65b995ef3b9",
+   "title": "Announcing .NET 11",
+   "summary": [
+    "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotn...",
+    "Comments URL: https://news.ycombinator.com/item?id=50442225 Points: 194 # Comments: 246"
+   ],
+   "source": "Hacker News",
+   "url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
+   "image": null,
+   "published_at": "2026-11-10T16:01:27Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "2910000df2abb78bc67022d95cf246f8dd2c235a",
    "title": "Apple TV makes sign language interpretation a built-in accessibility feature",
    "summary": [
@@ -509,45 +551,6 @@
    "url": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/",
    "image": null,
    "published_at": "2026-11-10T16:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "196c0edf93f91dc355b28dadec04f5631f878de9",
-   "title": "Google broadens its AI hardware portfolio with two new specialized chips",
-   "summary": [
-    "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
-   "image": null,
-   "published_at": "2026-11-10T15:54:08Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "975f285207eb4e2f9dfb1717d74127e1291dc82a",
-   "title": "N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs",
-   "summary": [
-    "The remote access giant also urged its self-hosted customers to take down their own servers amid a \"critical security incident,\" fearing the possibility of cyberattacks."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/",
-   "image": null,
-   "published_at": "2026-11-10T15:45:27Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "a92c103556a0980302f5b00185be91d281dd77a6",
-   "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
-   "summary": [
-    "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
-   "image": null,
-   "published_at": "2026-11-10T15:29:30Z",
    "category": "tech",
    "related": []
   }

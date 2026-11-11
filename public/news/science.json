@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-11T02:42:58.971956Z",
- "story_count": 17,
+ "generated_at": "2026-11-11T10:44:11.027936Z",
+ "story_count": 18,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,32 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "1c7695d0c1eff0665688e2435733e6c978b7f6c2",
+   "title": "Bid to restore rare Atlantic rainforest secures £6m lottery grant",
+   "summary": [
+    "Hubs offering training in conservation work are to be set up in Torridon, Morvern and mid-Argyll."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmn8w8n5ynq2o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-11T06:37:12Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "a8df386110642e780dfbae65df9f0859625a9e97",
+   "title": "Artist creates world's biggest soil painting",
+   "summary": [
+    "Phil Lambert used four types of soil, including some collected from his mother, to create his work."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm3wvvp5d1qzo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-11T06:06:21Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "8e2d9cd3d011e05cded213155bb869d3f60c86b5",
    "title": "Scientists discover why some mosquitoes love you and others don't",
@@ -243,19 +269,6 @@
    "url": "https://www.sciencedaily.com/releases/2026/11/261108233100.htm",
    "image": null,
    "published_at": "2026-11-09T23:19:35Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "78e561ca962ef92e94d8cc52ef7586930d8e58d1",
-   "title": "Birds return to waterfowl park after oil vandalism",
-   "summary": [
-    "The vandalism of a nearby home heating oil tank resulted in the death of 13 birds from the park."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6gqwq1x85e0o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-09T14:52:07Z",
    "category": "science",
    "related": []
   }
