@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T22:18:49.090123Z",
+ "generated_at": "2026-11-11T02:42:58.971003Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -24,17 +24,113 @@
  },
  "stories": [
   {
-   "id": "4c7a51a012dbaf4e800435252cab817d59d9b3f8",
-   "title": "rVPN – stealth VPN with end-to-end encryption",
+   "id": "8526b86f26c08b721c2043a79d5c33af3dadb2b4",
+   "title": "A great old-timey game-programming hack (2013)",
    "summary": [
-    "Article URL: https://rvpn.org/ Comments URL: https://news.ycombinator.com/item?id=50446714 Points: 6 # Comments: 5"
+    "Article URL: https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html Comments URL: https://news.ycombinator.com/item?id=50448921 Points: 18 # Comments: 1"
    ],
    "source": "Hacker News",
-   "url": "https://rvpn.org/",
+   "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
    "image": null,
-   "published_at": "2026-11-10T21:42:50Z",
+   "published_at": "2026-11-11T01:56:31Z",
    "category": "tech",
    "related": []
+  },
+  {
+   "id": "5cd7e6ae9acb4b3762f9d7717baf363bf8a34ced",
+   "title": "X launches its own clipping feature to spur influencer engagement",
+   "summary": [
+    "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
+   "image": null,
+   "published_at": "2026-11-11T01:02:13Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "c0a7d49575128b5d9cbbfe56d7c39199ac9a302c",
+   "title": "LLMs Play Zachtronics' TIS-100",
+   "summary": [
+    "Article URL: https://tis-100.wincon.dev/ Comments URL: https://news.ycombinator.com/item?id=50448340 Points: 11 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://tis-100.wincon.dev/",
+   "image": null,
+   "published_at": "2026-11-11T00:37:05Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "8bc24e27b81a68f0bf17569a99499317b303daeb",
+   "title": "Robot vessels take on the dangerous work of mine hunting",
+   "summary": [
+    "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-11T00:19:13Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "dedf14429bab19570a4029070eb5190440e5f5aa",
+   "title": "AI is an information gateway. Audiences still don't want it making their news",
+   "summary": [
+    "Article URL: https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/ Comments URL: https://news.ycombinator.com/item?id=50448174 Points: 13 # Comments: 1"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
+   "image": null,
+   "published_at": "2026-11-11T00:15:33Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "671cfe359b0712eecbed789edc82fe4ea2d147ed",
+   "title": "The DRAM interface and the PHY (why a DDR3+ interface must be tuned at boot)",
+   "summary": [
+    "Article URL: https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md Comments URL: https://news.ycombinator.com/item?id=50447900 Points: 22 # Comments: 3"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md",
+   "image": null,
+   "published_at": "2026-11-10T23:41:41Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ae3c6c28ceab44c439869fe49aa425fb62291258",
+   "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+   "summary": [
+    "Article URL: https://www.vulncheck.com/blog/anthropic-glasswing-november-update Comments URL: https://news.ycombinator.com/item?id=50447074 Points: 269 # Comments: 114"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+   "image": null,
+   "published_at": "2026-11-10T22:17:56Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "369640935efcece9ace4c3d5a3381c9e3330cfc2",
+   "title": "$30M Raised to Redo the CPU",
+   "summary": [
+    "Article URL: https://tendrils.co/blog/2026-11-10/30m-raised Comments URL: https://news.ycombinator.com/item?id=50447036 Points: 37 # Comments: 23"
+   ],
+   "source": "Hacker News",
+   "url": "https://tendrils.co/blog/2026-11-10/30m-raised",
+   "image": null,
+   "published_at": "2026-11-10T22:14:03Z",
+   "category": "tech",
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://starlink.com/mini-2"
+    }
+   ]
   },
   {
    "id": "fbc14e5f6ea51acf7e41dbc90f370bde25e02b07",
@@ -67,7 +163,7 @@
    "id": "c7d653343bd193a309965330ab5f2535a985bea6",
    "title": "Six Math Essentials by Terence Tao",
    "summary": [
-    "Article URL: https://teorth.github.io/tao-web/six-math-essentials.html Comments URL: https://news.ycombinator.com/item?id=50446246 Points: 37 # Comments: 3"
+    "Article URL: https://teorth.github.io/tao-web/six-math-essentials.html Comments URL: https://news.ycombinator.com/item?id=50446246 Points: 142 # Comments: 26"
    ],
    "source": "Hacker News",
    "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
@@ -78,9 +174,9 @@
   },
   {
    "id": "36a31799a5ab460a1340edb43d1c1aa12f025c06",
-   "title": "Sherman Anti-Trust Act (1890",
+   "title": "Sherman Anti-Trust Act (1890)",
    "summary": [
-    "Article URL: https://www.archives.gov/milestone-documents/sherman-anti-trust-act Comments URL: https://news.ycombinator.com/item?id=50446219 Points: 34 # Comments: 16"
+    "Article URL: https://www.archives.gov/milestone-documents/sherman-anti-trust-act Comments URL: https://news.ycombinator.com/item?id=50446219 Points: 75 # Comments: 45"
    ],
    "source": "Hacker News",
    "url": "https://www.archives.gov/milestone-documents/sherman-anti-trust-act",
@@ -156,9 +252,9 @@
   },
   {
    "id": "12179ed519d5b3baac95c3c9456e1f61b53555a5",
-   "title": "Toyota brand Scion is back and it's going to sell a kei truck in America",
+   "title": "Scion is back and is going to sell a kei truck in America",
    "summary": [
-    "Article URL: https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/ Comments URL: https://news.ycombinator.com/item?id=50445401 Points: 85 # Comments: 60"
+    "Article URL: https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/ Comments URL: https://news.ycombinator.com/item?id=50445401 Points: 347 # Comments: 259"
    ],
    "source": "Hacker News",
    "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
@@ -168,10 +264,23 @@
    "related": []
   },
   {
+   "id": "e188d6fc74ca240a91618ac3b8a13363bbf55ffe",
+   "title": "Research taste in history: the importance of learning Babylonian math",
+   "summary": [
+    "Article URL: https://resobscura.substack.com/p/research-taste-in-history-the-importance Comments URL: https://news.ycombinator.com/item?id=50445279 Points: 15 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://resobscura.substack.com/p/research-taste-in-history-the-importance",
+   "image": null,
+   "published_at": "2026-11-10T19:42:44Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "db09e2e8ec2b8780bf93b198510c2e9e280a9c95",
    "title": "What objective is reasoning solving?",
    "summary": [
-    "Article URL: https://alexwang.ai/posts/reasoning-as-pathfinding/ Comments URL: https://news.ycombinator.com/item?id=50445013 Points: 61 # Comments: 27"
+    "Article URL: https://alexwang.ai/posts/reasoning-as-pathfinding/ Comments URL: https://news.ycombinator.com/item?id=50445013 Points: 110 # Comments: 49"
    ],
    "source": "Hacker News",
    "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
@@ -197,7 +306,7 @@
    "id": "bb743bd9d467443ec1f7f7c448239cd0d86623e5",
    "title": "A comprehensive study of how fingerprintable users are",
    "summary": [
-    "Article URL: https://fingerprinting.study/ Comments URL: https://news.ycombinator.com/item?id=50444684 Points: 43 # Comments: 11"
+    "Article URL: https://fingerprinting.study/ Comments URL: https://news.ycombinator.com/item?id=50444684 Points: 78 # Comments: 36"
    ],
    "source": "Hacker News",
    "url": "https://fingerprinting.study/",
@@ -249,7 +358,7 @@
    "id": "f2a365891fa20b3c542947e72b9d907497ded8c6",
    "title": "Synaptics patent claims stop work on DisplayLink drivers",
    "summary": [
-    "Article URL: https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/ Comments URL: https://news.ycombinator.com/item?id=50443824 Points: 211 # Comments: 90"
+    "Article URL: https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/ Comments URL: https://news.ycombinator.com/item?id=50443824 Points: 311 # Comments: 167"
    ],
    "source": "Hacker News",
    "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
@@ -285,68 +394,6 @@
    "published_at": "2026-11-10T17:56:12Z",
    "category": "tech",
    "related": []
-  },
-  {
-   "id": "7737e173e31a598869bdd5fd48b466d0bd6a67de",
-   "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
-   "summary": [
-    "Article URL: https://claude.com/resources/articles/sheets-whiteboards-data Comments URL: https://news.ycombinator.com/item?id=50443716 Points: 116 # Comments: 90"
-   ],
-   "source": "Hacker News",
-   "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
-   "image": null,
-   "published_at": "2026-11-10T17:55:07Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "a5749ddac12322dfa78583b995525f22a59dbcad",
-   "title": "An Open Field Guide to Inference Engineering",
-   "summary": [
-    "Article URL: https://docs.modelplane.ai/guides/inference-guide Comments URL: https://news.ycombinator.com/item?id=50443714 Points: 45 # Comments: 6"
-   ],
-   "source": "Hacker News",
-   "url": "https://docs.modelplane.ai/guides/inference-guide",
-   "image": null,
-   "published_at": "2026-11-10T17:55:07Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "dfad3e6674c2521c5d64ac5775dcb6f40f6d2a5c",
-   "title": "Life on Claude Nine",
-   "summary": [
-    "Article URL: https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html Comments URL: https://news.ycombinator.com/item?id=50443587 Points: 55 # Comments: 19"
-   ],
-   "source": "Hacker News",
-   "url": "https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html",
-   "image": null,
-   "published_at": "2026-11-10T17:44:44Z",
-   "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "https://stoppels.ch/2026/11/07/the-hardest-tarball.html"
-    }
-   ]
-  },
-  {
-   "id": "d438bd2ee1d81c2ebc2f5e4713c2d9d5f7b7a83d",
-   "title": "Val Town is winding down",
-   "summary": [
-    "Article URL: https://blog.val.town/winding-down Comments URL: https://news.ycombinator.com/item?id=50443427 Points: 236 # Comments: 59"
-   ],
-   "source": "Hacker News",
-   "url": "https://blog.val.town/winding-down",
-   "image": null,
-   "published_at": "2026-11-10T17:31:14Z",
-   "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "https://www.ableton.com/en/live/"
-    }
-   ]
   },
   {
    "id": "96721366569b200d28d4473830262f1edbbb2cff",
@@ -391,7 +438,7 @@
    "id": "de95d8349f73200c8d7ad76a6f1f5016aa2787bb",
    "title": "AMD's Zen 6 Family: Feeding the Beast",
    "summary": [
-    "Article URL: https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast Comments URL: https://news.ycombinator.com/item?id=50443090 Points: 142 # Comments: 50"
+    "Article URL: https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast Comments URL: https://news.ycombinator.com/item?id=50443090 Points: 190 # Comments: 71"
    ],
    "source": "Hacker News",
    "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
@@ -417,25 +464,12 @@
    "id": "ad9eb20db0e4109524a47d89785b0ac3e1c992b5",
    "title": ".name Grandfathered",
    "summary": [
-    "Article URL: https://neil.fraser.name/news/2026/11/10/ Comments URL: https://news.ycombinator.com/item?id=50442736 Points: 558 # Comments: 119"
+    "Previously: .name Termination - https://news.ycombinator.com/item?id=49550772 - Sept 2026 (547 comments) Comments URL: https://news.ycombinator.com/item?id=50442736 Points: 699 # Comments: 164"
    ],
    "source": "Hacker News",
    "url": "https://neil.fraser.name/news/2026/11/10/",
    "image": null,
    "published_at": "2026-11-10T16:37:44Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "92b8883870aedc23d9b3c18ffad1552183008cb9",
-   "title": "Blender 5.3 released with Gaussian Splat support",
-   "summary": [
-    "Article URL: https://www.blender.org/download/releases/5-3/ Comments URL: https://news.ycombinator.com/item?id=50442426 Points: 371 # Comments: 52"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.blender.org/download/releases/5-3/",
-   "image": null,
-   "published_at": "2026-11-10T16:15:43Z",
    "category": "tech",
    "related": []
   },
@@ -514,45 +548,6 @@
    "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
    "image": null,
    "published_at": "2026-11-10T15:29:30Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "f8fef665ff3e277e29e709ed59c84f6da4dcacee",
-   "title": "Smart home devices should work without the internet",
-   "summary": [
-    "Article URL: https://docodethatmatters.com/home-automation-overnight-success/ Comments URL: https://news.ycombinator.com/item?id=50441707 Points: 550 # Comments: 191"
-   ],
-   "source": "Hacker News",
-   "url": "https://docodethatmatters.com/home-automation-overnight-success/",
-   "image": null,
-   "published_at": "2026-11-10T15:25:20Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "37bd14125c983d3280a4946fedc0d07f94d45c71",
-   "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
-   "summary": [
-    "Article URL: https://tinyvalencia.com/ Comments URL: https://news.ycombinator.com/item?id=50441518 Points: 153 # Comments: 38"
-   ],
-   "source": "Hacker News",
-   "url": "https://tinyvalencia.com/",
-   "image": null,
-   "published_at": "2026-11-10T15:12:16Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "539f047ac557640f650f211907157dc197481a4a",
-   "title": "Nvidia shaken by scandal amid wider political new order for big tech",
-   "summary": [
-    "A scandal tests Nvidia’s dominance as tech billionaires seek to mend ties with Democrats after the midterm electionsThis was originally published in TechScape, a newsletter about how technology shapes our lives."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/global/2026/nov/10/nvidias-silicon-valley-political-power",
-   "image": "https://i.guim.co.uk/img/media/1797818fdcdde90e5abd60f32156a3275cad043f/245_0_2435_1949/master/2435.jpg?width=140&quality=85&auto=format&fit=max&s=db0b4c77e663cde9f705242a0a8ece6c",
-   "published_at": "2026-11-10T15:04:38Z",
    "category": "tech",
    "related": []
   }
