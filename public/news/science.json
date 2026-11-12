@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-12T09:42:54.964979Z",
- "story_count": 22,
+ "generated_at": "2026-11-12T18:10:29.418439Z",
+ "story_count": 19,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "ok",
-  "https://www.dawn.com/feeds/pakistan": "ok",
+  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,9 +20,48 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
+  "https://www.espn.com/espn/rss/news": "ok"
  },
  "stories": [
+  {
+   "id": "e5169f431f59a7e563bf1305e9967fb70fe383fb",
+   "title": "BBC Inside Science",
+   "summary": [
+    "A weekly programme looking at the science that's changing our world."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/sounds/play/w3ct978l?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-12T17:00:00Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "b6766d1eb2938f964849a1b39a1f1debac5946e7",
+   "title": "Nurdle impact to be researched for a year",
+   "summary": [
+    "Research will be carried out on sea-birds and marine life following a microplastic spillage in July."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cxnv4y23zldyo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-12T11:38:35Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "0864bd6dc86e700f3b9956ca4106240daec2b5bb",
+   "title": "Burnham says climate consensus 'gone' but pledges 'new era of leadership'",
+   "summary": [
+    "PM Andy Burnham was addressing delegates at the COP31 UN climate summit in Antalya, Turkey."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmg46y7wev42o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-12T11:03:53Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "e208d0b84893d22c888aebf45035f83e8b1c7194",
    "title": "Earth's fiery birth may have created hundreds of oceans' worth of water",
@@ -61,19 +100,6 @@
    "url": "https://www.bbc.co.uk/news/articles/c39wzv2vqgxvo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-12T06:13:52Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "b6766d1eb2938f964849a1b39a1f1debac5946e7",
-   "title": "Nurdle impact to be researched for a year",
-   "summary": [
-    "Research will be carried out on sea-birds and marine life following a microplastic spillage in July."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cxnv4y23zldyo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-12T06:06:41Z",
    "category": "science",
    "related": []
   },
@@ -252,76 +278,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cmn8w8n5ynq2o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-11T06:37:12Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "8e2d9cd3d011e05cded213155bb869d3f60c86b5",
-   "title": "Scientists discover why some mosquitoes love you and others don't",
-   "summary": [
-    "A surprising new study reveals that mosquitoes have very different tastes in humans, with each species attracted to its own combination of skin odors, chemicals, and bacteria.",
-    "The discovery challenges the idea of a universal mosquito magnet and could lead to more effective repellents against dangerous disease-spreading mosquitoes."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261106174541.htm",
-   "image": null,
-   "published_at": "2026-11-11T02:21:13Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "9286d32c723570281c3e82740463a7fceb19e83a",
-   "title": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
-   "summary": [
-    "Scientists have uncovered fossils of a giant rodent that lived in Thailand 34 million years ago, revealing that enormous rodents evolved much earlier than previously thought.",
-    "Named Yakamys sirindhornae, the ancient animal may have weighed around 66 pounds, roughly twice as much as other known rodents of its time."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm",
-   "image": null,
-   "published_at": "2026-11-11T01:36:04Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "07e631b1d71d05d5738bddb10a49e5cdeed053b9",
-   "title": "237-million-year-old fossils reveal a bizarre armored sea amphibian",
-   "summary": [
-    "A bizarre, heavily armored amphibian roamed the oceans 237 million years ago, despite the fact that modern amphibians cannot survive entirely in saltwater.",
-    "Discovered in China, the giant salamander-sized creature may be the first known amphibian to have adapted to a fully marine existence."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261109205409.htm",
-   "image": null,
-   "published_at": "2026-11-11T00:59:32Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "27b074b0e7359ba7ff0cd05c3d05fb20dbe64115",
-   "title": "Duchy tenants may have to buy farms or leave as Prince William plans sell-off",
-   "summary": [
-    "A ten-year strategy to raise £500m from the Duchy of Cornwall will see farms sold off across England."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cwm242plggldo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-11T00:35:14Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "f42814c81f7ac12e37b3b9fca666077dbc1f0c29",
-   "title": "Astronomers discover hidden alien planet in James Webb images",
-   "summary": [
-    "A breakthrough in telescope imaging could reveal countless alien worlds that have been hiding in plain sight.",
-    "Scientists developed a new technique that uses a digital twin of the James Webb Space Telescope to remove the overwhelming glare of stars, making faint exoplanets two to 15 times easier to detect than with conventional methods.",
-    "The technology has already uncovered a previously hidden planet in existing telescope data and could reveal many more."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261108233028.htm",
-   "image": null,
-   "published_at": "2026-11-10T23:56:04Z",
    "category": "science",
    "related": []
   }

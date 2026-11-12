@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-12T09:42:54.964240Z",
+ "generated_at": "2026-11-12T18:10:29.417772Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "ok",
-  "https://www.dawn.com/feeds/pakistan": "ok",
+  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,536 +20,540 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
+  "https://www.espn.com/espn/rss/news": "ok"
  },
  "stories": [
   {
-   "id": "5a43f428431efbf7f6048926930483f7f1f4f822",
-   "title": "Humble Bundle just killed most of their security through vibecoding",
+   "id": "5c8a7e2ce9e472f49fcaac4d4a40cb5e63ff5e38",
+   "title": "Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit",
    "summary": [
-    "Article URL: https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/ Comments URL: https://news.ycombinator.com/item?id=50463899 Points: 260 # Comments: 131"
+    "Hugging Face's CEO pledged to keep fighting for open-source AI after Huang's exit, raising questions about Nvidia's $12.9B acquisition."
    ],
-   "source": "Hacker News",
-   "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
    "image": null,
-   "published_at": "2026-11-12T06:52:48Z",
+   "published_at": "2026-11-12T17:36:40Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "8a1ce106a6c1aec3bd02255d1668f5a0ad323d1e",
-   "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
+   "id": "52709dee410a39c407b9f71a2dbad124f1ef5df9",
+   "title": "AI Models Know What Women, Peace and Security Is. They Just Don't Bring It Up",
    "summary": [
-    "Article URL: https://www.getlazarus.org/forums/topic/17/ Comments URL: https://news.ycombinator.com/item?id=50463540 Points: 35 # Comments: 8"
+    "Article URL: https://blog.cip.org/p/ai-models-know-what-women-peace-and Comments URL: https://news.ycombinator.com/item?id=50470975 Points: 4 # Comments: 1"
    ],
    "source": "Hacker News",
-   "url": "https://www.getlazarus.org/forums/topic/17/",
+   "url": "https://blog.cip.org/p/ai-models-know-what-women-peace-and",
    "image": null,
-   "published_at": "2026-11-12T05:49:34Z",
+   "published_at": "2026-11-12T17:32:49Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "924e215ea0314b16899bc6b86463156229632dcd",
-   "title": "Darling Development Update – Q4 2026",
+   "id": "359d6b58026b3f2d2491386abdd008d99b27e37d",
+   "title": "Paths in Pieces",
    "summary": [
-    "Article URL: https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/ Comments URL: https://news.ycombinator.com/item?id=50463103 Points: 26 # Comments: 5"
+    "Article URL: https://stoppels.ch/2026/11/12/paths-in-pieces.html Comments URL: https://news.ycombinator.com/item?id=50470762 Points: 6 # Comments: 0"
    ],
    "source": "Hacker News",
-   "url": "https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/",
+   "url": "https://stoppels.ch/2026/11/12/paths-in-pieces.html",
    "image": null,
-   "published_at": "2026-11-12T04:32:31Z",
+   "published_at": "2026-11-12T17:19:39Z",
+   "category": "tech",
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://ipo.anthropic.com/us/"
+    }
+   ]
+  },
+  {
+   "id": "322f998ba4d6dbd271412d3750c4eada2c002501",
+   "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+   "summary": [
+    "The airline said it will not allow customers to use AI agents to book flights and manage reservations."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+   "image": null,
+   "published_at": "2026-11-12T17:17:58Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ca80552a275a93361e3110438781ad16c38738cd",
+   "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+   "summary": [
+    "SoftBank lost over $3 billion pre-ordering natural gas turbines to power AI data centers.",
+    "Here's what the loss means to power markets."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+   "image": null,
+   "published_at": "2026-11-12T17:00:52Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "0cefd18c08c5c4ac896265d27491d9e4a4c30b6f",
+   "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+   "summary": [
+    "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+   "image": null,
+   "published_at": "2026-11-12T17:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "98be2f67e679f7ff8caf8de50e88861c551240f9",
+   "title": "AWS Lambda Web Functions keep billing memory ~7 minutes after the last request",
+   "summary": [
+    "Article URL: https://www.easel.sh/blog/lambda-web-functions-idle-memory Comments URL: https://news.ycombinator.com/item?id=50470445 Points: 24 # Comments: 9"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.easel.sh/blog/lambda-web-functions-idle-memory",
+   "image": null,
+   "published_at": "2026-11-12T16:59:26Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "1823e2dd13e5606602420277090f3d074efe7a7c",
+   "title": "Jensen Huang resigns as Nvidia CEO after alleged affairs",
+   "summary": [
+    "Move follows admission of affair with woman alleged to be Chinese spy and reported relationship with employeeBusiness live – latest updatesFrom washing dishes at Denny’s to rockstar of AI: the rise and fall of Jensen HuangJensen Huang has resigned as chief executive of Nvidia after reports of extramarital affairs with an alleged Chinese spy and a company employee.He will be replaced on an interim basis by Nvidia’s chief financial officer, Colette Kress, until a full-time successor is named."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns",
+   "image": "https://i.guim.co.uk/img/media/ea4b16af123a28b8935ff59fcbece2e5f6e92878/728_0_7212_5768/master/7212.jpg?width=140&quality=85&auto=format&fit=max&s=0bffdc317e7389b79d2db7be06881297",
+   "published_at": "2026-11-12T16:57:34Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "0b22490ccedd096584a7db42020ec4b4d8653080",
+   "title": "Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions",
+   "summary": [
+    "Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-12T16:43:36Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "aa4bf4548cc5dfc6ea7c2d95bc37d1d1e808b8fe",
+   "title": "Jensen Huang agrees to testify before Congress",
+   "summary": [
+    "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+   "image": null,
+   "published_at": "2026-11-12T16:36:37Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "aff4b2c65530b3e62f1ea13601b4d44e474d38e2",
+   "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+   "summary": [
+    "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal.",
+    "He was using his influence to push the AI industry in some very specific ways."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+   "image": null,
+   "published_at": "2026-11-12T16:32:33Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "e4d56cd633296381022c9a74c3018849919fbc4a",
+   "title": "Nintendo Takes Down Emulators and Firmware in Massive GitHub DMCA Sweep",
+   "summary": [
+    "Article URL: https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep Comments URL: https://news.ycombinator.com/item?id=50469994 Points: 80 # Comments: 37"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.ign.com/articles/nintendo-takes-down-switch-emulators-and-mod-chip-firmware-in-massive-github-dmca-sweep",
+   "image": null,
+   "published_at": "2026-11-12T16:29:13Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "44722bd0302590514d5721c7d433e5d35be73d6a",
+   "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
+   "summary": [
+    "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
+   "image": null,
+   "published_at": "2026-11-12T16:12:44Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "b1f562928272a780d251fd263d12381625b23f87",
+   "title": "Whoop just launched a social network",
+   "summary": [
+    "Whoop is launching a social network that lets members share their sleep, recovery, and workout data, but the bigger bet is on becoming more of a personal health brand, with CEO Will Ahmed hinting at acquisitions to come."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/",
+   "image": null,
+   "published_at": "2026-11-12T16:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "1447c52b300c38a10805e94b80ac49ea2876e722",
+   "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
+   "summary": [
+    "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
+   "image": null,
+   "published_at": "2026-11-12T15:37:29Z",
    "category": "tech",
    "related": []
   },
   {
    "id": "fbc14e5f6ea51acf7e41dbc90f370bde25e02b07",
-   "title": "What we know as pressure builds on embattled Nvidia CEO Jensen Huang",
+   "title": "What we know as Nvidia CEO Jensen Huang resigns over affair allegations",
    "summary": [
-    "The billionaire tech executive's future is in question after reports of a second extramarital affair."
+    "The billionaire tech executive has left the company following reports of a second extramarital affair."
    ],
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-12T04:18:33Z",
+   "published_at": "2026-11-12T15:26:39Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "fe84897fa929f5f4f7d875062234582fc18a98e2",
-   "title": "Bad ideas that aren't bad anymore",
+   "id": "3e5c3e8eec45835b7fa594c612636496341ebff9",
+   "title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
    "summary": [
-    "Article URL: https://devonestes.com/bad-ideas-that-arent-bad-anymore Comments URL: https://news.ycombinator.com/item?id=50462613 Points: 56 # Comments: 38"
+    "Article URL: https://github.com/chocoford/ExcalidrawZ Comments URL: https://news.ycombinator.com/item?id=50468944 Points: 45 # Comments: 10"
    ],
    "source": "Hacker News",
-   "url": "https://devonestes.com/bad-ideas-that-arent-bad-anymore",
+   "url": "https://github.com/chocoford/ExcalidrawZ",
    "image": null,
-   "published_at": "2026-11-12T03:18:13Z",
+   "published_at": "2026-11-12T15:25:52Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "df5c4c0af68f09b1bdd728a69617d951de7ff2b5",
-   "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+   "id": "0667a519c65042ee1fcd1979931dcd332e244f0b",
+   "title": "I'm making LLMs work on small and old devices",
    "summary": [
-    "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist."
+    "Article URL: https://github.com/hyperionaidev/smolmaxxing/ Comments URL: https://news.ycombinator.com/item?id=50468888 Points: 91 # Comments: 24"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/hyperionaidev/smolmaxxing/",
+   "image": null,
+   "published_at": "2026-11-12T15:23:10Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "bfccb2d38562aef81144840e5c58e755f286b953",
+   "title": "Norwest pushes deeper into AI with new $4B fund",
+   "summary": [
+    "This is the investment firm's largest fund to date."
    ],
    "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+   "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
    "image": null,
-   "published_at": "2026-11-12T03:13:10Z",
+   "published_at": "2026-11-12T15:18:14Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "66375f1e04ebdf16658da4e13c3f176602307304",
-   "title": "Lean Grimoire",
+   "id": "8348d13a1960e880aeb5fe2d59a7c7406e044c97",
+   "title": "Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux",
    "summary": [
-    "Article URL: https://terrytao.wordpress.com/2026/11/11/lean-grimoire/ Comments URL: https://news.ycombinator.com/item?id=50462375 Points: 34 # Comments: 5"
+    "Article URL: https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/ Comments URL: https://news.ycombinator.com/item?id=50468720 Points: 40 # Comments: 17"
    ],
    "source": "Hacker News",
-   "url": "https://terrytao.wordpress.com/2026/11/11/lean-grimoire/",
+   "url": "https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/",
    "image": null,
-   "published_at": "2026-11-12T02:36:48Z",
+   "published_at": "2026-11-12T15:14:52Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "5b070766ec4dadda81353107221b8e1dbf6b08b6",
-   "title": "Critical RCE Vulnerability in Apache HTTP Server",
+   "id": "4aa9074d7b959b5498e2dcf4f0d353575bb83b8e",
+   "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
    "summary": [
-    "Article URL: https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability Comments URL: https://news.ycombinator.com/item?id=50462177 Points: 185 # Comments: 80"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
-   "image": null,
-   "published_at": "2026-11-12T02:11:11Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "efdd0bfa6110086b21d79cca8d1b30a120c8eaa1",
-   "title": "The unfolding Jensen Huang scandal: a timeline",
-   "summary": [
-    "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-   "image": null,
-   "published_at": "2026-11-11T23:50:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "b91248042740580a6fd2c0ea3e773ef7117d2b36",
-   "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-   "summary": [
-    "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
-   "image": null,
-   "published_at": "2026-11-11T23:28:45Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "d8ef3fe6591f506ad313f2e5f97a57449f56558c",
-   "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
-   "summary": [
-    "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
-   "image": null,
-   "published_at": "2026-11-11T23:17:05Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "7d083511db3c21979539e37d2afb2d8b64a167fa",
-   "title": "A general purpose Apple Silicon layer for x86-64 PCs",
-   "summary": [
-    "Article URL: https://github.com/tylertms/Stela Comments URL: https://news.ycombinator.com/item?id=50460154 Points: 105 # Comments: 42"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/tylertms/Stela",
-   "image": null,
-   "published_at": "2026-11-11T23:02:38Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "fcc732cc4f5a0d8c81b001c7c4314794150b1de1",
-   "title": "93% of paint splatters are valid Perl programs (2019)",
-   "summary": [
-    "Article URL: https://www.mcmillen.dev/sigbovik/ Comments URL: https://news.ycombinator.com/item?id=50459745 Points: 412 # Comments: 54"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.mcmillen.dev/sigbovik/",
-   "image": null,
-   "published_at": "2026-11-11T22:34:23Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "081caafcc522c70ea94ec58c75de815289eca637",
-   "title": "Nvidia is preparing to oust Jensen Huang",
-   "summary": [
-    "Article URL: https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad Comments URL: https://news.ycombinator.com/item?id=50459703 Points: 994 # Comments: 1341"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-   "image": null,
-   "published_at": "2026-11-11T22:31:06Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "502a4a7d097f56046c94aa623cdfffe8cdb9c331",
-   "title": "Lego marketplace BrickLink offline after 'unusual activity' detected",
-   "summary": [
-    "Known as the eBay of Lego, it has been down for three days and is yet to disclose what caused the shutdown."
+    "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors."
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6rmgw8zynr4o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-11T22:26:18Z",
+   "published_at": "2026-11-12T15:10:32Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "2f1463e50ee923f07f1b5a0f948fe37dcd477c5a",
-   "title": "Lock Your GitHub Actions",
+   "id": "660711644cdc9dc9c8a6ac97bbb0a66a2efe281a",
+   "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
    "summary": [
-    "Article URL: https://hugovk.dev/blog/2026/lock-github-actions/ Comments URL: https://news.ycombinator.com/item?id=50459485 Points: 249 # Comments: 49"
-   ],
-   "source": "Hacker News",
-   "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
-   "image": null,
-   "published_at": "2026-11-11T22:16:41Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "645f1651bd53c9c80a60d4806ae9d23cc6481854",
-   "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-   "summary": [
-    "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 547 # Comments: 540"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-   "image": null,
-   "published_at": "2026-11-11T21:24:35Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "d05830646ed0694b15bb5899187f05502af6ef76",
-   "title": "Emacs in the Age of Magic",
-   "summary": [
-    "Article URL: https://commandlinesystems.com/magic.txt Comments URL: https://news.ycombinator.com/item?id=50458208 Points: 223 # Comments: 100"
-   ],
-   "source": "Hacker News",
-   "url": "https://commandlinesystems.com/magic.txt",
-   "image": null,
-   "published_at": "2026-11-11T20:26:32Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "418d10f93d4edba885c9bfa38ad80e39cca18db3",
-   "title": "Huawei releases MACaQ, its internal quantizer for local inference",
-   "summary": [
-    "Article URL: https://github.com/huawei-csl/MACaQ Comments URL: https://news.ycombinator.com/item?id=50458166 Points: 100 # Comments: 25"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/huawei-csl/MACaQ",
-   "image": null,
-   "published_at": "2026-11-11T20:23:57Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "ae5556d61c0b046e5cd229833ed6ba9af4d4ac50",
-   "title": "Why the data center you dread might never even be built",
-   "summary": [
-    "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity.",
-    "Before those challenges even come into play, though, there’s a more basic problem: A lot of the projects being announced may never get built in the first place.",
-    "With billions of dollars in AI infrastructure […]"
+    "This is Fireworks' second data breach in as many months."
    ],
    "source": "TechCrunch",
-   "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+   "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
    "image": null,
-   "published_at": "2026-11-11T20:15:15Z",
+   "published_at": "2026-11-12T15:02:28Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "70b89fd3ef03cc10b288f5e8301b4e0277ec55bf",
-   "title": "Meta is losing its longtime head of infrastructure",
+   "id": "caced9783dab4cd64166e93d4a67855de3aef1d0",
+   "title": "US workers are fighting to protect their jobs from AI – and winning",
    "summary": [
-    "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
-   "image": null,
-   "published_at": "2026-11-11T20:12:01Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "c66a87c7d4009ff1b211a7b61a4e99849f58d8c5",
-   "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
-   "summary": [
-    "Entering into the world of venture capital has never been easy, especially as a first-time fund manager.",
-    "Olaf Sakkers has spent the past five years proving that difficult doesn't mean impossible."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/",
-   "image": null,
-   "published_at": "2026-11-11T20:04:28Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "850c0644106f92383d82d648abe54a1c902d7ae1",
-   "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
-   "summary": [
-    "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
-   "image": null,
-   "published_at": "2026-11-11T19:54:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "48a7134cb4c15e177b44beb0aa5cc7a3edaae16a",
-   "title": "The Utah Teapot",
-   "summary": [
-    "https://www.youtube.com/watch?v=k-23LgrFcvs Comments URL: https://news.ycombinator.com/item?id=50457618 Points: 129 # Comments: 32"
-   ],
-   "source": "Hacker News",
-   "url": "https://graphics.cs.utah.edu/teapot/",
-   "image": null,
-   "published_at": "2026-11-11T19:45:10Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "6f3c74a04fea158fdc361fd21a0bf56afe8e6142",
-   "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
-   "summary": [
-    "Fractile has now become one of the top-funded players in the race for purpose-built AI chips."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
-   "image": null,
-   "published_at": "2026-11-11T19:34:55Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "94fcbf10f80778a73f6c80cf12b431a3ee9794d6",
-   "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
-   "summary": [
-    "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
-   "image": null,
-   "published_at": "2026-11-11T19:22:22Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "cce714811b519a82922e4ba72c95cc2532e1ab7f",
-   "title": "Gemini Decisions API",
-   "summary": [
-    "Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/ Comments URL: https://news.ycombinator.com/item?id=50456791 Points: 425 # Comments: 128"
-   ],
-   "source": "Hacker News",
-   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-   "image": null,
-   "published_at": "2026-11-11T18:32:42Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "70a69d3bb58228021bc9cc8347babadc9bc0bc9b",
-   "title": "AWS emulator",
-   "summary": [
-    "https://www.aboutamazon.com/news/aws/how-autonomous-ai-agent...https://www.allthingsdistributed.com/2026/11/aws-emulator-an...",
-    "Comments URL: https://news.ycombinator.com/item?id=50456631 Points: 840 # Comments: 233"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/aws/aws-emulator",
-   "image": null,
-   "published_at": "2026-11-11T18:21:38Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "0fae150e72fe5acc58cd2736da4d6a0eb83fcd01",
-   "title": "The Lost World of Aquaterra",
-   "summary": [
-    "Article URL: https://www.theatlantic.com/magazine/2026/12/aquaterra-ancient-human-migration/689029/ Comments URL: https://news.ycombinator.com/item?id=50456279 Points: 7 # Comments: 0"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.theatlantic.com/magazine/2026/12/aquaterra-ancient-human-migration/689029/",
-   "image": null,
-   "published_at": "2026-11-11T17:53:29Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "7a69c1b89eda0814b73757a63fb89b12fb26d384",
-   "title": "Faster Retrieval for Better, More Efficient RAG",
-   "summary": [
-    "Article URL: https://machinelearning.apple.com/research/faster-retrieval Comments URL: https://news.ycombinator.com/item?id=50455633 Points: 207 # Comments: 38"
-   ],
-   "source": "Hacker News",
-   "url": "https://machinelearning.apple.com/research/faster-retrieval",
-   "image": null,
-   "published_at": "2026-11-11T16:57:45Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "12a9550d1f6a0c049713ed1352e00f23431a40da",
-   "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-   "summary": [
-    "Article URL: https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/ Comments URL: https://news.ycombinator.com/item?id=50455394 Points: 488 # Comments: 236"
-   ],
-   "source": "Hacker News",
-   "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-   "image": null,
-   "published_at": "2026-11-11T16:38:44Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "7a8ca7de71bda47ab2f41743cd27643cb6821a68",
-   "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
-   "summary": [
-    "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
-   "image": null,
-   "published_at": "2026-11-11T16:16:07Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "2ed3a890d3d8bbd2d6609ad76bfad00c62941b0f",
-   "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
-   "summary": [
-    "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
-   "image": null,
-   "published_at": "2026-11-11T16:14:44Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "f6b29b4e2ab3b1b99d2fffbdc6980c84e367039d",
-   "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
-   "summary": [
-    "But unlike Granola, Yogurt is open-source, free to use, and private.",
-    "And if you want to make your notes available to a frontier model, you can just share it with Anthropic, OpenAI, etc. directly via Yogurt’s local MCP server.",
-    "There’s no need to use a paid cloud service as a middleman.I tried some of the most popular OSS note taking tools, and most were missing features like calendar integration, MCP server, etc. or required you to connect or create an account."
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/FrigadeHQ/yogurt",
-   "image": null,
-   "published_at": "2026-11-11T15:33:06Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "de395c3eeb13e5fe626b9d3c11a7331641b5e2d0",
-   "title": "Siri co-founder backs Helix for its voice ID tech",
-   "summary": [
-    "With the rise of AI agents like Instinct and Muse, the industry needs to rethink human identity on the internet and rely on biometric signals like voice, which is where Helix comes in."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/",
-   "image": null,
-   "published_at": "2026-11-11T15:02:47Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "f3fccc6147cd9e2351aae84bf9301469c470ada8",
-   "title": "The 37 best Christmas gifts in the UK for tweens – chosen by 10- to 12-year-olds",
-   "summary": [
-    "We asked 20 tweenagers what they already own, love and think would make great gifts.",
-    "But instead of asking what they want, I quizzed them on the things they already have, truly love and use regularly.",
-    "Here are their tried and tested gift ideas for a range of prices."
+    "As governments adopt AI, workers are gaining ground in how it’s used and securing safeguards against its harmsIn the shadow of Silicon Valley, workers for the city of Oakland, California, worry the region will deploy AI systems that could increase surveillance and inaccurately evaluate their performance.",
+    "Pushing for protections to ensure workers won’t be laid off or disciplined by AI, their union overwhelmingly voted on 22 October to authorize a strike, with 94.1% in favor.“We just want the city administration to really be intentional about how it’s engaging with AI products,” said Julian Ware, an Oakland spatial data administrator and member of International Federation of Professional and Technical Engineers Local 21. “Sometimes with a fancy new toy, it actually costs more, it’s more difficult to implement and the results are not as good.” Continue reading..."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/thefilter/2026/nov/11/best-christmas-gifts-ideas-tweens-uk",
-   "image": "https://i.guim.co.uk/img/media/0a8d13968f6d03da339850dda67e6e26b25e731a/0_0_4000_3200/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=e1422ae0c617d2047e0cc6f1184e630e",
-   "published_at": "2026-11-11T15:00:52Z",
+   "url": "https://www.theguardian.com/technology/2026/nov/12/us-workers-governments-unions-ai",
+   "image": "https://i.guim.co.uk/img/media/56480260b7bf656d9742122815f5137a16b1a1e8/329_0_1706_1365/master/1706.jpg?width=140&quality=85&auto=format&fit=max&s=6401e5d5f746e4fc1b52f2c35cea0338",
+   "published_at": "2026-11-12T15:00:44Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "ae21c2f528d9d3a525456d7ac5a4074a4d622405",
-   "title": "How years of research built Grand Theft Auto VI’s obsessively detailed world",
+   "id": "db9c85cb5643016c714299e94474b9b510ad1be9",
+   "title": "Show HN: AI Red Lines – write down what would make you act on AI",
    "summary": [
-    "The developers behind its virtual Florida share how they built their most ambitious world so far• Don’t get Pushing Buttons delivered to your inbox?",
-    "This is the biggest game in the world, after all; I imagine it would be difficult to go entirely undercover. “We’re always semi-undercover,” he says. “But if you have a bunch of dorks going through a terrifying neighbourhood, you do stick out a bit.” Continue reading..."
+    "Article URL: https://yourairedlines.com Comments URL: https://news.ycombinator.com/item?id=50467880 Points: 18 # Comments: 10"
    ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/games/2026/nov/11/a-world-of-its-own-inside-the-making-of-the-most-detailed-grand-theft-auto-yet",
-   "image": "https://i.guim.co.uk/img/media/f9bf30fc1431ef6e783a0570dd352f24c3ddc240/302_0_1902_1522/master/1902.jpg?width=140&quality=85&auto=format&fit=max&s=a6067a2c34608e08173aff16dfb294c8",
-   "published_at": "2026-11-11T15:00:51Z",
+   "source": "Hacker News",
+   "url": "https://yourairedlines.com",
+   "image": null,
+   "published_at": "2026-11-12T14:31:21Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "6619f09dbc0d0a8f87f2d0193d81898e8086b20a",
-   "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+   "id": "9d5789e229500bc36c82db89f1f45a451b2b81cb",
+   "title": "Running web sites makes me not want to",
    "summary": [
-    "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him.",
-    "He uses Databricks' newly revised Genie agent for that."
+    "Article URL: https://lowkey.party/running-web-sites-makes-me-not-want-to Comments URL: https://news.ycombinator.com/item?id=50467869 Points: 51 # Comments: 28"
+   ],
+   "source": "Hacker News",
+   "url": "https://lowkey.party/running-web-sites-makes-me-not-want-to",
+   "image": null,
+   "published_at": "2026-11-12T14:30:38Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ef98f01e800c5260e2f5ffb348426115c5535c44",
+   "title": "The unfolding Jensen Huang scandal: a timeline",
+   "summary": [
+    "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
    ],
    "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+   "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
    "image": null,
-   "published_at": "2026-11-11T15:00:00Z",
+   "published_at": "2026-11-12T14:30:01Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "0ccfb511c0c877ba5927f56f156fed37151972e9",
-   "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+   "id": "0ecc21d01c244243973c55030ffd5400536829bd",
+   "title": "Abandoned Quake 4 expansion finished by modders and now playable",
    "summary": [
-    "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments."
+    "Article URL: https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64 Comments URL: https://news.ycombinator.com/item?id=50467618 Points: 131 # Comments: 46"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+   "image": null,
+   "published_at": "2026-11-12T14:18:49Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "19edf142065b40b14f81499a53f5a22df712ac2b",
+   "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+   "summary": [
+    "Article URL: https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at Comments URL: https://news.ycombinator.com/item?id=50467460 Points: 106 # Comments: 1"
+   ],
+   "source": "Hacker News",
+   "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+   "image": null,
+   "published_at": "2026-11-12T14:12:37Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "22c8ae7ff3bead66a52b3efe7016d59e4eb1221b",
+   "title": "Libreagi – Save OSS Models",
+   "summary": [
+    "Article URL: https://libreagi.com/ Comments URL: https://news.ycombinator.com/item?id=50467439 Points: 70 # Comments: 16"
+   ],
+   "source": "Hacker News",
+   "url": "https://libreagi.com/",
+   "image": null,
+   "published_at": "2026-11-12T14:11:58Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "2714ba7ad2f1fb8a5a01cfb7a44c9e4017e4ad7e",
+   "title": "Nvidia’s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO",
+   "summary": [
+    "Nvidia gets a new chief executive, days after former CEO Jensen Huang admitted to a romantic affair with an alleged Chinese spy."
    ],
    "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+   "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/",
    "image": null,
-   "published_at": "2026-11-11T14:00:00Z",
+   "published_at": "2026-11-12T14:10:34Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "6acb111c18e6ee276cca6b192028654947b4a53b",
-   "title": "AI datacentres plan on-site power stations on huge scale despite climate risks, research reveals",
+   "id": "53d6f0630c021d094e1d6a616d3b2a056dfcdc17",
+   "title": "Electric Ship Batteries Promise Compact, Cooler Power",
    "summary": [
-    "This is almost four times the total peak electricity demand of Great Britain."
+    "Article URL: https://spectrum.ieee.org/electric-ship-batteries Comments URL: https://news.ycombinator.com/item?id=50467305 Points: 40 # Comments: 34"
+   ],
+   "source": "Hacker News",
+   "url": "https://spectrum.ieee.org/electric-ship-batteries",
+   "image": null,
+   "published_at": "2026-11-12T14:06:03Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a32b6f0c29455309edeacee36739d836e00d8d18",
+   "title": "‘To them, we’re just NPCs’: the artists and activists challenging Trump’s video game propaganda",
+   "summary": [
+    "Named simply Arcade, it is a collection of browser games based on classic titles such as Flappy Bird, Snake, and Tetris, but re-tuned as flagrant works of political propaganda.",
+    "In the midst of increasing fuel, utility and grocery prices thanks to the Iran war, these were naked attempts to distract voters by appealing to their video game nostalgia.After an explosion of news coverage, Arcade caught the attention of the games industry.",
+    "The Tetris Company warned on social media that it “took copyright infringement very seriously.” Days later, the game was removed from the White House site."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/11/ai-datacentres-on-site-gas-fired-power-stations",
-   "image": "https://i.guim.co.uk/img/media/822a68edf6ef4a66a93f5946bbe1be09e4138679/195_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a8acbf551c8b667da4d0383e559dc4e5",
-   "published_at": "2026-11-11T12:00:48Z",
+   "url": "https://www.theguardian.com/games/2026/nov/12/trump-video-game-propaganda",
+   "image": "https://i.guim.co.uk/img/media/b09085c7a1adecb3cce5e7177390560ee5b0951f/481_329_1024_819/master/1024.jpg?width=140&quality=85&auto=format&fit=max&s=b70cb5a1fb4d4215ea4bfc914078a7a6",
+   "published_at": "2026-11-12T14:00:43Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "b8785a000ca8f9401309bd19563898267a64f2d8",
+   "title": "NVIDIA Announces CEO Transition",
+   "summary": [
+    "https://www.reuters.com/live/nvidia-live-board-meets-fate-ce...",
+    "Comments URL: https://news.ycombinator.com/item?id=50467087 Points: 1561 # Comments: 1646"
+   ],
+   "source": "Hacker News",
+   "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+   "image": null,
+   "published_at": "2026-11-12T13:52:29Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "24d7fb83f2c2988f24947e862cebe46e7810ed40",
+   "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+   "summary": [
+    "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
+   "image": null,
+   "published_at": "2026-11-12T13:26:25Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "22594a597461f62e6a86dc12d6afbcad0a333f20",
+   "title": "NHS England deletes ‘misleading’ claim 137 trusts benefiting from Palantir AI tools",
+   "summary": [
+    "But after 29 trusts said it was either not live or they were not using any of its applications, the original list of hospitals appears to have been taken down."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/12/nhs-england-deletes-misleading-claim-137-trusts-benefiting-from-palantir-ai-tools",
+   "image": "https://i.guim.co.uk/img/media/95c422c3f4ddb97d445e586e9da99aba18c88ab1/373_0_4131_3305/master/4131.jpg?width=140&quality=85&auto=format&fit=max&s=671135c91b04e887ed3f64e0a8b1afd4",
+   "published_at": "2026-11-12T11:00:47Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "f6ec31bc760078c1f4c5181e30f4664b21eb5d6a",
+   "title": "Datacentres are deeply unpopular. Has Sweden made one we can all love?",
+   "summary": [
+    "It is built of wood, resembles an Ikea and its power is totally renewable.",
+    "Is this facility in Falun the best datacentre in the world?‘It was pretty cool, when they were building it.",
+    "He is giving me a tour of their facility in Falun, Sweden, which could lay claim to being the world’s greenest datacentre – although to many, that is a contradiction in terms.One difference is immediately visible: this datacentre is made out of wood."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/2026/nov/12/datacentres-unpopular-sweden-ecodatacenter-falun",
+   "image": "https://i.guim.co.uk/img/media/6f4053626333cdd94adcb884ccef812b559854a9/247_0_2901_2321/master/2901.jpg?width=140&quality=85&auto=format&fit=max&s=b2ec700f335bd16c801bf02e65f07b4e",
+   "published_at": "2026-11-12T11:00:46Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "da3dc6dab9606cca335fa48da0a4e224a5120c73",
+   "title": "Researchers discover rare star system that emits radio signals every 8 minutes",
+   "summary": [
+    "Article URL: https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/ Comments URL: https://news.ycombinator.com/item?id=50465453 Points: 83 # Comments: 46"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/",
+   "image": null,
+   "published_at": "2026-11-12T10:46:20Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "cbc9a645a65eb9f901e3cfa0d068663f83370dc4",
+   "title": "Why Writing Correct Software Is Hard",
+   "summary": [
+    "Article URL: https://pron.github.io/posts/correctness-and-complexity Comments URL: https://news.ycombinator.com/item?id=50465352 Points: 275 # Comments: 118"
+   ],
+   "source": "Hacker News",
+   "url": "https://pron.github.io/posts/correctness-and-complexity",
+   "image": null,
+   "published_at": "2026-11-12T10:28:26Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "04a9222f17ea5eab30f883af39094d95d4c27041",
+   "title": "Tanuki: Pon’s Summer review – an adorable raccoon mends the world, one parcel at a time",
+   "summary": [
+    "Even so, the mixture of steady progress and general low stakes proves intoxicating.",
+    "This is a short game, but it’s hard not to linger over it."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/games/2026/nov/12/tanuki-pons-summer-review",
+   "image": "https://i.guim.co.uk/img/media/6dcecd6a49a7e5c0997e8ed24c020ad53e667d88/169_0_1349_1080/master/1349.jpg?width=140&quality=85&auto=format&fit=max&s=b96f91b8c54368bb5ed155c288c4fe24",
+   "published_at": "2026-11-12T10:00:15Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "955db39045169f6f4d63fc520c91da03b76d557e",
+   "title": "Fewer hours and higher wages – or more burnout and surveillance: employers told to prepare for AI",
+   "summary": [
+    "Workplace relations minister Amanda Rishworth launches best practice guide on AI adoption after Qantas and Canva job cutsGet our daily political email, free app or daily news podcastEntry-level jobs will be the first to be automated due to AI, but it could mean fewer hours and hi"
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/12/fewer-hours-and-higher-wages-or-more-burnout-and-surveillance-employers-told-to-prepare-for-ai",
+   "image": "https://i.guim.co.uk/img/media/88f866d6c520f3ee449d59a96f327fcbd089d492/420_0_4200_3360/master/4200.jpg?width=140&quality=85&auto=format&fit=max&s=12ff34a009b7acaf088f4b450b3e1c93",
+   "published_at": "2026-11-12T06:55:44Z",
    "category": "tech",
    "related": []
   }

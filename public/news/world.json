@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-12T09:42:54.963145Z",
+ "generated_at": "2026-11-12T18:10:29.416804Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "ok",
-  "https://www.dawn.com/feeds/pakistan": "ok",
+  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,88 +20,237 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
+  "https://www.espn.com/espn/rss/news": "ok"
  },
  "stories": [
   {
-   "id": "39b7babe27ba09f9f634dfb03301a0e0cb9bcad9",
-   "title": "Israeli strike on a Gaza hospital kills 6 people, health authorities say",
+   "id": "ea6dde997f9d68cbc0a95961500eeafe4d596bd9",
+   "title": "Lewis Hamilton says ‘Israel’s genocide in Gaza is appalling’ after Rafah visit",
    "summary": [
-    "The victims included a surgeon, and at least a dozen more were injured.",
-    "Israel said it was targeting a Hamas commander and other militants."
+    "F1 driver urges Israel to let aid into GazaTrip involved tour of facilities with aid workersFormula One driver Lewis Hamilton said on Wednesday that Israel must allow aid ⁠trucks into Gaza, a day after he visited the Rafah border crossing in Egypt.Hamilton, a seven-time ⁠world champion, arrived ⁠in ​El Arish on Tuesday, where he was briefed on how aid is prepared and coordinated before it ⁠is sent into Gaza, as he toured the Rafah crossing and the Egyptian Red Crescent’s aid warehouses."
    ],
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/12/nx-s1-6038339/israeli-strike-gaza-hospital",
-   "image": null,
-   "published_at": "2026-11-12T09:29:30Z",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/2026/nov/12/lewis-hamilton-gaza-visit-rafah-israel",
+   "image": "https://i.guim.co.uk/img/media/9f421ee9a5c3c6382f96f0224c1cede036b26ba6/1168_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=4f4fcb9c3636fdfba9468c15830cd3db",
+   "published_at": "2026-11-12T18:00:50Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "6703ae356b8031fda90ef22fb10f082085805f14",
-   "title": "Ukraine hit by ‘significant’ Starshield disruptions as US envoys meet Putin, Zelenskyy says - Europe live",
+   "id": "e58ef6dc8ab53d452524ee012b2a575842e3489d",
+   "title": "Washington DC shooting: suspect confirmed dead after one person is killed and four injured – latest updates",
    "summary": [
-    "We’re waiting for more information and we’ll confirm your estimated delay as soon as possible.",
-    "Thanks for your patience.” Continue reading..."
+    "Suspect has died after suffering a gunshot wound; one injured person in critical conditionMultiple people shot in Washington DC as police warn people to stay insideThe incident is shifting from an active shooter response to a barricaded subject response, a federal law enforcement official has told NBC News.It is believed there is no other individual there at scene so this is not considered a hostage situation, they said, adding that it has been about 90 minutes since the suspect fired at law enforcement, which did not strike anyone."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
-   "image": "https://i.guim.co.uk/img/media/f7908dac85bdca30bcc9926d01183c835edb4feb/1782_18_3821_3057/master/3821.jpg?width=140&quality=85&auto=format&fit=max&s=ec6c5cde44339a49a2d5b19efd26ded4",
-   "published_at": "2026-11-12T09:27:44Z",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates",
+   "image": "https://i.guim.co.uk/img/media/3e96d892fd128af4a596c9b1883c06409042a1e0/275_0_4405_3525/master/4405.jpg?width=140&quality=85&auto=format&fit=max&s=3934f242f1acb83fadc80aa3af1e3736",
+   "published_at": "2026-11-12T17:59:46Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "826cb0c90a0335e4377b10cb98bcccd81f7b1a4b",
-   "title": "AI helps UK economy grow at fastest pace for more than two years",
+   "id": "af85cbb00b1eb28be67938e947a54def0b716104",
+   "title": "Sadiq Khan joins Labour figures urging PM not to water down electric vehicle targets – UK politics live",
    "summary": [
-    "GDP ‘grew robustly’ by 0.7% in third quarter and by 0.2% month on month in September despite high oil pricesBusiness live – latest updatesThe UK economy grew by 0.7% in the third quarter, its fastest expansion in two and a half years, as the rollout of AI services increased activity.The Office for National Statistics reported that the economy “grew robustly” in the July to September quarter, almost entirely due to strong and widespread growth in the services sector, led by the IT sector."
+    "He said:The whole system needs to be changed, because the system is geared to keeping people inactive when, for young people in particular, it’s all about how can you make them active, get them earning, learning, so that they can rely on a wage rather than on a benefit.",
+    "And frankly it’s a better use of money, both from the point of view of the young person and the taxpayer, to spend that money getting them into work rather than spending that money keeping them on benefits.This is the sort of fatuous thing about this debate.",
+    "It will need significant investment.To get a return on investment will take time … the only way of cutting the benefits bill sustainably is by getting young people into work, paying their taxes and being less reliant on benefits."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp",
-   "image": "https://i.guim.co.uk/img/media/03d426a9448a740b53deaeac03677f5a7c97417e/417_0_4167_3333/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=040a7ae25f1278872b813c75d05ab697",
-   "published_at": "2026-11-12T09:12:52Z",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/12/milburn-review-neets-young-people-welfare-work-latest-news-updates",
+   "image": "https://i.guim.co.uk/img/media/e2feeff2390f42a9ffba7d9538bbe38b9f0b3821/1096_0_4763_3812/master/4763.jpg?width=140&quality=85&auto=format&fit=max&s=0c9bd665087cdc8709321dfc8357ae34",
+   "published_at": "2026-11-12T17:58:42Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "dc29cf3a466ca0c37680961fb1dc76dbeb062c41",
+   "title": "Hegseth gives medal to guard who reprimanded him at Arlington national cemetery – US politics live",
+   "summary": [
+    "Here’s what he had to say, from the Times:The lines, he said, felt natural.",
+    "He left thinking maybe a couple thousand people would see it.“I just did it like a Mississippian would,” Mr. Hudson said in an interview."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
+   "image": "https://i.guim.co.uk/img/media/643bd3e107bf10fec5fb9540b81a8dc3fab9fbb3/638_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=a39a9c6d43d926a7703e438d7352ec29",
+   "published_at": "2026-11-12T17:54:18Z",
    "category": "world",
    "related": []
   },
   {
    "id": "bee007a93fb5d18c7e3b48b6ffc9ee7c82e3092b",
-   "title": "Nvidia board reportedly meets to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
+   "title": "Nvidia’s Jensen Huang to testify to US Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO – follow live",
    "summary": [
-    "Nvidia shares plunge in extended trading, sending Asian markets lowerNvidia board reportedly deciding whether to oust CEO Jensen HuangToo big – and too well-connected – to sack?",
-    "Huang does not enjoy the supercharged voting rights that are par for the course elsewhere – his shareholding is a plain vanilla 3.6%.",
-    "On the other hand, Nvidia’s board does not appear to have spent much time worrying about succession planning and “key person risk” or other standard concerns of corporate governance wonks outside the US."
+    "Nvidia’s value slumps by $888bn this week as scandal over longtime CEO’s two affairs, including with a suspected Chinese spy, engulfs chip makerAnalysis: Jensen Huang built an AI kingdom.",
+    "What now?Full report: Jensen Huang resigns as Nvidia CEOToo big – and too well-connected – to sack?",
+    "Huang does not enjoy the supercharged voting rights that are par for the course elsewhere – his shareholding is a plain vanilla 3.6%."
    ],
    "source": "The Guardian",
    "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-   "image": "https://i.guim.co.uk/img/media/f8142d9712b85f162ef04fc00cf4f4dd2db40896/236_0_6713_5372/master/6713.jpg?width=140&quality=85&auto=format&fit=max&s=a560ced44701782ebc9e29925388d9d8",
-   "published_at": "2026-11-12T09:11:33Z",
+   "image": "https://i.guim.co.uk/img/media/ee87aa39a5285390ddbdaa26b7ca3472a48da292/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=521ae24e36f8fdf4fa3ee96fe310946d",
+   "published_at": "2026-11-12T17:54:15Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "2e11817dd399d95fe746e135bfd35234ab5e3431",
-   "title": "Argentina threatens UK oil firm CEO with jail over Falklands drilling",
+   "id": "9414c905773564b3ca4c3bb1aa737a0ef970a4b0",
+   "title": "Duran Duran drummer Roger Taylor leaves band due to tinnitus",
    "summary": [
-    "Exclusive: Legal notice comes as Buenos Aires ramps up rhetoric over UK territory and seeks to halt Sea Lion projectThe Argentinian government threatened a British businessman involved in an offshore Falkland Islands oil project with jail, the Guardian can reveal.Sam Moody, the chief executive of Rockhopper Exploration, and his company’s chief financial officer received the correspondence this autumn as Buenos Aires began ramping up its rhetoric over the British overseas territory."
+    "Playing drums in this band has been the joy of my life, and I’ll never be able to properly thank the fans for the love they’ve shown us over the years.",
+    "But the truth is that my tinnitus has been getting steadily worse, and I’ve reached the point where I must now listen to my body and my doctors.” Continue reading..."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/12/argentina-threatens-uk-oil-firm-ceo-with-jail-over-falklands-drilling",
-   "image": "https://i.guim.co.uk/img/media/07b088f3f86725989c5b84b97b47b2078557c75c/368_0_7285_5829/master/7285.jpg?width=140&quality=85&auto=format&fit=max&s=932d767ea0c78a40e4d24aad0f858b97",
-   "published_at": "2026-11-12T09:11:09Z",
+   "url": "https://www.theguardian.com/music/2026/nov/12/duran-duran-drummer-roger-taylor-leaves-band-due-to-tinnitus",
+   "image": "https://i.guim.co.uk/img/media/b2547339d360dadcd2623b61529bb331a875d26c/793_174_692_553/master/692.jpg?width=140&quality=85&auto=format&fit=max&s=6e5bbfe909c0d6946a3c44b0966b5606",
+   "published_at": "2026-11-12T17:44:44Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "3f16dc383bb50fc41c0b0ff92114daca1df1b073",
-   "title": "US envoys arrive in Moscow for Russia-Ukraine talks with Putin",
+   "id": "2f056bf8a4230f94c2dddd5f65ad4f8c4ad763e8",
+   "title": "Suspect in Washington DC gym shooting dead by suicide as four people injured and one dead",
    "summary": [
-    "The meeting with Kushner and Witkoff comes after two days of trilateral talks in the UAE yielded no breakthrough."
+    "Shortly after the press conference, police confirmed that the suspect was pronounced dead at the scene."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/12/dc-shooting-logan-circle",
+   "image": "https://i.guim.co.uk/img/media/a2f10a4e55aa3f2a3037436b61417c0a6098acf7/36_0_4364_3490/master/4364.jpg?width=140&quality=85&auto=format&fit=max&s=e5026495b1120994e4109b6879cf44be",
+   "published_at": "2026-11-12T17:42:35Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "0470363cd19cb5df0e46ccc095e0a9a3f03b566d",
+   "title": "Mississippi makes history with Democrat senate win - The Latest",
+   "summary": [
+    "Mississippi has elected the Democrat Scott Colom in a historic race in the traditionally deep-red state, making him its first Black senator since shortly after the US civil war.",
+    "The closely contested race was called more than a week after the US midterms, with Colom running against the Republican incumbent, Cindy Hyde-Smith.",
+    "How did Colom’s grassroots campaign win despite limited early backing from national Democrats?"
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/news/audio/2026/nov/12/scott-colom-senate-victory-mississippi-the-latest",
+   "image": "https://i.guim.co.uk/img/media/6da014ce1ff9a74d0c95194d57c659ad02c869c7/292_0_2917_2333/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=e24b77c21f92cb0ca9b35539a9d8185e",
+   "published_at": "2026-11-12T17:42:03Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "4222657b9900979052b8291bf35023fa5874b757",
+   "title": "Putin takes hard line in US talks as Ukraine says Starlink disrupted again",
+   "summary": [
+    "Russian president says he would target any foreign troops sent to Ukraine and refuses to soften territorial demandsVladimir Putin warned US negotiators that Russia would target any foreign troops deployed to Ukraine, in a series of hardline remarks that came as the Ukrainian military faced renewed disruptions to Elon Musk’s Starlink satellite service.During the talks at the Kremlin with the US envoys Jared Kushner and Steve Witkoff on Thursday, the Russian president refused to soften his territorial demands, insisting on full control over four Ukrainian regions that Moscow claims to have annexed."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink",
+   "image": "https://i.guim.co.uk/img/media/00948ad10d38976117c45566fb6a392bcf3bb3b5/197_0_3730_2984/master/3730.jpg?width=140&quality=85&auto=format&fit=max&s=bc24ba4c55bc400bf67c2fe746d0ae70",
+   "published_at": "2026-11-12T17:26:51Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "5d28f42a8c5bce4d838fe59bcede8f11bcfe807b",
+   "title": "Nvidia CEO Jensen Huang steps down, more affair details revealed",
+   "summary": [
+    "Now that Huang has stepped down, Al Jazeera’s Kristen Saloomey looks at the questions ahead for the company."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin?traffic_source=rss",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/nvidia-ceo-jensen-huang-steps-down-more-affair-details-revealed?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-12T09:01:24Z",
+   "published_at": "2026-11-12T17:25:58Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "0752b83f5acd1887d46329faeb7328f7e411192b",
+   "title": "Finland bars Russian athletes from entering country over Ukraine war",
+   "summary": [
+    "Russians ‘have no business’ in country, says ministerSkating and cross-country skiing first to be affectedFinland says it will restrict entry to the country for Russian athletes because of the war in Ukraine, potentially affecting a number of winter sports.",
+    "The same is true of other short-term work under visas that is not essential to Finland’s national interests.” Continue reading..."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/2026/nov/12/finland-bars-russian-athletes-ukraine",
+   "image": "https://i.guim.co.uk/img/media/9a8435863086321dd69a7b563f7fbd1db3560fbb/407_0_4883_3907/master/4883.jpg?width=140&quality=85&auto=format&fit=max&s=8e74da99d9686e4e07e045c6a2df9595",
+   "published_at": "2026-11-12T17:23:51Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "a7df7c4a0ef64706a3bd9922cf399b11ac8579df",
+   "title": "‘Her hands are as cold as ice’: Gaza families struggle to keep warm",
+   "summary": [
+    "Flooded tents and high prices leave Gaza families struggling to keep children warm as winter approaches."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/11/12/her-hands-are-as-cold-as-ice-gaza-families-struggle-to-keep-warm?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-12T17:18:13Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "6703ae356b8031fda90ef22fb10f082085805f14",
+   "title": "New talks with Russia, Ukraine and European countries agreed, US says - as it happened",
+   "summary": [
+    "This blog is now closedLuxembourg’s PM Luc Frieden looks to be absolutely chuffed to be representing all three Benelux countries at today’s summit, as his Belgian and Dutch colleagues are too busy to attend as they face domestic crises.“I have the privilege of representing 30 millions citizens today,” he said on arrival to Dublin, with a massive smile on his face."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
+   "image": "https://i.guim.co.uk/img/media/00948ad10d38976117c45566fb6a392bcf3bb3b5/244_0_3730_2984/master/3730.jpg?width=140&quality=85&auto=format&fit=max&s=5ac4c094a40b85e9e714901ec4cc5c82",
+   "published_at": "2026-11-12T17:17:55Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "aa1fb91bd2147af0ddbbec408e18783c36266b2c",
+   "title": "Local fund to replace Pip for some young disabled people under Milburn plans",
+   "summary": [
+    "Exclusive: Former health secretary says he wants to ‘tear up the old approach’, with under-25s to lose personal independence paymentsUK politics live – latest updatesSome young people with disabilities will lose their personal independence payments and will have to apply instead to a local fund for short-term expenses and equipment, Alan Milburn’s review will recommend.While those with the most severe needs’ entitlement will be protected, others will be asked to apply for money for specific purposes rather than an ongoing payment."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/nov/12/local-fund-pip-personal-independence-payments-young-disabled-people-milburn",
+   "image": "https://i.guim.co.uk/img/media/61785efa43a9a7250b2d43d3918c53814ed1a016/1175_211_4289_3432/master/4289.jpg?width=140&quality=85&auto=format&fit=max&s=68d18d6ff8087e54f4fa62204ed3ea4a",
+   "published_at": "2026-11-12T17:14:34Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "68db99753eb8a865e3fb1b6d767992f62a7ab1cf",
+   "title": "Democrats want to stop Trump's arch, golf course and more. What are their options?",
+   "summary": [
+    "As Trump's arch and other projects make their way through the courts, many critics are looking to Congress to stop them.",
+    "Democrats have a few tools, including funding and oversight.(Image credit: Andrew Harnik)"
+   ],
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/12/nx-s1-6034539/democrats-congress-trump-arch-ballroom-funding-oversight",
+   "image": null,
+   "published_at": "2026-11-12T17:13:54Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "7ee65d1ae7eb3dea8cc27273a0d893505aa6f041",
+   "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+   "summary": [
+    "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-12T17:11:48Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "fe76bd9a3a2e63d613659b8ca152f59d14eb9368",
+   "title": "Jerusalem Daily: Gaza’s Nasser Hospital hit by Israeli air strike",
+   "summary": [
+    "For the seventh time, Israel has targeted Gaza’s Nasser Hospital in an air strike."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/jerusalem-daily-gazas-nasser-hospital-hit-by-israeli-air-strike?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-12T16:55:10Z",
    "category": "world",
    "related": []
   },
@@ -114,439 +263,296 @@
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-12T09:00:15Z",
+   "published_at": "2026-11-12T16:54:12Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "f57f8322ed7afed73954ec4993829b48f5657d50",
-   "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
+   "id": "7930300f7248d50196693f40298efe6f4c80d106",
+   "title": "Pentagon backs war memorial guard who reprimanded Hegseth's group",
    "summary": [
-    "The news comes at a turbulent time for President Prabowo, who faces a growing rift with his predecessor Joko Widodo."
+    "The defence secretary on Thursday awarded the soldier, Specialist Thomas Iglesias, a Joint Service Commendation Medal for the execution of his duties."
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-12T08:46:57Z",
+   "published_at": "2026-11-12T16:52:53Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "0dae57d72c91ce17ff62c4bb6e70789ccbc711df",
-   "title": "India bypasses own rules to buy Israeli phone-hacking tech",
+   "id": "0b7c5735f76428063f824a6aab63791bdce236e7",
+   "title": "Italy vs France LIVE: UEFA Nations League",
    "summary": [
-    "India's expansive surveillance capabilities extend beyond cloning phones to accessing cloud-based data of tech giants."
+    "Follow updates from the Group A1 clash, including the build-up, analysis and live text commentary of the game."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/features/2026/11/12/india-bypasses-own-rules-to-buy-israeli-phone-hacking-tech?traffic_source=rss",
+   "url": "https://www.aljazeera.com/sports/liveblog/2026/11/12/italy-vs-france-live-uefa-nations-league?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-12T08:40:08Z",
+   "published_at": "2026-11-12T16:45:00Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "f071af7a507a3601255f84369cdd1af0991f2350",
-   "title": "Ten police officers, 18 fighters killed in northwest Pakistan attack",
+   "id": "59fd789c6c077de8a58e096837d753591761c973",
+   "title": "Prominent Israeli settler denied entry into France",
    "summary": [
-    "Officers were returning from a mine in Kohat district when fighters opened fire on them, authorities say."
+    "Israel criticises Yossi Dagan's entry ban, labelling it 'unacceptable' amid tensions over illegal settlement policies."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/12/ten-police-officers-18-fighters-killed-in-northwest-pakistan-attack?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/12/chk-prominent-israeli-settler-denied-entry-into-france?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-12T08:35:20Z",
+   "published_at": "2026-11-12T16:44:49Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "825cb8169e66b3b29f36b334e79c6fe5aa2cb4a9",
-   "title": "Xi Jinping says Taiwan ‘reunification’ with China must happen",
+   "id": "37170bfe547cc3f07d87ac8b75f769c401a98f80",
+   "title": "Farage was guest on Brand podcast after sexual assault investigation began",
    "summary": [
-    "Xi Jinping, President of China, has called for the peaceful ‘reunification’ of Taiwan with China."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/xi-jinping-says-taiwan-reunification-with-china-must-happen?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-12T08:34:45Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "2e231ca11348f7f2e98f10457b1a0fdba5f596bd",
-   "title": "‘Tourists hate themselves’ – which is why Tasmania is telling them to stay away",
-   "summary": [
-    "Island state declares it ‘is not really for tourists’ – but is the marketing strategy just a cheeky piece of reverse psychology?Get our breaking news email, free app or daily news podcastResearch shows “tourists hate themselves” – which is exactly why the marketing flacks at Tourism Tasmania are telling them to stay away from the island state.Its new campaign declares Tasmania is “not really for tourists”, enlisting former SBS newsreader Lee Lin Chin to help sell the tongue-in-cheek campaign, based on the idea that Australians prefer identifying as a “traveller” rather than a “tourist”."
+    "Reform leader this week criticised the Labour party for ‘cosying up to’ and ‘promoting’ disgraced comedianUK politics live – latest updatesNigel Farage appeared on Russell Brand’s US podcast nine months after the comedian was investigated by police over allegations of sexual assault, the Guardian has learned.The Reform UK leader has criticised Labour for “cosying up to” and “promoting” Brand a decade ago, after the comedian was sentenced this week to more than 10 years in prison for rape and sexual assault."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/12/tourists-hate-themselves-which-is-why-tasmania-is-telling-people-to-stay-away",
-   "image": "https://i.guim.co.uk/img/media/e85646f7aa4c4738df04d5911c9d698d1a06e28a/441_118_1061_849/master/1061.jpg?width=140&quality=85&auto=format&fit=max&s=c3f9e77e65bdaa33630b95d28fe5b94c",
-   "published_at": "2026-11-12T08:30:57Z",
+   "url": "https://www.theguardian.com/politics/2026/nov/12/farage-was-guest-on-brand-podcast-after-sexual-assault-investigation-began",
+   "image": "https://i.guim.co.uk/img/media/40558422c7bc4a345d47ed741577d0799be3ec8d/493_319_3988_3191/master/3988.jpg?width=140&quality=85&auto=format&fit=max&s=7c03989a49339809d21dd7b6e7bcbd1e",
+   "published_at": "2026-11-12T16:43:33Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "c0a0c8a17793f71c90ea2a1366f2792fa32375f7",
-   "title": "Mississippi elects first Black Senator since 1874",
+   "id": "64a4da9c56d60cecc038d87cfe941ae3d2b2133a",
+   "title": "The planet ‘is being killed’, Greta Thunberg tells Cop31 climate summit",
    "summary": [
-    "Democrat Scott Colom has won Mississippi’s Senate race, becoming the state’s first Black senator since 1874."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/mississippi-elects-first-black-senator-since-1874?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-12T08:12:40Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "271be2a4701ff88311f1b165f4fbd856103d2041",
-   "title": "Photos: Protesters clash with police after housing cost rallies in Spain",
-   "summary": [
-    "Anger over housing affordability and purchasing power leads to clashes amid Spain's first general strike in 14 years."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/gallery/2026/11/12/photos-protesters-clash-with-police-after-housing-cost-rallies-in-spain?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-12T08:01:29Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "f80527b0e02efa3a378ea008ab89d069f7f9f631",
-   "title": "Water industry bonus ban to be tightened as Ofwat warns of ‘damage to public trust’",
-   "summary": [
-    "Anglian will face increased monitoring of its governance arrangements because of the controversial payments."
+    "Swedish activist criticised world governments for their failure to prevent environmental breakdown The planet is “not dying, it is being killed and we know by who”, said Greta Thunberg, who excoriated world governments for their failure to prevent environmental breakdown in her first appearance at the annual UN climate talks in five years.Thunberg, 23, the Swedish activist who became famous for heading the school climate strike movement, delivered her stark message to those gathered at the Cop31 summit in Antalya, Turkey, amid the ongoing failure by countries to adequately address the climate crisis."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/12/water-industry-bonus-ban-tightened-ofwat",
-   "image": "https://i.guim.co.uk/img/media/81aadbb5c16eb191abb66b6c2a2be94335c99380/0_0_6793_5434/master/6793.jpg?width=140&quality=85&auto=format&fit=max&s=5f4110b594db4938109e4b5d97d0e694",
-   "published_at": "2026-11-12T07:59:52Z",
+   "url": "https://www.theguardian.com/environment/2026/nov/12/greta-thunberg-cop31-climate-summit",
+   "image": "https://i.guim.co.uk/img/media/45cab90b0823fe89c215631d07f63131095780d3/521_0_4240_3392/master/4240.jpg?width=140&quality=85&auto=format&fit=max&s=7cfa06cdcb4667eba9b5bc5076513530",
+   "published_at": "2026-11-12T16:39:47Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "00df9dd843dca4b323a300b33d185dbbdefbf68a",
-   "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
+   "id": "bfc79de3c35c353dce14dd542083fc9d316524e2",
+   "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
    "summary": [
-    "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll."
+    "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky."
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-12T07:59:33Z",
+   "published_at": "2026-11-12T16:31:12Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "1f4dcf54856ef40a33c8d7fa091d93889643367c",
-   "title": "Ugandan police investigate deaths of four pupils in suspected school poisoning",
+   "id": "4d61f65015e1785aba26bf703beee4ef68564ae4",
+   "title": "UK car industry to press EU for two-year delay to Brexit EV tariffs",
    "summary": [
-    "The head teacher of the school has been arrested to assist police investigations."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-12T07:45:52Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "38b34d2d58ce742a875618ba9c9bd6dac5bd079c",
-   "title": "Nvidia board reportedly deciding whether to oust CEO Jensen Huang as stock price plunges",
-   "summary": [
-    "However, Huang’s position became more tenuous late on Wednesday after it was reported by the New York Times that Huang had a separate extramarital affair with a company employee named Kimberly Powell.",
-    "She was Nvidia’s president of healthcare and was reportedly captured on video being affectionate with Huang at a hotel during a company conference in March."
+    "‘Rules of origin’ on vehicle batteries due to come into force on 1 January if deal on new delay is not reachedBusiness live – latest updatesThe UK car industry is preparing to push for a two-year delay to Brexit tariffs on electric cars traded with the EU, after an initial European proposal suggested a shorter delay.Tariffs are due to kick in on 1 January for the majority of electric cars traded between the EU and UK unless the two sides can come to an agreement to delay for a second time the implementation of “rules of origin” on batteries."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-board-decision-ceo-jensen-huang-alleged-second-affair",
-   "image": "https://i.guim.co.uk/img/media/934ceaf0a7aec362a381e5a51d389c5e68326269/300_0_4583_3668/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=99ffc9ad138652333367958ac6904705",
-   "published_at": "2026-11-12T07:43:13Z",
+   "url": "https://www.theguardian.com/business/2026/nov/12/uk-car-industry-rules-of-origin-brexit-ev-tariffs-eu",
+   "image": "https://i.guim.co.uk/img/media/8ab0cdf0d430e3257ca969f133bc738343df5ddc/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=60b7ca334ee9b1452093c1e6f53cfc2d",
+   "published_at": "2026-11-12T16:30:27Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "b77dbbbc804f52769851df16b503f14a2152fcaa",
-   "title": "Iran open to deal if US ‘refrains from excessive demands’, says Ghalibaf",
+   "id": "e02f04ed8a17ad37e41aac1493ccf635d73cb234",
+   "title": "The SS United States takes its final voyage to the bottom of the Gulf of Mexico",
    "summary": [
-    "Iran’s chief negotiator says Iran is open to a deal if the US refrains from creating distrust and excessive demands."
+    "A ship bigger than the Titanic is being sunk off the coast of Florida to make an artificial reef.(Image credit: JEWEL SAMAD/AFP via Getty Images)"
    ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/iran-open-to-deal-if-us-refrains-from-excessive-demands-says-ghalibaf?traffic_source=rss",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/12/g-s1-153219/the-deliberate-sinking-of-the-ss-united-states",
    "image": null,
-   "published_at": "2026-11-12T07:38:05Z",
+   "published_at": "2026-11-12T16:20:04Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "032cf068c361e473e7c6b433583bcf34d94e1e0b",
-   "title": "Pope Leo welcomed by millions in his second ‘homeland’ of Peru",
+   "id": "3cb3f9869576fc9bf084effbfa1cd44ee9f9c84c",
+   "title": "D.C. shooting leaves 1 person killed, 4 injured. Gunman dead",
    "summary": [
-    "On his Latin America tour, the pontiff is expected to spend 3 days in Chiclayo, where ​he was bishop from 2015-2023."
+    "A gunman opened fire at a gym in Washington, D.C.'s Logan Circle Thursday morning.",
+    "One person has been confirmed killed and four others injured.",
+    "The gunman is dead, according to police.(Image credit: Tom Brenner)"
    ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/12/pope-leo-welcomed-by-millions-in-his-second-homeland-of-peru?traffic_source=rss",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/12/nx-s1-6038860/dc-logan-circle-shooting",
    "image": null,
-   "published_at": "2026-11-12T07:37:42Z",
+   "published_at": "2026-11-12T16:12:53Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "fa827469545270a36f5835716573fbeb490ed6d1",
-   "title": "Can Nigeria's president regain voters' trust after painful first term?",
+   "id": "fe2ac0750721ab87b802c4ce9b5ccccf14fda157",
+   "title": "‘A second chance’: children guilty of serious offences will no longer have to declare criminal records",
    "summary": [
-    "For Nigerians to feel meaningful improvements, reforms will need to go beyond the promises outlined, analysts say."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-12T07:30:44Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "955db39045169f6f4d63fc520c91da03b76d557e",
-   "title": "Fewer hours and higher wages – or more burnout and surveillance: employers told to prepare for AI",
-   "summary": [
-    "Workplace relations minister Amanda Rishworth launches best practice guide on AI adoption after Qantas and Canva job cutsGet our daily political email, free app or daily news podcastEntry-level jobs will be the first to be automated due to AI, but it could mean fewer hours and hi"
+    "Government proposal aims to reduce number of children in custody in England and Wales and boost youth employmentChildren found guilty of robbery, dealing drugs to other children or violent disorder will no longer have to disclose their criminal records to prospective employers under sweeping government proposals to change the youth justice system.People in England and Wales will not have to share records of crimes committed when they were under 18 for the rest of their lives under the proposals, which ministers say will boost youth employment and make life fairer for people from disadvantaged backgrounds in particular."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/12/fewer-hours-and-higher-wages-or-more-burnout-and-surveillance-employers-told-to-prepare-for-ai",
-   "image": "https://i.guim.co.uk/img/media/88f866d6c520f3ee449d59a96f327fcbd089d492/420_0_4200_3360/master/4200.jpg?width=140&quality=85&auto=format&fit=max&s=12ff34a009b7acaf088f4b450b3e1c93",
-   "published_at": "2026-11-12T06:55:44Z",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/12/children-criminal-records-england-wales-labour",
+   "image": "https://i.guim.co.uk/img/media/636709dcaefa97559bd1b10f630e7d0145ad1da5/0_1332_2030_1623/master/2030.jpg?width=140&quality=85&auto=format&fit=max&s=32f54447dd02f4200cc9d97eeceaa87d",
+   "published_at": "2026-11-12T16:11:59Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "98430134adca39ce5eb364b00703c9ee374a04f2",
-   "title": "Netanyahu’s legacy: Personality politics reshapes Israeli democracy",
+   "id": "37534b223f91d2da6a6d7f4217be808ecaa54734",
+   "title": "BDS claims win as energy giants quit Israeli gas project off Gaza",
    "summary": [
-    "Netanyahu's fight for political survival turns the parliament's opening into a scene of insults and acrimony."
+    "The Boycott, Divest and Sanctions movement is claiming victory after a company left an Israeli-led gas project off Gaza."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/12/netanyahus-legacy-personality-politics-reshapes-israeli-democracy?traffic_source=rss",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/bds-claims-win-as-energy-giants-quit-israeli-gas-project-off-gaza?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-12T06:49:45Z",
+   "published_at": "2026-11-12T16:07:16Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "2d88c88109c5c9e20f72cb5b3e38b278e3c957c3",
-   "title": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
+   "id": "e859391960c1f1d3c089f0557cafa359cbc506ac",
+   "title": "Four people shot in Washington DC",
    "summary": [
-    "In today’s newsletter: US intelligence reportedly believes the former tech executive was recruited by Beijing, raising questions about the security of the AI industry and Trump’s close ties to Nvidia chief Jensen HuangGood morning.",
-    "Espionage is supposed to be a secretive business, and spies are supposed to be virtually invisible.",
-    "This morning’s newsletter explains what we know about the story, and what it tells us about the effectiveness of Chinese espionage."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair",
-   "image": "https://i.guim.co.uk/img/media/b76023068afd6989a4d83782e8ad21ac88094570/335_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=ae6e7cc781873a609353d81df20f9e53",
-   "published_at": "2026-11-12T06:43:31Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "13e0d38825928c62ae0116b9139a8f718c60ce1c",
-   "title": "Indonesia vice president resigns amid dispute over eligibility",
-   "summary": [
-    "Gibran Rakabuming Raka, son of former President Joko Widodo, resigns as court questions his overseas education."
+    "A major police operation is underway in Washington DC where four people have reportedly been shot"
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility?traffic_source=rss",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/four-people-shot-in-washington-dc?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-12T06:38:01Z",
+   "published_at": "2026-11-12T15:42:07Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "6ba209df6bac46490773a23eb6fffe372daf351b",
-   "title": "Sheikh Hasina must return to Bangladesh to face her sentence",
+   "id": "3bf6dc30ef51d060413c5c1ddd87143dc96aab8f",
+   "title": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
    "summary": [
-    "Delhi should ensure that its territory is not used to incite violence in Bangladesh or threaten its people."
+    "Jared Kushner and Steve Witkoff went to the Kremlin to brief Russian President Vladimir Putin and are scheduled to fly later to Ireland for talks with Ukrainian President Volodymyr Zelenskyy.(Image credit: Vyacheslav Prokofyev)"
+   ],
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks",
+   "image": null,
+   "published_at": "2026-11-12T15:26:34Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "092a8f4aa6e0f4c716940334df29c409d32bc05d",
+   "title": "Manchester United sacked manager Michael Carrick",
+   "summary": [
+    "Michael Carrick has become the third recent Manchester United manager to be sacked midway through the season."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/opinions/2026/11/12/sheikh-hasina-must-return-to-bangladesh-to-face-her-sentence?traffic_source=rss",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/manchester-united-sacked-manager-michael-carrick?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-12T06:37:06Z",
+   "published_at": "2026-11-12T15:21:43Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "b4e3e8f2bd5adfe99d7318c4ab80c55268fbc0e4",
-   "title": "It is time for a change of leadership in the Democratic Party in the US",
+   "id": "890bcea5880dd8cfa36a07bb3a5be6b270c605e5",
+   "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
    "summary": [
-    "The Democrats need to deliver on an ambitious agenda, and they need new energy and new voices to do so."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/opinions/2026/11/12/it-is-time-for-a-change-of-leadership-in-the-democratic-party-in-the-us?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-12T06:26:01Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "7831b8189ec6ec2e5b280c66463b8afd0b08f42a",
-   "title": "From Pong to GTA VI: Play your way through 50 years of video games",
-   "summary": [
-    "Play through the six games that tell the story of how they got there."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/features/longform/2026/11/12/from-pong-to-gta-vi-play-your-way-through-50-years-of-video-games?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-12T06:17:48Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "2f56f11deb16a82ff442feecb328db4dc3e95723",
-   "title": "Teenager in critical condition after likely ‘train surfing’ on Sydney Harbour Bridge, police say",
-   "summary": [
-    "‘You just don’t mess or play with a 400-tonne train’, Sydney Trains says as 17-year-old suffers multiple injuries to head, chest and pelvisGet our breaking news email, free app or daily news podcastA 17-year-old boy is in a critical condition after falling from the outside of a train on the Sydney Harbour Bridge while he was likely train surfing, NSW police say.Around 11.30am on Thursday, emergency services were called to the railway corridor between Wynyard and Milsons Point train stations following reports someone had fallen from a northbound Tangara train onto the tracks on the bridge."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/12/teenager-in-critical-condition-after-likely-train-surfing-on-sydney-harbour-bridge-police-say",
-   "image": "https://i.guim.co.uk/img/media/ba7d5b69095ed28aa66d0a9636805e4c4d6bcd3d/796_0_4917_3938/master/4917.jpg?width=140&quality=85&auto=format&fit=max&s=dba9ef687659175e7238756900a59b38",
-   "published_at": "2026-11-12T06:09:21Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "1fe1ab9d58153bba39941799211a59bdbf50d134",
-   "title": "Beau Lamarre-Condon says he was diagnosed with cancer by naturopath but doesn’t recall which one, trial hears",
-   "summary": [
-    "Former police officer questioned about Instagram message he asked friend to send to Jessie Baird referencing ‘cancerous tumour’ Get our breaking news email, free app or daily news podcastBeau Lamarre-Condon has claimed in court that he was diagnosed with cancer by a naturopath and has been questioned about a post-breakup message to Jesse Baird where he referred to the diagnosis.But Lamarre-Condon on Thursday told the court he could not name the naturopath or the location of their practice, claiming there had been new developments and stores had been “cleared out”."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/12/beau-lamarre-condon-jesse-baird-phone-murder-trial-ntwnfb",
-   "image": "https://i.guim.co.uk/img/media/69a781da23f48b2cde91996a93de7520bc4ee220/516_503_2306_1845/master/2306.jpg?width=140&quality=85&auto=format&fit=max&s=44c734af5ce7f77b7461e525a37c0f06",
-   "published_at": "2026-11-12T05:38:27Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "e1723926d5308394619a00cefbb4a999f4195ce7",
-   "title": "New York building collapse kills at least two, officials say",
-   "summary": [
-    "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon."
+    "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns"
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-12T05:12:56Z",
+   "published_at": "2026-11-12T15:18:20Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "f269606d351db3dc2a9ce83bcefeec88a1292870",
-   "title": "French guard collapses as Macron rushes to help",
+   "id": "17f2cded9f314ff4f18f13577d064242c87602d7",
+   "title": "UK court finds two Iranian men guilty of spying for Iran",
    "summary": [
-    "A member of the French honour guard collapsed during Slovak President Peter Pellegrini’s arrival at the Elysee Palace."
+    "The pair were promised rewards to send intelligence back to Iran, while one was prepared to commit a 'violent attack'."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/aje-onl-nf_guard-collapses-during-macrons-welcome-slovak-pres-111126?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/12/uk-court-finds-two-iranian-men-guilty-of-spying-for-iran?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-12T05:11:15Z",
+   "published_at": "2026-11-12T15:15:48Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "c93c1625c564df0c5c338dfa34dbf31fa6954ade",
-   "title": "More than 300 migrants rescued off Spain’s Canary Islands",
+   "id": "f0169ce814328d30a9c92234c709438ba239cfcf",
+   "title": "Spain approves housing reforms after nationwide strike over costs",
    "summary": [
-    "More than 300 migrants were rescued off Spain’s Canary Islands amid a surge in Atlantic crossings."
+    "Spanish parliament passes new laws limiting evictions but their duration depends on the upcoming snap election outcome."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/more-than-300-migrants-rescued-off-spains-canary-islands?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/12/spain-approves-housing-reforms-after-nationwide-strike-over-costs?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-12T05:04:25Z",
+   "published_at": "2026-11-12T15:02:30Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "2a82b1ed79ba11842827e0a074391994c1ef89b2",
-   "title": "Fighting intensifies in Yemen as Houthis deny targeting Mecca",
+   "id": "42eeaf42becdf4f8a20bad011efc34f2b71312a4",
+   "title": "Trump heads to China amid Nvidia scandal: Will he get tougher on Beijing?",
    "summary": [
-    "World Health Organization says more than 320,000 people have been displaced in Yemen fighting since August 1."
+    "Outgoing Nvidia chief credited with easing US-China chip ties but personal scandal unlikely to upend next week's talks."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/12/fighting-intensifies-in-yemen-as-houthis-deny-targeting-mecca?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/12/trump-heads-to-china-amid-nvidia-scandal-will-he-get-tougher-on-beijing?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-12T04:41:17Z",
+   "published_at": "2026-11-12T14:48:10Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "d4d4262ac7b8b61927d0f8fd4802991bfb480e35",
-   "title": "Bolivia arrests former judge on suspicion of drug trafficking",
+   "id": "643e2de337f23e2b8052f175d8870140ee5a216a",
+   "title": "LIVE: Jensen Huang resigns as Nvidia CEO as affairs raise security concerns",
    "summary": [
-    "Arrests in Bolivia linked to a US-backed security alliance crackdown on drug cartels in Latin America."
+    "Jensen Huang, 63, has resigned as chief executive of AI giant Nvidia, according to the company."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/12/bolivia-arrests-former-judge-on-suspicion-of-drug-trafficking?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/12/live-jensen-huang-resigns-as-nvidia-ceo-as-affairs-raise-security-concerns?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-12T04:40:25Z",
+   "published_at": "2026-11-12T14:44:54Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "14bcd17b6ab259153250314e74774a95c2e87669",
-   "title": "Iran’s chief negotiator tells Al Jazeera ‘ball in US court’",
+   "id": "0f085e670b0479b497e194b3bcb4870fc4074c6a",
+   "title": "Nvidia CEO Jensen Huang resigns",
    "summary": [
-    "Iran’s chief negotiator says it’s up to the US to answer Iran’s position in the latest round of peace talks."
+    "Nvidia CEO Jensen Huang has resigned amid reports of a second affair with an executive."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/irans-chief-negotiator-tells-al-jazeera-ball-in-us?traffic_source=rss",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/nvidia-ceo-jensen-huang-resigns?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-12T04:19:55Z",
+   "published_at": "2026-11-12T14:40:20Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "41748fdcdec29b581d094f2d45ed6edb33e54b32",
-   "title": "Famed ship SS United States deliberately sunk off Florida coast to become a reef",
+   "id": "67a006c4fe35348cb68637d08752d1fe0e03a1be",
+   "title": "Migrant caravan sets out from southern Mexico bound for US after midterms",
    "summary": [
-    "Activists wanted the historic liner to be turned into a museum, but it will instead become the world's largest artificial ocean reef."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-12T04:03:13Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "b492a23bee05e448e01c23369d21ac6c9b1a3948",
-   "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-   "summary": [
-    "Colom is the first black person from the southern state elected to the US Senate in over 140 years."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-12T04:00:30Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "566ed7d957de6f8bdd4bee0f6d33f13d87589bfc",
-   "title": "Amnesty says UN, South Sudan officials failed to prevent village massacre",
-   "summary": [
-    "Peacekeepers knew of likely raid on Abiemnom, where more than 200 people were killed, according to rights group report."
+    "Many migrants stranded in southern Mexico say the Democrats' win in Congress has given them new hope of entering the US."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/12/amnesty-says-un-south-sudan-officials-failed-to-prevent-village-massacre?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/12/migrant-caravan-sets-out-from-southern-mexico-bound-for-us-after-midterms?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-12T04:00:24Z",
+   "published_at": "2026-11-12T14:38:42Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "0b9ce292a241ef11f4ec25f02821e1a18fe6673a",
-   "title": "Iran warns of expanded retaliation as Israel reportedly readies to attack",
+   "id": "5deb5377ede2c6705a51c6cb2d160f74e15a1051",
+   "title": "‘No war, no peace’: Can Iran break the deadlock with the US?",
    "summary": [
-    "Israeli security cabinet orders military to step up preparations for a possible attack on Iran, Israeli media reports."
+    "Sustainable stalemate or slow-motion strangulation?",
+    "The current 'equilibrium' is inherently unstable, experts say."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/12/no-war-no-peace-can-iran-break-the-deadlock-with-the-us?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-12T03:50:42Z",
+   "published_at": "2026-11-12T14:27:54Z",
    "category": "world",
    "related": []
   }

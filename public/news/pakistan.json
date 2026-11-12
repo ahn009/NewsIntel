@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-12T09:42:54.963635Z",
- "story_count": 40,
+ "generated_at": "2026-11-12T18:10:29.417328Z",
+ "story_count": 32,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "ok",
-  "https://www.dawn.com/feeds/pakistan": "ok",
+  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,392 +20,396 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
+  "https://www.espn.com/espn/rss/news": "ok"
  },
  "stories": [
   {
-   "id": "624c4115006f06aeea8d68f362112e312de84dc1",
-   "title": "At COP31, PM Shehbaz calls for grant-based finance, resilience funding for climate-vulnerable countries",
+   "id": "3a3736581d138c7d3eb740d5d09f06ebc65a7635",
+   "title": "Insufficient evidence to link bomb threats across Europe to foreign powers: Macron",
    "summary": [
-    "Prime Minister Shehbaz Sharif on Thursday called for grant-based finance and improved resilience and adaptation funds for climate-vulnerable countries at COP31, being held in Turkiye’s Antalya.",
-    "The prime minister also held several bilateral conversations with world leaders and international organisations on the sidelines of the summit on Wednesday.",
-    "On Wednesday, the UN chief told world leaders at the summit that the slow international response to climate change so far had placed the world on a path to destruction."
+    "French President Emmanuel Macron said on Thursday there was insufficient evidence to determine whether foreign powers were behind a wave of bomb threats across Europe.",
+    "Read: EU flights hit by wave of bomb hoaxes \"We are obviously very vigilant in the face of this epidemic of bomb alerts and threats,\" Macron said.",
+    "Italy also faced a wave of bomb threats targeting schools on Wednesday, prompting evacuations and security checks."
    ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2044031/at-cop31-pm-shehbaz-calls-for-grant-based-finance-resilience-funding-for-climate-vulnerable-countries",
-   "image": "https://i.dawn.com/large/2026/11/1213372966c48b7.webp",
-   "published_at": "2026-11-12T09:36:43Z",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2639968/insufficient-evidence-to-link-bomb-threats-across-europe-to-foreign-powers-macron",
+   "image": null,
+   "published_at": "2026-11-12T11:38:00Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "b704924d90c4c0d2fb0d8a69bc30fa1686e3fd8e",
-   "title": "'Significant evidence' of placer gold in Punjab rivers, says CM Maryam at minerals investment forum",
+   "id": "f1f113419a88aa4560f457986149156ead21acaa",
+   "title": "UAE says 14 killed, 30 injured in Fujairah traffic accident",
    "summary": [
-    "She was speaking at the Pakistan Minerals Investment Forum in Islamabad, an initiative aimed at harnessing the country’s mineral resources and attracting domestic and foreign investment in the mining sector.",
-    "Dar said Balochistan was central to Pakistan’s mineral future, adding that the development of its resources should contribute meaningfully to the provincial economy and the well-being of its people.",
-    "The Reko Diq copper-gold project in Balochistan is one of Pakistan’s most ambitious mining ventures, with significant potential to boost the country’s mineral wealth through the extraction of gold and copper."
+    "At least 14 people were killed and 30 others injured in a pileup involving 18 vehicles and five trucks in Fujairah, an emirate in the United Arab Emirates (UAE), the UAE Ministry of Interior said Thursday.",
+    "The ministry added in a post ​on ​X ⁠that emergency and ​specialised teams ​were ⁠continuing to deal with the ⁠aftermath ​of ​the accident.",
+    "Ministry of Interior: Authorities Continue Efforts to Address Fujairah Traffic Accident The Ministry of Interior has reported a major multi-vehicle crash in the Emirate of Fujairah involving 18 cars and trucks."
    ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2044014/significant-evidence-of-placer-gold-in-punjab-rivers-says-cm-maryam-at-minerals-investment-forum",
-   "image": "https://i.dawn.com/large/2026/11/121207061821b6f.webp",
-   "published_at": "2026-11-12T09:10:57Z",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2639966/uae-says-14-killed-30-injured-in-fujairah-traffic-accident",
+   "image": null,
+   "published_at": "2026-11-12T11:23:56Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "65bb5aa217082194c4b5fd639e450ac314a5c55c",
-   "title": "China says US using spy claims to justify technology 'blockade'",
+   "id": "6573fdbce77fc29e8258d5b1d0df65b274d04724",
+   "title": "Netflix faces backlash for keeping Russell Brand’s comedy special after conviction",
    "summary": [
-    "The Nvidia boss has spent years lobbying against curbs on sales of advanced chips to China.",
-    "US President Donald Trump last year cleared Nvidia’s H200 chips for export there over objections from hawks in both parties who fear Beijing winning the race to dominate in AI technology.",
-    "China has dismissed the claims about spying on Huang as “groundless speculation” and “an attempt to smear China”."
+    "Netflix is facing criticism for keeping Russell Brand’s stand-up special, Russell Brand: Re, in its catalogue following the comedian’s conviction for rape and sexual assault.",
+    "Netflix classifies the special as TV-MA.",
+    "Others questioned whether Brand continues to receive payments from the special, while some criticised Netflix’s decision to keep it available."
    ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2044033/china-says-us-using-spy-claims-to-justify-technology-blockade",
-   "image": "https://i.dawn.com/large/2026/11/121358343513df2.webp",
-   "published_at": "2026-11-12T09:00:30Z",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2639965/netflix-faces-backlash-for-keeping-russell-brands-comedy-special-after-conviction",
+   "image": null,
+   "published_at": "2026-11-12T11:09:17Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "46dc26bcd38fc2e5b6bd9e2cc00d498da2d2e255",
-   "title": "Democrats seek bipartisan action to curb Trump’s immigration drive",
+   "id": "712b10339a872cff401825dd1972e61dad752f2b",
+   "title": "Poisonous substance detected in sample after 5 children die in Khyber",
    "summary": [
-    "WASHINGTON: Democratic lawmakers have called for a bipartisan immigration deal, seeking changes to President Donald Trump’s enforcement policies and legal status for long-settled immigrants.",
-    "The lawmakers’ appeal for federal legislation coincided with efforts by Democratic state and local administrations to narrow the role of their police and detention agencies in enforcing federal civil immigration rules.",
-    "Virginia Governor Abigail Spanberger has ordered state law-enforcement agencies to end their agreements with ICE under the 287(g) programme, which authorises participating local and state officers to carry out specified immigration enforcement duties."
+    "Laboratory tests confirmed the presence of a poisonous substance in a sample taken from one of five children who died after a suspected poisoning incident in the Bazaar Zakha Khel area of Khyber-Pakhtunkhwa's Khyber district, officials said on Thursday.",
+    "At least seven children were affected by the suspected poisonous substance, five of whom died while two others fell unconscious.",
+    "Reports received from Khyber Medical College confirmed the presence of poisonous material in a sample taken from one of the children."
    ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2044028/democrats-seek-bipartisan-action-to-curb-trumps-immigration-drive",
-   "image": "https://i.dawn.com/large/2026/11/12125234cb96d58.webp",
-   "published_at": "2026-11-12T08:28:01Z",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2639964/poisonous-substance-detected-in-sample-after-5-children-die-in-khyber",
+   "image": null,
+   "published_at": "2026-11-12T10:39:19Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "c9aaf4db71ab456dff75ed4778dc3732056903b2",
-   "title": "Israeli strike kills 6 at southern Gaza hospital: civil defence",
+   "id": "e6c2b5cc90013ee0565c7c5e93272be1aed21b45",
+   "title": "ECP strikes MQM-P's Khalid Maqbool off party leadership list",
    "summary": [
-    "An Israeli strike killed six people and wounded around 20 at Nasser Hospital in southern Gaza, a civil defence official told AFP on Thursday.",
-    "The Israeli military confirmed the strike.",
-    "On Tuesday, Israeli forces killed seven people, including a 13-year-old boy, in the Gaza Strip, according to local emergency services, while the Israeli military claimed it had targeted “military operatives”."
+    "The Election Commission of Pakistan (ECP) has removed Khalid Maqbool Siddiqui’s name as the convener of Muttahida Qaumi Movement-Pakistan (MQM-P) from its official website, leaving the party among 13 political parties without a recognised head in the commission's records.",
+    "Meanwhile, the ECP has issued a show-cause notice to MQM-P over its failure to hold intra-party elections.",
+    "The removal of Siddiqui's name from the ECP website comes amid the party’s failure to hold fresh intra-party elections within the prescribed timeframe, raising questions about its leadership status in the commission's official records."
    ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2044030/israeli-strike-kills-6-at-southern-gaza-hospital-civil-defence",
-   "image": "https://i.dawn.com/large/2026/11/1212593097067b2.webp",
-   "published_at": "2026-11-12T08:00:29Z",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2639963/ecp-strikes-mqm-ps-khalid-maqbool-off-party-leadership-list",
+   "image": null,
+   "published_at": "2026-11-12T10:33:03Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "85e6d4556bde6ed848e6764e4e02444399082a98",
-   "title": "Black hole son",
+   "id": "76cb62eb6899dd80703b13d0a49c3eba076f9657",
+   "title": "Fact check: Viral visuals do not show violence in Balochistan; they are unrelated and old",
    "summary": [
-    "Donkeys have fallen in, and no one knows where they ended up.</p> </section> <div class=\"plate\"><img src=\"https://i.dawn.com/large/2026/11/120824472783d17.webp\" data-photo=\"p14\" alt=\"Steel arches and timber lining an old haulage tunnel\"><div class=\"shade\"></div></div> <\\!-- 7.",
-    "GAS --> <section class=\"txt\" style=\"padding-top:0\"> <div class=\"lbl\">Methane</div> <h2>Fire underground</h2> <p>In 2020, methane built up and caught fire in a mine.",
-    "Now they use electric torches that do neither.</p> </section> <div class=\"plate\"><img src=\"https://i.dawn.com/large/2026/11/120825281c0c4c7.webp\" data-photo=\"p00\" alt=\"A coal-blackened miner standing in a mud-walled room\"></div> <\\!-- 9."
+    "How it started On Nov 10, a pro-PTI account, based on its past posts, shared a video on X allegedly showing a mosque in Balochistan, destroyed with bullet holes and heavy firearms.",
+    "A pro-Afghan account later shared the same video with the following caption: “Armed men set several fully loaded trucks on fire near Turbat.” The video was also shared by other smaller accounts here, here, here and here.",
+    "A reverse image search was conducted to trace the source of the viral video and yielded a clip shared on Facebook on September 21, 2026, by a Nigerian with the following caption: “This is Malam Fatori."
    ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043996/black-hole-son",
-   "image": "https://i.dawn.com/large/2026/11/12084028714890a.webp",
-   "published_at": "2026-11-12T07:30:22Z",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2639962/fact-check-viral-visuals-do-not-show-violence-in-balochistan-they-are-unrelated-and-old",
+   "image": null,
+   "published_at": "2026-11-12T10:29:05Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "17e0caea1d312dae7cd2d0c13d6925eabf1a402e",
-   "title": "Debutant Saqib Khan takes seven as Pakistan restrict Sri Lanka to slender lead",
+   "id": "2db859758229e048208f54c429e9423bdca1e383",
+   "title": "Russell Brand’s Instagram and Facebook accounts disabled by Meta after sentencing",
    "summary": [
-    "Debutant fast bowler Saqib Khan produced a remarkable seven-wicket haul as Pakistan restricted Sri Lanka to a slender 12-run first-innings lead on the fourth day of the opening Test at the Rawalpindi Cricket Stadium on Thursday.",
-    "Saqib finished with outstanding figures of seven for 130 in 34 overs, equalling the record for the most wickets by a Pakistani bowler on Test debut and becoming only the fourth player from the country to claim a seven-wicket haul in his first Test innings.",
-    "His sustained accuracy and ability to extract assistance from the surface ensured Sri Lanka could not turn their strong position into a commanding first-innings lead."
+    "Russell Brand’s social media accounts on platforms owned by Meta have been disabled following his conviction for rape and sexual assault.",
+    "Meta, which owns Instagram and Facebook, has disabled Brand’s accounts.",
+    "Meta’s community standards policy states that, “in order to maintain a safe environment and empower free expression”, the company restricts or removes accounts considered “harmful to the community”."
    ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2044023/debutant-saqib-khan-takes-seven-as-pakistan-restrict-sri-lanka-to-slender-lead",
-   "image": "https://i.dawn.com/large/2026/11/12122251ed72805.webp",
-   "published_at": "2026-11-12T07:24:15Z",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2639961/russell-brands-instagram-and-facebook-accounts-disabled-by-meta-after-sentencing",
+   "image": null,
+   "published_at": "2026-11-12T10:27:52Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "84c90f11f2fb1b192e1f7035c5f984c31fb0ccd7",
-   "title": "US marine guard appears to rebuke Hegseth's delegation at Tomb of the Unknown Soldier",
+   "id": "839d1291cff98bae8fa3fa75e19ae1892f76c93d",
+   "title": "Barrister Gohar visits Qureshi in hospital after jail fall",
    "summary": [
-    "A US Army sentinel guarding the Tomb of the Unknown Soldier appeared to rebuke Defence Secretary Pete Hegseth’s delegation on Wednesday after laughter could be heard as they climbed the steps of the solemn site, according to a video of the incident.",
-    "Hegseth, his wife and senior aides could be seen taking pictures and speaking to each other on the steps of the memorial at Arlington National Cemetery following a Veterans Day event.",
-    "Democrats who won control of both chambers of Congress last week have promised to investigate Hegseth for his stewardship of the US military and have not ruled out another impeachment effort."
+    "Pakistan Tehreek-e-Insaf (PTI) Chairman Barrister Gohar Ali Khan visited the Punjab Institute of Cardiology (PIC) on Thursday to enquire about the health of party leader Shah Mahmood Qureshi, who remains in the hospital for treatment.",
+    "Also Read: ATC extends Qureshi's bail in several cases Meanwhile, Imran Khan’s sisters Noreen Niazi and Uzma Khan were released from Kot Lakhpat jail today, where they had been held since September 21 under the Maintenance of Public Order Ordinance.",
+    "Imran was also taken from Adiala jail to the Pakistan Institute of Medical Sciences overnight on November 10 and 11 for eye treatment, and met his lawyers at the jail on Wednesday."
    ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2044010/us-marine-guard-appears-to-rebuke-hegseths-delegation-at-tomb-of-the-unknown-soldier",
-   "image": "https://i.dawn.com/large/2026/11/12110912a45067f.webp",
-   "published_at": "2026-11-12T06:10:01Z",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2639959/barrister-gohar-visits-qureshi-in-hospital-after-jail-fall",
+   "image": null,
+   "published_at": "2026-11-12T09:50:35Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "e04a1b45b1d4b45adb67aa5ee05ab6505231d8f7",
-   "title": "Trump to flex muscles on Asia tour after midterms losses",
+   "id": "9bcbd1583eb818b48216a981b05bd92c21d4185d",
+   "title": "One killed, four wounded in Washington DC shooting, police say",
    "summary": [
-    "After his party suffered a midterms hammering, President Donald Trump faces a new challenge: proving he is still the boss of US foreign policy on the global stage.",
+    "One person was killed, and four others ‌were shot and wounded when a gunman opened fire inside a gym before barricading himself inside an apartment building in Washington DC on Thursday morning, police said.",
+    "BREAKING: The suspect believed to be behind this morning’s deadly shooting in Washington, D.C., has shot himself after spending more than an hour talking with police negotiators.",
+    "Police were clearing a nearby apartment building when gunshots rang out on ‌the ⁠seventh floor where the suspect had barricaded himself, Carroll said."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2639957/heavily-armed-police-respond-to-washington-dc-active-shooter-incident",
+   "image": null,
+   "published_at": "2026-11-12T09:42:58Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "f154b179d9e65768aee8c9005bd4666e0767ff9f",
+   "title": "Who is Nvidia interim CEO Colette Kress?",
+   "summary": [
+    "Nvidia finance chief Colette Kress is set to take over as interim CEO from Jensen Huang, the company said on Thursday, putting her in charge of the chipmaker whose processors ​power the world's most advanced supercomputers and AI data centres.",
+    "CFO since 2013 Kress joined Nvidia in September 2013 ​as executive vice president and chief financial officer and has held the post since. ​She has appeared alongside Jensen Huang on the company's quarterly earnings calls.",
+    "Career before ​Nvidia Before Nvidia, Kress spent eight years in finance roles at Texas Instruments, then worked at Microsoft ​from 1997 to 2010."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2639955/who-is-nvidia-interim-ceo-colette-kress",
+   "image": null,
+   "published_at": "2026-11-12T09:22:25Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "07d3748bbfafb4494785f93b29dbc8f36664ad53",
+   "title": "Türkiye, Saudi Arabia ready to deepen defence ties and expand joint production",
+   "summary": [
+    "Türkiye was ready to expand defence industry cooperation with Saudi Arabia, backed by over 1,400 projects and a $120 billion portfolio, the country's top defence official said on Thursday.",
+    "He also noted that the Scientific and Technological Research Council of Türkiye (Tubitak) provided 65 billion liras in support to over 2,200 defence projects and more than 4,000 researchers.",
+    "Gul noted that SAHA Istanbul had elevated defence industry clustering, transferring Türkiye's accumulated expertise to both domestic organisations and international stakeholders."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2639953/turkiye-saudi-arabia-ready-to-deepen-defence-ties-expand-joint-production",
+   "image": null,
+   "published_at": "2026-11-12T09:04:02Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "ddef5e3a70880dfb94bcbf312891f47830931d5b",
+   "title": "Nvidia CEO Jensen Huang steps down in big blow to AI boom",
+   "summary": [
+    "Nvidia's board met on Wednesday to consider his ouster, a person familiar with the matter ​said, after reports earlier in the day that Huang also had an extramarital affair with a senior company executive ⁠who reported to him.",
+    "Read: Could Nvidia lose longtime CEO Jensen Huang amid growing controversy?",
+    "Nvidia CEO Jensen Huang resigns after his affair raised national security concerns."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2639952/jensen-huang-resigns-as-nvidia-ceo-immediately",
+   "image": null,
+   "published_at": "2026-11-12T08:59:51Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "3b48bfca5475e3c4ef019c53f9d7160c447993f8",
+   "title": "Fact check: Viral visuals of Imran Khan meeting his lawyers in Adiala jail are AI-generated",
+   "summary": [
+    "Several people, mostly PTI supporters, shared visuals across social media platforms X and Facebook on November 11, 2026, allegedly showing PTI founder Imran Khan meeting with his lawyers in Adiala jail.",
+    "How it started On Nov 11, a pro-PTI account shared an image on X, allegedly showing Imran sitting and talking with his lawyers, Salman Safdar and Sardar Latif Khosa, inside a room in Adiala jail.",
+    "Fact-check status: False The claim that viral visuals show Imran Khan meeting his lawyers inside Adiala jail on November 11, 2026, is false."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2639948/viral-visuals-of-imran-khan-meeting-his-lawyers-in-adiala-jail-are-ai-generated",
+   "image": null,
+   "published_at": "2026-11-12T08:16:16Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "2bc104038d56e250843bf0a339aa4309a89727d0",
+   "title": "Turkiye says Makkah pact has strengthened solidarity with Pakistan as PM Shehbaz meets Erdogan",
+   "summary": [
+    "Prime Minister Muhammad Shehbaz Sharif held a bilateral meeting with President Recep Tayyip Erdoğan of Türkiye today on the sidelines of UN Framework Convention on Climate Change (UNFCCC) COP31 Leaders Summit.",
+    "In a post on X, the prime minister said, “We agreed to build a forward-looking Pakistan-Finland partnership in trade, technology, education and climate resilience.” Pleased to meet President @alexstubb on the sidelines of #COP31 in Antalya.",
+    "PM Shehbaz reaffirms solidarity with Sudan The prime minister met Sudan's Transitional Sovereignty Council President General Abdel Fattah al-Burhan and reaffirmed Pakistan’s support for Sudan’s sovereignty, unity and territorial integrity."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2639947/turkiye-says-makkah-pact-has-strengthened-solidarity-with-pakistan-as-pm-shehbaz-meets-erdogan",
+   "image": null,
+   "published_at": "2026-11-12T08:03:41Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "fb6e8d31f581c6080593a1049a7841a7b970f9c0",
+   "title": "Russell Brand documentary announced by Netflix days after prison sentence",
+   "summary": [
+    "Netflix has announced Russell Brand: Open Secret, a documentary examining the comedian and actor’s rise to fame, the allegations that emerged in 2023 and the criminal trial that ended with his conviction.",
+    "The allegations against Brand first became public in 2023 through reporting by The Sunday Times and a Channel 4 Dispatches programme.",
+    "The Metropolitan Police has confirmed that Brand remains under investigation over further rape allegations made by two other women."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2639943/russell-brand-documentary-announced-by-netflix-days-after-prison-sentence",
+   "image": null,
+   "published_at": "2026-11-12T07:36:57Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "04dc70e674b7b631f487b9b3ae8c4c2d155ba1f4",
+   "title": "Jensen Huang hit with fresh controversy as alleged new affair with Nvidia VP emerges",
+   "summary": [
+    "Jensen Huang is facing fresh scrutiny after reports emerged alleging that the Nvidia chief executive had a relationship with another senior figure at the company, adding to the controversy surrounding his personal life.",
+    "Huang co founded Nvidia in 1993 and has led the company through its rise to become one of the world’s most influential technology businesses.",
+    "Nvidia’s board investigation and the reported discussions about Huang’s future have placed the chief executive under growing scrutiny as the company faces questions about its leadership."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2639941/jensen-huang-hit-with-fresh-controversy-as-alleged-affair-with-nvidia-vp-emerges",
+   "image": null,
+   "published_at": "2026-11-12T07:26:20Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "67a19dcb8d646abf0c80a9f570a0514f64322276",
+   "title": "Police confirm helping Jemima Goldsmith remove Russell Brand from her home amid 2014 abuse claim",
+   "summary": [
+    "Thames Valley Police have confirmed that officers helped Jemima Goldsmith remove former boyfriend Russell Brand from her Oxfordshire home in July 2014 following an alleged violent incident.",
+    "Goldsmith, who dated Brand for approximately a year around 2014, disclosed the incident in a social media statement on Monday.",
+    "Goldsmith had reportedly asked Brand to leave and that officers communicated her request to him before he agreed to leave the property."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2639940/police-confirm-helping-jemima-goldsmith-remove-russell-brand-from-her-home-amid-2014-abuse-claim",
+   "image": null,
+   "published_at": "2026-11-12T07:12:45Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "df2e2b72391b0dc8f3e1cb1bb0dd4f61212651af",
+   "title": "Trump to flex muscles on Asia tour after US midterms losses",
+   "summary": [
+    "After his party suffered a midterms hammering, US President Donald Trump faces a new challenge: proving he is still the boss of foreign policy on the global stage.",
     "With Trump politically hamstrung as he enters the remaining two-year ‘lame duck’ period of his White House tenure, world leaders may be quietly wondering how to leverage the new balance of power in Washington.",
     "High-profile meeting Trump relishes dramatic gestures and foreign policy provides an ideal arena for high-profile meetings, such as with Chinese and Russian leaders Xi Jinping and Vladimir Putin."
    ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2044009/trump-to-flex-muscles-on-asia-tour-after-midterms-losses",
-   "image": "https://i.dawn.com/large/2026/11/12110532acb1a34.webp",
-   "published_at": "2026-11-12T06:07:01Z",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2639939/trump-to-flex-muscles-on-asia-tour-after-midterms-losses",
+   "image": null,
+   "published_at": "2026-11-12T07:12:36Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "73ec8026b3fd00bae95694f42263172bd15f7b13",
-   "title": "War, poverty, repression stalk Yemen's ancient capital",
+   "id": "0c14cb8d2813e161f1d89bc61a661c62fca9a810",
+   "title": "Cummins to address Khawaja 'Sandpapergate' claims",
    "summary": [
-    "Beset by poverty, war and repression, the residents of Yemen’s ancient capital Sanaa, under Houthi control for over a decade, struggle to survive.",
-    "Alongside the struggle to secure basic necessities, residents of Sanaa complain of constant power cuts.",
-    "Bilqis Abu-Osba, a former political science lecturer at Sanaa University who now lives outside the city, said dropouts have become endemic."
+    "Australia captain Pat Cummins said he plans to address Usman Khawaja's \"long list of allegations\" about the 2018 ball-tampering scandal on Friday after taking time to \"better understand\" them.",
+    "In the book, Khawaja alleges that the whole team, including Cummins, knew about the plot to rough up the ball with sandpaper to make it swing during the third Test against South Africa at Cape Town eight years ago.",
+    "Former Australia batting coach Graeme Hick, who was on the South Africa tour, also rubbished Khawaja's allegations, calling them \"absolutely false\" in an interview with the Sydney Morning Herald."
    ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2044008/war-poverty-repression-stalk-yemens-ancient-capital",
-   "image": "https://i.dawn.com/large/2026/11/121102170d3fc72.webp",
-   "published_at": "2026-11-12T06:06:20Z",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2639933/cummins-to-address-khawaja-sandpapergate-claims",
+   "image": null,
+   "published_at": "2026-11-12T06:24:47Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "89b9a4b97e7eeb109ac383692af5cc3d4807c508",
-   "title": "Peshawar High Court upholds posting of higher education dept officer as DG law",
+   "id": "af58c2d1e8b733bb821b9de68ddeeb42886c78f2",
+   "title": "China's Xi says Taiwan 'reunification' must happen as history cannot be stopped",
    "summary": [
-    "The petitioners, including Aya Khan and five other former employees of the directorate of law, had requested the court to declare illegal the appointment of Ghulam Ali as DG (law and human rights) on Dec 13, 2023.",
-    "The lawyer added that the government, in violation of those rules, issued the impugned notification on Dec 13, 2023, whereby Ghulam Ali was posted as the DG.",
-    "According to them, the date when Ghulam Ali was posted, the subsequent restriction prescribing that the post of DG be filled by transfer from among officers of PAS, PCS or PMS had not yet been introduced through the said amendment."
+    "Resolving the Taiwan question is an \"unwavering historical mission\" of China's Communist Party, Xi said in a speech in Beijing's Great Hall of the People.",
+    "Beijing calls Sun a great national hero and patriot, as well as the forerunner of the 1949 communist ​revolution that forced the defeated Republic of ​China government to flee to Taiwan, ⁠where it remains to this day.",
+    "Taiwan has ⁠been particularly upset ​by Beijing's effort to claim credit for the victory in World War Two, saying it was the ​Republic of China government that fought alongside the allies, as the People's Republic of China did not exist at the time."
    ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043881/peshawar-high-court-upholds-posting-of-higher-education-dept-officer-as-dg-law",
-   "image": "https://i.dawn.com/large/2021/09/614180b29f593.jpg",
-   "published_at": "2026-11-12T05:35:32Z",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2639932/chinas-xi-says-taiwan-reunification-must-happen-as-history-cannot-be-stopped",
+   "image": null,
+   "published_at": "2026-11-12T06:20:12Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "125410f6bf7ca53e87c1fd1f2bd6c38891401d5b",
-   "title": "KP health directorate told to shift remaining offices from old Fata Secretariat",
+   "id": "f508fdffd58b568e0daed0a01f24cc13334c0991",
+   "title": "Bilawal and I 'almost' on same page over 'system reset': Naqvi",
    "summary": [
-    "Officials said the DGHS office had already informed the health adviser and secretary about the situation, requesting their intervention to resolve the matter, as the move could bring health-related activities in the province to a standstill.",
-    "They said the directorate had already vacated 20 rooms, including halls, for the ADS and had been directed to vacate the remaining offices and shift to a dilapidated building belonging to the livestock and dairy development department.",
-    "They said the DGHS was an implementing arm of the health department’s secretariat and oversaw health services across the province, including those provided by more than 2,600 hospitals."
+    "Interior Minister Mohsin Naqvi on Thursday said he and Pakistan Peoples Party (PPP) Chairman Bilawal Bhutto Zardari were almost on the same page regarding a reset of the system, while stressing that any major decision would require agreement among political parties.",
+    "Highlighting the NCCIA's operations, Naqvi said the agency had uncovered a major international \"education-related fraud involving approximately 5,000 Pakistanis\".",
+    "The minister also \"referred to separate cases involving a call centre and a child victim, saying the agency had taken action in those matters\"."
    ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043882/kp-health-directorate-told-to-shift-remaining-offices-from-old-fata-secretariat",
-   "image": "https://i.dawn.com/large/2026/11/121031553634f83.webp",
-   "published_at": "2026-11-12T05:33:29Z",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2639930/bilawal-and-i-almost-on-same-page-over-system-reset-naqvi",
+   "image": null,
+   "published_at": "2026-11-12T06:07:55Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "383c173d86c01b7ee30b39fd59a8a6ad3341baf8",
-   "title": "President, PM condole martyrdom of 10 policemen in Kohat, vow to continue fight against terrorism",
+   "id": "baaeb0b74c8cb3667b4a81997683f94506785290",
+   "title": "Manchester United sack manager Carrick with club in relegation zone",
    "summary": [
-    "President Asif Ali Zardari and Prime Minister Shehbaz Sharif on Thursday expressed grief over the martyrdom of 10 police personnel in a terrorist attack on a police team in Khyber Pakhtunkhwa’s Kohat district.",
-    "Calling them national heroes, he said the brave officers and personnel of the provincial police force had set an example of devotion to duty and courage by laying down their lives for the peace and security of the country.",
-    "The prime minister further said the courage and steadfastness shown by police personnel and other law enforcement agencies in the fight against terrorism were commendable, adding that the entire nation stood shoulder to shoulder with the country’s security forces."
+    "Manchester United have dismissed manager Michael Carrick, the club said on Thursday, after a prolonged winless Premier League run culminated in a 4-4 draw at home to Aston Villa last weekend, leaving the team mired in the relegation ‌zone.",
+    "United have won only three of their 15 matches in all competitions under Carrick this season -- including one league victory -- leaving them 18th in the table on eight points after 10 games, one point from the bottom.",
+    "A 3-2 comeback win over AS Roma in ⁠the Champions League briefly eased the pressure on Carrick, but United's familiar defensive frailties were exposed again in the 4-4 draw with Aston Villa, despite two injury-time goals salvaging a point."
    ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2044005/president-pm-condole-martyrdom-of-10-policemen-in-kohat-vow-to-continue-fight-against-terrorism",
-   "image": "https://i.dawn.com/large/2026/08/2113010650d2d45.webp",
-   "published_at": "2026-11-12T05:27:54Z",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2639929/manchester-united-sack-manager-carrick-with-club-in-relegation-zone",
+   "image": null,
+   "published_at": "2026-11-12T06:02:39Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "bab5266f9a8bb9f05f84106cf4b84d8a6fb31b1a",
-   "title": "Faryal Talpur in Lahore to ‘activate PPP in Punjab’",
+   "id": "63c9b6360c7891aa3eee46e7bec60519e6bfae88",
+   "title": "Rizwanullah powers Pakistan into ACC Asia Cup final",
    "summary": [
-    "LAHORE: Faryal Talpur, the central head of the Pakistan Peoples Party (PPP) Women’s Wing, arrived in Lahore for a four-day visit on Wednesday.",
-    "From the airport, Faryal Talpur proceeded directly to Bilawal House, Lahore, where she will hold key meetings with party leaders and office-bearers during her stay.",
-    "Discussions with party leaders and female office-bearers will cover the wing’ organisational matters and the future political strategy."
+    "Fast bowler Rizwanullah claimed five wickets before openers Hayam Khan and Usman Khan struck half-centuries as defending champions Pakistan stormed into the ACC Under-19 Asia Cup final with a nine-wicket victory over Bangladesh on Thursday.",
+    "Rizwanullah led Pakistan's bowling attack with figures of 5-30 from eight overs as Bangladesh were dismissed for 138 in 31.4 overs after being put under pressure by the defending champions.",
+    "Usman remained unbeaten on 64 from 54 deliveries, including seven fours and two sixes, while Abdul Qadir finished on eight not out as Pakistan completed the chase comfortably."
    ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043956/faryal-talpur-in-lahore-to-activate-ppp-in-punjab",
-   "image": "https://i.dawn.com/large/2019/09/5d7f93f3c1a50.jpg",
-   "published_at": "2026-11-12T05:12:25Z",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2639926/rizwanullah-powers-pakistan-into-acc-asia-cup-final",
+   "image": null,
+   "published_at": "2026-11-12T05:25:22Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "e675d8e6f234b5b59f10dd3b2e9692b99f3e91a6",
-   "title": "Power shutdown at Dhabeji to cause Karachi-wide water shortage tomorrow",
+   "id": "0b625b9a7ffedce2422e03bcd42302f743b683cb",
+   "title": "US envoys go to Kremlin for talks with Putin on Ukraine",
    "summary": [
-    "According to a KWSC spokesperson, KE has formally notified the water utility of the scheduled power shutdown. “Electricity supply to Dhabeji Grid Station will remain suspended on Nov 13 for annual maintenance,” he said.",
-    "During this period, only three pumps at Dhabeji would remain non-operational, resulting in a partial disruption of water supply to Landhi, Korangi, Malir and Shah Faisal.",
-    "Meanwhile, a KE spokesperson said the scheduled maintenance shutdown at Dhabeji Grid Station would take place on Friday and that advance notice had been shared with the KWSC."
+    "US envoys Steve Witkoff and Jared Kushner arrived at the ​Kremlin on Thursday for talks with Russian President Vladimir Putin, in a new push for a peace deal in Ukraine despite what they have called a lack ‌of trust between Moscow and Kyiv.",
+    "The negotiations are the 10th time Witkoff has met Putin in person during a conflict that has lasted longer than the Soviet Union's fight against Nazi Germany in World War Two, and follow two days of US-led trilateral peace talks in Abu Dhabi.",
+    "As he entered a Moscow hotel before the ​Kremlin talks, Witkoff was asked by a reporter whether progress made in the talks so far meant peace was closer."
    ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043860/power-shutdown-at-dhabeji-to-cause-karachi-wide-water-shortage-tomorrow",
-   "image": "https://i.dawn.com/large/2026/05/310106232f9ddc1.webp",
-   "published_at": "2026-11-12T05:09:49Z",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2639925/us-envoys-arrive-in-moscow-for-latest-round-of-ukrainian-peace-talks-with-putin",
+   "image": null,
+   "published_at": "2026-11-12T05:01:06Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "1604b7bdfee60e06e69793adb8bf58e0e58fc4e6",
-   "title": "Chiniot man booked for keeping pet dog without NOC after it mauls two",
+   "id": "21379d6297f145643e3f70fec8542cd5027235ae",
+   "title": "Uzma Khan, Noreen Niazi released after withdrawal of MPO orders, says lawyer",
    "summary": [
-    "CHINIOT: The City police have registered a case against a citizen after his pet dog injured two persons and booked him for keeping the dog without a no objection certificate (NOC) from the Chiniot municipal committee.",
-    "As per details, on the complaint of Municipal Committee Enforcement Inspector Muhammad Saleem, the City police registered the case stating that suspect Nazim Ali, a resident of Mohallah Baqir Wali of Chiniot, was keeping a pet dog in his house without an NOC.",
-    "ACCIDENT: A youth was critically injured after being hit by a Punjab government’s electric bus, which was allegedly plying on the wrong side of the Chiniot-Sargodha Road."
+    "Sisters of Pakistan Tehreek-e-Insaf (PTI) founder Imran Khan, Noreen Niazi and Dr Uzma Khan were released from jail on Thursday following the withdrawal of their detention orders under the Maintenance of Public Order (MPO) law, PTI lawyer Taimur Malik said.",
+    "Dr Uzma Khan and Noreen Niazi have been released upon withdrawal of their unlawful MPO detention order.",
+    "Separately, Noreen’s son, Wali, questioned the detention and release of his mother and aunt, Dr Uzma, saying they had spent 53 days in Kot Lakhpat Jail without being charged or tried."
    ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043944/chiniot-man-booked-for-keeping-pet-dog-without-noc-after-it-mauls-two",
-   "image": "https://i.dawn.com/large/2021/06/60b7a737e2e0e.jpg",
-   "published_at": "2026-11-12T05:09:18Z",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2639924/uzma-khan-noreen-niazi-released-after-50-days-in-detention",
+   "image": null,
+   "published_at": "2026-11-12T04:54:26Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "19f64c1ddc05c3c73d2aa57cbcb75031cc02bbc7",
-   "title": "Karachi's Malir Development Authority under FIA scrutiny after two held over fake bank challans",
+   "id": "05425a6b329ffbaa53925998ce5933af4d53e3c9",
+   "title": "Australia set to unleash new bowling hope Beardman against England",
    "summary": [
-    "The FIA also recovered Rs20 million in cash and stamps bearing the names of different banks during the operation, pointing to an alleged network involved in generating and using fake bank challans to facilitate financial fraud.",
-    "Agency claims to have recovered Rs20m in cash and stamps bearing names of different banks during raid “The recovered cash is believed to have been generated through these alleged illegal activities.",
-    "The fresh arrests have raised further questions about the possible involvement of other officials within the MDA and individuals outside the authority in the alleged fraud."
+    "Australia will unleash their new pace bowling hope Mahli Beardman in the first of three one-dayers against England on Friday, with skipper Mitchell Marsh calling him \"an amazing talent\".",
+    "\"He's an amazing talent, a ripping young kid,\" Marsh told reporters in confirming the 21-year-old Beardman would make his ODI debut on his home ground.",
+    "England will once more heavily rely on veteran Joe Root to anchor the batting and Jofra Archer to lead the attack."
    ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043861/karachis-malir-development-authority-under-fia-scrutiny-after-two-held-over-fake-bank-challans",
-   "image": "https://i.dawn.com/large/2020/09/5f6f3c3167f69.jpg",
-   "published_at": "2026-11-12T05:05:02Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "df33d7444f8fdc9bf01216dccca834370c7c91ac",
-   "title": "President sets aside ombudsperson’s order against tobacco firm ex-employee accused of workplace harassment",
-   "summary": [
-    "https://www.dawn.com/news/2043954"
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2044001/president-sets-aside-ombudspersons-order-against-tobacco-firm-ex-employee-accused-of-workplace-harassment",
-   "image": "https://i.dawn.com/large/2024/04/230812173025e7e.jpg",
-   "published_at": "2026-11-12T04:59:16Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "1eb769e4a8bed4784591ba5ab83d17c15ebd1446",
-   "title": "PPP has no objection to creation of new provinces, except in Sindh: CM Murad",
-   "summary": [
-    "THATTA: Chief Minister Syed Murad Ali Shah said on Wednesday that, except for Sindh, the Pakistan Peoples Party (PPP) had no objection to the creation of new provinces in other parts of the country if their people so desired.",
-    "He made it clear that the division of Sindh was “neither legally nor politically acceptable, as the people of the province had repeatedly rejected the idea through their elected representatives”.",
-    "The chief minister said the people of Sindh had repeatedly expressed their opposition to the division of the province through their elected representatives."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043859/ppp-has-no-objection-to-creation-of-new-provinces-except-in-sindh-cm-murad",
-   "image": "https://i.dawn.com/large/2026/11/12095451e24425a.webp",
-   "published_at": "2026-11-12T04:58:45Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "062ee5e7695050e6100eb67b9685184278bb6f0a",
-   "title": "Drug trafficking network busted, 20 Nigerians arrested in Islamabad, Rawalpindi",
-   "summary": [
-    "RAWALPINDI: The Anti-Narcotics Force (ANF) busted an international drug trafficking network targeting youth in twin cities, arrested 20 Nigerian nationals, and recovered 4.432kg of narcotics during a crackdown in Islamabad and Rawalpindi.",
-    "Acting on credible intelligence, ANF conducted a coordinated intelligence-based operation at various locations across the twin cities, resulting in the arrest of 20 Nigerians allegedly involved in drug trafficking and recovered 4.43kg of narcotics.",
-    "These operations demonstrate ANF’s professional capabilities, operational effectiveness and unwavering commitment to dismantling organised drug trafficking networks involved in the illicit transportation and distribution of narcotics."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043864/drug-trafficking-network-busted-20-nigerians-arrested-in-islamabad-rawalpindi",
-   "image": "https://i.dawn.com/large/2021/10/61643e4706c4f.jpg",
-   "published_at": "2026-11-12T04:38:33Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "8cd2d0f8bc116b1d16c5f1a862a8eace252e675a",
-   "title": "Pakistan Railways joins hands with LDA to earn revenue from its prime properties",
-   "summary": [
-    "LAHORE: The Pakistan Railways (PR) has joined hands with the Lahore Development Authority (LDA) for a business plan to earn the maximum revenue from its prime commercial properties in the city, including one situated near the Lahore Railway Station.",
-    "We requested the LDA to prepare a viable business plan that can help us earn the optimum revenue through auction of leasing rights and other business interventions,” said a senior railways official while talking to Dawn on Tuesday.",
-    "Minister for Railways Hanif Abbasi confirmed the development, terming it a government-to-government joint venture. “We have placed our properties before the LDA in a recent meeting."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043958/pakistan-railways-joins-hands-with-lda-to-earn-revenue-from-its-prime-properties",
-   "image": "https://i.dawn.com/large/2020/10/5f80d6e924e31.jpg",
-   "published_at": "2026-11-12T04:36:09Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "d56332e2f1cadaaeb60dfea389f4187d061eb13a",
-   "title": "Capital Development Authority chief orders resolution of Park Enclave issues",
-   "summary": [
-    "According to the press release, residents of Park Enclave placed before Chairman CDA their issues relating to the repair of boundary wall, sanitation system, public parks, security, electricity supply in Park Enclave Phase-II and III and other basic facilities.",
-    "Mr Ashraf directed the relevant department to improve the sanitation system in Park Enclave under modern solid waste management services, and that work be carried out regarding the repair of a boundary wall to improve security in Phase I.",
-    "Mr Ashraf directed the relevant wing to immediately complete the remaining development work in Phase-III and said that issues related to sewage, water supply and up-gradation of parks should also be resolved on a priority basis."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043865/capital-development-authority-chief-orders-resolution-of-park-enclave-issues",
-   "image": "https://i.dawn.com/large/2026/09/26083437fc5af5a.webp",
-   "published_at": "2026-11-12T04:35:55Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "da0286459c96a2448bcfc10b1c75536487712ef8",
-   "title": "Medical superintendent, two doctors in Faisalabad suspended on LHC orders",
-   "summary": [
-    "TOBA TEK SINGH: On the direction of the Lahore High Court (LHC), the secretary of the Punjab specialised healthcare and medical education department has suspended the medical superintendent of Faisalabad Allied Hospital II (former DHQ Hospital) along with two other doctors.",
-    "ACCIDENT: A biker was killed after a trailer hit his motorcycle near the Parco oil depot on Chak Jhumra Road in Faisalabad on Wednesday evening.",
-    "The injured biker was being shifted to the Allied Hospital but he succumbed to his injuries on the way."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043946/medical-superintendent-two-doctors-in-faisalabad-suspended-on-lhc-orders",
-   "image": "https://i.dawn.com/large/2023/03/21103042a262bb9.jpg",
-   "published_at": "2026-11-12T04:32:06Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "0b605e75507a2881602d1de20bdb4f6d85935a10",
-   "title": "Damaging Safe City equipment in Islamabad punishable by two-year jail term",
-   "summary": [
-    "The authority may also frame regulations, subject to the ordinance and the rules, for implementing its provisions.",
-    "For security reasons, which must be recorded in writing, the authority may inspect and integrate public and private CCTV cameras and fibre-optic networks without compromising citizens’ privacy, to improve digital surveillance and ensure maximum public security.",
-    "The authority will issue directives regarding integration and compliance under the ordinance."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043872/damaging-safe-city-equipment-in-islamabad-punishable-by-two-year-jail-term",
-   "image": "https://i.dawn.com/large/2023/10/03102025db56cde.jpg",
-   "published_at": "2026-11-12T04:28:58Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "b2858f9362d514b07f3809b4cff3126a3f508be8",
-   "title": "BJP accuses Sonia Gandhi of ‘camouflaging Congress sins’ in memoir",
-   "summary": [
-    "NEW DELHI: India’s ruling Bharatiya Janata Party has accused opposition leader Sonia Gandhi of whitewashing historical wrongs by her Congress party in a memoir, sparking a new faceoff between the two sides ahead of key state elections.",
-    "Congress party leaders have in turn accused Prime Minister Narendra Modi’s BJP of trying to create a spectacle and give the book a “political spin”.",
-    "Kesavan cited the anti-Sikh riots of 1984 which erupted after then-prime minister and Sonia’s mother-in-law Indira Gandhi was assassinated by Sikh bodyguards."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043967/bjp-accuses-sonia-gandhi-of-camouflaging-congress-sins-in-memoir",
-   "image": "https://i.dawn.com/large/2022/07/62da2c45d90e6.png",
-   "published_at": "2026-11-12T04:17:44Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "708cd62f0f661b3a208b54b98cb081691c74b292",
-   "title": "Parliament must protect judicial independence, says outgoing Justice Mandokhail",
-   "summary": [
-    "https://www.dawn.com/news/2043902"
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043997/parliament-must-protect-judicial-independence-says-outgoing-justice-mandokhail",
-   "image": "https://i.dawn.com/large/2025/10/13131110fb2f856.webp",
-   "published_at": "2026-11-12T03:45:17Z",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2639923/australia-set-to-unleash-new-bowling-hope-beardman-against-england",
+   "image": null,
+   "published_at": "2026-11-12T04:47:53Z",
    "category": "pakistan",
    "related": []
   },
@@ -413,7 +417,7 @@
    "id": "9b08a7e424c37bff9de01c00a7055d22614f4bca",
    "title": "Pakistan ready to take 'all necessary defensive measures' to protect Saudi Arabia: DG ISPR",
    "summary": [
-    "He said the transition of the Makkah Joint Defence Alliance into the practical implementation phase of its collective defence commitments would require measures to ensure the rapid deployment of agreed forces and military capabilities inside Saudi Arabia.",
+    "The MJDA was the latest step in longstanding military and strategic cooperation between Pakistan, Saudi Arabia and Turkiye.",
     "For Pakistan and Saudi Arabia, the trilateral pact is built on their Strategic Mutual Defence Agreement signed in September 2025.",
     "Pakistan had also expanded its military and security cooperation with the kingdom, deploying about 8,000 troops, fighter jets, drones and an air-defence system to Saudi Arabia, according to Reuters."
    ],
@@ -425,54 +429,26 @@
    "related": []
   },
   {
-   "id": "96946a313dbf08b684dbf8ade4a094af445fdbea",
-   "title": "PSX sheds 1,492 points as selling hits heavyweights",
+   "id": "539080d1850cde161b4a2733f61d88b073501c95",
+   "title": "PM Shehbaz urges grant-based climate finance, warns against 'weaponising water' at COP31",
    "summary": [
-    "The benchmark KSE-100 Index of the Pakistan Stock Exchange (PSX) traded sharply lower at midday on Thursday, losing 1,492.16 points, or 0.83 per cent, to stand at 177,591.64.",
-    "The index had touched an intraday high of 180,310.44 earlier in the session before selling pressure pulled it down.",
-    "Trading volume in the index reached 164.54 million shares, while the value of shares traded stood at Rs15.22 billion."
+    "Prime Minister Shehbaz Sharif on Thursday urged grant-based financing for countries affected by climate change, while also warning against \"weaponising water.\" \"National effort cannot replace a fair and just global response when climate disaster strikes.",
+    "The prime minister said national efforts to combat climate change could not replace a fair and just global response. “When climate disasters strike, vulnerable countries need timely help and finance that does not deepen their debt,” he said.",
+    "Prime Minister Shehbaz Sharif highlights the devastating impact of climate change, with 33 million people affected by floods."
    ],
    "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2639915/psx-sheds-1492-points-as-selling-hits-heavyweights",
+   "url": "https://tribune.com.pk/story/2639916/pm-shehbaz-urges-grant-based-climate-finance-warns-against-weaponizing-water",
    "image": null,
-   "published_at": "2026-11-12T03:23:08Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "6603843fb8290a3b11316efee8dbdfe7f7ea27ae",
-   "title": "Parliament must protect judicial independence, says Justice Mandokhail",
-   "summary": [
-    "Justice Mandokhail also underscored that the judicial oath demanded impartiality, integrity and unwavering adherence to the Constitution and the law, without fear, favour or external influence.",
-    "Paying tribute to Justice Mandokhail, Chief Justice Afridi lauded his distinguished judicial career and commitment to the administration of justice.",
-    "He particularly highlighted Justice Mandokhail’s efforts to strengthen the district judiciary and judicial infrastructure during his tenure as chief justice of the Balochistan High Court."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043902/parliament-must-protect-judicial-independence-says-justice-mandokhail",
-   "image": "https://i.dawn.com/large/2026/11/12035220fb920ad.webp",
-   "published_at": "2026-11-12T03:00:15Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "e50fd028f3f50ea658a48a57bc705d24bb3478ff",
-   "title": "Review jurisdiction cannot substitute for appeal, FCC rules on super tax petitions",
-   "summary": [
-    "https://www.dawn.com/news/2043887/review-jurisdiction-cannot-substitute-for-appeal-rules-fcc"
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043988/review-jurisdiction-cannot-substitute-for-appeal-fcc-rules-on-super-tax-petitions",
-   "image": "https://i.dawn.com/large/2026/03/06084012983dd4c.webp",
-   "published_at": "2026-11-12T02:44:35Z",
+   "published_at": "2026-11-12T03:31:57Z",
    "category": "pakistan",
    "related": []
   },
   {
    "id": "ca2b28ae9973561ea5fd631ff0eb9b08d6e68549",
-   "title": "Pakistan courts global investors at Minerals Investment Forum as provinces outline opportunities",
+   "title": "Finance minister dubs mining sector a ‘game-changer’ for Pakistan’s economy at investment forum in Islamabad",
    "summary": [
-    "While addressing the forum, Deputy Prime Minister (DPM) and Foreign Minister Ishaq Dar highlighted Pakistan's vast mineral resources and efforts to diversify its export base, saying the country stood at a pivotal juncture in its economic journey.",
-    "The deputy prime minister described Balochistan as vital to Pakistan's mineral future, noting that the global transition to clean energy was driving demand for copper and creating new opportunities for mineral exploration in the country.",
+    "The forum brought together international investors and government officials as Pakistan sought to attract foreign investment in its mineral sector, with provincial leaders outlining investment opportunities, incentives and development plans.",
+    "He further said the Pakistan Investment Policy 2023 provided protection to investors and highlighted the government's efforts to strengthen the country's investment environment.",
     "The chief minister also highlighted efforts to increase the value of pink salt exports, saying the mineral had previously been exported in raw form, limiting Pakistan's earnings."
    ],
    "source": "Express Tribune",
@@ -483,138 +459,47 @@
    "related": []
   },
   {
-   "id": "98dbeb00fc16f4c649ade6ef6aa5973a0a6a3391",
-   "title": "Pakistan determined to turn AI revolution into opportunity, IT minister says at Margalla Dialogue 2026",
+   "id": "2f9c203e4079bed7c932c174cb8374104842b662",
+   "title": "Snowfall blocks road to Babusar Top",
    "summary": [
-    "https://www.dawn.com/news/2043907"
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043987/pakistan-determined-to-turn-ai-revolution-into-opportunity-it-minister-says-at-margalla-dialogue-2026",
-   "image": "https://i.dawn.com/large/2026/11/12073910dd94c3b.webp",
-   "published_at": "2026-11-12T02:42:08Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "a3d4c8ceaa2987b508f639d65169793ee800a832",
-   "title": "Amid Maryam-Salik row, Azma challenges federal minister to quit",
-   "summary": [
-    "https://www.dawn.com/news/2043909"
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043986/amid-maryam-salik-row-azma-challenges-federal-minister-to-quit",
-   "image": "https://i.dawn.com/large/2026/11/120740449661098.webp",
-   "published_at": "2026-11-12T02:41:45Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "41ca8e16797e8267c51346ddc1cfbd7fdc13e638",
-   "title": "Amid spat with Maryam, Azma challenges Salik to quit ministry",
-   "summary": [
-    "Salik subsequently shot back, accusing Azma Bokhari of ‘spoiling the matter’ by launching a verbal attack on him, even as he was trying to mend fences through intermediaries in the federal cabinet.",
-    "Accusing Salik of practising “hypocritical politics”, Ms Bokhari wondered on Wednesday what he was trying to achieve by alleging corruption in the Punjab government, while simultaneously seeking development funds from it.",
-    "Before he could mend things, a Punjab minister spoiled the matter by launching a verbal attack on us,” he said, adding that he had not directly levelled corruption allegations against the chief minister."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043909/amid-spat-with-maryam-azma-challenges-salik-to-quit-ministry",
-   "image": "https://i.dawn.com/large/2026/11/120739299661098.webp",
-   "published_at": "2026-11-12T02:40:56Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "09783d7e7a8c64e04b8eb91f71d05bd94d720823",
-   "title": "Mississippi Democrat flips US Senate seat in stunning upset",
-   "summary": [
-    "In a historic upset, Democrat Scott Colom has won his US Senate race in traditionally conservative Mississippi, networks projected on Wednesday, making him the first African American elected to the chamber from the southern state in more than 140 years.",
-    "He wanted us to get it the Mississippi way.\" Colom's win in the Deep South adds sting to the stunning rebuke of President Donald Trump as voters around the country shunned his Republican Party, even in states that had not sent a Democrat to Washington in decades.",
-    "I knew it from the moment I met him.\" Colom is set to become the first Democratic senator from Mississippi in nearly 40 years."
+    "Heavy snowfall from Baiser to Babusar Top in Naran Valley has covered the surrounding mountains with a white blanket of snow and blocked the road, affecting traffic movement in the upper Kaghan Valley.",
+    "The meteorological department has forecast the first snowfall of the winter season in the country's northern mountains this week, with rain and thunderstorms expected in several regions, including the federal capital, as a new weather system moves across the country.",
+    "The forecast covers November 10-14, with snowfall expected over higher elevations in upper K-P, G-B and Kashmir."
    ],
    "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2639909/mississippi-democrat-flips-us-senate-seat-in-stunning-upset",
+   "url": "https://tribune.com.pk/story/2639843/snowfall-blocks-road-to-babusar-top",
    "image": null,
-   "published_at": "2026-11-12T02:36:08Z",
-   "category": "pakistan",
-   "related": [
-    {
-     "source": "Dawn",
-     "url": "https://www.dawn.com/news/2044006/mississippi-democrat-flips-us-senate-seat-in-stunning-upset-after-140-years"
-    }
-   ]
-  },
-  {
-   "id": "57458f550e2cfab47ccc07f9fd1e18c4ab89fecd",
-   "title": "Punjab govt insists smog ‘not a political issue’ as Lahore, New Delhi gasp for air",
-   "summary": [
-    "Meanwhile, the toxic smog in second-placed New Delhi — with an AQI reading of 248 on Wednesday — was so severe this week that air pollution monitors in the country were overwhelmed after pollutant concentrations exceeded the upper measurement limits on their instruments.",
-    "On Wednesday, the Punjab Environment Protection Agency (EPA) — in its assessment for the Diwali period — found that pollution-laden air from India travelled deep into Punjab, contributing to increased particulate matter (PM) concentrations.",
-    "Readings from Punjab’s air quality monitoring network showed a marked geographical variation in particulate pollution across Lahore."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043912/punjab-govt-insists-smog-not-a-political-issue-as-lahore-new-delhi-gasp-for-air",
-   "image": "https://i.dawn.com/large/2026/11/120730298fd1e99.webp",
-   "published_at": "2026-11-12T02:31:16Z",
+   "published_at": "2026-11-11T16:59:39Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "7bbbd30d3f5a4c4a8120d8049a8b73b2c30c42aa",
-   "title": "Son says South Korea players resolve internal divisions",
+   "id": "69300acb5798d3dadc6567f87a503d98e3177b3f",
+   "title": "Faulty vehicle in President Zardari’s motorcade prompts Sindh police inquiry",
    "summary": [
-    "Son Heung-min and four other South Korean players said Thursday they had put their differences aside after reports of bitter internal divisions at the heart of the national team.",
-    "South Korean football has been mired in controversy since their hugely disappointing exit in the group stage of the World Cup, after which unpopular coach Hong Myung-bo quit.",
-    "\"First of all we would like to sincerely apologise to the Korean public and football fans for the concern caused by recent reports concerning the national team,\" the statement said."
+    "The inclusion of an unroadworthy vehicle in President Asif Ali Zardari’s motorcade during his Thatta visit has triggered a high-level inquiry by the Sindh police, with the IGP seeking a report within seven days.",
+    "According to a notification issued by the office of the inspector general of police (IGP) Sindh on Nov 3, 2026, a three-member committee has been formed to investigate the inclusion of the faulty vehicle in the presidential convoy.",
+    "The committee will determine how a faulty and unroadworthy vehicle was assigned duty in the president’s motorcade and identify the officers and personnel responsible for its inspection and deployment."
    ],
    "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2639908/son-says-south-korea-players-resolve-internal-divisions",
+   "url": "https://tribune.com.pk/story/2639819/faulty-vehicle-in-president-zardaris-motorcade-prompts-sindh-police-inquiry",
    "image": null,
-   "published_at": "2026-11-12T02:21:35Z",
+   "published_at": "2026-11-11T16:07:09Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "25d1be15998b3569f472f4a482506939b9b77156",
-   "title": "Saqib Khan (7-130) rips through Sri Lanka batting in Rawalpindi Test",
+   "id": "06e1b6ef48618bc39e98409c1dbf90edca940804",
+   "title": "Security protocol keeps PPP leaders waiting outside Zardari House for hours",
    "summary": [
-    "Young fast bowler Saqib Khan ripped through Sri Lanka's batting line-up on the fourth morning to claim a seven-wicket haul, but the visitors secured a narrow 12-run first-innings lead in the opening Test against Pakistan on Thursday.",
-    "Pakistan quickly turned the pressure on the visitors, with Saqib breaking the stand by dismissing de Silva for 167 before removing Kusal for 119 as Sri Lanka lost two wickets for eight runs.",
-    "De Silva (167 not out) and Mendis (117 not out) put together 249 runs for the fifth-wicket unbroken stand to enable Sri Lanka to reach 404-4 in 102 overs in their first innings as bad light hastened the stumps."
+    "A visit to meet President Asif Ali Zardari turned into a test of patience for several senior Pakistan Peoples Party (PPP) leaders on Wednesday, as they spent more than two hours waiting outside Zardari House in Nawabshah.",
+    "Several senior PPP leaders and elected representatives visited Zardari House to meet the president but had to wait for more than two hours before being allowed inside.",
+    "The prolonged wait by senior PPP leaders and local government representatives created an unusual scene outside Zardari House."
    ],
    "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2639907/saqib-khan-7-130-rips-through-sri-lanka-batting-in-rawalpindi-test",
+   "url": "https://tribune.com.pk/story/2639818/security-protocol-keeps-ppp-leaders-waiting-outside-zardari-house-for-hours",
    "image": null,
-   "published_at": "2026-11-12T02:12:52Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "7959729c6da19faba5b27c36902179c41654e0f2",
-   "title": "Sindh to unlock mineral wealth through scientific exploration, responsible mining",
-   "summary": [
-    "Presiding over a meeting at the CM House, he reviewed Sindh’s coal and non-coal mineral resources, ongoing mining projects and opportunities for domestic and international investment.",
-    "The minister cited the Thar coal projects as examples of how mining could contribute to local development through jobs, education, healthcare, clean drinking water and community infrastructure.",
-    "The chief minister reaffirmed that the Sindh government would open up the province’s mineral resources, saying that coal and other minerals had enormous potential to drive industrialisation, strengthen energy security, create jobs and accelerate economic growth."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043851/sindh-to-unlock-mineral-wealth-through-scientific-exploration-responsible-mining",
-   "image": "https://i.dawn.com/large/2025/11/69167c6d60694.gif",
-   "published_at": "2026-11-12T01:50:42Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "d2c0aff07b317280c2252f86729fb76fe1be3ce8",
-   "title": "7.1m children vaccinated across Sindh in anti-polio drive",
-   "summary": [
-    "KARACHI: Around 7.1 million children across the province have been vaccinated against polio during the recently concluded weeklong campaign, while routine immunisation activities continue in 121 union councils in seven districts of the metropolis.",
-    "EOC officials informed the meeting that over 98 per cent of the household vaccination target had been achieved during the campaign; over 2.3m children were vaccinated through household visits in Karachi.",
-    "The officials encouraged parents to complete their children’s routine immunisation and ensure that no vaccine dose is missed."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2043862/71m-children-vaccinated-across-sindh-in-anti-polio-drive",
-   "image": "https://i.dawn.com/large/2023/05/15100221f14ec6d.jpg",
-   "published_at": "2026-11-12T01:50:42Z",
+   "published_at": "2026-11-11T15:50:14Z",
    "category": "pakistan",
    "related": []
   }

@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-12T09:42:54.964688Z",
- "story_count": 18,
+ "generated_at": "2026-11-12T18:10:29.418197Z",
+ "story_count": 19,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "ok",
-  "https://www.dawn.com/feeds/pakistan": "ok",
+  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,7 +20,7 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
+  "https://www.espn.com/espn/rss/news": "ok"
  },
  "stories": [
   {
@@ -32,7 +32,60 @@
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-12T08:59:08Z",
+   "published_at": "2026-11-12T17:32:14Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "ee127c5fac608d13209b7dcf9137a28771832a74",
+   "title": "Home sales hit 16-year low in October amid record-high mortgage rates",
+   "summary": [
+    "The median existing-home sales price increased slightly to $416,700.",
+    "Declines in sales were seen in the midwest, south and west, though sales in the north-east held steady."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low",
+   "image": "https://i.guim.co.uk/img/media/861fa365835f36d65c4fe3a0adf09f6b63ba43ad/142_0_2344_1875/master/2344.jpg?width=140&quality=85&auto=format&fit=max&s=8773e098930ce08aa711f613f70b46b6",
+   "published_at": "2026-11-12T17:26:07Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "fa024500806111272608658f7c1a053ff6ac6db6",
+   "title": "What in the World",
+   "summary": [
+    "What can you do to protect your personal date?"
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/sounds/play/w3ct9955?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-12T14:30:00Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "b9c0719774360ef5ffe78aaa65d53b4b6536743d",
+   "title": "Poundland gets more time to secure a rescue deal as emergency talks continue",
+   "summary": [
+    "A deadline to secure a buyer was set to expire at midnight, but the retailer now has an extra 10 days to find a buyer."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-12T14:29:59Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "0bbe1a466ad895b942ea9d98e593314b10320544",
+   "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
+   "summary": [
+    "The UK is seeing impressive growth, but will it last?"
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-12T13:27:09Z",
    "category": "business",
    "related": []
   },
@@ -45,7 +98,20 @@
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-12T08:46:52Z",
+   "published_at": "2026-11-12T11:20:25Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "605d772f41b7bbfb3ba6e9028cb33ec8994c6f34",
+   "title": "College students rally in support of Starbucks baristas urging boycott over contract impasse",
+   "summary": [
+    "It has called on the public to boycott Starbucks until its first contract is reached."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/12/starbucks-workers-campus-rally-contract-talks",
+   "image": "https://i.guim.co.uk/img/media/ffdfa7a208647db76be86a3c05984b8303af9ed1/376_0_5493_4394/master/5493.jpg?width=140&quality=85&auto=format&fit=max&s=7f8e4df24f7ae34a73f5445ad1df3cdc",
+   "published_at": "2026-11-12T11:00:48Z",
    "category": "business",
    "related": []
   },
@@ -76,45 +142,6 @@
    "related": []
   },
   {
-   "id": "b9c0719774360ef5ffe78aaa65d53b4b6536743d",
-   "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
-   "summary": [
-    "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-12T00:49:05Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "c13231d6f73f9435fbe3f29b48cd15c008d58a15",
-   "title": "Office buildings emptied out but are filling up again - as homes",
-   "summary": [
-    "Office buildings with low occupancy rates are being transformed into flats."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm89ze7qepvyo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-12T00:05:40Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "38bafe3be8f01c3093908921cbfe6e99fbe27c4e",
-   "title": "Nvidia hires leading US law firm to investigate Jensen Huang’s relationship",
-   "summary": [
-    "The firm’s website describes Kim, a former government prosecutor in New York, as a specialist in areas including internal investigations, white-collar criminal and regulatory defence, and crisis management."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship",
-   "image": "https://i.guim.co.uk/img/media/b76023068afd6989a4d83782e8ad21ac88094570/327_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=e80fd8b31abebcfb48715c6176ded127",
-   "published_at": "2026-11-11T21:59:07Z",
-   "category": "business",
-   "related": []
-  },
-  {
    "id": "993168393744651f0f5afda000621923efe5166b",
    "title": "Poundland founder writes to King for help",
    "summary": [
@@ -131,7 +158,7 @@
    "id": "38482b9ff308529498f53e632e265eec7306a895",
    "title": "Brad Friedel on Shrewsbury Town takeover",
    "summary": [
-    "Exclusive interview with BBC Radio Shropshire, Brad Friedel on Shrewsbury Town takeover."
+    "New Shrewsbury Town sporting director Brad Friedel talks exclusively to BBC Radio Shropshire about the club's takeover."
    ],
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/videos/cq62p80pe3yzo?at_medium=RSS&at_campaign=rss",
@@ -244,19 +271,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-11T07:52:05Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "dafd0f351ed2df503d98e03426bd485703020a95",
-   "title": "Federal judge allows Trump’s $10bn defamation lawsuit against BBC to proceed",
-   "summary": [
-    "Trump-appointed judge Jeffrey T Kuntz partially denies British broadcaster’s motion to dismiss over editFederal judge Jeffrey T Kuntz ruled on Tuesday that Donald Trump’s lawsuit against the BBC can proceed, denying in part the British broadcaster’s motion to dismiss the case."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed",
-   "image": "https://i.guim.co.uk/img/media/456a998e975976898ff984ee0e99403b099a5195/238_0_2524_2020/master/2524.jpg?width=140&quality=85&auto=format&fit=max&s=9a261b4e1fd50c37b84f2205d342473b",
-   "published_at": "2026-11-11T01:18:56Z",
    "category": "business",
    "related": []
   }
