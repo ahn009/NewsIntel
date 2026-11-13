@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-12T18:10:29.415875Z",
+ "generated_at": "2026-11-13T00:09:42.118237Z",
  "story_count": 60,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
-  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/home": "ok",
+  "https://www.dawn.com/feeds/pakistan": "ok",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,120 +20,9 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "ok"
+  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
-  {
-   "id": "7b946635b6801bcd868aa30df3e0ca78819f6c9a",
-   "title": "The oldest grudge in football",
-   "summary": [
-    "When Texas Tech and its brash benefactor bought their way into the college football big time, they were settling an old West Texas score."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/college-football/story/_/id/50427039/texas-tech-puf-cody-campbell",
-   "image": null,
-   "published_at": "2026-11-12T18:05:13Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "1af80027ebf4775b654e5141efd95bc2c6b15aa4",
-   "title": "Steph Curry’s defense of Ayesha exposes the ugly double standards of sports’ manosphere | Andrew Lawrence",
-   "summary": [
-    "The Warriors superstar’s forceful defense of his wife over an on-screen kiss has exposed the ugly double standards and fragile masculinity of sports’ manosphereIf Steph Curry is leading with his full government name, know that he means business.",
-    "A bizarre turn in the parasocial compact when the restless fanboys pressured a superstar into publicly defending his wife.",
-    "That apparently was a bridge too far for some of Curry’s former NBA peers."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/sport/2026/nov/12/steph-curry-ayesha-curry-manosphere-marriage-backlash",
-   "image": "https://i.guim.co.uk/img/media/49419c3c392dd396be2efcb8263e7bb7e3792f09/625_0_6250_5000/master/6250.jpg?width=140&quality=85&auto=format&fit=max&s=21035651e27f10e3137c3f228de8caf1",
-   "published_at": "2026-11-12T18:03:05Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "96abeaa99e2df30ca1907ea31ebad146d0bd188f",
-   "title": "Barcelona v Arsenal: Women’s Champions League – live",
-   "summary": [
-    "⚽️ WCL updates from 5.45pm GMT kick-off⚽️ Live scoreboard | And email Simon2 mins: They kept the ball for about 15 seconds and haven’t seen it since.",
-    "Eventually Caroline Graham Hansen plays a pass infield from the right and Ewa Pajor is so close to getting sent through on goal.",
-    "Instead it runs through to Misa Rodriguez.1 min: Peeeeeep!"
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/live/2026/nov/12/barcelona-v-arsenal-womens-champions-league-live",
-   "image": "https://i.guim.co.uk/img/media/eebbf7421cbd6256e6be5521554e97c16a5c7b0c/55_0_2891_2314/master/2891.jpg?width=140&quality=85&auto=format&fit=max&s=1ba6e001c48c9edae2e67f2d45da6c81",
-   "published_at": "2026-11-12T18:01:50Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "bfccd93fffca2a58755c41870cb1d34a279ff35b",
-   "title": "England v Croatia: Nations League – live",
-   "summary": [
-    "So in that three-part sense, this is a bit of a non-event, though tell that to Harry Kane, who will break the all-time appearance record for the Three Lions‡.",
-    "It, almost exclusively for England, is on!1."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/live/2026/nov/12/england-v-croatia-nations-league-live",
-   "image": "https://i.guim.co.uk/img/media/704c61e6cd0a69b65f47a36ea537bcfbba5d4209/777_244_5849_4680/master/5849.jpg?width=140&quality=85&auto=format&fit=max&s=32c31911a77bd2f2e446620aa7b10fb3",
-   "published_at": "2026-11-12T18:00:56Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "ea6dde997f9d68cbc0a95961500eeafe4d596bd9",
-   "title": "Lewis Hamilton says ‘Israel’s genocide in Gaza is appalling’ after Rafah visit",
-   "summary": [
-    "F1 driver urges Israel to let aid into GazaTrip involved tour of facilities with aid workersFormula One driver Lewis Hamilton said on Wednesday that Israel must allow aid ⁠trucks into Gaza, a day after he visited the Rafah border crossing in Egypt.Hamilton, a seven-time ⁠world champion, arrived ⁠in ​El Arish on Tuesday, where he was briefed on how aid is prepared and coordinated before it ⁠is sent into Gaza, as he toured the Rafah crossing and the Egyptian Red Crescent’s aid warehouses."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/sport/2026/nov/12/lewis-hamilton-gaza-visit-rafah-israel",
-   "image": "https://i.guim.co.uk/img/media/9f421ee9a5c3c6382f96f0224c1cede036b26ba6/1168_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=4f4fcb9c3636fdfba9468c15830cd3db",
-   "published_at": "2026-11-12T18:00:50Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "014763f070eb049c027a17486344ebe2d656ab8e",
-   "title": "How and why Wales are relying on scrum-half Williams",
-   "summary": [
-    "Wales head coach Steve Tandy says is a big demand on the workload of scrum-half Tomos Williams."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cv36gngre3r9o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-12T18:00:14Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "e58ef6dc8ab53d452524ee012b2a575842e3489d",
-   "title": "Washington DC shooting: suspect confirmed dead after one person is killed and four injured – latest updates",
-   "summary": [
-    "Suspect has died after suffering a gunshot wound; one injured person in critical conditionMultiple people shot in Washington DC as police warn people to stay insideThe incident is shifting from an active shooter response to a barricaded subject response, a federal law enforcement official has told NBC News.It is believed there is no other individual there at scene so this is not considered a hostage situation, they said, adding that it has been about 90 minutes since the suspect fired at law enforcement, which did not strike anyone."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates",
-   "image": "https://i.guim.co.uk/img/media/3e96d892fd128af4a596c9b1883c06409042a1e0/275_0_4405_3525/master/4405.jpg?width=140&quality=85&auto=format&fit=max&s=3934f242f1acb83fadc80aa3af1e3736",
-   "published_at": "2026-11-12T17:59:46Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "af85cbb00b1eb28be67938e947a54def0b716104",
-   "title": "Sadiq Khan joins Labour figures urging PM not to water down electric vehicle targets – UK politics live",
-   "summary": [
-    "He said:The whole system needs to be changed, because the system is geared to keeping people inactive when, for young people in particular, it’s all about how can you make them active, get them earning, learning, so that they can rely on a wage rather than on a benefit.",
-    "And frankly it’s a better use of money, both from the point of view of the young person and the taxpayer, to spend that money getting them into work rather than spending that money keeping them on benefits.This is the sort of fatuous thing about this debate.",
-    "It will need significant investment.To get a return on investment will take time … the only way of cutting the benefits bill sustainably is by getting young people into work, paying their taxes and being less reliant on benefits."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/live/2026/nov/12/milburn-review-neets-young-people-welfare-work-latest-news-updates",
-   "image": "https://i.guim.co.uk/img/media/e2feeff2390f42a9ffba7d9538bbe38b9f0b3821/1096_0_4763_3812/master/4763.jpg?width=140&quality=85&auto=format&fit=max&s=0c9bd665087cdc8709321dfc8357ae34",
-   "published_at": "2026-11-12T17:58:42Z",
-   "category": "world",
-   "related": []
-  },
   {
    "id": "dc29cf3a466ca0c37680961fb1dc76dbeb062c41",
    "title": "Hegseth gives medal to guard who reprimanded him at Arlington national cemetery – US politics live",
@@ -144,342 +33,211 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
    "image": "https://i.guim.co.uk/img/media/643bd3e107bf10fec5fb9540b81a8dc3fab9fbb3/638_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=a39a9c6d43d926a7703e438d7352ec29",
-   "published_at": "2026-11-12T17:54:18Z",
+   "published_at": "2026-11-12T23:54:48Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "bee007a93fb5d18c7e3b48b6ffc9ee7c82e3092b",
-   "title": "Nvidia’s Jensen Huang to testify to US Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO – follow live",
+   "id": "668b909e49836b2822610ab5497b88e8012e840b",
+   "title": "Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions",
    "summary": [
-    "Nvidia’s value slumps by $888bn this week as scandal over longtime CEO’s two affairs, including with a suspected Chinese spy, engulfs chip makerAnalysis: Jensen Huang built an AI kingdom.",
-    "What now?Full report: Jensen Huang resigns as Nvidia CEOToo big – and too well-connected – to sack?",
-    "Huang does not enjoy the supercharged voting rights that are par for the course elsewhere – his shareholding is a plain vanilla 3.6%."
+    "Saudi-led coalition intercepts flurry of suspected Houthi drones targeting oil and military infrastructure."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-12T23:52:38Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "ae62eb39a01d71410afcbbe690d074512c906153",
+   "title": "Police decide not to charge Sydney Swans players over incident in Melbourne hotel",
+   "summary": [
+    "Heeney, Warner, Blakey and Jordon had been under investigationQuartet among five Swans suspended by club in AugustVictoria police have decided not to charge four Sydney Swans players who were under investigation over an alleged sexual assault at a Melbourne hotel earlier this year.Sydney vice-captain Isaac Heeney as well as James Jordon, Chad Warner and Nick Blakey – the latter now a North Melbourne player – are understood to have assisted police with their investigation but will have no further case to answer."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-   "image": "https://i.guim.co.uk/img/media/ee87aa39a5285390ddbdaa26b7ca3472a48da292/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=521ae24e36f8fdf4fa3ee96fe310946d",
-   "published_at": "2026-11-12T17:54:15Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "12a30cbf5dc98f1597847a84d1fa58b1c594b4c9",
-   "title": "Warriors' Curry has oblique abdominal tear, to miss at least two weeks",
-   "summary": [
-    "Warriors star Stephen Curry has an oblique abdominal tear and will be reevaluated in two weeks."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nba/story/_/id/50462899/warriors-stephen-curry-least-2-weeks-oblique-tear",
-   "image": null,
-   "published_at": "2026-11-12T17:48:03Z",
+   "url": "https://www.theguardian.com/sport/2026/nov/13/sydney-swans-players-no-charges-alleged-hotel-incident-ntwnfb",
+   "image": "https://i.guim.co.uk/img/media/01f2572b08f35896b320ac49fac2b523f1ea570f/889_1437_3203_2562/master/3203.jpg?width=140&quality=85&auto=format&fit=max&s=31658e76b64ad5c4f6ddbf38b309fc3a",
+   "published_at": "2026-11-12T23:51:23Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "60574b139d22dee1401e789d6d5ccdae95909e2a",
-   "title": "Browns' Verse says he met with team psychiatrist to try to snap sack slump",
+   "id": "0f3d14786d57861938425c40297e494487bb8f87",
+   "title": "Russell Brand accused of misconduct by six more women, according to report",
    "summary": [
-    "Browns defensive end Jared Verse said Thursday that he recently met with the team's psychiatrist to get past his slump of not registering sacks."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nfl/story/_/id/50463010/browns-jared-verse-met-psychiatrist-end-sack-slump",
-   "image": null,
-   "published_at": "2026-11-12T17:48:03Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "090edeb52056f701ede168d4f0cac9f5ae801d6d",
-   "title": "76ers Embiid (foot), LeBron (back) questionable vs. Raptors",
-   "summary": [
-    "76ers center Joel Embiid is questionable for Thursday night's game against the Raptors with right foot plantar fascia management.",
-    "LeBron James is also questionable with lower back/sciatica management."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nba/story/_/id/50463008/76ers-joel-embiid-lebron-james-questionable-vs-raptors",
-   "image": null,
-   "published_at": "2026-11-12T17:48:03Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "5770d0d45536a548eaab1d12f384bb8df21b88f2",
-   "title": "Sources: Former Saint Louis star Avila finalizing deal to play for TCU",
-   "summary": [
-    "Former Saint Louis star Robbie Avila, the 2025 A-10 player of the year, is finalizing a deal to play for TCU this season, sources told ESPN."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/mens-college-basketball/story/_/id/50462474/sources-ex-billikens-star-avila-finalizing-deal-tcu",
-   "image": null,
-   "published_at": "2026-11-12T17:48:03Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "c2d35b74a290921d74d7e9d6c24b5c080f216494",
-   "title": "Longtime sports broadcaster Hicks, husband of ESPN's Storm, dies at 64",
-   "summary": [
-    "Longtime NBC Sports broadcaster Dan Hicks has died at the age of 64 following an acute illness, his wife, ESPN broadcaster Hannah Storm, announced Thursday."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/espn/story/_/id/50462145/long-sports-broadcaster-dan-hicks-dies-age-64",
-   "image": null,
-   "published_at": "2026-11-12T17:48:03Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "05d92bd4022d6590283f649870ffb40bd11906e0",
-   "title": "Sources: Broncos-Chargers trade nixed due to concerns over LB Henley's knee",
-   "summary": [
-    "The Broncos announced late Wednesday that their trade to acquire linebacker Daiyan Henley from the Chargers \"will not be finalized.\""
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nfl/story/_/id/50459330/broncos-say-trade-chargers-lb-henley-not-finalized",
-   "image": null,
-   "published_at": "2026-11-12T17:48:03Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "2e3e7fc988637d09b2b34fe0797895aa850978c5",
-   "title": "Zion calls out Pels after latest blowout loss: 'Have to look yourself in mirror'",
-   "summary": [
-    "Zion Williamson called for accountability after the Pelicans lost their fourth straight game, saying the team needed to look itself in the mirror."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nba/story/_/id/50459408/zion-williamson-calls-pelicans-another-unacceptable-blowout-loss",
-   "image": null,
-   "published_at": "2026-11-12T17:48:03Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "5eaad21797a2b6fbe731cb49e4cbd79fe81051ec",
-   "title": "Manchester United fires Carrick; sources say deal with USMNT's Pochettino close",
-   "summary": [
-    "Manchester United have sacked head coach Michael Carrick, the club have confirmed."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/soccer/story/_/id/50180844/man-united-michael-carrick-sacked-pochettino",
-   "image": null,
-   "published_at": "2026-11-12T17:48:03Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "2214511386c8d2e0e58078b07937a7d7777417fb",
-   "title": "🏀 Men's hoops Power Rankings: A whole new list after two weeks of games",
-   "summary": [
-    "After two weeks of play, Florida tops the rankings, while Kansas and UCLA made big jumps with signature wins."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/mens-college-basketball/story/_/id/50453526/mens-college-basketball-power-rankings",
-   "image": null,
-   "published_at": "2026-11-12T17:48:03Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "9414c905773564b3ca4c3bb1aa737a0ef970a4b0",
-   "title": "Duran Duran drummer Roger Taylor leaves band due to tinnitus",
-   "summary": [
-    "Playing drums in this band has been the joy of my life, and I’ll never be able to properly thank the fans for the love they’ve shown us over the years.",
-    "But the truth is that my tinnitus has been getting steadily worse, and I’ve reached the point where I must now listen to my body and my doctors.” Continue reading..."
+    "Allegations of sexual misconduct and predatory behaviour made against ex-comedian who was jailed on MondayRussell Brand has been accused of sexual misconduct and predatory behaviour by a further six women, according to a report.The comedian, 51, is accused of having sex with a woman without her consent and then apologising afterwards, an investigation by the Times and the Sunday Times said."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/music/2026/nov/12/duran-duran-drummer-roger-taylor-leaves-band-due-to-tinnitus",
-   "image": "https://i.guim.co.uk/img/media/b2547339d360dadcd2623b61529bb331a875d26c/793_174_692_553/master/692.jpg?width=140&quality=85&auto=format&fit=max&s=6e5bbfe909c0d6946a3c44b0966b5606",
-   "published_at": "2026-11-12T17:44:44Z",
+   "url": "https://www.theguardian.com/news/2026/nov/12/russell-brand-accused-of-misconduct-by-six-more-women-according-to-report",
+   "image": "https://i.guim.co.uk/img/media/958c089501f1f5e38b60b16e2eed7ec40d31a8d7/136_0_3121_2497/master/3121.jpg?width=140&quality=85&auto=format&fit=max&s=67e475124b27c5364048ef7501796df4",
+   "published_at": "2026-11-12T23:51:04Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "5b73b68902fd7003092166c756f3b3b8a39fe88f",
-   "title": "Reaction as Man United sack Michael Carrick as manager",
+   "id": "d2ed64d26f67dc6c61827fcdc7148751fcecb4f4",
+   "title": "'Wrong' and 'nonsense' - Cummins on Khawaja sandpaper claims",
    "summary": [
-    "Manchester United have sacked manager Michael Carrick after a poor run of results.",
-    "Catch up on the latest reaction to the news."
+    "Australia captain Pat Cummins hits back at former team-mate Usman Khawaja’s claims over the sandpaper scandal, calling them “100% wrong” and “utter nonsense”."
    ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/soccer/story/_/id/50441200/live-updates-reaction-man-united-sack-michael-carrick",
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/cricket/articles/cwq6e4y9525mo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-12T17:43:05Z",
+   "published_at": "2026-11-12T23:47:22Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "9b00ad2926a73dd5055d70f4c53198b4326546d4",
-   "title": "How Carrick won the Man United job, then lost it 10 months later",
+   "id": "7f155fa121adcb9c7159732fe30a4137979c403f",
+   "title": "Pat Cummins press conference live updates: Australian cricket captain speaks about Usman Khawaja’s ‘sandpapergate’ claims",
    "summary": [
-    "Michael Carrick performed excellently as a caretaker and impressed the club hierarchy, but doubts over Manchester United's performances and identity never fully disappeared."
+    "I think that investigation was a proper way to do it.Everyone was asked in the circumstances about a game very quickly after.",
+    "I think you can maybe argue whether the judgements were fair, but what can you do?",
+    "I got asked all the questions, answered them all fairly.That’s my story, so I think he’s wrong.The details really matter in that difference."
    ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/soccer/story/_/id/50437253/manchester-united-fire-michael-carrick-analysis",
-   "image": null,
-   "published_at": "2026-11-12T17:43:05Z",
-   "category": "sports",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/live/2026/nov/13/pat-cummins-press-conference-usman-khawaja-sandpapergate-australia-cricket-captain-statement-ntwnfb",
+   "image": "https://i.guim.co.uk/img/media/98e2bff19e4445496fd0da8a491d3cb83c3bdeac/257_0_2562_2050/master/2562.jpg?width=140&quality=85&auto=format&fit=max&s=d43de4137917c4bf62509ab2f2a05acc",
+   "published_at": "2026-11-12T23:44:58Z",
+   "category": "world",
    "related": []
   },
   {
    "id": "2f056bf8a4230f94c2dddd5f65ad4f8c4ad763e8",
-   "title": "Suspect in Washington DC gym shooting dead by suicide as four people injured and one dead",
+   "title": "Police identify suspect and victim in Washington DC gym shooting that also injured four",
    "summary": [
-    "Shortly after the press conference, police confirmed that the suspect was pronounced dead at the scene."
+    "Authorities identify suspect as Matt Wade Lambert, 55, who died from a self-inflicted gunshot woundWashington DC shooting latest updatesFour people were injured and one person died after a shooting in Northwest Washington DC on Thursday morning, local police said.In a Thursday afternoon press conference, law enforcement identified the suspect as 55-year-old Matt Wade Lambert, who died from a self-inflicted gunshot wound."
    ],
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/2026/nov/12/dc-shooting-logan-circle",
-   "image": "https://i.guim.co.uk/img/media/a2f10a4e55aa3f2a3037436b61417c0a6098acf7/36_0_4364_3490/master/4364.jpg?width=140&quality=85&auto=format&fit=max&s=e5026495b1120994e4109b6879cf44be",
-   "published_at": "2026-11-12T17:42:35Z",
+   "image": "https://i.guim.co.uk/img/media/cb9acea3a6d74f9f2a9f66084298dda98de853ed/353_0_4235_3389/master/4235.jpg?width=140&quality=85&auto=format&fit=max&s=436c592ee323ccb0e7ba9f9749672f73",
+   "published_at": "2026-11-12T23:43:42Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "4676b8a46b78dae91a22e4482f7b4e08b73a3c77",
-   "title": "Plans to increase Windsor Park capacity to 23,750 part of Women's World Cup bid",
+   "id": "daff2696e62e3670f6b1422ff3622c1b4ca5d98e",
+   "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
    "summary": [
-    "The planned redevelopment of Windsor Park to enable the stadium to host games at the 2035 Women's World Cup includes proposals to increase the capacity of the stadium to 23,750, according to a Fifa report."
+    "US lawmakers now want to question Huang over whether one of his alleged relationships was with a Chinese spy."
    ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/articles/ck62prrg6zj2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-12T17:42:15Z",
-   "category": "sports",
+   "published_at": "2026-11-12T23:34:05Z",
+   "category": "world",
    "related": []
   },
   {
-   "id": "0470363cd19cb5df0e46ccc095e0a9a3f03b566d",
-   "title": "Mississippi makes history with Democrat senate win - The Latest",
+   "id": "541944ba319827d0e6c6d0621d972fb68fd7e37e",
+   "title": "Australia Test captain Pat Cummins calls Khawaja's sandpapergate claims ‘complete and utter nonsense’",
    "summary": [
-    "Mississippi has elected the Democrat Scott Colom in a historic race in the traditionally deep-red state, making him its first Black senator since shortly after the US civil war.",
-    "The closely contested race was called more than a week after the US midterms, with Colom running against the Republican incumbent, Cindy Hyde-Smith.",
-    "How did Colom’s grassroots campaign win despite limited early backing from national Democrats?"
+    "Cummins insists he did not know of ball tampering plot in South Africa‘No masterplan around using illegal methods,’ Cummins saysPat Cummins press conference – live reactionPat Cummins has flatly denied Usman Khawaja’s claims that the entire team was implicated in the 2018 sandpaper scandal as “complete and utter nonsense” and “100% wrong” in a defiant appearance at a press conference a week after the allegations came to light.Appearing before dozens of reporters and cameras at Cricket NSW’s headquarters in Sydney, Cummins refuted the allegations aired in his former teammate’s book, Sabr, and said he had no knowledge of the ball tampering plot in South Africa."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/news/audio/2026/nov/12/scott-colom-senate-victory-mississippi-the-latest",
-   "image": "https://i.guim.co.uk/img/media/6da014ce1ff9a74d0c95194d57c659ad02c869c7/292_0_2917_2333/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=e24b77c21f92cb0ca9b35539a9d8185e",
-   "published_at": "2026-11-12T17:42:03Z",
+   "url": "https://www.theguardian.com/sport/2026/nov/13/pat-cummins-press-conference-sandpapergate-usman-khawaja-ball-tampering-australia-cricket-captain-statement-ntwnfb",
+   "image": "https://i.guim.co.uk/img/media/d195846fc68e0fcd35792c479d39ed2c7a3ed38b/491_0_4908_3926/master/4908.jpg?width=140&quality=85&auto=format&fit=max&s=1bcb6b0a74ab283844a4aef0504e83f3",
+   "published_at": "2026-11-12T23:31:22Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "f9736af5fa0035442420ab0e1d0a590488a09ced",
+   "title": "Richard A. Posner has died",
+   "summary": [
+    "Article URL: https://www.law.uchicago.edu/news/senior-lecturer-richard-posner-law-and-economics-pioneer-and-former-federal-appellate-judge Comments URL: https://news.ycombinator.com/item?id=50475829 Points: 6 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.law.uchicago.edu/news/senior-lecturer-richard-posner-law-and-economics-pioneer-and-former-federal-appellate-judge",
+   "image": null,
+   "published_at": "2026-11-12T23:19:53Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "2cabd5e10d6d2ee00ae8455fb8bf45fb25d0f939",
+   "title": "Russian court jails rights lawyer for 12 years on treason charge",
+   "summary": [
+    "Prosecutors say the woman shared security details with Ukraine, while her lawyers argue the information was not secret."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/12/russian-court-jails-rights-lawyer-for-12-years-on-treason-charge?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-12T23:18:50Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "d70d2cf14cb2954c08eff6b7dd7cb2e8ee834357",
-   "title": "Recruiting class rankings: UCLA is in the top 3",
+   "id": "25cd6fe5b1ee6365317f114e62b26038b77c690a",
+   "title": "Morgan Rogers says ‘it’s a lie’ that Cole Palmer does not want to play for England",
    "summary": [
-    "UCLA moves into the top-3 of the early class rankings, with a chance."
+    "Thomas Tuchel, who did not take the 24-year-old to last summer’s World Cup, expressed irritation at the time, saying the Chelsea attacker “misses too many opportunities” to play for his country."
    ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/womens-college-basketball/story/_/id/50239191/2027-womens-basketball-recruiting-class-rankings",
-   "image": null,
-   "published_at": "2026-11-12T17:41:12Z",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/12/morgan-rogers-says-its-a-lie-that-cole-palmer-does-not-want-to-play-for-england",
+   "image": "https://i.guim.co.uk/img/media/341d5262b98afe2d4759e05dfd101cd17678b06b/91_1181_2759_2207/master/2759.jpg?width=140&quality=85&auto=format&fit=max&s=4c83e7f0fb505e181cb3e1449a33ec84",
+   "published_at": "2026-11-12T23:17:46Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "27c76218c53b53292307e0763033d5562eda2add",
-   "title": "From rock-bottom to program reset: How Kim Caldwell hopes to turn around Tennessee",
+   "id": "4f4e6c37f2e45848dfbb197247d38520ce71441f",
+   "title": "'A lie' - Palmer committed to England, says Rogers",
    "summary": [
-    "Owning last season's shortfalls, Kim Caldwell has returned to her roots.",
-    "How it plays out will determine the Lady Vols' future."
+    "Morgan Rogers says any suggestion Cole Palmer is not committed to England \"is a lie\" and \"nonsense\"."
    ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/womens-college-basketball/story/_/id/50453869/tennessee-lady-vols-coach-kim-caldwell-ready-reset",
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6e9kjne5y8vo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-12T17:41:11Z",
+   "published_at": "2026-11-12T23:09:07Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "1c7edd18863103106920b05e0f84a23fd758e28c",
-   "title": "College football's zombie class of 2026 headlines Week 11",
+   "id": "f980cc1f1e212524854cbd0112509240cb4f0280",
+   "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
    "summary": [
-    "In 2026, even the most egregious of mishaps or losses aren't fatal for teams' playoff hopes."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/college-football/story/_/page/gamedaykickoff111226/week-11-top-games-upsets-preview",
-   "image": null,
-   "published_at": "2026-11-12T17:40:58Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "30e0ecfc0652a97ad5e081022e5d31ee13c74e49",
-   "title": "Documents show warnings years ago about NC State trainer",
-   "summary": [
-    "Sports medicine director Robert Murphy stayed on the job despite signs of sexual misconduct with male athletes."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/college-sports/story/_/id/50446437/documents-show-warnings-years-ago-nc-state-trainer",
-   "image": null,
-   "published_at": "2026-11-12T17:39:46Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "5c8a7e2ce9e472f49fcaac4d4a40cb5e63ff5e38",
-   "title": "Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit",
-   "summary": [
-    "Hugging Face's CEO pledged to keep fighting for open-source AI after Huang's exit, raising questions about Nvidia's $12.9B acquisition."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-   "image": null,
-   "published_at": "2026-11-12T17:36:40Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "bb9bd34fbdb45390ac3014307c4b3efa2adab419",
-   "title": "'It's like a light switch went on': The inside story of Pete Crow-Armstrong's MVP-worthy season",
-   "summary": [
-    "The Cubs' star center fielder hit another level midway through the 2026 season.",
-    "Here's what shaped PCA's superstar turn."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/mlb/story/_/id/50452846/pete-crow-armstrong-national-league-mvp-pca-superstar",
-   "image": null,
-   "published_at": "2026-11-12T17:36:34Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "693e88e4774dc83a5d514af4e1b989b4406898f4",
-   "title": "MLB Awards Week: Who will win MVPs on Thursday?",
-   "summary": [
-    "Baseball's best players and managers of 2026 collect their hardware this week."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/mlb/story/_/id/50391276/2026-season-awards-mvp-cy-young-al-nl",
-   "image": null,
-   "published_at": "2026-11-12T17:36:34Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "63f24a548e76915d0d9b85250cc02cd95e29ceee",
-   "title": "Early trade deadline questions: Knicks, Thunder and other contenders' next steps",
-   "summary": [
-    "With the NBA trade deadline looming, which title contenders should -- and could -- make a deal to improve?"
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nba/story/_/id/50434044/early-nba-trade-deadline-questions-top-contenders",
-   "image": null,
-   "published_at": "2026-11-12T17:34:10Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "52709dee410a39c407b9f71a2dbad124f1ef5df9",
-   "title": "AI Models Know What Women, Peace and Security Is. They Just Don't Bring It Up",
-   "summary": [
-    "Article URL: https://blog.cip.org/p/ai-models-know-what-women-peace-and Comments URL: https://news.ycombinator.com/item?id=50470975 Points: 4 # Comments: 1"
+    "Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 3 # Comments: 0"
    ],
    "source": "Hacker News",
-   "url": "https://blog.cip.org/p/ai-models-know-what-women-peace-and",
+   "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
    "image": null,
-   "published_at": "2026-11-12T17:32:49Z",
+   "published_at": "2026-11-12T23:06:17Z",
    "category": "tech",
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/"
+    }
+   ]
+  },
+  {
+   "id": "e58ef6dc8ab53d452524ee012b2a575842e3489d",
+   "title": "Washington DC shooting: police identify victim and suspect – as it happened",
+   "summary": [
+    "This blog is now closed.",
+    "You can read our full report here:Police identify suspect and victim in Washington DC shootingThe incident is shifting from an active shooter response to a barricaded subject response, a federal law enforcement official has told NBC News.It is believed there is no other individual there at scene so this is not considered a hostage situation, they said, adding that it has been about 90 minutes since the suspect fired at law enforcement, which did not strike anyone."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates",
+   "image": "https://i.guim.co.uk/img/media/3cd3120cd9fb92c56aa9f2a63c7334b6ff87b8ca/973_285_3896_3116/master/3896.jpg?width=140&quality=85&auto=format&fit=max&s=24a749709717c530d96cc97f1bb4c549",
+   "published_at": "2026-11-12T22:54:05Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "77c871299b2b22a8640d2fcf30a4c9c0bd34eac4",
+   "title": "Cindy Holscher wins in Kansas, holding governor's office for Democrats",
+   "summary": [
+    "Holscher, a state senator, overcame a more well-known Republican who had Trump's endorsement in the state that has gone to the GOP in most other statewide races.(Image credit: Jim Vondruska)"
+   ],
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/12/g-s1-151187/holscher-kansas-masterson-governor-midterms",
+   "image": null,
+   "published_at": "2026-11-12T22:52:49Z",
+   "category": "world",
    "related": []
   },
   {
@@ -491,8 +249,113 @@
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-12T17:32:14Z",
+   "published_at": "2026-11-12T22:51:18Z",
    "category": "business",
+   "related": []
+  },
+  {
+   "id": "3e3edbb24ebcbf3216534e2c3555a35a9046580e",
+   "title": "Flood victim, 95, lived in Wetherspoons after her home was destroyed and died before she could return",
+   "summary": [
+    "Jean Powell kept asking when she could go back to her flat, which was flooded when the River Monnow burst its banks."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqe8r8ngjepjo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-12T22:49:48Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "ff73919a010f056ca1e42fbbdf4c0b7e91c3589b",
+   "title": "How many sewage spills have happened in your part of Scotland?",
+   "summary": [
+    "More than 76,000 sewage spills were recorded at overflow sites previously unmonitored by Scottish Water, BBC Scotland News analysis has found."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c0re545l8jdo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-12T22:48:55Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "6bfbffd60088c171c10647085d6b5787a450b6e5",
+   "title": "What's a Honey Trap? The spy tactic that helped topple Jensen Huang",
+   "summary": [
+    "Jensen Huang, CEO of Nvidia, the leading AI chipmaker, resigned after admitting an extramarital affair with a woman the U.S. says is a Chinese spy.",
+    "This espionage tactic is known as a honey trap.(Image credit: CTI via Reuters)"
+   ],
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/12/nx-s1-6039266/jensen-huang-china-honey-trap-nvidia-spies-sex-alice-huang",
+   "image": null,
+   "published_at": "2026-11-12T22:45:40Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "4e2810e47ea31ac4ac0bf8aa57ce19d4a8fb2dd3",
+   "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+   "summary": [
+    "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+   "image": null,
+   "published_at": "2026-11-12T22:42:51Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "3947101c284647b7d42ea5fa31bb22eacb44fd35",
+   "title": "Gauff saves three set points to beat Kostyuk and keep WTA Finals hopes alive",
+   "summary": [
+    "If fifth-ranked compatriot Jessica Pegula beats Wimbledon champion Linda Noskova in Thursday’s final group match, Pegula will advance instead."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/2026/nov/12/coco-gauff-marta-kostyuk-wta-finals-comeback-indian-wells",
+   "image": "https://i.guim.co.uk/img/media/e0ef03f01e3b04fab8ead51186eec5403d44189e/576_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=44e4d70777fa31bc8b959672a264ba29",
+   "published_at": "2026-11-12T22:40:15Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "0b3b24508408518e3971753eeae3eaf44c56e9a5",
+   "title": "Donald Trump Jr exits as paid adviser for prediction market Kalshi",
+   "summary": [
+    "Kalshi announces ‘mutual decision’ as Democrats say they plan to investigate Trump family’s investmentsDonald Trump Jr is no longer a paid adviser for Kalshi, the prediction market company said Thursday.Kalshi described it as a mutual business decision between the two parties that followed a decision by Trump Jr’s investment firm, 1789 Capital, to increase its investment in Kalshi’s biggest competitor Polymarket."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/12/donald-trump-jr-kalshi",
+   "image": "https://i.guim.co.uk/img/media/fecab90a765cf55f40ec50915850e69dd58cd4f3/258_0_2583_2067/master/2583.jpg?width=140&quality=85&auto=format&fit=max&s=2090aaa5542c00d2e26964dbd1368aeb",
+   "published_at": "2026-11-12T22:37:10Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "71e9540882f026317957ff3d1d02ee5c751ae84b",
+   "title": "Nations League: Italy roar back to beat France despite Donnarumma’s early howler",
+   "summary": [
+    "Loss is Zinedine Zidane’s first as France head coachSpain beat Czechia 2-0 to maintain 100% recordPio Esposito struck twice to inflict a first defeat on Zinedine Zidane as France head coach as Italy stormed back to win 3-1 at San Siro and go top of their Nations League group.Michael Olise profited on a Gianluigi Donnarumma error to put the visitors in front after 10 minutes, but Italy hit back through Esposito and Davide Frattesi either side of half-time."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/12/nations-league-italy-france-spain-czechia",
+   "image": "https://i.guim.co.uk/img/media/c383c8cbd033340ae1748689f545ed72e3b44160/358_191_2558_2046/master/2558.jpg?width=140&quality=85&auto=format&fit=max&s=cef73d375bed89d81e3ac9dc23e9077a",
+   "published_at": "2026-11-12T22:31:35Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "492f247713f1aaa1ba771270ef7268fa41152cd3",
+   "title": "Gauff battles through back injury to keep WTA Finals hopes alive",
+   "summary": [
+    "Coco Gauff shows all of her battling qualities as she fights through a back injury to beat Marta Kostyuk and keep her WTA Finals last-four hopes alive."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/tennis/articles/c57429mgdkjdo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-12T22:27:18Z",
+   "category": "sports",
    "related": []
   },
   {
@@ -504,252 +367,395 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink",
    "image": "https://i.guim.co.uk/img/media/00948ad10d38976117c45566fb6a392bcf3bb3b5/197_0_3730_2984/master/3730.jpg?width=140&quality=85&auto=format&fit=max&s=bc24ba4c55bc400bf67c2fe746d0ae70",
-   "published_at": "2026-11-12T17:26:51Z",
+   "published_at": "2026-11-12T22:26:37Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "ee127c5fac608d13209b7dcf9137a28771832a74",
-   "title": "Home sales hit 16-year low in October amid record-high mortgage rates",
+   "id": "82d9be95873a98db32324a716f57b9fb3190042c",
+   "title": "Muse can now place calls to US businesses — if you pay",
    "summary": [
-    "The median existing-home sales price increased slightly to $416,700.",
-    "Declines in sales were seen in the midwest, south and west, though sales in the north-east held steady."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low",
-   "image": "https://i.guim.co.uk/img/media/861fa365835f36d65c4fe3a0adf09f6b63ba43ad/142_0_2344_1875/master/2344.jpg?width=140&quality=85&auto=format&fit=max&s=8773e098930ce08aa711f613f70b46b6",
-   "published_at": "2026-11-12T17:26:07Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "5d28f42a8c5bce4d838fe59bcede8f11bcfe807b",
-   "title": "Nvidia CEO Jensen Huang steps down, more affair details revealed",
-   "summary": [
-    "Now that Huang has stepped down, Al Jazeera’s Kristen Saloomey looks at the questions ahead for the company."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/nvidia-ceo-jensen-huang-steps-down-more-affair-details-revealed?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-12T17:25:58Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "56c77ec0b3973fbcd564597aca6b2612ac3c01f2",
-   "title": "Lawes recovering after hospital stay with infection",
-   "summary": [
-    "Courtney Lawes says he spent 10 days in hospital after doctors found his infection markers were \"through the roof\" as he battled a serious illness."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cjn50zrl5de7o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-12T17:25:27Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "0752b83f5acd1887d46329faeb7328f7e411192b",
-   "title": "Finland bars Russian athletes from entering country over Ukraine war",
-   "summary": [
-    "Russians ‘have no business’ in country, says ministerSkating and cross-country skiing first to be affectedFinland says it will restrict entry to the country for Russian athletes because of the war in Ukraine, potentially affecting a number of winter sports.",
-    "The same is true of other short-term work under visas that is not essential to Finland’s national interests.” Continue reading..."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/sport/2026/nov/12/finland-bars-russian-athletes-ukraine",
-   "image": "https://i.guim.co.uk/img/media/9a8435863086321dd69a7b563f7fbd1db3560fbb/407_0_4883_3907/master/4883.jpg?width=140&quality=85&auto=format&fit=max&s=8e74da99d9686e4e07e045c6a2df9595",
-   "published_at": "2026-11-12T17:23:51Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "359d6b58026b3f2d2491386abdd008d99b27e37d",
-   "title": "Paths in Pieces",
-   "summary": [
-    "Article URL: https://stoppels.ch/2026/11/12/paths-in-pieces.html Comments URL: https://news.ycombinator.com/item?id=50470762 Points: 6 # Comments: 0"
-   ],
-   "source": "Hacker News",
-   "url": "https://stoppels.ch/2026/11/12/paths-in-pieces.html",
-   "image": null,
-   "published_at": "2026-11-12T17:19:39Z",
-   "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "https://ipo.anthropic.com/us/"
-    }
-   ]
-  },
-  {
-   "id": "a7df7c4a0ef64706a3bd9922cf399b11ac8579df",
-   "title": "‘Her hands are as cold as ice’: Gaza families struggle to keep warm",
-   "summary": [
-    "Flooded tents and high prices leave Gaza families struggling to keep children warm as winter approaches."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/features/2026/11/12/her-hands-are-as-cold-as-ice-gaza-families-struggle-to-keep-warm?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-12T17:18:13Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "322f998ba4d6dbd271412d3750c4eada2c002501",
-   "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-   "summary": [
-    "The airline said it will not allow customers to use AI agents to book flights and manage reservations."
+    "Muse's AI can now place outbound calls to U.S. businesses — but it's not free."
    ],
    "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+   "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
    "image": null,
-   "published_at": "2026-11-12T17:17:58Z",
+   "published_at": "2026-11-12T22:22:28Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "6703ae356b8031fda90ef22fb10f082085805f14",
-   "title": "New talks with Russia, Ukraine and European countries agreed, US says - as it happened",
+   "id": "2714c90369b5afa8c7abb800c76f2a4959c158f3",
+   "title": "Icac’s dirt files expose NSW’s ‘guns for hire’ problem. But neither major party is serious about lobbying reform",
    "summary": [
-    "This blog is now closedLuxembourg’s PM Luc Frieden looks to be absolutely chuffed to be representing all three Benelux countries at today’s summit, as his Belgian and Dutch colleagues are too busy to attend as they face domestic crises.“I have the privilege of representing 30 millions citizens today,” he said on arrival to Dublin, with a massive smile on his face."
+    "Chris Minns’s move to address the threat of undeclared lobbying falls well short of what the commission recommended five years agoGet our daily political email, free app or daily news podcastA dirt file on a state minister peddled to journalists.",
+    "A subterranean campaign to discredit the building commissioner."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
-   "image": "https://i.guim.co.uk/img/media/00948ad10d38976117c45566fb6a392bcf3bb3b5/244_0_3730_2984/master/3730.jpg?width=140&quality=85&auto=format&fit=max&s=5ac4c094a40b85e9e714901ec4cc5c82",
-   "published_at": "2026-11-12T17:17:55Z",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/13/icac-chris-minns-nsw-undeclared-lobbying-bill-ntwnfb",
+   "image": "https://i.guim.co.uk/img/media/cbb577c399c0993101f20d08d1df77d73e9c3275/2537_1001_2478_1983/master/2478.jpg?width=140&quality=85&auto=format&fit=max&s=7b7dafb167d3a2278aefabf59d31e573",
+   "published_at": "2026-11-12T22:21:26Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "23a77f85433c266ddc19f090340a3d3eeb002cbd",
-   "title": "How Kobe, LeBron, Steph and Brady are helping Jayden Daniels chase greatness",
+   "id": "5ebc1d2fa73d7de45fffb9ce770e17503e505685",
+   "title": "Dozens of protesters arrested after staging sit-in at Chuck Schumer’s DC office",
    "summary": [
-    "The Commanders QB has tapped into some of sports' all-time greats like Brady and LeBron in search of an edge."
+    "On its Instagram, the group is fundraising $24,000 to cover the bail fees and any potential legal fees for those arrested."
    ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nfl/story/_/id/50453988/kobe-lebron-steph-brady-tips-commanders-jayden-daniels",
-   "image": null,
-   "published_at": "2026-11-12T17:17:14Z",
-   "category": "sports",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/12/protesters-arrested-chuck-schumer-office-dc",
+   "image": "https://i.guim.co.uk/img/media/942fdb9a8059fd8839e15d4ff3c0a78e1cc887d3/451_0_4491_3592/master/4491.jpg?width=140&quality=85&auto=format&fit=max&s=416bd9522227a71dbc3bb6697944afa6",
+   "published_at": "2026-11-12T22:12:56Z",
+   "category": "world",
    "related": []
   },
   {
-   "id": "f55a38acee32a159881e8244e4111145504c6ff2",
-   "title": "Inside the physical and mental toll of Malik Nabers' knee injury",
+   "id": "d3a5a83f744995571e407ca7c8709cee7efd07ee",
+   "title": "Italy fight back to beat France 3-1 and move top of Nations League group",
    "summary": [
-    "Giants star wide receiver Malik Nabers opens up about his rehab experience for the first time."
+    "Michael Olise gives France the lead, but double from Pio Esposito and one from Davide Frattesi secure win for Italy."
    ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nfl/story/_/id/50454087/inside-physical-mental-toll-malik-nabers-knee-injury",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/11/12/italy-fight-back-to-beat-france-3-1-and-move-top-of-nations-league-group?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-12T17:17:14Z",
-   "category": "sports",
+   "published_at": "2026-11-12T22:12:32Z",
+   "category": "world",
    "related": []
   },
   {
-   "id": "4358e5ff1119ddaf52c1a07082cc4c4fd02e3eeb",
-   "title": "Palace sack Sage after 16 games with Frank in advanced talks",
+   "id": "075afd7d466e1a6d1bb9df96ae1fefc876352bec",
+   "title": "Grealish apologises for absence after breach of discipline",
    "summary": [
-    "Crystal Palace have sacked manager Pierre Sage after 16 games in charge and the club bottom of the table."
+    "Jack Grealish issues an apology to Everton fans for his recent absence due to a disciplinary issue."
    ],
    "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cv5y18lkk87do?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cr3wgp8e2ljxo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-12T17:15:20Z",
+   "published_at": "2026-11-12T22:10:13Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "aa1fb91bd2147af0ddbbec408e18783c36266b2c",
-   "title": "Local fund to replace Pip for some young disabled people under Milburn plans",
+   "id": "be5dfe3c3c716feb6335e79e127fc37135113f3a",
+   "title": "Where does Kane rank among all-time England greats?",
    "summary": [
-    "Exclusive: Former health secretary says he wants to ‘tear up the old approach’, with under-25s to lose personal independence paymentsUK politics live – latest updatesSome young people with disabilities will lose their personal independence payments and will have to apply instead to a local fund for short-term expenses and equipment, Alan Milburn’s review will recommend.While those with the most severe needs’ entitlement will be protected, others will be asked to apply for money for specific purposes rather than an ongoing payment."
+    "Harry Kane is England's all-time top scorer and record appearance maker, but where does he rank among the Three Lions' greatest players?"
    ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/12/local-fund-pip-personal-independence-payments-young-disabled-people-milburn",
-   "image": "https://i.guim.co.uk/img/media/61785efa43a9a7250b2d43d3918c53814ed1a016/1175_211_4289_3432/master/4289.jpg?width=140&quality=85&auto=format&fit=max&s=68d18d6ff8087e54f4fa62204ed3ea4a",
-   "published_at": "2026-11-12T17:14:34Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "68db99753eb8a865e3fb1b6d767992f62a7ab1cf",
-   "title": "Democrats want to stop Trump's arch, golf course and more. What are their options?",
-   "summary": [
-    "As Trump's arch and other projects make their way through the courts, many critics are looking to Congress to stop them.",
-    "Democrats have a few tools, including funding and oversight.(Image credit: Andrew Harnik)"
-   ],
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/12/nx-s1-6034539/democrats-congress-trump-arch-ballroom-funding-oversight",
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cxj0lvqpn94qo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-12T17:13:54Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "7ee65d1ae7eb3dea8cc27273a0d893505aa6f041",
-   "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
-   "summary": [
-    "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-12T17:11:48Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "e05f62448c0dc0a60dfca0d10ad2af5eecb9fc5d",
-   "title": "Carrick sacked by Manchester United with team in Premier League relegation zone – as it happened",
-   "summary": [
-    "It’s that the Glazer ownership and Ratcliffe mismanagement has met the Man City revelations, meaning it’s hard to see the point anymore. £1bn taken out of the club while others were illicitly pumping in roughly the same.",
-    "A club drained of life, hollowed out … I can take crap football, but I can’t take this anymore.” Continue reading..."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/live/2026/nov/12/carrick-sacked-by-manchester-united-with-team-in-premier-league-relegation-zone-live",
-   "image": "https://i.guim.co.uk/img/media/ab2b27d8c1ed5ef6b208cae9b564664d04276e82/597_0_3648_2918/master/3648.jpg?width=140&quality=85&auto=format&fit=max&s=00fec4dadfc6b68eda3573ed3938418f",
-   "published_at": "2026-11-12T17:04:29Z",
+   "published_at": "2026-11-12T22:09:59Z",
    "category": "sports",
+   "related": []
+  },
+  {
+   "id": "d53a88383be04f3ee4e0213d7774ff926927d285",
+   "title": "Angela Rayner grants planning approval for asylum centre in Piddington despite local opposition",
+   "summary": [
+    "The Home Office insists that final approval is still to be determined."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/12/angela-rayner-grants-planning-approval-for-asylum-centre-in-piddington-despite-local-opposition",
+   "image": "https://i.guim.co.uk/img/media/695a6431fe2e7b78ffe681e171e15126f6ac3fee/195_0_4120_3296/master/4120.jpg?width=140&quality=85&auto=format&fit=max&s=7a09d81463e9956089fed7aa4a265ae7",
+   "published_at": "2026-11-12T22:09:20Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "bfccd93fffca2a58755c41870cb1d34a279ff35b",
+   "title": "England 2-1 Croatia: Nations League – as it happened",
+   "summary": [
+    "He won 62 caps and never got to go to the World Cup or Euros finals” – Roger Kirkby“In the non-Kane-focused-Croatian World of Sport, does Modric’s pine-based residency mean he carried the can for that thing that happened last time?",
+    "Is he now being shown a Ronaldo-shaped door (the other one)?",
+    "Is there a ‘Modrić van’ waiting for him every time he is picked?” – Ian CopestakeShilton Walker/Moore/Wright/Cole Beckham/Lampard/Gerrard/Charlton Rooney/Kane Continue reading..."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/live/2026/nov/12/england-v-croatia-nations-league-live",
+   "image": "https://i.guim.co.uk/img/media/55e16f33bcb73c52dfb10c8de376b74c1ffbfca9/643_365_3304_2644/master/3304.jpg?width=140&quality=85&auto=format&fit=max&s=49977e99e330bf524fbdd78efa2e9f83",
+   "published_at": "2026-11-12T22:05:41Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "1823e2dd13e5606602420277090f3d074efe7a7c",
+   "title": "Jensen Huang resigns as Nvidia CEO after alleged affairs",
+   "summary": [
+    "Move follows admission of affair with woman alleged to be Chinese spy and reported relationships with two employeesFrom washing dishes at Denny’s to rockstar of AI: the rise and fall of Jensen HuangJensen Huang has resigned as chief executive of Nvidia after reports of extramarital affairs with an alleged Chinese spy and two company employees.He will be replaced on an interim basis by Nvidia’s chief financial officer, Colette Kress, until a full-time successor is named."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns",
+   "image": "https://i.guim.co.uk/img/media/ea4b16af123a28b8935ff59fcbece2e5f6e92878/728_0_7212_5768/master/7212.jpg?width=140&quality=85&auto=format&fit=max&s=0bffdc317e7389b79d2db7be06881297",
+   "published_at": "2026-11-12T22:05:28Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ce619eba8b16aa70368067278505b699fc3ba83f",
+   "title": "‘Win-win’ deal with EU could be done, Andy Burnham says",
+   "summary": [
+    "Prime minister says reset could be a deal ‘like the Brexit people thought they were voting for in 2016’ Andy Burnham has said he believes a “win-win” deal could be done with the EU that could be “more like the Brexit that people thought they were voting for in 2016”.The prime minister was meeting fellow leaders at the European Political Community summit in Dublin, ahead of a keenly anticipated EU-UK summit next week, where he hopes to bring Britain closer to Europe."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/nov/12/win-win-deal-with-eu-could-be-done-andy-burmham-says",
+   "image": "https://i.guim.co.uk/img/media/784c2ab8d8cdd24c117ad4f5a75d285bddf0cfd9/104_0_5005_4005/master/5005.jpg?width=140&quality=85&auto=format&fit=max&s=bf05b73ded2c763db5607dc9bf20f5df",
+   "published_at": "2026-11-12T22:01:39Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "0fa281e47ede82d97f53ad9bf939fe26d74ee567",
+   "title": "China rules out hosting Cop33 climate summit in 2028",
+   "summary": [
+    "Decision disappoints experts hoping for world’s biggest emitter to take global lead on climate crisis China has ruled out hosting the Cop33 UN climate summit in 2028 after months of deliberations, leaving the field open for other Asian countries to hold it, the Guardian understands.The decision will disappoint many countries and climate experts, who had hoped the world’s biggest emitter would take the lead on the global stage, as the US under Donald Trump has vacated all forms of international cooperation on the climate."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/2026/nov/12/china-rules-out-hosting-cop33-climate-summit-in-2028",
+   "image": "https://i.guim.co.uk/img/media/c7b136d2475d3ac3bc94cab995eba54be9fcea9e/782_0_2649_2120/master/2649.jpg?width=140&quality=85&auto=format&fit=max&s=aeb492efabe8be00bf1521c3e0871063",
+   "published_at": "2026-11-12T22:00:15Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "2ee65e3dbcd8b0f552f13172be24aef584402daa",
+   "title": "Harry Kane spot on to seal England win over Croatia on his record-breaking night",
+   "summary": [
+    "It was an historic occasion for Harry Kane, the one when he made his 126th England appearance and overtook Peter Shilton as the nation’s most capped men’s player.",
+    "And for much of the night, it felt as though the desire to celebrate him, certainly beforehand, was the main thing.",
+    "The actual football in this Nations League group game felt like a sideshow.England had demolished Croatia 7-0 in Rijeka last month; it was Croatia’s heaviest defeat."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/12/england-croatia-nations-league-match-report",
+   "image": "https://i.guim.co.uk/img/media/c44bfd8b33945e48111834cffbbb8c102988bbca/46_301_2600_2081/master/2600.jpg?width=140&quality=85&auto=format&fit=max&s=51d1429f17fab9716769b13cb50836a9",
+   "published_at": "2026-11-12T21:58:39Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "d096a8a420fb437e10c51748b8fbc6d521e41077",
+   "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+   "summary": [
+    "Article URL: https://unemploymentlabs.com/checkpoint-forensics Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 102 # Comments: 24"
+   ],
+   "source": "Hacker News",
+   "url": "https://unemploymentlabs.com/checkpoint-forensics",
+   "image": null,
+   "published_at": "2026-11-12T21:56:11Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "388c180a1aeca5f9ee417d3c29a472ee8fc82717",
+   "title": "Microsoft begins restoring services amid global outage affecting Outlook and Teams",
+   "summary": [
+    "Streamlined recovery process under way, company says, after nearly 130,000 users worldwide reported access issuesMicrosoft says a portion of servers are returning to service, and a streamlined recovery process is under way to end a global outage that has resulted in nearly 130,000 users worldwide reporting issues accessing its 365 suite of software, including Outlook and Teams.Outage website Down Detector showed a spike in Microsoft 365 problems, with nearly 130,000 reports of issues affecting access to Word, Excel, PowerPoint, Outlook and Teams as well as enterprise services such as SharePoint and OneDrive.",
+    "AI assistant Copilot was also affected."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+   "image": "https://i.guim.co.uk/img/media/f39d9eba31016399e4c01fd145c5dd223dd145d6/334_0_3332_2666/master/3332.jpg?width=140&quality=85&auto=format&fit=max&s=3f02f0541713f8ee8f347b659bf6577d",
+   "published_at": "2026-11-12T21:51:47Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "cd0482225cf30c03ab7fedf19a5c3ffb2ff7f6c9",
+   "title": "Gritty Arsenal show different side in Barcelona draw",
+   "summary": [
+    "Could a resilient draw against European champions Barcelona be a turning point in Arsenal's season?"
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cqe85vym242jo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-12T21:50:59Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "cad60ecb4b773edbc21c1323e8450319eb0a7ce9",
+   "title": "Kane scores winner but who else made an impression? England player ratings",
+   "summary": [
+    "How did England's players fare in the Nations League match against Croatia?",
+    "Senior football correspondent Sami Mokbel gives his verdict."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c64gnd7vd912o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-12T21:47:36Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "ef98f01e800c5260e2f5ffb348426115c5535c44",
+   "title": "The unfolding Jensen Huang scandal: a timeline",
+   "summary": [
+    "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+   "image": null,
+   "published_at": "2026-11-12T21:35:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "bee007a93fb5d18c7e3b48b6ffc9ee7c82e3092b",
+   "title": "Nvidia turmoil continues as Jensen Huang resigns over affairs scandal and company appoints interim CEO – as it happened",
+   "summary": [
+    "This live blog is now closed.Analysis: Jensen Huang built an AI kingdom.",
+    "What now?Full report: Jensen Huang resigns as Nvidia CEOToo big – and too well-connected – to sack?",
+    "Huang does not enjoy the supercharged voting rights that are par for the course elsewhere – his shareholding is a plain vanilla 3.6%."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+   "image": "https://i.guim.co.uk/img/media/ee87aa39a5285390ddbdaa26b7ca3472a48da292/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=521ae24e36f8fdf4fa3ee96fe310946d",
+   "published_at": "2026-11-12T21:33:08Z",
+   "category": "business",
    "related": []
   },
   {
    "id": "30422336e57e781b64d867d380ada8bcea21856c",
    "title": "Ghana kick-start Afcon 2027 bid despite Ayew penalty miss",
    "summary": [
-    "Jordan Ayew has a first-half penalty saved as Ghana secure a comfortable 2-0 home win over Somalia to kick-start their Afcon 2027 qualifying campaign."
+    "Ghana kick-start their Afcon 2027 qualifying campaign despite Jordan Ayew having a penalty saved, while Cameroon, Ivory Coast and Senegal register wins."
    ],
    "source": "BBC Sport",
    "url": "https://www.bbc.co.uk/sport/football/articles/c61md0mldvdgo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-12T17:02:10Z",
+   "published_at": "2026-11-12T21:28:06Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "ca80552a275a93361e3110438781ad16c38738cd",
-   "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+   "id": "420e71e405cc074e8b9524f46abcbbdc5c41b3c8",
+   "title": "Search for British woman missing from Tui cruise in Atlantic called off",
    "summary": [
-    "SoftBank lost over $3 billion pre-ordering natural gas turbines to power AI data centers.",
-    "Here's what the loss means to power markets."
+    "The 72-year-old is believed to have gone overboard from the Tui ship on Monday as it headed towards the Caribbean."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-12T21:27:21Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "fc0f425d4885ad33be2ec480d529b1ec2bbfb9ff",
+   "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+   "summary": [
+    "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model."
    ],
    "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
+   "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
    "image": null,
-   "published_at": "2026-11-12T17:00:52Z",
+   "published_at": "2026-11-12T21:27:10Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "0cefd18c08c5c4ac896265d27491d9e4a4c30b6f",
-   "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+   "id": "321ec136fc36b15719f2b160c652fb9e57f6b5f2",
+   "title": "Deadly shooting in Washington DC",
    "summary": [
-    "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos."
+    "Police in the US capital are investigating a shooting around a mile from the White House that led to one person killed"
    ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/deadly-shooting-in-washington-dc?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-12T17:00:00Z",
+   "published_at": "2026-11-12T21:18:24Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "e81e0f1ba07b09b632d21f73b6e36004a47f5381",
+   "title": "SFA in talks with Boston officials over biennial friendly match",
+   "summary": [
+    "Discussions take place between Scottish football governing's body and a delegation of state senators to build on bonds forged during the World Cup."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/news/articles/cqdr1jd5mpp5o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-12T21:16:56Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "12bcfed1b6d0557fb82c925e283773cea3e215b8",
+   "title": "Man Utd & Man City in Gusto battle - Friday's gossip",
+   "summary": [
+    "Manchester United and Manchester City are going head-to-head for Chelsea defender Malo Gusto and Leeds United pursue Will Lankshear, plus more."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cmp86enlly13o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-12T21:13:59Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "1dba3a3e5ab0c862de07b98f6843cf5fab3f173f",
+   "title": "Foundation Models framework",
+   "summary": [
+    "Article URL: https://developer.apple.com/foundation-models-framework/ Comments URL: https://news.ycombinator.com/item?id=50474361 Points: 93 # Comments: 12"
+   ],
+   "source": "Hacker News",
+   "url": "https://developer.apple.com/foundation-models-framework/",
+   "image": null,
+   "published_at": "2026-11-12T21:13:26Z",
    "category": "tech",
+   "related": []
+  },
+  {
+   "id": "10ab378046426eab295e78f6f9528bddbe6532d9",
+   "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+   "summary": [
+    "Article URL: https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html Comments URL: https://news.ycombinator.com/item?id=50474311 Points: 59 # Comments: 58"
+   ],
+   "source": "Hacker News",
+   "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+   "image": null,
+   "published_at": "2026-11-12T21:09:49Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "c152beec53dfcb8744a4b3ee7fa2228cf488c2f0",
+   "title": "Microsoft outage hits tens of thousands of users",
+   "summary": [
+    "Microsoft says servers unexpectedly went offline, disrupting Outlook email, Teams, Copilot and other services."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/12/microsoft-outage-hits-tens-of-thousands-of-users?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-12T21:03:09Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "bfc79de3c35c353dce14dd542083fc9d316524e2",
+   "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
+   "summary": [
+    "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-12T21:00:42Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "0752b83f5acd1887d46329faeb7328f7e411192b",
+   "title": "Norway follows Finland in barring Russian athletes from entering country over Ukraine war",
+   "summary": [
+    "Move by Norway ‘a further tightening’ of current rulesRussians ‘have no business’ in Finland, says ministerNorway’s government announced that it would prevent Russian and Belarusian professional athletes from coming to Norway to compete, hours after neighbouring Finland announced a similar move.The government said it intended to prevent athletes from these countries coming to Norway as long as the war in Ukraine continues.",
+    "In a statement, it noted that while Norway already had strict rules for visas for Russian and Belarusian citizens, recent “relaxations introduced by international sports federations” meant that more athletes and support staff from the two countries may come to the Scandinavian nation to compete."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/2026/nov/12/finland-bars-russian-athletes-ukraine",
+   "image": "https://i.guim.co.uk/img/media/5f218e51631345e11985a307bd897497ea95ea56/923_290_3028_2422/master/3028.jpg?width=140&quality=85&auto=format&fit=max&s=7b66a3012c3bc82d0fa6986375b1d0d6",
+   "published_at": "2026-11-12T21:00:12Z",
+   "category": "world",
    "related": []
   },
   {
@@ -761,72 +767,61 @@
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/sounds/play/w3ct978l?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-12T17:00:00Z",
+   "published_at": "2026-11-12T21:00:00Z",
    "category": "science",
    "related": []
   },
   {
-   "id": "98be2f67e679f7ff8caf8de50e88861c551240f9",
-   "title": "AWS Lambda Web Functions keep billing memory ~7 minutes after the last request",
+   "id": "f7454ff2a249c1718f2e62c208d62bcb2bb59b7c",
+   "title": "Pope Leo calls for Church to make ‘amends’ to sex abuse victims",
    "summary": [
-    "Article URL: https://www.easel.sh/blog/lambda-web-functions-idle-memory Comments URL: https://news.ycombinator.com/item?id=50470445 Points: 24 # Comments: 9"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.easel.sh/blog/lambda-web-functions-idle-memory",
-   "image": null,
-   "published_at": "2026-11-12T16:59:26Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "97e4a658839a16f18dc458c1a3ee11a3d631e9fb",
-   "title": "Buzz: Still have trade deadline adrenaline? Check out these 12 players in fantasy",
-   "summary": [
-    "The NFL trade deadline might be over, but fantasy managers should still consider trading for these players."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-   "image": null,
-   "published_at": "2026-11-12T16:59:10Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "4434d8f82f00f0545b4de86a7f6e0ed2fc01511e",
-   "title": "The Playbook: Shadow Reports, lineup locks and projected scores for Week 10",
-   "summary": [
-    "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/fantasy/football/story/_/id/50433086/fantasy-playbook-projections-lineup-locks-week-10-shadow",
-   "image": null,
-   "published_at": "2026-11-12T16:59:09Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "1823e2dd13e5606602420277090f3d074efe7a7c",
-   "title": "Jensen Huang resigns as Nvidia CEO after alleged affairs",
-   "summary": [
-    "Move follows admission of affair with woman alleged to be Chinese spy and reported relationship with employeeBusiness live – latest updatesFrom washing dishes at Denny’s to rockstar of AI: the rise and fall of Jensen HuangJensen Huang has resigned as chief executive of Nvidia after reports of extramarital affairs with an alleged Chinese spy and a company employee.He will be replaced on an interim basis by Nvidia’s chief financial officer, Colette Kress, until a full-time successor is named."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns",
-   "image": "https://i.guim.co.uk/img/media/ea4b16af123a28b8935ff59fcbece2e5f6e92878/728_0_7212_5768/master/7212.jpg?width=140&quality=85&auto=format&fit=max&s=0bffdc317e7389b79d2db7be06881297",
-   "published_at": "2026-11-12T16:57:34Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "fe76bd9a3a2e63d613659b8ca152f59d14eb9368",
-   "title": "Jerusalem Daily: Gaza’s Nasser Hospital hit by Israeli air strike",
-   "summary": [
-    "For the seventh time, Israel has targeted Gaza’s Nasser Hospital in an air strike."
+    "Pope Leo XIV says the Catholic Church must confront sexual abuse committed by clergy with truth and justice."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/jerusalem-daily-gazas-nasser-hospital-hit-by-israeli-air-strike?traffic_source=rss",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/pope-leo-calls-for-church-to-make-amends-to-sex-abuse-victims?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-12T16:55:10Z",
+   "published_at": "2026-11-12T20:59:53Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "8686ec50a7cc1b899ec1c22619ecb5c833571e0a",
+   "title": "Leeds woman, 18, admits knife murder of 16-year-old love rival",
+   "summary": [
+    "Kayla Smith stabbed Chloe Watson Dransfield to death during planned fight over young manAn 18-year-old woman who stabbed a teenage girl to death during a planned fight over a young man has pleaded guilty to murder.Chloe Watson Dransfield, 16, was attacked by Kayla Smith, 18, after going to the latter’s home with her boyfriend Blake Dowling in Leeds, West Yorkshire, a court heard."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/12/woman-18-admits-murdering-girl-16-in-leeds",
+   "image": "https://i.guim.co.uk/img/media/b4acac1601b9f710431ded13966983fd4bbb8c0b/0_164_1170_935/master/1170.jpg?width=140&quality=85&auto=format&fit=max&s=7aacb82c58148d1f8eb11fde4b7fbe66",
+   "published_at": "2026-11-12T20:57:07Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "6584b70895a7be5eeff3e9f643fbd7c1b9e7c65f",
+   "title": "Show HN: Cerulion – ROS 2-compatible robotics runtime with multi-process replay",
+   "summary": [
+    "These fast multi-process graphs can then be resimmed deterministically, and existing ROS2 nodes/launch files can run unmodified alongside native Cerulion Rust/Python code.",
+    "Installation and quickstart (with a one-shot prompt for your favorite coding agent) here at the repo README: https://github.com/cerulion-inc/cerulionI worked on off-road autonomy during my PhD at MIT, and we kept running into inter-process latency in ROS (2 lidars and 6 cameras).",
+    "Wall-clock reads and runtime thread spawns in user code rejected at compile time by macros.ROS 2 is supported with rmw_cerulion for Foxy, Humble, Jazzy and Lyrical, that lets you run ROS2 nodes/launch files unmodified in the same graph as native Cerulion nodes."
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/cerulion-inc/cerulion",
+   "image": null,
+   "published_at": "2026-11-12T20:53:04Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "fe9d8594b7dfbc7336d691e0180b0d554810bf6a",
+   "title": "US releases report on $12bn from Venezuelan oil, mineral resources",
+   "summary": [
+    "The report seeks to address concerns about the Trump administration's handling of revenue held in trust for Venezuela."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/12/us-releases-report-on-12bn-from-venezuelan-oil-mineral-resources?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-12T20:49:36Z",
    "category": "world",
    "related": []
   }

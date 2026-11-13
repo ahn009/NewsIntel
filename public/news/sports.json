@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-12T18:10:29.418689Z",
+ "generated_at": "2026-11-13T00:09:42.122161Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
-  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/home": "ok",
+  "https://www.dawn.com/feeds/pakistan": "ok",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,19 +20,380 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "ok"
+  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
   {
-   "id": "7b946635b6801bcd868aa30df3e0ca78819f6c9a",
-   "title": "The oldest grudge in football",
+   "id": "ae62eb39a01d71410afcbbe690d074512c906153",
+   "title": "Police decide not to charge Sydney Swans players over incident in Melbourne hotel",
    "summary": [
-    "When Texas Tech and its brash benefactor bought their way into the college football big time, they were settling an old West Texas score."
+    "Heeney, Warner, Blakey and Jordon had been under investigationQuartet among five Swans suspended by club in AugustVictoria police have decided not to charge four Sydney Swans players who were under investigation over an alleged sexual assault at a Melbourne hotel earlier this year.Sydney vice-captain Isaac Heeney as well as James Jordon, Chad Warner and Nick Blakey – the latter now a North Melbourne player – are understood to have assisted police with their investigation but will have no further case to answer."
    ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/college-football/story/_/id/50427039/texas-tech-puf-cody-campbell",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/2026/nov/13/sydney-swans-players-no-charges-alleged-hotel-incident-ntwnfb",
+   "image": "https://i.guim.co.uk/img/media/01f2572b08f35896b320ac49fac2b523f1ea570f/889_1437_3203_2562/master/3203.jpg?width=140&quality=85&auto=format&fit=max&s=31658e76b64ad5c4f6ddbf38b309fc3a",
+   "published_at": "2026-11-12T23:51:23Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "d2ed64d26f67dc6c61827fcdc7148751fcecb4f4",
+   "title": "'Wrong' and 'nonsense' - Cummins on Khawaja sandpaper claims",
+   "summary": [
+    "Australia captain Pat Cummins hits back at former team-mate Usman Khawaja’s claims over the sandpaper scandal, calling them “100% wrong” and “utter nonsense”."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/cricket/articles/cwq6e4y9525mo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-12T18:05:13Z",
+   "published_at": "2026-11-12T23:47:22Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "541944ba319827d0e6c6d0621d972fb68fd7e37e",
+   "title": "Australia Test captain Pat Cummins calls Khawaja's sandpapergate claims ‘complete and utter nonsense’",
+   "summary": [
+    "Cummins insists he did not know of ball tampering plot in South Africa‘No masterplan around using illegal methods,’ Cummins saysPat Cummins press conference – live reactionPat Cummins has flatly denied Usman Khawaja’s claims that the entire team was implicated in the 2018 sandpaper scandal as “complete and utter nonsense” and “100% wrong” in a defiant appearance at a press conference a week after the allegations came to light.Appearing before dozens of reporters and cameras at Cricket NSW’s headquarters in Sydney, Cummins refuted the allegations aired in his former teammate’s book, Sabr, and said he had no knowledge of the ball tampering plot in South Africa."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/2026/nov/13/pat-cummins-press-conference-sandpapergate-usman-khawaja-ball-tampering-australia-cricket-captain-statement-ntwnfb",
+   "image": "https://i.guim.co.uk/img/media/d195846fc68e0fcd35792c479d39ed2c7a3ed38b/491_0_4908_3926/master/4908.jpg?width=140&quality=85&auto=format&fit=max&s=1bcb6b0a74ab283844a4aef0504e83f3",
+   "published_at": "2026-11-12T23:31:22Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "25cd6fe5b1ee6365317f114e62b26038b77c690a",
+   "title": "Morgan Rogers says ‘it’s a lie’ that Cole Palmer does not want to play for England",
+   "summary": [
+    "Thomas Tuchel, who did not take the 24-year-old to last summer’s World Cup, expressed irritation at the time, saying the Chelsea attacker “misses too many opportunities” to play for his country."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/12/morgan-rogers-says-its-a-lie-that-cole-palmer-does-not-want-to-play-for-england",
+   "image": "https://i.guim.co.uk/img/media/341d5262b98afe2d4759e05dfd101cd17678b06b/91_1181_2759_2207/master/2759.jpg?width=140&quality=85&auto=format&fit=max&s=4c83e7f0fb505e181cb3e1449a33ec84",
+   "published_at": "2026-11-12T23:17:46Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "4f4e6c37f2e45848dfbb197247d38520ce71441f",
+   "title": "'A lie' - Palmer committed to England, says Rogers",
+   "summary": [
+    "Morgan Rogers says any suggestion Cole Palmer is not committed to England \"is a lie\" and \"nonsense\"."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6e9kjne5y8vo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-12T23:09:07Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "3947101c284647b7d42ea5fa31bb22eacb44fd35",
+   "title": "Gauff saves three set points to beat Kostyuk and keep WTA Finals hopes alive",
+   "summary": [
+    "If fifth-ranked compatriot Jessica Pegula beats Wimbledon champion Linda Noskova in Thursday’s final group match, Pegula will advance instead."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/2026/nov/12/coco-gauff-marta-kostyuk-wta-finals-comeback-indian-wells",
+   "image": "https://i.guim.co.uk/img/media/e0ef03f01e3b04fab8ead51186eec5403d44189e/576_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=44e4d70777fa31bc8b959672a264ba29",
+   "published_at": "2026-11-12T22:40:15Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "71e9540882f026317957ff3d1d02ee5c751ae84b",
+   "title": "Nations League: Italy roar back to beat France despite Donnarumma’s early howler",
+   "summary": [
+    "Loss is Zinedine Zidane’s first as France head coachSpain beat Czechia 2-0 to maintain 100% recordPio Esposito struck twice to inflict a first defeat on Zinedine Zidane as France head coach as Italy stormed back to win 3-1 at San Siro and go top of their Nations League group.Michael Olise profited on a Gianluigi Donnarumma error to put the visitors in front after 10 minutes, but Italy hit back through Esposito and Davide Frattesi either side of half-time."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/12/nations-league-italy-france-spain-czechia",
+   "image": "https://i.guim.co.uk/img/media/c383c8cbd033340ae1748689f545ed72e3b44160/358_191_2558_2046/master/2558.jpg?width=140&quality=85&auto=format&fit=max&s=cef73d375bed89d81e3ac9dc23e9077a",
+   "published_at": "2026-11-12T22:31:35Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "492f247713f1aaa1ba771270ef7268fa41152cd3",
+   "title": "Gauff battles through back injury to keep WTA Finals hopes alive",
+   "summary": [
+    "Coco Gauff shows all of her battling qualities as she fights through a back injury to beat Marta Kostyuk and keep her WTA Finals last-four hopes alive."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/tennis/articles/c57429mgdkjdo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-12T22:27:18Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "075afd7d466e1a6d1bb9df96ae1fefc876352bec",
+   "title": "Grealish apologises for absence after breach of discipline",
+   "summary": [
+    "Jack Grealish issues an apology to Everton fans for his recent absence due to a disciplinary issue."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cr3wgp8e2ljxo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-12T22:10:13Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "be5dfe3c3c716feb6335e79e127fc37135113f3a",
+   "title": "Where does Kane rank among all-time England greats?",
+   "summary": [
+    "Harry Kane is England's all-time top scorer and record appearance maker, but where does he rank among the Three Lions' greatest players?"
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cxj0lvqpn94qo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-12T22:09:59Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "bfccd93fffca2a58755c41870cb1d34a279ff35b",
+   "title": "England 2-1 Croatia: Nations League – as it happened",
+   "summary": [
+    "He won 62 caps and never got to go to the World Cup or Euros finals” – Roger Kirkby“In the non-Kane-focused-Croatian World of Sport, does Modric’s pine-based residency mean he carried the can for that thing that happened last time?",
+    "Is he now being shown a Ronaldo-shaped door (the other one)?",
+    "Is there a ‘Modrić van’ waiting for him every time he is picked?” – Ian CopestakeShilton Walker/Moore/Wright/Cole Beckham/Lampard/Gerrard/Charlton Rooney/Kane Continue reading..."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/live/2026/nov/12/england-v-croatia-nations-league-live",
+   "image": "https://i.guim.co.uk/img/media/55e16f33bcb73c52dfb10c8de376b74c1ffbfca9/643_365_3304_2644/master/3304.jpg?width=140&quality=85&auto=format&fit=max&s=49977e99e330bf524fbdd78efa2e9f83",
+   "published_at": "2026-11-12T22:05:41Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "2ee65e3dbcd8b0f552f13172be24aef584402daa",
+   "title": "Harry Kane spot on to seal England win over Croatia on his record-breaking night",
+   "summary": [
+    "It was an historic occasion for Harry Kane, the one when he made his 126th England appearance and overtook Peter Shilton as the nation’s most capped men’s player.",
+    "And for much of the night, it felt as though the desire to celebrate him, certainly beforehand, was the main thing.",
+    "The actual football in this Nations League group game felt like a sideshow.England had demolished Croatia 7-0 in Rijeka last month; it was Croatia’s heaviest defeat."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/12/england-croatia-nations-league-match-report",
+   "image": "https://i.guim.co.uk/img/media/c44bfd8b33945e48111834cffbbb8c102988bbca/46_301_2600_2081/master/2600.jpg?width=140&quality=85&auto=format&fit=max&s=51d1429f17fab9716769b13cb50836a9",
+   "published_at": "2026-11-12T21:58:39Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "cd0482225cf30c03ab7fedf19a5c3ffb2ff7f6c9",
+   "title": "Gritty Arsenal show different side in Barcelona draw",
+   "summary": [
+    "Could a resilient draw against European champions Barcelona be a turning point in Arsenal's season?"
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cqe85vym242jo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-12T21:50:59Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "cad60ecb4b773edbc21c1323e8450319eb0a7ce9",
+   "title": "Kane scores winner but who else made an impression? England player ratings",
+   "summary": [
+    "How did England's players fare in the Nations League match against Croatia?",
+    "Senior football correspondent Sami Mokbel gives his verdict."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c64gnd7vd912o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-12T21:47:36Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "30422336e57e781b64d867d380ada8bcea21856c",
+   "title": "Ghana kick-start Afcon 2027 bid despite Ayew penalty miss",
+   "summary": [
+    "Ghana kick-start their Afcon 2027 qualifying campaign despite Jordan Ayew having a penalty saved, while Cameroon, Ivory Coast and Senegal register wins."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c61md0mldvdgo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-12T21:28:06Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "e81e0f1ba07b09b632d21f73b6e36004a47f5381",
+   "title": "SFA in talks with Boston officials over biennial friendly match",
+   "summary": [
+    "Discussions take place between Scottish football governing's body and a delegation of state senators to build on bonds forged during the World Cup."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/news/articles/cqdr1jd5mpp5o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-12T21:16:56Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "12bcfed1b6d0557fb82c925e283773cea3e215b8",
+   "title": "Man Utd & Man City in Gusto battle - Friday's gossip",
+   "summary": [
+    "Manchester United and Manchester City are going head-to-head for Chelsea defender Malo Gusto and Leeds United pursue Will Lankshear, plus more."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cmp86enlly13o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-12T21:13:59Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "65c36a4d8425f386ecf047741b715d246678bf0c",
+   "title": "Harry Kane wins record 126th England cap, pulling clear of Peter Shilton",
+   "summary": [
+    "The England captain was joined on the pitch by his four children and posed for photographs with them as he showed the Ballon d’Or trophy to the crowd."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/12/harry-kane-wins-record-126th-england-cap",
+   "image": "https://i.guim.co.uk/img/media/be75494996b115e53d76ad4b47c194cd70e43b6a/619_2_5297_4238/master/5297.jpg?width=140&quality=85&auto=format&fit=max&s=0d98c8732b45cbfdc460afbbce091688",
+   "published_at": "2026-11-12T20:32:55Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "f71048656b58d63f0cbd40589b7b7c822465bf54",
+   "title": "Arsenal dig in for draw at Barcelona to extend unbeaten start",
+   "summary": [
+    "Arsenal extend their unbeaten start to four matches in the Uefa Women's Champions League, as they produce a dogged display to hold Barcelona to a 1-1 draw at the Camp Nou.",
+    "The point moves Renee Slegers' side into the top four, putting them in a great position to automatically qualify for the knockout stages."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/videos/crlye55q790yo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-12T20:09:07Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "96abeaa99e2df30ca1907ea31ebad146d0bd188f",
+   "title": "Barcelona 1-1 Arsenal: Women’s Champions League – as it happened",
+   "summary": [
+    "A fine away performance, and a bit of luck, saw Arsenal emerge from Barcelona with a precious Champions League point2 mins: They kept the ball for about 15 seconds and haven’t seen it since.",
+    "Eventually Caroline Graham Hansen plays a pass infield from the right and Ewa Pajor is so close to getting sent through on goal.",
+    "Instead it runs through to Misa Rodriguez.1 min: Peeeeeep!"
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/live/2026/nov/12/barcelona-v-arsenal-womens-champions-league-live",
+   "image": "https://i.guim.co.uk/img/media/fe8dec09212b3d6361e11e7875101b090a5f9223/118_227_1464_1172/master/1464.jpg?width=140&quality=85&auto=format&fit=max&s=827898284a5b4a3f47f87a0a5ecf15f8",
+   "published_at": "2026-11-12T20:07:27Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "ce67157308f419ba669c379cace4aec44e7d3463",
+   "title": "Arsenal dig deep to earn WCL draw in face of Barcelona dominance",
+   "summary": [
+    "Arsenal continue to be a sharp thorn in the side of the European champions, Barcelona, and they dug deep to hold on to a draw at the Camp Nou on Thursday night."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/12/barcelona-arsenal-womens-champions-league-match-report",
+   "image": "https://i.guim.co.uk/img/media/812d79bca9e025068e126e5736dc19839b32224a/136_104_1918_1535/master/1918.jpg?width=140&quality=85&auto=format&fit=max&s=fb8f8f3cac06faecfc805d4e746b15bf",
+   "published_at": "2026-11-12T20:00:16Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "52dabe1426689bf034d4471d9f6d86c835110141",
+   "title": "Leader, role model, extraordinary - how Kane's 'fairytale' came true",
+   "summary": [
+    "From the 21-year-old who scored 79 seconds into his debut to breaking his nation's appearance record, BBC Sport looks at Harry Kane's England career."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c60qkdj4lp34o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-12T19:53:40Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "feb3c9731faf7abce77875d463309cbc86a22b15",
+   "title": "Quiz: Name England men's all-time leading appearance makers",
+   "summary": [
+    "Can you name every England men's player who has at least 60 caps?"
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cmlylv1xl9qgo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-12T19:47:16Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "e23ab6dee8be7692e332baefad87caae4d99d093",
+   "title": "How will the USMNT replace Mauricio Pochettino? There’s no clear answer",
+   "summary": [
+    "“We’re ready when anything happens, whether it’s CFO, whether it’s a head coach or anything in between.” Continue reading..."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/12/mauricio-pochettino-replacements-usmnt-manchester-united",
+   "image": "https://i.guim.co.uk/img/media/0987d0bf192410b25795629cf35bbc8bb01305bb/593_0_2966_2373/master/2966.jpg?width=140&quality=85&auto=format&fit=max&s=f3d6f9219f8f238f0b9d52ab54de1bba",
+   "published_at": "2026-11-12T19:20:01Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "35c0e99aa3ee6c5a2a118164070e9ee54b123ab3",
+   "title": "Dan Hicks, NBC’s voice of golf and Olympic swimming, dies at age of 64 after acute illness",
+   "summary": [
+    "Death announced by wife, ESPN’s Hannah StormHicks had a 35-year career in broadcastingSportscaster Dan Hicks, who was the voice of golf, Olympic swimming and Notre Dame football during a 35-year career at NBC Sports, has died, his family and NBC announced Thursday.",
+    "He was 64.Hicks died late Wednesday in Connecticut.",
+    "He died of an acute illness, according to his wife, ESPN broadcaster Hannah Storm."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/2026/nov/12/dan-hicks-nbcs-voice-of-golf-and-olympic-swimming-dies-at-age-of-64-after-acute-illness",
+   "image": "https://i.guim.co.uk/img/media/cd84756370eb9b24c0489f17ca5e90e475510d05/2296_901_5754_4603/master/5754.jpg?width=140&quality=85&auto=format&fit=max&s=e10831dd714a319f89253c3c69d0f026",
+   "published_at": "2026-11-12T18:44:18Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "321ff73fddc5c69f46449acf8fd35dc74e98b654",
+   "title": "Champion trainer Skelton happy but always wanting more",
+   "summary": [
+    "BBC Midlands Today meets Warwickshire's Dan Skelton, the prolific champion jumps trainer already on course to do it again."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/horse-racing/articles/cqzjxjzn23r4o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-12T18:38:27Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "10f20dff576d76d4cf31426acffe66245b623a47",
+   "title": "Much-changed England told to ignore World Cup and put team first against Japan",
+   "summary": [
+    "Pollock makes his second start, coming in at No 8, while the Northampton scrum-half Archie McParland is in line for a debut from the bench."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/2026/nov/12/much-changed-england-japan-nations-championship-rugby",
+   "image": "https://i.guim.co.uk/img/media/69f07b069af094a46b03505597578e3f27d33086/796_0_4061_3250/master/4061.jpg?width=140&quality=85&auto=format&fit=max&s=6aa08e7e1172c9645bb6af42ff44b102",
+   "published_at": "2026-11-12T18:10:34Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "e30586a6137caaae6dc3545bfc50ea3456dce48b",
+   "title": "Robertson pays tribute to Dalglish as he matches Scotland cap record",
+   "summary": [
+    "Tottenham full-back will make 102nd appearance on Friday‘It’s another reason to honour one of the greatest players’Andy Robertson insists his matching of Kenny Dalglish’s Scotland cap record by no means brings reputational parity."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/12/robertson-pays-tribute-to-dalglish-as-he-matches-scotland-cap-record",
+   "image": "https://i.guim.co.uk/img/media/b3af08f7cd98e7697c111c7bb5f69cc042d60c15/483_0_4829_3863/master/4829.jpg?width=140&quality=85&auto=format&fit=max&s=ad0a37bd480d6558c50a3cb5ca16cae4",
+   "published_at": "2026-11-12T18:06:56Z",
    "category": "sports",
    "related": []
   },
@@ -52,35 +413,6 @@
    "related": []
   },
   {
-   "id": "96abeaa99e2df30ca1907ea31ebad146d0bd188f",
-   "title": "Barcelona v Arsenal: Women’s Champions League – live",
-   "summary": [
-    "⚽️ WCL updates from 5.45pm GMT kick-off⚽️ Live scoreboard | And email Simon2 mins: They kept the ball for about 15 seconds and haven’t seen it since.",
-    "Eventually Caroline Graham Hansen plays a pass infield from the right and Ewa Pajor is so close to getting sent through on goal.",
-    "Instead it runs through to Misa Rodriguez.1 min: Peeeeeep!"
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/live/2026/nov/12/barcelona-v-arsenal-womens-champions-league-live",
-   "image": "https://i.guim.co.uk/img/media/eebbf7421cbd6256e6be5521554e97c16a5c7b0c/55_0_2891_2314/master/2891.jpg?width=140&quality=85&auto=format&fit=max&s=1ba6e001c48c9edae2e67f2d45da6c81",
-   "published_at": "2026-11-12T18:01:50Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "bfccd93fffca2a58755c41870cb1d34a279ff35b",
-   "title": "England v Croatia: Nations League – live",
-   "summary": [
-    "So in that three-part sense, this is a bit of a non-event, though tell that to Harry Kane, who will break the all-time appearance record for the Three Lions‡.",
-    "It, almost exclusively for England, is on!1."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/live/2026/nov/12/england-v-croatia-nations-league-live",
-   "image": "https://i.guim.co.uk/img/media/704c61e6cd0a69b65f47a36ea537bcfbba5d4209/777_244_5849_4680/master/5849.jpg?width=140&quality=85&auto=format&fit=max&s=32c31911a77bd2f2e446620aa7b10fb3",
-   "published_at": "2026-11-12T18:00:56Z",
-   "category": "sports",
-   "related": []
-  },
-  {
    "id": "014763f070eb049c027a17486344ebe2d656ab8e",
    "title": "How and why Wales are relying on scrum-half Williams",
    "summary": [
@@ -90,151 +422,6 @@
    "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cv36gngre3r9o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-12T18:00:14Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "12a30cbf5dc98f1597847a84d1fa58b1c594b4c9",
-   "title": "Warriors' Curry has oblique abdominal tear, to miss at least two weeks",
-   "summary": [
-    "Warriors star Stephen Curry has an oblique abdominal tear and will be reevaluated in two weeks."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nba/story/_/id/50462899/warriors-stephen-curry-least-2-weeks-oblique-tear",
-   "image": null,
-   "published_at": "2026-11-12T17:48:03Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "60574b139d22dee1401e789d6d5ccdae95909e2a",
-   "title": "Browns' Verse says he met with team psychiatrist to try to snap sack slump",
-   "summary": [
-    "Browns defensive end Jared Verse said Thursday that he recently met with the team's psychiatrist to get past his slump of not registering sacks."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nfl/story/_/id/50463010/browns-jared-verse-met-psychiatrist-end-sack-slump",
-   "image": null,
-   "published_at": "2026-11-12T17:48:03Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "090edeb52056f701ede168d4f0cac9f5ae801d6d",
-   "title": "76ers Embiid (foot), LeBron (back) questionable vs. Raptors",
-   "summary": [
-    "76ers center Joel Embiid is questionable for Thursday night's game against the Raptors with right foot plantar fascia management.",
-    "LeBron James is also questionable with lower back/sciatica management."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nba/story/_/id/50463008/76ers-joel-embiid-lebron-james-questionable-vs-raptors",
-   "image": null,
-   "published_at": "2026-11-12T17:48:03Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "5770d0d45536a548eaab1d12f384bb8df21b88f2",
-   "title": "Sources: Former Saint Louis star Avila finalizing deal to play for TCU",
-   "summary": [
-    "Former Saint Louis star Robbie Avila, the 2025 A-10 player of the year, is finalizing a deal to play for TCU this season, sources told ESPN."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/mens-college-basketball/story/_/id/50462474/sources-ex-billikens-star-avila-finalizing-deal-tcu",
-   "image": null,
-   "published_at": "2026-11-12T17:48:03Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "c2d35b74a290921d74d7e9d6c24b5c080f216494",
-   "title": "Longtime sports broadcaster Hicks, husband of ESPN's Storm, dies at 64",
-   "summary": [
-    "Longtime NBC Sports broadcaster Dan Hicks has died at the age of 64 following an acute illness, his wife, ESPN broadcaster Hannah Storm, announced Thursday."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/espn/story/_/id/50462145/long-sports-broadcaster-dan-hicks-dies-age-64",
-   "image": null,
-   "published_at": "2026-11-12T17:48:03Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "05d92bd4022d6590283f649870ffb40bd11906e0",
-   "title": "Sources: Broncos-Chargers trade nixed due to concerns over LB Henley's knee",
-   "summary": [
-    "The Broncos announced late Wednesday that their trade to acquire linebacker Daiyan Henley from the Chargers \"will not be finalized.\""
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nfl/story/_/id/50459330/broncos-say-trade-chargers-lb-henley-not-finalized",
-   "image": null,
-   "published_at": "2026-11-12T17:48:03Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "2e3e7fc988637d09b2b34fe0797895aa850978c5",
-   "title": "Zion calls out Pels after latest blowout loss: 'Have to look yourself in mirror'",
-   "summary": [
-    "Zion Williamson called for accountability after the Pelicans lost their fourth straight game, saying the team needed to look itself in the mirror."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nba/story/_/id/50459408/zion-williamson-calls-pelicans-another-unacceptable-blowout-loss",
-   "image": null,
-   "published_at": "2026-11-12T17:48:03Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "5eaad21797a2b6fbe731cb49e4cbd79fe81051ec",
-   "title": "Manchester United fires Carrick; sources say deal with USMNT's Pochettino close",
-   "summary": [
-    "Manchester United have sacked head coach Michael Carrick, the club have confirmed."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/soccer/story/_/id/50180844/man-united-michael-carrick-sacked-pochettino",
-   "image": null,
-   "published_at": "2026-11-12T17:48:03Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "2214511386c8d2e0e58078b07937a7d7777417fb",
-   "title": "🏀 Men's hoops Power Rankings: A whole new list after two weeks of games",
-   "summary": [
-    "After two weeks of play, Florida tops the rankings, while Kansas and UCLA made big jumps with signature wins."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/mens-college-basketball/story/_/id/50453526/mens-college-basketball-power-rankings",
-   "image": null,
-   "published_at": "2026-11-12T17:48:03Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "5b73b68902fd7003092166c756f3b3b8a39fe88f",
-   "title": "Reaction as Man United sack Michael Carrick as manager",
-   "summary": [
-    "Manchester United have sacked manager Michael Carrick after a poor run of results.",
-    "Catch up on the latest reaction to the news."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/soccer/story/_/id/50441200/live-updates-reaction-man-united-sack-michael-carrick",
-   "image": null,
-   "published_at": "2026-11-12T17:43:05Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "9b00ad2926a73dd5055d70f4c53198b4326546d4",
-   "title": "How Carrick won the Man United job, then lost it 10 months later",
-   "summary": [
-    "Michael Carrick performed excellently as a caretaker and impressed the club hierarchy, but doubts over Manchester United's performances and identity never fully disappeared."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/soccer/story/_/id/50437253/manchester-united-fire-michael-carrick-analysis",
-   "image": null,
-   "published_at": "2026-11-12T17:43:05Z",
    "category": "sports",
    "related": []
   },
@@ -252,99 +439,6 @@
    "related": []
   },
   {
-   "id": "d70d2cf14cb2954c08eff6b7dd7cb2e8ee834357",
-   "title": "Recruiting class rankings: UCLA is in the top 3",
-   "summary": [
-    "UCLA moves into the top-3 of the early class rankings, with a chance."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/womens-college-basketball/story/_/id/50239191/2027-womens-basketball-recruiting-class-rankings",
-   "image": null,
-   "published_at": "2026-11-12T17:41:12Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "27c76218c53b53292307e0763033d5562eda2add",
-   "title": "From rock-bottom to program reset: How Kim Caldwell hopes to turn around Tennessee",
-   "summary": [
-    "Owning last season's shortfalls, Kim Caldwell has returned to her roots.",
-    "How it plays out will determine the Lady Vols' future."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/womens-college-basketball/story/_/id/50453869/tennessee-lady-vols-coach-kim-caldwell-ready-reset",
-   "image": null,
-   "published_at": "2026-11-12T17:41:11Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "1c7edd18863103106920b05e0f84a23fd758e28c",
-   "title": "College football's zombie class of 2026 headlines Week 11",
-   "summary": [
-    "In 2026, even the most egregious of mishaps or losses aren't fatal for teams' playoff hopes."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/college-football/story/_/page/gamedaykickoff111226/week-11-top-games-upsets-preview",
-   "image": null,
-   "published_at": "2026-11-12T17:40:58Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "30e0ecfc0652a97ad5e081022e5d31ee13c74e49",
-   "title": "Documents show warnings years ago about NC State trainer",
-   "summary": [
-    "Sports medicine director Robert Murphy stayed on the job despite signs of sexual misconduct with male athletes."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/college-sports/story/_/id/50446437/documents-show-warnings-years-ago-nc-state-trainer",
-   "image": null,
-   "published_at": "2026-11-12T17:39:46Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "bb9bd34fbdb45390ac3014307c4b3efa2adab419",
-   "title": "'It's like a light switch went on': The inside story of Pete Crow-Armstrong's MVP-worthy season",
-   "summary": [
-    "The Cubs' star center fielder hit another level midway through the 2026 season.",
-    "Here's what shaped PCA's superstar turn."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/mlb/story/_/id/50452846/pete-crow-armstrong-national-league-mvp-pca-superstar",
-   "image": null,
-   "published_at": "2026-11-12T17:36:34Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "693e88e4774dc83a5d514af4e1b989b4406898f4",
-   "title": "MLB Awards Week: Who will win MVPs on Thursday?",
-   "summary": [
-    "Baseball's best players and managers of 2026 collect their hardware this week."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/mlb/story/_/id/50391276/2026-season-awards-mvp-cy-young-al-nl",
-   "image": null,
-   "published_at": "2026-11-12T17:36:34Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "63f24a548e76915d0d9b85250cc02cd95e29ceee",
-   "title": "Early trade deadline questions: Knicks, Thunder and other contenders' next steps",
-   "summary": [
-    "With the NBA trade deadline looming, which title contenders should -- and could -- make a deal to improve?"
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nba/story/_/id/50434044/early-nba-trade-deadline-questions-top-contenders",
-   "image": null,
-   "published_at": "2026-11-12T17:34:10Z",
-   "category": "sports",
-   "related": []
-  },
-  {
    "id": "56c77ec0b3973fbcd564597aca6b2612ac3c01f2",
    "title": "Lawes recovering after hospital stay with infection",
    "summary": [
@@ -354,32 +448,6 @@
    "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cjn50zrl5de7o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-12T17:25:27Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "23a77f85433c266ddc19f090340a3d3eeb002cbd",
-   "title": "How Kobe, LeBron, Steph and Brady are helping Jayden Daniels chase greatness",
-   "summary": [
-    "The Commanders QB has tapped into some of sports' all-time greats like Brady and LeBron in search of an edge."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nfl/story/_/id/50453988/kobe-lebron-steph-brady-tips-commanders-jayden-daniels",
-   "image": null,
-   "published_at": "2026-11-12T17:17:14Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "f55a38acee32a159881e8244e4111145504c6ff2",
-   "title": "Inside the physical and mental toll of Malik Nabers' knee injury",
-   "summary": [
-    "Giants star wide receiver Malik Nabers opens up about his rehab experience for the first time."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nfl/story/_/id/50454087/inside-physical-mental-toll-malik-nabers-knee-injury",
-   "image": null,
-   "published_at": "2026-11-12T17:17:14Z",
    "category": "sports",
    "related": []
   },
@@ -397,81 +465,16 @@
    "related": []
   },
   {
-   "id": "e05f62448c0dc0a60dfca0d10ad2af5eecb9fc5d",
-   "title": "Carrick sacked by Manchester United with team in Premier League relegation zone – as it happened",
+   "id": "d967f04d87dfee1ec1782a256f165bc86e81ef8b",
+   "title": "Fitness, Fernandes and a back four: how next head coach can reignite Manchester United | Will Unwin",
    "summary": [
-    "It’s that the Glazer ownership and Ratcliffe mismanagement has met the Man City revelations, meaning it’s hard to see the point anymore. £1bn taken out of the club while others were illicitly pumping in roughly the same.",
-    "A club drained of life, hollowed out … I can take crap football, but I can’t take this anymore.” Continue reading..."
+    "Bruno Fernandes was dropped after calling out his head coach’s tactics, although Carrick said it was for football reasons.",
+    "It was the second combustible television interview in as many Champions League games after Lisandro Martínez pointed the finger at the director of football, Jason Wilcox, for failing to provide a squad suitable for fighting on all fronts."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/live/2026/nov/12/carrick-sacked-by-manchester-united-with-team-in-premier-league-relegation-zone-live",
-   "image": "https://i.guim.co.uk/img/media/ab2b27d8c1ed5ef6b208cae9b564664d04276e82/597_0_3648_2918/master/3648.jpg?width=140&quality=85&auto=format&fit=max&s=00fec4dadfc6b68eda3573ed3938418f",
-   "published_at": "2026-11-12T17:04:29Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "30422336e57e781b64d867d380ada8bcea21856c",
-   "title": "Ghana kick-start Afcon 2027 bid despite Ayew penalty miss",
-   "summary": [
-    "Jordan Ayew has a first-half penalty saved as Ghana secure a comfortable 2-0 home win over Somalia to kick-start their Afcon 2027 qualifying campaign."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/articles/c61md0mldvdgo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-12T17:02:10Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "97e4a658839a16f18dc458c1a3ee11a3d631e9fb",
-   "title": "Buzz: Still have trade deadline adrenaline? Check out these 12 players in fantasy",
-   "summary": [
-    "The NFL trade deadline might be over, but fantasy managers should still consider trading for these players."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-   "image": null,
-   "published_at": "2026-11-12T16:59:10Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "4434d8f82f00f0545b4de86a7f6e0ed2fc01511e",
-   "title": "The Playbook: Shadow Reports, lineup locks and projected scores for Week 10",
-   "summary": [
-    "An all-encompassing look at the matchups to exploit or avoid and lineup locks in fantasy, as well as projected scores for all NFL games."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/fantasy/football/story/_/id/50433086/fantasy-playbook-projections-lineup-locks-week-10-shadow",
-   "image": null,
-   "published_at": "2026-11-12T16:59:09Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "1d8d3c27e44077638cfb58c283b273e8bae5f19b",
-   "title": "Betting buzz: Unexpected line movement on Indiana puzzles sportsbooks",
-   "summary": [
-    "Wednesday's unexpected rush of bets on Indiana raised some eyebrows at multiple sportsbooks."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/espn/betting/story/_/id/49921234/college-football-betting-buzz-odds-updates-line-moves-spreads",
-   "image": null,
-   "published_at": "2026-11-12T16:45:59Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "e52e058c1847d3296863ba79072e3b834fbc8c44",
-   "title": "Best bets for LSU-Texas: Will points be hard to come by in Baton Rouge?",
-   "summary": [
-    "Let's find the best betting angle for Texas and LSU in a game neither team can afford to lose."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/espn/betting/story/_/id/50444351/college-football-betting-week-11-lsu-texas",
-   "image": null,
-   "published_at": "2026-11-12T16:45:59Z",
+   "url": "https://www.theguardian.com/football/2026/nov/12/the-problems-awaiting-manchester-united-next-manager",
+   "image": "https://i.guim.co.uk/img/media/c3c0eabdac01a03876925d222523ba18a95e2300/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=5b019f70e3e4fa75ca85824f666836ee",
+   "published_at": "2026-11-12T17:00:22Z",
    "category": "sports",
    "related": []
   },
@@ -515,32 +518,6 @@
    "related": []
   },
   {
-   "id": "496214e0f6ed283d638ceea714898c274b0838dd",
-   "title": "Kirk Cousins makes first comments on Minnesota trade at Las Vegas Great Clips",
-   "summary": [
-    "Kirk Cousins offered some thoughts on his trade to Minnesota after the news broke in the most on-brand location imaginable."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nfl/story/_/id/50455775/kirk-cousins-minnesota-trade-great-clips",
-   "image": null,
-   "published_at": "2026-11-12T15:59:39Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "496156ec1b5a0f5a5f315ccbe431c6428d5d9928",
-   "title": "Titans' 'Rivalries' combination, Ravens' all-black threads top NFL Week 10 uniforms",
-   "summary": [
-    "Here's a look at what each NFL team is wearing in Week 10, led by the Tennessee Titans' Rivalries look."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nfl/story/_/id/50448015/nfl-week-10-uniforms",
-   "image": null,
-   "published_at": "2026-11-12T15:59:32Z",
-   "category": "sports",
-   "related": []
-  },
-  {
    "id": "e71add26d9b2a6de9aedc6e558d9ee6ef11d33e4",
    "title": "Nurmagomedov slaps Dvalishvili to spark hotel brawl",
    "summary": [
@@ -550,6 +527,33 @@
    "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/cq0l38rw2w7ro?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-12T15:52:38Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "ed142381f21496de828fb3a1157315bcef516c3c",
+   "title": "Pochettino expected to lead US in Nations League games before Manchester United move",
+   "summary": [
+    "The Guardian previously reported that the framework of a deal had been agreed between Pochettino and United.",
+    "The Athletic was first to report news of Pochettino’s plans for the upcoming US matches."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/12/mauricio-pochettino-manchester-united-usmnt-nations-league",
+   "image": "https://i.guim.co.uk/img/media/890140e0e4f6bfab67bf2aaaa0ea3048508b9206/418_0_2542_2034/master/2542.jpg?width=140&quality=85&auto=format&fit=max&s=72dd9632fc59241cabcd18f6ecac2a76",
+   "published_at": "2026-11-12T14:57:56Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "351ab393c313540286e055b9064d06fd7559ed85",
+   "title": "Andreeva beats world number two Sabalenka to reach WTA semis",
+   "summary": [
+    "Russia's Mirra Andreeva beats world number two and second seed Aryna Sabalenka 6-4 6-0 to reach the last four of the WTA Finals."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/tennis/videos/cqrmg2w1038ro?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-12T14:57:38Z",
    "category": "sports",
    "related": []
   }

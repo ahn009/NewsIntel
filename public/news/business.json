@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-12T18:10:29.418197Z",
- "story_count": 19,
+ "generated_at": "2026-11-13T00:09:42.121473Z",
+ "story_count": 17,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
-  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/home": "ok",
+  "https://www.dawn.com/feeds/pakistan": "ok",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,7 +20,7 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "ok"
+  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
   {
@@ -32,7 +32,36 @@
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-12T17:32:14Z",
+   "published_at": "2026-11-12T22:51:18Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "bee007a93fb5d18c7e3b48b6ffc9ee7c82e3092b",
+   "title": "Nvidia turmoil continues as Jensen Huang resigns over affairs scandal and company appoints interim CEO – as it happened",
+   "summary": [
+    "This live blog is now closed.Analysis: Jensen Huang built an AI kingdom.",
+    "What now?Full report: Jensen Huang resigns as Nvidia CEOToo big – and too well-connected – to sack?",
+    "Huang does not enjoy the supercharged voting rights that are par for the course elsewhere – his shareholding is a plain vanilla 3.6%."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+   "image": "https://i.guim.co.uk/img/media/ee87aa39a5285390ddbdaa26b7ca3472a48da292/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=521ae24e36f8fdf4fa3ee96fe310946d",
+   "published_at": "2026-11-12T21:33:08Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "009ee185716782c0803f4308bc5990b17b54b900",
+   "title": "Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached?",
+   "summary": [
+    "CEO’s affair and resignation has brought company’s murky corporate contracts and supply chains into sharp focusCan the AI economy survive without its “central bank”?",
+    "Without these, AI models such as ChatGPT and Claude could not be trained and would not run."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-built-an-ai-kingdom-now-hes-gone-will-nvidias-ramparts-be-breached",
+   "image": "https://i.guim.co.uk/img/media/8371f47b7280e46fb9321628941d7375be61a95f/749_0_3751_3000/master/3751.jpg?width=140&quality=85&auto=format&fit=max&s=57a4aca5dad149f89cf0b4e6be29e6b8",
+   "published_at": "2026-11-12T17:50:35Z",
    "category": "business",
    "related": []
   },
@@ -216,61 +245,6 @@
    "url": "https://www.bbc.co.uk/news/articles/c87470q4w21o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-11T12:49:31Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "f14d6f37ea16f8cf478d008c0bc4976af7e4ad2a",
-   "title": "Farewell to Elon Musk’s Cybertruck. Has any car ever been more repellent? | Arwa Mahdawi",
-   "summary": [
-    "Goodbye to a steel monstrosity seemingly designed by a five-year-oldElon Musk is having a rough go of it, isn’t he?",
-    "Now the tech mogul, who moved from California to Texas to escape Democrats and regulations, finds himself in a newly blue state.",
-    "Musk’s beloved Cybertruck, the steel monstrosity that looks as if it were designed by a five-year-old, is winding down production."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/11/farewell-cybertruck-elon-musk-car-repellent",
-   "image": "https://i.guim.co.uk/img/media/c60a76edbc157e500d840b681f10beec7ef9b650/946_0_4777_3822/master/4777.jpg?width=140&quality=85&auto=format&fit=max&s=c6e16539d1a8fd01ec28e557d507ac42",
-   "published_at": "2026-11-11T11:00:47Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "d11de94cab5cb8a6148802cae314eeb0b14a9d01",
-   "title": "Democrats’ US election sweep brings the price of their promised social contract into focus",
-   "summary": [
-    "‘The post-election wish list is about to run into harsh fiscal reality: there is no money’Is this an opportunity for a new America?",
-    "The project includes rolling back Donald Trump’s cuts to Medicaid and food stamps, and restoring subsidies for health insurance under the Affordable Care Act that Republicans allowed to expire."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/11/democrats-election-medicaid-costs",
-   "image": "https://i.guim.co.uk/img/media/07a0f439eb97562ba66c202a2de731facf252107/569_0_5465_4372/master/5465.jpg?width=140&quality=85&auto=format&fit=max&s=3dcbcf803b3e2858de7228608b765158",
-   "published_at": "2026-11-11T11:00:46Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "acd18e9e81d4444688e4bce4d806d61c72f46d7d",
-   "title": "The Global Story",
-   "summary": [
-    "Tracking down the men who have made serious money from internet porn."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/sounds/play/w3ct8mlr?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-11T10:00:00Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "635999376d1f6ed51514f42edb36a1c643aed530",
-   "title": "Christmas toy rush being driven by squishies and building sets",
-   "summary": [
-    "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-11T07:52:05Z",
    "category": "business",
    "related": []
   }
