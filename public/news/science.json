@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-13T16:09:41.127665Z",
- "story_count": 20,
+ "generated_at": "2026-11-13T22:31:36.810144Z",
+ "story_count": 19,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,32 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "e08c8514556ba9f51d5fc5d4bab668cad9e44ad9",
+   "title": "SpaceX to attempt double catch of huge Starship rocket",
+   "summary": [
+    "Elon Musk’s company will try to grab both parts of the rocket for the first time."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-13T20:12:02Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "899468edb4ac68bcb61ec18616c581815fb3796e",
+   "title": "What could El Niño mean for winter weather in the US and Canada?",
+   "summary": [
+    "El Niño winters typically bring more rain in the southern USA and drier, warmer conditions further north but the impacts on snowfall are complex."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/weather/articles/c6pvg22k2w2do?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-13T18:50:15Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "7c0d243e1efb6090cbf8bcf691385744ce26901b",
    "title": "Climate action discussed at youth COP meeting",
@@ -254,47 +280,6 @@
    "url": "https://www.sciencedaily.com/releases/2026/11/261110042556.htm",
    "image": null,
    "published_at": "2026-11-12T10:47:43Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "e208d0b84893d22c888aebf45035f83e8b1c7194",
-   "title": "Earth's fiery birth may have created hundreds of oceans' worth of water",
-   "summary": [
-    "Earth's water may have been born in the planet's fiery atmosphere rather than delivered by icy comets or asteroids.",
-    "Scientists discovered that rocky pebbles reacting with hydrogen under extreme heat can produce water in minutes, potentially generating hundreds of oceans' worth during Earth's formation.",
-    "The findings suggest that water may be a natural part of how rocky planets form, rather than something that must arrive from space."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261110042549.htm",
-   "image": null,
-   "published_at": "2026-11-12T08:38:42Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "3ea60236f17e18041c6a75b7f7e4795419fcf9fa",
-   "title": "Campaigners want more land protected from housing",
-   "summary": [
-    "After parkland was safeguarded from development, residents want the council to change a housing plan."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmpw48zwnevlo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-12T06:24:44Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "aa932b3d176d27ef4c72200a68fdebc1376198de",
-   "title": "'Summer was a wake-up call, winter could be dire' warning over food supplies",
-   "summary": [
-    "Wales needs to grow more fruit and veg or it will be at the mercy of wars and climate change, one expert says."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmkgev3ldl9ro?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-12T06:02:55Z",
    "category": "science",
    "related": []
   }
