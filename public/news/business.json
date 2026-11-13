@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-13T07:49:16.589671Z",
- "story_count": 14,
+ "generated_at": "2026-11-13T16:09:41.127266Z",
+ "story_count": 18,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -24,6 +24,33 @@
  },
  "stories": [
   {
+   "id": "ed655a67d77c8ca2a3de6a5f495f07c3d848ede3",
+   "title": "A global Microsoft 365 outage has hit millions – what happened and when will it be fixed?",
+   "summary": [
+    "Itaffected businesses, government agencies and even Microsoft employees all over the world.",
+    "These have included the US House of Representatives to an Australian spy agency and airlines in India, European government agencies, and police services, ambulances and hospitals in the UK."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/13/global-microsoft-outage-what-happened-and-why",
+   "image": "https://i.guim.co.uk/img/media/bfb62ff678ba81a245ee6124ef82c2bad5305c49/784_596_2586_2070/master/2586.jpg?width=140&quality=85&auto=format&fit=max&s=ac0869cc05bbe829ce682069e8169e03",
+   "published_at": "2026-11-13T15:47:59Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "ec0b030c7feaab045df3a40f2d0b5c0ffa76c17a",
+   "title": "Shoplifters 'stealing to order' in Scottish shops",
+   "summary": [
+    "Shopworkers in Scotland say they're facing rising levels of violence, including attacks with harpoon guns and machetes, as reports of shoplifting rise dramatically."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/cw772xkxjm37o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-13T14:16:09Z",
+   "category": "business",
+   "related": []
+  },
+  {
    "id": "06c72c568b46af702228f7b9dc2ca8d265aff902",
    "title": "Politicians back focus on cost of living",
    "summary": [
@@ -46,6 +73,19 @@
    "url": "https://www.bbc.co.uk/news/articles/c5zjxjzx2dpwo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-13T06:21:34Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "2fe5b0ae2c844419fb6dfa3ae8bae77bec142ce0",
+   "title": "A timeline of the affair scandal that sank Nvidia’s Jensen Huang",
+   "summary": [
+    "But in a matter of days, after it was revealed he had an extramarital affair with a woman that US officials believe to be a Chinese spy, Huang managed to wipe more than $600bn from the company’s valuation."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-affair-timeline",
+   "image": "https://i.guim.co.uk/img/media/ddea062f231e51eabed66481d5ba36e81630f60a/1_0_2999_2400/master/2999.jpg?width=140&quality=85&auto=format&fit=max&s=bb2618474acf0b02d3f8130f978128e1",
+   "published_at": "2026-11-13T04:00:08Z",
    "category": "business",
    "related": []
   },
@@ -89,17 +129,15 @@
    "related": []
   },
   {
-   "id": "bee007a93fb5d18c7e3b48b6ffc9ee7c82e3092b",
-   "title": "Nvidia turmoil continues as Jensen Huang resigns over affairs scandal and company appoints interim CEO – as it happened",
+   "id": "cbfbef9613ca3cf535fd32619d3c744f893b36ad",
+   "title": "Jensen Huang has resigned, what's next for Nvidia?",
    "summary": [
-    "This live blog is now closed.Analysis: Jensen Huang built an AI kingdom.",
-    "What now?Full report: Jensen Huang resigns as Nvidia CEOToo big – and too well-connected – to sack?",
-    "Huang does not enjoy the supercharged voting rights that are par for the course elsewhere – his shareholding is a plain vanilla 3.6%."
+    "Jensen Huang has resigned from Nvidia as chief financial officer Colette Kress replaces him as an interim boss."
    ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-   "image": "https://i.guim.co.uk/img/media/ee87aa39a5285390ddbdaa26b7ca3472a48da292/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=521ae24e36f8fdf4fa3ee96fe310946d",
-   "published_at": "2026-11-12T21:33:08Z",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/c6wy9l859r94o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-12T20:21:03Z",
    "category": "business",
    "related": []
   },
@@ -114,6 +152,19 @@
    "url": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low",
    "image": "https://i.guim.co.uk/img/media/861fa365835f36d65c4fe3a0adf09f6b63ba43ad/142_0_2344_1875/master/2344.jpg?width=140&quality=85&auto=format&fit=max&s=8773e098930ce08aa711f613f70b46b6",
    "published_at": "2026-11-12T17:26:07Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "4aa9074d7b959b5498e2dcf4f0d353575bb83b8e",
+   "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
+   "summary": [
+    "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-12T15:10:32Z",
    "category": "business",
    "related": []
   },

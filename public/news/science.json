@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-13T07:49:16.590015Z",
- "story_count": 19,
+ "generated_at": "2026-11-13T16:09:41.127665Z",
+ "story_count": 20,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,91 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "7c0d243e1efb6090cbf8bcf691385744ce26901b",
+   "title": "Climate action discussed at youth COP meeting",
+   "summary": [
+    "School children gather to discuss climate issues to coincide with the COP31 conference in Turkey."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ckx28ly7y387o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-13T14:39:06Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "673e1144cf7215bfa9772b6a71ec0d856861e15e",
+   "title": "Scientists discover a hidden danger of viral infections that vaccines may prevent",
+   "summary": [
+    "A new study reveals that viral infections may leave behind hidden damage to the immune system long after symptoms disappear.",
+    "Researchers found that mice recovering from an acute infection experienced lasting changes to their spleens and weakened immune responses, potentially leaving them more vulnerable to future threats.",
+    "Surprisingly, prior vaccination completely prevented these harmful changes in the mouse model."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261112025531.htm",
+   "image": null,
+   "published_at": "2026-11-13T12:55:11Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "1df1c4520b1a217807381e71a540072510a657a7",
+   "title": "Summer heatwave put bin crews lives at risk, says council worker",
+   "summary": [
+    "Crews faced a \"perfect storm\" of challenges during the UK's record-breaking weather, it's claimed."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cj1dv5q21wdxo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-13T12:03:04Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "3cebc2227579dcc93bd9e2167503fd0f4efe0ff5",
+   "title": "Superheated magma could fuel towering lava fountains",
+   "summary": [
+    "Why do some volcanoes erupt with spectacular lava fountains while others release lava more quietly?",
+    "Scientists have discovered that a hidden effect of extreme heat inside magma may help explain the difference.",
+    "Experiments revealed that superheated magma can delay crystal formation for more than eight hours, compared with just 20 minutes in magma that has not been superheated."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261111221811.htm",
+   "image": null,
+   "published_at": "2026-11-13T11:56:39Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "bcd1b15318a873c942e54bd85fe194d6feb34548",
+   "title": "Dark energy may have flipped from negative to positive 9.5 billion years ago",
+   "summary": [
+    "A mysterious force driving the expansion of the Universe may have undergone a dramatic reversal billions of years ago.",
+    "Scientists exploring an overlooked branch of an alternative gravity theory discovered that dark energy could have switched from negative to positive roughly 9.5 billion years ago, potentially changing how we understand cosmic history."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261111005901.htm",
+   "image": null,
+   "published_at": "2026-11-13T11:08:34Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "6111ca3be9f4b18fbba70e0a17613197b1be456c",
+   "title": "The Sun unleashed a monster storm. Earth may have made it worse",
+   "summary": [
+    "The massive solar storm that illuminated skies worldwide in May 2024 has uncovered an unexpected twist: Earth's own atmosphere may have helped make the storm so powerful.",
+    "Satellite measurements revealed that roughly 85% of the charged particles fueling the disturbance originated from Earth's upper atmosphere rather than the solar wind.",
+    "Scientists also detected an extraordinary 40% weakening of Earth's magnetic field high above the planet."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261111005905.htm",
+   "image": null,
+   "published_at": "2026-11-13T09:49:36Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "f61b2554dc480a66eb4bd0ca22eee9aae5c8defb",
    "title": "National Trust takes back land for nature restoration",
@@ -51,7 +136,7 @@
   },
   {
    "id": "3e3edbb24ebcbf3216534e2c3555a35a9046580e",
-   "title": "Flood victim, 95, lived in Wetherspoons after her home was destroyed and died before she could return",
+   "title": "Flood victim, 95, lived in Wetherspoons until she died after her home was destroyed",
    "summary": [
     "Jean Powell kept asking when she could go back to her flat, which was flooded when the River Monnow burst its banks."
    ],
@@ -66,7 +151,7 @@
    "id": "e5169f431f59a7e563bf1305e9967fb70fe383fb",
    "title": "BBC Inside Science",
    "summary": [
-    "A weekly programme looking at the science that's changing our world."
+    "China: climate saviour or global villain?"
    ],
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/sounds/play/w3ct978l?at_medium=RSS&at_campaign=rss",
@@ -201,19 +286,6 @@
    "related": []
   },
   {
-   "id": "f127620a594c39f8ac021291cc1719f700b48d62",
-   "title": "Art trail celebrates arrival of black bears at zoo",
-   "summary": [
-    "Jersey Zoo says the art trail will celebrate the world's \"largest inhabitants to its smallest."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c39wzv2vqgxvo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-12T06:13:52Z",
-   "category": "science",
-   "related": []
-  },
-  {
    "id": "aa932b3d176d27ef4c72200a68fdebc1376198de",
    "title": "'Summer was a wake-up call, winter could be dire' warning over food supplies",
    "summary": [
@@ -223,61 +295,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cmkgev3ldl9ro?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-12T06:02:55Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "a795608253668b4bd0ba9c31a387e0d689abe8e3",
-   "title": "A massive new simulation reveals how the universe emerged from darkness",
-   "summary": [
-    "A groundbreaking new supercomputer simulation is revealing how the universe escaped its cosmic dark age and transformed into a cosmos filled with stars and galaxies.",
-    "Called Lumina, it recreates 2 billion years of early cosmic history across a region 1.6 billion light-years wide, capturing extraordinary details that previous simulations could not."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261110042534.htm",
-   "image": null,
-   "published_at": "2026-11-12T04:07:24Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "d7ad22ed827375f6148916825b16dddfb0d6e11b",
-   "title": "NASA’s Parker Solar Probe discovers a hidden pattern in the Sun’s chaotic magnetic fields",
-   "summary": [
-    "NASA’s Parker Solar Probe has revealed a surprising secret hidden within the chaos of space: turbulent magnetic fields reverse their direction of rotation when examined at extremely small scales.",
-    "The discovery exposes an unexpected pattern in solar wind turbulence that could help scientists better understand solar activity and predict geomagnetic storms."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261109205411.htm",
-   "image": null,
-   "published_at": "2026-11-12T01:45:09Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "5c3c92dd1a71452b07480ce4f9f111232d3606a7",
-   "title": "Significant drop in levels of toxic 'forever' chemicals in England's rivers",
-   "summary": [
-    "The decline has been put down to severe restrictions placed on the substances' use."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmze75r55g3jo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-12T00:12:59Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "e99a3aace497f67e5c9437b140b94b9afe3f52fb",
-   "title": "Scientists discover that necks didn't evolve for the reason we thought",
-   "summary": [
-    "Scientists have discovered that the first animals to venture onto land nearly 380 million years ago had surprisingly stiff necks, overturning a long-standing theory about evolution.",
-    "Rather than evolving to help animals turn their heads, necks may have emerged as part of the anatomical changes that allowed them to move using their front limbs."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261108233101.htm",
-   "image": null,
-   "published_at": "2026-11-11T23:49:03Z",
    "category": "science",
    "related": []
   }
