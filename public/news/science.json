@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-14T03:04:22.624877Z",
- "story_count": 12,
+ "generated_at": "2026-11-14T10:12:15.467585Z",
+ "story_count": 14,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -24,6 +24,19 @@
  },
  "stories": [
   {
+   "id": "7d4620104e59f2ab536ba86dd312e13e9fad820b",
+   "title": "Extreme weather leaves gardeners hedging their bets",
+   "summary": [
+    "Gardeners across Sussex are changing their planting strategies after this year's unprecedented heat."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6qj5r2qzqpwo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-14T07:12:14Z",
+   "category": "science",
+   "related": []
+  },
+  {
    "id": "0c1ae2e3c7d62f45ada879790441cf3efaca60ff",
    "title": "Bluetongue virus confirmed on County Down farm",
    "summary": [
@@ -32,7 +45,36 @@
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-14T00:17:45Z",
+   "published_at": "2026-11-14T06:56:58Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "171b720aca8eaa16756440080d55cc2dbae4f011",
+   "title": "5,000-year-old skulls reveal a disturbing secret of ancient Egypt's first kings",
+   "summary": [
+    "A 5,000-year-old mystery surrounding the tombs of Egypt’s first kings has taken a disturbing turn.",
+    "Scientists reexamining 46 ancient skulls discovered evidence of potentially fatal head injuries in 18, suggesting that at least 39% of those studied may have been deliberately killed.",
+    "The findings support a century-old theory that royal attendants were sacrificed when kings died, possibly to serve them in the afterlife."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261112025540.htm",
+   "image": null,
+   "published_at": "2026-11-14T02:59:05Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "39136d85fce30fe74d6888467d48ae3e7d1f1588",
+   "title": "Scientists capture electrons making seemingly impossible quantum jumps",
+   "summary": [
+    "Scientists have captured electrons making seemingly impossible jumps across forbidden energy gaps in graphene, with some transitions occurring at a remarkable 100% probability.",
+    "The breakthrough offers an unprecedented look at quantum behavior and could help unlock a new generation of ultrafast, light-controlled electronics."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261112025523.htm",
+   "image": null,
+   "published_at": "2026-11-14T01:13:05Z",
    "category": "science",
    "related": []
   },
@@ -170,19 +212,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cqe8r8ngjepjo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-13T06:05:49Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "e5169f431f59a7e563bf1305e9967fb70fe383fb",
-   "title": "BBC Inside Science",
-   "summary": [
-    "China: climate saviour or global villain?"
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/sounds/play/w3ct978l?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-12T21:00:00Z",
    "category": "science",
    "related": []
   }
