@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-15T01:46:48.038859Z",
- "story_count": 40,
+ "generated_at": "2026-11-15T09:12:09.855635Z",
+ "story_count": 35,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "ok",
-  "https://www.dawn.com/feeds/pakistan": "ok",
+  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,9 +20,113 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
+  "https://www.espn.com/espn/rss/news": "ok"
  },
  "stories": [
+  {
+   "id": "0237c2ed4dfc16bcf722a988d4a062ad40d63b1e",
+   "title": "Disk encryption on NetBSD – achieving secrecy",
+   "summary": [
+    "Article URL: https://netbsd.org/~nia/disk-encrypt/ Comments URL: https://news.ycombinator.com/item?id=50504277 Points: 15 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://netbsd.org/~nia/disk-encrypt/",
+   "image": null,
+   "published_at": "2026-11-15T05:29:54Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "6e99cd2a6aeba56878ce1b687e2a860708070e2a",
+   "title": "Kiri – The Modern Container Runtime",
+   "summary": [
+    "Article URL: https://runkiri.com/ Comments URL: https://news.ycombinator.com/item?id=50504077 Points: 30 # Comments: 16"
+   ],
+   "source": "Hacker News",
+   "url": "https://runkiri.com/",
+   "image": null,
+   "published_at": "2026-11-15T04:40:41Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "5ec3910099d55c90ff14991dc56922e74f18766e",
+   "title": "Show HN: Gawain – Require type hints on all Python variables",
+   "summary": [
+    "Yes, i really hate \"dict[str, ANY]\" Comments URL: https://news.ycombinator.com/item?id=50504072 Points: 44 # Comments: 21"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/matheuzgomes/gawain",
+   "image": null,
+   "published_at": "2026-11-15T04:39:25Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "fa6f9a523c4f065160975fed7b7b27f6e36f6947",
+   "title": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+   "summary": [
+    "Article URL: https://github.com/Tthanh2k6/turbo-browser-mcp Comments URL: https://news.ycombinator.com/item?id=50503930 Points: 31 # Comments: 5"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+   "image": null,
+   "published_at": "2026-11-15T04:09:11Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ee705bff49c2bac43ee0e59e406db8ffb82704bf",
+   "title": "My favourite modern NES games",
+   "summary": [
+    "Article URL: https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/ Comments URL: https://news.ycombinator.com/item?id=50503465 Points: 64 # Comments: 5"
+   ],
+   "source": "Hacker News",
+   "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
+   "image": null,
+   "published_at": "2026-11-15T02:41:25Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "4f0ce258a369f23981f55a946d2338dfd9be8759",
+   "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+   "summary": [
+    "Article URL: https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches Comments URL: https://news.ycombinator.com/item?id=50503255 Points: 219 # Comments: 56"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
+   "image": null,
+   "published_at": "2026-11-15T02:00:54Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "14ba8d16905942f36916d052236d749017acd32c",
+   "title": "Court denies motion to dismiss DRAM price fixing case",
+   "summary": [
+    "Article URL: https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal Comments URL: https://news.ycombinator.com/item?id=50502988 Points: 110 # Comments: 25"
+   ],
+   "source": "Hacker News",
+   "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+   "image": null,
+   "published_at": "2026-11-15T01:18:36Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "59e30295289f34a209fe00f30dfa3004664c227f",
+   "title": "Show HN: A custom font based on the Jamaican flag alphabet",
+   "summary": [
+    "Article URL: https://bobbiec.github.io/jamaican-font.html Comments URL: https://news.ycombinator.com/item?id=50502839 Points: 35 # Comments: 6"
+   ],
+   "source": "Hacker News",
+   "url": "https://bobbiec.github.io/jamaican-font.html",
+   "image": null,
+   "published_at": "2026-11-15T00:56:45Z",
+   "category": "tech",
+   "related": []
+  },
   {
    "id": "cdf34d438f124e675638b8220f280dcbd745212a",
    "title": "Where was Nvidia’s security team?",
@@ -37,36 +141,10 @@
    "related": []
   },
   {
-   "id": "8470fcd7636e02b4075a28689f7823379fe4f2d9",
-   "title": "L3Harris statement on the Nov. 13 ground stop",
-   "summary": [
-    "Article URL: https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop Comments URL: https://news.ycombinator.com/item?id=50501844 Points: 65 # Comments: 34"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop",
-   "image": null,
-   "published_at": "2026-11-14T22:51:44Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "0322d2a0d024b3002046f20030349ea5a4cfb945",
-   "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
-   "summary": [
-    "Article URL: https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html Comments URL: https://news.ycombinator.com/item?id=50501631 Points: 173 # Comments: 90"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
-   "image": null,
-   "published_at": "2026-11-14T22:26:30Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "cce942626afe3b381c2cecbcbf4282b92fe788e1",
    "title": "How did Woz write the Apple 1 BASIC before building the computer?",
    "summary": [
-    "Article URL: https://retrocomputing.stackexchange.com/questions/17957 Comments URL: https://news.ycombinator.com/item?id=50501594 Points: 86 # Comments: 27"
+    "Article URL: https://retrocomputing.stackexchange.com/questions/17957 Comments URL: https://news.ycombinator.com/item?id=50501594 Points: 205 # Comments: 98"
    ],
    "source": "Hacker News",
    "url": "https://retrocomputing.stackexchange.com/questions/17957",
@@ -92,7 +170,7 @@
    "id": "4e501f9826d014090ed9312e94f357780c8cd449",
    "title": "SpaceX catches the Starship to end Flight 15",
    "summary": [
-    "https://x.com/SpaceX/status/2121316300702056595https://youtu.be/jHlpfNSpBmw?t=3233 Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 689 # Comments: 459"
+    "https://x.com/SpaceX/status/2121316300702056595https://youtu.be/jHlpfNSpBmw?t=3233 Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 1167 # Comments: 762"
    ],
    "source": "Hacker News",
    "url": "https://www.spacex.com/launches/starship-flight-15",
@@ -115,15 +193,15 @@
    "related": []
   },
   {
-   "id": "15b6fbabb889152fcff68b35c7bea67c364d9423",
-   "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
+   "id": "7640cc164999215c1b5f0c028e45bd7809ce2563",
+   "title": "Art ‘must not be sacrificed on the altar of corporate profit’, Liberal senator says as AI policy debate rages",
    "summary": [
-    "Article URL: https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379 Comments URL: https://news.ycombinator.com/item?id=50499723 Points: 188 # Comments: 102"
+    "Andrew McLachlan says he chooses ‘real forests over virtual ones’ as he urges Labor government to consider AI’s impact on artists and environmentGet our daily political email, free app or daily news podcastThe outspoken Liberal senator Andrew McLachlan has raised the alarm about "
    ],
-   "source": "Hacker News",
-   "url": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
-   "image": null,
-   "published_at": "2026-11-14T18:56:47Z",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan",
+   "image": "https://i.guim.co.uk/img/media/bb100c4ad17c64282442b40c27895d51765e32dd/0_0_3485_2789/master/3485.jpg?width=140&quality=85&auto=format&fit=max&s=d72d9f2961e3b70e5c920ce9fd1fa088",
+   "published_at": "2026-11-14T19:00:52Z",
    "category": "tech",
    "related": []
   },
@@ -144,7 +222,7 @@
    "id": "0981be9212e15dfdd23c79f90e607ff0ec22d5f4",
    "title": "A family tree of software job titles",
    "summary": [
-    "Article URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/ Comments URL: https://news.ycombinator.com/item?id=50499038 Points: 205 # Comments: 101"
+    "Article URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/ Comments URL: https://news.ycombinator.com/item?id=50499038 Points: 297 # Comments: 147"
    ],
    "source": "Hacker News",
    "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
@@ -170,7 +248,7 @@
    "id": "9f394f52c81397194e4177c1acfef8ddde929a0f",
    "title": "Lovable apps expose passport details and more than 200K private messages",
    "summary": [
-    "Article URL: https://www.crissyfield.de/research/lovable-en/ Comments URL: https://news.ycombinator.com/item?id=50499017 Points: 638 # Comments: 271"
+    "Article URL: https://www.crissyfield.de/research/lovable-en/ Comments URL: https://news.ycombinator.com/item?id=50499017 Points: 796 # Comments: 311"
    ],
    "source": "Hacker News",
    "url": "https://www.crissyfield.de/research/lovable-en/",
@@ -206,23 +284,10 @@
    "related": []
   },
   {
-   "id": "796d677860326f1f649ec4bfb4b6ad99a22e9b96",
-   "title": "Creating a self booting ZIP archive",
-   "summary": [
-    "Article URL: https://goliath32.com/blog/ziphead.html Comments URL: https://news.ycombinator.com/item?id=50498295 Points: 51 # Comments: 7"
-   ],
-   "source": "Hacker News",
-   "url": "https://goliath32.com/blog/ziphead.html",
-   "image": null,
-   "published_at": "2026-11-14T16:29:05Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "9b08084c1635df93d057a5c19cbd0b8001f098e6",
    "title": "PyPI's redesigned project pages with clearer security signals are now live",
    "summary": [
-    "Article URL: https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/ Comments URL: https://news.ycombinator.com/item?id=50497892 Points: 203 # Comments: 92"
+    "Article URL: https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/ Comments URL: https://news.ycombinator.com/item?id=50497892 Points: 239 # Comments: 100"
    ],
    "source": "Hacker News",
    "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
@@ -235,53 +300,12 @@
    "id": "ad8b3d5bdfd0d7ff6bc7be05d05e550781855268",
    "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
    "summary": [
-    "Article URL: https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax Comments URL: https://news.ycombinator.com/item?id=50497589 Points: 175 # Comments: 8"
+    "Article URL: https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax Comments URL: https://news.ycombinator.com/item?id=50497589 Points: 228 # Comments: 21"
    ],
    "source": "Hacker News",
    "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
    "image": null,
    "published_at": "2026-11-14T15:04:15Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "222ba060ebf9cb28bee785ec1bc86c13801377db",
-   "title": "Demystifying phone unlocking tools: A technical overview",
-   "summary": [
-    "Article URL: https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/ Comments URL: https://news.ycombinator.com/item?id=50497416 Points: 75 # Comments: 6"
-   ],
-   "source": "Hacker News",
-   "url": "https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/",
-   "image": null,
-   "published_at": "2026-11-14T14:44:28Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "ad49a76de154c4709bfb4383a636c07622788d77",
-   "title": "Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
-   "summary": [
-    "Article URL: https://github.com/FURSOY/fursoy-cpu Comments URL: https://news.ycombinator.com/item?id=50497137 Points: 70 # Comments: 23"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/FURSOY/fursoy-cpu",
-   "image": null,
-   "published_at": "2026-11-14T14:06:34Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "5bfa2e37b7da2747099bd154ead91acba9efae94",
-   "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
-   "summary": [
-    "Please try it out if you'd like to play a cozy factory game while waiting for long agent tasks to finish!The game is a factory game (overused niche, i know xD), but runs in your terminal.",
-    "Reason i built it? glad you asked: So basically, it started off with me wanting a terminal-native factory game.",
-    "(yes, I had heavy AI assistance, disclaimer!!!)Right now, the game has basic factory features you'd expect from a game like this (build stuff, delete stuff, measure how much you're earning, basic selection tools), along with a few more.."
-   ],
-   "source": "Hacker News",
-   "url": "https://gitlab.com/snipedbywifi/terminactory",
-   "image": null,
-   "published_at": "2026-11-14T14:05:54Z",
    "category": "tech",
    "related": []
   },
@@ -301,23 +325,10 @@
    "related": []
   },
   {
-   "id": "46727303ebefc9c896d19d456cae222a733dfba3",
-   "title": "Italy fines Meta $887M over Android users' data access",
-   "summary": [
-    "Article URL: https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/ Comments URL: https://news.ycombinator.com/item?id=50497009 Points: 334 # Comments: 223"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
-   "image": null,
-   "published_at": "2026-11-14T13:48:06Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "fbb4c2fd353eb3806eaca20f900e7b8adcdfdf10",
    "title": "KDE: The documentary [video]",
    "summary": [
-    "Article URL: https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c Comments URL: https://news.ycombinator.com/item?id=50496976 Points: 382 # Comments: 82"
+    "Article URL: https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c Comments URL: https://news.ycombinator.com/item?id=50496976 Points: 458 # Comments: 100"
    ],
    "source": "Hacker News",
    "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
@@ -327,41 +338,15 @@
    "related": []
   },
   {
-   "id": "65ebb5670c6dd668ed8a00c3c1464608da99b757",
-   "title": "A visual explanation of reinforcement learning",
-   "summary": [
-    "Article URL: https://aatishb.com/myriad/how-brains-learn/ Comments URL: https://news.ycombinator.com/item?id=50496885 Points: 123 # Comments: 6"
-   ],
-   "source": "Hacker News",
-   "url": "https://aatishb.com/myriad/how-brains-learn/",
-   "image": null,
-   "published_at": "2026-11-14T13:31:06Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "be81354d8a302a35aaed2627d58a26fa2f7f60b7",
    "title": "Advancing science and engineering with Antigravity's /teamwork",
    "summary": [
-    "Article URL: https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/ Comments URL: https://news.ycombinator.com/item?id=50496811 Points: 162 # Comments: 37"
+    "Article URL: https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/ Comments URL: https://news.ycombinator.com/item?id=50496811 Points: 194 # Comments: 42"
    ],
    "source": "Hacker News",
    "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
    "image": null,
    "published_at": "2026-11-14T13:20:43Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "f67a5ae71b6ef2be1568f19c3002aff2a8f7afdd",
-   "title": "Tech companies are trying to shift the concept of privacy again",
-   "summary": [
-    "Article URL: https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again Comments URL: https://news.ycombinator.com/item?id=50496602 Points: 464 # Comments: 175"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
-   "image": null,
-   "published_at": "2026-11-14T12:45:45Z",
    "category": "tech",
    "related": []
   },
@@ -382,12 +367,25 @@
    "id": "1838248a60d9044040f647fbae585a096108889a",
    "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
    "summary": [
-    "Article URL: https://projectzero.google/2026/11/disclosure-policy.html Comments URL: https://news.ycombinator.com/item?id=50496051 Points: 158 # Comments: 40"
+    "Article URL: https://projectzero.google/2026/11/disclosure-policy.html Comments URL: https://news.ycombinator.com/item?id=50496051 Points: 241 # Comments: 109"
    ],
    "source": "Hacker News",
    "url": "https://projectzero.google/2026/11/disclosure-policy.html",
    "image": null,
    "published_at": "2026-11-14T11:13:17Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a87af2f6d322bc3a975ca68d2ff5d334a3a0ae0e",
+   "title": "Microsoft says services fully restored after day-long global outage",
+   "summary": [
+    "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-14T06:42:27Z",
    "category": "tech",
    "related": []
   },
@@ -481,72 +479,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-13T21:15:41Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "9b3aa77d2c63e431c2c069893b4347c2359d6ad2",
-   "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
-   "summary": [
-    "Drogue is harvesting heat from the ocean to power data centers on floating vessels.",
-    "The first prototype should be bobbing around the ocean, crunching bits, in less than two years."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
-   "image": null,
-   "published_at": "2026-11-13T20:07:24Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "5659d244156ae8cfd0d9f96481d51f6ff474200b",
-   "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
-   "summary": [
-    "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\"."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-13T19:53:57Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "38741df50e34ad2460eb78bac0180c24c6f90114",
-   "title": "AI agent startup LangChain hits $3B valuation",
-   "summary": [
-    "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-   "image": null,
-   "published_at": "2026-11-13T19:37:57Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "f17748102e2c4282790684de95422a1224afa0cf",
-   "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-   "summary": [
-    "New research shows the most advanced AI models from China were trained on banned Nvidia chips."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-   "image": null,
-   "published_at": "2026-11-13T18:40:30Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "9024dba0337b63a3deb4e8679836ac96d384117c",
-   "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-   "summary": [
-    "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-13T18:36:57Z",
    "category": "tech",
    "related": []
   }

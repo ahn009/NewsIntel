@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-15T01:46:48.038102Z",
- "story_count": 40,
+ "generated_at": "2026-11-15T09:12:09.855153Z",
+ "story_count": 34,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "ok",
-  "https://www.dawn.com/feeds/pakistan": "ok",
+  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,194 +20,453 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
+  "https://www.espn.com/espn/rss/news": "ok"
  },
  "stories": [
   {
-   "id": "e5049da82f89c5e42c778aaabfafedf3265c1592",
-   "title": "Broken record: Quaid’s visit, an RSS cell, and Dawn under attack",
+   "id": "53480ea0c90e30e4c716878f3af2a5092e27fa8c",
+   "title": "Senior Hamas commander killed in Israeli strike in Gaza",
    "summary": [
-    "As refugees continued to pour into Pakistan, often surviving unspeakable violence en route, Quaid-i-Azam Mohammad Ali Jinnah, in a true display of leadership, met with the frazzled masses, urging them to keep hope alive.",
-    "This, along with the busting of an RSS cell in Karachi, and a violent mob attack on Dawn’s Delhi press, marked some of the prominent stories from Sept 15 to 21, 1947.",
-    "As Dawn was considered the voice of the Muslim League, and therefore the voice of the subcontinent’s Muslims, it was an easy target for extremists who opposed Pakistan and the Quaid’s grand old party."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2044514/broken-record-quaids-visit-an-rss-cell-and-dawn-under-attack",
-   "image": "https://i.dawn.com/large/2026/10/11021618a8042ef.webp",
-   "published_at": "2026-11-14T22:42:04Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "0492d6db69e12357c4351b8a7cf2391c305a7d79",
-   "title": "Thousands rally in Antalya to demand climate justice as COP31 talks hit midpoint",
-   "summary": [
-    "Thousands of protesters on Saturday took to the streets in the Turkish city hosting COP31 to accuse the climate summit of failing those bearing the brunt of environmental destruction.",
-    "The negotiations hit the halfway point Saturday, but countries remain far apart on contentious issues including financing adaptation measures in developing nations, defending climate science, and shifting from fossil fuels to clean energy.",
-    "No single COP can magic this crisis away, but each must drive progress,” UN climate chief Simon Stiell told reporters on Saturday."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2044520/thousands-rally-in-antalya-to-demand-climate-justice-as-cop31-talks-hit-midpoint",
-   "image": "https://i.dawn.com/large/2026/11/1500295530940f2.webp",
-   "published_at": "2026-11-14T19:32:46Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "b137e8a162716b3398bc349f16e8b5d762aa1f1f",
-   "title": "FO says Climate Minister Musadik Malik nominated to represent Pakistan at SCO moot in New Delhi",
-   "summary": [
-    "The Foreign Office (FO) said on Saturday that Climate Change Minister Musadik Malik had been nominated to represent Pakistan at the Shanghai Cooperation Organisation (SCO) Civilisational Dialogue in New Delhi from Nov 20-22.",
-    "In a press briefing on Friday, Indian foreign ministry spokesperson Randhir Jaiswal said that India has invited several SCO member states to take part in the dialogue, adding that New Delhi looks forward to hosting the gathering.",
-    "Pakistan’s chairmanship of SCO CHS marks another step in the country’s growing engagement with the regional organisation, which has expanded its focus from security cooperation to economic development and regional connectivity."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2044492/fo-says-climate-minister-musadik-malik-nominated-to-represent-pakistan-at-sco-moot-in-new-delhi",
-   "image": "https://i.dawn.com/large/2026/09/160726284d2b412.webp",
-   "published_at": "2026-11-14T19:02:11Z",
-   "category": "pakistan",
-   "related": [
-    {
-     "source": "Express Tribune",
-     "url": "https://tribune.com.pk/story/2640294/musadik-malik-to-represent-pakistan-at-new-delhi-sco-dialogue-fo"
-    }
-   ]
-  },
-  {
-   "id": "656d8fd05c1aa0864f5b110fec53b3a6530a7c13",
-   "title": "'Check, one two': Technical glitch hits US presser on air travel chaos",
-   "summary": [
-    "Duffy soon resumed, but brittle feedback hit the room seconds later and his demeanour shifted, presumably all-too-aware that the symbolism of an on-camera tech meltdown after such a major flight disruption was not going unnoticed. “This is not operational?",
-    "Duffy and Bedford repeatedly pointed to ongoing systemic issues with transitioning from ageing air traffic control technology from the 1970s and 1980s to more modern equipment.",
-    "As technicians scrambled, US networks carried the awkward pause — lasting an excruciating three minutes — live on the air."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2044519/check-one-two-technical-glitch-hits-us-presser-on-air-travel-chaos",
-   "image": "https://i.dawn.com/large/2026/11/14234055ec40d10.webp",
-   "published_at": "2026-11-14T18:50:41Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "386160beddef7813e5f0c1de88c607058c1a1cf5",
-   "title": "Major among 4 troops martyred, 24 terrorists killed during operations in KP and Balochistan: ISPR",
-   "summary": [
-    "Four troops, including a major, were martyred while 24 terrorists were killed in multiple intelligence-based operations (IBOs) in Balochistan and Khyber Pakhtunkhwa’s North Waziristan, the military’s media wing said on Saturday.",
-    "On the night of Nov 13/14 in Kolpur, security forces “successfully neutralised eight Indian-sponsored terrorists of Fitna al Hindustan (FAH), including a suicide bomber, and recovered a large cache of weapons and ammunition”, ISPR said.",
-    "In an earlier statement, ISPR said two soldiers were martyred and 16 terrorists were killed as security forces continued a series of IBOs in North Waziristan."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2044488/major-among-4-troops-martyred-24-terrorists-killed-during-operations-in-kp-and-balochistan-ispr",
-   "image": "https://i.dawn.com/large/2026/11/14200150bdaf7ec.webp",
-   "published_at": "2026-11-14T18:12:14Z",
-   "category": "pakistan",
-   "related": [
-    {
-     "source": "Express Tribune",
-     "url": "https://tribune.com.pk/story/2640285/16-terrorists-killed-two-soldiers-martyred-in-k-p-operations-ispr"
-    }
-   ]
-  },
-  {
-   "id": "589c4af6241ca09870ac4a8979ab5c50b3b93a1a",
-   "title": "Abdul Samad’s late strike sends Pakistan into historic SAFF Championship final",
-   "summary": [
-    "Abdul Samad Arshad struck a sensational late winner to guide Pakistan into their first-ever SAFF Championship final, as Nolberto Solano’s side held off sustained pressure from hosts Bangladesh to secure a dramatic 1-0 semi-final victory at the National Stadium on Saturday.",
-    "With Bangladesh dominating possession and looking the more likely side to break the deadlock, Samad produced a moment of individual brilliance in the closing stages to silence the home crowd and make history for Pakistan football.",
-    "Solano’s side will be aiming to cap their historic campaign by overcoming India and securing Pakistan’s first-ever SAFF Championship title."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2044516/abdul-samads-late-strike-sends-pakistan-into-historic-saff-championship-final",
-   "image": "https://i.dawn.com/large/2026/11/14224734ecb4862.webp",
-   "published_at": "2026-11-14T17:54:18Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "b296a44494265d9319b85ecdc5f6678ae4827580",
-   "title": "President Zardari, PM Shehbaz discuss country's political, economic and security situation",
-   "summary": [
-    "President Asif Ali Zardari and Prime Minister Shehbaz Sharif on Saturday discussed the country’s political, economic and security situation in detail, the premier’s office said.",
-    "President Zardari’s meeting with the premier comes just two days after Interior Minister Mohsin Naqvi called on the president.",
-    "The last publicly reported meeting between President Zardari and PM Shehbaz was on Oct 10, where the two discussed the country’s security situation just a day before the federal government imposed emergency and governor’s rule in Khyber Pakhtunkhwa."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2044497/president-zardari-pm-shehbaz-discuss-countrys-political-economic-and-security-situation",
-   "image": "https://i.dawn.com/large/2026/11/1422382908f7e1a.webp",
-   "published_at": "2026-11-14T17:37:20Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "f92a7eafb36eef51f78170486da3ea65f9c91e1d",
-   "title": "Microsoft announces service 'restored', global outage over",
-   "summary": [
-    "Microsoft had already reported a “broad recovery” for Outlook email and other services the day before, stating the major disruption was due to a technical issue and “not related to cyber or AI/agents”.",
-    "It said the stoppage affected its Outlook email service, as well as Microsoft’s Teams communication platform and the company’s Copilot AI assistant.",
-    "Microsoft on Friday apologised for the global outage as it reported a “broad recovery” for Outlook email and other services."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2044507/microsoft-announces-service-restored-global-outage-over",
-   "image": "https://i.dawn.com/large/2025/07/0510025891c8b96.jpg",
-   "published_at": "2026-11-14T17:28:45Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "58953e7100c1ff31f0f3119e01a56a8d013705ab",
-   "title": "Musk says Nvidia will lose 'critical' deals without Jensen Huang",
-   "summary": [
-    "Elon Musk said on Saturday that chipmaker Nvidia would lose “critical” deals without its now-ousted chief executive officer (CEO) Jensen Huang.",
-    "Insiders and tech titans in the running Huang’s exit plunges the $4 trillion company into uncertainty and threatens to disrupt an AI ecosystem that he helped bankroll by pouring Nvidia’s swelling cash pile back into cloud providers, suppliers and the industry’s biggest labs.",
-    "Nvidia’s board has approached British chipmaker Arm Holdings CEO Rene Haas in its search for a potential successor to Jensen Huang, the Financial Times reported on Friday, citing people familiar with the matter."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2044511/musk-says-nvidia-will-lose-critical-deals-without-jensen-huang",
-   "image": "https://i.dawn.com/large/2026/11/142227255caddca.webp",
-   "published_at": "2026-11-14T17:28:12Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "5d9b007db30ab8c599a376f238f74a1ab807f970",
-   "title": "Mir Raza murder case: Ex-SHO dismissed over misconduct, mishandling of evidence",
-   "summary": [
-    "Last month, a judicial commission constituted by the Sindh government recommended an inquiry against Qureshi, who was suspended from duty, over the possible facilitation of the destruction of evidence.",
-    "The order further noted that an inquiry was conducted by Central Senior Superintendent of Police (SSP) Muhammad Imran Khan, who observed that Qureshi not only failed to discharge his duties in securing the crime scene and evidence, but did not even visit the site.",
-    "In its 62-page report, the commission, while severely criticising the police investigation, came to the conclusion that it was a “murder”, and made a host of recommendations, including formation of a joint investigation team (JIT) to probe the case."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2044503/mir-raza-murder-case-ex-sho-dismissed-over-misconduct-mishandling-of-evidence",
-   "image": "https://i.dawn.com/large/2026/09/2119342355faaa8.webp",
-   "published_at": "2026-11-14T17:00:47Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "ac67b8bca126a3f84ccdb6ecd765a7821dffea02",
-   "title": "US flights resume after rare hours-long nationwide grounding but cancellations, delays persist",
-   "summary": [
-    "Weary travellers braced for more delays and cancellations on Saturday as flights resumed from US airports after being grounded for four hours due to a major outage on outdated communications systems.",
-    "Yeah, you know, it’s just a mess, right?” Lisa Beraid, 48, who works for an insurance company, told AFP, as she waited for a flight Saturday morning at New York’s La Guardia airport.",
-    "So they’re flying today and for that I’m grateful.” Decades-old equipment The ground stop not only plunged US air travel into chaos; it has raised serious concerns about the country’s ageing infrastructure."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2044466/us-flights-resume-after-rare-hours-long-nationwide-grounding-but-cancellations-delays-persist",
-   "image": "https://i.dawn.com/large/2026/11/1421091683785c7.webp",
-   "published_at": "2026-11-14T16:45:03Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "6b9c54b6daa616f73e29b9b452cfd6adbf9afd84",
-   "title": "Remittances, cheaper oil lift PSX",
-   "summary": [
-    "The index initially opened on a positive note, gaining over 1,000 points (+0.60%) in the first half to above 178,000 and extending the advance to 179,284 (+1,911 points, +1.08%) intra-day high in the afternoon, before late profit-taking trimmed gains to end trading near 178k.",
-    "Arif Habib Limited (AHL) noted that the KSE-100 closed just shy of 178k points, up 2.29% from 174k last week, as the continuously declining oil prices eased inflationary concerns among market participants.",
-    "Net metering rebounded in Sept'26 and now accounts for 1.29% of total generation, up 16 basis points YoY, and units moved higher by 28.9% MoM."
+    "The Israeli military said it had killed Abu Younis in a strike in the southern Gaza Strip overnight, adding that he had led the Rafah brigade since his predecessor, Nael Abu Obeid, was killed on September 15.",
+    "Read: Israeli strike on Gaza hospital kills six Hamas said Abu Younis joined Hamas' armed wing in 1991 and had held several senior operational roles in Rafah before becoming commander of the brigade.",
+    "Palestinian authorities say more than 74,000 people have been killed in the military campaign that Israel launched against Gaza after Hamas-led fighters killed about 1,200 people in southern Israel in the October 7 attack."
    ],
    "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2640351/remittances-cheaper-oil-lift-psx",
+   "url": "https://tribune.com.pk/story/2640430/senior-hamas-commander-killed-in-israeli-strike-in-gaza",
+   "image": null,
+   "published_at": "2026-11-15T03:04:22Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "71436df4766a2d8d56a21ea51495bf466dc1c02d",
+   "title": "Australia retain women's Rugby League World Cup",
+   "summary": [
+    "Winger Jaime Chapman collected a hat-trick as Australia crushed New Zealand 34-10 on Sunday with an emphatic first-half performance to clinch their fourth consecutive women's Rugby League World Cup.",
+    "This has definitely been a dream come true, and I knew that we could get the job done.\" Before Australia's global rise, New Zealand won the World Cup in 2000, 2003 and 2008.",
+    "New Zealand finally got on the board when Shannon Mato barged across, but Chapman's third, bursting two tackles to race away, put Australia back in full control before Tamika Upton added a sixth before half-time."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2640429/australia-retain-womens-rugby-league-world-cup",
+   "image": null,
+   "published_at": "2026-11-15T03:01:28Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "33c5c45b11919bb74d5e1c9f5ad2b7e34b169b5c",
+   "title": "Sayers says everyone knew about 'Sandpapergate'",
+   "summary": [
+    "Former Australian Test bowler Chadd Sayers backed Usman Khawaja over his \"Sandpapergate\" claims on Sunday, contradicting Pat Cummins' denials that he knew nothing about the ball-tampering plot.",
+    "Sayers was on the tour of South Africa but did not play in the third Test at Cape Town, where sandpaper was used to help make the ball swing.",
+    "Khawaja also alleged sandpaper was used in the second Test at Port Elizabeth, with Sayers saying he was the one who took it from the field."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2640427/sayers-says-everyone-knew-about-sandpapergate",
+   "image": null,
+   "published_at": "2026-11-15T02:57:39Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "c82a9109af88ea77a266004847a8f3e6841d5d21",
+   "title": "Ciryl Gane downs Josh Hokit to retain UFC heavyweight title",
+   "summary": [
+    "UFC heavyweight champion Ciryl Gane of France successfully defended his title for the first time, sweeping the scorecards 48-47, 48-47, 48-47 against Josh Hokit in the main event of UFC 334 at Madison Square Garden in New York on Saturday night.",
+    "As Hokit's punches began to fade in Round ⁠4, Gane took control, countering the challenger's fence clinches with several body kicks, knees to the midsection and short, dirty-boxing uppercuts.",
+    "With the result still in the balance in Round 5, Gane stuffed Hokit's takedown attempts and opened a cut just above his left eye, then dominated the striking with jabs, body shots and multi-punch combinations through the end of the round."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2640426/ciryl-gane-downs-josh-hokit-to-retain-ufc-heavyweight-title",
+   "image": null,
+   "published_at": "2026-11-15T02:51:58Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "18c48af2d9e97c6c3de833aca032fcb39dc85d43",
+   "title": "UPS cargo plane, Copa Airlines passenger jet collide at Miami airport in US",
+   "summary": [
+    "A UPS cargo plane and a Copa Airlines passenger jet collided at Miami International Airport in the US state of Florida late on Saturday, prompting an emergency response, local media reported.",
+    "The collision occurred around 9:15pm local time (0215GMT Sunday) when an arriving aircraft and a departing plane came into contact at the intersection of two taxiways, Greg Chin, communications director at Miami International Airport, said.",
+    "The collision occurred as Miami International Airport continued to experience flight delays and cancellations following an unusual nationwide ground stop ordered on Friday by the Federal Aviation Administration."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2640425/ups-cargo-plane-copa-airlines-passenger-jet-collide-at-miami-airport-in-us",
+   "image": null,
+   "published_at": "2026-11-15T02:26:26Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "af28cae94b7d2d45fc3f97743411d8c5575e1e5e",
+   "title": "Officials from Azerbaijan, Kazakhstan, Turkiye arrive in Islamabad for 30th ECO ministerial meeting",
+   "summary": [
+    "Mr. Elnur Mammadov, Deputy Minister of Foreign Affairs of the Republic of Azerbaijan and Head of Delegation, arrived in Islamabad to participate in the 30th ECO Council of Ministers Meeting.",
+    "Mr. Ismail Ould Cheikh Ahmed, Secretary General of the Organisation of Islamic Cooperation, arrived in Islamabad to participate in the 30th ECO Council of Ministers Meeting.",
+    "He was received at Islamabad International Airport by the officers of MoFA. pic.twitter.com/dZO3XWeETf — Ministry of Foreign Affairs - Pakistan (@ForeignOfficePk) November 15, 2026 H.E."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2640424/officials-from-azerbaijan-kazakhstan-turkiye-arrive-in-islamabad-for-30th-eco-ministerial-meeting",
+   "image": null,
+   "published_at": "2026-11-15T01:37:43Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "ba7fd5fa776892bd9fd42967757c2bb038fbc11d",
+   "title": "Mohammad Yousuf, Sana Mir inducted into PCB Hall of Fame",
+   "summary": [
+    "Former Pakistan batting great Mohammad Yousuf and former women’s team captain Sana Mir have been inducted into the PCB Hall of Fame for 2025 in recognition of their outstanding performances and valuable contributions to Pakistan cricket.",
+    "Sana Mir, who became the first Pakistan woman cricketer to be inducted into the ICC Cricket Hall of Fame in 2025, has been automatically included in the PCB Hall of Fame in line with the PCB’s induction criteria.",
+    "Last year, Sana became the first Pakistan woman to be inducted into the ICC Cricket Hall of Fame, recognising her achievements and contribution to the women’s game."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2640423/mohammad-yousuf-sana-mir-inducted-into-pcb-hall-of-fame",
+   "image": null,
+   "published_at": "2026-11-15T01:32:26Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "0ce3961afd8f2c16a69d8bf3b5ebf2f916e3ae48",
+   "title": "US thrash Haiti as Pochettino prepares for farewell",
+   "summary": [
+    "McKennie's 68th-minute header put Pochettino's side 5-0 up and the US thought they had added a sixth soon afterwards when Balogun shrugged off Arcus to score from close range.",
+    "A VAR review, however, determined that Balogun had fouled Arcus in the build-up and the goal was chalked off.",
+    "Balogun did not have long to wait though for his 13th international goal, latching on to a Malik Tillman through ball to score in the 82nd minute."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2640421/us-thrash-haiti-as-pochettino-prepares-for-farewell",
+   "image": null,
+   "published_at": "2026-11-15T01:13:03Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "bab5aed8480de141923eee240c00f53d18d06fca",
+   "title": "Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province",
+   "summary": [
+    "The Saudi-led coalition fighting Yemen's Houthis said on Sunday it had intercepted two Houthi ballistic missiles launched towards the Saudi capital Riyadh and three drones in the kingdom's oil-rich Eastern Province.",
+    "The Houthis have stepped up strikes on ⁠Saudi airports, ports and oil facilities, while Saudi Arabia has ramped up airstrikes on Houthi targets ​in Yemen in response.",
+    "The interceptions come amid escalating hostilities between the Houthis and Saudi Arabia, with repeated missile and drone attacks targeting the kingdom."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2640417/saudi-led-coalition-intercepts-missiles-towards-riyadh-drones-in-eastern-province",
+   "image": null,
+   "published_at": "2026-11-15T00:49:26Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "9730243b567cab2a161eac168c27ace0572ec37a",
+   "title": "Bahrain says its air defences intercepted several Iranian attacks",
+   "summary": [
+    "Israeli military officials estimate that Iran possesses more than 1,500 ballistic missiles, although regional assessments differ, according to the report.",
+    "Iran's missile and drone attacks have continued to expose vulnerabilities in US military installations, radar systems and early-warning infrastructure across the Middle East, according to the report.",
+    "Two oil tankers hit mines, catch fire near Strait of Hormuz: Iran's Revolutionary Guard Two oil tankers struck naval mines and caught fire south of the Strait of Hormuz, Iran's IRGC Navy said early on Sunday."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2640416/bahrain-issues-first-threat-alerts-since-september-as-iran-says-it-attacked-us-base",
+   "image": null,
+   "published_at": "2026-11-15T00:30:25Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "326a821351f5544fc61a47f4e76c6ca30a93ed15",
+   "title": "ATC moves to declare Afridi absconder",
+   "summary": [
+    "The court ordered issuance of notices under Section 87 of the Code of Criminal Procedure after police submitted a report stating the two nominated accused could not be located.",
+    "DFC Muhammad Iqbal of East Cantonment police station informed the court that arrest warrants issued under Section 204 CrPC against Muhammad Sohail Afridi and Muhammad Aamir Khan could not be executed despite all efforts.",
+    "More than 80 accused have been nominated in the Radio Pakistan attack case, whose trial is underway in the Anti-Terrorism Court."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2640412/atc-moves-to-declare-afridi-absconder",
+   "image": null,
+   "published_at": "2026-11-14T22:53:42Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "23fcd4df229534a0c25d8358becc0f6f592bd607",
+   "title": "CM vows no safe havens for terrorists in Balochistan",
+   "summary": [
+    "Balochistan Chief Minister Mir Sarfraz Bugti on Saturday declared that terrorist elements seeking to destabilise the province would not be allowed to establish safe havens, asserting that the state would employ an effective strategy to defeat terrorism and protect citizens.",
+    "Bugti was commenting on a recent security operation in the Kolpur area in which eight terrorists affiliated with the India-backed Fitna al-Hindustan were killed.",
+    "Intelligence-based operations are continuing in Kolpur, Kirdgap and Nushki, the chief minister said, while security has been further strengthened along the Quetta-Taftan National Highway to ensure the safety of citizens and uninterrupted movement of traffic."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2640413/cm-vows-no-safe-havens-for-terrorists-in-balochistan",
+   "image": null,
+   "published_at": "2026-11-14T22:53:42Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "f826462bb9c71a19af07f13a7287d9a14821d231",
+   "title": "ANP rejects any move to divide K-P",
+   "summary": [
+    "He said the ANP would not retreat even an inch from its position on protecting the province's mineral resources and ensuring their fair distribution.",
+    "He said the ANP would soon convene a meeting of its think tank to deliberate on the prevailing situation.",
+    "The ANP believes that the challenges confronting the province cannot be addressed by any single political party, he said, stressing the need for all political forces and relevant stakeholders to unite around a common minimum agenda."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2640415/anp-rejects-any-move-to-divide-k-p",
+   "image": null,
+   "published_at": "2026-11-14T22:53:42Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "e82704a6e1c5476b3edf0d6196c78e604bc5a077",
+   "title": "Pakistan seeks financing for household solar revolution",
+   "summary": [
+    "He said Pakistan’s solar transition was increasingly being driven by households making independent investments in rooftop solar installations, often without financial assistance from the government or international institutions.",
+    "He said households had effectively created a decentralised electricity generation system, with rooftops emerging as new centres of energy production.",
+    "The emerging rooftop solar model, he added, offered an alternative in which households could generate electricity locally and store surplus power for use when sunlight was unavailable."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2640408/pakistan-seeks-financing-for-household-solar-revolution",
+   "image": null,
+   "published_at": "2026-11-14T22:34:35Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "6086ff01047e0f8f279aab8f38cea2cd4aa149c3",
+   "title": "Akbari Gate to reopen after two centuries",
+   "summary": [
+    "The historic Akbari Gate of Lahore Fort is expected to be reopened to the public next month after remaining closed for nearly two centuries.",
+    "Located on the eastern side of the fort, the Akbari Gate had been constructed to connect the Walled City with the royal citadel.",
+    "An official, Owais Raza, said the gate would be opened to the public in December, allowing visitors to enter the fort through the historic route."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2640399/akbari-gate-to-reopen-after-two-centuries",
+   "image": null,
+   "published_at": "2026-11-14T22:03:59Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "005710822ce969281467fb620fb3236d266e31dc",
+   "title": "A 37-year-old mystery, satellite image and missing aircraft",
+   "summary": [
+    "Sabih Ali Rajput claims to have identified the possible remains of flight PK-404 in a remote, snow-covered mountainous region near Tajikistan, after spending two years examining satellite imagery and retracing the aircraft's final journey through Google Earth.",
+    "Rajput says his investigation involved piecing together the aircraft's route, estimated flight duration, fuel capacity and other available information before scanning satellite images of remote mountain ranges.",
+    "Rajput believes the aircraft may have attempted to turn back towards Gilgit because of bad weather."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2640391/a-37-year-old-mystery-satellite-image-and-missing-aircraft",
+   "image": null,
+   "published_at": "2026-11-14T21:21:38Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "f90816083f27873b69bbc354dea8c72bdb82cbbe",
+   "title": "Unhygienic conditions at JPMC threaten safety of doctors, patients",
+   "summary": [
+    "Doctors at the endoscopy ward of Jinnah Postgraduate Medical Centre (JPMC) are reportedly being forced to use old and contaminated lead aprons bearing visible blood stains, raising serious concerns about the health and safety of medical staff as well as patients.",
+    "Photographs of the radiation-protection aprons being used at the hospital have emerged, showing prominent blood stains on the protective gowns and their poor hygienic condition.",
+    "According to medical sources, the same lead aprons are being used repeatedly during different medical procedures and surgeries in the endoscopy unit without regular washing and disinfection."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2640396/unhygienic-conditions-at-jpmc-threaten-safety-of-doctors-patients",
+   "image": null,
+   "published_at": "2026-11-14T21:21:38Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "084c313f12bcee775fc4647b7a4e443e8f3a9922",
+   "title": "Cancer meds shortage spurs speedy procurement",
+   "summary": [
+    "Following special reports aired by Express News and published in Daily Express and The Express Tribune, Secretary Specialised Healthcare Punjab Azmat Mahmood convened an emergency meeting in Lahore, attended by medical superintendents of the six hospitals and relevant officials.",
+    "The health secretary issued clear instructions to complete the procurement process for the cancer medicine in the shortest possible time and restore its provision to patients through the free home delivery system so that they could receive the medicine at their doorsteps.",
+    "Upon a follow-up, the hospital spokesperson said that the RIC has performed free open-heart surgeries on 320 adult patients and cardiac procedures on 236 children under the government health programme since July 2026."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2640384/cancer-meds-shortage-spurs-speedy-procurement",
+   "image": null,
+   "published_at": "2026-11-14T20:44:17Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "45e703da02ebc2fc924f6d35e860c2e00359dbd2",
+   "title": "CPO, SSP issued notices in Hina Javed case",
+   "summary": [
+    "The Branch has issued notices to the City Police Officer (CPO) and the SSP Investigation, demanding an explanation and directing the immediate submission of the charge-sheet in the high-profile murder case.",
+    "The police are required to submit a charge-sheet within 14 days under the law; however, the investigative teams have failed to do so even after two months and 26 days.",
+    "According to the investigative team, the formal charge-sheet for the high-profile case is set to be submitted within the next ten days."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2640386/cpo-ssp-issued-notices-in-hina-javed-case",
+   "image": null,
+   "published_at": "2026-11-14T20:44:17Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "3a75367ad649ed878b062b43d4cbdca37271a43b",
+   "title": "Much-awaited New Blue Area parking plaza opens",
+   "summary": [
+    "The parking plaza has the capacity to accommodate over 1,200 vehicles simultaneously, with services available 24 hours a day, seven days a week.",
+    "According to the CDA administration, a fully digital parking system has been implemented at the parking plaza, which is also complemented by a digital monitoring system to ensure security.",
+    "Under the modern digital system, all vehicles and motorcycles entering the parking plaza will be issued receipts through a digital process and parking fees will be collected when a vehicle or motorcycle exits the facility."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2640390/much-awaited-new-blue-area-parking-plaza-opens",
+   "image": null,
+   "published_at": "2026-11-14T20:44:17Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "86e1832f01253bfcee223abda6cfe38afc2be385",
+   "title": "New units buzz grows after power huddle",
+   "summary": [
+    "The meeting between Zardari and Sharif at the latter's Model Town residence in Lahore followed the president's earlier meeting with Interior Minister Mohsin Naqvi in Nawabshah.",
+    "According to a statement issued by the Prime Minister's Office, the two leaders discussed the country's overall political, economic and security situation.",
+    "The meetings come amid renewed debate over the creation of new provinces after Naqvi proposed that political parties seek public opinion on the issue through a referendum."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2640373/new-units-buzz-grows-after-power-huddle",
+   "image": null,
+   "published_at": "2026-11-14T19:37:00Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "29d5b49c31f892a1a2587779a45bebef1d0ededd",
+   "title": "Heavy snow cuts off key tourist route to G-B",
+   "summary": [
+    "As the snowfall makes the high-altitude route inaccessible, the process of clearing snow and restoring traffic has become dependent on prevailing weather conditions.",
+    "For certain destinations, travelling via Babusar Pass takes less time than using the longer Karakoram Highway route, making it a preferred route for a large number of tourists and travellers during the summer months.",
+    "Babusar Road generally remains closed to traffic for around six months every year because of severe cold, snowfall and difficult weather conditions."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2640369/heavy-snow-cuts-off-key-tourist-route-to-g-b",
+   "image": null,
+   "published_at": "2026-11-14T18:27:47Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "15be748710cb8f342651dc6d4fe7c64518fb6a1d",
+   "title": "Opp moves FCC against lawmakers' detention",
+   "summary": [
+    "The opposition leaders in the National Assembly and Senate have approached the Federal Constitutional Court (FCC) against the arrest and detention of PTI lawmakers in the wake of the imposition of governor's rule and emergency in K-P.",
+    "The petitioners seek the immediate release of all detained elected representatives, arguing that keeping elected representatives in custody undermines the mandate of the people."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2640370/opp-moves-fcc-against-lawmakers-detention",
+   "image": null,
+   "published_at": "2026-11-14T18:27:47Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "ae511ec2495e538584e393cc6e117ae0529fe01d",
+   "title": "'Young Stunners' bring Karachi's chaos to Coke Studio Nu.WAV",
+   "summary": [
+    "Coke Studio Nu.WAV has concluded its six-song series with Diwanay Dil, bringing together Young Stunners, singer Sabaat Batin and producer Jokhay in a track that draws inspiration from Karachi's restless energy and everyday chaos.",
+    "Young Stunners, formed in 2012, have played a significant role in taking Urdu hip-hop from Pakistan's underground music scene to a wider regional audience.",
+    "Across its six releases, Nu.WAV brought together established names and emerging artists, exploring different sounds and collaborations within Pakistan's contemporary music landscape."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2640362/young-stunners-bring-karachis-chaos-to-coke-studio-nuwav",
+   "image": null,
+   "published_at": "2026-11-14T18:01:24Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "adac2ce97756fa6306a254741bb1c8be68e80c1e",
+   "title": "World Culture Festival presents cultural melting pot",
+   "summary": [
+    "From the soul-stirring strains of qawwali to the electric energy of rock music, the 17th day of the 25-day Third World Culture Festival Karachi 2026 offered audiences a vibrant celebration of musical traditions and international performing arts.",
+    "The evening's biggest draw was Bazm-e-Qawwali, where renowned Pakistani qawwals Rizwan and Muazzam held the audience spellbound at the Arts Council of Pakistan Karachi's Open-Air Theatre.",
+    "With music, film and theatre sharing the stage, the festival continued to turn Karachi into a meeting point for artists and audiences from across the world."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2640358/world-culture-festival-presents-cultural-melting-pot",
+   "image": null,
+   "published_at": "2026-11-14T18:01:23Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "ca96d229721a50b04d6570824d98066add4f9415",
+   "title": "'Ebenezer' leads N America weekend box office",
+   "summary": [
+    "It's Depp's first major Hollywood movie since 2018's 'Fantastic Beasts: The Crimes of Grindelwald', and Paramount spent $38 million to produce the film plus another $50 million to market it.",
+    "'Ebenezer' earned $7.1 million on Friday, including previews, and Deadline now projects a healthy $20 million-plus opening for a non-franchise Depp movie.",
+    "A domestic opening near that range would put 'Ebenezer' in line with the starts of Depp's 2015 film 'Black Mass' ($22.6 million) and 2009's 'Public Enemies' ($25.2 million)."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2640357/ebenezer-leads-n-america-weekend-box-office",
+   "image": null,
+   "published_at": "2026-11-14T18:01:23Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "0e3378a2a99197c4b4144ff9b789a445a115149f",
+   "title": "Govt defers ML-3 for third time",
+   "summary": [
+    "The Central Development Working Party (CDWP), for the third time in the past five months, deferred approval of the Rs278 billion, or $1 billion, up-gradation of ML-3 track from Nokhandi to Rohri this month, according to the Ministry of Planning officials.",
+    "Government officials said that the project's approval had been postponed due to funding constraints and the possibility that the Reko Diq Mining Company, being run by Barrick Gold, could use Gwadar Port for the transportation of minerals.",
+    "Also, a delegation of Barrick Gold Company met with Planning Minister Ahsan Iqbal this week and sought details of the road project that could be constructed, according to people privy to the discussions."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2640346/govt-defers-ml-3-for-third-time",
+   "image": null,
+   "published_at": "2026-11-14T16:32:18Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "381b12e7c87c6620dca83a931d68c7e2b8093ee2",
+   "title": "WB okays $300m for human capital",
+   "summary": [
+    "The World Bank Group's Board of Executive Directors approved $300 million in financing to expand access to safe water supply, sanitation and hygiene services for 1.5 million people in selected rural areas of Sindh.",
+    "The financing will support the Sindh Transformational Accelerated Rural Water Supply, Sanitation and Hygiene Services Phase 1 Project (STAR WASH-1).",
+    "STAR WASH-1 will provide 1.5 million people with access to safe water, and safely managed sanitation and hygiene services."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2640349/wb-okays-300m-for-human-capital",
+   "image": null,
+   "published_at": "2026-11-14T16:32:18Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "66d425ae64d9dec490a6a901d5fa117fb67054c4",
+   "title": "Deputy collectors to lead anti-smuggling units",
+   "summary": [
+    "Pakistan Customs has decided to place its anti-smuggling units under the command of assistant and deputy collectors, with a notification issued in this regard.",
+    "According to the notification, each anti-smuggling unit will be headed by an assistant or deputy collector instead of a superintendent or senior preventive officer.",
+    "Anti-smuggling squads will be led by inspectors or preventive officers, while squad in-charges will report directly to the assistant or deputy collector without going through any intermediate officer."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2640350/deputy-collectors-to-lead-anti-smuggling-units",
+   "image": null,
+   "published_at": "2026-11-14T16:32:18Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "3f65076760d29fb798645004ebf53a1727dae22e",
+   "title": "China, US discuss tariffs, farm trade",
+   "summary": [
+    "China and the United States discussed tariff cuts, agricultural trade and other issues at their first trade council meeting on Friday, China's Commerce Ministry said on Saturday, days ahead of an expected leaders' meeting in Shenzhen next week.",
+    "Canada, US make progress on trade deal Canadian Prime Minister Mark Carney said on Saturday he had held lengthy, substantive talks with US President Donald Trump and the two countries were making progress towards a trade deal, though they had yet to reach an agreement.",
+    "US Treasury Secretary Scott Bessent said on Friday he believed the US would secure trade deals with Mexico and Canada, a day after Trump threatened to double tariffs on Mexico over a migrant caravan."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2640355/china-us-discuss-tariffs-farm-trade",
    "image": null,
    "published_at": "2026-11-14T16:32:18Z",
    "category": "pakistan",
@@ -229,66 +488,6 @@
    "related": []
   },
   {
-   "id": "185b504e3acdeb470a46eee59d3a4495bcdd013c",
-   "title": "One-window facility to attract capital",
-   "summary": [
-    "During the trip, the head of the centre, Salman Malik, and his team briefed the ICCI delegation on their operations, showcasing how all key business-related government departments have been brought together under one roof.",
-    "The ICCI president called for practical, result-oriented steps to improve the ease of doing business.",
-    "The visit, he added, underscored the ICCI's commitment to building stronger institutional ties and backing initiatives that position Pakistan as an attractive, investor-friendly destination."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2640354/one-window-facility-to-attract-capital",
-   "image": null,
-   "published_at": "2026-11-14T16:32:18Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "6291634ef760748ab1bd89ab6731d732b3546cae",
-   "title": "Italy fines Meta $887m over users' data access",
-   "summary": [
-    "Italy's data protection agency said on Saturday it had fined Meta Platforms 805 million ($887 million) after finding the company had accessed Android users' photographs and videos without obtaining their consent or informing them.",
-    "The investigation, which began in 2025, did not cover the possible use of the content to train artificial intelligence models, a practice Meta denied, the authority said.",
-    "It added that it reserved the right to assess separately a new feature, launched in 2026, that allows content from users' galleries to be processed in the cloud."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2640353/italy-fines-meta-887m-over-users-data-access",
-   "image": null,
-   "published_at": "2026-11-14T16:32:18Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "205c5d258114c3c854a4b7297e6d18648dee6d2a",
-   "title": "Water minister inspects Tarbela intake structure",
-   "summary": [
-    "Minister for Water Resources Mian Muhammad Mueen Wattoo on Saturday visited the Tarbela 5th Extension Hydropower Project in the aftermath of the intake incident of November 9.",
-    "He reviewed the work underway at the site and sought updates from project teams on the pace and quality of the ongoing response.",
-    "He directed the consultants, contractor and Wapda project team to accelerate the remedial works and prepare a contingency plan to avoid delay in completion of the project."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2640352/water-minister-inspects-tarbela-intake-structure",
-   "image": null,
-   "published_at": "2026-11-14T16:32:18Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "d708879bb13eb581b1ba3bb246955b1d6e51eafe",
-   "title": "Pakistan to host 30th ECO Council of Ministers meeting on Nov 15-16",
-   "summary": [
-    "The 30th meeting of the Economic Cooperation Organisation (ECO) Council of Ministers will be held in Islamabad on Nov 15 and 16, the Foreign Office (FO) said on Saturday.",
-    "The meeting will be chaired by Deputy Prime Minister and Foreign Minister Ishaq Dar and attended by foreign ministers and heads of delegations from ECO member states, along with representatives of the organisation’s secretariat and subsidiary bodies, the FO said in a statement.",
-    "During the summit, Pakistan called for enhanced intra-regional trade, transport connectivity, energy cooperation and sustainable development, while reaffirming its commitment to the ECO Vision 2025."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2044472/pakistan-to-host-30th-eco-council-of-ministers-meeting-on-nov-15-16",
-   "image": "https://i.dawn.com/large/2026/11/14103758e89ce60.webp",
-   "published_at": "2026-11-14T15:10:51Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
    "id": "c01259cd8802a2a8e507022a99e0c9d1a4daf5a1",
    "title": "‘Pakistan among most diabetic states’",
    "summary": [
@@ -304,320 +503,6 @@
    "related": []
   },
   {
-   "id": "604c8e73a6ba88643f13f4ad3c2eb8f0db7a9e30",
-   "title": "India stun Pakistan by one wicket in last-ball U-19 Asia Cup final thriller",
-   "summary": [
-    "Mohit Ulva and Chigurupati Venkata held their nerve to guide India to a dramatic one-wicket victory over Pakistan in the ACC Men’s U-19 Asia Cup final, chasing down a target of 338 on the final ball at the Al Amerat Cricket Ground in Muscat on Saturday.",
-    "With eight runs required in the final over, Ulva, who finished unbeaten on 49 off 26 balls, including five fours and three sixes, struck the winning boundary off Ahmed Hussain’s final delivery.",
-    "Qadir provided the acceleration with an attacking 80 off just 54 balls, hitting three fours and eight sixes before being dismissed on the last ball of the 27th over with Pakistan at 197 for two."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2044502/india-stun-pakistan-by-one-wicket-in-last-ball-u-19-asia-cup-final-thriller",
-   "image": "https://i.dawn.com/large/2026/11/14183208ae6dc5e.webp",
-   "published_at": "2026-11-14T14:19:43Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "d1852c5c35609c147798135dc70c3aa15a1172ed",
-   "title": "NCCIA warns youth against joining illegal call centres for lucrative salaries",
-   "summary": [
-    "ISLAMABAD: The National Cyber Crime Investigation Agency (NCCIA) on Saturday warned that loopholes in the existing system are being exploited by illegal call centres, online betting operators and international fraud networks to launder money and trap victims.",
-    "The operators then take that company’s bank account and integrate it with their online betting or gaming portal,” Khan said, adding that the NCCIA team is working on recommendations to these institutions so that they improve their checking systems.",
-    "The NCCIA additional director noted the agency raided two call centres in the Islamabad-Rawalpindi Zone over the past three days."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2044498/nccia-warns-youth-against-joining-illegal-call-centres-for-lucrative-salaries",
-   "image": "https://i.dawn.com/large/2026/11/14180603e207263.webp",
-   "published_at": "2026-11-14T14:02:05Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "587930699885944cfa8f937fa5027ea2d8dec634",
-   "title": "Cop dismissed over negligence, failure to secure crime scene in Mir Raza murder case",
-   "summary": [
-    "The judicial commission has so far examined police records, witness statements and the circumstances surrounding Raza's death, with its proceedings raising discrepancies in witness accounts, the handling of evidence and the initial post-mortem.",
-    "On October 16, a Judicial Commission investigating Raza's death submitted its report to the Sindh government after conducting 15 hearings to examine the circumstances surrounding his death and possible lapses in the police investigation.",
-    "On November 14, a Judicial Magistrate East court granted a Joint Investigation Team (JIT) an additional 10 days to complete its investigation into the Mir Raza case and submit its report."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2640319/cop-dismissed-over-negligence-failure-to-secure-crime-scene-in-mir-raza-murder-case",
-   "image": null,
-   "published_at": "2026-11-14T13:33:47Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "3f5805804efb07cea2232481a1c1ddcd28c1b585",
-   "title": "Pakistan, 16 other countries, condemn Israeli strike on southern Gaza hospital",
-   "summary": [
-    "Pakistan and 16 other countries,on Saturday condemned the Israeli airstrike on the Nasser Hospital in southern Gaza, calling on Tel Aviv to protect civilians and medical facilities and ensure the sustained and unimpeded delivery of humanitarian aid to the Palestinian enclave.",
-    "Earlier this month, the Trump’s “Board of Peace” said that Israel needed to act immediately to help war-battered Gaza cope with impending winter, saying measures ahead of deadly floods had been insufficient.",
-    "Meanwhile, Prime Minister Shehbaz Sharif on Nov 9 said he had directed the foreign ministry to pursue all possible means to urgently “escalate humanitarian assistance” to Gaza amid heavy rainfall."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2044496/pakistan-16-other-countries-condemn-israeli-strike-on-southern-gaza-hospital",
-   "image": "https://i.dawn.com/large/2026/11/141747216a8ba48.webp",
-   "published_at": "2026-11-14T13:13:41Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "af758729fba242f59867011fe1b477d76d808962",
-   "title": "Achakzai, Abbas move FCC for release of Sohail Afridi, detained lawmakers",
-   "summary": [
-    "The petition also sought disclosure of the places of detention, production of the alleged detainees before the FCC, a declaration that their custody was unlawful and without lawful authority, and appropriate constitutional relief in the interest of justice and the rule of law.",
-    "However, the FCC on Nov 5 restrained the high court from hearing cases concerning the arrests of scores of PTI activists detained under the ordinance.",
-    "The application said the FCC’s Nov 5 order directly affected their constitutional rights."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2044493/achakzai-abbas-move-fcc-for-release-of-sohail-afridi-detained-lawmakers",
-   "image": "https://i.dawn.com/large/2026/09/151401299ffbefe.webp",
-   "published_at": "2026-11-14T12:45:16Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "775ebe5840e9f57254060eead147e6e4d21e5f63",
-   "title": "Pakistan’s polio paradox",
-   "summary": [
-    "Pakistan has not turned its abi­­lity to run campaigns into a system of public health protection that families trust, and that failure, which lies behind much of the refusal, is why the virus survives.",
-    "For families who see little improvement in their lives, each arrival of a polio team can confirm that the state cares about one disease and one campaign, and little about the wellbeing of their children.",
-    "That takes trained health workers, reliable vaccine supplies, accessible facilities, and continuity of care, well beyond the occasional catch-up activities atta­ched to polio campaigns, so that immunisation beco­mes a regular function of the district health system."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2044451/pakistans-polio-paradox",
-   "image": "https://i.dawn.com/large/2026/11/140517473919323.webp",
-   "published_at": "2026-11-14T12:36:31Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "f81c3918e822a7950f835dff8c68726fb3c887a4",
-   "title": "Mineral wealth",
-   "summary": [
-    "PAKISTAN’S mineral wealth offers an opportunity to attract investment, earn foreign exchange and support long-term economic growth.",
-    "At the Pakistan Minerals Investment Forum 2026, Deputy PM Ishaq Dar has promised predictable policies and institutional support to investors interested in the country’s mineral resources.",
-    "But no country has ever developed on mineral wealth or exports alone."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2044454/mineral-wealth",
-   "image": null,
-   "published_at": "2026-11-14T12:24:42Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "dd63fdbcf21f70430d7cbabdbeccc8faa47567a7",
-   "title": "Pakistan create SAFF Cup history",
-   "summary": [
-    "Pakistan ended hosts Bangladesh's hopes of reaching the SAFF Championship final on home soil with a hard-fought 1-0 victory in the second semi-final in Dhaka on Saturday.",
-    "The closely contested encounter remained goalless for much of the match, with both sides hitting the woodwork in the first half as Pakistan produced a disciplined display to overcome the hosts.",
-    "The second half remained tightly contested, with Pakistan continuing to frustrate the hosts before Arshad struck five minutes from time to settle the match."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2640316/pakistan-create-saff-cup-history",
-   "image": null,
-   "published_at": "2026-11-14T11:45:05Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "f48c95094fdf6c34c4b05f065f6a5204f3ee256f",
-   "title": "A new 'Yalta'? Trump and Putin push for a meeting that Xi is wary of hosting",
-   "summary": [
-    "Trump — battered by his Republican Party's recent electoral losses — sees a moment for the history books, with possible movement towards a three-way agreement on nuclear arms control.",
-    "And ​Trump's hope for arms control rubs against the reality that China — which has far fewer nuclear weapons than the US or Russia — considers itself a nuclear underdog.",
-    "While Moscow sought a conversation on the war in Ukraine, Beijing has ​resisted putting that topic on ⁠the agenda, according to one of the people briefed on the meeting and a European diplomat, both speaking on the condition of anonymity."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2640315/a-new-yalta-trump-and-putin-push-for-a-meeting-that-xi-is-wary-of-hosting",
-   "image": null,
-   "published_at": "2026-11-14T11:24:16Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "5984fc7f9ff41c3356f1ddd813b4f7d1a7b43350",
-   "title": "Peshawar ATC initiates absconder proceedings against Sohail Afridi in Radio Pakistan case",
-   "summary": [
-    "The court ordered the issuance of notices under Section 87 of the Code of Criminal Procedure after police submitted a report stating the two nominated accused could not be located.",
-    "Case background The attack on Radio Pakistan’s Peshawar station took place during widespread protests following the arrest of PTI founder Imran Khan on May 9, 2023.",
-    "More than 80 PTI leaders and workers were initially reported to have been nominated in cases related to the violence and the attack on Radio Pakistan."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2640314/peshawar-atc-initiates-absconder-proceedings-against-sohail-afridi-in-radio-pakistan-case",
-   "image": null,
-   "published_at": "2026-11-14T11:21:31Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "e21eaca5dc74826564adb8f507c3e99002b4fb46",
-   "title": "Alaska elects first Democratic governor since 1998, US media project",
-   "summary": [
-    "Democratic candidate Jonathan Kreiss-Tomkins has been elected governor of ​Alaska, according to projections by ‌the Associated Press and NBC News, the latest win for the party ​in a wave of midterm ​state government and US congressional election ⁠victories.",
-    "Kreiss-Tomkins, 37, a former Alaska ​state lawmaker, defeated three Republicans, ​including one backed by US President Donald Trump Alaska has not elected a Democratic governor ​since 1998, according to US ​media Read More: Who needs a traitor when voters flip!"
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2640313/alaska-elects-first-democratic-governor-since-1998-us-media-project",
-   "image": null,
-   "published_at": "2026-11-14T11:08:18Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "4086486783edccdef58fb658c79cd535061d095e",
-   "title": "KP Governor Kundi announces suspension of gold mining across province",
-   "summary": [
-    "Addressing a press conference in Peshawar, Governor Kundi condemned the attack in Kohat that claimed the lives of 10 police personnel returning from an operation against illegal mining in the region.",
-    "On the Kohat incident, Governor Kundi said that following the imposition of an emergency and governor’s rule, the administration had launched an operation against illegal gold mining.",
-    "The governor assured that there would be no political victimisation, adding that anyone found involved in the nexus would be held accountable. “If there is no system of reward and punishment, neither this province nor this country will move forward."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2044485/kp-governor-kundi-announces-suspension-of-gold-mining-across-province",
-   "image": "https://i.dawn.com/large/2026/11/14135301e83d9a0.webp",
-   "published_at": "2026-11-14T10:52:32Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "5e53b196ecb41c8631912bb3ad2a31e096c5fdce",
-   "title": "Ex-Nvidia CEO misled top lawyer on affair with Chinese businesswoman, sources say",
-   "summary": [
-    "His statement did not specifically name Alice Huang, a former top executive ⁠of Nvidia customer Megaspeed International, whom the US was investigating for potentially spying for China.",
-    "In two separate messages in October, ‌Huang told ⁠Nvidia leaders, including Teter and Wagonfeld, that the interactions reflected standard business dealings with customers.",
-    "Nvidia's Huang also discussed taking legal action against the New York Times after it published an article in October of last year that drew attention to his meetings in public with Alice Huang, the people said."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2640308/ex-nvidia-ceo-misled-top-lawyer-on-affair-with-chinese-businesswoman-sources-say",
-   "image": null,
-   "published_at": "2026-11-14T09:53:31Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "67c6c9f6ddeabfa09d45fb045edfca69b03b179d",
-   "title": "Pakistan, Uzbekistan reaffirm commitment to expanding defence cooperation during air chief's visit",
-   "summary": [
-    "Air Chief Marshal Zaheer Ahmed Baber Sidhu on Saturday held meetings with Uzbekistan's defence leadership on an official visit to the country, with discussions focusing on strengthening bilateral defence cooperation, joint military exercises and institutional collaboration.",
-    "In a statement posted on X, the DGPR (Air Force) said that discussions with Uzbek Defence Minister Lieutenant General Botir Qudrathodjayev Bahromovich focused on \"regional security, existing defence ties and prospects for institutional collaboration\".",
-    "On June 24, Pakistan and Uzbekistan reaffirmed their commitment to deepening bilateral ties and advancing a shared vision of regional connectivity, economic cooperation and cultural exchange through concrete initiatives and tangible outcomes."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2640304/pakistan-uzbekistan-reaffirm-commitment-to-expanding-defence-cooperation-during-air-chiefs-visit",
-   "image": null,
-   "published_at": "2026-11-14T09:30:57Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "18d3f05ed98ae0cdc65297bed95469490c246dd1",
-   "title": "Army officer and soldier martyred, 8 terrorists killed in ongoing Balochistan IBOs: ISPR",
-   "summary": [
-    "It said that on the night between Friday and Saturday, \"security forces successfully neutralised eight Indian-sponsored terrorists of Fitna al Hindustan (FAH), including a suicide bomber and recovered a large cache of weapons and ammunition\" in Kolpur.",
-    "The ISPR said that \"India continues to give FAH full financial support and supply it with the latest gadgetry,\" noting, however, that security forces \"are fully alive to this evolving threat and will deny the terrorists any space, whatever means they employ\".",
-    "The martyrs will always remain alive in our hearts.\" Earlier in the day, the ISPR noted that two soldiers were martyred while 16 terrorists, including two Afghan nationals, were killed during IBOs in Khyber-Pakhtunkhwa's North Waziristan district over the past 12 hours."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2640301/army-officer-and-soldier-martyred-8-terrorists-killed-in-ongoing-balochistan-ibos-ispr",
-   "image": null,
-   "published_at": "2026-11-14T08:29:43Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "9a86bc3bd3f2191e6196a2bc9c376d9a6f04fd5e",
-   "title": "Trump, Xi, Putin to hold historic meeting in China: White House",
-   "summary": [
-    "Donald Trump, Vladimir Putin and Xi Jinping will hold the first three-way meeting between the leaders of the United States, Russia and China at a summit in Shenzhen next week, the White House said Friday.",
-    "Trump will also hold a bilateral working lunch and meeting with the Chinese president on Thursday — their fourth meeting since the US president’s return to power last year.",
-    "Tesla and SpaceX boss Elon Musk will accompany Trump on his trip to China but will not be involved in the meeting with Xi and Putin, the officials said."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2044481/trump-xi-putin-to-hold-historic-meeting-in-china-white-house",
-   "image": "https://i.dawn.com/large/2026/11/14125916c6c0b58.webp",
-   "published_at": "2026-11-14T08:00:02Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "a5709b7f96b3e58540220f3af50cd7b52628eaa3",
-   "title": "Türkiye publishes law approving ratification of Makkah joint defence pact",
-   "summary": [
-    "Turkish parliament approved the measure with 279 votes to 119 on November 5.",
-    "Türkiye, Saudi Arabia and Pakistan signed the Makkah Joint Defence Agreement during a trilateral summit in the holy city on Aug 7.",
-    "Saudi Arabia brings economic strength, regional influence and political leadership, while Turkiye contributes an advanced defence industry, military technology and industrial capacity."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2640300/turkiye-publishes-law-approving-ratification-of-makkah-joint-defence-pact",
-   "image": null,
-   "published_at": "2026-11-14T07:59:53Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "3c2640b5a565868752bd558f59f0400745cf67c9",
-   "title": "Pakistan, 16 other countries slam Israeli airstrike on Gaza hospital, warn against undermining ceasefire",
-   "summary": [
-    "Pakistan and 16 other countries on Saturday condemned an Israeli airstrike on the Nasser Medical Complex in Khan Younis that killed six people, including patients and healthcare workers, describing it as a violation of international humanitarian law.",
-    "Israel must implement them without further delay or additional conditions, including political and security conditions, that impede humanitarian access.",
-    "Urgent humanitarian assistance must proceed independently of progress on subsequent phases,\" the statement noted."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2640299/pakistan-16-other-countries-slam-israeli-airstrike",
-   "image": null,
-   "published_at": "2026-11-14T07:54:16Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "7c28814a864ac606b5cd9842c1f21f2f4472ca2e",
-   "title": "President Zardari meets PM Shehbaz as debate over new provinces continues",
-   "summary": [
-    "President Asif Ali Zardari met Prime Minister Shehbaz Sharif at his Model Town residence on Saturday, amid renewed political debate over the creation of new provinces.",
-    "New life in the debate followed Interior Minister Mohsin Naqvi's proposal for a referendum on the issue, a proposal that has also found support among some Pakistan Muslim League-Nawaz (PMLN) leaders.",
-    "Zardari's recent meeting with Naqvi in Nawabshah had also attracted attention in the context of the discussion on new provinces, although the President's House said the meeting had focused on national security and the regional situation."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2640298/president-zardari-meets-pm-shehbaz-as-debate-over-new-provinces-continues",
-   "image": null,
-   "published_at": "2026-11-14T07:46:07Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "2cd8b0d2ae92a170a69913a976247c8b06376a23",
-   "title": "SpaceX launches 15th Starship flight with hopes of achieving first round trip",
-   "summary": [
-    "SpaceX had intended to use the same return-flight and \"chopstick\"-arm technology to recover Starship's lower-stage booster rocket shortly after the two parts of the spacecraft separated within minutes of ​the launch.",
-    "SpaceX mission controllers hoped to have better luck in steering Starship's upper stage back to home base at the end of its ⁠flight.",
-    "SpaceX last launched Starship in September, taking the rocket and a payload of satellites to orbit for the first time despite some rocket engines malfunctioning in mid-flight."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2640297/spacex-launches-15th-starship-flight-with-hopes-of-achieving-first-round-trip",
-   "image": null,
-   "published_at": "2026-11-14T07:36:41Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "0982ee73a051aa6ae05ae729ebb6d3af18ac685b",
-   "title": "Police foil attack on checkpost in KP's Bannu, eliminate four terrorists",
-   "summary": [
-    "BANNU: Police foiled a terrorist attack on Kingar Pul Police Checkpost in Khyber Pakhtunkhwa’s Bannu district on Friday night, eliminating four terrorists in retaliation, a police spokesperson said.",
-    "According to the police spokesperson, heavily armed terrorists launched a sudden attack on the checkpost last night. “However, police personnel deployed at the checkpost responded promptly and successfully repelled the assault,” he stated.",
-    "The spokesperson said that police also seized four Kalashnikov rifles, several magazines, a substantial quantity of ammunition, hand grenades and bandoliers, adding that the identification of the slain terrorists was underway."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2044476/police-foil-attack-on-checkpost-in-kps-bannu-eliminate-four-terrorists",
-   "image": "https://i.dawn.com/large/2026/11/14120747709488b.jpg",
-   "published_at": "2026-11-14T07:06:44Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
    "id": "a967e7522f052c205843bb1ad0774783f50c5dfd",
    "title": "As smog hangs over Lahore, new pollution squad races to douse stubble fires",
    "summary": [
@@ -629,6 +514,21 @@
    "url": "https://tribune.com.pk/story/2640296/as-smog-hangs-over-lahore-new-pollution-squad-races-to-douse-stubble-fires",
    "image": null,
    "published_at": "2026-11-14T06:50:47Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "abd000361bfa0cc85aabf242f42095ec09a388e3",
+   "title": "Pakistan needs 'middle-power alliances' to navigate emerging world order, US-China rivalry",
+   "summary": [
+    "Pakistan would need to forge alliances and partnerships with \"like-minded\" middle powers to navigate the emerging world order and resist pressure to pick sides in the US-China rivalry.",
+    "Read: A world of blocs: where Pakistan stands The professor expounded: “Pakistan needs to form alliances with like-minded countries to be able to withstand pressure from great powers.",
+    "The professor added that unlike the Cold War, where countries fell neatly into one camp or another, in the current bipolar dispensation, most countries were “hedging their bets” and were looking for a “better offer” from either the US or China."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2640291/pakistan-needs-middle-power-alliances-to-navigate-emerging-world-order-us-china-rivalry",
+   "image": null,
+   "published_at": "2026-11-14T05:33:47Z",
    "category": "pakistan",
    "related": []
   }

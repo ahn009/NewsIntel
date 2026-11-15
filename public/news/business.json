@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-15T01:46:48.039374Z",
- "story_count": 11,
+ "generated_at": "2026-11-15T09:12:09.856002Z",
+ "story_count": 7,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "ok",
-  "https://www.dawn.com/feeds/pakistan": "ok",
+  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,7 +20,7 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
+  "https://www.espn.com/espn/rss/news": "ok"
  },
  "stories": [
   {
@@ -111,59 +111,6 @@
    "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments",
    "image": "https://i.guim.co.uk/img/media/b63ef4b2cd095319a80edb2f7cb40f210d4581c1/564_0_3154_2523/master/3154.jpg?width=140&quality=85&auto=format&fit=max&s=00f4153beac0510e18c3ba0bc72b2e40",
    "published_at": "2026-11-13T21:13:59Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "1280bc70a2a93a99877686fcabc029980d51f3ec",
-   "title": "Are board games making a comeback this Christmas?",
-   "summary": [
-    "Are board games making a comeback this Christmas?"
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/ckp80l667rdjo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-13T18:00:40Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "ee127c5fac608d13209b7dcf9137a28771832a74",
-   "title": "Home sales hit 16-year low in October amid soaring mortgage rates",
-   "summary": [
-    "The median existing-home sales price increased slightly to $416,700.",
-    "Declines in sales were seen in the midwest, south and west, though sales in the north-east held steady."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low",
-   "image": "https://i.guim.co.uk/img/media/861fa365835f36d65c4fe3a0adf09f6b63ba43ad/142_0_2344_1875/master/2344.jpg?width=140&quality=85&auto=format&fit=max&s=8773e098930ce08aa711f613f70b46b6",
-   "published_at": "2026-11-13T17:20:32Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "481f7698b6ac72052e1d86b71edb85b97787e684",
-   "title": "What are people emergency stockpiling?",
-   "summary": [
-    "From cider to candy canes: What people are emergency stockpiling"
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/c6zxvg79rr9yo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-13T16:31:22Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "ec0b030c7feaab045df3a40f2d0b5c0ffa76c17a",
-   "title": "Shoplifters 'stealing to order' in Scottish shops",
-   "summary": [
-    "Shopworkers in Scotland say they're facing rising levels of violence, including attacks with harpoon guns and machetes, as reports of shoplifting rise dramatically."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/cw772xkxjm37o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-13T14:16:09Z",
    "category": "business",
    "related": []
   }

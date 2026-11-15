@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-15T01:46:48.039626Z",
- "story_count": 12,
+ "generated_at": "2026-11-15T09:12:09.856140Z",
+ "story_count": 15,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "ok",
-  "https://www.dawn.com/feeds/pakistan": "ok",
+  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,9 +20,82 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
+  "https://www.espn.com/espn/rss/news": "ok"
  },
  "stories": [
+  {
+   "id": "c483ec2db561705f33e88f3035e540d31b671321",
+   "title": "Alzheimer’s may start shrinking two brain regions years before memory loss",
+   "summary": [
+    "Johns Hopkins scientists have uncovered hidden warning signs of Alzheimer’s disease that may appear up to a decade before memory loss begins.",
+    "Brain scans revealed that two regions involved in memory and emotion start shrinking before the hippocampus, the area doctors typically examine for signs of Alzheimer’s.",
+    "These early changes are linked to abnormal tau protein buildup and could provide a powerful new way to identify people at risk."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm",
+   "image": null,
+   "published_at": "2026-11-15T04:31:56Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "e9166ef1d7418a31d1c83c012320884fb99152a9",
+   "title": "Scientists discover a bizarre paradox among endangered penguins",
+   "summary": [
+    "A groundbreaking drone survey has revealed a startling split in the fate of New Zealand's endangered Erect-crested penguins.",
+    "While one population has remained stable for decades, another has declined by more than 40%, apparently due to a combination of predators, worsening storms, and changing ocean conditions.",
+    "Even more surprisingly, the tiny Bounty Islands support nearly as many breeding pairs as the Antipodes Islands, despite being 40 times smaller."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261112230458.htm",
+   "image": null,
+   "published_at": "2026-11-15T03:42:52Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "eb7e17bdccc6049d4c562a9a4af69c5b2096ab51",
+   "title": "Dinosaurs may have been eating seaweed 100 million years ago",
+   "summary": [
+    "Dinosaurs may have been snacking on seaweed and other ocean foods more than 100 million years ago, according to surprising new evidence hidden in their fossilized teeth.",
+    "Researchers discovered chemical signatures suggesting that coastal dinosaurs and other prehistoric animals relied partly on nutrients originating in the sea.",
+    "The findings reveal that marine resources traveled through ancient food chains, supplementing the diets of everything from plant-eating dinosaurs to predators."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261112230502.htm",
+   "image": null,
+   "published_at": "2026-11-15T03:00:54Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "5d04dde7507a735f5842232511f276565d5351c4",
+   "title": "Physicists use laser light to unlock a crystal's hidden electrical powers",
+   "summary": [
+    "Scientists have discovered how to use flashes of laser light to organize tiny electrical regions inside a crystal, solving a decades-old mystery about how the material behaves.",
+    "The laser-induced alignment lasts just a trillionth of a second, but the breakthrough could open the door to new ways of processing and storing information."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261112230500.htm",
+   "image": null,
+   "published_at": "2026-11-15T02:18:16Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "b53dbb591be4db52bb29f5a3a33169c0a9f097e8",
+   "title": "Euclid discovers ancient cosmic beacons from the dawn of time, shining like a trillion suns",
+   "summary": [
+    "ESA’s Euclid space telescope has discovered 31 ancient quasars, including two record-breaking objects that shone with the brightness of a trillion Suns when the Universe was just 670 million years old.",
+    "Powered by supermassive black holes, these extraordinary cosmic beacons reveal a time when the first galaxies were still taking shape."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261112230504.htm",
+   "image": null,
+   "published_at": "2026-11-15T01:52:47Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "384a447ff2486d17729e272017a36060e75904be",
    "title": "SpaceX catches part of its Starship rocket on return to Earth",
@@ -45,7 +118,7 @@
    "id": "e08c8514556ba9f51d5fc5d4bab668cad9e44ad9",
    "title": "SpaceX successfully catches top of huge Starship rocket for first time",
    "summary": [
-    "The rocket stage was caught mid air using huge mechanical arms nicknamed “chopsticks”."
+    "The rocket stage was caught mid air using huge mechanical arms nicknamed \"chopsticks\"."
    ],
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
@@ -162,32 +235,6 @@
    "url": "https://www.sciencedaily.com/releases/2026/11/261112025523.htm",
    "image": null,
    "published_at": "2026-11-14T01:13:05Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "899468edb4ac68bcb61ec18616c581815fb3796e",
-   "title": "What could El Niño mean for winter weather in the US and Canada?",
-   "summary": [
-    "El Niño winters typically bring more rain in the southern USA and drier, warmer conditions further north but the impacts on snowfall are complex."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/weather/articles/c6pvg22k2w2do?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-13T18:50:15Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "7c0d243e1efb6090cbf8bcf691385744ce26901b",
-   "title": "Climate action discussed at youth COP meeting",
-   "summary": [
-    "School children gather to discuss climate issues to coincide with the COP31 conference in Turkey."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ckx28ly7y387o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-13T14:39:06Z",
    "category": "science",
    "related": []
   }

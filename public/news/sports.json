@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-15T01:46:48.039862Z",
+ "generated_at": "2026-11-15T09:12:09.856335Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "ok",
-  "https://www.dawn.com/feeds/pakistan": "ok",
+  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,9 +20,529 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
+  "https://www.espn.com/espn/rss/news": "ok"
  },
  "stories": [
+  {
+   "id": "c99b7474377b2c7aa7a1740a99fc8b2a1fd0c9ca",
+   "title": "Australia v New Zealand: men’s Rugby League World Cup final – live",
+   "summary": [
+    "Updates as the Kangaroos and Kiwis meet in the decider in BrisbaneAny thoughts?",
+    "Send us an emailAs Munster mentioned, it has been a muggy day in Brisbane.",
+    "It is a full house, of course.New Zealand’s Kalyn Ponga is locked in.I’m nervous."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/live/2026/nov/15/australia-kangaroos-vs-new-zealand-kiwis-mens-rugby-league-world-cup-final-live-updates",
+   "image": "https://i.guim.co.uk/img/media/9d7d98de0eb160602c0019a3741da433f417f163/880_0_4973_3978/master/4973.jpg?width=140&quality=85&auto=format&fit=max&s=bd24af42958ec5ea6d8c10912c1a7221",
+   "published_at": "2026-11-15T09:01:13Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "b3d97eba3e71ec877c3d9803cae02f54c9352ddc",
+   "title": "Reality dawns after Wales dared to dream",
+   "summary": [
+    "As Welsh rugby fans wake up on Sunday morning the realisation will dawn on them that Wales beat New Zealand for the first time in 73 years."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cvx2xnyxl85ko?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-15T08:58:32Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "88dcc6e89fdfaa295dfb2c8b615bf2d36a38d1dd",
+   "title": "Transfer rumors, news: Como's Paz to be Pochettino's first Man United summer signing?",
+   "summary": [
+    "Manchester United are monitoring Como superstar Nico Paz ahead of a move next summer."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/soccer/story/_/id/50478503/transfer-rumors-news-man-united-como-nico-paz-mauricio-pochettino",
+   "image": null,
+   "published_at": "2026-11-15T08:58:21Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "e18b81e4acfed3dfccc8e94da4be115cc475e377",
+   "title": "Spain v England Nations League buildup, WSL and more – matchday live",
+   "summary": [
+    "All the latest news from around the footballing worldGet in touch: contact our matchday live writers on emailThere are no nights to forget; it was a night of learning, of seeing the mistakes we made.",
+    "Rasmus Højlund scored a brace as Denmark eased their way to victory to a chorus of boos in Estadio Municipal.",
+    "Read the full match report and roundup from the rest of the games here."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/live/2026/nov/15/spain-v-england-nations-league-buildup-wsl-and-more-matchday-live",
+   "image": "https://i.guim.co.uk/img/media/309c76a85b0e4a3b849fb91af254111d77ece449/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=edf178e2e955d3c0a02433cfe8583edb",
+   "published_at": "2026-11-15T08:57:42Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "7a9601dac5f787079207462c19c98946df62afa1",
+   "title": "Australia v England: second men’s cricket one-day international – live",
+   "summary": [
+    "Updates as arch-rivals clash in ODI at Adelaide OvalSayers rejects Cummins’ claims | Get in touch on emailDuckett survives a huge LBW shout early in the over from Bartlett, surviving a bail trimmer on Umpire’s call but then rather gives his wicket away with a slash straight to Cooper Connolly at backward point.",
+    "Decent low catch and Australia have their first scalp.4th over: England 17-0 (Banton 8, Duckett 9) Apologies my tv cut off at a crucial moment… four runs came off Johnson’s second over but England have also lost their first wicket… (ellipsis of doom for Ben Duckett) Continue reading..."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/live/2026/nov/15/australia-vs-england-cricket-second-odi-mens-one-day-international-adelaide-live-scores-updates",
+   "image": "https://i.guim.co.uk/img/media/34c11db2a910a8a51efa8d39d0f1b1eb73c14601/527_0_3999_3200/master/3999.jpg?width=140&quality=85&auto=format&fit=max&s=82cf90fe544075161f80864f33a4b38b",
+   "published_at": "2026-11-15T08:56:39Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "90b692b1caee670aa49df85cb6e6488d70912041",
+   "title": "England are favourites against All Blacks, and fearless Wales are an inspiration",
+   "summary": [
+    "In his latest BBC Sport column, England World Cup winner Matt Dawson reflects on Steve Borthwick's side's emphatic 78-15 thrashing of Japan and looks ahead to their match against New Zealand next weekend."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6wy41738nv7o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-15T08:47:46Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "1363e8c80b17ccebb6d3a6bd49dc4b506afea0b7",
+   "title": "USMNT players embody Pochettino's legacy in dominant win over Haiti",
+   "summary": [
+    "Mauricio Pochettino reset the culture within the USMNT.",
+    "In Saturday's 6-0 win over Haiti, his players demonstrated that they intend to carry on his ideals."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/soccer/story/_/id/50481434/usmnt-mauricio-pochettino-legacy-haiti",
+   "image": null,
+   "published_at": "2026-11-15T08:45:36Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "401683ce962192b926893bb6bfd4d7319a45b640",
+   "title": "USMNT player ratings: Pulisic earns 9/10 for brace in win over Haiti",
+   "summary": [
+    "Christian Pulisic scored twice in the Americans' dominant 6-0 win over Haiti on Saturday."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/soccer/story/_/id/50481405/usmnt-player-ratings-pulisic-haiti",
+   "image": null,
+   "published_at": "2026-11-15T08:45:36Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "a25d14caf12897d2665156888bd5d1925bd9b198",
+   "title": "Cricket Australia admits it is ‘very unlikely’ players will ever reach agreement on sandpapergate",
+   "summary": [
+    "Bowler Chadd Sayers rejects Pat Cummins’ view on ball tamperingGoverning body ‘respects right’ of players sharing their versionsCricket Australia admits there is little hope of reaching agreement on the events of the sandpaper ball-tampering incident, as divisions deepen between the players who were on the 2018 South Africa tour.The former Australia bowler Chadd Sayers on Sunday said he was confident “everyone” in the Australian Test side knew of the ball-tampering plan, backing Usman Khawaja’s version of what happened."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/2026/nov/15/chadd-sayers-rejects-pat-cummins-view-on-sandpapergate-ntwnfb",
+   "image": "https://i.guim.co.uk/img/media/2f3b24938a46e83bde4a645cc4a4b3d1301a8f83/633_0_3463_2771/master/3463.jpg?width=140&quality=85&auto=format&fit=max&s=3a3f1ed7921f1c2f5b1b55ef6e9bdf60",
+   "published_at": "2026-11-15T08:26:33Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "ef11dcff6ca3ae513a9de7bf25f08cc28476b9dc",
+   "title": "UFC 334 results: Ciryl Gane defeats Josh Hokit, Kayla Harrison submits Amanda Nunes",
+   "summary": [
+    "Both champions retained their titles at UFC 334.",
+    "Relive all the action from Madison Square Garden."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/mma/story/_/id/50444358/ufc-334-live-results-analysis-ciryl-gane-josh-hokit",
+   "image": null,
+   "published_at": "2026-11-15T08:12:31Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "f23356ad8c664a9a43445b3a18e9ab05244a2d25",
+   "title": "UFC 334 takeaways: Gane deserves a homecoming; Nunes made a costly tactical mistake",
+   "summary": [
+    "Ciryl Gane deserves a chance to win over fans, while Amanda Nunes fought the wrong fight against Kayla Harrison."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/mma/story/_/id/50485499/ufc-334-gane-homecoming-fight-nunes-mistakes",
+   "image": null,
+   "published_at": "2026-11-15T08:12:30Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "efcb1f224a993c6577ecc0035cc992c0e03403c7",
+   "title": "Harrison shocks Nunes on UFC return to retain title",
+   "summary": [
+    "Kayla Harrison shocks returning great Amanda Nunes by submitting the former double champion to retain her bantamweight title at UFC 334 in New York."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/c5742819x9n3o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-15T08:02:48Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "2a04d814d39f4b14329c422c31723ba1cf2c623c",
+   "title": "Terry Butcher: ‘I’ve learned to live with the Hand of God goal better’",
+   "summary": [
+    "The former England centre-back answers your questions on Diego Maradona, Bobby Robson and on staying in strange places“Have you made up all these on your own?” asks Terry Butcher, sitting in a London office in the week he is presented with his England legacy cap.",
+    "It turns out dozens of Guardian readers want to pick the brains of a much-loved centre-back who was feted en route to a World Cup semi-final and tormented four years previously by the mercurial genius of Diego Maradona.Did Maradona ever admit to the “Hand of God”?"
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/15/terry-butcher-ive-learned-to-live-with-the-hand-of-god-goal-better",
+   "image": "https://i.guim.co.uk/img/media/4049b8c0aeb58215be188d97332e8d0d5d52d3e3/0_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=c7b76991c0744d8589dc1544383d61b2",
+   "published_at": "2026-11-15T08:00:09Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "bdfd75bbc9edbb78f6d0c19f121aa52df918c0cd",
+   "title": "AFC Wimbledon, a failed £87m investment bid and the challenge for fan ownership",
+   "summary": [
+    "Clubs with wealthy proprietors can maintain a loss-making operation but things can be more complex when the supporters carry the canWhen you walk up from Haydons Road train station to Plough Lane there is a blue AFC Wimbledon billboard that reads “Fan owned football”, directly opposite the site of the old Plough Lane stadium where there are now blocks of flats.",
+    "There is a memorial to the old Wimbledon FC – a reminder that supporters can often have little say in the running of their club – on the same corner, just up the road from the new Cherry Red Records Stadium.AFC Wimbledon are one of only two majority fan-owned clubs in the EFL – along with Exeter City – but that makes running a loss-making operation, as 94% of teams in England’s top five tiers are doing according to the State of the Game report, even more challenging. “In other clubs, the owner just puts their hand in their pocket, produces cash,” said Hannah Kitcher, who has been a member of the Dons Trust Board (DTB), which runs AFC Wimbledon, for seven years. “It’s harder when the owners are fans – you can only go to them so many times.” Continue reading..."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/15/afc-wimbledon-a-failed-87m-investment-bid-and-the-challenge-for-fan-ownership",
+   "image": "https://i.guim.co.uk/img/media/841b080407549ef8762738c7e1433db81e85e6c2/159_664_5449_4359/master/5449.jpg?width=140&quality=85&auto=format&fit=max&s=995d13ac235fcd940c47c99fe974640f",
+   "published_at": "2026-11-15T08:00:09Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "14ff007e93cb8407bd9a012026874e0225feae0a",
+   "title": "Manning shows 'competitive spirit,' shakes off 3 INTs to lead Texas' comeback over LSU",
+   "summary": [
+    "Arch Manning found Raleek Brown for a 4-yard touchdown pass along the left sideline with 3 seconds left, and Texas escaped Tiger Stadium with a victory over LSU on Saturday night."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/college-football/story/_/id/50487515/arch-manning-leads-game-winning-drive-texas-stuns-lsu",
+   "image": null,
+   "published_at": "2026-11-15T07:52:46Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "18656089759cec7b054d2742907d141c178031bb",
+   "title": "Oklahoma AD rips Ole Miss, SEC for Sunday game; Rebels defend travel efforts",
+   "summary": [
+    "Oklahoma AD Roger Denny ripped the SEC and Ole Miss for the \"inexplicable\" decision to move its game to Sunday, while the Rebels defended their travel efforts."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/college-football/story/_/id/50482206/oklahoma-ad-infuriated-sec-ole-miss-sunday-game",
+   "image": null,
+   "published_at": "2026-11-15T07:52:46Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "95b0320ec2e6499681ab5374b10c09d3e6d90930",
+   "title": "Gane taken to brink by game Hokit, edges out decision in UFC title slugfest",
+   "summary": [
+    "Ciryl Gane got all he could handle from Josh Hokit in a five-round slugfest, but took command late to defend his heavyweight title Saturday night at UFC 334."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/mma/story/_/id/50488012/ciryl-gane-edges-josh-hokit-slugfest-retains-title-ufc-334",
+   "image": null,
+   "published_at": "2026-11-15T07:52:46Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "06126ff9ca7d46a33eb08e4bc3f51a686d1eceb9",
+   "title": "Harrison spoils Nunes' return, submits ex-champion to retain UFC crown",
+   "summary": [
+    "Kayla Harrison scored the biggest victory of her career Saturday, submitting former champion Amanda Nunes by rear-naked choke in Round 4 to retain her title at UFC 334."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/mma/story/_/id/50487730/kayla-harrison-submits-amanda-nunes-retain-title-ufc-334",
+   "image": null,
+   "published_at": "2026-11-15T07:52:46Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "5fd1a10352253fd52ad755b37e7721dc37b8d98c",
+   "title": "Kiffin laments loss to Texas as LSU's playoff hopes dashed: 'We need to win more'",
+   "summary": [
+    "LSU coach Lane Kiffin said it was fair to question the team's 6-4 record this season after losing to Texas on Saturday, a defeat that likely knocked LSU out of playoff contention."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/college-football/story/_/id/50488081/kiffin-understands-frustration-lsu-playoff-hopes-dashed",
+   "image": null,
+   "published_at": "2026-11-15T07:52:46Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "8040788ba7de460e10a9d0931e4ed5f2048be5dc",
+   "title": "Louisville's win over UNC ends in brawl as Belichick helps restore order on field",
+   "summary": [
+    "Louisville's 16-14 win at North Carolina ended with punches thrown and players spilling onto the field, prompting Bill Belichick to help pull players from the melee."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/college-football/story/_/id/50486992/louisville-holds-unc-game-ends-brawl",
+   "image": null,
+   "published_at": "2026-11-15T07:52:46Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "febedbc2ac653cca862af54ec95ee1f71c2cf90a",
+   "title": "No. 2 Utah survives, stays unbeaten on late 70-yard TD in thriller vs. Arizona",
+   "summary": [
+    "In a back-and-forth thriller, Utah rallied to remain undefeated after Devon Dampier hit Creed Whittemore on a 70-yard score late in Saturday's 40-39 win over Arizona."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/college-football/story/_/id/50488650/no-2-utah-survives-late-70-yard-td-thriller-vs-arizona",
+   "image": null,
+   "published_at": "2026-11-15T07:52:46Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "f9bfb16bc406afb25e35c2737c933f916a8f85a4",
+   "title": "Behind fill-in QB Wilson, Indiana goes on 'attack' to ramp up CFP, Big Ten push",
+   "summary": [
+    "With Grant Wilson filling in at quarterback, No. 9 Indiana ramped up its offensive attack against USC and scored its best win of the season Saturday."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/college-football/story/_/id/50485076/grant-wilson-indiana-boost-cfp-big-ten-hopes-win-vs-usc",
+   "image": null,
+   "published_at": "2026-11-15T07:52:46Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "6c6abfbc705633983e298641f186e30a5e040a53",
+   "title": "😈 Wake Forest's post-blowout jab tops CFB Week 11 trolls",
+   "summary": [
+    "Wake Forest dominated SMU on the gridiron Saturday -- and added insult to injury after the game."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/college-football/story/_/id/50481104/college-football-trolls-week-11",
+   "image": null,
+   "published_at": "2026-11-15T07:52:46Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "f877031c4d2b0a0a3fbcac5070368af42252d60d",
+   "title": "Sabalenka apologises & says viral comment 'not directed at Svitolina'",
+   "summary": [
+    "Aryna Sabalenka apologises and denies claims she insulted opponent Elina Svitolina after a viral clip showed her swearing in Russian during her WTA Finals defeat by the Ukrainian."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/tennis/articles/ck62p9ge4d76o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-15T07:51:33Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "a378498b20146be9604a4e5a22526f9ea5fd3fdc",
+   "title": "Ruthless Australia win record fourth Women's World Cup",
+   "summary": [
+    "Australia blow New Zealand away in the first half, with a hat-trick for Jaime Chapman, to win 34-10 in Brisbane and clinch a record fourth World Cup."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c50mdzx3j039o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-15T07:38:40Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "c54e087ab643c8fb9b4f0561281864dfe426ce23",
+   "title": "CFP top 12 projection: Flawed Texas finding a way",
+   "summary": [
+    "We assess how the selection committee could stack the top teams in the country after Week 11."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/college-football/story/_/id/50480953/projecting-2026-playoff-top-12-week-11-cfp",
+   "image": null,
+   "published_at": "2026-11-15T07:37:23Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "2344659ee11e8aa110a177c421aecec7220bf9f6",
+   "title": "Hot seats getting warmer, fiery AD statements and Texas comes up clutch in Week 11",
+   "summary": [
+    "Saturday didn't offer much to change the season's complexion, but some coaches are coming under pressure."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/college-football/story/_/page/gamedayfinal111426/week-11-top-games-highlights-takeaways",
+   "image": null,
+   "published_at": "2026-11-15T07:37:23Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "1bc4c7f056633e339bc958a5ef338990af3b5d26",
+   "title": "Australia's Sayers 'took sandpaper from field' & rejects Cummins' claims",
+   "summary": [
+    "Australia bowler Chadd Sayers says he helped take sandpaper from the field in the match prior to the Cape Town Test and backs Usman Khawaja's recollection over Pat Cummins'."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/cricket/articles/c9ly4jm8djy7o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-15T07:32:46Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "60d427b4e9014eb8741dec5b2dcc805a5320641d",
+   "title": "Australia 34-10 New Zealand: Women’s Rugby League World Cup final – as it happened",
+   "summary": [
+    "Jillaroos defeat Kiwi Ferns in Brisbane to claim World Cup title and cap dominant tournamentFirst-half blitz secures Australia’s fourth straight Women’s Rugby League World Cup title2 mins: A good kick off from the Ferns to get us started and Taufa gets the first run of the final.",
+    "It’s a good first set from the Jillaroos and they make the Ferns start deep in their own half.",
+    "Nerves from Atai who drops the ball early in the tackle count to give the Jillaroos a scrum feed 10m out.The Kiwi Ferns have kicked off and we’re underway!"
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/live/2026/nov/15/australia-jillaroos-vs-new-zealand-kiwi-ferns-womens-rugby-league-world-cup-final-live-updates",
+   "image": "https://i.guim.co.uk/img/media/fad751f6f0adec2ed5ad2e128b7451b003266a37/615_0_4532_3628/master/4532.jpg?width=140&quality=85&auto=format&fit=max&s=16a2b5f69096fc764b190925ba043d35",
+   "published_at": "2026-11-15T07:30:06Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "e7825203667b0e1d1eac53dc667bce1aba041317",
+   "title": "How Spain's humble superstar Simon became world's best keeper",
+   "summary": [
+    "As Spain prepare to host England in the Nations League, BBC Sport columnist Guillem Balague charts the rise of Unai Simon to become the world's best keeper."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cqvg23nv0jw2o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-15T07:29:30Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "1226ffa76d53aa5cfd95c113fcc237847d73bd39",
+   "title": "First-half blitz secures Australia’s fourth straight Women’s Rugby League World Cup title",
+   "summary": [
+    "The long-striding speedster scored three sensational tries in the first half alone to take her tournament tally to 13, breaking the record for an individual at a World Cup.",
+    "Chapman already has 521,000 Instagram followers around the rugby-loving world.",
+    "After this try-scoring spree – she now has 18 from her 10 Tests – it’ll be a million."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/2026/nov/15/australia-jillaroos-new-zealand-kiwi-ferns-womens-rugby-league-world-cup-final-match-report",
+   "image": "https://i.guim.co.uk/img/media/6fa84a9839fa30bda787fcb339fbd11df603b2ca/680_0_6275_5022/master/6275.jpg?width=140&quality=85&auto=format&fit=max&s=8fa2241a7f1b3385f954d1c30406861b",
+   "published_at": "2026-11-15T07:15:45Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "bab5eee7bf9f22d75929d6d98d866f7e74e479f7",
+   "title": "How Aston Villa are reclaiming their identity",
+   "summary": [
+    "Aston Villa Women are celebrating an important 30-year milestone on Sunday - but how are they trying to reclaim their identity?"
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cm4gkgnkkn9zo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-15T07:12:05Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "ff1fbec8e8a1bf87bb67eafec0762e3af131cfe3",
+   "title": "Who am I? Guess WSL star No 12",
+   "summary": [
+    "Work out the identity of today's Women's Super League player in as few attempts as possible."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c32l8yzvjgx7o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-15T07:01:31Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "c271640f00d23bae417055fc4706169c100e3f2d",
+   "title": "Who am I? Plus today's other quizzes",
+   "summary": [
+    "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c60mdnedvj2wo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-15T06:47:10Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "121a3e9ae010a540647d23856ff832a732f21110",
+   "title": "Respect? Exposure? Why England's star names are going abroad",
+   "summary": [
+    "Harry Kane, Jude Bellingham and Anthony Gordon are three of England's current biggest stars, but all have chosen to play their club football abroad."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/ckdd17mq2pvmo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-15T06:25:41Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "3b8441a5989fd75180147cf14a2c09b6d76a9fb2",
+   "title": "Barrett stops Gwynne for vacant lightweight title",
+   "summary": [
+    "Zelfa Barrett claimed the vacant WBA Intercontinental lightweight title with a fifth-round stoppage of Gavin Gwynne at Wembley Arena."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/boxing/articles/cmkg579gd821o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-15T06:04:32Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "62236e318bbf4866c7afaef343129607a7127def",
+   "title": "US Olympic hero Kayla Harrison submits Amanda Nunes to retain UFC title at MSG",
+   "summary": [
+    "It was also Harrison’s first fight since June 2025, after spinal fusion surgery in January to address a neck injury forced the postponement of the bout."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/2026/nov/15/kayla-harrison-amanda-nunes-ufc-334-ciryl-gane-josh-hokit",
+   "image": "https://i.guim.co.uk/img/media/97bdc839aaca1ecb2a6b2406d021dcf99de071e3/939_0_6478_5182/master/6478.jpg?width=140&quality=85&auto=format&fit=max&s=a1a26013286876a698d961cba6a23f45",
+   "published_at": "2026-11-15T05:31:10Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "a64adbc0f6aec1190616f33d99d7bd696ef5eb4f",
+   "title": "NHL Power Rankings: Updated poll, plus each team's points vs. preseason projections",
+   "summary": [
+    "Which teams are the most ahead of (or behind) their preseason expectations?"
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/nhl/story/_/id/50464480/nhl-2026-27-power-rankings-top-teams-players-stats-projections-standings",
+   "image": null,
+   "published_at": "2026-11-15T02:52:31Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "54a058a4813f759ce52fb313a26a93ff2be1bcc1",
+   "title": "Notre Dame's Hidalgo gets 500th steal, creating exclusive career club",
+   "summary": [
+    "Hannah Hidalgo became the first Division I player since steals were an official stat in 1987 with 2,000 career points and 500 career steals."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/womens-college-basketball/story/_/id/50482180/hidalgo-gets-500th-steal-creating-exclusive-career-club",
+   "image": null,
+   "published_at": "2026-11-15T01:36:58Z",
+   "category": "sports",
+   "related": []
+  },
   {
    "id": "3ba9387283a4d9b67986b85186a9f9e3a1bc1983",
    "title": "NFL referee faces 112-mile dash on double-duty Sunday after FAA ground stop",
@@ -33,528 +553,6 @@
    "url": "https://www.theguardian.com/sport/2026/nov/14/nfl-referee-two-games-faa-ground-stop-sports-travel-disruption",
    "image": "https://i.guim.co.uk/img/media/87e181df818101a240e84a98ad53877ebf43d8de/188_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=e5496cd8781d496a2b51e9c95d709128",
    "published_at": "2026-11-15T01:26:32Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "da9fc293f3ac9a46a79a34dd134c43f3230c4dfd",
-   "title": "Fiji 'did Ireland a favour' before South Africa game",
-   "summary": [
-    "Former South Africa head coach Jake White says his Fiji side \"did Ireland a favour\" in Saturday's Nations Championship match before they face the Springboks in Dublin next week."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c9e85d7mm0myo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-15T00:29:26Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "d354fe8de09b425ae5478b1105e9ccdcefa429fc",
-   "title": "Andreeva to face Svitolina in WTA Finals showpiece as Sabalenka apologises",
-   "summary": [
-    "The world No 3 has been utterly supreme in her long-awaited debut appearance, bulldozing through elite opposition to reach the final without dropping a set.",
-    "She has conceded just 18 games in four matches this week, including a 6-4, 6-0 demolition of the No 1 seed Aryna Sabalenka, winning 11 games in succession from 1-4 down."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/sport/2026/nov/14/mirra-andreeva-jessica-pegula-wta-finals-semi-final-indian-wells",
-   "image": "https://i.guim.co.uk/img/media/dd71471a0b542adafda592cba36d1095c72b022a/211_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=241430802c2a0dfbec2dbb28eb83256c",
-   "published_at": "2026-11-14T23:46:09Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "b72966c626fa66ddc437585283043b1d59b4e5e3",
-   "title": "Pulisic double leads US to 6-0 rout of Haiti in Pochettino’s farewell tour",
-   "summary": [
-    "A week of camp instead brought constant media coverage, efficient negotiations and questions about the future of the national team.",
-    "The US opened their two-leg series against Haiti with a dominant 6-0 victory in front of a considerably pro-Haitian crowd in Miami.",
-    "Auston Trusty provided the first half’s only goal before Julian Hall, Christian Pulisic, Weston McKennie and Folarin Balogun contributed to the eventual rout."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/2026/nov/14/usmnt-haiti-pulisic-pochettino-nations-league-quarter-final",
-   "image": "https://i.guim.co.uk/img/media/86dd519ec2c7e5e7a90e81d91b1f5529fd2004e5/420_0_3594_2877/master/3594.jpg?width=140&quality=85&auto=format&fit=max&s=0bdaf3efa2dbe51ede9b8109ae283a8a",
-   "published_at": "2026-11-14T23:43:28Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "e5e0bd2b6d3a93f70712d153929e7241bb470cff",
-   "title": "Svitolina races in WTA Finals showpiece against Andreeva",
-   "summary": [
-    "Elina Svitolina drops just three games as she thrashes Linda Noskova to set up a WTA Finals showpiece against Mirra Andreeva."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/tennis/articles/ck5y1xdrne28o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-14T23:31:10Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "0414f66466f0342849d0cf9dabb0d0ed1a36c9da",
-   "title": "The 'manager's dream' who has put NI one game from history",
-   "summary": [
-    "After scoring his first international goal in the 1-0 win over Ukraine, Northern Ireland boss Michael O'Neill says Terry Devlin is \"a bit of a dream\" to manage."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/articles/c84gn2dl4zleo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-14T23:21:45Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "fdc265246793995e16e93c5d26860749576c41c6",
-   "title": "Littler beats Greaves to start Grand Slam defence",
-   "summary": [
-    "Luke Littler begins his Grand Slam of Darts title defence with a comfortable 5-2 win over Beau Greaves in Wolverhampton."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/darts/articles/c61mdlgd94zno?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-14T23:10:08Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "42930c8fb12c66038bdb4a7b6d8a39ff8d8407d7",
-   "title": "Liverpool put three past Brighton to end winless run",
-   "summary": [
-    "A Beata Olsson double helps Liverpool to an impressive 3-0 victory away to Brighton to end their five-game winless run in the Women's Super League."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/videos/c6p3ewwezqy2o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-14T23:00:29Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "e5bd06ca91ab958f72516951b71cc8aff96df1c7",
-   "title": "Watch: Seven-try Ireland secure win over Fiji",
-   "summary": [
-    "Watch the tries as Ireland secure a 43-15 victory over Fiji in the Nations Championship in Dublin."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/rugby-union/videos/cm4gnxew18z3o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-14T22:53:45Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "f877031c4d2b0a0a3fbcac5070368af42252d60d",
-   "title": "Sabalenka apologises & says viral comment 'not directed at Svitolina'",
-   "summary": [
-    "Aryna Sabalenka apologises and denies claims she insulted opponent Elina Svitolina after a viral clip showed her swearing during her WTA Finals defeat by the Ukrainian."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/tennis/articles/ck62p9ge4d76o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-14T22:42:30Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "d0979ce2d6c087036034bb50504671645c8bdc70",
-   "title": "Hallgrimsson rues 'painful' defeat for Republic of Ireland",
-   "summary": [
-    "Republic of Ireland boss Heimir Hallgrimsson says their 1-0 defeat against Austria in their penultimate Nations League game was \"painful\"."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cr15e4w75wxpo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-14T22:40:02Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "71f861ecff2f2b25968d6af3fd02fe7e89b1bd50",
-   "title": "Devlin nets winner as NI top Nations League group",
-   "summary": [
-    "Watch highlights as Northern Ireland beat Ukraine 1-0 at Windsor Park in the Nations League."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/videos/c6z9dxk71538o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-14T22:38:02Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "483ff869f86904f7d6230926c564849c3aa03bfb",
-   "title": "White has 'exciting future' despite boos - Rice",
-   "summary": [
-    "Midfielder Declan Rice has defended his Arsenal team-mate Ben White after he was booed during England's win over Croatia at Wembley."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cq0mdzrjn0j2o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-14T22:26:56Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "11266bf5edec297785cf119958d1e58f2c42a34f",
-   "title": "Nations League roundup: Portugal mauled by Denmark as Norway sink Wales",
-   "summary": [
-    "Portugal thrashed 4-1 at home by DenmarkWales bottom of Group A4 after 3-1 lossPortugal were hammered 4-1 by Denmark on Saturday, an embarrassing Nations League defeat in their first match without Cristiano Ronaldo after his retirement from international football.Rasmus Højlund starred with a superb double as Denmark moved into second place in Group A4 and closed in on a spot in the quarter-finals with an exceptional display in Braga."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/2026/nov/14/clinical-norway-dent-wales-nations-league-top-tier-hopes-with-victory-in-oslo",
-   "image": "https://i.guim.co.uk/img/media/80cddf65767255ca40d4f5c3f182e55e948f8e26/1006_0_5044_4035/master/5044.jpg?width=140&quality=85&auto=format&fit=max&s=a43a033416486c567aa3c13928d84268",
-   "published_at": "2026-11-14T22:23:39Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "c2c43313a2416c83a0f93fc9be2b3be8c9d540dc",
-   "title": "Arsenal target Nusa could cost £66m - Sunday's gossip",
-   "summary": [
-    "Arsenal could have to pay £66m for RB Leipzig's Antonio Nusa, Real Betis reject Chelsea's bid for Jose Morante, plus more."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/articles/c6e9kgn532gxo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-14T21:48:45Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "4791bd808934c1737d9ee391c38707b178f9fdf3",
-   "title": "Comeback kid Joseph thrills as England eye All Blacks",
-   "summary": [
-    "Will Joseph's comeback after four years off the Test scene was worth waiting for.",
-    "And there was plenty elsewhere to buoy England in a rout of Japan."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cq0l3pn5z20xo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-14T21:06:00Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "5d035fb4d5a7112674853486e3e9c5ca69ec2321",
-   "title": "What Wales need to stay in Nations League top tier",
-   "summary": [
-    "BBC Sport Wales explains how Wales can stay in the Nations League top tier despite finishing bottom of their group."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cmx28nxw1elvo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-14T20:52:48Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "86f0b8452916ee01c8412b29b24ec9944367ceeb",
-   "title": "Georgia football recruit Marcellus Young Casario dies at 18 after medical emergency",
-   "summary": [
-    "The school announced his death later that day but did not identify him until Saturday.",
-    "No further details about the circumstances were released."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/sport/2026/nov/14/marcellus-young-casario-georgia-football-recruit-dies",
-   "image": "https://i.guim.co.uk/img/media/11dbae3a9e3cebb6a710331996984c79fc092b32/290_0_1498_1198/master/1498.jpg?width=140&quality=85&auto=format&fit=max&s=5c46407df7d5cfcafc6a3e0e9300370f",
-   "published_at": "2026-11-14T20:44:28Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "041715bbbc4cb08cc9d01c4700120ebc2d18bda4",
-   "title": "'No racism in Spain' – De la Fuente message for Tuchel",
-   "summary": [
-    "Spain manager Luis de la Fuente says \"there is no racism in Spain\" and England boss Thomas Tuchel reiterates that he does not believe it will be an issue at Sunday's Nations League meeting in Madrid."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/articles/c893r74ryy3qo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-14T20:43:57Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "04617dce7809c4e338c082df8140e7c111f64c2e",
-   "title": "Clara Luvanga strikes as Washington Spirit beat Utah to reach third straight NWSL final",
-   "summary": [
-    "Tanzanian scores second-half winner in 2-1 victorySpirit reach fifth NWSL final and third in successionWashington will chase second title at home groundClara Luvanga scored her second goal of the postseason in the 57th minute, capitalizing on an errant pass as the Washington Spirit reached their fifth NWSL Championship and third straight with a 2-1 semi-final victory over the Utah Royals on Saturday.Luvanga raced on to Nuria Rábano’s ill-advised ball after it rolled past Utah center-back Tatumn Milazzo, then chipped it delicately over the advancing goalkeeper Mandy McGlynn for the winner."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/2026/nov/14/washington-spirit-utah-royals-nwsl-semi-final-clara-luvanga",
-   "image": "https://i.guim.co.uk/img/media/bee44b5317593adf17fedc49d44df9b08ca826c4/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=df9f6cf4e0bf8525872d6a80f6ec6513",
-   "published_at": "2026-11-14T20:33:50Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "759fcd2a33cb174f82e305cfd6b5f54d50662e22",
-   "title": "Declan Rice accepts he had an ‘average World Cup’ as England gear up for Spain showdown",
-   "summary": [
-    "He is now ready to hit his best level for England in Sunday’s Nations League showdown against Spain at the Metropolitano Stadium."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/2026/nov/14/declan-rice-england-spain-nations-league-world-cup-thomas-tuchel",
-   "image": "https://i.guim.co.uk/img/media/f7ef395a328799053c7788d68a982937800fea7c/3_0_2003_1602/master/2003.jpg?width=140&quality=85&auto=format&fit=max&s=5d88ef87bf56f44b76724f7c788cdb4b",
-   "published_at": "2026-11-14T20:30:00Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "2b9638647d5a601cfd4d5158f408db0fb684acde",
-   "title": "Adames beats Welshman Warburton by unanimous decision",
-   "summary": [
-    "WBC middleweight champion Carlos Adames beats Gerome Warburton by unanimous decision in a non-title super middleweight bout."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/boxing/articles/cmkgkz244pgro?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-14T20:27:04Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "dc6004830911294e112471996ad5f49bc9f11821",
-   "title": "De la Fuente adamant there is no racism in Spain despite England reminder to players",
-   "summary": [
-    "And although England have returned to Spain three times without incident since then, twice in Seville and once in Alicante, Tuchel was asked on Friday about going back in the buildup to Sunday’s game.",
-    "The England coach replied that England “will not expect anything [untoward]” but also said: “Maybe we take our five minutes to inform the players about the protocol if there is a precedent [in Madrid].” Continue reading..."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/2026/nov/14/luis-de-la-fuente-spain-england-racism-thomas-tuchel-natiions-league",
-   "image": "https://i.guim.co.uk/img/media/c2be78ff0fcd0ba82fa2d77d7a5042a55688fdfd/374_0_3737_2989/master/3737.jpg?width=140&quality=85&auto=format&fit=max&s=440d43b514e68ea66256c044b6f1f82a",
-   "published_at": "2026-11-14T20:27:02Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "695a2c3ab2a402de9b4e32a8bd383d96eb4df5fe",
-   "title": "Spain test will reveal if Tuchel and England have learned World Cup lessons",
-   "summary": [
-    "England's game with world champions Spain will reveal if head coach Thomas Tuchel has learned from summer disappointment, says chief football writer Phil McNulty."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cq2d9l3e313zo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-14T20:22:00Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "e9daf71e3d76bef9513864606500049961c4ef38",
-   "title": "Here Manchester United go again, taking the Two Ronnies route to hiring a new boss | Jonathan Wilson",
-   "summary": [
-    "Magnusson: What’s the name of the directory that lists members of the peerage?",
-    "Smithers: One’s a trade union leader, the other’s a member of the Cabinet …One of the Two Ronnies’ most celebrated sketches involves a Mastermind contestant whose specialist subject is answering the previous question.",
-    "History repeats itself: the first time as comedy, the second time as Manchester United, who seem continually to be answering not the question of who would be the best available manager now, but who might have been the best available manager a few years ago."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/2026/nov/14/here-manchester-united-go-again-taking-the-two-ronnies-route-to-hiring-a-new-boss",
-   "image": "https://i.guim.co.uk/img/media/141adda3612daefb346ea63fbf16a86b94580389/732_203_4530_3624/master/4530.jpg?width=140&quality=85&auto=format&fit=max&s=0c3310ddb4287be45a16f3b931b654f8",
-   "published_at": "2026-11-14T20:00:53Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "ecec5e0568a4d909c519c5707d263b462daf9ded",
-   "title": "'One of the greatest wins' - Wales stun All Blacks to go from no-hopers to heroes",
-   "summary": [
-    "Wales end a 73-year hoodoo against New Zealand with a win hailed as their greatest of all time."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmkg57rz2re9o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-14T19:33:46Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "100c813f43c0128d29f9ee5a364156b7aa02cc87",
-   "title": "Joseph enjoys dream return as England thrash Japan at Twickenham",
-   "summary": [
-    "After four years away from international rugby, Will Joseph marks his return in style by scoring a record-equalling five tries as England humiliate Japan at Twickenham, scoring 13 tries in a 78-15 victory in the Nations Championship."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/rugby-union/videos/cmn0d1w0ry0no?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-14T19:32:45Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "fddf13ae1d685a998e107168d19fae287219cb90",
-   "title": "Norway 3-1 Wales: Nations League – as it happened",
-   "summary": [
-    "Antonio Nusa and (who else?) Erling Haaland put Wales to the sword in Oslo Pre-match postbag. “Wow.",
-    "The home fixture against Norway was a great performance, and a great result.",
-    "I’m happy with the team, looking forward to seeing Lewis Koumas teach a certain Norwegian striker about the art of centre forward play” – Matt Dony“If I were a gambling man I might put a few Bobb on Norway” – Peter Oh Continue reading..."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/live/2026/nov/14/norway-v-wales-nations-league-live",
-   "image": "https://i.guim.co.uk/img/media/f126102ece3f9ae334438c34904295254afac11b/33_0_3025_2420/master/3025.jpg?width=140&quality=85&auto=format&fit=max&s=3e51b0d54dbd2f70a6f50b49f3279523",
-   "published_at": "2026-11-14T19:31:33Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "89c4e487d8d2d2ec91bce802e64efb3055d04e5c",
-   "title": "Haaland helps Norway to win over Wales in Nations League",
-   "summary": [
-    "Watch the best of the action as Norway beat Wales in the Nations League in Oslo."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/videos/cr20vgxv43p8o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-14T19:23:13Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "51d25490fd67b76342c18bb8fcde5abc67a35758",
-   "title": "Portugal immortalise Cristiano Ronaldo’s No 7 shirt in tribute to national legend",
-   "summary": [
-    "His last appearance for Portugal was on 24 September, in a 1-0 home win over Wales in the Nations League."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/2026/nov/14/portugal-immortalise-cristiano-ronaldos-no-7-shirt-in-tribute-to-national-legend",
-   "image": "https://i.guim.co.uk/img/media/afaea3839b90ff1132cac2d830eda333f4d6a05b/2_126_511_409/master/511.jpg?width=140&quality=85&auto=format&fit=max&s=4742d429ae7773b83516d241371e30a3",
-   "published_at": "2026-11-14T19:13:43Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "5d292a0dc3f9cb901c26fd6278d28eb655c16a95",
-   "title": "Bompastor's risks pay off as Chelsea go top of WSL",
-   "summary": [
-    "In any big encounter you will often hear managers say it is the \"fine margins\" that decide a game.",
-    "In this case, it was Sonia Bompastor's decisions."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cmvg25w18q9qo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-14T18:55:34Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "a0259ef09cd7bcde50c41563ce4a5fb700e9fafb",
-   "title": "England 78-15 Japan: Nations Championship rugby union – as it happened",
-   "summary": [
-    "Will Joseph scored a record-equalling five tries as England beat Japan by 63 points at TwickenhamEddie Jones is on the pitch in the warm-up wearing a long coat alongside his very long co-captain, Warner Dearns.",
-    "The 24-year-old was born in New Zealand but moved to Japan as a young teenager.Japan’s Riku Tokito is – remarkably – playing his first game of professional XVs at Twickenham this afternoon.",
-    "The sevens ace is starting on the left wing."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/sport/live/2026/nov/14/england-v-japan-nations-championship-rugby-union-live",
-   "image": "https://i.guim.co.uk/img/media/a7bdaaa7678edee75c9435a3804dd2ad496ea281/0_623_2588_2071/master/2588.jpg?width=140&quality=85&auto=format&fit=max&s=66d09660609bbc55ec9619921e81fd4a",
-   "published_at": "2026-11-14T18:52:31Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "01297e08466e3c7279fcbd5b86dfe0fbd2b4b8a1",
-   "title": "Wales believed they could create history - Lake",
-   "summary": [
-    "Captain Dewi Lake says he always believed Wales could defeat New Zealand and end the 73-year hoodoo against the All Blacks."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c820q64ezyn7o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-14T18:30:58Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "66c68246bae30607b53b800c7f0b30289ef9d9d8",
-   "title": "Le Tissier stars as Man Utd beat Crystal Palace to extend unbeaten run",
-   "summary": [
-    "Maya le Tissier scores a stunning strike on her 150th appearance for Manchester United to help her side beat Crystal Palace 2-0 in the WSL, as the home side extend their unbeaten run in all competitions to 12 matches."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/videos/cqglrkk7gr1xo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-14T18:27:23Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "a10767ad09551ac838cd2f00b4efbcdd871bab22",
-   "title": "All Blacks ran into a Welsh brick wall - Barrett",
-   "summary": [
-    "New Zealand captain Beauden Barrett praises Wales' brick wall defence after the All Blacks are stunned in Cardiff."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmly5dwnpvdzo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-14T18:19:10Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "a217997d83e0fad4ded3cd6e0104e0bd40af677b",
-   "title": "Wales’ Dewi Lake calls historic win against New Zealand ‘amazing feeling’",
-   "summary": [
-    "We had tough conversations in the week [after a narrow win over Japan].",
-    "We’re a group that trusts each other a lot, and to put on the field what we did today, to make history, it’s tough to put it into words really.",
-    "But it is nothing this group doesn’t deserve for the work they put in for the last year, year and a half.” Continue reading..."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/sport/2026/nov/14/wales-dewi-lake-new-zealand-victory-amazing-feeling-historic-win",
-   "image": "https://i.guim.co.uk/img/media/387ff2f8a60e34e8528f15a41c44b7d3b07ee165/321_0_3816_3053/master/3816.jpg?width=140&quality=85&auto=format&fit=max&s=a4670c00227b961e8aa59ac0fc9da631",
-   "published_at": "2026-11-14T18:00:28Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "724d0088d457fc12ca5ce9e0c6dacbcf36ff54d7",
-   "title": "Highlights: Wales beat New Zealand for first time in 73 years",
-   "summary": [
-    "Watch the best of the action as Wales beat New Zealand for the first time in 73 years"
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/rugby-union/videos/ckdd10y25mm1o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-14T16:35:13Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "1074e7fbf6e8c9ae5d09dbdcd20f30b7eda0bff9",
-   "title": "Tenerife boss says Owono's 12-match ban 'feels light'",
-   "summary": [
-    "Tenerife boss Alvaro Cervera reacts to goalkeeper Jesus Owono's 12-match ban as the club prepare for their first game since the death of Jesus de Miguel."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cmjeq0x815zko?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-14T16:26:49Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "073802d79e4807f4cc61f62bab52312ec0481d27",
-   "title": "'I just play where the manager tells me to play!' - Walsh",
-   "summary": [
-    "Keira Walsh reacts after Chelsea go top of the Women's Super League with a 1-0 win against Manchester City."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/videos/c6d91n2x0e7ko?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-14T16:17:49Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "b76e34b6594f189dee5b8f45973c3b1deaa52853",
-   "title": "Meetmebythesea wins Paddy Power Gold Cup as Paul Nicholls matches Martin Pipe wins record – as it happened",
-   "summary": [
-    "The Ben Paulin-trained JP McManus-owned winner of Cheltenham’s feature race was ridden by Harry CobdenHeading away from the stands now, Atomic City has passed Tiny Riot but is still second-last.Down the back, Magnetude has taken over in front, all bar Tiny Riot covered by three lengths behind."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/sport/live/2026/nov/14/cheltenham-november-meeting-horse-racing-live",
-   "image": "https://i.guim.co.uk/img/media/baa44f665a0380c4639491a05f6955d470071a0f/326_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=887893aa04916a0b9c23aad52f014752",
-   "published_at": "2026-11-14T16:05:01Z",
    "category": "sports",
    "related": []
   }
