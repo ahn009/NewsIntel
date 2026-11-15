@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-15T09:12:09.856140Z",
- "story_count": 15,
+ "generated_at": "2026-11-15T16:58:55.633708Z",
+ "story_count": 18,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
-  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/home": "ok",
+  "https://www.dawn.com/feeds/pakistan": "ok",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,9 +20,94 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "ok"
+  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "3b08b117bc59c4097a3badf29c5b08e650d4a527",
+   "title": "Vitamin C could help block cancer-linked chemicals in your stomach, study finds",
+   "summary": [
+    "Scientists have discovered that vitamin C may help prevent potentially cancer-causing chemicals from forming in the stomach after eating foods containing nitrates and nitrites.",
+    "A new mathematical model suggests that taking vitamin C after meals could reduce these harmful reactions, offering a possible new strategy for lowering cancer risk."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261114202236.htm",
+   "image": null,
+   "published_at": "2026-11-15T14:13:18Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "fcba369e63e0094c4d0f7f8bd652ca214175ab24",
+   "title": "A common osteoporosis drug blocked spinal damage in a surprising new study",
+   "summary": [
+    "Scientists have uncovered a surprising genetic connection to spinal degeneration and found that an existing osteoporosis drug can prevent damaging mineral buildup in zebrafish spines.",
+    "The discovery could pave the way for new treatments that slow or prevent a major cause of chronic back pain."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261113232105.htm",
+   "image": null,
+   "published_at": "2026-11-15T14:03:39Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "641f5c09c3afc3398e6eb4a23dc1ae22ad134dc0",
+   "title": "Uranus and Neptune’s bizarre magnetic fields may finally be explained",
+   "summary": [
+    "The strange, wildly tilted magnetic fields of Uranus and Neptune have puzzled scientists since NASA's Voyager 2 spacecraft explored the planets in the 1980s.",
+    "New simulations suggest that extreme conditions deep inside these icy giants create unusual electrical properties that could explain their magnetic fields.",
+    "Remarkably, the models indicate that their magnetic poles could shift by tens of degrees within just a few decades, far faster than Earth's."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261114202204.htm",
+   "image": null,
+   "published_at": "2026-11-15T13:43:22Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "45256f4846edb5265d6e0e580652d6bc9cf55e4c",
+   "title": "Astronomers discover a dead star spinning every 8 minutes and sending mysterious radio pulses",
+   "summary": [
+    "Scientists have discovered a strange stellar pair more than 5,000 light-years away, where a dead star spinning every eight minutes produces mysterious radio pulses while orbiting a Sun-like star.",
+    "The breakthrough also revealed massive magnetic storms on the companion star, offering fresh clues to one of astronomy's emerging mysteries."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261114202136.htm",
+   "image": null,
+   "published_at": "2026-11-15T13:04:09Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "5de1690213dc38b75c7739ec84a7612c2840c67a",
+   "title": "A simple supplement could help your immune system fight cancer and viral infections",
+   "summary": [
+    "A surprising discovery from Rockefeller University suggests that a common amino acid could play a powerful role in protecting against cancer and viral infections.",
+    "Scientists found that low arginine levels interfere with the immune system's ability to recognize dangerous cells, while increasing arginine intake reduced colon cancer tumors and improved viral infection outcomes in mice.",
+    "Even more remarkably, giving mice arginine after they contracted influenza helped them recover."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261113232000.htm",
+   "image": null,
+   "published_at": "2026-11-15T12:36:52Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "ed56c115d079c2233686f5b5575f552b27d8775b",
+   "title": "How to spot November's planetary parade in the pre-dawn sky",
+   "summary": [
+    "The planets of Mercury, Venus, Mars and Jupiter will align in pre-dawn sky throughout November."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/weather/articles/cke8rr37lrryo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-15T10:49:57Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "c483ec2db561705f33e88f3035e540d31b671321",
    "title": "Alzheimer’s may start shrinking two brain regions years before memory loss",
@@ -171,19 +256,6 @@
    "related": []
   },
   {
-   "id": "ed56c115d079c2233686f5b5575f552b27d8775b",
-   "title": "How to spot November's planetary parade in the pre-dawn sky",
-   "summary": [
-    "The planets of Mercury, Venus, Mars and Jupiter will align in pre-dawn sky throughout November."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/weather/articles/cke8rr37lrryo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-14T11:07:51Z",
-   "category": "science",
-   "related": []
-  },
-  {
    "id": "7d4620104e59f2ab536ba86dd312e13e9fad820b",
    "title": "Extreme weather leaves gardeners hedging their bets",
    "summary": [
@@ -206,35 +278,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-14T06:56:58Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "171b720aca8eaa16756440080d55cc2dbae4f011",
-   "title": "5,000-year-old skulls reveal a disturbing secret of ancient Egypt's first kings",
-   "summary": [
-    "A 5,000-year-old mystery surrounding the tombs of Egypt’s first kings has taken a disturbing turn.",
-    "Scientists reexamining 46 ancient skulls discovered evidence of potentially fatal head injuries in 18, suggesting that at least 39% of those studied may have been deliberately killed.",
-    "The findings support a century-old theory that royal attendants were sacrificed when kings died, possibly to serve them in the afterlife."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261112025540.htm",
-   "image": null,
-   "published_at": "2026-11-14T02:59:05Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "39136d85fce30fe74d6888467d48ae3e7d1f1588",
-   "title": "Scientists capture electrons making seemingly impossible quantum jumps",
-   "summary": [
-    "Scientists have captured electrons making seemingly impossible jumps across forbidden energy gaps in graphene, with some transitions occurring at a remarkable 100% probability.",
-    "The breakthrough offers an unprecedented look at quantum behavior and could help unlock a new generation of ultrafast, light-controlled electronics."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261112025523.htm",
-   "image": null,
-   "published_at": "2026-11-14T01:13:05Z",
    "category": "science",
    "related": []
   }

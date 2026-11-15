@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-15T09:12:09.855635Z",
- "story_count": 35,
+ "generated_at": "2026-11-15T16:58:55.633108Z",
+ "story_count": 36,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
-  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/home": "ok",
+  "https://www.dawn.com/feeds/pakistan": "ok",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,14 +20,242 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "ok"
+  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "1ae8d637c25413619f053999bcbef63a73abacc1",
+   "title": "The tech products we enthusiastically recommend this holiday season",
+   "summary": [
+    "We've been reviewing a bunch of new gadgets at TechCrunch this year, and we have some clear favorites to share for your Black Friday shopping and beyond."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
+   "image": null,
+   "published_at": "2026-11-15T16:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "680fcbf33e39c8e8db981266e5cf0c19247ef53a",
+   "title": "'Duffy Lied': Controllers Refute Transportation Secretary's Ground Stop Story",
+   "summary": [
+    "Article URL: https://www.commondreams.org/news/duffy-ground-stop-explanation Comments URL: https://news.ycombinator.com/item?id=50507791 Points: 18 # Comments: 3"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.commondreams.org/news/duffy-ground-stop-explanation",
+   "image": null,
+   "published_at": "2026-11-15T15:45:42Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "3ac2f0cb8cd6d7c05515ffffcda4e65ffb519f74",
+   "title": "Show HN: A tiny macOS app that turns off the MacBook display [free license]",
+   "summary": [
+    "Hi, I made a tiny app that lets you turn off the MacBook screen when you work on external monitors.It does NOT just dim the brightness to zero, the screen is actually turned off via the Apple hardware API, the according desktop is removed, so you have a clean \"one big monitor\" setup.- Safe fallback if you turn off the external monitor(s), unplug the monitor cable(s), the app crashes or anything else happens. - Keyboard, touchpad and TouchID still work fine. - Automatic restart.",
+    "2 Megabyte size. - Totally niche, I know, but it helps me to concentrate.The app is commercial ($9 once), but everybody who DMs me here gets a *FREE* lifetime license, and everybody who uses in the feedback form (to report if the apps works on your setup) gets a free lifetime license too.Thanks ;)https://blackoutapp.io Comments URL: https://news.ycombinator.com/item?id=50507722 Points: 5 # Comments: 9"
+   ],
+   "source": "Hacker News",
+   "url": "https://blackoutapp.io/",
+   "image": null,
+   "published_at": "2026-11-15T15:37:52Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "6390c6b231f0caf9874e7ede13f1a5a2ef4e68d6",
+   "title": "Emacs Is My Browser",
+   "summary": [
+    "Article URL: https://joshblais.com/blog/emacs-as-my-browser/ Comments URL: https://news.ycombinator.com/item?id=50507553 Points: 29 # Comments: 6"
+   ],
+   "source": "Hacker News",
+   "url": "https://joshblais.com/blog/emacs-as-my-browser/",
+   "image": null,
+   "published_at": "2026-11-15T15:21:21Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "de1b04aef218049582c90c0014efe24118570b1b",
+   "title": "All AI-generated code should be Open Source",
+   "summary": [
+    "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 296 # Comments: 189"
+   ],
+   "source": "Hacker News",
+   "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+   "image": null,
+   "published_at": "2026-11-15T14:46:58Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "87316fec60d29d025e75115e017523792a5d99e0",
+   "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
+   "summary": [
+    "Article URL: https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/ Comments URL: https://news.ycombinator.com/item?id=50507206 Points: 53 # Comments: 23"
+   ],
+   "source": "Hacker News",
+   "url": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/",
+   "image": null,
+   "published_at": "2026-11-15T14:31:52Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "3f4c07423abdecbd03ef94ec73d3d213732cfc64",
+   "title": "‘Grand Theft Auto Flu’: is the whole world really taking the day off work to play GTA VI?",
+   "summary": [
+    "Headlines have claimed the release of the first new GTA game in 13 years will hugely affect the global economy on Thursday – but there’s another story that’s been left behindA new pandemic is threatening planet Earth.",
+    "It should pass in a few days.The anticipation for Grand Theft Auto VI, the first new game in the franchise in 13 years, is so high that a steady stream of news coverage has suggested it heralds economic catastrophe due to workers taking time off to play the game.",
+    "The term “GTA Flu” was coined for the swathe of sickies that reportedly happened when GTA V was released in 2013, and – supposedly – are set to happen again when GTA VI comes out this week."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/games/2026/nov/16/grand-theft-auto-gta-vi-first-new-game-released-in-13-years",
+   "image": "https://i.guim.co.uk/img/media/cad0cb203d4cb07169ebae435e7d4b9bf4f5096a/548_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=f9e5e16e2f9144dbfd137c4aace6276d",
+   "published_at": "2026-11-15T14:00:15Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "dc388aee58abf2aab68e63d811033fb604819376",
+   "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+   "summary": [
+    "Article URL: https://prog21.dadgum.com/116.html Comments URL: https://news.ycombinator.com/item?id=50506894 Points: 78 # Comments: 24"
+   ],
+   "source": "Hacker News",
+   "url": "https://prog21.dadgum.com/116.html",
+   "image": null,
+   "published_at": "2026-11-15T13:44:16Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "57809c39abaa0430588c3f3a1f22e9681c3ef060",
+   "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+   "summary": [
+    "Article URL: https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/ Comments URL: https://news.ycombinator.com/item?id=50506719 Points: 193 # Comments: 95"
+   ],
+   "source": "Hacker News",
+   "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+   "image": null,
+   "published_at": "2026-11-15T13:15:22Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "96e1a1a80255c947dbb8203bbc339e9acde5edfe",
+   "title": "A NES emulator written in Odin",
+   "summary": [
+    "Article URL: https://lucypero.com/lucynes.html Comments URL: https://news.ycombinator.com/item?id=50506588 Points: 55 # Comments: 8"
+   ],
+   "source": "Hacker News",
+   "url": "https://lucypero.com/lucynes.html",
+   "image": null,
+   "published_at": "2026-11-15T12:51:47Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "950ac38f23f2d5a7b62eb3e171ad86cac2083969",
+   "title": "Understanding Positional Embeddings in Modern LLMs",
+   "summary": [
+    "Article URL: https://magazine.sebastianraschka.com/p/understanding-positional-embeddings Comments URL: https://news.ycombinator.com/item?id=50506376 Points: 100 # Comments: 1"
+   ],
+   "source": "Hacker News",
+   "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+   "image": null,
+   "published_at": "2026-11-15T12:14:06Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "768d7342d58866f15db1e18e60e9567231e7d29e",
+   "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
+   "summary": [
+    "Article URL: https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html Comments URL: https://news.ycombinator.com/item?id=50506180 Points: 191 # Comments: 81"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
+   "image": null,
+   "published_at": "2026-11-15T11:40:51Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "9d07b354d59a8769c729331cda24c4ee481a92c4",
+   "title": "Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI",
+   "summary": [
+    "As a student in Edinburgh at that time, I would hear rumours of wild parties at the executives’ houses, as decadent as those in the game.",
+    "Grand Theft Auto is now made by a huge team of nearly 5,000 people around the world but its central nervous system is still in Holyrood, in the shadow of Arthur’s Seat.The setting of the latest Grand Theft Auto game really could not be further from the Scottish capital.",
+    "Grand Theft Auto VI takes us to Vice City in the state of Leonida, a parody of Miami, Florida."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/games/ng-interactive/2026/nov/15/grand-theft-auto-vi-inside-rockstar-games",
+   "image": "https://i.guim.co.uk/img/media/bcaf21a5ea7f320d200cf89cb3e6d93d0bd16a0b/0_2377_7101_5677/master/7101.jpg?width=140&quality=85&auto=format&fit=max&s=993448de6a2c38a18864b8b50d5fd385",
+   "published_at": "2026-11-15T10:00:10Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "91e375cc559dcd9993426b98cac94a8af0278569",
+   "title": "Why did some Apollo missions carry a grenade launcher?",
+   "summary": [
+    "Article URL: https://space.stackexchange.com/questions/37775 Comments URL: https://news.ycombinator.com/item?id=50505271 Points: 141 # Comments: 100"
+   ],
+   "source": "Hacker News",
+   "url": "https://space.stackexchange.com/questions/37775",
+   "image": null,
+   "published_at": "2026-11-15T09:06:43Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "9ebf7b582dd6d0cae05765f604a993f00099a31e",
+   "title": "Book list for streetfighting computer scientists",
+   "summary": [
+    "Article URL: https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists Comments URL: https://news.ycombinator.com/item?id=50504718 Points: 100 # Comments: 38"
+   ],
+   "source": "Hacker News",
+   "url": "https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists",
+   "image": null,
+   "published_at": "2026-11-15T07:08:50Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "936ae24e1427a771b6ca95a03367c818fee5e2e6",
+   "title": "‘Prove you are not a robot’: how the Captcha scam captures your computer",
+   "summary": [
+    "Unlike familiar Captcha tests, this con asks you to press a series of keys.",
+    "And that’s a way in for fraudsters to install malicious softwareYou are looking for some gifts for Christmas and want to support small businesses when you shop.",
+    "When you visit the site of one you’ve heard good things about you are asked to verify that you are human.Instead of clicking on a series of images, or typing letters that appear, just as you have seen before, you are asked to press a series of keys and then press enter."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/money/2026/nov/15/captcha-scam-computer-malicious-software",
+   "image": "https://i.guim.co.uk/img/media/5bdb2471a5767826c1725b205b85b8d90e4b4f77/480_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=3e9246160e867f88ad574ac58ef48a00",
+   "published_at": "2026-11-15T07:00:06Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "2460d1d60ca9d447fdc4dfff09f4f84291227002",
+   "title": "‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick",
+   "summary": [
+    "Huang resigned on Thursday after 33 years as CEO amid reports of two additional affairs with Nvidia employees, causing the world’s most valuable chip company’s stock to plummet."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare",
+   "image": "https://i.guim.co.uk/img/media/c688291392ebfaa491e16553c6a42ec3ff3c5b77/0_541_2400_1919/master/2400.jpg?width=140&quality=85&auto=format&fit=max&s=d86f59594943d3e382cf380ea2fd4e71",
+   "published_at": "2026-11-15T06:00:06Z",
+   "category": "tech",
+   "related": []
+  },
   {
    "id": "0237c2ed4dfc16bcf722a988d4a062ad40d63b1e",
    "title": "Disk encryption on NetBSD – achieving secrecy",
    "summary": [
-    "Article URL: https://netbsd.org/~nia/disk-encrypt/ Comments URL: https://news.ycombinator.com/item?id=50504277 Points: 15 # Comments: 0"
+    "Article URL: https://netbsd.org/~nia/disk-encrypt/ Comments URL: https://news.ycombinator.com/item?id=50504277 Points: 79 # Comments: 15"
    ],
    "source": "Hacker News",
    "url": "https://netbsd.org/~nia/disk-encrypt/",
@@ -37,49 +265,10 @@
    "related": []
   },
   {
-   "id": "6e99cd2a6aeba56878ce1b687e2a860708070e2a",
-   "title": "Kiri – The Modern Container Runtime",
-   "summary": [
-    "Article URL: https://runkiri.com/ Comments URL: https://news.ycombinator.com/item?id=50504077 Points: 30 # Comments: 16"
-   ],
-   "source": "Hacker News",
-   "url": "https://runkiri.com/",
-   "image": null,
-   "published_at": "2026-11-15T04:40:41Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "5ec3910099d55c90ff14991dc56922e74f18766e",
-   "title": "Show HN: Gawain – Require type hints on all Python variables",
-   "summary": [
-    "Yes, i really hate \"dict[str, ANY]\" Comments URL: https://news.ycombinator.com/item?id=50504072 Points: 44 # Comments: 21"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/matheuzgomes/gawain",
-   "image": null,
-   "published_at": "2026-11-15T04:39:25Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "fa6f9a523c4f065160975fed7b7b27f6e36f6947",
-   "title": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
-   "summary": [
-    "Article URL: https://github.com/Tthanh2k6/turbo-browser-mcp Comments URL: https://news.ycombinator.com/item?id=50503930 Points: 31 # Comments: 5"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
-   "image": null,
-   "published_at": "2026-11-15T04:09:11Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "ee705bff49c2bac43ee0e59e406db8ffb82704bf",
    "title": "My favourite modern NES games",
    "summary": [
-    "Article URL: https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/ Comments URL: https://news.ycombinator.com/item?id=50503465 Points: 64 # Comments: 5"
+    "Article URL: https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/ Comments URL: https://news.ycombinator.com/item?id=50503465 Points: 171 # Comments: 23"
    ],
    "source": "Hacker News",
    "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
@@ -89,15 +278,15 @@
    "related": []
   },
   {
-   "id": "4f0ce258a369f23981f55a946d2338dfd9be8759",
-   "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+   "id": "e043f4cff3c928f2ffbbdf9a513049145406e3e7",
+   "title": "Italy fines Meta $887m for accessing Android users’ photos and videos",
    "summary": [
-    "Article URL: https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches Comments URL: https://news.ycombinator.com/item?id=50503255 Points: 219 # Comments: 56"
+    "The fine is among the largest an Italian authority has imposed on a tech giant and Meta says it plans to appeal the decisionItaly’s data protection agency has fined Facebook parent company Meta €805m ($887m) for accessing users’ photos without their specific consent.Through the Facebook application for Android devices, Meta accessed photographs, videos and related metadata belonging to Italian users “without obtaining specific consent and without properly informing them”, the authority said in a statement."
    ],
-   "source": "Hacker News",
-   "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
-   "image": null,
-   "published_at": "2026-11-15T02:00:54Z",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/15/italy-fines-meta-887m-for-accessing-android-users-photos-and-videos",
+   "image": "https://i.guim.co.uk/img/media/425a7ddc9027cb19ae403783368047bbd261c48a/314_0_2872_2299/master/2872.jpg?width=140&quality=85&auto=format&fit=max&s=a21d148cf4521bdbbe4b16afaee635cc",
+   "published_at": "2026-11-15T02:02:01Z",
    "category": "tech",
    "related": []
   },
@@ -105,25 +294,12 @@
    "id": "14ba8d16905942f36916d052236d749017acd32c",
    "title": "Court denies motion to dismiss DRAM price fixing case",
    "summary": [
-    "Article URL: https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal Comments URL: https://news.ycombinator.com/item?id=50502988 Points: 110 # Comments: 25"
+    "Article URL: https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal Comments URL: https://news.ycombinator.com/item?id=50502988 Points: 371 # Comments: 156"
    ],
    "source": "Hacker News",
    "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
    "image": null,
    "published_at": "2026-11-15T01:18:36Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "59e30295289f34a209fe00f30dfa3004664c227f",
-   "title": "Show HN: A custom font based on the Jamaican flag alphabet",
-   "summary": [
-    "Article URL: https://bobbiec.github.io/jamaican-font.html Comments URL: https://news.ycombinator.com/item?id=50502839 Points: 35 # Comments: 6"
-   ],
-   "source": "Hacker News",
-   "url": "https://bobbiec.github.io/jamaican-font.html",
-   "image": null,
-   "published_at": "2026-11-15T00:56:45Z",
    "category": "tech",
    "related": []
   },
@@ -141,10 +317,23 @@
    "related": []
   },
   {
+   "id": "c1b37e19e6e46a57a1a58b8af9f0f6f9cbdfdde6",
+   "title": "The Telephone Changed the World",
+   "summary": [
+    "Article URL: https://lithub.com/how-the-telephone-changed-the-world/ Comments URL: https://news.ycombinator.com/item?id=50501887 Points: 27 # Comments: 6"
+   ],
+   "source": "Hacker News",
+   "url": "https://lithub.com/how-the-telephone-changed-the-world/",
+   "image": null,
+   "published_at": "2026-11-14T22:56:09Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "cce942626afe3b381c2cecbcbf4282b92fe788e1",
    "title": "How did Woz write the Apple 1 BASIC before building the computer?",
    "summary": [
-    "Article URL: https://retrocomputing.stackexchange.com/questions/17957 Comments URL: https://news.ycombinator.com/item?id=50501594 Points: 205 # Comments: 98"
+    "Article URL: https://retrocomputing.stackexchange.com/questions/17957 Comments URL: https://news.ycombinator.com/item?id=50501594 Points: 276 # Comments: 144"
    ],
    "source": "Hacker News",
    "url": "https://retrocomputing.stackexchange.com/questions/17957",
@@ -170,7 +359,7 @@
    "id": "4e501f9826d014090ed9312e94f357780c8cd449",
    "title": "SpaceX catches the Starship to end Flight 15",
    "summary": [
-    "https://x.com/SpaceX/status/2121316300702056595https://youtu.be/jHlpfNSpBmw?t=3233 Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 1167 # Comments: 762"
+    "https://x.com/SpaceX/status/2121316300702056595https://youtu.be/jHlpfNSpBmw?t=3233 Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 1469 # Comments: 996"
    ],
    "source": "Hacker News",
    "url": "https://www.spacex.com/launches/starship-flight-15",
@@ -193,19 +382,6 @@
    "related": []
   },
   {
-   "id": "7640cc164999215c1b5f0c028e45bd7809ce2563",
-   "title": "Art ‘must not be sacrificed on the altar of corporate profit’, Liberal senator says as AI policy debate rages",
-   "summary": [
-    "Andrew McLachlan says he chooses ‘real forests over virtual ones’ as he urges Labor government to consider AI’s impact on artists and environmentGet our daily political email, free app or daily news podcastThe outspoken Liberal senator Andrew McLachlan has raised the alarm about "
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan",
-   "image": "https://i.guim.co.uk/img/media/bb100c4ad17c64282442b40c27895d51765e32dd/0_0_3485_2789/master/3485.jpg?width=140&quality=85&auto=format&fit=max&s=d72d9f2961e3b70e5c920ce9fd1fa088",
-   "published_at": "2026-11-14T19:00:52Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "cb83a78f24c53263a9cfa85e705924e654e8ea3e",
    "title": "Got an iPhone Duo? These 9 settings make it easier to use",
    "summary": [
@@ -222,7 +398,7 @@
    "id": "0981be9212e15dfdd23c79f90e607ff0ec22d5f4",
    "title": "A family tree of software job titles",
    "summary": [
-    "Article URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/ Comments URL: https://news.ycombinator.com/item?id=50499038 Points: 297 # Comments: 147"
+    "Article URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/ Comments URL: https://news.ycombinator.com/item?id=50499038 Points: 386 # Comments: 192"
    ],
    "source": "Hacker News",
    "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
@@ -248,7 +424,7 @@
    "id": "9f394f52c81397194e4177c1acfef8ddde929a0f",
    "title": "Lovable apps expose passport details and more than 200K private messages",
    "summary": [
-    "Article URL: https://www.crissyfield.de/research/lovable-en/ Comments URL: https://news.ycombinator.com/item?id=50499017 Points: 796 # Comments: 311"
+    "Article URL: https://www.crissyfield.de/research/lovable-en/ Comments URL: https://news.ycombinator.com/item?id=50499017 Points: 941 # Comments: 360"
    ],
    "source": "Hacker News",
    "url": "https://www.crissyfield.de/research/lovable-en/",
@@ -284,32 +460,6 @@
    "related": []
   },
   {
-   "id": "9b08084c1635df93d057a5c19cbd0b8001f098e6",
-   "title": "PyPI's redesigned project pages with clearer security signals are now live",
-   "summary": [
-    "Article URL: https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/ Comments URL: https://news.ycombinator.com/item?id=50497892 Points: 239 # Comments: 100"
-   ],
-   "source": "Hacker News",
-   "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
-   "image": null,
-   "published_at": "2026-11-14T15:40:52Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "ad8b3d5bdfd0d7ff6bc7be05d05e550781855268",
-   "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-   "summary": [
-    "Article URL: https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax Comments URL: https://news.ycombinator.com/item?id=50497589 Points: 228 # Comments: 21"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-   "image": null,
-   "published_at": "2026-11-14T15:04:15Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "57c073f22b98b4cefb6175d73844964d9f829618",
    "title": "The 143 best holiday gifts in 2026 – obsessively tested by the Guardian US",
    "summary": [
@@ -321,32 +471,6 @@
    "url": "https://www.theguardian.com/thefilter-us/2026/nov/14/best-holiday-gifts-ideas-guide",
    "image": "https://i.guim.co.uk/img/media/20d2330e5f473bbce3a0a217a7f06fea87fb32a7/1_0_2499_2000/master/2499.jpg?width=140&quality=85&auto=format&fit=max&s=8c1c1bf27636df70e303038abf60b80c",
    "published_at": "2026-11-14T14:00:47Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "fbb4c2fd353eb3806eaca20f900e7b8adcdfdf10",
-   "title": "KDE: The documentary [video]",
-   "summary": [
-    "Article URL: https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c Comments URL: https://news.ycombinator.com/item?id=50496976 Points: 458 # Comments: 100"
-   ],
-   "source": "Hacker News",
-   "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-   "image": null,
-   "published_at": "2026-11-14T13:43:28Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "be81354d8a302a35aaed2627d58a26fa2f7f60b7",
-   "title": "Advancing science and engineering with Antigravity's /teamwork",
-   "summary": [
-    "Article URL: https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/ Comments URL: https://news.ycombinator.com/item?id=50496811 Points: 194 # Comments: 42"
-   ],
-   "source": "Hacker News",
-   "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
-   "image": null,
-   "published_at": "2026-11-14T13:20:43Z",
    "category": "tech",
    "related": []
   },
@@ -364,19 +488,6 @@
    "related": []
   },
   {
-   "id": "1838248a60d9044040f647fbae585a096108889a",
-   "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
-   "summary": [
-    "Article URL: https://projectzero.google/2026/11/disclosure-policy.html Comments URL: https://news.ycombinator.com/item?id=50496051 Points: 241 # Comments: 109"
-   ],
-   "source": "Hacker News",
-   "url": "https://projectzero.google/2026/11/disclosure-policy.html",
-   "image": null,
-   "published_at": "2026-11-14T11:13:17Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "a87af2f6d322bc3a975ca68d2ff5d334a3a0ae0e",
    "title": "Microsoft says services fully restored after day-long global outage",
    "summary": [
@@ -386,99 +497,6 @@
    "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-14T06:42:27Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "e6a701e46b20eba08bd7580328cc8326be9a7785",
-   "title": "Tech Now",
-   "summary": [
-    "Yasmin Morgan-Griffiths follows a team testing AI early warning systems for landslides."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/iplayer/episode/m0034hf1?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-14T01:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "8e9cd81adab4942a913ac325fb050050c0106b20",
-   "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
-   "summary": [
-    "The next title in the series is expected to be the biggest video game release ever."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6jd7k5ryl1mo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-14T00:37:01Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "158b642aada4699ff477f770d12403d0e2175227",
-   "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-   "summary": [
-    "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-13T23:00:31Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "4c02b6f51e28658bca16941ccff4242998ba03c3",
-   "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
-   "summary": [
-    "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display.",
-    "But if you already own the first-generation Colorsoft, there’s little reason to upgrade."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
-   "image": null,
-   "published_at": "2026-11-13T23:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "ad639fbc6552b9e9ff7b95b49e8c631c7e691930",
-   "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-   "summary": [
-    "Nvidia poured tens of billions into AI startups under Huang.",
-    "Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-   "image": null,
-   "published_at": "2026-11-13T22:43:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "c3a51d07bc90e6403bea90165b87b0575a65ef14",
-   "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
-   "summary": [
-    "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
-   "image": null,
-   "published_at": "2026-11-13T21:44:38Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "5388d13b7a3706f06f67878e412264d1664be3e5",
-   "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
-   "summary": [
-    "Microsoft has apologised for the issue, which it said was due to a technical failure."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-13T21:15:41Z",
    "category": "tech",
    "related": []
   }

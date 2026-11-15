@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-15T09:12:09.853743Z",
+ "generated_at": "2026-11-15T16:58:55.630921Z",
  "story_count": 60,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
-  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/home": "ok",
+  "https://www.dawn.com/feeds/pakistan": "ok",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,698 +20,20 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "ok"
+  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
   {
-   "id": "c99b7474377b2c7aa7a1740a99fc8b2a1fd0c9ca",
-   "title": "Australia v New Zealand: men’s Rugby League World Cup final – live",
+   "id": "9323ecbcddedbba98d0f404a149111a77848aa32",
+   "title": "Watch: Tour Championship highlights",
    "summary": [
-    "Updates as the Kangaroos and Kiwis meet in the decider in BrisbaneAny thoughts?",
-    "Send us an emailAs Munster mentioned, it has been a muggy day in Brisbane.",
-    "It is a full house, of course.New Zealand’s Kalyn Ponga is locked in.I’m nervous."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/sport/live/2026/nov/15/australia-kangaroos-vs-new-zealand-kiwis-mens-rugby-league-world-cup-final-live-updates",
-   "image": "https://i.guim.co.uk/img/media/9d7d98de0eb160602c0019a3741da433f417f163/880_0_4973_3978/master/4973.jpg?width=140&quality=85&auto=format&fit=max&s=bd24af42958ec5ea6d8c10912c1a7221",
-   "published_at": "2026-11-15T09:01:13Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "b3d97eba3e71ec877c3d9803cae02f54c9352ddc",
-   "title": "Reality dawns after Wales dared to dream",
-   "summary": [
-    "As Welsh rugby fans wake up on Sunday morning the realisation will dawn on them that Wales beat New Zealand for the first time in 73 years."
+    "Final day highlights as the DP World Tour season reaches its climax."
    ],
    "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cvx2xnyxl85ko?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/iplayer/live/bbctwo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-15T08:58:32Z",
+   "published_at": "2026-11-15T17:17:50Z",
    "category": "sports",
-   "related": []
-  },
-  {
-   "id": "88dcc6e89fdfaa295dfb2c8b615bf2d36a38d1dd",
-   "title": "Transfer rumors, news: Como's Paz to be Pochettino's first Man United summer signing?",
-   "summary": [
-    "Manchester United are monitoring Como superstar Nico Paz ahead of a move next summer."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/soccer/story/_/id/50478503/transfer-rumors-news-man-united-como-nico-paz-mauricio-pochettino",
-   "image": null,
-   "published_at": "2026-11-15T08:58:21Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "e18b81e4acfed3dfccc8e94da4be115cc475e377",
-   "title": "Spain v England Nations League buildup, WSL and more – matchday live",
-   "summary": [
-    "All the latest news from around the footballing worldGet in touch: contact our matchday live writers on emailThere are no nights to forget; it was a night of learning, of seeing the mistakes we made.",
-    "Rasmus Højlund scored a brace as Denmark eased their way to victory to a chorus of boos in Estadio Municipal.",
-    "Read the full match report and roundup from the rest of the games here."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/live/2026/nov/15/spain-v-england-nations-league-buildup-wsl-and-more-matchday-live",
-   "image": "https://i.guim.co.uk/img/media/309c76a85b0e4a3b849fb91af254111d77ece449/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=edf178e2e955d3c0a02433cfe8583edb",
-   "published_at": "2026-11-15T08:57:42Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "7a9601dac5f787079207462c19c98946df62afa1",
-   "title": "Australia v England: second men’s cricket one-day international – live",
-   "summary": [
-    "Updates as arch-rivals clash in ODI at Adelaide OvalSayers rejects Cummins’ claims | Get in touch on emailDuckett survives a huge LBW shout early in the over from Bartlett, surviving a bail trimmer on Umpire’s call but then rather gives his wicket away with a slash straight to Cooper Connolly at backward point.",
-    "Decent low catch and Australia have their first scalp.4th over: England 17-0 (Banton 8, Duckett 9) Apologies my tv cut off at a crucial moment… four runs came off Johnson’s second over but England have also lost their first wicket… (ellipsis of doom for Ben Duckett) Continue reading..."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/sport/live/2026/nov/15/australia-vs-england-cricket-second-odi-mens-one-day-international-adelaide-live-scores-updates",
-   "image": "https://i.guim.co.uk/img/media/34c11db2a910a8a51efa8d39d0f1b1eb73c14601/527_0_3999_3200/master/3999.jpg?width=140&quality=85&auto=format&fit=max&s=82cf90fe544075161f80864f33a4b38b",
-   "published_at": "2026-11-15T08:56:39Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "aa2588991e1a8a3ee8d17ab849823122e422b59d",
-   "title": "AI cheating scandal rattles South Korea as annual college exam looms",
-   "summary": [
-    "Fears for national entrance exam next week, as top scorer on tax exam admits sending photos of questions to AI toolThe marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true.",
-    "On Sunday, sceptics were ⁠proven right when he ⁠confessed to ​using generative AI to cheat.The scandal follows months of speculation after he scored near-perfect marks on hundreds of questions over two exams ⁠taken in April and July.",
-    "It has also raised the stakes for organisers of South Korea’s annual college entrance exam this Thursday."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
-   "image": "https://i.guim.co.uk/img/media/a5f3ffab9cd63da939e5c4cfbd21bff5a434ce93/747_0_4581_3664/master/4581.jpg?width=140&quality=85&auto=format&fit=max&s=653a5ed8aed2d8882aaba908007315a7",
-   "published_at": "2026-11-15T08:56:11Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "bc1890826fb831381117153d151e34e46d778041",
-   "title": "India pulled 500m people out of poverty. Many of them still barely survive",
-   "summary": [
-    "World Bank says India pulled a record number of citizens out of poverty, but millions of them still live on the edge."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/features/2026/11/15/india-pulled-500m-people-out-of-poverty-since-2011-why-doesnt-it-feel-so?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-15T08:49:47Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "90b692b1caee670aa49df85cb6e6488d70912041",
-   "title": "England are favourites against All Blacks, and fearless Wales are an inspiration",
-   "summary": [
-    "In his latest BBC Sport column, England World Cup winner Matt Dawson reflects on Steve Borthwick's side's emphatic 78-15 thrashing of Japan and looks ahead to their match against New Zealand next weekend."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6wy41738nv7o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-15T08:47:46Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "1363e8c80b17ccebb6d3a6bd49dc4b506afea0b7",
-   "title": "USMNT players embody Pochettino's legacy in dominant win over Haiti",
-   "summary": [
-    "Mauricio Pochettino reset the culture within the USMNT.",
-    "In Saturday's 6-0 win over Haiti, his players demonstrated that they intend to carry on his ideals."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/soccer/story/_/id/50481434/usmnt-mauricio-pochettino-legacy-haiti",
-   "image": null,
-   "published_at": "2026-11-15T08:45:36Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "401683ce962192b926893bb6bfd4d7319a45b640",
-   "title": "USMNT player ratings: Pulisic earns 9/10 for brace in win over Haiti",
-   "summary": [
-    "Christian Pulisic scored twice in the Americans' dominant 6-0 win over Haiti on Saturday."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/soccer/story/_/id/50481405/usmnt-player-ratings-pulisic-haiti",
-   "image": null,
-   "published_at": "2026-11-15T08:45:36Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "e77524ec2089cb0a58e2f85ebe9d3370b4f0f8bb",
-   "title": "Thousands in Portugal protest against surging rental prices",
-   "summary": [
-    "Thousands of people across Portugal are angry about rising rental prices, demanding action to end the housing crisis."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/thousands-in-portugal-protest-against-surging-rental-prices?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-15T08:40:37Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "97c614b5b800a7f017bdc993879bca58adaec092",
-   "title": "De la Fuente denies racism in Spain despite Yamal, Vinicius avowals",
-   "summary": [
-    "Yamal and Vinicius have publicly said they face racist abuse in Spain, which has faced FIFA punishment over the issue."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/sports/2026/11/15/de-la-fuente-denies-racism-in-spain-despite-yamal-vinicius-avowals?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-15T08:29:18Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "a25d14caf12897d2665156888bd5d1925bd9b198",
-   "title": "Cricket Australia admits it is ‘very unlikely’ players will ever reach agreement on sandpapergate",
-   "summary": [
-    "Bowler Chadd Sayers rejects Pat Cummins’ view on ball tamperingGoverning body ‘respects right’ of players sharing their versionsCricket Australia admits there is little hope of reaching agreement on the events of the sandpaper ball-tampering incident, as divisions deepen between the players who were on the 2018 South Africa tour.The former Australia bowler Chadd Sayers on Sunday said he was confident “everyone” in the Australian Test side knew of the ball-tampering plan, backing Usman Khawaja’s version of what happened."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/sport/2026/nov/15/chadd-sayers-rejects-pat-cummins-view-on-sandpapergate-ntwnfb",
-   "image": "https://i.guim.co.uk/img/media/2f3b24938a46e83bde4a645cc4a4b3d1301a8f83/633_0_3463_2771/master/3463.jpg?width=140&quality=85&auto=format&fit=max&s=3a3f1ed7921f1c2f5b1b55ef6e9bdf60",
-   "published_at": "2026-11-15T08:26:33Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "ba97c273f7f8892bb97382632a109cf729f7845e",
-   "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
-   "summary": [
-    "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-15T08:17:41Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "df922acf380dd88b4799dc894678b543df97d883",
-   "title": "Jordan sentences three men to death by hanging after deadly church attack",
-   "summary": [
-    "Three men have been convicted of carrying out an attack on a church in the Karak governorate that killed nine people."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-15T08:15:04Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "ef11dcff6ca3ae513a9de7bf25f08cc28476b9dc",
-   "title": "UFC 334 results: Ciryl Gane defeats Josh Hokit, Kayla Harrison submits Amanda Nunes",
-   "summary": [
-    "Both champions retained their titles at UFC 334.",
-    "Relive all the action from Madison Square Garden."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/mma/story/_/id/50444358/ufc-334-live-results-analysis-ciryl-gane-josh-hokit",
-   "image": null,
-   "published_at": "2026-11-15T08:12:31Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "f23356ad8c664a9a43445b3a18e9ab05244a2d25",
-   "title": "UFC 334 takeaways: Gane deserves a homecoming; Nunes made a costly tactical mistake",
-   "summary": [
-    "Ciryl Gane deserves a chance to win over fans, while Amanda Nunes fought the wrong fight against Kayla Harrison."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/mma/story/_/id/50485499/ufc-334-gane-homecoming-fight-nunes-mistakes",
-   "image": null,
-   "published_at": "2026-11-15T08:12:30Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "df7ed9871a575bc8057b8baafe177c1161a3255d",
-   "title": "Pact on South China Sea code of conduct unlikely, as ASEAN leaders gather",
-   "summary": [
-    "Finishing negotiations for disputed South China Sea agreement will be a 'tall order', analysts say."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/economy/2026/11/15/pact-on-south-china-sea-code-of-conduct-unlikely-as-asean-leaders-gather?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-15T08:07:08Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "efcb1f224a993c6577ecc0035cc992c0e03403c7",
-   "title": "Harrison shocks Nunes on UFC return to retain title",
-   "summary": [
-    "Kayla Harrison shocks returning great Amanda Nunes by submitting the former double champion to retain her bantamweight title at UFC 334 in New York."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/c5742819x9n3o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-15T08:02:48Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "2a04d814d39f4b14329c422c31723ba1cf2c623c",
-   "title": "Terry Butcher: ‘I’ve learned to live with the Hand of God goal better’",
-   "summary": [
-    "The former England centre-back answers your questions on Diego Maradona, Bobby Robson and on staying in strange places“Have you made up all these on your own?” asks Terry Butcher, sitting in a London office in the week he is presented with his England legacy cap.",
-    "It turns out dozens of Guardian readers want to pick the brains of a much-loved centre-back who was feted en route to a World Cup semi-final and tormented four years previously by the mercurial genius of Diego Maradona.Did Maradona ever admit to the “Hand of God”?"
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/2026/nov/15/terry-butcher-ive-learned-to-live-with-the-hand-of-god-goal-better",
-   "image": "https://i.guim.co.uk/img/media/4049b8c0aeb58215be188d97332e8d0d5d52d3e3/0_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=c7b76991c0744d8589dc1544383d61b2",
-   "published_at": "2026-11-15T08:00:09Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "bdfd75bbc9edbb78f6d0c19f121aa52df918c0cd",
-   "title": "AFC Wimbledon, a failed £87m investment bid and the challenge for fan ownership",
-   "summary": [
-    "Clubs with wealthy proprietors can maintain a loss-making operation but things can be more complex when the supporters carry the canWhen you walk up from Haydons Road train station to Plough Lane there is a blue AFC Wimbledon billboard that reads “Fan owned football”, directly opposite the site of the old Plough Lane stadium where there are now blocks of flats.",
-    "There is a memorial to the old Wimbledon FC – a reminder that supporters can often have little say in the running of their club – on the same corner, just up the road from the new Cherry Red Records Stadium.AFC Wimbledon are one of only two majority fan-owned clubs in the EFL – along with Exeter City – but that makes running a loss-making operation, as 94% of teams in England’s top five tiers are doing according to the State of the Game report, even more challenging. “In other clubs, the owner just puts their hand in their pocket, produces cash,” said Hannah Kitcher, who has been a member of the Dons Trust Board (DTB), which runs AFC Wimbledon, for seven years. “It’s harder when the owners are fans – you can only go to them so many times.” Continue reading..."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/2026/nov/15/afc-wimbledon-a-failed-87m-investment-bid-and-the-challenge-for-fan-ownership",
-   "image": "https://i.guim.co.uk/img/media/841b080407549ef8762738c7e1433db81e85e6c2/159_664_5449_4359/master/5449.jpg?width=140&quality=85&auto=format&fit=max&s=995d13ac235fcd940c47c99fe974640f",
-   "published_at": "2026-11-15T08:00:09Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "14ff007e93cb8407bd9a012026874e0225feae0a",
-   "title": "Manning shows 'competitive spirit,' shakes off 3 INTs to lead Texas' comeback over LSU",
-   "summary": [
-    "Arch Manning found Raleek Brown for a 4-yard touchdown pass along the left sideline with 3 seconds left, and Texas escaped Tiger Stadium with a victory over LSU on Saturday night."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/college-football/story/_/id/50487515/arch-manning-leads-game-winning-drive-texas-stuns-lsu",
-   "image": null,
-   "published_at": "2026-11-15T07:52:46Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "18656089759cec7b054d2742907d141c178031bb",
-   "title": "Oklahoma AD rips Ole Miss, SEC for Sunday game; Rebels defend travel efforts",
-   "summary": [
-    "Oklahoma AD Roger Denny ripped the SEC and Ole Miss for the \"inexplicable\" decision to move its game to Sunday, while the Rebels defended their travel efforts."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/college-football/story/_/id/50482206/oklahoma-ad-infuriated-sec-ole-miss-sunday-game",
-   "image": null,
-   "published_at": "2026-11-15T07:52:46Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "95b0320ec2e6499681ab5374b10c09d3e6d90930",
-   "title": "Gane taken to brink by game Hokit, edges out decision in UFC title slugfest",
-   "summary": [
-    "Ciryl Gane got all he could handle from Josh Hokit in a five-round slugfest, but took command late to defend his heavyweight title Saturday night at UFC 334."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/mma/story/_/id/50488012/ciryl-gane-edges-josh-hokit-slugfest-retains-title-ufc-334",
-   "image": null,
-   "published_at": "2026-11-15T07:52:46Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "06126ff9ca7d46a33eb08e4bc3f51a686d1eceb9",
-   "title": "Harrison spoils Nunes' return, submits ex-champion to retain UFC crown",
-   "summary": [
-    "Kayla Harrison scored the biggest victory of her career Saturday, submitting former champion Amanda Nunes by rear-naked choke in Round 4 to retain her title at UFC 334."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/mma/story/_/id/50487730/kayla-harrison-submits-amanda-nunes-retain-title-ufc-334",
-   "image": null,
-   "published_at": "2026-11-15T07:52:46Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "5fd1a10352253fd52ad755b37e7721dc37b8d98c",
-   "title": "Kiffin laments loss to Texas as LSU's playoff hopes dashed: 'We need to win more'",
-   "summary": [
-    "LSU coach Lane Kiffin said it was fair to question the team's 6-4 record this season after losing to Texas on Saturday, a defeat that likely knocked LSU out of playoff contention."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/college-football/story/_/id/50488081/kiffin-understands-frustration-lsu-playoff-hopes-dashed",
-   "image": null,
-   "published_at": "2026-11-15T07:52:46Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "8040788ba7de460e10a9d0931e4ed5f2048be5dc",
-   "title": "Louisville's win over UNC ends in brawl as Belichick helps restore order on field",
-   "summary": [
-    "Louisville's 16-14 win at North Carolina ended with punches thrown and players spilling onto the field, prompting Bill Belichick to help pull players from the melee."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/college-football/story/_/id/50486992/louisville-holds-unc-game-ends-brawl",
-   "image": null,
-   "published_at": "2026-11-15T07:52:46Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "febedbc2ac653cca862af54ec95ee1f71c2cf90a",
-   "title": "No. 2 Utah survives, stays unbeaten on late 70-yard TD in thriller vs. Arizona",
-   "summary": [
-    "In a back-and-forth thriller, Utah rallied to remain undefeated after Devon Dampier hit Creed Whittemore on a 70-yard score late in Saturday's 40-39 win over Arizona."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/college-football/story/_/id/50488650/no-2-utah-survives-late-70-yard-td-thriller-vs-arizona",
-   "image": null,
-   "published_at": "2026-11-15T07:52:46Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "f9bfb16bc406afb25e35c2737c933f916a8f85a4",
-   "title": "Behind fill-in QB Wilson, Indiana goes on 'attack' to ramp up CFP, Big Ten push",
-   "summary": [
-    "With Grant Wilson filling in at quarterback, No. 9 Indiana ramped up its offensive attack against USC and scored its best win of the season Saturday."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/college-football/story/_/id/50485076/grant-wilson-indiana-boost-cfp-big-ten-hopes-win-vs-usc",
-   "image": null,
-   "published_at": "2026-11-15T07:52:46Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "6c6abfbc705633983e298641f186e30a5e040a53",
-   "title": "😈 Wake Forest's post-blowout jab tops CFB Week 11 trolls",
-   "summary": [
-    "Wake Forest dominated SMU on the gridiron Saturday -- and added insult to injury after the game."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/college-football/story/_/id/50481104/college-football-trolls-week-11",
-   "image": null,
-   "published_at": "2026-11-15T07:52:46Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "f877031c4d2b0a0a3fbcac5070368af42252d60d",
-   "title": "Sabalenka apologises & says viral comment 'not directed at Svitolina'",
-   "summary": [
-    "Aryna Sabalenka apologises and denies claims she insulted opponent Elina Svitolina after a viral clip showed her swearing in Russian during her WTA Finals defeat by the Ukrainian."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/tennis/articles/ck62p9ge4d76o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-15T07:51:33Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "a378498b20146be9604a4e5a22526f9ea5fd3fdc",
-   "title": "Ruthless Australia win record fourth Women's World Cup",
-   "summary": [
-    "Australia blow New Zealand away in the first half, with a hat-trick for Jaime Chapman, to win 34-10 in Brisbane and clinch a record fourth World Cup."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c50mdzx3j039o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-15T07:38:40Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "c54e087ab643c8fb9b4f0561281864dfe426ce23",
-   "title": "CFP top 12 projection: Flawed Texas finding a way",
-   "summary": [
-    "We assess how the selection committee could stack the top teams in the country after Week 11."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/college-football/story/_/id/50480953/projecting-2026-playoff-top-12-week-11-cfp",
-   "image": null,
-   "published_at": "2026-11-15T07:37:23Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "2344659ee11e8aa110a177c421aecec7220bf9f6",
-   "title": "Hot seats getting warmer, fiery AD statements and Texas comes up clutch in Week 11",
-   "summary": [
-    "Saturday didn't offer much to change the season's complexion, but some coaches are coming under pressure."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/college-football/story/_/page/gamedayfinal111426/week-11-top-games-highlights-takeaways",
-   "image": null,
-   "published_at": "2026-11-15T07:37:23Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "1bc4c7f056633e339bc958a5ef338990af3b5d26",
-   "title": "Australia's Sayers 'took sandpaper from field' & rejects Cummins' claims",
-   "summary": [
-    "Australia bowler Chadd Sayers says he helped take sandpaper from the field in the match prior to the Cape Town Test and backs Usman Khawaja's recollection over Pat Cummins'."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/cricket/articles/c9ly4jm8djy7o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-15T07:32:46Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "50facbe03fefce2161310631d3e36a1559656df4",
-   "title": "Japan stun Brazil 3-2 in stoppage time as Ancelotti, Raphinha sent off",
-   "summary": [
-    "Substitute Tatsuhiro Sakamoto’s late goal helps Japan avenge their defeat by Brazil in the World Cup round of 32."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/sports/2026/11/15/japan-stun-brazil-3-2-in-stoppage-time-as-ancelotti-raphinha-sent-off?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-15T07:30:21Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "60d427b4e9014eb8741dec5b2dcc805a5320641d",
-   "title": "Australia 34-10 New Zealand: Women’s Rugby League World Cup final – as it happened",
-   "summary": [
-    "Jillaroos defeat Kiwi Ferns in Brisbane to claim World Cup title and cap dominant tournamentFirst-half blitz secures Australia’s fourth straight Women’s Rugby League World Cup title2 mins: A good kick off from the Ferns to get us started and Taufa gets the first run of the final.",
-    "It’s a good first set from the Jillaroos and they make the Ferns start deep in their own half.",
-    "Nerves from Atai who drops the ball early in the tackle count to give the Jillaroos a scrum feed 10m out.The Kiwi Ferns have kicked off and we’re underway!"
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/sport/live/2026/nov/15/australia-jillaroos-vs-new-zealand-kiwi-ferns-womens-rugby-league-world-cup-final-live-updates",
-   "image": "https://i.guim.co.uk/img/media/fad751f6f0adec2ed5ad2e128b7451b003266a37/615_0_4532_3628/master/4532.jpg?width=140&quality=85&auto=format&fit=max&s=16a2b5f69096fc764b190925ba043d35",
-   "published_at": "2026-11-15T07:30:06Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "e7825203667b0e1d1eac53dc667bce1aba041317",
-   "title": "How Spain's humble superstar Simon became world's best keeper",
-   "summary": [
-    "As Spain prepare to host England in the Nations League, BBC Sport columnist Guillem Balague charts the rise of Unai Simon to become the world's best keeper."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cqvg23nv0jw2o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-15T07:29:30Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "1226ffa76d53aa5cfd95c113fcc237847d73bd39",
-   "title": "First-half blitz secures Australia’s fourth straight Women’s Rugby League World Cup title",
-   "summary": [
-    "The long-striding speedster scored three sensational tries in the first half alone to take her tournament tally to 13, breaking the record for an individual at a World Cup.",
-    "Chapman already has 521,000 Instagram followers around the rugby-loving world.",
-    "After this try-scoring spree – she now has 18 from her 10 Tests – it’ll be a million."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/sport/2026/nov/15/australia-jillaroos-new-zealand-kiwi-ferns-womens-rugby-league-world-cup-final-match-report",
-   "image": "https://i.guim.co.uk/img/media/6fa84a9839fa30bda787fcb339fbd11df603b2ca/680_0_6275_5022/master/6275.jpg?width=140&quality=85&auto=format&fit=max&s=8fa2241a7f1b3385f954d1c30406861b",
-   "published_at": "2026-11-15T07:15:45Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "bab5eee7bf9f22d75929d6d98d866f7e74e479f7",
-   "title": "How Aston Villa are reclaiming their identity",
-   "summary": [
-    "Aston Villa Women are celebrating an important 30-year milestone on Sunday - but how are they trying to reclaim their identity?"
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cm4gkgnkkn9zo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-15T07:12:05Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "9794cb09693ea3e83c27663d2399cf7675ba1a73",
-   "title": "ASEAN summit: Who’s attending and what’s at stake?",
-   "summary": [
-    "Energy disruptions as a result of the US-Israel war on Iran is a key issue for the import-dependent bloc."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-15T07:11:24Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "0ef5c2a6a908623b689d415d424a415e962720cf",
-   "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
-   "summary": [
-    "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-15T07:10:31Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "ff1fbec8e8a1bf87bb67eafec0762e3af131cfe3",
-   "title": "Who am I? Guess WSL star No 12",
-   "summary": [
-    "Work out the identity of today's Women's Super League player in as few attempts as possible."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/articles/c32l8yzvjgx7o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-15T07:01:31Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "79845120428173a41b48567263f2b6ab88f9f040",
-   "title": "Israel: Making the Holy Land burn",
-   "summary": [
-    "For all its greenwashing, the Zionist state has ecologically devastated Palestine more than anyone else."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/opinions/2026/11/15/israel-making-the-holy-land-burn?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-15T06:49:14Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "c271640f00d23bae417055fc4706169c100e3f2d",
-   "title": "Who am I? Plus today's other quizzes",
-   "summary": [
-    "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/articles/c60mdnedvj2wo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-15T06:47:10Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "54dbf1943b5e0f1bf1130392cc531d8121f673de",
-   "title": "The French Republic’s forgotten promise of equality",
-   "summary": [
-    "French youth learn in school about the Revolution’s values but they do not see them reflected in their own reality."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/opinions/2026/11/15/the-french-republics-forgotten-promise-of-equality?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-15T06:44:27Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "121a3e9ae010a540647d23856ff832a732f21110",
-   "title": "Respect? Exposure? Why England's star names are going abroad",
-   "summary": [
-    "Harry Kane, Jude Bellingham and Anthony Gordon are three of England's current biggest stars, but all have chosen to play their club football abroad."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/articles/ckdd17mq2pvmo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-15T06:25:41Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "36c027852976f0fb151e2baa2181e96f7dccc143",
-   "title": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations",
-   "summary": [
-    "Likened to the 1945 summit at Yalta, the Ukrainian president, Volodymyr Zelenskyy, has warned the talks must not lead to a redistribution of influence among world powers or the abandonment of his country, more than four years into the war sparked by Putin’s full-scale invasion."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations",
-   "image": "https://i.guim.co.uk/img/media/bdce7545dc691e9936e076cd03bde7e3cc7e3a2a/264_0_3267_2614/master/3267.jpg?width=140&quality=85&auto=format&fit=max&s=3d2b7ab32c9547d61fbc8e221d4002cf",
-   "published_at": "2026-11-15T06:22:32Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "4b1fc643bd8646c3b279f01b3fc701bb418a826d",
-   "title": "Secret votes and vetoes: How will the next UN chief be picked?",
-   "summary": [
-    "With no frontrunner for the job, eight candidates are vying for the UN Security Council's recommendation."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/15/secret-votes-and-vetoes-how-will-the-next-un-chief-be-picked?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-15T06:11:00Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "3b8441a5989fd75180147cf14a2c09b6d76a9fb2",
-   "title": "Barrett stops Gwynne for vacant lightweight title",
-   "summary": [
-    "Zelfa Barrett claimed the vacant WBA Intercontinental lightweight title with a fifth-round stoppage of Gavin Gwynne at Wembley Arena."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/boxing/articles/cmkg579gd821o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-15T06:04:32Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "9bbc450964fcffa6cfc3f420253fa6136b6cdf47",
-   "title": "Gymshark in trademark battle that threatens future of small fitness business",
-   "summary": [
-    "Exclusive: British sportswear firm is seeking to obtain rights to The Conditioning Club, which is also the name of a Gloucestershire gymGymshark, the £1bn British sportswear firm started in a family garage, is locked in a trademark battle that threatens the future of a small fitness business.Ben Francis, the university dropout who started sewing his own gym clothes in his parents’ garage and is now estimated to be worth £800m, is trying to add The Conditioning Club to his Gymshark stable of trademarks."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/law/2026/nov/15/gymshark-trademark-battle-the-conditioning-club-gloucestershire",
-   "image": "https://i.guim.co.uk/img/media/e1da29897d579d3c5ce54dccb4e07d5ac5515acf/347_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=c1dbdf7133b015d46df76574e9cdf610",
-   "published_at": "2026-11-15T06:00:07Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "600d195ed7b733f70ec396abea583bf5187a6976",
-   "title": "World’s top court to rule if Myanmar committed genocide against Rohingya",
-   "summary": [
-    "International court of justice has never before found a state guilty of genocide, and ruling will have implications for case against IsraelThe world’s top court will deliver a judgment this week on whether Myanmar committed genocide against its Rohingya minority, in a landmark case that will set a critical 21st-century benchmark for the gravest of all international crimes.The closely watched judgment could become one of the most significant moments in international law since the end of the second world war."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/15/myanmar-rohingya-genocide-icj",
-   "image": "https://i.guim.co.uk/img/media/c5d561832d1bf74db164791e4e9b6d4e167dfae9/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=090ff017f584b6c02d4f46319d31927c",
-   "published_at": "2026-11-15T06:00:05Z",
-   "category": "world",
    "related": []
   },
   {
@@ -723,101 +45,788 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/uk-news/2026/nov/15/planned-asylum-seeker-detention-centre-next-to-oxfordshire-sewage-works-criticised",
    "image": "https://i.guim.co.uk/img/media/d09ed18d9dd0cdd685e28614ca19c5a774a69750/268_0_2268_1816/master/2268.jpg?width=140&quality=85&auto=format&fit=max&s=a94ae645f7999f7bde5d4240fd8be790",
-   "published_at": "2026-11-15T06:00:05Z",
+   "published_at": "2026-11-15T16:47:39Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "62236e318bbf4866c7afaef343129607a7127def",
-   "title": "US Olympic hero Kayla Harrison submits Amanda Nunes to retain UFC title at MSG",
+   "id": "941562499297b56fcf55efd3e07af5a4f45118e2",
+   "title": "Arsenal v London City Lionesses: Women’s Super League – live",
    "summary": [
-    "It was also Harrison’s first fight since June 2025, after spinal fusion surgery in January to address a neck injury forced the postponement of the bout."
+    "Updates from 4.30pm (GMT) kick-off at the Emirates StadiumGet in touch: email John and follow us on BlueSkyCharles Antaki gets in touch: “Renee Slegers under pressure indeed.",
+    "Arsenal’s form this season has been nothing short of alarming, and there is a distinct danger of failing to qualify for next year’s women’s Champions League."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/sport/2026/nov/15/kayla-harrison-amanda-nunes-ufc-334-ciryl-gane-josh-hokit",
-   "image": "https://i.guim.co.uk/img/media/97bdc839aaca1ecb2a6b2406d021dcf99de071e3/939_0_6478_5182/master/6478.jpg?width=140&quality=85&auto=format&fit=max&s=a1a26013286876a698d961cba6a23f45",
-   "published_at": "2026-11-15T05:31:10Z",
+   "url": "https://www.theguardian.com/football/live/2026/nov/15/arsenal-v-london-city-lionesses-womens-super-league-live",
+   "image": "https://i.guim.co.uk/img/media/ec30227afed8a199e55a5e72df43b74aa7203465/183_0_4260_3408/master/4260.jpg?width=140&quality=85&auto=format&fit=max&s=73e205a54026d4e31f404124f1bbd228",
+   "published_at": "2026-11-15T16:45:37Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "0237c2ed4dfc16bcf722a988d4a062ad40d63b1e",
-   "title": "Disk encryption on NetBSD – achieving secrecy",
+   "id": "94bb5d1a2b9e05a4380dcdf6421f938c038d2420",
+   "title": "Scotland v Australia: Nations Championship rugby union – live",
    "summary": [
-    "Article URL: https://netbsd.org/~nia/disk-encrypt/ Comments URL: https://news.ycombinator.com/item?id=50504277 Points: 15 # Comments: 0"
+    "Match kicks off at 3.10pm (all times GMT)Quiz of the week: records, rancour and rivalryShare your thoughts with Daniel via emailWho do you think will win?According to the fans who have voted on the official Nations Championship site, Scotland have a 65% chance of victory."
    ],
-   "source": "Hacker News",
-   "url": "https://netbsd.org/~nia/disk-encrypt/",
-   "image": null,
-   "published_at": "2026-11-15T05:29:54Z",
-   "category": "tech",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/live/2026/nov/15/scotland-v-australia-nations-championship-rugby-union-live",
+   "image": "https://i.guim.co.uk/img/media/6047e982a547181e4960bd4511bb64d56a8a304e/326_0_4240_3393/master/4240.jpg?width=140&quality=85&auto=format&fit=max&s=45e34fcfbc6a506cbb0470a4b73994fc",
+   "published_at": "2026-11-15T16:44:54Z",
+   "category": "sports",
    "related": []
   },
   {
-   "id": "a78e9444515d8af5838636cd5d3ff9e5977d2c70",
-   "title": "Francophone summit opens in Cambodia amid Rwanda-DR Congo rift",
+   "id": "f35d63f2510dc95c75ae45d2cc08f8bd7a035216",
+   "title": "NFL week 10: Patriots v Lions, and more – live",
    "summary": [
-    "Democratic Republic of the Congo and Rwanda clash over who should lead the organisation of French-speaking nations."
+    "Updates from Sunday’s matches in US and Europe Get in touch: email Graham and follow us on BlueSkyPatriots 3-28 Lions 7:25, 3rd quarterAnother 3rd down, another DeVito throw and another slight let down from his receiver.",
+    "This time the ball cannons off the fingertips of Efton Chism."
    ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-15T05:05:02Z",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/live/2026/nov/15/nfl-week-10-lions-v-patriots-and-more-live",
+   "image": "https://i.guim.co.uk/img/media/2517a27b9af0eca379d42f67bcae4b76bb19e462/295_0_2716_2174/master/2716.jpg?width=140&quality=85&auto=format&fit=max&s=22f2dd49c0fa3c93a8712029db8b56e8",
+   "published_at": "2026-11-15T16:44:10Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "82d719e9a8ce70957977868ad2ebd9be056142b6",
+   "title": "Hundreds of thousands of Czechs protest in Prague over media freedom",
+   "summary": [
+    "Estimated 350,000 people rally against plan to scrap licence fees and fund broadcasters from state budgetHundreds of thousands of Czechs are rallying in Prague to protest against what they say is a government attempt to stifle media freedom.The gathering on Sunday to save the mandatory licence fees that fund Czechia’s public broadcasters could be one of the biggest in the country’s history, organisers said."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom",
+   "image": "https://i.guim.co.uk/img/media/95975b1bec64815ceed42fb90d5215d3bbf2f3f8/543_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ee2294d72c354e735186b306b7fe1328",
+   "published_at": "2026-11-15T16:40:04Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "e6f93667c469a6f2f069c2875287c6764b722130",
-   "title": "New York Democratic Socialists urge Ocasio-Cortez to run for US president",
+   "id": "4b8d3e70bca1d855eb69880d2e4d2dcb0802d416",
+   "title": "Tenerife return to action after death of De Miguel",
    "summary": [
-    "Delegates at NYC-DSA convention pass resolution formally calling on Congresswoman AOC to run in 2028 presidential race."
+    "Tenerife play their first game since the death of striker Jesus de Miguel on an emotional day at the Heliodoro Rodriguez Lopez stadium."
    ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/15/new-york-democratic-socialists-urge-ocasio-cortez-to-run-for-us-president?traffic_source=rss",
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cqx2xn535yj8o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-15T04:44:57Z",
+   "published_at": "2026-11-15T16:38:51Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "2ec0e9a02e9eb9ada2918aee25a62810e6392e0a",
+   "title": "GB police register case as PPP protests alleged malpractice in Diamer repolling",
+   "summary": [
+    "PPP’s Attaullah Shah and IPP’s Imam Malik are the main contenders vying for the seat in the partial repolling, held after an election tribunal accepted Malik’s plea and suspended Shah’s assembly membership.",
+    "However, after polling concluded, supporters of Shah took to the streets in Diamer district’s Chilas and Gilgit against the alleged removal of ballot boxes from a women’s polling station in Thore Valley.",
+    "The tribunal accepted his plea and suspended Shah’s membership and directed the chief election commissioner to conduct re-polling at the three polling stations within 12 days of Nov 6."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044693/gb-police-register-case-as-ppp-protests-alleged-malpractice-in-diamer-repolling",
+   "image": "https://i.dawn.com/large/2026/11/15195937d67503d.webp",
+   "published_at": "2026-11-15T16:38:10Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "4f8ab4def119ba01e69712a5118c799101eef316",
+   "title": "Czechs rally against plan to switch funding of public media",
+   "summary": [
+    "Protesters say the move will stifle media freedom, while the coalition government insists broadcasters need to cut costs."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-15T16:36:42Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "6e99cd2a6aeba56878ce1b687e2a860708070e2a",
-   "title": "Kiri – The Modern Container Runtime",
+   "id": "58e346197e985638a4fa963e66af4c7733e9e373",
+   "title": "Thousands rally in Czech Republic against state media funding changes",
    "summary": [
-    "Article URL: https://runkiri.com/ Comments URL: https://news.ycombinator.com/item?id=50504077 Points: 30 # Comments: 16"
+    "Critics say proposed funding changes will give the government more control of state media."
    ],
-   "source": "Hacker News",
-   "url": "https://runkiri.com/",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-15T04:40:41Z",
+   "published_at": "2026-11-15T16:32:22Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "0bd709bb04a10feb46706f9a23c1c65871cba360",
+   "title": "'They reign supreme!' - Australia beat NZ to lift World Cup again",
+   "summary": [
+    "Australia run in six tries as they beat New Zealand 32-12 in the final of the men's rugby league World Cup, securing the title for a fourth time in a row, and for a ninth time out of the last ten tournaments."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/rugby-league/videos/cw07492d8gv3o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-15T16:29:23Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "2373ddac73676903c61028baf97cbc06c1fafbc1",
+   "title": "Islamabad hosts foreign dignitaries for two-day ECO ministerial meeting",
+   "summary": [
+    "Foreign dignitaries arrived in Islamabad on Sunday as Pakistan hosts the two-day 30th meeting of the Economic Cooperation Organisation (ECO) Council of Ministers, starting today.",
+    "The ECO’s ministerial meeting will be chaired by Deputy Prime Minister and FM Ishaq Dar and attended by foreign ministers and heads of delegations from ECO member states, along with representatives of the organisation’s secretariat and subsidiary bodies.",
+    "The efforts would help unlock the region’s economic potential and translate the benefits of regional cooperation into tangible improvements in the lives of people in ECO member states, the statement said."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044691/islamabad-hosts-foreign-dignitaries-for-two-day-eco-ministerial-meeting",
+   "image": "https://i.dawn.com/large/2026/11/1511104481b08bb.webp",
+   "published_at": "2026-11-15T16:27:47Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "77828ca2a56f6add94ac25c6f94205fb51d82d3e",
+   "title": "Transportation secretary Sean Duffy blames prior presidents and Congress for flight stoppage",
+   "summary": [
+    "Democratic senator Chris Van Hollen says Trump administration hasn’t properly invested existing fundsDonald Trump’s administration on Sunday blamed the travel chaos stemming from Friday’s four-hour nationwide flight stoppage on prior presidents as well as a lack of congressional funding – though a Democratic senator argued that the Trump administration hasn’t properly invested all of the funds it has already been given to implement needed air travel infrastructure upgrades.“I take responsibility for what was given to me by prior administrations,” the US transportation secretary, Sean Duffy, told CNN’s Dana Bash, a day after he said routine but necessary maintenance botched by a contractor had caused Friday’s Federal Aviation Administration (FAA) ground stop, leading to the delay or cancellation of thousands of flights."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/15/transportation-secretary-sean-duffy-faa-flight-stoppag",
+   "image": "https://i.guim.co.uk/img/media/a09839dd38148bdd17475e10c93caf952fd6b7f0/557_0_6663_5330/master/6663.jpg?width=140&quality=85&auto=format&fit=max&s=625834678800cdf432db16929672492d",
+   "published_at": "2026-11-15T16:18:49Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "264fb0ab4684df0f7b15cea453d110ad5b4e9267",
+   "title": "Why Northern Ireland won't focus on point they need in Hungary",
+   "summary": [
+    "A draw in Hungary on Tuesday would secure Nations League promotion for Northern Ireland, but they are targeting all three points in Budapest."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cm1ew79gnxnxo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-15T16:04:45Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "f30e233ec9d8c70b519d505d3d016d68200d832e",
+   "title": "British tourist smashes Jesus statue outside Vilnius church",
+   "summary": [
+    "A man removed a statue of the crucified Jesus from a church in Vilnius and it smashed to the ground."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/british-tourist-smashes-jesus-statue-outside-vilnius-church?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-15T16:04:22Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "1ae8d637c25413619f053999bcbef63a73abacc1",
+   "title": "The tech products we enthusiastically recommend this holiday season",
+   "summary": [
+    "We've been reviewing a bunch of new gadgets at TechCrunch this year, and we have some clear favorites to share for your Black Friday shopping and beyond."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
+   "image": null,
+   "published_at": "2026-11-15T16:00:00Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "5ec3910099d55c90ff14991dc56922e74f18766e",
-   "title": "Show HN: Gawain – Require type hints on all Python variables",
+   "id": "12b449161b7837544695f8c720e77ce089ac01e9",
+   "title": "Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - as it happened",
    "summary": [
-    "Yes, i really hate \"dict[str, ANY]\" Comments URL: https://news.ycombinator.com/item?id=50504072 Points: 44 # Comments: 21"
+    "The Iranian Revolutionary Guard explicitly claimed responsibility for these attacks.",
+    "The Ministry praised the efficiency, vigilance, and capability of the Bahrain Defense Force in confronting today’s attack and its complete readiness to deter any aggression.",
+    "The Ministry considered these attacks a resumption of Iran’s heinous aggression against the Kingdom and countries in the region, disregarding the provisions of international law and the principles of the UN Charter."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
+   "image": "https://i.guim.co.uk/img/media/8639b2a492926c5d0ccbdbab7179b3d592cdb751/0_37_1091_873/master/1091.jpg?width=140&quality=85&auto=format&fit=max&s=578cbc0307286c00098fc0760a78406b",
+   "published_at": "2026-11-15T15:59:04Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "bfaf045cc0ef69f3e024da50d5e1225e640e7c99",
+   "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
+   "summary": [
+    "The temporary order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-15T15:57:03Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "3b7f2f3f45506e387c9bfe6b5c77d52e7f68d99e",
+   "title": "In call with Fazl, Bilawal condemns 'govt actions, political vengeance' against JUI-F",
+   "summary": [
+    "PPP Chairman Bilawal Bhutto-Zardari on Sunday spoke to Jamiat Ulema-i-Islam-Fazl chief Maulana Fazlur Rehman and condemned the “government’s actions” against him.",
+    "The Bhutto scion — whose PPP is an ally of the ruling coalition — “condemned the government’s actions and political vengeance” targeting the JUI-F. “The government should tolerate the opposition’s criticism,” Bilawal was quoted as saying in the statement.",
+    "The past month has witnessed exchanges of harsh remarks between Fazl and federal ministers, after the JUI-F chief accused the Centre of depriving the provinces of their rights."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044724/in-call-with-fazl-bilawal-condemns-govt-actions-political-vengeance-against-jui-f",
+   "image": "https://i.dawn.com/large/2024/10/160852496246b47.png",
+   "published_at": "2026-11-15T15:45:42Z",
+   "category": "pakistan",
+   "related": [
+    {
+     "source": "Express Tribune",
+     "url": "https://tribune.com.pk/story/2640455/bilawal-condemns-government-actions-against-jui-f-as-political-vendetta-in-call-with-fazl"
+    }
+   ]
+  },
+  {
+   "id": "680fcbf33e39c8e8db981266e5cf0c19247ef53a",
+   "title": "'Duffy Lied': Controllers Refute Transportation Secretary's Ground Stop Story",
+   "summary": [
+    "Article URL: https://www.commondreams.org/news/duffy-ground-stop-explanation Comments URL: https://news.ycombinator.com/item?id=50507791 Points: 18 # Comments: 3"
    ],
    "source": "Hacker News",
-   "url": "https://github.com/matheuzgomes/gawain",
+   "url": "https://www.commondreams.org/news/duffy-ground-stop-explanation",
    "image": null,
-   "published_at": "2026-11-15T04:39:25Z",
+   "published_at": "2026-11-15T15:45:42Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "c483ec2db561705f33e88f3035e540d31b671321",
-   "title": "Alzheimer’s may start shrinking two brain regions years before memory loss",
+   "id": "ec6b2e790328d6968847d49815f9072cf36408b7",
+   "title": "Two planes collide on taxiway at Miami airport one day after national grounding",
    "summary": [
-    "Johns Hopkins scientists have uncovered hidden warning signs of Alzheimer’s disease that may appear up to a decade before memory loss begins.",
-    "Brain scans revealed that two regions involved in memory and emotion start shrinking before the hippocampus, the area doctors typically examine for signs of Alzheimer’s.",
-    "These early changes are linked to abnormal tau protein buildup and could provide a powerful new way to identify people at risk."
+    "Two people injured after wingtip of Copa Airlines Boeing 737 struck nose of United Parcel Service Boeing 767Two planes collided with one another on a taxiway at Miami’s international airport on Saturday night – a day after the Federal Aviation Administration (FAA) issued an hours-long nationwide ground stop due to communication issues affecting multiple air traffic control centers.In a statement, the Trump administration-led FAA said the wingtip of a Copa Airlines Boeing 737 struck the nose of a United Parcel Service Boeing 767 “while the airplanes were taxiing at Miami International Airport”."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/15/miami-airport-planes-collide",
+   "image": "https://i.guim.co.uk/img/media/2268d8ddd3bcce1ac57e4531e97ad0d576a953b9/386_0_2367_1893/master/2367.jpg?width=140&quality=85&auto=format&fit=max&s=4b04d24e85d7e5b7e7d675f05f6e24b8",
+   "published_at": "2026-11-15T15:40:04Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "3ac2f0cb8cd6d7c05515ffffcda4e65ffb519f74",
+   "title": "Show HN: A tiny macOS app that turns off the MacBook display [free license]",
+   "summary": [
+    "Hi, I made a tiny app that lets you turn off the MacBook screen when you work on external monitors.It does NOT just dim the brightness to zero, the screen is actually turned off via the Apple hardware API, the according desktop is removed, so you have a clean \"one big monitor\" setup.- Safe fallback if you turn off the external monitor(s), unplug the monitor cable(s), the app crashes or anything else happens. - Keyboard, touchpad and TouchID still work fine. - Automatic restart.",
+    "2 Megabyte size. - Totally niche, I know, but it helps me to concentrate.The app is commercial ($9 once), but everybody who DMs me here gets a *FREE* lifetime license, and everybody who uses in the feedback form (to report if the apps works on your setup) gets a free lifetime license too.Thanks ;)https://blackoutapp.io Comments URL: https://news.ycombinator.com/item?id=50507722 Points: 5 # Comments: 9"
+   ],
+   "source": "Hacker News",
+   "url": "https://blackoutapp.io/",
+   "image": null,
+   "published_at": "2026-11-15T15:37:52Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a4fd3f90ff1a79927d7cac5eff7e5e7d7577a2c1",
+   "title": "McIlroy wins Race to Dubai after thrilling final day",
+   "summary": [
+    "Rory McIlroy takes second place at golf's DP World Tour Championship, finishing ahead of Spain's Eugenio Chacarra to secure the Race to Dubai title for a record-equalling eighth time."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/golf/videos/c5lyk087yxjko?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-15T15:34:04Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "13e3e540fcc99fedc32260d15e5d998ae2906a12",
+   "title": "70 bodies recovered from Gaza rubble, thousands still missing",
+   "summary": [
+    "70 bodies recovered from Gaza rubble, thousands still missing"
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/70-bodies-recovered-from-gaza-rubble-thousands-still-missing?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-15T15:32:43Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "bf47ca88e95132f6fd029bb90243757f5a3b58a0",
+   "title": "Zverev claims first win as world number one at ATP Finals",
+   "summary": [
+    "Alexander Zverev claims his first victory as world number one as he sweeps aside Rafael Jodar in the opening match of the ATP Finals."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/tennis/articles/cm5y1grdy3w2o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-15T15:29:34Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "25db0ca1200782d5ad70e37015d4ae6a483a424a",
+   "title": "Will Iraq’s oil smuggling crackdown disarm militias without a conflict?",
+   "summary": [
+    "Iraq has dismantled an alleged smuggling ring in Jurf al-Sakhar which could squeeze militias and avert internal strife"
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/15/will-iraqs-oil-smuggllng-crackdown-disarm-militias-without-a-conflict?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-15T15:21:21Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "6390c6b231f0caf9874e7ede13f1a5a2ef4e68d6",
+   "title": "Emacs Is My Browser",
+   "summary": [
+    "Article URL: https://joshblais.com/blog/emacs-as-my-browser/ Comments URL: https://news.ycombinator.com/item?id=50507553 Points: 29 # Comments: 6"
+   ],
+   "source": "Hacker News",
+   "url": "https://joshblais.com/blog/emacs-as-my-browser/",
+   "image": null,
+   "published_at": "2026-11-15T15:21:21Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "6640581b106dce0a6825b463010007d95c198bda",
+   "title": "20 years of Al Jazeera English: Our story is still being written",
+   "summary": [
+    "As we celebrate our 20th anniversary, we remain committed to our values and the quality of our journalism."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/opinions/2026/11/15/20-years-of-al-jazeera-english-our-story-is-still-being-written?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-15T15:21:12Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "de56fe88222c72fc798b92c166c6c6be2a9524dc",
+   "title": "ATP Finals tennis: Alexander Zverev beats Rafael Jódar in straight sets – as it happened",
+   "summary": [
+    "Alexander Zverev, the world No 1, opens up his bid to claim another ATP Finals title with a routine 6-4, 6-4 win over Rafael Jódar in TurinFirst set: Zverev 5-3 Jódar* (*next server)Shall I just repeat my entry from Zverev’s last service game?",
+    "This was almost identical, 17 of 18 first serves in and eight aces now."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/live/2026/nov/15/atp-finals-tennis-alexander-zverev-v-rafael-jodar-and-more-live",
+   "image": "https://i.guim.co.uk/img/media/5ec1b574b75522a8e3e4236e9fb5374ef0b4e70f/512_0_3520_2816/master/3520.jpg?width=140&quality=85&auto=format&fit=max&s=0dbfeb9af43d502cd6f79a6009406f1a",
+   "published_at": "2026-11-15T15:19:09Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "5651a0a8dc878d74bdd616859670070c6cc7621e",
+   "title": "Record number of migrants arrive in Spain’s Canary Islands",
+   "summary": [
+    "New EU migration and asylum laws have largely failed to stem flow of migrants to Spain and its territories."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/15/record-number-of-migrants-arrive-in-spains-canary-islands?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-15T15:16:29Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "3b3925414b3f13f2bbc10631751aa83934b1af13",
+   "title": "Triumph or flop? The Rugby League World Cup that split opinion",
+   "summary": [
+    "Has the Rugby League World Cup set a new benchmark for the international game?",
+    "BBC Sport discovers the answer to that question differs in the northern and southern hemispheres."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cwdr1dl21l1vo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-15T15:07:06Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "077fedd8915850d18eafcaaf4c1ad47521c3c4cc",
+   "title": "Jerusalem Daily: Mass funeral in Gaza as Netanyahu clings to power",
+   "summary": [
+    "A mass funeral was held in Gaza for 70 Palestinians whose bodies were trapped under the rubble."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jerusalem-daily-mass-funeral-in-gaza-as-netanyahu-clings-to-power?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-15T15:01:54Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "614532eebcb8291a82d239f41721cee84f964449",
+   "title": "How telecoms upgrade work sparked US flight chaos",
+   "summary": [
+    "US officials say the disruption was caused by old equipment overloading and not a cyber-attack."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-15T14:57:15Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "198b16a285bdd85182e1593f7c683db3d03984f7",
+   "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+   "summary": [
+    "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-15T14:56:21Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "0c98c469ed425d73c342ca9be4d0b4e120edac43",
+   "title": "Flames engulf Syrian refugee camp in eastern Lebanon",
+   "summary": [
+    "A fire tore through a Syrian refugee camp in Bar Elias, eastern Lebanon."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/flames-engulf-syrian-refugee-camp-in-eastern-lebanon?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-15T14:55:40Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "8a57e0dad6ea9675ea21d1a224c89ba0713a9ec4",
+   "title": "Fascism built the AI bubble. What will burst it?",
+   "summary": [
+    "In the latest episode of Deja Vu, Naomi Klein and Astra Taylor examine the latest model of disaster capitalism."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/deja-vu-2/2026/11/15/fascism-built-the-ai-bubble-what-will-burst-it?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-15T14:55:00Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "de1b04aef218049582c90c0014efe24118570b1b",
+   "title": "All AI-generated code should be Open Source",
+   "summary": [
+    "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 296 # Comments: 189"
+   ],
+   "source": "Hacker News",
+   "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+   "image": null,
+   "published_at": "2026-11-15T14:46:58Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "4f9047c2206d84de2934f3737baf11684c4d0481",
+   "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+   "summary": [
+    "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-15T14:33:59Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "87316fec60d29d025e75115e017523792a5d99e0",
+   "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
+   "summary": [
+    "Article URL: https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/ Comments URL: https://news.ycombinator.com/item?id=50507206 Points: 53 # Comments: 23"
+   ],
+   "source": "Hacker News",
+   "url": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/",
+   "image": null,
+   "published_at": "2026-11-15T14:31:52Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "1ab30ab40aa1ceaee0052b43b2b1de893b3f44d6",
+   "title": "20 Years of Al Jazeera English: The Counter Narrative",
+   "summary": [
+    "Two decades of AJE: Shaping media, amplifying unheard voices and driving global conversations."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/featured-documentaries/2026/11/15/twenty-years-of-al-jazeera-english-the?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-15T14:29:41Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "efbebcb8f73e3565cc125607b060a5a637618c85",
+   "title": "Gatherings in KP's Bajaur, Lakki Marwat, Swabi, Tank banned for 30 days",
+   "summary": [
+    "The notification formalising the restriction, seen by Dawn, said Bajaur Deputy Commissioner (DC) Adnan Farid Afridi approved the restrictions in view of the law and order situation, citing the need for additional measures to safeguard public life and property and maintain peace.",
+    "In Lakki Marwat, DC Shahid Rafique imposed a month-long ban on public gatherings, processions, rallies, assemblies and marches within the district’s territorial limits.",
+    "According to the order, the restrictions were imposed at the request of the district police officer, who had apprehended that such activities could obstruct public movement, disrupt public services and traffic, and disturb peace and tranquillity."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044702/gatherings-in-kps-bajaur-lakki-marwat-swabi-tank-banned-for-30-days",
+   "image": "https://i.dawn.com/large/2026/11/15132833bb5c961.jpg",
+   "published_at": "2026-11-15T14:25:29Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "3b08b117bc59c4097a3badf29c5b08e650d4a527",
+   "title": "Vitamin C could help block cancer-linked chemicals in your stomach, study finds",
+   "summary": [
+    "Scientists have discovered that vitamin C may help prevent potentially cancer-causing chemicals from forming in the stomach after eating foods containing nitrates and nitrites.",
+    "A new mathematical model suggests that taking vitamin C after meals could reduce these harmful reactions, offering a possible new strategy for lowering cancer risk."
    ],
    "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261114202236.htm",
    "image": null,
-   "published_at": "2026-11-15T04:31:56Z",
+   "published_at": "2026-11-15T14:13:18Z",
    "category": "science",
+   "related": []
+  },
+  {
+   "id": "0f46ea0151f3053c3c0b3018ab53538e1f4d8034",
+   "title": "‘Almost magic’ as SpaceX craft caught mid-air: Why it matters",
+   "summary": [
+    "SpaceX's Starship successfully returned to its launchpad after orbiting in space."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/15/almost-magic-as-spacex-craft-caught-mid-air-why-it-matters?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-15T14:12:09Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "fd2c98b3660efe3b942d123a6eef2c6045306b1b",
+   "title": "Club's first match after player's death abandoned because of serious injury",
+   "summary": [
+    "Hendon's first match since the death of midfielder Ezekiel Williams is abandoned because of a serious injury to Ethan Creary."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cm98xd2dpjd7o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-15T14:06:19Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "fcba369e63e0094c4d0f7f8bd652ca214175ab24",
+   "title": "A common osteoporosis drug blocked spinal damage in a surprising new study",
+   "summary": [
+    "Scientists have uncovered a surprising genetic connection to spinal degeneration and found that an existing osteoporosis drug can prevent damaging mineral buildup in zebrafish spines.",
+    "The discovery could pave the way for new treatments that slow or prevent a major cause of chronic back pain."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261113232105.htm",
+   "image": null,
+   "published_at": "2026-11-15T14:03:39Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "4a8e8928a7501ce60fd4bb7e8e0b9df263d0901b",
+   "title": "Defensive desire a Welsh hallmark - Roberts",
+   "summary": [
+    "Former Wales centre Jamie Roberts says the heroic defensive effort to beat New Zealand for the first time since 1953 showed what it meant to be Welsh."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c95y1m63515ko?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-15T14:02:12Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "fae8ab3593688cdac3d725db9b133499041f54bd",
+   "title": "Can Netanyahu and Eisenkot form a ‘unity’ government in Israel?",
+   "summary": [
+    "Yashar and Likud are scheduled to hold talks on Sunday, but will need to overcome major differences to work together."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/15/can-netanyahu-and-eisenkot-form-a-unity-government-in-israel?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-15T14:02:08Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "cd01ebbe43e7d13dddef3a1fed174011da40a379",
+   "title": "Two killed in Leeds after car pursued by police crashes into another vehicle",
+   "summary": [
+    "Four arrested after BMW collides with Volkswagen on Gelderd Road, with police appealing for witnessesTwo people aged 22 and 23 have died after their car was hit by a BMW being pursued by police.West Yorkshire police said four people had been arrested after the crash in Leeds on Sunday and appealed for witnesses to come forward."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/15/leeds-car-pursued-by-police-crashes-into-another-vehicle",
+   "image": "https://i.guim.co.uk/img/media/f21995728d72a07555a435312b9559c41a077680/1027_40_4900_3920/master/4900.jpg?width=140&quality=85&auto=format&fit=max&s=a304647680eeed4434a28ec5521a88d9",
+   "published_at": "2026-11-15T14:01:32Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "13d9bad496d7dcd22fc65819e1482171ab523662",
+   "title": "Gender-diverse Australian sailors barred from US submarines despite Aukus deal, documents reveal",
+   "summary": [
+    "Defence briefing released under freedom of information laws shows ADF beholden to US directives when in trainingGet our breaking news email, free app or daily news podcastAukus is effectively forcing the Australian navy to comply with a US ban on transgender people in the military with gender-diverse navy recruits prevented from starting a career in nuclear submarines because they would not be safe training on US boats.Internal Australian defence force documents show transgender and non-binary sailors and officers are explicitly banned from Australia’s nuclear submarine training program because of US policies.."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/16/gender-diverse-australian-sailors-barred-from-us-submarines-despite-aukus-deal-documents-reveal-ntwnfb",
+   "image": "https://i.guim.co.uk/img/media/a8ffd0f4a6649fa47da73c0c7e9820fde6e754cc/198_0_4099_3280/master/4099.jpg?width=140&quality=85&auto=format&fit=max&s=4f203e86151b9548cdeb39e62f6bda35",
+   "published_at": "2026-11-15T14:00:19Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "40a5ea55d59b7726e2b3c57097b78781c8ab39fc",
+   "title": "Ethnic minority groups in Wales four times more likely to be target of police facial scans",
+   "summary": [
+    "Exclusive: South Wales police figures show BAME people accounted for 24% of selected scans in 2025, despite being 7% of populationEthnic minority people are four times more likely than their white counterparts to be chosen for some police facial scans, according to official data, sparking warnings of racial bias.Internal figures released by South Wales police revealed that 24% of people selected by police for facial recognition checks were from ethnic minorities, despite this group making up only 7% of the area’s total population."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/15/ethnic-minorities-wales-police-facial-scans-data",
+   "image": "https://i.guim.co.uk/img/media/78c33608558b926ab8a988309e150c4f8e40e224/998_0_4934_3947/master/4934.jpg?width=140&quality=85&auto=format&fit=max&s=71a167b8157212787bcf3c50fd04c233",
+   "published_at": "2026-11-15T14:00:17Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "3f4c07423abdecbd03ef94ec73d3d213732cfc64",
+   "title": "‘Grand Theft Auto Flu’: is the whole world really taking the day off work to play GTA VI?",
+   "summary": [
+    "Headlines have claimed the release of the first new GTA game in 13 years will hugely affect the global economy on Thursday – but there’s another story that’s been left behindA new pandemic is threatening planet Earth.",
+    "It should pass in a few days.The anticipation for Grand Theft Auto VI, the first new game in the franchise in 13 years, is so high that a steady stream of news coverage has suggested it heralds economic catastrophe due to workers taking time off to play the game.",
+    "The term “GTA Flu” was coined for the swathe of sickies that reportedly happened when GTA V was released in 2013, and – supposedly – are set to happen again when GTA VI comes out this week."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/games/2026/nov/16/grand-theft-auto-gta-vi-first-new-game-released-in-13-years",
+   "image": "https://i.guim.co.uk/img/media/cad0cb203d4cb07169ebae435e7d4b9bf4f5096a/548_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=f9e5e16e2f9144dbfd137c4aace6276d",
+   "published_at": "2026-11-15T14:00:15Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "694e9b8c9b4d19832e97f992758bde10d5bdff84",
+   "title": "Germany vs Netherlands: Nations League – preview, team news, predictions",
+   "summary": [
+    "Germany will likely need to win on Monday to reach the quarterfinals unless Serbia beat Greece away from home."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/11/15/germany-vs-netherlands-nations-league-preview-team-news-predictions?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-15T13:54:05Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "d5fa950d877edcec87c4a0b7aac45d8c5d7207af",
+   "title": "Pitch perimeters under review after Vigar death",
+   "summary": [
+    "The Premier League, English Football League and Women's Super League are reviewing pitch perimeters after the death of Billy Vigar last year."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c5y4jn2zw3yno?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-15T13:49:17Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "fe5ff033f78962a38148a22932dbf8eba8228623",
+   "title": "Gaza families bury bodies of loved ones trapped for years under rubble",
+   "summary": [
+    "The remains of 69 Palestinians have been recovered in northern Gaza, allowing families to bury them."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/11/15/gaza-families-bury-bodies-of-loved-ones-trapped-for-years-under-rubble?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-15T13:45:02Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "dc388aee58abf2aab68e63d811033fb604819376",
+   "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+   "summary": [
+    "Article URL: https://prog21.dadgum.com/116.html Comments URL: https://news.ycombinator.com/item?id=50506894 Points: 78 # Comments: 24"
+   ],
+   "source": "Hacker News",
+   "url": "https://prog21.dadgum.com/116.html",
+   "image": null,
+   "published_at": "2026-11-15T13:44:16Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "641f5c09c3afc3398e6eb4a23dc1ae22ad134dc0",
+   "title": "Uranus and Neptune’s bizarre magnetic fields may finally be explained",
+   "summary": [
+    "The strange, wildly tilted magnetic fields of Uranus and Neptune have puzzled scientists since NASA's Voyager 2 spacecraft explored the planets in the 1980s.",
+    "New simulations suggest that extreme conditions deep inside these icy giants create unusual electrical properties that could explain their magnetic fields.",
+    "Remarkably, the models indicate that their magnetic poles could shift by tens of degrees within just a few decades, far faster than Earth's."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261114202204.htm",
+   "image": null,
+   "published_at": "2026-11-15T13:43:22Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "43ebf6529fa0fa76a3eda99b4eaa2a1985aa574c",
+   "title": "Explosive attack targets investigative journalist’s home in Panama",
+   "summary": [
+    "An investigative journalist’s home in Panama was attacked in a suspected bombing."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/explosive-attack-targets-investigative-journalists-home-in-panama?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-15T13:43:11Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "365c61c687d5e3371192844e021652090d1b6fcb",
+   "title": "Iran targets US military base in Bahrain with drone attack",
+   "summary": [
+    "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-15T13:42:58Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "50802ce12c20c7d7d1f0315f182f339862948274",
+   "title": "Poundland pins rescue hopes on Yorkshire Tea, Pot Noodle and Gloria Gaynor",
+   "summary": [
+    "Chain restocks stores in operation named after singer of I Will Survive, as US owners release some of withheld fundsPoundland’s under-fire US owners have released funds to help the stricken discount chain restock shelves temporarily, keeping hopes of a rescue deal alive in the run-up to crunch talks with the government.In an emergency resupply effort codenamed “Operation Gloria” by senior Poundland staff, about 16m grocery items were dispatched to 600 shops in the UK and Ireland over the weekend."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/15/poundland-pins-rescue-hopes-on-yorkshire-tea-pot-noodle-and-gloria-gaynor",
+   "image": "https://i.guim.co.uk/img/media/0d2f7534afa128e24bf7652d723765d65c52efcc/536_430_3761_3012/master/3761.jpg?width=140&quality=85&auto=format&fit=max&s=a6a40a63524f9e9eb409563c12285046",
+   "published_at": "2026-11-15T13:41:01Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "a7491076c63ab89281fee94c82637971cfebc789",
+   "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+   "summary": [
+    "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-15T13:37:45Z",
+   "category": "world",
    "related": []
   }
  ]

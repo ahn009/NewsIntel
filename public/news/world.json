@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-15T09:12:09.854669Z",
+ "generated_at": "2026-11-15T16:58:55.631923Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
-  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/home": "ok",
+  "https://www.dawn.com/feeds/pakistan": "ok",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,219 +20,9 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "ok"
+  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
-  {
-   "id": "aa2588991e1a8a3ee8d17ab849823122e422b59d",
-   "title": "AI cheating scandal rattles South Korea as annual college exam looms",
-   "summary": [
-    "Fears for national entrance exam next week, as top scorer on tax exam admits sending photos of questions to AI toolThe marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true.",
-    "On Sunday, sceptics were ⁠proven right when he ⁠confessed to ​using generative AI to cheat.The scandal follows months of speculation after he scored near-perfect marks on hundreds of questions over two exams ⁠taken in April and July.",
-    "It has also raised the stakes for organisers of South Korea’s annual college entrance exam this Thursday."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
-   "image": "https://i.guim.co.uk/img/media/a5f3ffab9cd63da939e5c4cfbd21bff5a434ce93/747_0_4581_3664/master/4581.jpg?width=140&quality=85&auto=format&fit=max&s=653a5ed8aed2d8882aaba908007315a7",
-   "published_at": "2026-11-15T08:56:11Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "bc1890826fb831381117153d151e34e46d778041",
-   "title": "India pulled 500m people out of poverty. Many of them still barely survive",
-   "summary": [
-    "World Bank says India pulled a record number of citizens out of poverty, but millions of them still live on the edge."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/features/2026/11/15/india-pulled-500m-people-out-of-poverty-since-2011-why-doesnt-it-feel-so?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-15T08:49:47Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "e77524ec2089cb0a58e2f85ebe9d3370b4f0f8bb",
-   "title": "Thousands in Portugal protest against surging rental prices",
-   "summary": [
-    "Thousands of people across Portugal are angry about rising rental prices, demanding action to end the housing crisis."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/thousands-in-portugal-protest-against-surging-rental-prices?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-15T08:40:37Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "97c614b5b800a7f017bdc993879bca58adaec092",
-   "title": "De la Fuente denies racism in Spain despite Yamal, Vinicius avowals",
-   "summary": [
-    "Yamal and Vinicius have publicly said they face racist abuse in Spain, which has faced FIFA punishment over the issue."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/sports/2026/11/15/de-la-fuente-denies-racism-in-spain-despite-yamal-vinicius-avowals?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-15T08:29:18Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "ba97c273f7f8892bb97382632a109cf729f7845e",
-   "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
-   "summary": [
-    "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-15T08:17:41Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "df922acf380dd88b4799dc894678b543df97d883",
-   "title": "Jordan sentences three men to death by hanging after deadly church attack",
-   "summary": [
-    "Three men have been convicted of carrying out an attack on a church in the Karak governorate that killed nine people."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-15T08:15:04Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "df7ed9871a575bc8057b8baafe177c1161a3255d",
-   "title": "Pact on South China Sea code of conduct unlikely, as ASEAN leaders gather",
-   "summary": [
-    "Finishing negotiations for disputed South China Sea agreement will be a 'tall order', analysts say."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/economy/2026/11/15/pact-on-south-china-sea-code-of-conduct-unlikely-as-asean-leaders-gather?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-15T08:07:08Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "50facbe03fefce2161310631d3e36a1559656df4",
-   "title": "Japan stun Brazil 3-2 in stoppage time as Ancelotti, Raphinha sent off",
-   "summary": [
-    "Substitute Tatsuhiro Sakamoto’s late goal helps Japan avenge their defeat by Brazil in the World Cup round of 32."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/sports/2026/11/15/japan-stun-brazil-3-2-in-stoppage-time-as-ancelotti-raphinha-sent-off?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-15T07:30:21Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "9794cb09693ea3e83c27663d2399cf7675ba1a73",
-   "title": "ASEAN summit: Who’s attending and what’s at stake?",
-   "summary": [
-    "Energy disruptions as a result of the US-Israel war on Iran is a key issue for the import-dependent bloc."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-15T07:11:24Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "0ef5c2a6a908623b689d415d424a415e962720cf",
-   "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
-   "summary": [
-    "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-15T07:10:31Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "79845120428173a41b48567263f2b6ab88f9f040",
-   "title": "Israel: Making the Holy Land burn",
-   "summary": [
-    "For all its greenwashing, the Zionist state has ecologically devastated Palestine more than anyone else."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/opinions/2026/11/15/israel-making-the-holy-land-burn?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-15T06:49:14Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "54dbf1943b5e0f1bf1130392cc531d8121f673de",
-   "title": "The French Republic’s forgotten promise of equality",
-   "summary": [
-    "French youth learn in school about the Revolution’s values but they do not see them reflected in their own reality."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/opinions/2026/11/15/the-french-republics-forgotten-promise-of-equality?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-15T06:44:27Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "36c027852976f0fb151e2baa2181e96f7dccc143",
-   "title": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations",
-   "summary": [
-    "Likened to the 1945 summit at Yalta, the Ukrainian president, Volodymyr Zelenskyy, has warned the talks must not lead to a redistribution of influence among world powers or the abandonment of his country, more than four years into the war sparked by Putin’s full-scale invasion."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations",
-   "image": "https://i.guim.co.uk/img/media/bdce7545dc691e9936e076cd03bde7e3cc7e3a2a/264_0_3267_2614/master/3267.jpg?width=140&quality=85&auto=format&fit=max&s=3d2b7ab32c9547d61fbc8e221d4002cf",
-   "published_at": "2026-11-15T06:22:32Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "4b1fc643bd8646c3b279f01b3fc701bb418a826d",
-   "title": "Secret votes and vetoes: How will the next UN chief be picked?",
-   "summary": [
-    "With no frontrunner for the job, eight candidates are vying for the UN Security Council's recommendation."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/15/secret-votes-and-vetoes-how-will-the-next-un-chief-be-picked?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-15T06:11:00Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "9bbc450964fcffa6cfc3f420253fa6136b6cdf47",
-   "title": "Gymshark in trademark battle that threatens future of small fitness business",
-   "summary": [
-    "Exclusive: British sportswear firm is seeking to obtain rights to The Conditioning Club, which is also the name of a Gloucestershire gymGymshark, the £1bn British sportswear firm started in a family garage, is locked in a trademark battle that threatens the future of a small fitness business.Ben Francis, the university dropout who started sewing his own gym clothes in his parents’ garage and is now estimated to be worth £800m, is trying to add The Conditioning Club to his Gymshark stable of trademarks."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/law/2026/nov/15/gymshark-trademark-battle-the-conditioning-club-gloucestershire",
-   "image": "https://i.guim.co.uk/img/media/e1da29897d579d3c5ce54dccb4e07d5ac5515acf/347_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=c1dbdf7133b015d46df76574e9cdf610",
-   "published_at": "2026-11-15T06:00:07Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "600d195ed7b733f70ec396abea583bf5187a6976",
-   "title": "World’s top court to rule if Myanmar committed genocide against Rohingya",
-   "summary": [
-    "International court of justice has never before found a state guilty of genocide, and ruling will have implications for case against IsraelThe world’s top court will deliver a judgment this week on whether Myanmar committed genocide against its Rohingya minority, in a landmark case that will set a critical 21st-century benchmark for the gravest of all international crimes.The closely watched judgment could become one of the most significant moments in international law since the end of the second world war."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/15/myanmar-rohingya-genocide-icj",
-   "image": "https://i.guim.co.uk/img/media/c5d561832d1bf74db164791e4e9b6d4e167dfae9/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=090ff017f584b6c02d4f46319d31927c",
-   "published_at": "2026-11-15T06:00:05Z",
-   "category": "world",
-   "related": []
-  },
   {
    "id": "6baac8e6228aa18bb1f31d08386188ca10615d63",
    "title": "Planned asylum seeker detention centre next to Oxfordshire sewage works criticised",
@@ -242,307 +32,516 @@
    "source": "The Guardian",
    "url": "https://www.theguardian.com/uk-news/2026/nov/15/planned-asylum-seeker-detention-centre-next-to-oxfordshire-sewage-works-criticised",
    "image": "https://i.guim.co.uk/img/media/d09ed18d9dd0cdd685e28614ca19c5a774a69750/268_0_2268_1816/master/2268.jpg?width=140&quality=85&auto=format&fit=max&s=a94ae645f7999f7bde5d4240fd8be790",
-   "published_at": "2026-11-15T06:00:05Z",
+   "published_at": "2026-11-15T16:47:39Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "a78e9444515d8af5838636cd5d3ff9e5977d2c70",
-   "title": "Francophone summit opens in Cambodia amid Rwanda-DR Congo rift",
+   "id": "82d719e9a8ce70957977868ad2ebd9be056142b6",
+   "title": "Hundreds of thousands of Czechs protest in Prague over media freedom",
    "summary": [
-    "Democratic Republic of the Congo and Rwanda clash over who should lead the organisation of French-speaking nations."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/15/francophone-summit-opens-in-cambodia-amid-rwanda-dr-congo-rift?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-15T05:05:02Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "e6f93667c469a6f2f069c2875287c6764b722130",
-   "title": "New York Democratic Socialists urge Ocasio-Cortez to run for US president",
-   "summary": [
-    "Delegates at NYC-DSA convention pass resolution formally calling on Congresswoman AOC to run in 2028 presidential race."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/15/new-york-democratic-socialists-urge-ocasio-cortez-to-run-for-us-president?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-15T04:44:57Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "ac4f28a0b0816d9d38a8a9761a0237f9a4daf192",
-   "title": "Video shows moment of Brooklyn building collapse from inside",
-   "summary": [
-    "Newly released nanny cam footage shows the moment an apartment building collapsed in Brooklyn as children played inside."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/video-shows-moment-of-brooklyn-building-collapse-from-inside?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-15T04:31:55Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "375d28637ad7a4797e88b9d93971c1119a47ac5f",
-   "title": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment",
-   "summary": [
-    "A federal judge on Saturday ordered a two-week delay to any work at a historic Washington public golf course not far from the White House.(Image credit: Tom Brenner)"
-   ],
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
-   "image": null,
-   "published_at": "2026-11-15T04:28:45Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "1e08a6f2c4428836fa500626d9ad58021457bd95",
-   "title": "Zimbabwe’s HIV gains face a test among young people",
-   "summary": [
-    "New prevention tools offer hope, but reaching young people remains a challenge."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/15/zimbabwes-hiv-gains-face-a-test-among-young-people?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-15T04:13:00Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "e6ff120e40a3dd9f2b3d37c546587dae55b50e04",
-   "title": "World leaders head to Asia for back-to-back diplomatic summits",
-   "summary": [
-    "It starts two weeks after the US leader lost midterm elections."
+    "Estimated 350,000 people rally against plan to scrap licence fees and fund broadcasters from state budgetHundreds of thousands of Czechs are rallying in Prague to protest against what they say is a government attempt to stifle media freedom.The gathering on Sunday to save the mandatory licence fees that fund Czechia’s public broadcasters could be one of the biggest in the country’s history, organisers said."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean",
-   "image": "https://i.guim.co.uk/img/media/ef4d680eeeb4b13e743836eee5388c60a984dd7c/0_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=5c0edeb347e23bbede89a1c6c3a7ee1c",
-   "published_at": "2026-11-15T04:00:02Z",
+   "url": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom",
+   "image": "https://i.guim.co.uk/img/media/95975b1bec64815ceed42fb90d5215d3bbf2f3f8/543_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ee2294d72c354e735186b306b7fe1328",
+   "published_at": "2026-11-15T16:40:04Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "75769902a23d6ada5bda9735e9f8956cff53f6e4",
-   "title": "Anthony Albanese apologises for hot-mic gaffe after Coalition criticises ‘locker-room talk’",
+   "id": "4f8ab4def119ba01e69712a5118c799101eef316",
+   "title": "Czechs rally against plan to switch funding of public media",
    "summary": [
-    "I apologise,” Albanese said during a visit to the Australian warship HMAS Stalwart in the Philippines on Sunday.Sign up for Guardian Australia’s Politics, really newsletter here Continue reading..."
+    "Protesters say the move will stifle media freedom, while the coalition government insists broadcasters need to cut costs."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-15T16:36:42Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "58e346197e985638a4fa963e66af4c7733e9e373",
+   "title": "Thousands rally in Czech Republic against state media funding changes",
+   "summary": [
+    "Critics say proposed funding changes will give the government more control of state media."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-15T16:32:22Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "77828ca2a56f6add94ac25c6f94205fb51d82d3e",
+   "title": "Transportation secretary Sean Duffy blames prior presidents and Congress for flight stoppage",
+   "summary": [
+    "Democratic senator Chris Van Hollen says Trump administration hasn’t properly invested existing fundsDonald Trump’s administration on Sunday blamed the travel chaos stemming from Friday’s four-hour nationwide flight stoppage on prior presidents as well as a lack of congressional funding – though a Democratic senator argued that the Trump administration hasn’t properly invested all of the funds it has already been given to implement needed air travel infrastructure upgrades.“I take responsibility for what was given to me by prior administrations,” the US transportation secretary, Sean Duffy, told CNN’s Dana Bash, a day after he said routine but necessary maintenance botched by a contractor had caused Friday’s Federal Aviation Administration (FAA) ground stop, leading to the delay or cancellation of thousands of flights."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-apologises-for-hot-mic-gaffe-after-coalition-criticises-locker-room-talk",
-   "image": "https://i.guim.co.uk/img/media/4234ff2cadfb5b400fae76732ca4c673a2b713e6/639_0_6877_5501/master/6877.jpg?width=140&quality=85&auto=format&fit=max&s=4d3cdc60bc8855259dcbf1ab9ce5da75",
-   "published_at": "2026-11-15T03:49:21Z",
+   "url": "https://www.theguardian.com/us-news/2026/nov/15/transportation-secretary-sean-duffy-faa-flight-stoppag",
+   "image": "https://i.guim.co.uk/img/media/a09839dd38148bdd17475e10c93caf952fd6b7f0/557_0_6663_5330/master/6663.jpg?width=140&quality=85&auto=format&fit=max&s=625834678800cdf432db16929672492d",
+   "published_at": "2026-11-15T16:18:49Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "0ef0bdec66f9a117121dbec10ff16db836a0fa2d",
-   "title": "Monkey attacks woman inside residential complex in India",
+   "id": "f30e233ec9d8c70b519d505d3d016d68200d832e",
+   "title": "British tourist smashes Jesus statue outside Vilnius church",
    "summary": [
-    "A woman was attacked and repeatedly bitten by a monkey at a residential apartment complex in India’s Gujarat state."
+    "A man removed a statue of the crucified Jesus from a church in Vilnius and it smashed to the ground."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/monkey-attacks-woman-inside-residential-complex-in-india?traffic_source=rss",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/british-tourist-smashes-jesus-statue-outside-vilnius-church?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-15T03:39:39Z",
+   "published_at": "2026-11-15T16:04:22Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "6f770d26ee4efe9d2d54f934015b2aaa7e7398e1",
-   "title": "Italian artist reimagines Madonna paintings to expose Gaza’s pain",
+   "id": "12b449161b7837544695f8c720e77ce089ac01e9",
+   "title": "Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - as it happened",
    "summary": [
-    "Italian artist Eduardo Castaldo has unveiled an artwork titled ‘Holy Mothers of Gaza’ inside Naples’ Pappacoda Chapel."
+    "The Iranian Revolutionary Guard explicitly claimed responsibility for these attacks.",
+    "The Ministry praised the efficiency, vigilance, and capability of the Bahrain Defense Force in confronting today’s attack and its complete readiness to deter any aggression.",
+    "The Ministry considered these attacks a resumption of Iran’s heinous aggression against the Kingdom and countries in the region, disregarding the provisions of international law and the principles of the UN Charter."
    ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_italian-artist-rips-madonna-painting-to-reveal-gaza-141126?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-15T03:30:29Z",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
+   "image": "https://i.guim.co.uk/img/media/8639b2a492926c5d0ccbdbab7179b3d592cdb751/0_37_1091_873/master/1091.jpg?width=140&quality=85&auto=format&fit=max&s=578cbc0307286c00098fc0760a78406b",
+   "published_at": "2026-11-15T15:59:04Z",
    "category": "world",
    "related": []
   },
   {
    "id": "bfaf045cc0ef69f3e024da50d5e1225e640e7c99",
-   "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+   "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
    "summary": [
-    "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links."
+    "The temporary order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course."
    ],
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-15T03:21:04Z",
+   "published_at": "2026-11-15T15:57:03Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "5bd9f80ca24a46c403c6642ac426aa91294a5de5",
-   "title": "Saudi-led coalition intercepts suspected Houthi missiles and drones",
+   "id": "ec6b2e790328d6968847d49815f9072cf36408b7",
+   "title": "Two planes collide on taxiway at Miami airport one day after national grounding",
    "summary": [
-    "Fighting escalates in Yemen's Marib and al-Jawf, as UN agency says more than 340,000 Yemenis displaced since August."
+    "Two people injured after wingtip of Copa Airlines Boeing 737 struck nose of United Parcel Service Boeing 767Two planes collided with one another on a taxiway at Miami’s international airport on Saturday night – a day after the Federal Aviation Administration (FAA) issued an hours-long nationwide ground stop due to communication issues affecting multiple air traffic control centers.In a statement, the Trump administration-led FAA said the wingtip of a Copa Airlines Boeing 737 struck the nose of a United Parcel Service Boeing 767 “while the airplanes were taxiing at Miami International Airport”."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/15/miami-airport-planes-collide",
+   "image": "https://i.guim.co.uk/img/media/2268d8ddd3bcce1ac57e4531e97ad0d576a953b9/386_0_2367_1893/master/2367.jpg?width=140&quality=85&auto=format&fit=max&s=4b04d24e85d7e5b7e7d675f05f6e24b8",
+   "published_at": "2026-11-15T15:40:04Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "13e3e540fcc99fedc32260d15e5d998ae2906a12",
+   "title": "70 bodies recovered from Gaza rubble, thousands still missing",
+   "summary": [
+    "70 bodies recovered from Gaza rubble, thousands still missing"
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/15/saudi-led-coalition-intercepts-two-missiles-two-drones-in-riyadh?traffic_source=rss",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/70-bodies-recovered-from-gaza-rubble-thousands-still-missing?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-15T02:59:06Z",
+   "published_at": "2026-11-15T15:32:43Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "8775874e6c18e9553b508a4fd9ffe69cd8502d13",
-   "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+   "id": "25db0ca1200782d5ad70e37015d4ae6a483a424a",
+   "title": "Will Iraq’s oil smuggling crackdown disarm militias without a conflict?",
    "summary": [
-    "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023."
+    "Iraq has dismantled an alleged smuggling ring in Jurf al-Sakhar which could squeeze militias and avert internal strife"
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/15/will-iraqs-oil-smuggllng-crackdown-disarm-militias-without-a-conflict?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-15T15:21:21Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "6640581b106dce0a6825b463010007d95c198bda",
+   "title": "20 years of Al Jazeera English: Our story is still being written",
+   "summary": [
+    "As we celebrate our 20th anniversary, we remain committed to our values and the quality of our journalism."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/opinions/2026/11/15/20-years-of-al-jazeera-english-our-story-is-still-being-written?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-15T15:21:12Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "5651a0a8dc878d74bdd616859670070c6cc7621e",
+   "title": "Record number of migrants arrive in Spain’s Canary Islands",
+   "summary": [
+    "New EU migration and asylum laws have largely failed to stem flow of migrants to Spain and its territories."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/15/record-number-of-migrants-arrive-in-spains-canary-islands?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-15T15:16:29Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "077fedd8915850d18eafcaaf4c1ad47521c3c4cc",
+   "title": "Jerusalem Daily: Mass funeral in Gaza as Netanyahu clings to power",
+   "summary": [
+    "A mass funeral was held in Gaza for 70 Palestinians whose bodies were trapped under the rubble."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jerusalem-daily-mass-funeral-in-gaza-as-netanyahu-clings-to-power?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-15T15:01:54Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "614532eebcb8291a82d239f41721cee84f964449",
+   "title": "How telecoms upgrade work sparked US flight chaos",
+   "summary": [
+    "US officials say the disruption was caused by old equipment overloading and not a cyber-attack."
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-15T02:49:45Z",
+   "published_at": "2026-11-15T14:57:15Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "595478efb90ca8458d35f353aa6548ba45cad13e",
-   "title": "Katherine Deves among four NSW upper house candidates revealed by One Nation",
+   "id": "198b16a285bdd85182e1593f7c683db3d03984f7",
+   "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
    "summary": [
-    "Party’s NSW leader Mike Newman says contenders are ‘people from the real world’ and not ‘career politicians’Get our breaking news email, free app or daily news podcastThe failed federal Liberal candidate Katherine Deves, who campaigned to exclude transgender women from women’s sport, will stand for One Nation at next year’s New South Wales election.Deves was among four NSW Legislative Council candidates announced by One Nation’s NSW leader, Mike Newman, on Sunday."
+    "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-15T14:56:21Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "0c98c469ed425d73c342ca9be4d0b4e120edac43",
+   "title": "Flames engulf Syrian refugee camp in eastern Lebanon",
+   "summary": [
+    "A fire tore through a Syrian refugee camp in Bar Elias, eastern Lebanon."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/flames-engulf-syrian-refugee-camp-in-eastern-lebanon?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-15T14:55:40Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "8a57e0dad6ea9675ea21d1a224c89ba0713a9ec4",
+   "title": "Fascism built the AI bubble. What will burst it?",
+   "summary": [
+    "In the latest episode of Deja Vu, Naomi Klein and Astra Taylor examine the latest model of disaster capitalism."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/deja-vu-2/2026/11/15/fascism-built-the-ai-bubble-what-will-burst-it?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-15T14:55:00Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "4f9047c2206d84de2934f3737baf11684c4d0481",
+   "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+   "summary": [
+    "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-15T14:33:59Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "1ab30ab40aa1ceaee0052b43b2b1de893b3f44d6",
+   "title": "20 Years of Al Jazeera English: The Counter Narrative",
+   "summary": [
+    "Two decades of AJE: Shaping media, amplifying unheard voices and driving global conversations."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/featured-documentaries/2026/11/15/twenty-years-of-al-jazeera-english-the?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-15T14:29:41Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "0f46ea0151f3053c3c0b3018ab53538e1f4d8034",
+   "title": "‘Almost magic’ as SpaceX craft caught mid-air: Why it matters",
+   "summary": [
+    "SpaceX's Starship successfully returned to its launchpad after orbiting in space."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/15/almost-magic-as-spacex-craft-caught-mid-air-why-it-matters?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-15T14:12:09Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "fae8ab3593688cdac3d725db9b133499041f54bd",
+   "title": "Can Netanyahu and Eisenkot form a ‘unity’ government in Israel?",
+   "summary": [
+    "Yashar and Likud are scheduled to hold talks on Sunday, but will need to overcome major differences to work together."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/15/can-netanyahu-and-eisenkot-form-a-unity-government-in-israel?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-15T14:02:08Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "cd01ebbe43e7d13dddef3a1fed174011da40a379",
+   "title": "Two killed in Leeds after car pursued by police crashes into another vehicle",
+   "summary": [
+    "Four arrested after BMW collides with Volkswagen on Gelderd Road, with police appealing for witnessesTwo people aged 22 and 23 have died after their car was hit by a BMW being pursued by police.West Yorkshire police said four people had been arrested after the crash in Leeds on Sunday and appealed for witnesses to come forward."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/15/katherine-deves-among-four-nsw-upper-house-candidates-revealed-by-one-nation-ntwnfb",
-   "image": "https://i.guim.co.uk/img/media/d047c76f69b28583bdf6ab81399ed4967ef41dda/836_107_1722_1378/master/1722.jpg?width=140&quality=85&auto=format&fit=max&s=5f594cb51867df53603d74544e8a5ab9",
-   "published_at": "2026-11-15T02:13:20Z",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/15/leeds-car-pursued-by-police-crashes-into-another-vehicle",
+   "image": "https://i.guim.co.uk/img/media/f21995728d72a07555a435312b9559c41a077680/1027_40_4900_3920/master/4900.jpg?width=140&quality=85&auto=format&fit=max&s=a304647680eeed4434a28ec5521a88d9",
+   "published_at": "2026-11-15T14:01:32Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "b40f769c8f6e706d24e86445e12a433c9162854a",
-   "title": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
+   "id": "13d9bad496d7dcd22fc65819e1482171ab523662",
+   "title": "Gender-diverse Australian sailors barred from US submarines despite Aukus deal, documents reveal",
    "summary": [
-    "Dismissals follow probe that uncovered illegal oil refineries and smuggling in a region run by Kataib Hezbollah."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-15T01:54:55Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "3563a1720b74526bda7696978b4314ef23b82101",
-   "title": "Thunderstorms, giant hail and powerful winds forecast for NSW as wild weather hits east coast",
-   "summary": [
-    "Volatile weather predicted after storms on Saturday, with a man in his 20s struck by lightning while swimming on NSW Central CoastGet our breaking news email, free app or daily news podcastDangerous and severe “supercell” thunderstorms with the potential for giant hail and destructive winds were forecast for parts of New South Wales on Sunday, as volatile weather continued in the eastern states over the weekend.Storms dumped heavy rain across large parts of northern and eastern NSW and much of Queensland on Saturday, with strong winds recorded up to 98km/h in Goulburn and rainfall totals of between 30mm and 50mm in the Coffs Harbour area."
+    "Defence briefing released under freedom of information laws shows ADF beholden to US directives when in trainingGet our breaking news email, free app or daily news podcastAukus is effectively forcing the Australian navy to comply with a US ban on transgender people in the military with gender-diverse navy recruits prevented from starting a career in nuclear submarines because they would not be safe training on US boats.Internal Australian defence force documents show transgender and non-binary sailors and officers are explicitly banned from Australia’s nuclear submarine training program because of US policies.."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/15/australia-weather-east-coast-thunderstorms-giant-hail-and-powerful-winds-ettalong-beach-swimmer-lightning-strike",
-   "image": "https://i.guim.co.uk/img/media/0ff1f7cb491d3cea7030874a5781c374e23a49b6/586_0_3258_2608/master/3258.jpg?width=140&quality=85&auto=format&fit=max&s=db2094a4a83783cc718c1ec3227c1976",
-   "published_at": "2026-11-15T01:52:37Z",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/16/gender-diverse-australian-sailors-barred-from-us-submarines-despite-aukus-deal-documents-reveal-ntwnfb",
+   "image": "https://i.guim.co.uk/img/media/a8ffd0f4a6649fa47da73c0c7e9820fde6e754cc/198_0_4099_3280/master/4099.jpg?width=140&quality=85&auto=format&fit=max&s=4f203e86151b9548cdeb39e62f6bda35",
+   "published_at": "2026-11-15T14:00:19Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "00eede577e4b59fd6f0e7d72c912d154c927fb14",
-   "title": "Netanyahu sends plea to Eisenkot for unity government",
+   "id": "40a5ea55d59b7726e2b3c57097b78781c8ab39fc",
+   "title": "Ethnic minority groups in Wales four times more likely to be target of police facial scans",
    "summary": [
-    "Benjamin Netanyahu has issued a public plea to opposition leader Gadi Eisenkot to form a unity government."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/netanyahu-sends-plea-to-eisenkot-for-unity-government?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-15T01:33:11Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "d42dec5a532e6c0e5b559bca576a30e576b55397",
-   "title": "Thailand’s elderly kept in cages",
-   "summary": [
-    "A nursing home in Thailand, has been accused of keeping dozens of senior residents, in metal cages."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/thailands-elderly-kept-in-cages?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-15T01:32:08Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "cea4950065ad38e21cf1419e19dd303787837d64",
-   "title": "SpaceX’s Starship nails a smooth return with historic catch",
-   "summary": [
-    "SpaceX Starship made a triumphant return to Earth, caught midair by giant mechanical ‘chopsticks’."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-15T01:22:01Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "bdef44745e9a1511ca97489a6d7e5d5b98ff834e",
-   "title": "FAA ground stop disrupts college football",
-   "summary": [
-    "Some college football games were delayed a few hours on Saturday or postponed to Sunday.",
-    "And in Oklahoma at least, there will be perks for fans to make up for the inconvenience, including cheap beers.(Image credit: Justin Ford)"
-   ],
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/14/nx-s1-6041115/faa-ground-stop-college-football-delays",
-   "image": null,
-   "published_at": "2026-11-15T01:13:59Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "d664ccc170790a812794fdd39744fb6b733b91bd",
-   "title": "Israeli air strike kills senior Hamas commander in Gaza",
-   "summary": [
-    "Hamas confirms the death of Rafah brigade commander Samir Abu Younis in an attack on Khan Younis on Saturday."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-15T01:00:42Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "2a9a260c123a3f51a45f93fca854c71530a61e1a",
-   "title": "Hundreds of men march in Switzerland to protest violence against women",
-   "summary": [
-    "Organisers say men must speak out, as Swiss study finds half of men aged 18 to 24 hold restrictive view of masculinity."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-15T00:27:14Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "5430714d670ada0c38320f2af632a8069a0ab306",
-   "title": "UK government to consider changing age of consent after allegations against Russell Brand",
-   "summary": [
-    "Deputy prime minister says change would be a massive step but ‘deserves proper consideration and scrutiny’ The government has said it will consider calls to change the age of consent after a woman waived her right to anonymity to publicly claim she was raped by Russell Brand as a 16-year-old schoolgirl.Mia Latter, now 37, alleged she had been orally raped by the jailed comedian when she was a teenager and he was 30 years old."
+    "Exclusive: South Wales police figures show BAME people accounted for 24% of selected scans in 2025, despite being 7% of populationEthnic minority people are four times more likely than their white counterparts to be chosen for some police facial scans, according to official data, sparking warnings of racial bias.Internal figures released by South Wales police revealed that 24% of people selected by police for facial recognition checks were from ethnic minorities, despite this group making up only 7% of the area’s total population."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/law/2026/nov/15/uk-government-to-consider-changing-age-of-consent-after-allegations-against-russell-brand",
-   "image": "https://i.guim.co.uk/img/media/36adee7d1aea2fce8a66550d02c86c4385f1808c/238_0_2742_2194/master/2742.jpg?width=140&quality=85&auto=format&fit=max&s=924936c31699e9137998e6737a4e0404",
-   "published_at": "2026-11-15T00:17:14Z",
+   "url": "https://www.theguardian.com/technology/2026/nov/15/ethnic-minorities-wales-police-facial-scans-data",
+   "image": "https://i.guim.co.uk/img/media/78c33608558b926ab8a988309e150c4f8e40e224/998_0_4934_3947/master/4934.jpg?width=140&quality=85&auto=format&fit=max&s=71a167b8157212787bcf3c50fd04c233",
+   "published_at": "2026-11-15T14:00:17Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "62de02d1dec8a90f23fe77c2354000a8924874ef",
-   "title": "SpaceX’s Starship captured by launchpad arms in dramatic first",
+   "id": "694e9b8c9b4d19832e97f992758bde10d5bdff84",
+   "title": "Germany vs Netherlands: Nations League – preview, team news, predictions",
    "summary": [
-    "SpaceX officials say catch by mechanical arms shows Starship's full reusability, crucial for rapid, low-cost recycling."
+    "Germany will likely need to win on Monday to reach the quarterfinals unless Serbia beat Greece away from home."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss",
+   "url": "https://www.aljazeera.com/sports/2026/11/15/germany-vs-netherlands-nations-league-preview-team-news-predictions?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-15T00:14:22Z",
+   "published_at": "2026-11-15T13:54:05Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "fe5ff033f78962a38148a22932dbf8eba8228623",
+   "title": "Gaza families bury bodies of loved ones trapped for years under rubble",
+   "summary": [
+    "The remains of 69 Palestinians have been recovered in northern Gaza, allowing families to bury them."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/features/2026/11/15/gaza-families-bury-bodies-of-loved-ones-trapped-for-years-under-rubble?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-15T13:45:02Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "43ebf6529fa0fa76a3eda99b4eaa2a1985aa574c",
+   "title": "Explosive attack targets investigative journalist’s home in Panama",
+   "summary": [
+    "An investigative journalist’s home in Panama was attacked in a suspected bombing."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/explosive-attack-targets-investigative-journalists-home-in-panama?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-15T13:43:11Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "365c61c687d5e3371192844e021652090d1b6fcb",
+   "title": "Iran targets US military base in Bahrain with drone attack",
+   "summary": [
+    "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-15T13:42:58Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "50802ce12c20c7d7d1f0315f182f339862948274",
+   "title": "Poundland pins rescue hopes on Yorkshire Tea, Pot Noodle and Gloria Gaynor",
+   "summary": [
+    "Chain restocks stores in operation named after singer of I Will Survive, as US owners release some of withheld fundsPoundland’s under-fire US owners have released funds to help the stricken discount chain restock shelves temporarily, keeping hopes of a rescue deal alive in the run-up to crunch talks with the government.In an emergency resupply effort codenamed “Operation Gloria” by senior Poundland staff, about 16m grocery items were dispatched to 600 shops in the UK and Ireland over the weekend."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/15/poundland-pins-rescue-hopes-on-yorkshire-tea-pot-noodle-and-gloria-gaynor",
+   "image": "https://i.guim.co.uk/img/media/0d2f7534afa128e24bf7652d723765d65c52efcc/536_430_3761_3012/master/3761.jpg?width=140&quality=85&auto=format&fit=max&s=a6a40a63524f9e9eb409563c12285046",
+   "published_at": "2026-11-15T13:41:01Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "a7491076c63ab89281fee94c82637971cfebc789",
+   "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+   "summary": [
+    "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-15T13:37:45Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "739cdbb117468f2be624ebfe7e554671c14181b9",
+   "title": "Starshield restrictions help Russia’s energy attacks on Ukraine: Zelenskyy",
+   "summary": [
+    "Starlink has recently denied restricting internet speeds, but Elon Musk suggested the US military could be behind it."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/15/starshield-restrictions-help-russias-energy-attacks-on-ukraine-zelenskyy?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-15T13:37:08Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "5882db97137f5894832ec8019eddc72eedb1b06b",
+   "title": "Al Jazeera English celebrates 20 years on air",
+   "summary": [
+    "For 20 years, Al Jazeera English has brought untold stories to the world, giving a voice to the voiceless."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/al-jazeera-english-celebrates-20-years-on-air?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-15T13:36:46Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "dbf821f83998c56c116e165b195fdec137320a49",
+   "title": "Al Jazeera English marks 20 years: Stories that shaped the journey",
+   "summary": [
+    "Here are some of the crucial events Al Jazeera English has covered over the past two decades."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/15/al-jazeera-english-marks-20-years-stories-that-shaped-the-journey?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-15T13:30:51Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "292a54ddee1cd13799a7189faacaa384dabe9f50",
+   "title": "Cold and health alerts issued for Scotland and northern England as snow and ice expected",
+   "summary": [
+    "People should be vigilant as they travelled, due to the risk from slipping on footpaths in icy conditions, it added."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/15/uk-weather-cold-health-alerts-scotland-northern-england-snow-ice",
+   "image": "https://i.guim.co.uk/img/media/e40f65cb8a5bcc57a606b579728d6e17a51152f9/456_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=6ea79c52ed405cd42233ce83b86f447a",
+   "published_at": "2026-11-15T13:30:18Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "a0e17e8eed2cac704abe1aae1a92573643af763d",
+   "title": "‘Shameless venality’: how a flurry of lawsuits has thwarted Trump’s self-enrichment schemes",
+   "summary": [
+    "Courts have issued stinging rebukes to president’s ‘blatant’ financial ploys as pro-democracy groups defend ‘government of laws, not of men’ pillarDonald Trump’s legal and political ploys to increase his wealth and boost Republican electoral prospects have fueled lawsuits by non-partisan groups, prompting federal judges to issue stinging rejections to some of the president’s schemes.Several lawsuits were filed in 2026 against Trump’s schemes to benefit his bottom line by reducing potential tax liabilities, boosting his Truth Social platform financially by offering big investors early access to his posts, and helping Republicans by using federal funds to pay for highly partisan ads touting Trump’s record in the run-up to the midterm elections, in which Republicans suffered a heavy defeat."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/15/trump-self-enrichment-lawsuits",
+   "image": "https://i.guim.co.uk/img/media/b8fb44b5eed4db68cd19eb902eec5bae57865a99/0_404_6118_4894/master/6118.jpg?width=140&quality=85&auto=format&fit=max&s=151c5bfa00eca03b8a760defa1bd17ac",
+   "published_at": "2026-11-15T13:00:15Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "7b76500ede32f7514194b15538d1a16576b7d144",
+   "title": "Kayla ⁠⁠Harrison defeats Amanda Nunes to retain UFC bantamweight belt",
+   "summary": [
+    "Harrison won by a fourth-round submission against MMA legend Nunes, who made a comeback after a three-year absence."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/11/15/kayla-%e2%81%a0%e2%81%a0harrison-defeats-amanda-nunes-to-retain-ufc-bantamweight-belt?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-15T12:50:50Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "5d5e6c5ead651a2daf49f89bc6f8733baa5b0a9b",
+   "title": "Aid agencies struggle to help more than 50,000 Ethiopian refugees in Kenya",
+   "summary": [
+    "Aid agencies are struggling to provide food, medical care and shelter to more than 50,000 Ethiopian refugees in Kenya."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aid-agencies-struggle-to-help-more-than-50000-ethiopian-refugees-in-kenya?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-15T12:50:20Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "f3486dbf09edcc743be2c8e3882f1c2814885f6c",
+   "title": "Bahrain accuses Iran of attacking its territory to ‘settle’ score with US",
+   "summary": [
+    "Tehran says its air attacks on countries cooperating with the US are justified under international law."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/15/bahrain-accuses-iran-of-attacking-its-territory-to-settle-score-with-us?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-15T12:36:19Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "85357e3d203fb7d3c0e98c5a29611bfea8be9396",
+   "title": "Australia crush New Zealand to win fourth Women’s Rugby League World Cup",
+   "summary": [
+    "Australia dominated the first half and capitalised on the Kiwi Ferns’ errors to win 34-10 and clinch the trophy."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/11/15/australia-crush-new-zealand-to-win-fourth-womens-rugby-league-world-cup?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-15T12:21:28Z",
    "category": "world",
    "related": []
   }

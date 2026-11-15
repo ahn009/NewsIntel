@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-15T09:12:09.856002Z",
- "story_count": 7,
+ "generated_at": "2026-11-15T16:58:55.633555Z",
+ "story_count": 6,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
-  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/home": "ok",
+  "https://www.dawn.com/feeds/pakistan": "ok",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,12 +20,25 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "ok"
+  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
   {
+   "id": "4315b204202e2abb6f0b7f528f13d9965f698b6b",
+   "title": "Minister backs legal right to job support for young people",
+   "summary": [
+    "The work and pensions secretary said the level of support currently on offer was too vague."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-15T13:06:15Z",
+   "category": "business",
+   "related": []
+  },
+  {
    "id": "eaa5ba53ff33265f134f6fbeef313edfd693f139",
-   "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+   "title": "Beauty advent calendars can cost hundreds but are they value for money?",
    "summary": [
     "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers."
    ],
@@ -85,32 +98,6 @@
    "url": "https://www.bbc.co.uk/news/articles/c6702j7e48eno?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-14T06:33:06Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "4b1ed9147537f309903c5c0f7b778bf3f38c41b8",
-   "title": "‘It’s frustrating’: chaos at US airports as stoppage grinds travel plans to a halt",
-   "summary": [
-    "Travelers and crew feeling ‘pissed’ or ‘lucky’ depending on level of upset amid nationwide ground stopThe decision to ground all flights on Friday by the US Federal Aviation Administration (FAA) threw airports and travel plans into chaos across the country, as passengers on planes and in airport terminals were suddenly thrust into limbo.At New York’s John F Kennedy airport, passengers found their travel plans abruptly canceled – some even after they had boarded their planes."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/13/us-airports-flight-stoppage",
-   "image": "https://i.guim.co.uk/img/media/7ed43949a5180577da723e2bf8cbe9c1ff30a73b/116_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=a42d4b21d85e960cc27767128ff75b5b",
-   "published_at": "2026-11-14T02:49:59Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "b1b246b5ab5ec14b10ad01f4ab45a0a36a363b18",
-   "title": "Microsoft outage shakes up companies, schools and local governments across US",
-   "summary": [
-    "Local officials warn some services remain unavailable even as Outlook starts to resume normal operations after outageMicrosoft outage – live updatesThe Microsoft Outlook outage has shaken up companies and local governments across the US that use its suite of email, calendar, video conferencing and cloud storage systems.Even as Outlook started to resume normal operations Friday morning, local leaders from across the country, including in Miami, Maryland and Los Angeles, warned residents that certain staff or services were still unavailable due to the outage that started around 1pm ET on Thursday."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments",
-   "image": "https://i.guim.co.uk/img/media/b63ef4b2cd095319a80edb2f7cb40f210d4581c1/564_0_3154_2523/master/3154.jpg?width=140&quality=85&auto=format&fit=max&s=00f4153beac0510e18c3ba0bc72b2e40",
-   "published_at": "2026-11-13T21:13:59Z",
    "category": "business",
    "related": []
   }
