@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-15T16:58:55.633108Z",
- "story_count": 36,
+ "generated_at": "2026-11-15T21:40:48.531021Z",
+ "story_count": 38,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -24,6 +24,193 @@
  },
  "stories": [
   {
+   "id": "294a13221fad339b4c1b2df699a34f5e6da555b1",
+   "title": "Your Agent Will Pick the Hackable One",
+   "summary": [
+    "Article URL: https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/ Comments URL: https://news.ycombinator.com/item?id=50510799 Points: 6 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/",
+   "image": null,
+   "published_at": "2026-11-15T21:10:39Z",
+   "category": "tech",
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://joshblais.com/blog/emacs-as-my-browser/"
+    }
+   ]
+  },
+  {
+   "id": "a850a5bee1633730ca374cf989ac3e35241fc303",
+   "title": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
+   "summary": [
+    "Article URL: https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch Comments URL: https://news.ycombinator.com/item?id=50510442 Points: 30 # Comments: 3"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
+   "image": null,
+   "published_at": "2026-11-15T20:37:28Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "1a811a22b701406e39cc2891fcc2f1927c44e968",
+   "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+   "summary": [
+    "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+   "image": null,
+   "published_at": "2026-11-15T20:20:57Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "b4260db782b8f2ad0f5c2d610c60076e45d79449",
+   "title": "WebGL Flight Simulator with seed generated terrain",
+   "summary": [
+    "Article URL: https://baron.by.dai.studio/ Comments URL: https://news.ycombinator.com/item?id=50510296 Points: 5 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://baron.by.dai.studio/",
+   "image": null,
+   "published_at": "2026-11-15T20:20:05Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "363403846a59849b8501917b2b130b8dcbc6351f",
+   "title": "Do House members' stock trades beat the market? A test of 8,900 trades",
+   "summary": [
+    "Article URL: https://arkanumdata.com/research/house-trades Comments URL: https://news.ycombinator.com/item?id=50510005 Points: 75 # Comments: 54"
+   ],
+   "source": "Hacker News",
+   "url": "https://arkanumdata.com/research/house-trades",
+   "image": null,
+   "published_at": "2026-11-15T19:46:02Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "e873ffb37f963a8d17c3610630095f55c729c69b",
+   "title": "Handwriting, as a Font",
+   "summary": [
+    "Article URL: https://ductus.sorenblank.com Comments URL: https://news.ycombinator.com/item?id=50509972 Points: 4 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://ductus.sorenblank.com",
+   "image": null,
+   "published_at": "2026-11-15T19:42:13Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "966523945edb28bbdc2e3dc0dd7fb4e838a51ba5",
+   "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+   "summary": [
+    "Article URL: https://bruceroettgers.eu/blog/protomaps/ Comments URL: https://news.ycombinator.com/item?id=50509837 Points: 22 # Comments: 6"
+   ],
+   "source": "Hacker News",
+   "url": "https://bruceroettgers.eu/blog/protomaps/",
+   "image": null,
+   "published_at": "2026-11-15T19:26:22Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "7c17e587ee6a2519a4aa2cdab9f4ade7a212f976",
+   "title": "Eclipse Mosquitto – An open source MQTT broker",
+   "summary": [
+    "Article URL: https://github.com/eclipse-mosquitto/mosquitto Comments URL: https://news.ycombinator.com/item?id=50509416 Points: 40 # Comments: 12"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/eclipse-mosquitto/mosquitto",
+   "image": null,
+   "published_at": "2026-11-15T18:36:40Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "357c9f3ea7eef160985518b45c24cf001f1963bd",
+   "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+   "summary": [
+    "Article URL: https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html Comments URL: https://news.ycombinator.com/item?id=50509411 Points: 208 # Comments: 95"
+   ],
+   "source": "Hacker News",
+   "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+   "image": null,
+   "published_at": "2026-11-15T18:36:10Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "3740fb708ac994b837b1c733b5f068bff33e79ad",
+   "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
+   "summary": [
+    "A new Kickstarter campaign aims to usher in the “return of the human internet.”"
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
+   "image": null,
+   "published_at": "2026-11-15T18:29:14Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "774f7412d1a369d1c04ab0bb964614cd55e7e294",
+   "title": "A short explainer on how El Niño works [video]",
+   "summary": [
+    "Article URL: https://www.youtube.com/watch?v=7_JF3etiAv8 Comments URL: https://news.ycombinator.com/item?id=50509308 Points: 106 # Comments: 19"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+   "image": null,
+   "published_at": "2026-11-15T18:23:21Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "b99586870c44b266515299fc6b00658a1f668c7d",
+   "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+   "summary": [
+    "Article URL: https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html Comments URL: https://news.ycombinator.com/item?id=50509023 Points: 91 # Comments: 59"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+   "image": null,
+   "published_at": "2026-11-15T17:53:31Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "69e5f0d03d1938868c75ef57b601f0a76e3a0b6d",
+   "title": "Clice v1.0 Released: Welcome to Modern C++",
+   "summary": [
+    "Article URL: https://ykiko.me/en/articles/2105384023094834022/ Comments URL: https://news.ycombinator.com/item?id=50508715 Points: 46 # Comments: 28"
+   ],
+   "source": "Hacker News",
+   "url": "https://ykiko.me/en/articles/2105384023094834022/",
+   "image": null,
+   "published_at": "2026-11-15T17:22:32Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "7992364a840a6bc65b6ab6e6009d76d6d852dfd9",
+   "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
+   "summary": [
+    "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
+   "image": null,
+   "published_at": "2026-11-15T17:05:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "1ae8d637c25413619f053999bcbef63a73abacc1",
    "title": "The tech products we enthusiastically recommend this holiday season",
    "summary": [
@@ -37,68 +224,15 @@
    "related": []
   },
   {
-   "id": "680fcbf33e39c8e8db981266e5cf0c19247ef53a",
-   "title": "'Duffy Lied': Controllers Refute Transportation Secretary's Ground Stop Story",
-   "summary": [
-    "Article URL: https://www.commondreams.org/news/duffy-ground-stop-explanation Comments URL: https://news.ycombinator.com/item?id=50507791 Points: 18 # Comments: 3"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.commondreams.org/news/duffy-ground-stop-explanation",
-   "image": null,
-   "published_at": "2026-11-15T15:45:42Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "3ac2f0cb8cd6d7c05515ffffcda4e65ffb519f74",
-   "title": "Show HN: A tiny macOS app that turns off the MacBook display [free license]",
-   "summary": [
-    "Hi, I made a tiny app that lets you turn off the MacBook screen when you work on external monitors.It does NOT just dim the brightness to zero, the screen is actually turned off via the Apple hardware API, the according desktop is removed, so you have a clean \"one big monitor\" setup.- Safe fallback if you turn off the external monitor(s), unplug the monitor cable(s), the app crashes or anything else happens. - Keyboard, touchpad and TouchID still work fine. - Automatic restart.",
-    "2 Megabyte size. - Totally niche, I know, but it helps me to concentrate.The app is commercial ($9 once), but everybody who DMs me here gets a *FREE* lifetime license, and everybody who uses in the feedback form (to report if the apps works on your setup) gets a free lifetime license too.Thanks ;)https://blackoutapp.io Comments URL: https://news.ycombinator.com/item?id=50507722 Points: 5 # Comments: 9"
-   ],
-   "source": "Hacker News",
-   "url": "https://blackoutapp.io/",
-   "image": null,
-   "published_at": "2026-11-15T15:37:52Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "6390c6b231f0caf9874e7ede13f1a5a2ef4e68d6",
-   "title": "Emacs Is My Browser",
-   "summary": [
-    "Article URL: https://joshblais.com/blog/emacs-as-my-browser/ Comments URL: https://news.ycombinator.com/item?id=50507553 Points: 29 # Comments: 6"
-   ],
-   "source": "Hacker News",
-   "url": "https://joshblais.com/blog/emacs-as-my-browser/",
-   "image": null,
-   "published_at": "2026-11-15T15:21:21Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "de1b04aef218049582c90c0014efe24118570b1b",
    "title": "All AI-generated code should be Open Source",
    "summary": [
-    "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 296 # Comments: 189"
+    "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 957 # Comments: 528"
    ],
    "source": "Hacker News",
    "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
    "image": null,
    "published_at": "2026-11-15T14:46:58Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "87316fec60d29d025e75115e017523792a5d99e0",
-   "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
-   "summary": [
-    "Article URL: https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/ Comments URL: https://news.ycombinator.com/item?id=50507206 Points: 53 # Comments: 23"
-   ],
-   "source": "Hacker News",
-   "url": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/",
-   "image": null,
-   "published_at": "2026-11-15T14:31:52Z",
    "category": "tech",
    "related": []
   },
@@ -121,7 +255,7 @@
    "id": "dc388aee58abf2aab68e63d811033fb604819376",
    "title": "Things That Turbo Pascal Is Smaller Than (2011)",
    "summary": [
-    "Article URL: https://prog21.dadgum.com/116.html Comments URL: https://news.ycombinator.com/item?id=50506894 Points: 78 # Comments: 24"
+    "Article URL: https://prog21.dadgum.com/116.html Comments URL: https://news.ycombinator.com/item?id=50506894 Points: 166 # Comments: 78"
    ],
    "source": "Hacker News",
    "url": "https://prog21.dadgum.com/116.html",
@@ -132,9 +266,9 @@
   },
   {
    "id": "57809c39abaa0430588c3f3a1f22e9681c3ef060",
-   "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+   "title": "The MacBook Pro's OLED PWM problem",
    "summary": [
-    "Article URL: https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/ Comments URL: https://news.ycombinator.com/item?id=50506719 Points: 193 # Comments: 95"
+    "Article URL: https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/ Comments URL: https://news.ycombinator.com/item?id=50506719 Points: 355 # Comments: 180"
    ],
    "source": "Hacker News",
    "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
@@ -147,7 +281,7 @@
    "id": "96e1a1a80255c947dbb8203bbc339e9acde5edfe",
    "title": "A NES emulator written in Odin",
    "summary": [
-    "Article URL: https://lucypero.com/lucynes.html Comments URL: https://news.ycombinator.com/item?id=50506588 Points: 55 # Comments: 8"
+    "Article URL: https://lucypero.com/lucynes.html Comments URL: https://news.ycombinator.com/item?id=50506588 Points: 90 # Comments: 32"
    ],
    "source": "Hacker News",
    "url": "https://lucypero.com/lucynes.html",
@@ -160,7 +294,7 @@
    "id": "950ac38f23f2d5a7b62eb3e171ad86cac2083969",
    "title": "Understanding Positional Embeddings in Modern LLMs",
    "summary": [
-    "Article URL: https://magazine.sebastianraschka.com/p/understanding-positional-embeddings Comments URL: https://news.ycombinator.com/item?id=50506376 Points: 100 # Comments: 1"
+    "Article URL: https://magazine.sebastianraschka.com/p/understanding-positional-embeddings Comments URL: https://news.ycombinator.com/item?id=50506376 Points: 175 # Comments: 17"
    ],
    "source": "Hacker News",
    "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
@@ -173,7 +307,8 @@
    "id": "768d7342d58866f15db1e18e60e9567231e7d29e",
    "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
    "summary": [
-    "Article URL: https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html Comments URL: https://news.ycombinator.com/item?id=50506180 Points: 191 # Comments: 81"
+    "https://wallhop.io/https://www.nytimes.com/2026/11/15/us/pol...",
+    "Comments URL: https://news.ycombinator.com/item?id=50506180 Points: 409 # Comments: 184"
    ],
    "source": "Hacker News",
    "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
@@ -199,27 +334,14 @@
   },
   {
    "id": "91e375cc559dcd9993426b98cac94a8af0278569",
-   "title": "Why did some Apollo missions carry a grenade launcher?",
+   "title": "Why did some Apollo missions carry a grenade launcher? (2019)",
    "summary": [
-    "Article URL: https://space.stackexchange.com/questions/37775 Comments URL: https://news.ycombinator.com/item?id=50505271 Points: 141 # Comments: 100"
+    "Article URL: https://space.stackexchange.com/questions/37775 Comments URL: https://news.ycombinator.com/item?id=50505271 Points: 202 # Comments: 140"
    ],
    "source": "Hacker News",
    "url": "https://space.stackexchange.com/questions/37775",
    "image": null,
    "published_at": "2026-11-15T09:06:43Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "9ebf7b582dd6d0cae05765f604a993f00099a31e",
-   "title": "Book list for streetfighting computer scientists",
-   "summary": [
-    "Article URL: https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists Comments URL: https://news.ycombinator.com/item?id=50504718 Points: 100 # Comments: 38"
-   ],
-   "source": "Hacker News",
-   "url": "https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists",
-   "image": null,
-   "published_at": "2026-11-15T07:08:50Z",
    "category": "tech",
    "related": []
   },
@@ -252,32 +374,6 @@
    "related": []
   },
   {
-   "id": "0237c2ed4dfc16bcf722a988d4a062ad40d63b1e",
-   "title": "Disk encryption on NetBSD – achieving secrecy",
-   "summary": [
-    "Article URL: https://netbsd.org/~nia/disk-encrypt/ Comments URL: https://news.ycombinator.com/item?id=50504277 Points: 79 # Comments: 15"
-   ],
-   "source": "Hacker News",
-   "url": "https://netbsd.org/~nia/disk-encrypt/",
-   "image": null,
-   "published_at": "2026-11-15T05:29:54Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "ee705bff49c2bac43ee0e59e406db8ffb82704bf",
-   "title": "My favourite modern NES games",
-   "summary": [
-    "Article URL: https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/ Comments URL: https://news.ycombinator.com/item?id=50503465 Points: 171 # Comments: 23"
-   ],
-   "source": "Hacker News",
-   "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
-   "image": null,
-   "published_at": "2026-11-15T02:41:25Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "e043f4cff3c928f2ffbbdf9a513049145406e3e7",
    "title": "Italy fines Meta $887m for accessing Android users’ photos and videos",
    "summary": [
@@ -294,7 +390,7 @@
    "id": "14ba8d16905942f36916d052236d749017acd32c",
    "title": "Court denies motion to dismiss DRAM price fixing case",
    "summary": [
-    "Article URL: https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal Comments URL: https://news.ycombinator.com/item?id=50502988 Points: 371 # Comments: 156"
+    "Article URL: https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal Comments URL: https://news.ycombinator.com/item?id=50502988 Points: 469 # Comments: 210"
    ],
    "source": "Hacker News",
    "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
@@ -317,32 +413,6 @@
    "related": []
   },
   {
-   "id": "c1b37e19e6e46a57a1a58b8af9f0f6f9cbdfdde6",
-   "title": "The Telephone Changed the World",
-   "summary": [
-    "Article URL: https://lithub.com/how-the-telephone-changed-the-world/ Comments URL: https://news.ycombinator.com/item?id=50501887 Points: 27 # Comments: 6"
-   ],
-   "source": "Hacker News",
-   "url": "https://lithub.com/how-the-telephone-changed-the-world/",
-   "image": null,
-   "published_at": "2026-11-14T22:56:09Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "cce942626afe3b381c2cecbcbf4282b92fe788e1",
-   "title": "How did Woz write the Apple 1 BASIC before building the computer?",
-   "summary": [
-    "Article URL: https://retrocomputing.stackexchange.com/questions/17957 Comments URL: https://news.ycombinator.com/item?id=50501594 Points: 276 # Comments: 144"
-   ],
-   "source": "Hacker News",
-   "url": "https://retrocomputing.stackexchange.com/questions/17957",
-   "image": null,
-   "published_at": "2026-11-14T22:22:49Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "9a736294c460795d30540e93613c6033487be240",
    "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
    "summary": [
@@ -352,19 +422,6 @@
    "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
    "image": null,
    "published_at": "2026-11-14T21:41:22Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "4e501f9826d014090ed9312e94f357780c8cd449",
-   "title": "SpaceX catches the Starship to end Flight 15",
-   "summary": [
-    "https://x.com/SpaceX/status/2121316300702056595https://youtu.be/jHlpfNSpBmw?t=3233 Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 1469 # Comments: 996"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.spacex.com/launches/starship-flight-15",
-   "image": null,
-   "published_at": "2026-11-14T21:22:24Z",
    "category": "tech",
    "related": []
   },
@@ -382,6 +439,19 @@
    "related": []
   },
   {
+   "id": "be71a71e8a5a71b45b3479aad1814c7aa51fbc87",
+   "title": "Italy fines Meta €805m over accessing users' photos",
+   "summary": [
+    "The social media giant is accused of not informing 20 million users it had access to their photos."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-14T18:28:06Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "cb83a78f24c53263a9cfa85e705924e654e8ea3e",
    "title": "Got an iPhone Duo? These 9 settings make it easier to use",
    "summary": [
@@ -395,19 +465,6 @@
    "related": []
   },
   {
-   "id": "0981be9212e15dfdd23c79f90e607ff0ec22d5f4",
-   "title": "A family tree of software job titles",
-   "summary": [
-    "Article URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/ Comments URL: https://news.ycombinator.com/item?id=50499038 Points: 386 # Comments: 192"
-   ],
-   "source": "Hacker News",
-   "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-   "image": null,
-   "published_at": "2026-11-14T17:45:19Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "6c79d69422dbc183336ce5177c05b2733dfd0bc8",
    "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
    "summary": [
@@ -417,19 +474,6 @@
    "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
    "image": null,
    "published_at": "2026-11-14T17:45:04Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "9f394f52c81397194e4177c1acfef8ddde929a0f",
-   "title": "Lovable apps expose passport details and more than 200K private messages",
-   "summary": [
-    "Article URL: https://www.crissyfield.de/research/lovable-en/ Comments URL: https://news.ycombinator.com/item?id=50499017 Points: 941 # Comments: 360"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.crissyfield.de/research/lovable-en/",
-   "image": null,
-   "published_at": "2026-11-14T17:43:10Z",
    "category": "tech",
    "related": []
   },
@@ -484,19 +528,6 @@
    "url": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
    "image": "https://i.guim.co.uk/img/media/6e00c0e827484eda171fc2f542c59ea59f98fec9/397_0_4924_3939/master/4924.jpg?width=140&quality=85&auto=format&fit=max&s=2bb5ac39c36c26222c851cdb1633b29f",
    "published_at": "2026-11-14T11:54:31Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "a87af2f6d322bc3a975ca68d2ff5d334a3a0ae0e",
-   "title": "Microsoft says services fully restored after day-long global outage",
-   "summary": [
-    "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-14T06:42:27Z",
    "category": "tech",
    "related": []
   }
