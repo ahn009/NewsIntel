@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T21:22:08.902380Z",
+ "generated_at": "2026-11-15T01:46:48.039374Z",
  "story_count": 11,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -23,6 +23,19 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "eaa5ba53ff33265f134f6fbeef313edfd693f139",
+   "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+   "summary": [
+    "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-15T00:01:07Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "7fc09f81a94f4d0bf8bfd3b562e72fb4b3a2e249",
    "title": "Football kit giveaway aims to boost participation",
@@ -151,19 +164,6 @@
    "url": "https://www.bbc.co.uk/news/videos/cw772xkxjm37o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-13T14:16:09Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "4ba6ba3a8b61b1ab6a1dad2443e894f35f05dc28",
-   "title": "Global oil supply returns to surplus for first time since start of Iran war, says IEA",
-   "summary": [
-    "Supplies outstripped demand by almost 2m barrels a day in October as market shows ‘tentative signs of rebalancing’The world’s oil supply is swinging back to a surplus for the first time since the start of the US-Israeli war against Iran, the International Energy Agency (IEA) has said.Oil supplies outstripped demand by almost 2m barrels a day in October, the Paris-based agency said, as “Gulf exports recovered much faster than global oil demand”."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/13/global-oil-supply-returns-to-surplus-for-first-time-since-start-of-iran-war-says-iea",
-   "image": "https://i.guim.co.uk/img/media/5b2b569f416b13096426488b7fd081de3679354e/759_0_4585_3669/master/4585.jpg?width=140&quality=85&auto=format&fit=max&s=36a563ead8599d4104ca2e8aee341c08",
-   "published_at": "2026-11-13T13:35:45Z",
    "category": "business",
    "related": []
   }

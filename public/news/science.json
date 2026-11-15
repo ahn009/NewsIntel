@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-14T21:22:08.902684Z",
- "story_count": 15,
+ "generated_at": "2026-11-15T01:46:48.039626Z",
+ "story_count": 12,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,37 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "384a447ff2486d17729e272017a36060e75904be",
+   "title": "SpaceX catches part of its Starship rocket on return to Earth",
+   "summary": [
+    "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\"."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/cw23j8pkk421o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-14T23:15:10Z",
+   "category": "science",
+   "related": [
+    {
+     "source": "BBC News",
+     "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss"
+    }
+   ]
+  },
+  {
+   "id": "e08c8514556ba9f51d5fc5d4bab668cad9e44ad9",
+   "title": "SpaceX successfully catches top of huge Starship rocket for first time",
+   "summary": [
+    "The rocket stage was caught mid air using huge mechanical arms nicknamed “chopsticks”."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-14T22:15:52Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "df42fd5a269814bb72a98703b158781b823f9582",
    "title": "Scientists find a simple daily routine linked to less pain and depression",
@@ -157,78 +188,6 @@
    "url": "https://www.bbc.co.uk/news/articles/ckx28ly7y387o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-13T14:39:06Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "673e1144cf7215bfa9772b6a71ec0d856861e15e",
-   "title": "Scientists discover a hidden danger of viral infections that vaccines may prevent",
-   "summary": [
-    "A new study reveals that viral infections may leave behind hidden damage to the immune system long after symptoms disappear.",
-    "Researchers found that mice recovering from an acute infection experienced lasting changes to their spleens and weakened immune responses, potentially leaving them more vulnerable to future threats.",
-    "Surprisingly, prior vaccination completely prevented these harmful changes in the mouse model."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261112025531.htm",
-   "image": null,
-   "published_at": "2026-11-13T12:55:11Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "1df1c4520b1a217807381e71a540072510a657a7",
-   "title": "Summer heatwave put bin crews lives at risk, says council worker",
-   "summary": [
-    "Crews faced a \"perfect storm\" of challenges during the UK's record-breaking weather, it's claimed."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cj1dv5q21wdxo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-13T12:03:04Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "3cebc2227579dcc93bd9e2167503fd0f4efe0ff5",
-   "title": "Superheated magma could fuel towering lava fountains",
-   "summary": [
-    "Why do some volcanoes erupt with spectacular lava fountains while others release lava more quietly?",
-    "Scientists have discovered that a hidden effect of extreme heat inside magma may help explain the difference.",
-    "Experiments revealed that superheated magma can delay crystal formation for more than eight hours, compared with just 20 minutes in magma that has not been superheated."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261111221811.htm",
-   "image": null,
-   "published_at": "2026-11-13T11:56:39Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "bcd1b15318a873c942e54bd85fe194d6feb34548",
-   "title": "Dark energy may have flipped from negative to positive 9.5 billion years ago",
-   "summary": [
-    "A mysterious force driving the expansion of the Universe may have undergone a dramatic reversal billions of years ago.",
-    "Scientists exploring an overlooked branch of an alternative gravity theory discovered that dark energy could have switched from negative to positive roughly 9.5 billion years ago, potentially changing how we understand cosmic history."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261111005901.htm",
-   "image": null,
-   "published_at": "2026-11-13T11:08:34Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "6111ca3be9f4b18fbba70e0a17613197b1be456c",
-   "title": "The Sun unleashed a monster storm. Earth may have made it worse",
-   "summary": [
-    "The massive solar storm that illuminated skies worldwide in May 2024 has uncovered an unexpected twist: Earth's own atmosphere may have helped make the storm so powerful.",
-    "Satellite measurements revealed that roughly 85% of the charged particles fueling the disturbance originated from Earth's upper atmosphere rather than the solar wind.",
-    "Scientists also detected an extraordinary 40% weakening of Earth's magnetic field high above the planet."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261111005905.htm",
-   "image": null,
-   "published_at": "2026-11-13T09:49:36Z",
    "category": "science",
    "related": []
   }
