@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-16T09:28:39.474906Z",
- "story_count": 34,
+ "generated_at": "2026-11-16T20:19:52.865096Z",
+ "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -24,455 +24,525 @@
  },
  "stories": [
   {
-   "id": "b24ba7ef8136a249395166e0d777b4dcf1b0e48e",
-   "title": "Apple MacBook Pro M6 review: probably the last of its generation",
+   "id": "773cc78ee17a96315c050fb9f876b87849b298c5",
+   "title": "California state AG sues OpenAI over rogue agent incidents",
    "summary": [
-    "Costing from £1,999 (€2,299/$1,999/A$3,199) it is £300 or equivalent more than its predecessor as RAMageddon continues to jack up prices."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/16/apple-macbook-pro-m6-review-battery-laptop",
-   "image": "https://i.guim.co.uk/img/media/4c96b521558527ff717e681f29a7b57c2290d1c5/876_477_5176_4141/master/5176.jpg?width=140&quality=85&auto=format&fit=max&s=47df7c2c086a84cc08483ce1acf64604",
-   "published_at": "2026-11-16T07:00:36Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "caaf86bfdecbfe6cba8af3a4b279b0ce54795c68",
-   "title": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots",
-   "summary": [
-    "Operator-led VC firm Plural has raised €1 billion in new capital ($1.1 billion), joining a growing cohort of larger European funds that also includes Mundi Ventures’ Kembara and EQT-managed Scaleup Europe Fund."
+    "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident"
    ],
    "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
+   "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
    "image": null,
-   "published_at": "2026-11-16T07:00:00Z",
+   "published_at": "2026-11-16T20:07:13Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "d9a15b4078d3c98e83c56e75b629f0b9beaf4571",
-   "title": "How to make almost anything",
+   "id": "bab196017dd6952df630b60f5e03d53c28f0e66b",
+   "title": "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach",
    "summary": [
-    "Article URL: https://pub.cba.mit.edu/863.26/site/ Comments URL: https://news.ycombinator.com/item?id=50514470 Points: 241 # Comments: 42"
+    "The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was stolen during a security incident."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+   "image": null,
+   "published_at": "2026-11-16T19:53:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "c42f288828a27fae440ef870a89d4e653d3fe585",
+   "title": "How to Intercept HTTP/3 Traffic: QUIC and Qpack",
+   "summary": [
+    "Article URL: https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/ Comments URL: https://news.ycombinator.com/item?id=50521870 Points: 11 # Comments: 0"
    ],
    "source": "Hacker News",
-   "url": "https://pub.cba.mit.edu/863.26/site/",
+   "url": "https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/",
    "image": null,
-   "published_at": "2026-11-16T05:50:37Z",
+   "published_at": "2026-11-16T19:29:17Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "d910a6ab4df7ec208f3d39e7210ca63edf83f7bf",
-   "title": "Did the Apollo Guidance Computer use 60% of the ICs in 1963?",
+   "id": "2d2a6cb0f0379b3f054ee4a0d92b199d588a71aa",
+   "title": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID",
    "summary": [
-    "Article URL: https://retrocomputing.stackexchange.com/questions/12158/did-the-apollo-guidance-computer-really-use-60-of-the-worlds-ics-in-1963 Comments URL: https://news.ycombinator.com/item?id=50514257 Points: 10 # Comments: 1"
+    "Apple's latest iOS 27.3 developer beta introduces a limited face unlock feature for the iPhone Duo, alongside other improvements."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/",
+   "image": null,
+   "published_at": "2026-11-16T19:26:55Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "668b96b1a1259e1f683f50e35280901c6f0ca06b",
+   "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+   "summary": [
+    "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+   "image": null,
+   "published_at": "2026-11-16T19:12:02Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "6d305c8ad8ef7bb5652f888fffaaccecdf87ba44",
+   "title": "Island is a new screen-time app that turns staying off your phone into a game",
+   "summary": [
+    "YC-backed Island turns screen time goals into a farming game, rewarding users with new crops, animals, and more when they stick to their limits."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/",
+   "image": null,
+   "published_at": "2026-11-16T18:54:18Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "13f7e0f611d760038b7dc71c6eee21942ec772e3",
+   "title": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle",
+   "summary": [
+    "Article URL: https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda Comments URL: https://news.ycombinator.com/item?id=50521045 Points: 336 # Comments: 225"
    ],
    "source": "Hacker News",
-   "url": "https://retrocomputing.stackexchange.com/questions/12158/did-the-apollo-guidance-computer-really-use-60-of-the-worlds-ics-in-1963",
+   "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
    "image": null,
-   "published_at": "2026-11-16T05:05:54Z",
+   "published_at": "2026-11-16T18:31:30Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "5af61bdf64cbcb688db695be1b2efb6174acbbb0",
-   "title": "Debian Becomes Unresponsive after 6.1.0-55 Kernel Update",
+   "id": "d74978be6a0c7a345f0435615b7aa2d1f11c5820",
+   "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin Gigafactory expansion",
    "summary": [
-    "Article URL: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101 Comments URL: https://news.ycombinator.com/item?id=50514180 Points: 84 # Comments: 22"
+    "Tesla is putting Europe on its Cybercab roadmap with a €3 billion expansion of its Berlin Gigafactory."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/",
+   "image": null,
+   "published_at": "2026-11-16T18:21:14Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "091bb6b0dfa7dbc173bebd3ea9771e67a1276a85",
+   "title": "Software is breaking down at a systemic level",
+   "summary": [
+    "Article URL: https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/ Comments URL: https://news.ycombinator.com/item?id=50520866 Points: 173 # Comments: 104"
    ],
    "source": "Hacker News",
-   "url": "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101",
+   "url": "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/",
    "image": null,
-   "published_at": "2026-11-16T04:53:06Z",
+   "published_at": "2026-11-16T18:17:17Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "4a1b1b445fa8ecb9c19da79f21663308b91c1ec8",
-   "title": "Stop Filming in Log",
+   "id": "b1c71d07875ac772d826f89afdf2886a79e196cc",
+   "title": "OpenAI: Strengthening the fight against online child sexual abuse",
    "summary": [
-    "Article URL: https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/ Comments URL: https://news.ycombinator.com/item?id=50514093 Points: 49 # Comments: 33"
+    "Article URL: https://openai.com/index/strengthening-online-child-safety/ Comments URL: https://news.ycombinator.com/item?id=50520804 Points: 37 # Comments: 62"
    ],
    "source": "Hacker News",
-   "url": "https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/",
+   "url": "https://openai.com/index/strengthening-online-child-safety/",
    "image": null,
-   "published_at": "2026-11-16T04:37:03Z",
+   "published_at": "2026-11-16T18:12:48Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "443332a55fcd8c9ed143f21148d77ade68412ae8",
-   "title": "Investors sue chip giant Intel after 29% stock plunge",
+   "id": "adc690e60e2014e690f316114c12fcfb4e0dac5f",
+   "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
    "summary": [
-    "A proposed class action says Intel hid the impact of slowing sales, inflating its shares."
+    "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+   "image": null,
+   "published_at": "2026-11-16T18:11:10Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "894822f864c44c59832e750089d6505a6e505104",
+   "title": "Just 400 US Data Centers Use More Electricity Than Michigan",
+   "summary": [
+    "Article URL: https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/ Comments URL: https://news.ycombinator.com/item?id=50520697 Points: 59 # Comments: 49"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/",
+   "image": null,
+   "published_at": "2026-11-16T18:04:55Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "74cc72d78a5837a661ca191abe6af1cec58f5e27",
+   "title": "Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself",
+   "summary": [
+    "Article URL: https://copyrightlately.com/michael-mann-heat-copyright-termination/ Comments URL: https://news.ycombinator.com/item?id=50520518 Points: 42 # Comments: 7"
+   ],
+   "source": "Hacker News",
+   "url": "https://copyrightlately.com/michael-mann-heat-copyright-termination/",
+   "image": null,
+   "published_at": "2026-11-16T17:52:23Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "030a040e02b27922c6e9b8b3681f21b81b0f2f5d",
+   "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
+   "summary": [
+    "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+   "image": null,
+   "published_at": "2026-11-16T17:36:43Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "8e267f6ad75dde474e2df40f123ea103b10ea815",
+   "title": "Aristotle Expands into Rust",
+   "summary": [
+    "Article URL: https://www.harmonic.fun/news/aristotle-rust-verification/ Comments URL: https://news.ycombinator.com/item?id=50520270 Points: 52 # Comments: 31"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.harmonic.fun/news/aristotle-rust-verification/",
+   "image": null,
+   "published_at": "2026-11-16T17:34:41Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "fd2df089a059d2fb885efba4737feda05f0eb6e6",
+   "title": "Grazing sheep in fields with solar arrays",
+   "summary": [
+    "Article URL: https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains Comments URL: https://news.ycombinator.com/item?id=50520182 Points: 125 # Comments: 107"
+   ],
+   "source": "Hacker News",
+   "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+   "image": null,
+   "published_at": "2026-11-16T17:27:46Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "fc9e3949e7a5fae4725271077b86b2220511798c",
+   "title": "How Billions in Safe Insurance Money Is Being Bet on A.I. Debt",
+   "summary": [
+    "Article URL: https://www.nytimes.com/2026/11/16/business/insurance-ai-debt.html Comments URL: https://news.ycombinator.com/item?id=50520148 Points: 34 # Comments: 4"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.nytimes.com/2026/11/16/business/insurance-ai-debt.html",
+   "image": null,
+   "published_at": "2026-11-16T17:25:35Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "d3a67d4f7f1ae331cee994146edc8a0d62c8ee9b",
+   "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+   "summary": [
+    "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+   "image": null,
+   "published_at": "2026-11-16T17:10:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "99f66f454c3bc11f9760d5c65fb78abb909825b2",
+   "title": "OpenAI will embed safety researchers to investigate AI subversion",
+   "summary": [
+    "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+   "image": null,
+   "published_at": "2026-11-16T17:02:43Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "8c824024c9147b945c7ba7bf2f46364c0572f489",
+   "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+   "summary": [
+    "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning"
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+   "image": null,
+   "published_at": "2026-11-16T17:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "aea96a823e22388715aa2bb9bd3166096a72786e",
+   "title": "Instagram now lets creators add Amazon affiliate links in reels and feed posts",
+   "summary": [
+    "While creators have long shared Amazon affiliate links through stories, DMs, and their bios, the new integration brings them to new parts of the app."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/",
+   "image": null,
+   "published_at": "2026-11-16T17:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "36cf899b1962ca458278be2d442587bf9a4714c5",
+   "title": "Jiff 1.0: A datetime library for Rust",
+   "summary": [
+    "Article URL: https://burntsushi.net/jiff/ Comments URL: https://news.ycombinator.com/item?id=50519744 Points: 196 # Comments: 46"
+   ],
+   "source": "Hacker News",
+   "url": "https://burntsushi.net/jiff/",
+   "image": null,
+   "published_at": "2026-11-16T16:53:39Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "048976bfa01b4f9cb1a5d9dd6b72df806e8af11b",
+   "title": "Frame – 31.5\" color ePaper display",
+   "summary": [
+    "Article URL: https://trmnl.com/blog/introducing-frame Comments URL: https://news.ycombinator.com/item?id=50519354 Points: 137 # Comments: 73"
+   ],
+   "source": "Hacker News",
+   "url": "https://trmnl.com/blog/introducing-frame",
+   "image": null,
+   "published_at": "2026-11-16T16:23:22Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "b16f98105c1be1c800cc200ae1083c5dd517c10e",
+   "title": "Jolt – Clojure that speaks C",
+   "summary": [
+    "Article URL: https://jolt-lang.net/ Comments URL: https://news.ycombinator.com/item?id=50519345 Points: 50 # Comments: 12"
+   ],
+   "source": "Hacker News",
+   "url": "https://jolt-lang.net/",
+   "image": null,
+   "published_at": "2026-11-16T16:23:01Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ebd9eb94963902d268e98b387f55dc19a0c20460",
+   "title": "First phase of embedded assessments at OpenAI",
+   "summary": [
+    "Article URL: https://openai.com/index/our-first-phase-of-embedded-assessments/ Comments URL: https://news.ycombinator.com/item?id=50519153 Points: 18 # Comments: 4"
+   ],
+   "source": "Hacker News",
+   "url": "https://openai.com/index/our-first-phase-of-embedded-assessments/",
+   "image": null,
+   "published_at": "2026-11-16T16:07:20Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "293dc9830e21c9020749d6623b00da69a3e31ef7",
+   "title": "Serena Williams winds down her VC firm, launches new fund, seeks $200M",
+   "summary": [
+    "Serena Williams and longtime business partner Beth Ferreira announced Monday the launch of an early-stage firm called Starfire Ventures."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m/",
+   "image": null,
+   "published_at": "2026-11-16T16:06:30Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ddcd7a9ae2443227b1c2f1a823a0978e35e7ba54",
+   "title": "AI models ‘weak and fallible’ on climate science, UN-backed study reports",
+   "summary": [
+    "While mostly accurate describing simple facts, models pivoted to denial and wrong answers when challengedCop31 live – latest updatesArtificial intelligence models can quickly turn into climate crisis deniers at the mildest challenge from users, according to a new UN-backed study.While AI models can accurately confirm simple facts about climate change, eight times out of 10 when they pivoted to a wrong answer, they did so “at the very first sign that the user mildly disagreed” to confirm incorrect statements such as “CO2 is not the main driver of climate change”."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/2026/nov/16/ai-models-fallible-denial-climate-science-unesco-cop31",
+   "image": "https://i.guim.co.uk/img/media/8a8dda7a7c4cd1ba14ec104f348c597ef0af837d/158_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=8eb7a2c8a68a8762d7e682153f2e98cd",
+   "published_at": "2026-11-16T16:05:58Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "6516c66961953bb6289c30fbf9129ad9cf55bcf7",
+   "title": "Audible turns to AI to help users discover audiobooks",
+   "summary": [
+    "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+   "image": null,
+   "published_at": "2026-11-16T15:52:19Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "dff1634ca8099d01f223d713d674d852780f4673",
+   "title": "Psychic: Like fzf but learns from your actions",
+   "summary": [
+    "Article URL: https://klauria.tech/psychic/ Comments URL: https://news.ycombinator.com/item?id=50518690 Points: 23 # Comments: 7"
+   ],
+   "source": "Hacker News",
+   "url": "https://klauria.tech/psychic/",
+   "image": null,
+   "published_at": "2026-11-16T15:33:34Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "1df21d2e2c7164f784bb4db08872acf5d2ab749c",
+   "title": "Nvidia was in trouble before the Jensen Huang mess",
+   "summary": [
+    "Article URL: https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/ Comments URL: https://news.ycombinator.com/item?id=50518567 Points: 174 # Comments: 164"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+   "image": null,
+   "published_at": "2026-11-16T15:24:09Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "9b03afbd3b9fa6c0f7c20c33e14ffab316d78225",
+   "title": "Killer tunes: how Grand Theft Auto conquered the music world",
+   "summary": [
+    "Featuring hundreds of songs from the hippest real-world artists, the radio stations in Rockstar’s crime sagas are as hotly anticipated as the storylines.",
+    "Their soundtracks, relayed mostly via in-game radio stations, are manifold.",
+    "For acclaimed electronic musician Flying Lotus, it is all the hours he spent cavorting around 2004’s San Andreas that remain special. “It felt like the first time a game saw a different side of culture – black culture,” he says over the phone. “It felt like we were being seen."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/games/2026/nov/16/auto-tunes-music-grand-theft-auto-conquered-zeitgeist-gta",
+   "image": "https://i.guim.co.uk/img/media/653be1d2025e6e81bbe8942259f72ca29936769c/400_0_2698_2160/master/2698.jpg?width=140&quality=85&auto=format&fit=max&s=553ccea1038b66d524711f3fce6f946e",
+   "published_at": "2026-11-16T15:03:38Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "772ccdf8e8c79868f9b8615facca1fc62fc1c0f5",
+   "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+   "summary": [
+    "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+   "image": null,
+   "published_at": "2026-11-16T15:02:34Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "5c136724c0dea2114354ce4b763debe6f3c1d684",
+   "title": "Google Maps can now build trip itineraries with real-time details about each stop",
+   "summary": [
+    "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+   "image": null,
+   "published_at": "2026-11-16T14:48:13Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "7c66c91ff779b20b2ce01091da63946928069abf",
+   "title": "A 512 KiB binary message teaching chess without a shared language",
+   "summary": [
+    "Article URL: https://artemlegotin.com/golden-board/ Comments URL: https://news.ycombinator.com/item?id=50518068 Points: 37 # Comments: 6"
+   ],
+   "source": "Hacker News",
+   "url": "https://artemlegotin.com/golden-board/",
+   "image": null,
+   "published_at": "2026-11-16T14:38:54Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "be9818d4acab693bcbc4aad67cb5b37c66df1380",
+   "title": "The Active Directory Era Is Finally Over",
+   "summary": [
+    "Article URL: https://infisical.com/blog/active-directory-machine-identity Comments URL: https://news.ycombinator.com/item?id=50517815 Points: 91 # Comments: 60"
+   ],
+   "source": "Hacker News",
+   "url": "https://infisical.com/blog/active-directory-machine-identity",
+   "image": null,
+   "published_at": "2026-11-16T14:15:31Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "12e3b776e30bc1d965ebd98aa571bbab9fbaaa26",
+   "title": "Mazama Energy has a solution for geothermal’s biggest drilling problem",
+   "summary": [
+    "Khosla-backed Mazama Energy has developed a new way to supercool its geothermal drill bits, letting it drill faster and deeper in a quest to bring down the cost of electricity."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/16/mazama-energy-has-a-solution-for-geothermals-biggest-drilling-problem/",
+   "image": null,
+   "published_at": "2026-11-16T14:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "b3d1130490a97f61913f5c22b5539ef889b9afce",
+   "title": "Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings",
+   "summary": [
+    "Article URL: http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/ Comments URL: https://news.ycombinator.com/item?id=505"
+   ],
+   "source": "Hacker News",
+   "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
+   "image": null,
+   "published_at": "2026-11-16T13:39:07Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "9255e5d8b08b8cc20729625601347aef0ea51d10",
+   "title": "GTA 6 hacker pleads guilty after release from secure hospital",
+   "summary": [
+    "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager."
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-16T03:04:01Z",
+   "published_at": "2026-11-16T13:34:22Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "0a2c564cc13680afdcbfd750a510de600aaa6b1a",
-   "title": "Universal XSS in uBlock Origin from website-driven element picker",
+   "id": "f89cd0c3d555933ee0733913b9f232d35a7d90f0",
+   "title": "Microsoft blames monster email outage on software defect introduced in July fix",
    "summary": [
-    "Article URL: https://iter.ca/post/ubo-uxss/ Comments URL: https://news.ycombinator.com/item?id=50513160 Points: 344 # Comments: 94"
+    "Article URL: https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026 Comments URL: https://news.ycombinator.com/item?id=50517321 Points: 74 # Comments: 64"
    ],
    "source": "Hacker News",
-   "url": "https://iter.ca/post/ubo-uxss/",
+   "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
    "image": null,
-   "published_at": "2026-11-16T02:04:48Z",
+   "published_at": "2026-11-16T13:18:22Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "09862cd7036c613367fe7bff97dc12ef222fde83",
-   "title": "Apple launches new app to study how people use AI for health",
+   "id": "01356b7b90cca8a8492a26c9e5024f4ed8bd8582",
+   "title": "After dodging death, battery startup Our Next Energy is now going public",
    "summary": [
-    "Apple's new app for a study will answer everyday medical questions"
+    "Our Next Energy is the latest battery startup to go public via SPAC.",
+    "Does it now have what it needs to survive in the cutthroat battery industry?"
    ],
    "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+   "url": "https://techcrunch.com/2026/11/16/after-dodging-death-battery-startup-our-next-energy-is-now-going-public/",
    "image": null,
-   "published_at": "2026-11-16T01:30:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "169d29ca781edf518baf3d1963f9a02bb0776f41",
-   "title": "Coles hit by a cybersecurity incident",
-   "summary": [
-    "Article URL: https://www.colesgroup.com.au/updates/ Comments URL: https://news.ycombinator.com/item?id=50512824 Points: 103 # Comments: 78"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.colesgroup.com.au/updates/",
-   "image": null,
-   "published_at": "2026-11-16T01:14:35Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "83b3b2200438f2945500bb22c96c9998862307b9",
-   "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
-   "summary": [
-    "Article URL: https://forum.torproject.org/t/security-release-0-4-9-17/22454 Comments URL: https://news.ycombinator.com/item?id=50512441 Points: 143 # Comments: 42"
-   ],
-   "source": "Hacker News",
-   "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
-   "image": null,
-   "published_at": "2026-11-16T00:21:54Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "2bfebb9afa935fe6a598398e664e1397d8036898",
-   "title": "Skydio's asymmetrical F10 Lightrunner solves a problem with fixed-wing drones",
-   "summary": [
-    "Article URL: https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone Comments URL: https://news.ycombinator.com/item?id=50512296 Points: 41 # Comments: 3"
-   ],
-   "source": "Hacker News",
-   "url": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
-   "image": null,
-   "published_at": "2026-11-16T00:03:12Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "2f404cbfd468f7e9d20d8f722c06604ddad4cbe0",
-   "title": "Reports of AI-related child sexual abuse material rise 8,400% in two years, data shows",
-   "summary": [
-    "Calls for governments to recognise sexual exploitation of children as preventable public health emergencyReports of artificial intelligence being used to sexually exploit children have risen by more than 8,400% in two years, research has found.A report by the Edinburgh-based Childlight – Global Child Safety Institute says AI-related child abuse material, including deepfakes using “nudify apps”, had risen from about 4,700 in 2023 to more than 400,000 in 2025."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes",
-   "image": "https://i.guim.co.uk/img/media/290c54f9326fd6704518afe33633827e4920b4e8/255_0_1269_1015/master/1269.jpg?width=140&quality=85&auto=format&fit=max&s=f5ee8eea520d92549e7558481c7ad85a",
-   "published_at": "2026-11-16T00:01:27Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "0c1ace05fa38a1a6d61b1932593ffc0d7dcacf3d",
-   "title": "Parcel: A desktop mail client for Linux, built with Zig",
-   "summary": [
-    "Article URL: https://tangled.org/rockorager.dev/parcel Comments URL: https://news.ycombinator.com/item?id=50512218 Points: 31 # Comments: 5"
-   ],
-   "source": "Hacker News",
-   "url": "https://tangled.org/rockorager.dev/parcel",
-   "image": null,
-   "published_at": "2026-11-15T23:54:39Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "fc91828979fbf24c464412bb305af75974558950",
-   "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-   "summary": [
-    "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-   "image": null,
-   "published_at": "2026-11-15T23:30:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "28b10992cceb64493db1636d6954528e27704b76",
-   "title": "Preserving 30 years of Salon journalism",
-   "summary": [
-    "Article URL: https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/ Comments URL: https://news.ycombinator.com/item?id=50511806 Points: 146 # Comments: 38"
-   ],
-   "source": "Hacker News",
-   "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
-   "image": null,
-   "published_at": "2026-11-15T23:00:11Z",
-   "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "https://qwen.ai/blog?id=qwen4-max"
-    }
-   ]
-  },
-  {
-   "id": "28631383103972f63c683a22090da76e52abe49a",
-   "title": "Old Bitly links are being hijacked",
-   "summary": [
-    "Article URL: https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/ Comments URL: https://news.ycombinator.com/item?id=50511395 Points: 277 # Comments: 143"
-   ],
-   "source": "Hacker News",
-   "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
-   "image": null,
-   "published_at": "2026-11-15T22:11:43Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "2cb612de9116082ae32c5c2bc2297c343b9a9e96",
-   "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-   "summary": [
-    "And so much of this economy is riding on Nvidia.\""
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-   "image": null,
-   "published_at": "2026-11-15T21:56:35Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "1a811a22b701406e39cc2891fcc2f1927c44e968",
-   "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
-   "summary": [
-    "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
-   "image": null,
-   "published_at": "2026-11-15T20:20:57Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "b4260db782b8f2ad0f5c2d610c60076e45d79449",
-   "title": "WebGL Flight Simulator with seed generated terrain",
-   "summary": [
-    "Article URL: https://baron.by.dai.studio/ Comments URL: https://news.ycombinator.com/item?id=50510296 Points: 143 # Comments: 28"
-   ],
-   "source": "Hacker News",
-   "url": "https://baron.by.dai.studio/",
-   "image": null,
-   "published_at": "2026-11-15T20:20:05Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "966523945edb28bbdc2e3dc0dd7fb4e838a51ba5",
-   "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
-   "summary": [
-    "Article URL: https://bruceroettgers.eu/blog/protomaps/ Comments URL: https://news.ycombinator.com/item?id=50509837 Points: 325 # Comments: 56"
-   ],
-   "source": "Hacker News",
-   "url": "https://bruceroettgers.eu/blog/protomaps/",
-   "image": null,
-   "published_at": "2026-11-15T19:26:22Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "7c17e587ee6a2519a4aa2cdab9f4ade7a212f976",
-   "title": "Eclipse Mosquitto – An open source MQTT broker",
-   "summary": [
-    "Article URL: https://github.com/eclipse-mosquitto/mosquitto Comments URL: https://news.ycombinator.com/item?id=50509416 Points: 93 # Comments: 31"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/eclipse-mosquitto/mosquitto",
-   "image": null,
-   "published_at": "2026-11-15T18:36:40Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "357c9f3ea7eef160985518b45c24cf001f1963bd",
-   "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
-   "summary": [
-    "Article URL: https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html Comments URL: https://news.ycombinator.com/item?id=50509411 Points: 529 # Comments: 230"
-   ],
-   "source": "Hacker News",
-   "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
-   "image": null,
-   "published_at": "2026-11-15T18:36:10Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "3740fb708ac994b837b1c733b5f068bff33e79ad",
-   "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
-   "summary": [
-    "A new Kickstarter campaign aims to usher in the “return of the human internet.”"
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
-   "image": null,
-   "published_at": "2026-11-15T18:29:14Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "774f7412d1a369d1c04ab0bb964614cd55e7e294",
-   "title": "A short explainer on how El Niño works [video]",
-   "summary": [
-    "Article URL: https://www.youtube.com/watch?v=7_JF3etiAv8 Comments URL: https://news.ycombinator.com/item?id=50509308 Points: 234 # Comments: 105"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-   "image": null,
-   "published_at": "2026-11-15T18:23:21Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "7992364a840a6bc65b6ab6e6009d76d6d852dfd9",
-   "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
-   "summary": [
-    "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
-   "image": null,
-   "published_at": "2026-11-15T17:05:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "1ae8d637c25413619f053999bcbef63a73abacc1",
-   "title": "The tech products we enthusiastically recommend this holiday season",
-   "summary": [
-    "We've been reviewing a bunch of new gadgets at TechCrunch this year, and we have some clear favorites to share for your Black Friday shopping and beyond."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
-   "image": null,
-   "published_at": "2026-11-15T16:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "3f4c07423abdecbd03ef94ec73d3d213732cfc64",
-   "title": "‘Grand Theft Auto Flu’: is the whole world really taking the day off work to play GTA VI?",
-   "summary": [
-    "Headlines have claimed the release of the first new GTA game in 13 years will hugely affect the global economy on Thursday – but there’s another story that’s been left behindA new pandemic is threatening planet Earth.",
-    "It should pass in a few days.The anticipation for Grand Theft Auto VI, the first new game in the franchise in 13 years, is so high that a steady stream of news coverage has suggested it heralds economic catastrophe due to workers taking time off to play the game.",
-    "The term “GTA Flu” was coined for the swathe of sickies that reportedly happened when GTA V was released in 2013, and – supposedly – are set to happen again when GTA VI comes out this week."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/games/2026/nov/16/grand-theft-auto-gta-vi-first-new-game-released-in-13-years",
-   "image": "https://i.guim.co.uk/img/media/cad0cb203d4cb07169ebae435e7d4b9bf4f5096a/548_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=f9e5e16e2f9144dbfd137c4aace6276d",
-   "published_at": "2026-11-15T14:00:15Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "9d07b354d59a8769c729331cda24c4ee481a92c4",
-   "title": "Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI",
-   "summary": [
-    "As a student in Edinburgh at that time, I would hear rumours of wild parties at the executives’ houses, as decadent as those in the game.",
-    "Grand Theft Auto is now made by a huge team of nearly 5,000 people around the world but its central nervous system is still in Holyrood, in the shadow of Arthur’s Seat.The setting of the latest Grand Theft Auto game really could not be further from the Scottish capital.",
-    "Grand Theft Auto VI takes us to Vice City in the state of Leonida, a parody of Miami, Florida."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/games/ng-interactive/2026/nov/15/grand-theft-auto-vi-inside-rockstar-games",
-   "image": "https://i.guim.co.uk/img/media/bcaf21a5ea7f320d200cf89cb3e6d93d0bd16a0b/0_2377_7101_5677/master/7101.jpg?width=140&quality=85&auto=format&fit=max&s=993448de6a2c38a18864b8b50d5fd385",
-   "published_at": "2026-11-15T10:00:10Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "936ae24e1427a771b6ca95a03367c818fee5e2e6",
-   "title": "‘Prove you are not a robot’: how the Captcha scam captures your computer",
-   "summary": [
-    "Unlike familiar Captcha tests, this con asks you to press a series of keys.",
-    "And that’s a way in for fraudsters to install malicious softwareYou are looking for some gifts for Christmas and want to support small businesses when you shop.",
-    "When you visit the site of one you’ve heard good things about you are asked to verify that you are human.Instead of clicking on a series of images, or typing letters that appear, just as you have seen before, you are asked to press a series of keys and then press enter."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/money/2026/nov/15/captcha-scam-computer-malicious-software",
-   "image": "https://i.guim.co.uk/img/media/5bdb2471a5767826c1725b205b85b8d90e4b4f77/480_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=3e9246160e867f88ad574ac58ef48a00",
-   "published_at": "2026-11-15T07:00:06Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "2460d1d60ca9d447fdc4dfff09f4f84291227002",
-   "title": "‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick",
-   "summary": [
-    "Huang resigned on Thursday after 33 years as CEO amid reports of two additional affairs with Nvidia employees, causing the world’s most valuable chip company’s stock to plummet."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare",
-   "image": "https://i.guim.co.uk/img/media/c688291392ebfaa491e16553c6a42ec3ff3c5b77/0_541_2400_1919/master/2400.jpg?width=140&quality=85&auto=format&fit=max&s=d86f59594943d3e382cf380ea2fd4e71",
-   "published_at": "2026-11-15T06:00:06Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "e043f4cff3c928f2ffbbdf9a513049145406e3e7",
-   "title": "Italy fines Meta $887m for accessing Android users’ photos and videos",
-   "summary": [
-    "The fine is among the largest an Italian authority has imposed on a tech giant and Meta says it plans to appeal the decisionItaly’s data protection agency has fined Facebook parent company Meta €805m ($887m) for accessing users’ photos without their specific consent.Through the Facebook application for Android devices, Meta accessed photographs, videos and related metadata belonging to Italian users “without obtaining specific consent and without properly informing them”, the authority said in a statement."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/15/italy-fines-meta-887m-for-accessing-android-users-photos-and-videos",
-   "image": "https://i.guim.co.uk/img/media/425a7ddc9027cb19ae403783368047bbd261c48a/314_0_2872_2299/master/2872.jpg?width=140&quality=85&auto=format&fit=max&s=a21d148cf4521bdbbe4b16afaee635cc",
-   "published_at": "2026-11-15T02:02:01Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "cdf34d438f124e675638b8220f280dcbd745212a",
-   "title": "Where was Nvidia’s security team?",
-   "summary": [
-    "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday c"
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-   "image": null,
-   "published_at": "2026-11-15T00:08:07Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "9a736294c460795d30540e93613c6033487be240",
-   "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-   "summary": [
-    "The petition had attracted more than 115,000 signatures as of Saturday afternoon."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-   "image": null,
-   "published_at": "2026-11-14T21:41:22Z",
+   "published_at": "2026-11-16T13:00:00Z",
    "category": "tech",
    "related": []
   }
