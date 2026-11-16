@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-16T01:53:13.380371Z",
- "story_count": 13,
+ "generated_at": "2026-11-16T09:28:39.475544Z",
+ "story_count": 16,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,45 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "481dd769e4db6596964e297d019d21d140db16a4",
+   "title": "Yellow weather warnings issued for snow and ice as temperatures plummet",
+   "summary": [
+    "A spell of colder, wintry weather will grip some northern parts of the UK, bringing a threat of ice and hill snow at times."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/weather/articles/c6y97j2xq531o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-16T07:43:51Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "a1b953f4de220884bc126261851b3a2431a30e83",
+   "title": "Experts explore returning beavers to River Waveney",
+   "summary": [
+    "A trust says the river-dwelling mammals could improve the health of the waterway."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm3rglzqjl90o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-16T06:27:27Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "8f1adef489937c1025a061e2450e27066b622a1d",
+   "title": "Pupils fascinated by space get astronomy lesson",
+   "summary": [
+    "Pupils at First Tower School get a visit from a University of Cambridge astronomer."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c67428w9vvkqo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-16T06:11:42Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "3b08b117bc59c4097a3badf29c5b08e650d4a527",
    "title": "Vitamin C could help block cancer-linked chemicals in your stomach, study finds",

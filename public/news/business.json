@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-16T01:53:13.380151Z",
- "story_count": 6,
+ "generated_at": "2026-11-16T09:28:39.475343Z",
+ "story_count": 9,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -24,8 +24,47 @@
  },
  "stories": [
   {
+   "id": "7839cee2bcd52cd70bd2097cfb2caacdc3e2e357",
+   "title": "Gas starts flowing from Jackdaw after government green light",
+   "summary": [
+    "Ministers last month announced the Jackdaw gas field, which lies 150 miles east of Aberdeen, had been approved after years of uncertainty."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c9x2elzm047po?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-16T06:24:08Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "6d14598bb44cc0bcf01978337815e79db8e22cf2",
+   "title": "Thrift shop asks shoppers to nominate a charity",
+   "summary": [
+    "The owners want customers and donors to decide what charities benefit each month."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c804wp1y2ky1o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-16T06:03:39Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "50dc7205f6098009d6fa91ed319eff67a9ec7271",
+   "title": "'Break-in and rising costs could kill my business'",
+   "summary": [
+    "Gordon Kidd says if things do not improve financially, he fears his firm in Shifnal will go under."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c9n731r5mej5o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-16T05:57:19Z",
+   "category": "business",
+   "related": []
+  },
+  {
    "id": "5cf5b16ddc2a8e7895711a756735553b3c9e06d8",
-   "title": "Black Friday and tax return scams - don't fall for these",
+   "title": "Don't fall for this Black Friday scam - how to check it's a real deal",
    "summary": [
     "Tens of thousands of scams are reported to HMRC - so it has advice on how to spot a fake request and refund."
    ],
@@ -38,7 +77,7 @@
   },
   {
    "id": "fb6772df558222455e0904a05641d90b184f09f0",
-   "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+   "title": "Cut National Insurance for under-25s to create jobs, Milburn report to say",
    "summary": [
     "The report being launched this week will suggest gradually reducing employment costs over five years."
    ],
