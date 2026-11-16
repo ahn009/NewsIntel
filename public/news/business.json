@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-15T21:40:48.531623Z",
- "story_count": 3,
+ "generated_at": "2026-11-16T01:53:13.380151Z",
+ "story_count": 6,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,45 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "5cf5b16ddc2a8e7895711a756735553b3c9e06d8",
+   "title": "Black Friday and tax return scams - don't fall for these",
+   "summary": [
+    "Tens of thousands of scams are reported to HMRC - so it has advice on how to spot a fake request and refund."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-16T00:50:39Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "fb6772df558222455e0904a05641d90b184f09f0",
+   "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+   "summary": [
+    "The report being launched this week will suggest gradually reducing employment costs over five years."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-15T22:30:03Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "7953ff575be7b302b595540826f91e879929a075",
+   "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
+   "summary": [
+    "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-15T22:00:24Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "6283af300979e76bda513d1340d2ea4e5873b0e3",
    "title": "When the boss has an affair, the whole family business can pay the price",

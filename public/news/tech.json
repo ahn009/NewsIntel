@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-15T21:40:48.531021Z",
- "story_count": 38,
+ "generated_at": "2026-11-16T01:53:13.379559Z",
+ "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -24,28 +24,166 @@
  },
  "stories": [
   {
-   "id": "294a13221fad339b4c1b2df699a34f5e6da555b1",
-   "title": "Your Agent Will Pick the Hackable One",
+   "id": "09862cd7036c613367fe7bff97dc12ef222fde83",
+   "title": "Apple launches new app to study how people use AI for health",
    "summary": [
-    "Article URL: https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/ Comments URL: https://news.ycombinator.com/item?id=50510799 Points: 6 # Comments: 0"
+    "Apple's new app for a study will answer everyday medical questions"
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+   "image": null,
+   "published_at": "2026-11-16T01:30:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "169d29ca781edf518baf3d1963f9a02bb0776f41",
+   "title": "Coles hit by a cybersecurity incident",
+   "summary": [
+    "Article URL: https://www.colesgroup.com.au/updates/ Comments URL: https://news.ycombinator.com/item?id=50512824 Points: 5 # Comments: 0"
    ],
    "source": "Hacker News",
-   "url": "https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/",
+   "url": "https://www.colesgroup.com.au/updates/",
    "image": null,
-   "published_at": "2026-11-15T21:10:39Z",
+   "published_at": "2026-11-16T01:14:35Z",
    "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "https://joshblais.com/blog/emacs-as-my-browser/"
-    }
-   ]
+   "related": []
+  },
+  {
+   "id": "83b3b2200438f2945500bb22c96c9998862307b9",
+   "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+   "summary": [
+    "Article URL: https://forum.torproject.org/t/security-release-0-4-9-17/22454 Comments URL: https://news.ycombinator.com/item?id=50512441 Points: 14 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+   "image": null,
+   "published_at": "2026-11-16T00:21:54Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "2f404cbfd468f7e9d20d8f722c06604ddad4cbe0",
+   "title": "Reports of AI-related child sexual abuse material rise 8,400% in two years, data shows",
+   "summary": [
+    "Calls for governments to recognise sexual exploitation of children as preventable public health emergencyReports of artificial intelligence being used to sexually exploit children have risen by more than 8,400% in two years, research has found.A report by the Edinburgh-based Childlight – Global Child Safety Institute says AI-related child abuse material, including deepfakes using “nudify apps”, had risen from about 4,700 in 2023 to more than 400,000 in 2025."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes",
+   "image": "https://i.guim.co.uk/img/media/290c54f9326fd6704518afe33633827e4920b4e8/255_0_1269_1015/master/1269.jpg?width=140&quality=85&auto=format&fit=max&s=f5ee8eea520d92549e7558481c7ad85a",
+   "published_at": "2026-11-16T00:01:27Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "70fcd4b516bdae91ac8ac07b207dae29cb56e13e",
+   "title": "What's Next for Nvidia?",
+   "summary": [
+    "Article URL: https://steveblank.com/2026/11/15/whats-next-for-nvidia/ Comments URL: https://news.ycombinator.com/item?id=50512235 Points: 47 # Comments: 38"
+   ],
+   "source": "Hacker News",
+   "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+   "image": null,
+   "published_at": "2026-11-15T23:55:55Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "0c7c1f4d0fdc68e32525ddd8239afb90f99977ab",
+   "title": "Mini.nvim Is Now on Tangled",
+   "summary": [
+    "Article URL: https://tangled.org/nvim-mini.org/mini.nvim Comments URL: https://news.ycombinator.com/item?id=50512231 Points: 30 # Comments: 7"
+   ],
+   "source": "Hacker News",
+   "url": "https://tangled.org/nvim-mini.org/mini.nvim",
+   "image": null,
+   "published_at": "2026-11-15T23:55:41Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "fc91828979fbf24c464412bb305af75974558950",
+   "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+   "summary": [
+    "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+   "image": null,
+   "published_at": "2026-11-15T23:30:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "d636d94c5ddd4d12fc3dea0bae8bb47ea072d66e",
+   "title": "Jensen Huang might return to Nvidia as CEO",
+   "summary": [
+    "Article URL: https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/ Comments URL: https://news.ycombinator.com/item?id=50511982 Points: 131 # Comments: 118"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15/",
+   "image": null,
+   "published_at": "2026-11-15T23:24:53Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "28b10992cceb64493db1636d6954528e27704b76",
+   "title": "Preserving 30 Years of Salon Journalism",
+   "summary": [
+    "Article URL: https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/ Comments URL: https://news.ycombinator.com/item?id=50511806 Points: 69 # Comments: 15"
+   ],
+   "source": "Hacker News",
+   "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+   "image": null,
+   "published_at": "2026-11-15T23:00:11Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "88e80dbbb1094cad9f6f985b789824d7b0f94a65",
+   "title": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game",
+   "summary": [
+    "Article URL: https://lastcomplication.com/ Comments URL: https://news.ycombinator.com/item?id=50511718 Points: 42 # Comments: 5"
+   ],
+   "source": "Hacker News",
+   "url": "https://lastcomplication.com/",
+   "image": null,
+   "published_at": "2026-11-15T22:48:52Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "28631383103972f63c683a22090da76e52abe49a",
+   "title": "Old Bitly Links Are Being Hijacked",
+   "summary": [
+    "Article URL: https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/ Comments URL: https://news.ycombinator.com/item?id=50511395 Points: 163 # Comments: 83"
+   ],
+   "source": "Hacker News",
+   "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+   "image": null,
+   "published_at": "2026-11-15T22:11:43Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "2cb612de9116082ae32c5c2bc2297c343b9a9e96",
+   "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+   "summary": [
+    "And so much of this economy is riding on Nvidia.\""
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+   "image": null,
+   "published_at": "2026-11-15T21:56:35Z",
+   "category": "tech",
+   "related": []
   },
   {
    "id": "a850a5bee1633730ca374cf989ac3e35241fc303",
    "title": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
    "summary": [
-    "Article URL: https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch Comments URL: https://news.ycombinator.com/item?id=50510442 Points: 30 # Comments: 3"
+    "Article URL: https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch Comments URL: https://news.ycombinator.com/item?id=50510442 Points: 113 # Comments: 56"
    ],
    "source": "Hacker News",
    "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
@@ -71,7 +209,7 @@
    "id": "b4260db782b8f2ad0f5c2d610c60076e45d79449",
    "title": "WebGL Flight Simulator with seed generated terrain",
    "summary": [
-    "Article URL: https://baron.by.dai.studio/ Comments URL: https://news.ycombinator.com/item?id=50510296 Points: 5 # Comments: 0"
+    "Article URL: https://baron.by.dai.studio/ Comments URL: https://news.ycombinator.com/item?id=50510296 Points: 91 # Comments: 11"
    ],
    "source": "Hacker News",
    "url": "https://baron.by.dai.studio/",
@@ -81,15 +219,17 @@
    "related": []
   },
   {
-   "id": "363403846a59849b8501917b2b130b8dcbc6351f",
-   "title": "Do House members' stock trades beat the market? A test of 8,900 trades",
+   "id": "49db83e253edbf0771d468b99bafbdd0476979fa",
+   "title": "Ask HN: Stripe closed us after one $1,500 invoice and never asked for evidence",
    "summary": [
-    "Article URL: https://arkanumdata.com/research/house-trades Comments URL: https://news.ycombinator.com/item?id=50510005 Points: 75 # Comments: 54"
+    "That $1 payment went through.A few weeks later we invoiced him $1,500 for 3 completed appointments and charged the saved card.",
+    "It's a new account, the first real charge was large compared to the $1 test, and billing a saved card later is probably what looked wrong.",
+    "Is there anyone at Stripe who can look at this with the evidence, including getting the client on a call?2."
    ],
    "source": "Hacker News",
-   "url": "https://arkanumdata.com/research/house-trades",
+   "url": "https://news.ycombinator.com/item?id=50510042",
    "image": null,
-   "published_at": "2026-11-15T19:46:02Z",
+   "published_at": "2026-11-15T19:49:28Z",
    "category": "tech",
    "related": []
   },
@@ -97,7 +237,7 @@
    "id": "e873ffb37f963a8d17c3610630095f55c729c69b",
    "title": "Handwriting, as a Font",
    "summary": [
-    "Article URL: https://ductus.sorenblank.com Comments URL: https://news.ycombinator.com/item?id=50509972 Points: 4 # Comments: 0"
+    "Article URL: https://ductus.sorenblank.com Comments URL: https://news.ycombinator.com/item?id=50509972 Points: 123 # Comments: 30"
    ],
    "source": "Hacker News",
    "url": "https://ductus.sorenblank.com",
@@ -110,7 +250,7 @@
    "id": "966523945edb28bbdc2e3dc0dd7fb4e838a51ba5",
    "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
    "summary": [
-    "Article URL: https://bruceroettgers.eu/blog/protomaps/ Comments URL: https://news.ycombinator.com/item?id=50509837 Points: 22 # Comments: 6"
+    "Article URL: https://bruceroettgers.eu/blog/protomaps/ Comments URL: https://news.ycombinator.com/item?id=50509837 Points: 160 # Comments: 38"
    ],
    "source": "Hacker News",
    "url": "https://bruceroettgers.eu/blog/protomaps/",
@@ -123,7 +263,7 @@
    "id": "7c17e587ee6a2519a4aa2cdab9f4ade7a212f976",
    "title": "Eclipse Mosquitto – An open source MQTT broker",
    "summary": [
-    "Article URL: https://github.com/eclipse-mosquitto/mosquitto Comments URL: https://news.ycombinator.com/item?id=50509416 Points: 40 # Comments: 12"
+    "Article URL: https://github.com/eclipse-mosquitto/mosquitto Comments URL: https://news.ycombinator.com/item?id=50509416 Points: 64 # Comments: 28"
    ],
    "source": "Hacker News",
    "url": "https://github.com/eclipse-mosquitto/mosquitto",
@@ -136,7 +276,7 @@
    "id": "357c9f3ea7eef160985518b45c24cf001f1963bd",
    "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
    "summary": [
-    "Article URL: https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html Comments URL: https://news.ycombinator.com/item?id=50509411 Points: 208 # Comments: 95"
+    "Article URL: https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html Comments URL: https://news.ycombinator.com/item?id=50509411 Points: 395 # Comments: 184"
    ],
    "source": "Hacker News",
    "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
@@ -162,7 +302,7 @@
    "id": "774f7412d1a369d1c04ab0bb964614cd55e7e294",
    "title": "A short explainer on how El Niño works [video]",
    "summary": [
-    "Article URL: https://www.youtube.com/watch?v=7_JF3etiAv8 Comments URL: https://news.ycombinator.com/item?id=50509308 Points: 106 # Comments: 19"
+    "Article URL: https://www.youtube.com/watch?v=7_JF3etiAv8 Comments URL: https://news.ycombinator.com/item?id=50509308 Points: 174 # Comments: 76"
    ],
    "source": "Hacker News",
    "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
@@ -175,7 +315,7 @@
    "id": "b99586870c44b266515299fc6b00658a1f668c7d",
    "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
    "summary": [
-    "Article URL: https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html Comments URL: https://news.ycombinator.com/item?id=50509023 Points: 91 # Comments: 59"
+    "Article URL: https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html Comments URL: https://news.ycombinator.com/item?id=50509023 Points: 168 # Comments: 123"
    ],
    "source": "Hacker News",
    "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
@@ -188,7 +328,7 @@
    "id": "69e5f0d03d1938868c75ef57b601f0a76e3a0b6d",
    "title": "Clice v1.0 Released: Welcome to Modern C++",
    "summary": [
-    "Article URL: https://ykiko.me/en/articles/2105384023094834022/ Comments URL: https://news.ycombinator.com/item?id=50508715 Points: 46 # Comments: 28"
+    "Article URL: https://ykiko.me/en/articles/2105384023094834022/ Comments URL: https://news.ycombinator.com/item?id=50508715 Points: 103 # Comments: 67"
    ],
    "source": "Hacker News",
    "url": "https://ykiko.me/en/articles/2105384023094834022/",
@@ -224,15 +364,15 @@
    "related": []
   },
   {
-   "id": "de1b04aef218049582c90c0014efe24118570b1b",
-   "title": "All AI-generated code should be Open Source",
+   "id": "6390c6b231f0caf9874e7ede13f1a5a2ef4e68d6",
+   "title": "Emacs Is My Browser",
    "summary": [
-    "Article URL: https://jakub.jankiewicz.org/blog/ai-code-open-source/ Comments URL: https://news.ycombinator.com/item?id=50507303 Points: 957 # Comments: 528"
+    "Article URL: https://joshblais.com/blog/emacs-as-my-browser/ Comments URL: https://news.ycombinator.com/item?id=50507553 Points: 179 # Comments: 95"
    ],
    "source": "Hacker News",
-   "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+   "url": "https://joshblais.com/blog/emacs-as-my-browser/",
    "image": null,
-   "published_at": "2026-11-15T14:46:58Z",
+   "published_at": "2026-11-15T15:21:21Z",
    "category": "tech",
    "related": []
   },
@@ -252,72 +392,6 @@
    "related": []
   },
   {
-   "id": "dc388aee58abf2aab68e63d811033fb604819376",
-   "title": "Things That Turbo Pascal Is Smaller Than (2011)",
-   "summary": [
-    "Article URL: https://prog21.dadgum.com/116.html Comments URL: https://news.ycombinator.com/item?id=50506894 Points: 166 # Comments: 78"
-   ],
-   "source": "Hacker News",
-   "url": "https://prog21.dadgum.com/116.html",
-   "image": null,
-   "published_at": "2026-11-15T13:44:16Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "57809c39abaa0430588c3f3a1f22e9681c3ef060",
-   "title": "The MacBook Pro's OLED PWM problem",
-   "summary": [
-    "Article URL: https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/ Comments URL: https://news.ycombinator.com/item?id=50506719 Points: 355 # Comments: 180"
-   ],
-   "source": "Hacker News",
-   "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
-   "image": null,
-   "published_at": "2026-11-15T13:15:22Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "96e1a1a80255c947dbb8203bbc339e9acde5edfe",
-   "title": "A NES emulator written in Odin",
-   "summary": [
-    "Article URL: https://lucypero.com/lucynes.html Comments URL: https://news.ycombinator.com/item?id=50506588 Points: 90 # Comments: 32"
-   ],
-   "source": "Hacker News",
-   "url": "https://lucypero.com/lucynes.html",
-   "image": null,
-   "published_at": "2026-11-15T12:51:47Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "950ac38f23f2d5a7b62eb3e171ad86cac2083969",
-   "title": "Understanding Positional Embeddings in Modern LLMs",
-   "summary": [
-    "Article URL: https://magazine.sebastianraschka.com/p/understanding-positional-embeddings Comments URL: https://news.ycombinator.com/item?id=50506376 Points: 175 # Comments: 17"
-   ],
-   "source": "Hacker News",
-   "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-   "image": null,
-   "published_at": "2026-11-15T12:14:06Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "768d7342d58866f15db1e18e60e9567231e7d29e",
-   "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
-   "summary": [
-    "https://wallhop.io/https://www.nytimes.com/2026/11/15/us/pol...",
-    "Comments URL: https://news.ycombinator.com/item?id=50506180 Points: 409 # Comments: 184"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
-   "image": null,
-   "published_at": "2026-11-15T11:40:51Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "9d07b354d59a8769c729331cda24c4ee481a92c4",
    "title": "Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI",
    "summary": [
@@ -329,19 +403,6 @@
    "url": "https://www.theguardian.com/games/ng-interactive/2026/nov/15/grand-theft-auto-vi-inside-rockstar-games",
    "image": "https://i.guim.co.uk/img/media/bcaf21a5ea7f320d200cf89cb3e6d93d0bd16a0b/0_2377_7101_5677/master/7101.jpg?width=140&quality=85&auto=format&fit=max&s=993448de6a2c38a18864b8b50d5fd385",
    "published_at": "2026-11-15T10:00:10Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "91e375cc559dcd9993426b98cac94a8af0278569",
-   "title": "Why did some Apollo missions carry a grenade launcher? (2019)",
-   "summary": [
-    "Article URL: https://space.stackexchange.com/questions/37775 Comments URL: https://news.ycombinator.com/item?id=50505271 Points: 202 # Comments: 140"
-   ],
-   "source": "Hacker News",
-   "url": "https://space.stackexchange.com/questions/37775",
-   "image": null,
-   "published_at": "2026-11-15T09:06:43Z",
    "category": "tech",
    "related": []
   },
@@ -387,19 +448,6 @@
    "related": []
   },
   {
-   "id": "14ba8d16905942f36916d052236d749017acd32c",
-   "title": "Court denies motion to dismiss DRAM price fixing case",
-   "summary": [
-    "Article URL: https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal Comments URL: https://news.ycombinator.com/item?id=50502988 Points: 469 # Comments: 210"
-   ],
-   "source": "Hacker News",
-   "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-   "image": null,
-   "published_at": "2026-11-15T01:18:36Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "cdf34d438f124e675638b8220f280dcbd745212a",
    "title": "Where was Nvidia’s security team?",
    "summary": [
@@ -435,6 +483,19 @@
    "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
    "image": null,
    "published_at": "2026-11-14T20:04:44Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "7640cc164999215c1b5f0c028e45bd7809ce2563",
+   "title": "Art ‘must not be sacrificed on the altar of corporate profit’, Liberal senator says as AI policy debate rages",
+   "summary": [
+    "Andrew McLachlan says he chooses ‘real forests over virtual ones’ as he urges Labor government to consider AI’s impact on artists and environmentGet our daily political email, free app or daily news podcastThe outspoken Liberal senator Andrew McLachlan has raised the alarm about "
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/15/art-over-profit-ai-policy-debate-andrew-mclachlan",
+   "image": "https://i.guim.co.uk/img/media/bb100c4ad17c64282442b40c27895d51765e32dd/0_0_3485_2789/master/3485.jpg?width=140&quality=85&auto=format&fit=max&s=d72d9f2961e3b70e5c920ce9fd1fa088",
+   "published_at": "2026-11-14T19:00:52Z",
    "category": "tech",
    "related": []
   },
@@ -487,47 +548,6 @@
    "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
    "image": null,
    "published_at": "2026-11-14T17:30:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "2a2bfff1121f561ba8b726cd3923d032df957f0b",
-   "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-   "summary": [
-    "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-   "image": null,
-   "published_at": "2026-11-14T16:34:15Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "57c073f22b98b4cefb6175d73844964d9f829618",
-   "title": "The 143 best holiday gifts in 2026 – obsessively tested by the Guardian US",
-   "summary": [
-    "But finding an item that elicits a squeal of delight from its recipient is one of the best parts of this time of year, when you have a little help.So we’ve curated 143 presents to reclaim holiday shopping as a joyous activity.",
-    "Our seasoned writers and shopping experts got into the holiday spirit early, vetting gifts across kitchen, home, tech and 10 more categories.",
-    "And we roped in our mothers, cats, dogs and the kids in our lives to make sure these gifts really work for the people (and pets!) they are meant for."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/thefilter-us/2026/nov/14/best-holiday-gifts-ideas-guide",
-   "image": "https://i.guim.co.uk/img/media/20d2330e5f473bbce3a0a217a7f06fea87fb32a7/1_0_2499_2000/master/2499.jpg?width=140&quality=85&auto=format&fit=max&s=8c1c1bf27636df70e303038abf60b80c",
-   "published_at": "2026-11-14T14:00:47Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "b67c4d635d9d2a1fe957879126e76a2f815b98a6",
-   "title": "Microsoft says services fully restored after global outage hits governments",
-   "summary": [
-    "On its Microsoft 365 status page, the US-based firm said: “We have completed our efforts to address the underlying issue of the incident and restored service to the remaining impacted customers and regions."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
-   "image": "https://i.guim.co.uk/img/media/6e00c0e827484eda171fc2f542c59ea59f98fec9/397_0_4924_3939/master/4924.jpg?width=140&quality=85&auto=format&fit=max&s=2bb5ac39c36c26222c851cdb1633b29f",
-   "published_at": "2026-11-14T11:54:31Z",
    "category": "tech",
    "related": []
   }
