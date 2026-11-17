@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-17T13:08:20.827999Z",
- "story_count": 18,
+ "generated_at": "2026-11-17T22:12:04.972959Z",
+ "story_count": 14,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,19 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "d123b5ef8039d1f7ec4bd6931aa7427d9513d3a9",
+   "title": "Campaigners take claim 'regulatory gap' risks poultry farms polluting rivers to High Court",
+   "summary": [
+    "It follows years of debate over the alleged impacts on rivers in an area dubbed \"poultry capital\"."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm894x41jw54o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-17T21:00:51Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "6d5c06b1e0d8d74e1d8f766aab74570274f75d08",
    "title": "A mysterious twist in the universe’s oldest light could reveal new physics",
@@ -200,73 +213,6 @@
    "url": "https://www.sciencedaily.com/releases/2026/11/261114202133.htm",
    "image": null,
    "published_at": "2026-11-16T11:40:14Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "481dd769e4db6596964e297d019d21d140db16a4",
-   "title": "Yellow weather warnings issued for snow as temperatures plummet",
-   "summary": [
-    "A spell of colder, wintry weather will grip some northern parts of the UK, bringing a threat of ice and hill snow at times."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/weather/articles/c6y97j2xq531o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-16T10:02:04Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "a1b953f4de220884bc126261851b3a2431a30e83",
-   "title": "Experts explore returning beavers to River Waveney",
-   "summary": [
-    "A trust says the river-dwelling mammals could improve the health of the waterway."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm3rglzqjl90o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-16T06:27:27Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "8f1adef489937c1025a061e2450e27066b622a1d",
-   "title": "Pupils fascinated by space get astronomy lesson",
-   "summary": [
-    "Pupils at First Tower School get a visit from a University of Cambridge astronomer."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c67428w9vvkqo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-16T06:11:42Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "adb130866a5e206345c870a2f3702c1e56d717bd",
-   "title": "The secret to building Moon bases may be hiding in emergency blankets",
-   "summary": [
-    "Scientists have turned the thin plastic used in emergency blankets into remarkably strong insulation that could help astronauts survive the Moon's extreme temperatures.",
-    "Built from hundreds of stacked layers, the material withstands crushing pressure without losing its thermal protection, potentially paving the way for tougher, longer-lasting lunar habitats."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261115085549.htm",
-   "image": null,
-   "published_at": "2026-11-16T03:51:01Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "4cb0de891c199038e6b3f8ff5b2b92809ceede89",
-   "title": "Physicists defy expectations by controlling the magnetic heart of a single atom",
-   "summary": [
-    "Scientists have unexpectedly discovered how to control the magnetic spin inside a single atom's nucleus using radio waves, overturning previous assumptions about atomic behavior.",
-    "The breakthrough could pave the way for more reliable quantum memory, although researchers are still trying to understand why it works."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261114202232.htm",
-   "image": null,
-   "published_at": "2026-11-16T02:56:02Z",
    "category": "science",
    "related": []
   }
