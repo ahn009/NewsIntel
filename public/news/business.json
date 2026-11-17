@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-16T20:19:52.865574Z",
- "story_count": 11,
+ "generated_at": "2026-11-17T03:42:41.522798Z",
+ "story_count": 14,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,71 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "458954e371fb74795d133ec738d732c3d5490354",
+   "title": "Customers report service outages at major US banks",
+   "summary": [
+    "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\"."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-17T00:18:01Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "f1fb5ad4d2079fac1950be7ee88eebf93fa000e8",
+   "title": "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
+   "summary": [
+    "How many jobs are there where you live and in which sectors are you most likely to find an opening?"
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-17T00:00:03Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "e4c7070c0b6da858b0bb1e1d76d6e090dd460703",
+   "title": "We couldn't afford a house alone, so we bought one with strangers",
+   "summary": [
+    "People who can't afford to get on the housing ladder are buying homes with people they don't know."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-17T00:00:02Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "e081a06f9a4777a145b11b9e5d470f9ca8210911",
+   "title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
+   "summary": [
+    "Alan Milburn's review will call for sweeping reforms to the education, work and welfare systems."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-16T22:32:47Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "59e6ae9bc1ba3f748743dc1dd4324f3d51ea09b8",
+   "title": "Customers report difficulty accessing online services at major US banks",
+   "summary": [
+    "Bank of America, Chase, US Bank, Wells Fargo and Truist were listed by users who have been experiencing issuesCustomers reported service outages and difficulty accessing their online accounts at several major US banks and the money transfer service Zelle on Monday after a technical issue at JPMorgan Chase caused ripple effects throughout the financial system.Chase said the technical problems were not a systemic issue and were not the result of a cyber-attack, and that it was working to bring banking services back online."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/16/us-bank-outage-chase-wells-fargo",
+   "image": "https://i.guim.co.uk/img/media/3646b72898ae901bf0c2c1a9dbe0b69194df306e/452_0_4515_3612/master/4515.jpg?width=140&quality=85&auto=format&fit=max&s=90bdf53e095252ef6b02eadb04ea1242",
+   "published_at": "2026-11-16T22:01:40Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "010ec8bc472a1454d4221a7193c6d00dc2d80234",
    "title": "The man with the golden touch: James Bond franchise is a money-spinner",
@@ -137,34 +202,6 @@
    "url": "https://www.bbc.co.uk/news/articles/c9n731r5mej5o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-16T05:57:19Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "6283af300979e76bda513d1340d2ea4e5873b0e3",
-   "title": "When the boss has an affair, the whole family business can pay the price",
-   "summary": [
-    "Now we have the former Nvidia CEO, Jensen Huang.These men – smart, respected, powerful – make decisions that simply baffle the rest of us.",
-    "If they’re so intelligent, how could they not see how things were going to end up?",
-    "And when there’s a younger woman who shows interest, well … Continue reading..."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/15/nvidia-ceo-jensen-huang-affair-business",
-   "image": "https://i.guim.co.uk/img/media/6b7d531b60f99a928397b882d7518a377a68074d/0_0_4583_3668/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=5fe9374b612964ae0713f2a01cc3e8b4",
-   "published_at": "2026-11-15T15:00:16Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "4315b204202e2abb6f0b7f528f13d9965f698b6b",
-   "title": "Minister backs legal right to job support for young people",
-   "summary": [
-    "The work and pensions secretary said the level of support currently on offer was too vague."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-15T13:06:15Z",
    "category": "business",
    "related": []
   }

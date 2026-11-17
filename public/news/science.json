@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-16T20:19:52.865784Z",
- "story_count": 16,
+ "generated_at": "2026-11-17T03:42:41.522974Z",
+ "story_count": 11,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,19 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "788eef3f42aae51f65cd8454d9980a00966eb9cb",
+   "title": "Met Office yellow warning in place as snow could disrupt Tuesday morning travel",
+   "summary": [
+    "Snow could bring some transport disruption to the hills of northern England and southern Scotland, as Chris Fawkes explains."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-17T00:09:54Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "2b0a435a8a483246ef33047875c3a164b324590b",
    "title": "NASA is offering $1 million for bold ideas to help build a Moon base",
@@ -158,91 +171,6 @@
    "url": "https://www.sciencedaily.com/releases/2026/11/261114202230.htm",
    "image": null,
    "published_at": "2026-11-16T00:32:12Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "3b08b117bc59c4097a3badf29c5b08e650d4a527",
-   "title": "Vitamin C could help block cancer-linked chemicals in your stomach, study finds",
-   "summary": [
-    "Scientists have discovered that vitamin C may help prevent potentially cancer-causing chemicals from forming in the stomach after eating foods containing nitrates and nitrites.",
-    "A new mathematical model suggests that taking vitamin C after meals could reduce these harmful reactions, offering a possible new strategy for lowering cancer risk."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261114202236.htm",
-   "image": null,
-   "published_at": "2026-11-15T14:13:18Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "fcba369e63e0094c4d0f7f8bd652ca214175ab24",
-   "title": "A common osteoporosis drug blocked spinal damage in a surprising new study",
-   "summary": [
-    "Scientists have uncovered a surprising genetic connection to spinal degeneration and found that an existing osteoporosis drug can prevent damaging mineral buildup in zebrafish spines.",
-    "The discovery could pave the way for new treatments that slow or prevent a major cause of chronic back pain."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261113232105.htm",
-   "image": null,
-   "published_at": "2026-11-15T14:03:39Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "641f5c09c3afc3398e6eb4a23dc1ae22ad134dc0",
-   "title": "Uranus and Neptune’s bizarre magnetic fields may finally be explained",
-   "summary": [
-    "The strange, wildly tilted magnetic fields of Uranus and Neptune have puzzled scientists since NASA's Voyager 2 spacecraft explored the planets in the 1980s.",
-    "New simulations suggest that extreme conditions deep inside these icy giants create unusual electrical properties that could explain their magnetic fields.",
-    "Remarkably, the models indicate that their magnetic poles could shift by tens of degrees within just a few decades, far faster than Earth's."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261114202204.htm",
-   "image": null,
-   "published_at": "2026-11-15T13:43:22Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "45256f4846edb5265d6e0e580652d6bc9cf55e4c",
-   "title": "Astronomers discover a dead star spinning every 8 minutes and sending mysterious radio pulses",
-   "summary": [
-    "Scientists have discovered a strange stellar pair more than 5,000 light-years away, where a dead star spinning every eight minutes produces mysterious radio pulses while orbiting a Sun-like star.",
-    "The breakthrough also revealed massive magnetic storms on the companion star, offering fresh clues to one of astronomy's emerging mysteries."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261114202136.htm",
-   "image": null,
-   "published_at": "2026-11-15T13:04:09Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "5de1690213dc38b75c7739ec84a7612c2840c67a",
-   "title": "A simple supplement could help your immune system fight cancer and viral infections",
-   "summary": [
-    "A surprising discovery from Rockefeller University suggests that a common amino acid could play a powerful role in protecting against cancer and viral infections.",
-    "Scientists found that low arginine levels interfere with the immune system's ability to recognize dangerous cells, while increasing arginine intake reduced colon cancer tumors and improved viral infection outcomes in mice.",
-    "Even more remarkably, giving mice arginine after they contracted influenza helped them recover."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261113232000.htm",
-   "image": null,
-   "published_at": "2026-11-15T12:36:52Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "ed56c115d079c2233686f5b5575f552b27d8775b",
-   "title": "How to spot November's planetary parade in the pre-dawn sky",
-   "summary": [
-    "The planets of Mercury, Venus, Mars and Jupiter will align in pre-dawn sky throughout November."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/weather/articles/cke8rr37lrryo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-15T10:49:57Z",
    "category": "science",
    "related": []
   }
