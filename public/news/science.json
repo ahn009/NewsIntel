@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-18T13:49:44.771338Z",
- "story_count": 25,
+ "generated_at": "2026-11-18T21:49:51.271051Z",
+ "story_count": 22,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,19 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "3849751c73b679a6981e5c016af699c415c29a81",
+   "title": "Torrential rain causes widespread flooding in South Florida",
+   "summary": [
+    "Entire neighbourhoods remain under water as disruptions impact schools, roads, hospitals and airports."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/crgj3205jv98o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-18T20:29:18Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "d6d7c98100205e79f4a662eea1d67a1e41260432",
    "title": "New discovery reveals what may be holding back room-temperature superconductors",
@@ -215,19 +228,6 @@
    "related": []
   },
   {
-   "id": "e4b0532df231c0843f65482cb47da3237dc35e53",
-   "title": "Pakistan's solar revolution is so successful the national grid is lagging behind",
-   "summary": [
-    "People installing their own solar panels has helped boost the solar share of Pakistan's electricity from 1% to 28%."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-17T23:34:56Z",
-   "category": "science",
-   "related": []
-  },
-  {
    "id": "2e67a7f4fb566c489cc8bbc9b48dc9a274854df0",
    "title": "Fears toxic lagoon fire led to cancer and miscarriages",
    "summary": [
@@ -319,45 +319,6 @@
    "url": "https://www.sciencedaily.com/releases/2026/11/261115085545.htm",
    "image": null,
    "published_at": "2026-11-17T10:45:41Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "f4a3c58e612cf349ba28dcdc8ba04497ea0faf8c",
-   "title": "More than £160m needed to clean up one of Europe's largest illegal dumps",
-   "summary": [
-    "Environment Minister Andrew Muir has described what happened at Mobuoy, near Derry, as an \"absolute scandal\" which could take a generation to fix."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cr5y18lg31nxo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-17T09:46:31Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "7d4573cf4949fac2cbfb270185a8fd260d3d18d6",
-   "title": "Dazzling Leonid meteor shower to peak on Tuesday night",
-   "summary": [
-    "The Leonid meteor shower, known for its bright and fast meteors, is set to peak on Tuesday night."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/weather/articles/c6742xzg3eljo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-17T09:03:08Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "788eef3f42aae51f65cd8454d9980a00966eb9cb",
-   "title": "Met Office yellow warning in place as snow could disrupt Tuesday morning travel",
-   "summary": [
-    "Snow could bring some transport disruption to the hills of northern England and southern Scotland, as Chris Fawkes explains."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/weather/articles/ck5y1g0rnx02o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-17T08:01:38Z",
    "category": "science",
    "related": []
   }

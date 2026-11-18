@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-18T13:49:44.771067Z",
- "story_count": 15,
+ "generated_at": "2026-11-18T21:49:51.270693Z",
+ "story_count": 17,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,45 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "3f20754991b7773dd2c751a0d1328f07d8742274",
+   "title": "How high is UK inflation and how will you be affected?",
+   "summary": [
+    "Prices rose 3.6% in the year to October, mainly because of higher petrol and diesel prices, official figures show."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/cxp80q5pv4q5o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-18T19:37:27Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "0d2f6ca4dec29f8cbebb8d70ea731bec31d0cf08",
+   "title": "Democrats demand answers from Howard Lutnick about Nvidia and his family’s business",
+   "summary": [
+    "Democratic lawmakers ask if commerce secretary favored Nvidia to enrich his adult children and Cantor FitzgeraldThe US commerce secretary, Howard Lutnick, faces mounting questions over his handling of the Nvidia affair as Democratic lawmakers demand answers over his family firm’s vast stake in the tech company.Cantor Fitzgerald, the investment firm Lutnick ran for decades before joining the Trump administration, held shares in Nvidia worth “hundreds of millions of dollars” while Lutnick made key decisions affecting the tech firm’s ability to operate, according to Democrats on three key congressional committees."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/18/howard-lutnick-nvidia-cantor-fitzgerald",
+   "image": "https://i.guim.co.uk/img/media/dc2504fd284ddacfaad901364262921f0cf11e1a/202_0_2028_1622/master/2028.jpg?width=140&quality=85&auto=format&fit=max&s=f78a1ee132bb95841e3dec9697e2b157",
+   "published_at": "2026-11-18T16:48:29Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "c6b3a0009c6ff6d09015a4064ce5b4eec3bf61ec",
+   "title": "Cathedral's staff review 'difficult but necessary'",
+   "summary": [
+    "Gloucester Cathedral has been going through a restructure due to \"significant financial pressure\"."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6kgr03jlv4ro?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-18T15:14:34Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "4003574a4fa9700c21e2624871ff519f368c92f7",
    "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
@@ -63,19 +102,6 @@
    "related": []
   },
   {
-   "id": "aa50497c14006bbd69c553d616e156fac8384df6",
-   "title": "States to debate social security contributions cut",
-   "summary": [
-    "The amendment is being brought forward by deputies Gavin St Pier and Tom Rylatt."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cqgm39mwjgjpo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-18T06:17:58Z",
-   "category": "business",
-   "related": []
-  },
-  {
    "id": "4d0c3e89742fb55734280dd0975d4edab70c2e43",
    "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new Bond",
    "summary": [
@@ -85,6 +111,21 @@
    "url": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-18T04:00:54Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "daa9959cb12cf974c10c2d0c2c8f544dbf314cab",
+   "title": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
+   "summary": [
+    "Company issues first earnings report after ouster of CEO over allegations of affair with suspected Chinese spyNvidia “does not intend to reinstate Jensen as CEO”, the chairman of the company’s board said Tuesday.",
+    "Harvey Jones made the remark during Nvidia’s first quarterly earnings report since Jensen Huang’s ouster.Nvidia announced the same day that its quarterly revenue beat expectations, coming in at $115.84bn, doubling from the same time period a year ago.",
+    "The third-quarter earnings report comes just days after the world’s most valuable chip company saw the ouster of Huang over allegations of several extramarital affairs, including one with a suspected Chinese spy and two with his own employees."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang",
+   "image": "https://i.guim.co.uk/img/media/8113a55d4f67088521e43617481262c2f4f3358a/366_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=886ec09740a96447a99058c23e7d0c2e",
+   "published_at": "2026-11-17T23:32:16Z",
    "category": "business",
    "related": []
   },
@@ -202,19 +243,6 @@
    "url": "https://www.bbc.co.uk/news/videos/cm3eg3q758gjo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-17T10:49:58Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "771bc90d33d002e3e210b95fb77bc81ac5948f67",
-   "title": "United Airlines says ‘widespread’ system outage resolved",
-   "summary": [
-    "While some flights were delayed, there was no impact on flights in progress, or on United Express flights,” Chicago-based United said in a statement. “There is no indication that this was a cybersecurity-related issue.” Continue reading..."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage",
-   "image": "https://i.guim.co.uk/img/media/eb6b6150bca60af4894ce9e3f598b0ea8d74e90c/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=28983698125cd7b39a7adedf7e96dd07",
-   "published_at": "2026-11-17T02:57:06Z",
    "category": "business",
    "related": []
   }

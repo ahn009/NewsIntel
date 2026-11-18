@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T13:49:44.770506Z",
+ "generated_at": "2026-11-18T21:49:51.270125Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -24,30 +24,474 @@
  },
  "stories": [
   {
-   "id": "9a7628c6e964a0acf4f6fbe174ede642339429ad",
-   "title": "Does GTA VI live up to the hype? Our games editor has played it – ask her anything",
+   "id": "22c3131e87fdf83abb8ac478a98dd61b21a6a762",
+   "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
    "summary": [
-    "Grand Theft Auto VI, the biggest games release of the decade, is nearly here.",
-    "Our games editor Keza MacDonald will be online from 4pm GMT (11am EST, 3am AEDT) to answer all your questionsAsk a question: log in or sign up hereAfter more than a decade and a reported billion dollars in the making, Grand Theft Auto VI is finally released on Thursday.",
-    "It’s one of the most anticipated games of all time.The Guardian’s games editor, Keza MacDonald, is one of the first people in the world to have played it and she’s now spent over 70 hours in Leonida to review the game."
+    "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks."
    ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/games/live/2026/nov/18/does-gta-vi-live-up-to-the-hype-our-games-editor-has-played-it-ask-her-anything",
-   "image": "https://i.guim.co.uk/img/media/2c1fd827327d14bd0ef78713cbea00aa6dd169f9/0_0_2000_1600/master/2000.jpg?width=140&quality=85&auto=format&fit=max&s=b3e6ea7eb6f3b3401c55275e8b3bff37",
-   "published_at": "2026-11-18T13:31:19Z",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+   "image": null,
+   "published_at": "2026-11-18T21:34:13Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "04ea7dca74f4d708b5505bcb9d3e174dd931a5b2",
-   "title": "Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy",
+   "id": "246fea28a78903d1be9b9168ef0e195fc87097ea",
+   "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
    "summary": [
-    "Article URL: https://techstackups.com/articles/quad9-leaves-france-dns-blocking/ Comments URL: https://news.ycombinator.com/item?id=50545958 Points: 3 # Comments: 0"
+    "\"[China knows] it makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
+   "image": null,
+   "published_at": "2026-11-18T21:31:21Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "5659ef72abfdd1e2e023453a5e78202a33515436",
+   "title": "Just Because You Can, Doesn't Mean You Should: Re-Evaluating Galera Node Weights",
+   "summary": [
+    "Article URL: https://www.percona.com/blog/just-because-you-can-doesnt-mean-you-should-re-evaluating-galera-node-weights/ Comments URL: https://news.ycombinator.com/item?id=50552169 Points: 5 # Comments: 0"
    ],
    "source": "Hacker News",
-   "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+   "url": "https://www.percona.com/blog/just-because-you-can-doesnt-mean-you-should-re-evaluating-galera-node-weights/",
    "image": null,
-   "published_at": "2026-11-18T13:18:02Z",
+   "published_at": "2026-11-18T21:11:10Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "cb1d8f8bc84f7e6afbd259b401364decf6841b22",
+   "title": "Google Gemini's \"Tasks\" Personal Assistant Is Now Free",
+   "summary": [
+    "Article URL: https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/ Comments URL: https://news.ycombinator.com/item?id=50551601 Points: 26 # Comments: 15"
+   ],
+   "source": "Hacker News",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+   "image": null,
+   "published_at": "2026-11-18T20:20:17Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "54287e141aa4a0b5deb22883324bc76ebf6608b1",
+   "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
+   "summary": [
+    "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
+   "image": null,
+   "published_at": "2026-11-18T20:07:01Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "9de59b9dc687824d4ed483294557ffdb82ffd4cd",
+   "title": "Search Browser – Minimalist WebKit browser with Chrome extension support",
+   "summary": [
+    "Article URL: https://searchbrowser.app/ Comments URL: https://news.ycombinator.com/item?id=50551398 Points: 26 # Comments: 19"
+   ],
+   "source": "Hacker News",
+   "url": "https://searchbrowser.app/",
+   "image": null,
+   "published_at": "2026-11-18T20:04:31Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "2eb50ded113eb00f59c5c003f654730db1037acf",
+   "title": "Sexp Matrix",
+   "summary": [
+    "Article URL: https://lisper.cc/ideas/entangle.html Comments URL: https://news.ycombinator.com/item?id=50551359 Points: 18 # Comments: 2"
+   ],
+   "source": "Hacker News",
+   "url": "https://lisper.cc/ideas/entangle.html",
+   "image": null,
+   "published_at": "2026-11-18T20:01:50Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "2f277485244a55e70fc4874536dd4598baba2c27",
+   "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+   "summary": [
+    "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+   "image": null,
+   "published_at": "2026-11-18T19:56:39Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "70cc8a0a1d31480778901036031a4cc49b7bb09b",
+   "title": "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1",
+   "summary": [
+    "Article URL: https://www.radixark.com/blog/daisyrose-27b Comments URL: https://news.ycombinator.com/item?id=50551046 Points: 64 # Comments: 10"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.radixark.com/blog/daisyrose-27b",
+   "image": null,
+   "published_at": "2026-11-18T19:39:16Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "17ed1763602098a90e0f16815549d946d795d85d",
+   "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
+   "summary": [
+    "Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
+   "image": null,
+   "published_at": "2026-11-18T19:29:41Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "abe03c170f0b92ca170ea0d248104d2e6bc83bbe",
+   "title": "Genie 4 is now available",
+   "summary": [
+    "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/ Comments URL: https://news.ycombinator.com/item?id=50550415 Points: 139 # Comments: 116"
+   ],
+   "source": "Hacker News",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+   "image": null,
+   "published_at": "2026-11-18T18:49:51Z",
+   "category": "tech",
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
+    }
+   ]
+  },
+  {
+   "id": "772a06aa822619b1d39bbc473584850968457576",
+   "title": "When Free Software Isn't Free Enough",
+   "summary": [
+    "Article URL: https://foss.life/notes/2026/free-software-isnt-free-enough/ Comments URL: https://news.ycombinator.com/item?id=50550264 Points: 31 # Comments: 22"
+   ],
+   "source": "Hacker News",
+   "url": "https://foss.life/notes/2026/free-software-isnt-free-enough/",
+   "image": null,
+   "published_at": "2026-11-18T18:39:28Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "bc92b7a6195e0b2b26ae688aff8a574514182c20",
+   "title": "The Magic of Partial Evaluation",
+   "summary": [
+    "Article URL: https://jimmyhmiller.com/magic-of-partial-evaluation Comments URL: https://news.ycombinator.com/item?id=50550096 Points: 70 # Comments: 9"
+   ],
+   "source": "Hacker News",
+   "url": "https://jimmyhmiller.com/magic-of-partial-evaluation",
+   "image": null,
+   "published_at": "2026-11-18T18:29:03Z",
+   "category": "tech",
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://crosspointreader.com"
+    }
+   ]
+  },
+  {
+   "id": "61a25aea71886a4b7b5027064220a557c13966b4",
+   "title": "Google’s AI feature in Search gets its own incognito mode",
+   "summary": [
+    "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+   "image": null,
+   "published_at": "2026-11-18T18:04:05Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "cde1f5190a74d2ba4d5f9f1602f8460eebd92934",
+   "title": "Tell us: are you playing Grand Theft Auto VI?",
+   "summary": [
+    "Grand Theft Auto VI has finally arrived.",
+    "We’d like to hear your initial thoughts It’s been 13 years in the making, and may be the most highly anticipated video game of all time.",
+    "Grand Theft Auto VI has finally arrived.The new instalment of the epic crime saga is said to have cost more than $1bn to make and is widely expected to break sales records: some predictions put total sales at 40m copies in its first three months."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/games/2026/nov/18/tell-us-are-you-playing-grand-theft-auto-vi",
+   "image": "https://i.guim.co.uk/img/media/6f6a96abc7c44dbaf4071cc6e2ab2db0d18bd33b/298_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=9c85215f470360fd997fcd98b64bedf1",
+   "published_at": "2026-11-18T18:00:04Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "c7d3ecb006439a135768f56529a5adc2ad0eb57f",
+   "title": "Advancing chip design with OpenAI models",
+   "summary": [
+    "Article URL: https://openai.com/index/advancing-chip-design-with-our-models/ Comments URL: https://news.ycombinator.com/item?id=50549493 Points: 104 # Comments: 51"
+   ],
+   "source": "Hacker News",
+   "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
+   "image": null,
+   "published_at": "2026-11-18T17:45:47Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "6ae82bdc38649050fc1c8301ba2d8c4b77613ddc",
+   "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+   "summary": [
+    "Citi is the latest major financial institution to put the breaks on personal finance AI agents."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+   "image": null,
+   "published_at": "2026-11-18T17:32:10Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "b5f134a9b7c2223b32cd782c8d1b5623ebf9d674",
+   "title": "David Ellison says HBO will air critical Elon Musk documentary despite his $1B investment in Skydance",
+   "summary": [
+    "Following news of the investment, questions emerged over how Musk's sizable stake in the company might affect Skydance's plans to distribute a documentary that is highly critical of him."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/18/david-ellison-says-hbo-will-air-critical-elon-musk-documentary-despite-1b-investment-in-skydance/",
+   "image": null,
+   "published_at": "2026-11-18T17:30:56Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "f21f255fd91ab7036a32e2c86abe39ada78260b5",
+   "title": "US senators urge White House AI chief to fix vulnerabilities after mass outages",
+   "summary": [
+    "As Democrats flag AI bank breaches and cyber-attacks in Japan, Jay Clayton says system failures happenUS politics live – latest updatesA bipartisan pair of US senators are calling on Jay Clayton, the director of national intelligence and AI czar, to identify and fix vulnerabilities in the US’s infrastructure following nationwide outages at major companies and government agencies.Maria Cantwell, the top Democrat on the Senate commerce, science, and transportation committee, and Mike Rounds, the Republican chair of the Senate subcommittee on cybersecurity, sent a letter to Clayton on Tuesday, outlining concerns sparked by reports of AI accessing major banks, cyber-attacks in Japan and more."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure",
+   "image": "https://i.guim.co.uk/img/media/fd6d0a6c86ef943127b3020482a5ad62bb9e5788/492_0_4915_3933/master/4915.jpg?width=140&quality=85&auto=format&fit=max&s=5ec85d646e771e5486922ae676de0a9b",
+   "published_at": "2026-11-18T17:25:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "5b8efa841e7cdd464416003384e2bb27cb30e372",
+   "title": "The best TVs in the UK for every home and screen size, tested",
+   "summary": [
+    "Whether you want an affordable mini LED or a feature-packed OLED, here’s what our square-eyed expert recommends• Do you really need to buy a new TV?"
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/thefilter/2026/nov/18/best-tvs-tested-uk",
+   "image": "https://i.guim.co.uk/img/media/03bdaefdfdf000c93e3e9f4a147ec93cec60af4d/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=4a52a918866450fe987a06eb1517280d",
+   "published_at": "2026-11-18T17:01:14Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "2d5a3de817461fab7d838b7f6ef434c6fe533ef2",
+   "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+   "summary": [
+    "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+   "image": null,
+   "published_at": "2026-11-18T16:59:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "49db83e253edbf0771d468b99bafbdd0476979fa",
+   "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
+   "summary": [
+    "Hi HN, we're Shane, Sam, and Abhi.Almost two years ago, we shared Mastra, our open-source TypeScript agent framework, on Show HN: https://news.ycombinator.com/item?id=43103073.",
+    "Last week, Factory opened and merged 238 PRs, alongside 630 merged PRs from humans.There's a lot of debate about what a software factory is.",
+    "Comment here, we would love to know what you think!https://factory.mastra.aihttps://github.com/mastra-ai/template-factory Comments URL: https://news.ycombinator.com/item?id=50548660 Points: 67 # Comments: 20"
+   ],
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50548660",
+   "image": null,
+   "published_at": "2026-11-18T16:53:42Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "4b9feb41ff3655d4b0d86f5fba0bc6fed54b2e37",
+   "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
+   "summary": [
+    "Voyager 1 reached one light-day from Earth today.On the site you can:- see where both Voyagers are right now- open a nuclear battery to its 24 plutonium spheres- go into the data computer, down to a single memory chip- see how the Golden Record's cover explains how to play it- wa"
+   ],
+   "source": "Hacker News",
+   "url": "https://rshekhar.com/voyager/",
+   "image": null,
+   "published_at": "2026-11-18T16:18:51Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "319e08473b4aa0910924f1a5a2a5eed3129b746c",
+   "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+   "summary": [
+    "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+   "image": null,
+   "published_at": "2026-11-18T16:14:09Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "5dbbce44001a69bf9259130b9dd3a13c5b5899f4",
+   "title": "Seven new models at scalable price-performance",
+   "summary": [
+    "Article URL: https://microsoft.ai/news/microsoft-ignite-2026/ Comments URL: https://news.ycombinator.com/item?id=50548021 Points: 362 # Comments: 241"
+   ],
+   "source": "Hacker News",
+   "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+   "image": null,
+   "published_at": "2026-11-18T16:08:24Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "bcd084fbddc00f6d5f79cf4d92b2bde0e8db0bed",
+   "title": "KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)",
+   "summary": [
+    "Article URL: https://www.cve.org/CVERecord?id=CVE-2026-99312 Comments URL: https://news.ycombinator.com/item?id=50548004 Points: 153 # Comments: 106"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.cve.org/CVERecord?id=CVE-2026-99312",
+   "image": null,
+   "published_at": "2026-11-18T16:06:21Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "055a12ed15be38a264384ba18311c5024f409f36",
+   "title": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
+   "summary": [
+    "Article URL: https://exitpath-ruddy.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50547980 Points: 111 # Comments: 24"
+   ],
+   "source": "Hacker News",
+   "url": "https://exitpath-ruddy.vercel.app/",
+   "image": null,
+   "published_at": "2026-11-18T16:04:43Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "b87a1db404dabf86787fc65ba4d762eb25a093b8",
+   "title": "Sony’s updated turntable is an easy entry into the world of vinyl",
+   "summary": [
+    "Sony's updated turntable for beginners features automatic playback, USB connectivity, and aptX Adaptive Bluetooth."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/18/sonys-updated-turntable-is-an-easy-entry-into-the-world-of-vinyl/",
+   "image": null,
+   "published_at": "2026-11-18T16:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "dbf7233003822774ad6ca7904d9d7786a6ef6a0b",
+   "title": "AI agents ask better questions than KPMG accountants in audit trial",
+   "summary": [
+    "Article URL: https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/ Comments URL: https://news.ycombinator.com/item?id=50547777 Points: 234 # Comments: 116"
+   ],
+   "source": "Hacker News",
+   "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+   "image": null,
+   "published_at": "2026-11-18T15:49:34Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "db253b67c20cc7e9ef7036f11826bb998d4bac8e",
+   "title": "Inside Deutsche Bank",
+   "summary": [
+    "Article URL: https://www.inside-db.com/ Comments URL: https://news.ycombinator.com/item?id=50547620 Points: 443 # Comments: 153"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.inside-db.com/",
+   "image": null,
+   "published_at": "2026-11-18T15:38:33Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a4a8d2325502b0b18aa4cbecd2ea868d0684a4d0",
+   "title": "F-22 Next-Generation micro–Data Transfer Cartridge (mDTC)",
+   "summary": [
+    "Article URL: https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view Comments URL: https://news.ycombinator.com/item?id=50547583 Points: 127 # Comments: 82"
+   ],
+   "source": "Hacker News",
+   "url": "https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view",
+   "image": null,
+   "published_at": "2026-11-18T15:35:44Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "3b3437501e2509c68f388c4a72ca9caf0d893ef5",
+   "title": "Players say goodbye to Grand Theft Auto V with one last drive",
+   "summary": [
+    "For more than a decade, GTA Online and its virtual California has hosted the criminal capers of millions of players.",
+    "But fans took it upon themselves to peacefully cruise across the game world together for “one last drive” in virtual California, before the next chapter in the series arrives."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/games/2026/nov/18/players-say-goodbye-to-grand-theft-auto-v-with-one-last-drive",
+   "image": "https://i.guim.co.uk/img/media/e0bf96ae247f9fa60636e20225507e07ba3cb75d/70_112_2557_2047/master/2557.jpg?width=140&quality=85&auto=format&fit=max&s=4ece8c686ff9832aefda956c87021671",
+   "published_at": "2026-11-18T15:00:01Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "6818b2c09562dc5450800ed527e95cf877993cbf",
+   "title": "Twenty years ago, the Wii and PS3 predicted the future of gaming – did they get it right?",
+   "summary": [
+    "Coined by the company’s legendary engineer Gunpei Yokoi, father of the Game Boy, the phrase described a philosophy in which old tech could be combined with smart ideas to provide amazing new gaming possibilities.",
+    "The Game Boy itself used a slow, old Sharp LR35902 processor and a sickly green monochrome screen, but it also came with Tetris and worked for ages on four AA batteries.",
+    "With sales of 65m, it was vastly more successful than hi-tech rivals such as the Atari Lynx and Sega Game Gear."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/games/2026/nov/18/how-nintendo-wii-sony-playstation-3-predicted-future-of-gaming",
+   "image": "https://i.guim.co.uk/img/media/d91998699a31e90bc7892442f2140b547623708b/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=54e0cc34a0f32c84535c7aed68360df9",
+   "published_at": "2026-11-18T15:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ef354c646c1cb649c39d0336e62d240de1517ed2",
+   "title": "British hackers face prison for GTA 6 data breach and crypto thefts",
+   "summary": [
+    "Two British hackers face lengthy prison sentences for hacks that broke into the Grand Theft Auto gamemaker and for stealing millions in crypto."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/18/british-hackers-face-prison-for-gta-6-data-breach-and-crypto-thefts/",
+   "image": null,
+   "published_at": "2026-11-18T14:55:13Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "231a189cb27a66f1d7fd6af6e3d580f59924a576",
+   "title": "‘Zero’ evidence that recent cascade of tech outages are linked, says Rubio",
+   "summary": [
+    "US secretary of state’s comments come as vulnerability in programming language Java highlightedThere is “zero evidence” that a wave of IT outages – which have grounded flights, cut off work access, limited bank access, affected Apple and disrupted classified communications – are related to each other or are the work of malign actors, according to the US secretary of state.Marco Rubio said the US was “not under systemic attack” and a cascade of network problems was “not inter-related”."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio",
+   "image": "https://i.guim.co.uk/img/media/d8053b9038ce3a18aaa3b2cbcffef1cb0d77b18b/475_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=e5092406fa7775e712f7bb56780148a3",
+   "published_at": "2026-11-18T14:46:49Z",
    "category": "tech",
    "related": []
   },
@@ -66,7 +510,7 @@
   },
   {
    "id": "5e888bac8f86cebe2b3b8e0270e36e8bb288bf28",
-   "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
+   "title": "Nvidia clarifies when it will — and won’t — keep financing neoclouds",
    "summary": [
     "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained."
    ],
@@ -78,28 +522,16 @@
    "related": []
   },
   {
-   "id": "ff776c31ccfe588c3a72ba04bf14c57710ba9b5c",
-   "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+   "id": "06612b957537e5fc68423122e35806cf5cdeb0b0",
+   "title": "Annoying Trump and dodging Flock: inside MapQuest’s contrarian comeback",
    "summary": [
-    "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype."
+    "After refusing to obey the president’s Lake Ontario order, MapQuest briefly rose to No 1 in navigation apps.",
+    "Not only had it never signed off, MapQuest was reinventing itself as a plucky oppositional hero, the app most likely to uphold your geographical beliefs."
    ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-18T12:22:15Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "c0151ff5652f451e0daa9c19a6c92d0d7de001b4",
-   "title": "Evidence (YC S21) Is Hiring",
-   "summary": [
-    "Article URL: https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead Comments URL: https://news.ycombinator.com/item?id=50545238 Points: 0 # Comments: 0"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead",
-   "image": null,
-   "published_at": "2026-11-18T12:00:16Z",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/18/mapquest-google-apple-navigation-app-flock",
+   "image": "https://i.guim.co.uk/img/media/a6747b5a057c449317f63b1bafa3cd8aad85d566/0_1079_2400_1920/master/2400.jpg?width=140&quality=85&auto=format&fit=max&s=89d50c0f174ca1e9e8333fb00a183e2a",
+   "published_at": "2026-11-18T12:00:56Z",
    "category": "tech",
    "related": []
   },
@@ -118,443 +550,14 @@
   },
   {
    "id": "55dde3921be9b1d776b3ceeda7478201d4e40d66",
-   "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+   "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
    "summary": [
-    "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S."
+    "Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S."
    ],
    "source": "TechCrunch",
    "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
    "image": null,
    "published_at": "2026-11-18T11:30:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "7320a2f0d567d0f97e9c0ebfc2c95cee76286e73",
-   "title": "Show HN: Type Fighter 2",
-   "summary": [
-    "Type Fighter II is an arcade inspired game for people learning to touch type.Free, no account, and progress stays local.",
-    "You can try on mobile, best with a physical keyboard.",
-    "Comments URL: https://news.ycombinator.com/item?id=50544821 Points: 10 # Comments: 6"
-   ],
-   "source": "Hacker News",
-   "url": "https://typefighter2.com/",
-   "image": null,
-   "published_at": "2026-11-18T11:11:53Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "de281466a05de55a63d8751fc152b86b2cf4d37f",
-   "title": "Grand Theft Auto VI review – gaming’s most depraved world is now also its greatest love story",
-   "summary": [
-    "There is such a multiplicity of things on offer here that it is difficult to nail down what this game definitively is.",
-    "It will be different for everyone – that is the beauty of it.For me, though, this game is about Jason and Lucia, the fugitive couple through whom you experience all that Leonida has to offer.",
-    "When Lucia gets out of prison, the two of them try to make some kind of life for themselves – but before long they get caught up with the wrong people and have to flee the cosy life they’ve just started building."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/games/2026/nov/18/grand-theft-auto-vi-gta-6-review-playstation-rockstar",
-   "image": "https://i.guim.co.uk/img/media/53ac3eb2cb6dc9001ada3ba916d998589415975e/164_0_1827_1462/master/1827.jpg?width=140&quality=85&auto=format&fit=max&s=4ed0b6d61b03463e2536ef1c2e36a427",
-   "published_at": "2026-11-18T11:00:55Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "506d68a2978316967795e116397960a93f8b7957",
-   "title": "China dominates battery graphite, but this startup could break the monopoly",
-   "summary": [
-    "Chinese companies maintain near total dominance of the graphite industry, but Molten Industries says its new factory in Oakland could spell the end of the monopoly."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/18/china-dominates-battery-graphite-but-this-startup-could-break-the-monopoly/",
-   "image": null,
-   "published_at": "2026-11-18T11:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "814baa6f479f5a3586bb89558e051c7b19089d75",
-   "title": "Codeberg.org Not Reachable",
-   "summary": [
-    "Article URL: https://social.anoxinon.de/@codebergstatus/117636437840688845 Comments URL: https://news.ycombinator.com/item?id=50544261 Points: 245 # Comments: 239"
-   ],
-   "source": "Hacker News",
-   "url": "https://social.anoxinon.de/@codebergstatus/117636437840688845",
-   "image": null,
-   "published_at": "2026-11-18T10:02:17Z",
-   "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "https://www.evilgeniuslabs.org/why-fibonacci"
-    }
-   ]
-  },
-  {
-   "id": "2f2a9c206de31c0532500c10ae4b0f6c420c3e08",
-   "title": "Security flaw found in Java, world's third-largest programming language",
-   "summary": [
-    "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-18T08:47:06Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "813e302ccb617cc1c1b3dedab5f7bb8a41e6cf07",
-   "title": "Elton John backs Australian artists in fight against AI in surprise Aria awards appearance",
-   "summary": [
-    "British musician backs Not AI’s To Take campaign, saying Albanese government has ‘a duty to protect Australian artists and their work’Aria awards 2026 red carpet: Tame Impala, Baker Boy, G Flip and more – in picturesElton John has made a surprise appearance at the 2026 Aria awards to draw attention to Not AI’s To Take, a major campaign backed by the creative and media industries calling on the Australian government to protect copyright law in the face of lobbying from AI companies.Delivering a pre-recorded message at Australian music’s biggest night on Wednesday, the British singer backed the new campaign, which is calling on the Albanese government to ensure Australian artists are reimbursed and consulted by AI companies interested in using their works for AI training."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/music/2026/nov/18/elton-john-ai-campaign-australia-artists-aria-awards-copyright",
-   "image": "https://i.guim.co.uk/img/media/6717b5732293468c3ba09f5cd665c09dc0756308/271_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=e609aa1bd29fd424dfa469c9a27988d7",
-   "published_at": "2026-11-18T08:29:57Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "f0f608db8626685b298844660948ccb52977f842",
-   "title": "£10m ‘once-in-a-generation’ study to explore effects of children’s social media ban",
-   "summary": [
-    "Research to look at whether ban can make meaningful change in mental health and wellbeing for under-16sCountries around the world are considering social media bans for children, but whether this would work in practice has been hotly debated."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/18/social-media-ban-once-in-a-generation-study",
-   "image": "https://i.guim.co.uk/img/media/ee69770a776940e2892feb15709c3eb47dd97272/366_0_4169_3334/master/4169.jpg?width=140&quality=85&auto=format&fit=max&s=ce46bddea53beb265fd3080ff220912c",
-   "published_at": "2026-11-18T07:00:36Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "f1feb2e4bb485c205d16d3c33c699212d7c215bb",
-   "title": "AI is killing All About Berlin",
-   "summary": [
-    "Article URL: https://nicolasbouliane.com/blog/death-by-ai Comments URL: https://news.ycombinator.com/item?id=50542705 Points: 517 # Comments: 492"
-   ],
-   "source": "Hacker News",
-   "url": "https://nicolasbouliane.com/blog/death-by-ai",
-   "image": null,
-   "published_at": "2026-11-18T06:47:26Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "941d9d7c875e4ee0d5051ef77c2862b36c7b6203",
-   "title": "How important are Nvidia and Jensen Huang to the US economy?",
-   "summary": [
-    "The former Nvidia chief executive has been at the centre of the artificial intelligence boom."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-18T06:04:21Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "aa453d94b5f44ad6708d6acb6ab08ba36df41a64",
-   "title": "Watch: Marco Rubio says recent tech outages are 'completely unrelated' to one another",
-   "summary": [
-    "Microsoft, major US banks, Apple and Air Traffic authorities have been hit over recent days by tech glitches."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/cx1l0vm87yl9o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-18T05:10:02Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "71288f95fb59ec2f094bfc4e50cb0eebfbaf73fe",
-   "title": "‘Human’ wins Cambridge dictionary’s word of the year",
-   "summary": [
-    "Meaning and use of word has become more important in age of AI chatbot, says dictionaryIn a world where the line between people and machines is more blurred than ever, Cambridge dictionary has sided with natural intelligence for its word of the year: human.Breakthroughs in artificial intelligence – led by the arrival of ChatGPT three years ago – have made the question of what it means to be human as vexed as ever, but the dictionary has drawn a firm line with its choice of the word of 2026, defining “human” as “having the qualities, faults, and feelings that people have, as opposed to gods, animals, or machines”."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/science/2026/nov/18/cambridge-word-of-the-year-human",
-   "image": "https://i.guim.co.uk/img/media/d3bff27441734d18c2feb427a057b23c1ce14bdc/1004_0_4725_3780/master/4725.jpg?width=140&quality=85&auto=format&fit=max&s=a34f5c5d68750204b892c4c4d64e18c3",
-   "published_at": "2026-11-18T05:00:34Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "3ede266c56e21b63cc18b11255babcfac78a5acb",
-   "title": "Why is Gemini 4 Carbon taking so long?",
-   "summary": [
-    "Article URL: https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/ Comments URL: https://news.ycombinator.com/item?id=50541790 Points: 169 # Comments: 87"
-   ],
-   "source": "Hacker News",
-   "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
-   "image": null,
-   "published_at": "2026-11-18T04:14:04Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "361deb2e935cf208ddf7cbfe1821f687fb69f680",
-   "title": "Claude was trained on protein sequences at scale",
-   "summary": [
-    "Article URL: http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/ Comments URL: https://news.ycombinator.com/item?id=50541619 Points: 98 # Comments: 42"
-   ],
-   "source": "Hacker News",
-   "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
-   "image": null,
-   "published_at": "2026-11-18T03:47:43Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "9c4d5859c587fa65901a9281ada842ff5bb05840",
-   "title": "Waymo pulls driverless taxis from all US freeways",
-   "summary": [
-    "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-18T03:07:22Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "bc1083d540d97a0cc77b45569e46f131432a2251",
-   "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
-   "summary": [
-    "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
-   "image": null,
-   "published_at": "2026-11-18T01:44:21Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "3bffc55adac8c4d35fb96f07110566e8a3fc5e52",
-   "title": "ID.me terms required for IRS sign-in",
-   "summary": [
-    "Article URL: https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in Comments URL: https://news.ycombinator.com/item?id=50540437 Points: 395 # Comments: 192"
-   ],
-   "source": "Hacker News",
-   "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
-   "image": null,
-   "published_at": "2026-11-18T00:51:45Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "695d1f9a1cf63d531b0dbce87a204a9afc65f3fc",
-   "title": "Google's AI answers reducing search traffic by 40%",
-   "summary": [
-    "Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 529 # Comments: 396"
-   ],
-   "source": "Hacker News",
-   "url": "https://revscope.co/blog/search-seo-geo-2026/",
-   "image": null,
-   "published_at": "2026-11-18T00:17:58Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "9f7286d0bf416b1a14d46fda1fd440f9dd65a311",
-   "title": "Nvidia promises that revenue will keep soaring — for now",
-   "summary": [
-    "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
-   "image": null,
-   "published_at": "2026-11-18T00:16:50Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "56e4daaf37dfc8912bb6ff670dffa060f4f37295",
-   "title": "Ofqual urges ‘life-altering’ penalties for students who use tech to cheat",
-   "summary": [
-    "England’s exam regulator says those caught using AI or smart glasses face disqualification from GCSEs and A-levelsStudents in England could suffer “life-altering” penalties if they are caught relying on AI or smart glasses to cheat, England’s qualifications regulator has said.The head of Ofqual, Ian Bauckham, said students could be disqualified from GCSEs, A-levels and other qualifications if they tried to use AI in assessed coursework, and called for retailers to be barred from marketing wearable technology for exam cheating."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/education/2026/nov/18/ofqual-urges-life-altering-penalties-for-students-who-use-tech-to",
-   "image": "https://i.guim.co.uk/img/media/efcbf5966e70ac7fdc150878c56d20292fd9b3c7/299_0_2911_2329/master/2911.jpg?width=140&quality=85&auto=format&fit=max&s=bff45ca58a2890a34d56eb9828455ad9",
-   "published_at": "2026-11-18T00:01:25Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "33e7877fe4a6a71a52097aa6c16b2e8dc3fbfc72",
-   "title": "Stripe backer Atomico calls for Europe to own its success stories",
-   "summary": [
-    "Europe is home to many of the world's fastest growing companies of all time, veteran VC firm Atomico highlighted in its latest annual State of European Tech report."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/",
-   "image": null,
-   "published_at": "2026-11-18T00:01:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "09c9e42a279f26e99cb06b2878cbc59c28cb96ad",
-   "title": "Europe plans to catch the next computer chip wave",
-   "summary": [
-    "Europe hopes to be a leader in a new generation of computer chips which use light to process data."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-18T00:00:24Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "8239fbdc6243950a23519659ddb467915ea43c0e",
-   "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
-   "summary": [
-    "Nvidia's interim CEO says the company is done selling chips to China."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
-   "image": null,
-   "published_at": "2026-11-17T23:37:48Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "ab05688991353395b500d5e60de275a162a9f490",
-   "title": "Archive Team is archiving the Apple Support Community",
-   "summary": [
-    "Article URL: https://wiki.archiveteam.org/index.php/Apple_Discussions Comments URL: https://news.ycombinator.com/item?id=50539747 Points: 223 # Comments: 87"
-   ],
-   "source": "Hacker News",
-   "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
-   "image": null,
-   "published_at": "2026-11-17T23:32:58Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "daa9959cb12cf974c10c2d0c2c8f544dbf314cab",
-   "title": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
-   "summary": [
-    "Company issues first earnings report after ouster of CEO over allegations of affair with suspected Chinese spyNvidia “does not intend to reinstate Jensen as CEO”, the chairman of the company’s board said Tuesday.",
-    "Harvey Jones made the remark during Nvidia’s first quarterly earnings report since Jensen Huang’s ouster.Nvidia announced the same day that its quarterly revenue beat expectations, coming in at $115.84bn, doubling from the same time period a year ago.",
-    "The third-quarter earnings report comes just days after the world’s most valuable chip company saw the ouster of Huang over allegations of several extramarital affairs, including one with a suspected Chinese spy and two with his own employees."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang",
-   "image": "https://i.guim.co.uk/img/media/8113a55d4f67088521e43617481262c2f4f3358a/366_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=886ec09740a96447a99058c23e7d0c2e",
-   "published_at": "2026-11-17T23:32:16Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "1f0a78839277701cb667ea15be0907398e122d9a",
-   "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
-   "summary": [
-    "Article URL: https://github.com/microsoft/onnxruntime Comments URL: https://news.ycombinator.com/item?id=50539610 Points: 374 # Comments: 78"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/microsoft/onnxruntime",
-   "image": null,
-   "published_at": "2026-11-17T23:18:49Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "8f07365d378cd3fa8c580e52e20b95ee8c8c7e94",
-   "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
-   "summary": [
-    "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
-   "image": null,
-   "published_at": "2026-11-17T23:04:35Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "01ad01e5cd4126d05614ad5b4c53ee4e4926edde",
-   "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
-   "summary": [
-    "The former CEO offered to return to his top role at the company after his resignation last week."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
-   "image": null,
-   "published_at": "2026-11-17T22:42:27Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "b397f013e77fa4814215df1f30ffeb3c9d1f2d24",
-   "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
-   "summary": [
-    "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher.",
-    "Google is a close second with holdings of nearly 14%."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
-   "image": null,
-   "published_at": "2026-11-17T22:29:05Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "d4ef9b25c8f439f5b5c5ce2e2bd968a183edc3a9",
-   "title": "Apple outage: iPhone apps suffer disruption days after major Microsoft issues",
-   "summary": [
-    "Google’s Gmail also affected after problems reported in technological infrastructure in the US and worldwideThousands reported disruptions to Google’s Gmail and Apple’s iPhone apps, such as Apple Pay and iCloud, on Tuesday, according to Downdetector.",
-    "Apple confirmed the outages in a statement but said it had resolved them, while Google said it had not seen internal signs of outages.Apple’s own system status page as of 2.30pmET showed problems with services such as the App Store, iCloud Mail, iCloud Web Apps and AppleCare."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/17/gmail-apple-outage-major-disruption",
-   "image": "https://i.guim.co.uk/img/media/913decd727f709e9f1ff0eb5f14571df37d51344/349_0_3475_2781/master/3475.jpg?width=140&quality=85&auto=format&fit=max&s=accff7931ec6624cdfcc46dbaa4da493",
-   "published_at": "2026-11-17T22:23:56Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "340c2ff0827fd3fe7b0b05f19a9d3a248385dc97",
-   "title": "Quad9's withdrawal from France: A canary in the coal mine",
-   "summary": [
-    "Article URL: https://blog.cloudflare.com/quad9-withdrawal-from-france/ Comments URL: https://news.ycombinator.com/item?id=50538994 Points: 736 # Comments: 306"
-   ],
-   "source": "Hacker News",
-   "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
-   "image": null,
-   "published_at": "2026-11-17T22:13:34Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "28fff23dec51a9bbeda23c867fd8c569187f7af5",
-   "title": "SEC reportedly investigating Nvidia amid Huang exit",
-   "summary": [
-    "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
-   "image": null,
-   "published_at": "2026-11-17T21:48:07Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "f378d4ace0f37459f4d81042bcab2542ff550f53",
-   "title": "Google joins the tech outage trend by announcing it’s not having one",
-   "summary": [
-    "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
-   "image": null,
-   "published_at": "2026-11-17T21:34:50Z",
    "category": "tech",
    "related": []
   }
