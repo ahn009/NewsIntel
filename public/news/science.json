@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-17T22:12:04.972959Z",
- "story_count": 14,
+ "generated_at": "2026-11-18T04:10:10.954558Z",
+ "story_count": 13,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,45 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "4090abf823f348f8f8a5cf1c9d073eb4b1945a5f",
+   "title": "Government risks missing climate targets if EV rules weakened, adviser warns",
+   "summary": [
+    "The UK could miss legally binding climate targets if EV targets are cut, an adviser warns"
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-18T00:44:48Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "e4b0532df231c0843f65482cb47da3237dc35e53",
+   "title": "Pakistan's solar revolution has been so successful the national grid is crumbling",
+   "summary": [
+    "People installing their own solar panels has helped boost the solar share of Pakistan's electricity from 1% to 28%."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-17T23:34:56Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "2e67a7f4fb566c489cc8bbc9b48dc9a274854df0",
+   "title": "Fears toxic lagoon fire led to cancer and miscarriages",
+   "summary": [
+    "The incident took place in Llwyneinion in August 1980."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/cw074g4jk87vo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-17T22:39:23Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "d123b5ef8039d1f7ec4bd6931aa7427d9513d3a9",
    "title": "Campaigners take claim 'regulatory gap' risks poultry farms polluting rivers to High Court",
@@ -156,63 +195,6 @@
    "url": "https://www.sciencedaily.com/releases/2026/11/261115085554.htm",
    "image": null,
    "published_at": "2026-11-17T01:25:39Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "2b0a435a8a483246ef33047875c3a164b324590b",
-   "title": "NASA is offering $1 million for bold ideas to help build a Moon base",
-   "summary": [
-    "NASA is offering $1 million in its new Moon Base Challenge, inviting U.S. students to develop innovative solutions for building humanity’s first permanent lunar outpost.",
-    "From power systems to astronaut safety, their ideas could help make long-term life on the Moon possible and pave the way to Mars."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261115085542.htm",
-   "image": null,
-   "published_at": "2026-11-16T14:02:10Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "019575aece95d9413a48c98917388a15486e5161",
-   "title": "NASA smashed into an asteroid. Now Hera has revealed a strange new world",
-   "summary": [
-    "A European spacecraft has revealed a mysterious, crater-covered side of the asteroid Didymos as it prepares to investigate the aftermath of NASA’s historic 2022 asteroid impact.",
-    "The mission could uncover new clues about the collision and help turn asteroid deflection into a powerful defense against future threats to Earth."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261116023351.htm",
-   "image": null,
-   "published_at": "2026-11-16T13:40:11Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "0baf2c27ca6ab352f4af246bf0782466d0ee0648",
-   "title": "A hidden biological divide may help explain Alzheimer’s and chronic pain",
-   "summary": [
-    "New research reveals that biological sex, genetics, and menopause may dramatically influence Alzheimer's risk, treatment responses, and chronic pain conditions such as fibromyalgia.",
-    "Scientists also uncovered surprising differences in immune activity and gut-brain interactions, opening the door to more personalized treatments for neurological disorders."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261115085535.htm",
-   "image": null,
-   "published_at": "2026-11-16T12:41:09Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "01f22817464058eb1c573d8f7566ebb30a327f7b",
-   "title": "Hidden ecosystem: Scientists discover 245 animals living inside a single deep-sea rock",
-   "summary": [
-    "Deep beneath the Pacific Ocean, scientists have discovered tiny hidden ecosystems inside metal-rich rocks that take millions of years to form.",
-    "Researchers examined 244 nodules and found more than 4,100 animals living in their cracks and cavities, including unique communities unlike those in the surrounding seafloor mud.",
-    "These remarkable miniature habitats could now be threatened by deep-sea mining for valuable metals."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261114202133.htm",
-   "image": null,
-   "published_at": "2026-11-16T11:40:14Z",
    "category": "science",
    "related": []
   }
