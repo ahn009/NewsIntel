@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-18T21:49:51.271051Z",
- "story_count": 22,
+ "generated_at": "2026-11-19T03:13:49.236203Z",
+ "story_count": 18,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -20,7 +20,7 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
+  "https://www.espn.com/espn/rss/news": "ok"
  },
  "stories": [
   {
@@ -254,71 +254,15 @@
    "related": []
   },
   {
-   "id": "6d5c06b1e0d8d74e1d8f766aab74570274f75d08",
-   "title": "A mysterious twist in the universe’s oldest light could reveal new physics",
+   "id": "60cb9759cba14e4d722fa53d9333671e14a23665",
+   "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
    "summary": [
-    "Scientists have spotted hints of a mysterious rotation in the universe’s oldest light that could reveal new physics and shed light on dark matter and dark energy.",
-    "A new technique developed at UC San Diego could help rule out misleading telescope errors, bringing researchers closer to determining whether the strange signal is real."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261116023348.htm",
-   "image": null,
-   "published_at": "2026-11-17T12:14:04Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "0e315aef4e072de3e75854df546edc276a1752f5",
-   "title": "Giant lunar sculpture has visitors over the moon",
-   "summary": [
-    "People can see the 6m-wide sculpture in St Helier until 29 November."
+    "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony."
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm79213ngx45o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-17T12:04:38Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "f23b070fa6c8c79d6e36d1d7587b529058df3398",
-   "title": "Scientists tracked kids for 8 years. What they found about screen time was surprising",
-   "summary": [
-    "A surprising Finnish study found that children who spent more time using screens tended to have better cognitive processing abilities as teenagers, challenging the assumption that screen time is always harmful.",
-    "Researchers suggest that what children do on screens may matter more than how much time they spend using them."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261116014725.htm",
-   "image": null,
-   "published_at": "2026-11-17T12:03:58Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "4946bda7fe48c56ec42de08dd8e7ea4f8eb29b4d",
-   "title": "The hidden language of psychopathy is not what scientists expected",
-   "summary": [
-    "Scientists have discovered that psychopathic traits are associated with surprisingly different patterns of language, with some individuals using more positive words and others expressing greater negativity or less anxiety.",
-    "The findings challenge familiar stereotypes about psychopathy and suggest that the stories people tell about their lives may offer important clues about their personalities."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261116023346.htm",
-   "image": null,
-   "published_at": "2026-11-17T11:51:35Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "eb98baebaaa366f94897077d66b63daf1468e5ab",
-   "title": "ESA’s Hera spacecraft is flying rectangles around NASA’s asteroid crash site",
-   "summary": [
-    "Europe’s Hera spacecraft has arrived at the scene of NASA’s historic asteroid collision to uncover what really happened when a spacecraft slammed into Dimorphos in 2022.",
-    "Its close-up investigation could reveal whether the impact left a crater or reshaped the asteroid entirely, providing crucial clues for protecting Earth from future threats."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261115085545.htm",
-   "image": null,
-   "published_at": "2026-11-17T10:45:41Z",
+   "published_at": "2026-11-17T18:20:36Z",
    "category": "science",
    "related": []
   }

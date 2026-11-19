@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T21:49:51.268672Z",
+ "generated_at": "2026-11-19T03:13:49.234448Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -20,204 +20,517 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
+  "https://www.espn.com/espn/rss/news": "ok"
  },
  "stories": [
   {
-   "id": "2a7ed7ee18a084fe2923844c961561670262b020",
-   "title": "Anthropic sets share price at $83 for stock market debut, above expected range",
+   "id": "37c37d496ab051a8c690ce2eb5793a41a1ef0727",
+   "title": "China’s Xi greets Putin and Trump at APEC before historic summit",
    "summary": [
-    "The firm is slated to begin trading on Thursday under the ticker symbol ANT, with CEO Dario Amodei and other co-founders ringing the bell to open the Nasdaq exchange.The San Francisco-based company, founded in 2021, set a preliminary share price of $70 to $78 last week.",
-    "With all shares counted, those prices put Anthropic’s initial public offering (IPO) from $1.26tn to $1.41tn, which would rank it as the second-biggest market offering ever.",
-    "Elon Musk’s SpaceX debuted on Wall Street in June with a $1.77tn valuation."
+    "Chinese President Xi Jinping greeted Donald Trump and Vladimir Putin at APEC summit."
    ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/18/anthropic-share-price-stock-market-ipo",
-   "image": "https://i.guim.co.uk/img/media/3cfaf92ac35e9034112174826b571870bc5071dc/373_0_3334_2668/master/3334.jpg?width=140&quality=85&auto=format&fit=max&s=2d22a1407dabfdc08a1e4b5ef3db350c",
-   "published_at": "2026-11-18T21:39:15Z",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/chinas-xi-greets-putin-and-trump-at-apec-before-historic-summit?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-19T03:01:27Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "c5c72d03a8e9069d294a8611897be5383fe1db65",
-   "title": "Member of anti-migrant group found guilty of Staffordshire murder",
+   "id": "253230d17cbe09598815310dca8e5cff95e6eeeb",
+   "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
    "summary": [
-    "Raise the Colours activist Billy Allison, 36, killed man in ‘completely unprovoked and unjustified’ attack, say policeA member of anti-migrant group Raise the Colours has been found guilty of murdering a man in a “completely unprovoked and unjustified” attack.Billy Allison, 36, delivered a “very, very hard” punch with the “stance and skill of an experienced fighter” which killed 44-year-old Matthew O’Gara while he was on a night out in Lichfield on 24 May."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/18/member-anti-migrant-group-guilty-murder-raise-colours-billy-allison",
-   "image": "https://i.guim.co.uk/img/media/dbcd869de1ff99860883223def87446984285467/0_350_812_649/master/812.jpg?width=140&quality=85&auto=format&fit=max&s=1a47b76eb4f1d550668e0e84fbda51af",
-   "published_at": "2026-11-18T21:27:54Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "017ffa83242fd1317136444db9be2d3ce3b76421",
-   "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-   "summary": [
-    "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January."
+    "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump."
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-18T21:13:06Z",
+   "published_at": "2026-11-19T02:59:06Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "30e4c685f996623c7138e1eb1c14030917c141bf",
-   "title": "Floodwaters submerge cars and parking lots in Florida town",
+   "id": "1993f9ae53fd753e9ab673a8250d89b8517f6bb7",
+   "title": "Google’s driverless car hits a roadblock",
    "summary": [
-    "Floodwaters turned streets and parking lots into rivers in Davie, Florida, leaving drivers facing dangerous conditions."
+    "Waymo faces fresh scrutiny after a driverless car stalled in San Francisco floodwaters amid other traffic incidents."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_floodwaters-submerge-cars-in-florida-181126?traffic_source=rss",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/googles-driverless-car-hits-a-roadblock?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-18T21:08:04Z",
+   "published_at": "2026-11-19T02:57:56Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "969391b425f91fdea5c575e84ea65fad68315450",
-   "title": "FAA chief urges critics to ‘lay off’ Sean Duffy for flight stoppage: ‘Blame me’",
+   "id": "dfbfb0dfd8f81e95ec1f9817da628f11f271dda3",
+   "title": "What do Trump, Putin and Xi want from their Shenzhen meeting?",
    "summary": [
-    "Comments come as the top US transportation official faces scrutiny over his handling of tech outage crisisThe head of the Federal Aviation Administration (FAA) took responsibility for the nationwide ground stop that affected more than 12,400 flights on Friday, urging people to “lay off” Sean Duffy, the transportation secretary.“I take full responsibility for it,” Bryan Bedford, the FAA administrator, said at an aviation event staged by the Hill on Wednesday."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/18/faa-sean-duffy-flight-stoppage",
-   "image": "https://i.guim.co.uk/img/media/4616ce07e7f4de93e722db12aac9bc8b412424c5/0_0_4183_3346/master/4183.jpg?width=140&quality=85&auto=format&fit=max&s=f371062e4069fc225f68db85be5fe6f9",
-   "published_at": "2026-11-18T21:04:58Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "631d6db2dccfd6835bfe902061698b130a7a3af4",
-   "title": "US Defence Secretary Hegseth reveals military partnership on Venezuela trip",
-   "summary": [
-    "Pete Hegseth says the agreement will include joint training and intelligence sharing with the Venezuelan military."
+    "The US, Chinese and Russian leaders are to hold their first three-way talks on the sidelines of the APEC summit."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/19/what-do-trump-putin-and-xi-want-from-their-shenzhen-meeting?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-18T21:01:05Z",
+   "published_at": "2026-11-19T02:57:19Z",
    "category": "world",
    "related": []
   },
   {
    "id": "178f94915ff3cf3428211932a14e5b6855a55b80",
-   "title": "Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live",
+   "title": "Trump downplays US outages and Nvidia security concerns in remarks before China summit – live",
    "summary": [
-    "The secretary of homeland security flew to attend a college game Saturday, after thousands of flights were cancelledSign up for US breaking News emailLinked to that, the White House held a briefing call with several reporters today about the wave of tech outages affecting several industries.",
-    "CNN reported that officials said the administration underscored that what has happened is not as a result of cyber-attacks but due to the “hardening and upgrading of our systems”, including “systems being patched, hardware being applied”.Per CNN, an official added: “It’s good the American people are focused on the need to upgrade our legacy systems.” Continue reading..."
+    "Asked by Fox News about China’s alleged spying operation, president says: ‘We spy on them too.",
+    "I think we spy better than they do’Sign up for US breaking News emailLinked to that, the White House held a briefing call with several reporters today about the wave of tech outages affecting several industries."
    ],
    "source": "The Guardian",
    "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
-   "image": "https://i.guim.co.uk/img/media/eedcc9a55e41953e4e591b40cc4dd19f08e9c074/368_0_4743_3795/master/4743.jpg?width=140&quality=85&auto=format&fit=max&s=d55919554ad283a6dea6af077192b393",
-   "published_at": "2026-11-18T20:57:57Z",
+   "image": "https://i.guim.co.uk/img/media/f837a0e71abfc6b175a106e74b7d986199348ce2/712_0_3621_2898/master/3621.jpg?width=140&quality=85&auto=format&fit=max&s=52b073360cb78c8261904cd31199a12d",
+   "published_at": "2026-11-19T02:47:40Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "d4e96d8fb2553858a2a6bf285a208a0291714316",
-   "title": "What does Israel’s new ground offensive mean for Palestinians in Gaza?",
+   "id": "8d98eca7b4f90408847495f3f6a4b55d8237f273",
+   "title": "One Nation’s general manager takes leave amid speculation he will be sidelined after leaks and vetting scandals",
    "summary": [
-    "Israeli tanks advance beyond the 'Yellow Line', forcing Palestinians to flee again in Gaza."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-18T20:38:06Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "2942e262e743733a6120a912402a17a336fe716d",
-   "title": "Pew Research: Islam on track to become world’s largest religion by 2035",
-   "summary": [
-    "The report projects steady increases for both Christianity and Islam from 2020 to 2070."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/18/pew-research-islam-on-track-to-become-worlds-largest-religion-by-2035?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-18T20:37:40Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "234a1b5b2a798a2e841944dd332eaa7a1045b950",
-   "title": "Birmingham council granted interim ban on union jacks on lamp-posts",
-   "summary": [
-    "High court judge issues order against Raise the Colours over flags on council-owned street furnitureThe campaign group Raise the Colours has been temporarily banned from placing union jacks on lamp-posts and roundabouts in Birmingham after a legal challenge by the local council.The high court judge Emma Kelly granted an interim injunction banning the placing of all flags on council-owned street furniture without prior permission in a judgment issued on Wednesday, Birmingham city council said."
+    "Exclusive: Kelvin Morton was hired in February in appointment heralded as turning point for professionalisation of partyGet our daily political email, free app or daily news podcastOne Nation’s general manager, Kelvin Morton, has taken leave amid speculation that he will be sidel"
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/18/birmingham-council-interim-ban-union-jacks-raise-the-colours",
-   "image": "https://i.guim.co.uk/img/media/8894065417af832fc62326275bc5ede991d87eb1/0_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=aab4ed2543cd252c343c476ac7b5efc5",
-   "published_at": "2026-11-18T20:32:58Z",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/19/one-nation-general-manager-takes-leave-amid-sidelining-speculation-politics-ntwnfb",
+   "image": "https://i.guim.co.uk/img/media/fc7bad15212bc92a35ac3e130045daf1a4822d57/163_0_1218_974/master/1218.jpg?width=140&quality=85&auto=format&fit=max&s=37dbdc51850210108cc31a4e128fc0f8",
+   "published_at": "2026-11-19T02:36:37Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "129d48b31739a5a274b680f47437d3a1e955f6b9",
-   "title": "PlayStation suffers widespread network problems hours before release of GTA VI",
+   "id": "ffaf75f088d156ed3ab1f8b8c72ca9db19bdc8f7",
+   "title": "GTA 6 dazzles gamers in Australia with ‘fully lived-in, breathable world’",
    "summary": [
-    "Disruption comes at critical moment, with Grand Theft Auto VI one of the most eagerly anticipated titles in historyPlayStation has suffered widespread network problems just hours before the release of Grand Theft Auto VI, one of the most eagerly anticipated titles in recent gaming history.The disruption emerged Wednesday, causing frustrated players to flood social media with complaints about failed logins and server connection problems downloading games and updates."
+    "And the reviews, mere hours into release, reflect universal acclaim.",
+    "The game has already vaulted to the top spot on Metacritic’s list of the best games of all time, sitting above 1998’s The Legend of Zelda: Ocarina of Time with an unprecedented 99/100 score."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/games/2026/nov/18/playstation-down-grand-theft-auto-vi-game-release",
-   "image": "https://i.guim.co.uk/img/media/bd09cb7f2214cc6b9a941223e83cc6a10d1131fd/552_0_5493_4397/master/5493.jpg?width=140&quality=85&auto=format&fit=max&s=9f537a4477e1396d49f73415d1d8fa22",
-   "published_at": "2026-11-18T20:28:42Z",
+   "url": "https://www.theguardian.com/games/2026/nov/19/gta-6-grand-theft-auto-vi-release-launch-australia-first-to-play-game",
+   "image": "https://i.guim.co.uk/img/media/e5ce165329932836314e73aaa1608c379bc0f198/570_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=bc6c883bc7739c7c41e75c2a5cdd55f7",
+   "published_at": "2026-11-19T02:30:12Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "a2083364aaa5d83eef31f04dbd7ee75c4fe9fe47",
-   "title": "Putin’s nuclear briefcase makes surprise appearance at China summit",
+   "id": "584db0d8b9b3e36b94ac08e30618d840d0d7fc2f",
+   "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
    "summary": [
-    "Russian President Vladimir Putin’s nuclear briefcase was spotted at the APEC summit in China."
+    "Anthropic started just five years ago and is now one of the biggest names in artificial intelligence."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-19T02:20:15Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "ced773150d763501545dbffc398a481f77e3e180",
+   "title": "ICJ to rule on Rohingya genocide case against Myanmar",
+   "summary": [
+    "The Gambia accuses Myanmar of genocide following a 2017 military crackdown that displaced at least 730,000 Rohingya."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/putins-nuclear-briefcase-makes-surprise-appearance-at-china-summit?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-18T20:24:50Z",
+   "published_at": "2026-11-19T02:10:43Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "ee7b14dff8918da33f98c09c38b6ac32f760ec90",
-   "title": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military",
+   "id": "a84d1d248302c696b10820b5fc17323d20daeb64",
+   "title": "Hegseth unveils new US-Venezuela military deal",
    "summary": [
-    "Defense secretary asserts US dominance on trip that would have seemed ‘impossible, almost unbelievable’ a year agoPete Hegseth has used his first visit to Venezuela since US special forces abducted its former president, Nicolás Maduro, to boast of the dictator’s capture during what he called “the single most sophisticated military operation in the history of Latin America”.Maduro was controversially seized by Delta Force operatives in the early hours of 3 January, setting in motion an improbable rapprochement between Washington and Venezuela’s anti-imperialist “Chavista” regime, which has ruled since 1999."
+    "Pete Hegseth has unveiled a new military deal with Venezuela in his first visit since the US capture of Nicolas Maduro."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/hegseth-unveils-new-us-venezuela-military-deal?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-19T01:48:46Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "968788ae22a13a686e77006f57fd573ec0d79e63",
+   "title": "General Pants Co enters voluntary administration, putting hundreds of jobs at risk",
+   "summary": [
+    "Australian fashion chain becomes latest retailer in trouble after David Jones, Cue and Veronika MaineGet our breaking news email, free app or daily news podcastYouth fashion chain General Pants Co has become the latest major retailer to slide into voluntary administration, putting nearly 500 jobs at risk as Australia’s retail sector continues to struggle with cash-strapped shoppers and online-only competitors.The collapse comes not long after that of upmarket department store David Jones and premium womenswear brands Cue and Veronika Maine, underscoring the mounting toll of tough economic conditions on established retailers."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
-   "image": "https://i.guim.co.uk/img/media/5a2659b36cd46ba418be2f766406edf0de385668/204_0_2041_1632/master/2041.jpg?width=140&quality=85&auto=format&fit=max&s=a602efe982c7bd9253634a0a1cb5dd5a",
-   "published_at": "2026-11-18T20:24:19Z",
+   "url": "https://www.theguardian.com/business/2026/nov/19/general-pants-co-enters-voluntary-administration-jobs-at-risk",
+   "image": "https://i.guim.co.uk/img/media/7d56f8d844b5cf5df1e5f586bc7ca3b43c5984d0/0_0_2497_1997/master/2497.jpg?width=140&quality=85&auto=format&fit=max&s=4eb8e029850f2e5e28dac2de2696cd1d",
+   "published_at": "2026-11-19T01:46:21Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "18f5a66321b5d41b1214ed31e7f6909cc6b51dee",
-   "title": "Muslims projected to overtake Christians as world’s largest religious group",
+   "id": "d93c4533d32aa8584276f8a06c39e49079f363b4",
+   "title": "Why a trio of experts alleges Jeffrey Epstein did not die by suicide",
    "summary": [
-    "New Pew Research Center projections point to major changes in the world’s religious landscape by 2070."
+    "A new report alleges that injuries on Epstein's body were overlooked by medical examiners during his 2019 autopsy."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/muslims-projected-to-overtake-christians-as-worlds-largest-religious-group?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/19/why-a-trio-of-experts-alleges-jeffrey-epstein-did-not-die-by-suicide?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-18T20:21:34Z",
+   "published_at": "2026-11-19T01:17:08Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "03f3ffb8701d224496aaef9c6575b618a8a447ad",
-   "title": "US loses measles-free status after 26 years in historic setback",
+   "id": "23da84025ec76cd9df631407ea7663d1e052b555",
+   "title": "Settler rams into Palestinians at multiple locations in central Israel",
    "summary": [
-    "The US has lost its measles elimination status after 26 years, as its largest outbreak in over three decades continues."
+    "At least eight Palestinians were injured after a settler driver was caught on camera running them over."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_us-loses-measles-free-status-after-26-years-181126?traffic_source=rss",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/settler-rams-into-palestinians-at-multiple-locations-in-central-israel?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-18T20:18:25Z",
+   "published_at": "2026-11-19T01:13:45Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "bef9892dbf5535625f39c97828ca398a4fc6d92a",
+   "title": "Australia may have ‘one foot in recession’ as unemployment surges to five-year high",
+   "summary": [
+    "Jobless rate rises from 4.7% to 4.9% for October, latest bureau of statistics figures revealGet our daily political email, free app or daily news podcastAustralia may already have “one foot in recession” after unemployment surged to 4.9% in October, from 4.7%, in a shock increase that will add to rising worries this year’s five interest rate hikes have pushed the economy past a tipping point.New figures from the Australian Bureau of Statistics showed the number of employed people dropped by 43,500 in the month, confounding forecasts for jobs growth and a steady jobless rate."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/19/unemployment-rate-jumps-highest-level-five-years-job-figures",
+   "image": "https://i.guim.co.uk/img/media/ccbba5c44390f21ce8f21f8caaf8486c31bac8c4/529_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=cdc902f13711b00113b62f2359c282f2",
+   "published_at": "2026-11-19T01:12:55Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "dc8971aae4da6e376a93616140b785b67118d4c2",
+   "title": "Elon Musk claims ‘I’m not Maga’ and says he regrets vast sums to back Republicans",
+   "summary": [
+    "Musk, who aligned with Trump and was frequent White House guest, says he feels ‘pretty foolish’ about record midterm spendingElon Musk denied being Maga on Wednesday, despite aligning himself intensely with Donald Trump’s Make America Great Again movement since 2024.“I’m not Maga,” the world’s richest person told the New York Times Dealbook summit, which he attended via video call from China, where he is one of several US business leaders who have accompanied Trump on his trip to Asia."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/18/elon-musk-maga-trump",
+   "image": "https://i.guim.co.uk/img/media/0d10d08459c8b09152e92f3ebf55f9712a98d380/2128_149_4811_3852/master/4811.jpg?width=140&quality=85&auto=format&fit=max&s=8839487fb786add260720cdfc034e3e8",
+   "published_at": "2026-11-19T01:07:51Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "da28dacabaf0124fa45a8fbecbadfb545e605924",
+   "title": "Crimean Bridge attacked again, Russian official says",
+   "summary": [
+    "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-19T01:05:03Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "6a0c40898d5493631295f2e1e73520d48c7bb489",
+   "title": "Record-breaking rain lashes California’s Bay area as ‘atmospheric river’ arrives",
+   "summary": [
+    "Southern Californians were also warned of potential coastal flooding, heavy surf, wave damage to coastal piers and parking lots and beach sand erosion.",
+    "Heavy snow warnings were issued for higher elevations of the Sierra Mountains, including in the Greater Lake Tahoe area."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/18/california-atmospheric-river-flooding",
+   "image": "https://i.guim.co.uk/img/media/f9f5212fc0956900ba97c6edec783a649f9bb14b/630_0_6300_5042/master/6300.jpg?width=140&quality=85&auto=format&fit=max&s=a535c6eaf85cf6ca207953a5b7cc1559",
+   "published_at": "2026-11-19T01:03:34Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "eef9406edacd92a1634255b5ac9e1baaadcdac58",
+   "title": "Beau Lamarre-Condon’s testimony about Jesse Baird and Luke Davies’ deaths ‘fanciful in the extreme’, crown alleges",
+   "summary": [
+    "Prosecutor argues accused could be convicted on strength of forensic and ballistics evidence alone in closing statementGet our breaking news email, free app or daily news podcastBeau Lamarre-Condon’s claims about the deaths of Jesse Baird and Luke Davies are “fanciful in the extreme”, a court has heard.The former police officer is accused of fatally shooting Baird and his new partner, Davies, with his police service weapon in Baird’s Paddington home in Sydney on 19 February 2024."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/19/beau-lamarre-condon-jesse-baird-luke-davies-ntwnfb",
+   "image": "https://i.guim.co.uk/img/media/0531a2e953231af47512ada3cda5ebb111031ea5/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=0c5c24c6477967ed5f7c90be9a04b6d2",
+   "published_at": "2026-11-19T01:00:25Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "94d1cffd8a5c380264042fd5b0af291a4470625a",
+   "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+   "summary": [
+    "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-19T00:49:19Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "ac9d432219dea5842e5c7aa29cf33709f5dcc2dc",
+   "title": "German FA backs France’s Diallo for FIFA presidency",
+   "summary": [
+    "Incumbent Gianni Infantino has resisted repeated calls to resign, citing overwhelming global support."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/19/german-fa-backs-frances-diallo-for-fifa-presidency?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-19T00:44:50Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "eb6fe966f6943d03e76d8fcb51e3782be81fa302",
+   "title": "Kenya’s milk shortage deepens as drought hits farmers and pushes up prices",
+   "summary": [
+    "Farmers are receiving higher payments but are producing far less milk and also face rising prices for hay."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/19/kenyas-milk-shortage-deepens-as-drought-hits-farmers-and-pushes-up-prices?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-19T00:40:01Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "e186ff9e0d20379b82bc7f2ae800b769b933822c",
+   "title": "India's religious make-up - what a new Pew study says about Hindus and Muslims",
+   "summary": [
+    "India will remain predominantly Hindu, though its Muslim population is projected to grow faster, according to a new survey."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqd01epyrz1do?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-19T00:38:52Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "d714363c5dff604761c5c988bab5a6ffdd0bee47",
+   "title": "Somalia’s constitutional overhaul tests its fragile federal bargain",
+   "summary": [
+    "Mohamud’s reforms promise stronger government, but regional resistance and violence threaten the fragile deal of 2012."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/19/somalias-constitutional-overhaul-tests-its-fragile-federal-bargain?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-19T00:37:03Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "5590de02373bc9cf95a44f9aa894da25118bc210",
+   "title": "Anthropic raises $81.3bn in biggest IPO of all time",
+   "summary": [
+    "AI giant prices shares at $83 in blockbuster market debut."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/economy/2026/11/19/anthropic-raises-81-3bn-in-biggest-ipo-of-all-time?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-19T00:20:03Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "76f1db5160258ba2a00e3d1bb4eeb8d1891ee088",
+   "title": "Unvaccinated Pennsylvania resident dies amid historic US measles resurgence",
+   "summary": [
+    "Pennsylvania records eighth measles death of 2026, a day after the US formally loses its 26-year elimination status."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/19/unvaccinated-pennsylvania-resident-dies-amid-historic-us-measles-resurgence?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-19T00:14:40Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "8ee7639c638c823084177f8d5c4df7f27b68a8f3",
+   "title": "EU governments approve trade deal with Indonesia to offset Trump tariffs",
+   "summary": [
+    "The deal, initially concluded in 2025, will see both sides remove import duties on more than 90 percent of products."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/economy/2026/11/19/eu-governments-approve-trade-deal-with-indonesia-to-offset-trump-tariffs?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-19T00:11:40Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "8a80a14053f22bd31e1be08cb855227a89f001b1",
+   "title": "Mike Lynch’s superyacht had unidentified vulnerability to high winds, report finds",
+   "summary": [
+    "Bayesian, which sank off Sicily killing seven including tech tycoon, had not been fully assessed, say investigatorsThe superyacht Bayesian, which sank in a storm off Sicily killing seven people including the tech tycoon Mike Lynch and his teenage daughter, was vulnerable to knockdown but crew were not aware as it had never been assessed at anchor with its sails down, the final report from the UK’s Marine Accident Investigations Branch (MAIB) has said.The 56-metre (184ft) vessel was anchored near the fishing port of Porticello when it sank during a violent storm shortly before dawn on 19 August 2024."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/19/mike-lynch-superyacht-bayesian-vulnerability-to-high-winds-report",
+   "image": "https://i.guim.co.uk/img/media/825ecd867cce6a2e631d42ff9c349a0da9713bf2/483_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=110d07447a96b088d4f99cd9e584c34a",
+   "published_at": "2026-11-19T00:01:11Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "63f8d093e7784231af9568d1777e2a2e33380e46",
+   "title": "Iran war live: Trump says Iran seeks new weapons; Houthis target Riyadh",
+   "summary": [
+    "Trump has claimed that Iran is seeking to develop biological weapons as the Saudi-led coalition combats Houthi missiles."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-19T00:01:02Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "56673e8fb67a197fb2834c8dce6ad14c765f9899",
+   "title": "Anthropic IPO raises record $81.3 billion on strong AI demand",
+   "summary": [
+    "The five-year-old artificial intelligence powerhouse priced its initial public offering at $83 a share, shrugging off growing concern about a possible AI bubble and volatility in tech stocks.(Image credit: Idrees Mohammed)"
+   ],
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price",
+   "image": null,
+   "published_at": "2026-11-18T23:54:56Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "8bc7adf785ac257ab5c22156eba35874a57a5a4e",
+   "title": "Israel uses Gaza swimming video to minimise winter hardships",
+   "summary": [
+    "Israel shared an Al Jazeera video of Palestinians swimming, to suggest winter storms in Gaza can’t be that bad."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israel-uses-gaza-swimming-video-to-minimise-winter-hardships?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-18T23:53:21Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "65db81481c01dbb60f5f94c29110e538f3547164",
+   "title": "Why has Waymo pulled all its driverless cars from US freeways?",
+   "summary": [
+    "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-18T23:47:46Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "117fe4e437c2b31f823a3b969bf7786742e4a6d9",
+   "title": "Migrant boat capsizes off Senegal, leaving at least one dead",
+   "summary": [
+    "Incident comes days after another boat capsized in Senegalese waters, and Spain declared a migration emergency."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/migrant-boat-capsizes-off-senegal-leaving-at-least-one-dead?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-18T23:36:23Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "df574ed488aebcc787b7f81d7a37a99f1758a274",
+   "title": "NASA’s Voyager 1 hits record one light-day distance, 50 years after launch",
+   "summary": [
+    "Voyager 1 reaches one light-day from Earth, marking a historic milestone nearly 50 years after its 1977 launch."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/nasas-voyager-1-hits-record-one-light-day-distance-50-years-after-launch?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-18T23:35:12Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "c66416daa819ed690fa8e4ff2cb8e74953dac34f",
+   "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
+   "summary": [
+    "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-18T23:28:03Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "7f5dccfcc1fb8c9ba8264ad4508a0c6c56bcac64",
+   "title": "Crimea bridge has been attacked again, says Russian-installed governor",
+   "summary": [
+    "All relevant services are on site and at work.",
+    "An assessment of the damage is under way,” Sergei Aksyonov, the Kremlin-appointed governor of Crimea, wrote on Telegram."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/19/kerch-bridge-crimea-russia-attacked-again-ukraine",
+   "image": "https://i.guim.co.uk/img/media/1f65e3d2ebcc8d811a18f37903e44996945c8da4/687_199_2164_1731/master/2164.jpg?width=140&quality=85&auto=format&fit=max&s=9c83e43296f3dcc9b75586c112cf0b22",
+   "published_at": "2026-11-18T23:27:37Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "a2c3574e4f0cbe70b387dbe8a1eed09f94db08fa",
+   "title": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza",
+   "summary": [
+    "First incursion across boundary since ceasefire deal comes as Eisenkot seeks to form government without NetanyahuThe Israeli military crossed into Hamas-controlled central Gaza on Wednesday in its first ground operation across the “yellow line” boundary since a fragile ceasefire was agreed last October, forcing dozens of displaced Palestinians to flee their tents.Israeli tanks rolled along the Salah al-Din road, Gaza’s main north-south route, a day after the US-backed Board of Peace, a body overseeing the ceasefire, accused Israel and Hamas of failing to honour their commitments to end hostilities."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza",
+   "image": "https://i.guim.co.uk/img/media/d94406113e8bb1466134873bf0554edf8a0ac2a7/340_0_3588_2871/master/3588.jpg?width=140&quality=85&auto=format&fit=max&s=c4c5f88e63f04ff190d99622bcb62fac",
+   "published_at": "2026-11-18T23:25:25Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "838299843b0744c46dcc13fae1c41f70c2a7c27c",
+   "title": "GTA 6 launches after 13-year wait, breaking pre-order records",
+   "summary": [
+    "Grand Theft Auto’s latest instalment is out, ending a 13-year wait for one of gaming’s biggest franchises."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/gta-6-launches-after-13-year-wait-breaking-pre-order-records?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-18T23:18:03Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "ef2050480c726e326bf4c7050cab49dd4db8e4cf",
+   "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+   "summary": [
+    "No state has ever been found guilty by an international court of committing genocide."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-18T23:04:06Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "c593b9242bddd3e2a395153e88955c2496ebdf79",
+   "title": "US steps up pressure on Iran-backed Hezbollah with new sanctions",
+   "summary": [
+    "The US Treasury has accused Hezbollah of using charitable organisations as 'fronts' for fundraising."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/18/us-steps-up-pressure-on-iran-backed-hezbollah-with-new-sanctions?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-18T22:56:19Z",
    "category": "world",
    "related": []
   },
@@ -230,320 +543,7 @@
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-18T20:14:57Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "c503007bfb43377908ab3edd326fb35222fb5cfc",
-   "title": "US lawmakers launch probe into Lutnick’s actions amid Nvidia scandal",
-   "summary": [
-    "Letter alleges possible conflict of interest in commerce secretary not adding Megaspeed to US trade blacklist."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-launch-probe-into-lutnicks-actions-amid-nvidia-scandal?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-18T20:14:04Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "3b3a6f9678f590e87bf6d68aaef5b0bfebd888ac",
-   "title": "Trump and Putin to meet one-on-one in China Thursday",
-   "summary": [
-    "US and Russia leaders meet in China amid efforts to resolve Ukraine crisis and enhance post-war security guarantees."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/18/trump-and-putin-to-meet-one-on-one-in-china-thursday?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-18T20:12:20Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "ff5046da676c68b816a357d50970286bd05e4660",
-   "title": "William and Kate meet PM Modi as they wrap up India tour",
-   "summary": [
-    "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize"
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-18T20:07:08Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "55cee39d438a9c698cac9059726f7a9fbde5f75a",
-   "title": "Shabana Mahmood backs ban on police marching in pride events in uniform",
-   "summary": [
-    "Home secretary says ‘routine two-tier policing’ does not exist, but public trust in impartial law enforcement must be restoredShabana Mahmood has backed a ban on police officers marching in pride events in uniform as she said there had been a “few examples” of two-tier policing.Although she said there was no systematic or routine two-tier policing, the home secretary said “a new impartiality standard” was necessary to reverse the fall in the public’s faith in law enforcement."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/18/shabana-mahmood-backs-ban-on-police-marching-in-pride-events-in-uniform",
-   "image": "https://i.guim.co.uk/img/media/fe32e8fff64ccad51c80ae6cbee03e277ab28439/170_0_2659_2128/master/2659.jpg?width=140&quality=85&auto=format&fit=max&s=f3803d60f09103d48c5683bac96d774d",
-   "published_at": "2026-11-18T20:03:50Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "c5cf8f776047a83470b7e032cdda1aa375ef0790",
-   "title": "Heated debate escalates into on-air fight on Armenian TV",
-   "summary": [
-    "A heated political debate on Armenia’s Public Television escalated into a physical altercation"
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/heated-debate-escalates-into-on-air-fight-on-armenian-tv?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-18T19:56:17Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "ddaa3f50c527a164d7ae84201aac4a6a3209a9b1",
-   "title": "US admits ‘substantial’ change to extradition request translation for leftist activist",
-   "summary": [
-    "DoJ cites three examples of alterations from English into Spanish for James ‘Fergie’ Chambers after Guardian reportUS authorities have admitted altering the translation of an extradition request for James “Fergie” Chambers from English into Spanish, attributing violent and illegal actions to the wealthy activist and philanthropist that were not in the original.Chambers’s case is the first known instance of the US seeking to extradite a citizen over alleged support for Hamas, an accusation apparently tied to an international money-laundering charge in the criminal complaint underpinning the extradition request and donations to organizations helping Palestinians in Gaza."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/18/fergie-chambers-extradition-request-translation",
-   "image": "https://i.guim.co.uk/img/media/f27c634fbe0907856aaa981eebb05679b55ad4aa/247_0_4681_3744/master/4681.jpg?width=140&quality=85&auto=format&fit=max&s=cc38d0284f108bb45abb2f0de8259ad8",
-   "published_at": "2026-11-18T19:45:30Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "251bcc5da014a43c1fbafb74d0740d4d70712b62",
-   "title": "Ex-Tory MPs barred from shaping Reform UK’s immigration policy, says Zia Yusuf",
-   "summary": [
-    "Comments by Reform’s home affairs spokesperson raise questions about unity at top of the partyFormer Conservative defectors to Reform UK have been barred from shaping the party’s immigration policy, its home affairs spokesperson has claimed, excluding in effect the majority of the party’s MPs.“If you are in the category of being concerned about [former Conservatives being involved in Reform], none of the above are going to be involved in immigration policy or borders policy,” Zia Yusuf told a podcast by the Spectator magazine."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/18/ex-tory-defectors-barred-from-shaping-reform-uks-immigration-policy-says-yusuf",
-   "image": "https://i.guim.co.uk/img/media/297daa4e63256807e9b1bfbba9295164f2d00efe/408_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=ecb25e91a580b3d502665e1f62230140",
-   "published_at": "2026-11-18T19:34:31Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "d1d0a16a52986891882f28a9d60fc5144c621966",
-   "title": "Four killed as Russian strikes hit Ukraine’s Odesa",
-   "summary": [
-    "At least four people have been killed and thirteen more injured after Russian strikes hit Ukraine’s port city of Odesa."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/four-killed-as-russian-strikes-hit-ukraines-odesa?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-18T19:31:31Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "e4b1407a68753c1860a81270b1e221e2fff16b20",
-   "title": "Voyager 1 reaches one light-day from Earth after 49 years in space",
-   "summary": [
-    "NASA’s Voyager 1 has reached a record distance of more than 16 billion miles from Earth, 49 years after its launch."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/voyager-1-reaches-one-light-day-from-earth-after-49-years-in-space?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-18T19:30:51Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "b61aaa9aea6fb675dbeb3b3122c9d113f7ebaf9d",
-   "title": "Israeli settler kills Palestinian grandmother in occupied West Bank",
-   "summary": [
-    "A Palestinian grandmother was killed by an Israeli settler in the occupied West Bank."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-settler-kills-palestinian-grandmother-in-occupied-west-bank?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-18T19:27:42Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "51664ed2311ddc481483ee2b14482ce1b32b1e91",
-   "title": "EU ‘to close door’ to talks on long-term UK ties until Burnham has decided on Brexit",
-   "summary": [
-    "Diplomats say piecemeal approach of resets is coming to an end and Europe wants clarity on whether Britain wants to reverse its exitThe EU will shut the door to discussions with Andy Burnham about the UK’s longer-term relationship with the bloc until the government has decided whether it wants to proceed with reversing Brexit, diplomats have said.European capitals are also warning they have reached the end of the line for piecemeal “reset” summits with the UK and want the prime minister to focus on his next steps domestically before they proceed."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/18/eu-uk-reset-summit-talks-burnham-brexit",
-   "image": "https://i.guim.co.uk/img/media/f7ad60a116dae04179547396d95174f6a9e9f4d8/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=f5cf8619c3e847045eddc8cc1b23273b",
-   "published_at": "2026-11-18T19:17:19Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "b822906e6de8ab6f5ac81a2f09d8a47a4304d2da",
-   "title": "The leave campaign has been resurrected, so how should Burnham respond?",
-   "summary": [
-    "No 10 is confident the PM can make the case for closer EU ties, while others worry about leaving the campaign solely in his handsThe launch of a pro-Brexit campaign was one of the few genuine surprises this week in Westminster, even if the arguments were straight out of a familiar playbook.The video launched on X over the weekend, with scenes of riots in France, champagne flowing in Brussels, and European politicians saying how desperate they were for Britain’s cash."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/18/pro-brexit-stay-out-same-playbook-analysis",
-   "image": "https://i.guim.co.uk/img/media/e7e77af1ae8f833009340ea6ee0c97de81ec17f2/0_0_4903_3922/master/4903.jpg?width=140&quality=85&auto=format&fit=max&s=a012fd8a6c11c067882c24e746e84b99",
-   "published_at": "2026-11-18T19:02:40Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "383656fa52b5f2fc463a6f615559156cc69b7a81",
-   "title": "‘Neighbourhood support teams’ to pave way for national care service, Cooper announces",
-   "summary": [
-    "Health secretary said programme would help about 566,000 vulnerable people in England by AprilMore than half a million of the most vulnerable people in England will be offered help from joint NHS and social care teams that will pave the way for the promised national care service, Yvette Cooper has announced.Elderly people, care home residents, those with dementia and people near the end of their lives will receive assistance from the new programme."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/society/2026/nov/18/new-neighbourhood-support-teams-to-pave-the-way-for-national-care-service-cooper-announces",
-   "image": "https://i.guim.co.uk/img/media/1f00e067fbd99f6cd691b01ede53684111f7365b/526_0_3620_2896/master/3620.jpg?width=140&quality=85&auto=format&fit=max&s=70783d345c1f01ac7f977eda5054e88b",
-   "published_at": "2026-11-18T18:56:02Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "ccd6ba57f213edd23fa027bca07d7b5e730b9af5",
-   "title": "Israeli court extends Gaza doctor Abu Safia’s detention without charge",
-   "summary": [
-    "An Israeli court extended the detention of Abu Safia nearly two years after Israel's army detained him."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/18/israeli-court-extends-gaza-doctor-abu-safias-detention-without-charge?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-18T18:22:26Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "c4915d5429f3bbeb992f328af80002d71a13b0ad",
-   "title": "As overdose deaths fall, White House makes misleading claims about who deserves credit",
-   "summary": [
-    "In a statement celebrating the historic drop in drug deaths, the White House pointed to successes since President Trump took office.",
-    "In fact, the biggest progress happened under the Biden administration.(Image credit: Evan Vucci)"
-   ],
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/18/nx-s1-6044209/drug-deaths-overdose-drop-trump-biden-fentanyl",
-   "image": null,
-   "published_at": "2026-11-18T18:18:16Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "2fa85661d03776d789ad21e84bafd0adf443d39c",
-   "title": "Karl Kani dressed hip-hop royalty for decades. Now he's telling his own story",
-   "summary": [
-    "On NPR's Morning Edition, fashion designer Karl Kani talks about his new memoir, dressing some of hip-hop's biggest stars and why skinny jeans aren't for everyone.(Image credit: Jason Koerner)"
-   ],
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/18/g-s1-154227/karl-kani-a-life-by-design",
-   "image": null,
-   "published_at": "2026-11-18T18:15:59Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "a607527b516f4d39dfabb8ea8ca75dd87d42f927",
-   "title": "Israeli forces launch new military operation in central Gaza",
-   "summary": [
-    "Israeli forces have launched a new military operation in central Gaza, advancing west of the Yellow Line"
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-launch-new-military-operation-in-central-gaza?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-18T18:12:42Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "f41d7fd30b3fc4aee6d7984bf5bc297628bed2f5",
-   "title": "Donald Trump meets ‘longtime friend’ Imelda Marcos during Philippines visit",
-   "summary": [
-    "Trump told Philippine President Marcos he knew his parents 'very well'."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/18/donald-trump-meets-longtime-friend-imelda-marcos-during-philippines-visit?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-18T18:09:57Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "6addfade593ec8e14dc96490f69b6b1cb6a5f751",
-   "title": "Cheese, pet passports and youth mobility: what’s in the UK-EU ‘relationship reset’ draft?",
-   "summary": [
-    "Leaked text of 72-paragraph second draft shows agreement has largely been reached before expected signoff on FridayThe UK-EU “relationship reset” agreement, which began in earnest under Keir Starmer, is expected to be signed off by Andy Burnham in Brussels on Friday.A leaked text of the second draft shows an agreement has largely been reached with some outstanding points."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/18/uk-eu-relationship-reset-draft-explainer",
-   "image": "https://i.guim.co.uk/img/media/25aedc768a726dfcb833778bfe46c3e276384b86/960_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=f5c40a40536329ad664a49b859e40d34",
-   "published_at": "2026-11-18T17:56:39Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "9885e5a301e8d4a7ee6f70d59fd484565c52ddc5",
-   "title": "Alexander Zverev notified of abuse lawsuit by ex-partner during ATP Finals",
-   "summary": [
-    "Men’s world No 1 allegedly violated terms of settlementLawyers say Zverev will ‘defend himself against lawsuit’Alexander Zverev was officially notified of a lawsuit filed by his former partner during the middle of the season-ending ATP Finals on Wednesday."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/sport/2026/nov/18/alexander-zverev-abuse-lawsuit-atp-finals-finals-brenda-patea",
-   "image": "https://i.guim.co.uk/img/media/4861817b9a73ae016f2b0a0fba7a9945c123188c/622_0_5302_4241/master/5302.jpg?width=140&quality=85&auto=format&fit=max&s=0cc072842e9c8c9f67ace24c849cdac3",
-   "published_at": "2026-11-18T17:52:39Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "bb59d7144689aeec993de08633a97906dd09e307",
-   "title": "Far-right influencer Jake Lang kicked out of Dearborn council meeting",
-   "summary": [
-    "Far-right influencer Jake Lang was removed from a Dearborn City Council meeting after disrupting proceedings."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/far-right-influencer-jake-lang-kicked-out-of-dearborn-council-meeting?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-18T17:50:00Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "e54ccd81a1434eb7406f365cc1760b513eda29ed",
-   "title": "Apec summit as it happened: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
-   "summary": [
-    "This blog is now closed, you can read more on this story hereYalta became a byword for betrayal."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-   "image": "https://i.guim.co.uk/img/media/74ea5af6d2da16d80eca867a35183ae07fb370fa/193_0_2247_1798/master/2247.jpg?width=140&quality=85&auto=format&fit=max&s=ea3a6c350de36a5ebefbb42b1e349a25",
-   "published_at": "2026-11-18T17:48:24Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "8317848a8d3e9b3ba83b2d922f05673fdb9b511c",
-   "title": "What has happened to the $18bn pledged to Trump’s Board of Peace for Gaza?",
-   "summary": [
-    "Billions have been pledged for Gaza since a 2025 'ceasefire', but rebuilding hasn’t begun and Israeli attacks continue."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/18/what-has-happened-to-the-18bn-pledged-to-trumps-board-of-peace-for-gaza?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-18T17:45:09Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "ff776c31ccfe588c3a72ba04bf14c57710ba9b5c",
-   "title": "Grand Theft Auto 6 is a masterpiece, say critics",
-   "summary": [
-    "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-18T17:34:25Z",
+   "published_at": "2026-11-18T22:34:56Z",
    "category": "world",
    "related": []
   }

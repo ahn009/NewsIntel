@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T21:49:51.272023Z",
+ "generated_at": "2026-11-19T03:13:49.236856Z",
  "story_count": 20,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -20,7 +20,7 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
+  "https://www.espn.com/espn/rss/news": "ok"
  },
  "stories": [
   {
@@ -79,41 +79,52 @@
    "category": "pakistan"
   },
   {
-   "id": "d116a97c5f1a7a3fb097bdbccf583a17833e4559",
+   "id": "253230d17cbe09598815310dca8e5cff95e6eeeb",
    "rank": 6,
+   "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+   "brief": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-19T02:59:06Z",
+   "category": "world"
+  },
+  {
+   "id": "584db0d8b9b3e36b94ac08e30618d840d0d7fc2f",
+   "rank": 7,
+   "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+   "brief": "Anthropic started just five years ago and is now one of the biggest names in artificial intelligence.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-19T02:20:15Z",
+   "category": "world"
+  },
+  {
+   "id": "d116a97c5f1a7a3fb097bdbccf583a17833e4559",
+   "rank": 8,
    "title": "The seven Anthropic founders who are about to become multi-billionaires",
    "brief": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-18T13:55:14Z",
-   "category": "world"
+   "published_at": "2026-11-18T23:42:07Z",
+   "category": "tech"
   },
   {
-   "id": "e4b1407a68753c1860a81270b1e221e2fff16b20",
-   "rank": 7,
-   "title": "Voyager 1 reaches one light-day from Earth after 49 years in space",
-   "brief": "NASA’s Voyager 1 has reached a record distance of more than 16 billion miles from Earth, 49 years after its launch.",
+   "id": "df574ed488aebcc787b7f81d7a37a99f1758a274",
+   "rank": 9,
+   "title": "NASA’s Voyager 1 hits record one light-day distance, 50 years after launch",
+   "brief": "Voyager 1 reaches one light-day from Earth, marking a historic milestone nearly 50 years after its 1977 launch.",
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/voyager-1-reaches-one-light-day-from-earth-after-49-years-in-space?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/18/nasas-voyager-1-hits-record-one-light-day-distance-50-years-after-launch?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-18T19:30:51Z",
+   "published_at": "2026-11-18T23:35:12Z",
    "category": "world"
-  },
-  {
-   "id": "bcf24c7daf813bd3508af0f5ee730cf1af1daf69",
-   "rank": 8,
-   "title": "William and Kate honour Earthshot Prize winners in Mumbai",
-   "brief": "The Prince and Princess of Wales have said environmental innovators are changing the lives of future generations as they celebrated this year's winners of the Earthshot Prize.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/cmwy97rj83n1o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-18T11:18:04Z",
-   "category": "science"
   },
   {
    "id": "9c4d5859c587fa65901a9281ada842ff5bb05840",
-   "rank": 9,
+   "rank": 10,
    "title": "Waymo pulls driverless taxis from all US freeways",
    "brief": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
    "source": "BBC News",
@@ -124,24 +135,13 @@
   },
   {
    "id": "89ebf33e3c4fddef44a9ee337f0a94c02043bc2c",
-   "rank": 10,
+   "rank": 11,
    "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
    "brief": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-18T01:18:18Z",
-   "category": "world"
-  },
-  {
-   "id": "60cb9759cba14e4d722fa53d9333671e14a23665",
-   "rank": 11,
-   "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
-   "brief": "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-17T18:20:36Z",
    "category": "world"
   },
   {
@@ -211,36 +211,36 @@
    "category": "pakistan"
   },
   {
-   "id": "3f20754991b7773dd2c751a0d1328f07d8742274",
+   "id": "ffaf75f088d156ed3ab1f8b8c72ca9db19bdc8f7",
    "rank": 18,
-   "title": "How high is UK inflation and how will you be affected?",
-   "brief": "Prices rose 3.6% in the year to October, mainly because of higher petrol and diesel prices, official figures show.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/cxp80q5pv4q5o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-18T19:37:27Z",
-   "category": "business"
-  },
-  {
-   "id": "9885e5a301e8d4a7ee6f70d59fd484565c52ddc5",
-   "rank": 19,
-   "title": "Alexander Zverev notified of abuse lawsuit by ex-partner during ATP Finals",
-   "brief": "Men’s world No 1 allegedly violated terms of settlementLawyers say Zverev will ‘defend himself against lawsuit’Alexander Zverev was officially notified of a lawsuit filed by his former partner during the middle of the season-ending ATP Finals on Wednesday.",
+   "title": "GTA 6 dazzles gamers in Australia with ‘fully lived-in, breathable world’",
+   "brief": "And the reviews, mere hours into release, reflect universal acclaim. The game has already vaulted to the top spot on Metacritic’s list of the best games of all time, sitting above 1998’s The Legend of Zelda: Ocarina of Time with an unprecedented 99/100 score.",
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/sport/2026/nov/18/alexander-zverev-abuse-lawsuit-atp-finals-finals-brenda-patea",
-   "image": "https://i.guim.co.uk/img/media/4861817b9a73ae016f2b0a0fba7a9945c123188c/622_0_5302_4241/master/5302.jpg?width=140&quality=85&auto=format&fit=max&s=0cc072842e9c8c9f67ace24c849cdac3",
-   "published_at": "2026-11-18T17:52:39Z",
+   "url": "https://www.theguardian.com/games/2026/nov/19/gta-6-grand-theft-auto-vi-release-launch-australia-first-to-play-game",
+   "image": "https://i.guim.co.uk/img/media/e5ce165329932836314e73aaa1608c379bc0f198/570_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=bc6c883bc7739c7c41e75c2a5cdd55f7",
+   "published_at": "2026-11-19T02:30:12Z",
    "category": "world"
   },
   {
-   "id": "ff776c31ccfe588c3a72ba04bf14c57710ba9b5c",
-   "rank": 20,
-   "title": "Grand Theft Auto 6 is a masterpiece, say critics",
-   "brief": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
+   "id": "65db81481c01dbb60f5f94c29110e538f3547164",
+   "rank": 19,
+   "title": "Why has Waymo pulled all its driverless cars from US freeways?",
+   "brief": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-18T17:34:25Z",
+   "published_at": "2026-11-18T23:47:46Z",
+   "category": "world"
+  },
+  {
+   "id": "1bf8eed19977fb64f87d0bea3c69251afb24a172",
+   "rank": 20,
+   "title": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+   "brief": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-18T21:28:08Z",
    "category": "world"
   }
  ]

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T21:49:51.270693Z",
+ "generated_at": "2026-11-19T03:13:49.235965Z",
  "story_count": 17,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -20,9 +20,61 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
+  "https://www.espn.com/espn/rss/news": "ok"
  },
  "stories": [
+  {
+   "id": "9d6e5b138b34e39ba5d20a1f783a1e47f93f28a5",
+   "title": "Who are the investors ready to jump on Anthropic?",
+   "summary": [
+    "The BBC's Samira Hussain speaks to a retail investor eagerly waiting for the AI company's stock to go live on Thursday."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/c6y0x84xx22wo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-19T01:22:38Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "d458a1da01c44a787e279603500b8e0ad75675e7",
+   "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+   "summary": [
+    "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-19T00:00:59Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "29dd76ade58aa7f77d1c3f311eba2d818113be3e",
+   "title": "Gilts v kilts: What is happening with Scottish government bonds?",
+   "summary": [
+    "MSPs have heard both the pros and cons of the government's plan to launch its first ever bond to the market?"
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-18T23:01:09Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "9542c9a51ba192b9fee95653ef670aee488941c9",
+   "title": "Business Daily",
+   "summary": [
+    "We examine the business of the Claude chatbot maker as it starts selling shares"
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/sounds/play/w3ct8gm9?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-18T21:30:00Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "3f20754991b7773dd2c751a0d1328f07d8742274",
    "title": "How high is UK inflation and how will you be affected?",
@@ -191,58 +243,6 @@
    "url": "https://www.theguardian.com/us-news/2026/nov/17/americans-celebrating-thanksgiving-costs-callout",
    "image": "https://i.guim.co.uk/img/media/e7f897df251db72a533a7f4f61366f8691306209/482_0_3733_2987/master/3733.jpg?width=140&quality=85&auto=format&fit=max&s=a96bad5935656a4a46a0a6b93dd5cf2a",
    "published_at": "2026-11-17T17:04:50Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "2f730ed45da87e4fd57edccffc81b08388422e3f",
-   "title": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
-   "summary": [
-    "The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem, one business group says."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-17T15:56:04Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "f8d4745de35250c2e0a389f066af5682e86a9916",
-   "title": "Deutsche Bank dismissed warnings about dealings with risky clients, reports claim",
-   "summary": [
-    "International investigation using trove of leaked internal data allegedly shows German bank overlooked compliance concerns to safeguard profitsDeutsche Bank reportedly dismissed warnings about its dealings with risky clients, including high-profile Russian oligarchs, to protect profits, the findings of an investigation into a trove of leaked bank documents indicate.A leak of 15m internal files is reported to show that the troubled German bank repeatedly ignored concerns by its compliance officers about its risk-taking, despite having already been caught being used to launder billions of dollars for Russian criminals, spies and oligarchs between 2010 and 2015."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/17/deutsche-bank-dimissed-warnings-risky-clients-reports-claim",
-   "image": "https://i.guim.co.uk/img/media/21474d52763b44585b74c4c50325ba4c99235bdd/247_0_2961_2369/master/2961.jpg?width=140&quality=85&auto=format&fit=max&s=788fab996ab2d7f1de0ae9cee69c3eb8",
-   "published_at": "2026-11-17T13:35:39Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "f1fb5ad4d2079fac1950be7ee88eebf93fa000e8",
-   "title": "Where are the most jobs for 18-24 year-olds?",
-   "summary": [
-    "How many jobs are there where you live and in which sectors are you most likely to find an opening?"
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-17T12:35:53Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "fde979a3642fa1a0403c8cdf88ce8a31806b3b09",
-   "title": "Immigration arrests after organised crime blitz",
-   "summary": [
-    "Eighteen people were arrested for a range of suspected crimes including modern slavery, police say."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/cm3eg3q758gjo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-17T10:49:58Z",
    "category": "business",
    "related": []
   }

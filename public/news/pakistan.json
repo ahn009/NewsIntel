@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T21:49:51.269351Z",
+ "generated_at": "2026-11-19T03:13:49.234931Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -20,9 +20,80 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
+  "https://www.espn.com/espn/rss/news": "ok"
  },
  "stories": [
+  {
+   "id": "5f52add2d58b75e7197e493f32ec971d7320edf0",
+   "title": "PTI’s legal eagles Salman Akram Raja, Latif Khosa ‘shake and make up’",
+   "summary": [
+    "https://www.dawn.com/news/2045549"
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045611/ptis-legal-eagles-salman-akram-raja-latif-khosa-shake-and-make-up",
+   "image": "https://i.dawn.com/large/2026/11/190802447409bea.webp",
+   "published_at": "2026-11-19T03:03:54Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "725f0af5bc2c87d8dd5bc1f7f0f34feee3b1bef8",
+   "title": "Suparco warns of worsening smog across Punjab over next 3 days",
+   "summary": [
+    "https://www.dawn.com/news/2045563"
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045605/suparco-warns-of-worsening-smog-across-punjab-over-next-3-days",
+   "image": "https://i.dawn.com/large/2025/10/31094052e337196.webp",
+   "published_at": "2026-11-19T02:44:42Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "12b952356905a4c8fdf8f549bc365db43b9868e2",
+   "title": "Suparco warns of worsening smog across Punjab",
+   "summary": [
+    "According to Suparco’s smog assessment for Nov 17, satellite observations recorded 386 active fire detections in Punjab and 304 in the transboundary region during the preceding 24 hours.",
+    "The satellite-based monitoring is intended to track the geographical spread of smog, identify fire hotspots and provide an assessment of atmospheric conditions across Punjab.",
+    "The Pakistan Meteorological Department (PMD) also forecast fog and smog at isolated places in Lahore, Sialkot, Narowal, Sheikhupura, Okara, Kasur, Faisalabad, Jhang, Khanewal, Multan and surrounding areas during morning and night over the next 48 hours."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045563/suparco-warns-of-worsening-smog-across-punjab",
+   "image": "https://i.dawn.com/large/2025/10/31094052e337196.webp",
+   "published_at": "2026-11-19T02:44:08Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "7f28fb5b563ba11eb027d7e42db12bb06931cb7b",
+   "title": "Israel forces kill 3 Palestinians in fresh Gaza push",
+   "summary": [
+    "An October 2025 ceasefire halted major fighting in the Israel-Gaza war but has not stopped Israeli attacks in Gaza.",
+    "Israel has carried out near-daily strikes on Gaza, while the report said Hamas fighters have also continued attacks on Israeli troops. “Every day that Israel continues strikes against Hamas targets, it delays putting Hamas’ agreement to the roadmap to the test,” the report said.",
+    "Senior Hamas official Basem Naim dismissed the report as “pure disinformation”, accusing the Board of Peace of providing cover to Israel to evade its commitments under the plan to end the war and to continue its aggression in Gaza."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045504/israel-forces-kill-3-palestinians-in-fresh-gaza-push",
+   "image": "https://i.dawn.com/large/2026/11/1908020706bbc48.webp",
+   "published_at": "2026-11-19T01:55:08Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "e408c909ad0123f896b06bff3a3f2d3df98830cf",
+   "title": "PTI’s legal eagles ‘shake and make up’",
+   "summary": [
+    "Earlier, Mr Raja had acknowledged differences with Mr Khosa and Salman Safdar after their meeting with Imran Khan, amid speculation that the PTI founder wanted major changes within the party.",
+    "Advocate Khalid Yousuf Chaudhry told Dawn that the PTI had learnt through the media that the jail administration had taken Imran Khan to the Pakistan Institute of Medical Sciences (Pims) for treatment. “It is nothing but contempt of the Supreme Court.",
+    "On Jan 17, 2025, an accountability court in Islamabad sentenced Imran Khan to 14 years in prison and Bushra Bibi to seven years in the case."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045549/ptis-legal-eagles-shake-and-make-up",
+   "image": "https://i.dawn.com/large/2026/11/190802047409bea.webp",
+   "published_at": "2026-11-19T01:53:58Z",
+   "category": "pakistan",
+   "related": []
+  },
   {
    "id": "81c4a430622f411eca04c055235efc3a53acda0c",
    "title": "Pakistan's mango exports fall 36pc amid US-Iran war: exporters' association",
@@ -99,15 +170,75 @@
    "related": []
   },
   {
-   "id": "c49fd552ee12d11736e4e9a4ac6c039c6fddb129",
-   "title": "Investors prefer Pakistan under IMF",
+   "id": "b4a61596c428ce2af6e8a22166e056c19ae2369e",
+   "title": "'SME financing targeted at Rs2tr by 2028'",
    "summary": [
-    "International investors who recently visited the bank to assess economic conditions on the ground had expressed comfort with Pakistan continuing its IMF programme, said Talha Nadeem, Economist, Middle East and North Africa at Standard Chartered.",
-    "Having witnessed Pakistan's repeated boom-and-bust economic cycles, investors considered the IMF programme an important anchor for maintaining financial discipline, he added.",
-    "Echoing this view, Adil Salahuddin, CEO and Head of Coverage at Standard Chartered Pakistan, said international investors assessed Pakistan through the lens of its economic history rather than future promises, making policy consistency particularly important."
+    "He emphasised the need to move beyond conventional, collateral-based lending towards technology-enabled, data-driven and inclusive financing solutions, supported by stronger participation from banks, fintech companies, development finance institutions and private investors.",
+    "He highlighted the potential for engagement with Singapore's financial technology ecosystem through the Global Finance & Technology Network (GFTN), calling for greater mobilisation of private capital through risk-sharing arrangements and blended finance.",
+    "The minister also visited the Singapore FinTech Festival, inaugurating Ignite's Pakistan Pavilion and interacting with companies including Tax Nerd Pakistan, Ping Up, Bagh-e, Fortanixor Technologies, and Lendverse/Tawha Technologies."
    ],
    "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641059/investors-prefer-pakistan-under-imf",
+   "url": "https://tribune.com.pk/story/2641065/sme-financing-targeted-at-rs2tr-by-2028",
+   "image": null,
+   "published_at": "2026-11-18T16:25:03Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "1bf4db828cd3921c9ddada9a327c979ecdfe6aaf",
+   "title": "Thar coal mining to shift to national grid",
+   "summary": [
+    "Work has formally begun on shifting Thar coal mining from diesel to the national grid, which will save Pakistan around $25 million to $30 million in foreign exchange every year.",
+    "Power for mining operations, which costs around 33 cents per kilowatt-hour when generated from diesel, will drop to 13 cents, a reduction of over 60%.",
+    "Carbon emissions are expected to fall by about 80,000 tonnes a year and diesel-powered mining vehicles will be progressively converted into electric systems, supporting long-term decarbonisation goals."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641069/thar-coal-mining-to-shift-to-national-grid",
+   "image": null,
+   "published_at": "2026-11-18T16:25:03Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "16217dee0331dff25e9590256295c78c60b62e4f",
+   "title": "Govt drafts marble policy to curb wastage",
+   "summary": [
+    "Advisor to the Prime Minister for Industries Haroon Akhtar Khan chaired a meeting with Marble Association representatives to discuss a policy to make the sector globally competitive, the Ministry of Industries said on Wednesday.",
+    "The government is developing the Marble Policy 2026-29 to modernise the industry through advanced technology and value addition, covering the value chain from quarrying to exports.",
+    "He said sustainable access to raw materials and processing technologies were essential for strengthening the sector and improving the quality of Pakistani marble in international markets."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641067/govt-drafts-marble-policy-to-curb-wastage",
+   "image": null,
+   "published_at": "2026-11-18T16:25:03Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "1081ac3b74b3990b50bb865cfe2f5447fe6921d1",
+   "title": "PSX slides 1,223 points over political noise",
+   "summary": [
+    "It put considerable pressure on heavyweight stocks from sectors such as cement, commercial banks, oil and gas exploration, oil marketing, power generation and refineries.",
+    "Sector-wise, banks, cement and oil & gas remained under pressure, whereas fertiliser and refineries showed some resilience.",
+    "He said the index was likely to remain volatile amid geopolitical uncertainty, oil price fluctuations and domestic political developments."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641068/psx-slides-1223-points-over-political-noise",
+   "image": null,
+   "published_at": "2026-11-18T16:25:03Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "2b13165e51c3413d11b33ad7952fcc30df1a4ce1",
+   "title": "Delegation expected to visit Brazil in Jan",
+   "summary": [
+    "He emphasised that cooperation with Brazil would help Pakistan improve agricultural productivity, strengthen food security and enhance the international competitiveness of its farm products.",
+    "He stated that Pakistani agricultural and livestock experts would visit Brazil to study its advanced farming practices, research institutions and livestock development models.",
+    "Both sides agreed to promote institutional collaboration between the Pakistan Agricultural Research Council (PARC) and Embrapa."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641066/delegation-expected-to-visit-brazil-in-jan",
    "image": null,
    "published_at": "2026-11-18T16:25:03Z",
    "category": "pakistan",
@@ -339,21 +470,6 @@
    "related": []
   },
   {
-   "id": "4f1870931152bfdce2218f3c46f1af41b2a58ab0",
-   "title": "Gaming phenomenon 'Grand Theft Auto' goes live after 13-year wait",
-   "summary": [
-    "According to the British analytics firm Omdia, sales of “GTA VI” could reach $3.2bn by the end of the year. ‘Taylor Swift of games’ “No other concert or box office release has ever generated that much capital.",
-    "Ahead of its release, the game picked up eight nominations on Tuesday at the Game Awards, the American ceremony that will honour the best video games of the year on Dec 10.",
-    "Subversion and controversy Rockstar, which by 2026 will have a dozen studios around the world and more than 4,700 employees, devoted more than eight years to building the latest GTA instalment."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2045422/gaming-phenomenon-grand-theft-auto-goes-live-after-13-year-wait",
-   "image": "https://i.dawn.com/large/2026/11/181641444f76300.webp",
-   "published_at": "2026-11-18T11:42:04Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
    "id": "275ed10d994abe4e1b9dabc583ef7986e8fe67e6",
    "title": "'Come to your senses': Bilawal advises govt to 'calm down' and hold a 'debate you started' on provinces",
    "summary": [
@@ -505,131 +621,6 @@
    "url": "https://tribune.com.pk/story/2641020/military-successfully-tests-launch-of-fatah-3-supersonic-cruise-missile",
    "image": null,
    "published_at": "2026-11-18T07:25:48Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "d4becbf91bd331874cab8be68ce4855d43094cee",
-   "title": "'Taylor Swift of games': Grand Theft Auto is back after 13-year wait",
-   "summary": [
-    "Gamers on Wednesday are just hours away from the worldwide release of the latest instalment of \"Grand Theft Auto\", the most expensive video game ever developed and on track to break sales records.",
-    "\"GTA VI\" will be available on PlayStation 5 and Xbox Series consoles on Thursday at midnight local time in each territory, meaning the game will launch first in New Zealand (at 4pm PKT on Wednesday).",
-    "Read: GTA 6 earns 99 Metascore, tying Ocarina of Time among top-rated games \"I'm going to take four days off,\" said Dmytro Shkambara, a 27-year-old Ukrainian player living in Berlin, who has been planning this first game session \"for a very long time\"."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641018/taylor-swift-of-games-grand-theft-auto-is-back-after-13-year-wait",
-   "image": null,
-   "published_at": "2026-11-18T07:05:49Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "266573c6678742d027a4c89499b7356e41e993d3",
-   "title": "Nvidia stops shipping US-approved AI chips to China",
-   "summary": [
-    "Nvidia has stopped shipping powerful artificial intelligence chips to China, its interim CEO said, raising doubts about the future of a special licensing agreement negotiated by Washington and Beijing.",
-    "Trump eased export curbs after Xi summit, Huang lobbying The US introduced export controls on the chips in 2022 and subsequently tightened China's access to them.",
-    "Reuters reported earlier this month that around 600,000 H200 chips were being stored in Hong Kong awaiting shipment to mainland China after Beijing withheld approval for large-scale imports."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641017/nvidia-stops-shipping-us-approved-ai-chips-to-china",
-   "image": null,
-   "published_at": "2026-11-18T06:54:16Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "eddd2edea70dabc724c9399e729e47b6a428e4e6",
-   "title": "Portion of Islamabad's Margalla Hills National Park excluded from protected area",
-   "summary": [
-    "Similarly, CDA’s commercial project on a new road and construction activities and projects to be launched by the Special Technology Zone Authority along Park Road on its allotted land will face no restrictions.",
-    "But the road passes through Zone III, a protected zone where, under CDA regulations, no construction activity can take place.",
-    "Sources said that the federal government had now allowed the CDA to exclude a part of the national park from Zone III."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2045226/portion-of-islamabads-margalla-hills-national-park-excluded-from-protected-area",
-   "image": "https://i.dawn.com/large/2016/09/57eead86f11ab.jpg",
-   "published_at": "2026-11-18T06:42:35Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "51a496031356d0c1a2f6b988a63bb25e45114211",
-   "title": "Xi, Trump, Putin exchange first greetings in China",
-   "summary": [
-    "United States President Donald Trump, China’s Xi Jinping and Russia’s Vladimir Putin exchanged first greetings in China on Wednesday, a day before their first formal trilateral meeting.",
-    "President Trump joins world leaders for a Family Photo at the APEC gathering in China, greeting Chinese President Xi Jinping and other leaders before they pose together.",
-    "Xi welcomes Trump at Shenzhen airport Chinese President Xi Jinping on Wednesday welcomed U.S. President Donald Trump at Shenzhen Bao'an International Airport in south China's Guangdong Province."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641015/chinas-xi-greets-trump-on-arrival-at-shenzhen-airport",
-   "image": null,
-   "published_at": "2026-11-18T06:36:38Z",
-   "category": "pakistan",
-   "related": [
-    {
-     "source": "Dawn",
-     "url": "https://www.dawn.com/news/2045414/xi-trump-putin-exchange-first-greetings-in-china-ahead-of-historic-meeting"
-    }
-   ]
-  },
-  {
-   "id": "3a8eac52edb4a8ad221415dc56c7518d4f87ff9f",
-   "title": "GTA 6 earns 99 Metascore, tying Ocarina of Time among top-rated games",
-   "summary": [
-    "According to the available rankings, GTA 6’s score ties it with the original The Legend of Zelda: Ocarina of Time, which is also listed with a 99 Metascore.",
-    "The score also makes GTA 6 the highest-rated game of 2026 so far.",
-    "GTA 6 is the highest rated game OF ALL TIME on Metacritic with 99."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641014/gta-6-earns-99-metascore-tying-ocarina-of-time-among-top-rated-games",
-   "image": null,
-   "published_at": "2026-11-18T06:35:57Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "39a6f56ad34b9c46992a8aedd1618faf9eb3df94",
-   "title": "Spanish World Cup winner Mata retires from football",
-   "summary": [
-    "Spanish World Cup winner Juan Mata retired from football on Wednesday at the age of 38.",
-    "Mata won the Champions League in 2012 with the London club among other trophies and later signed for Manchester United in 2014, before heading to Turkish club Galatasaray, Japanese side Vissel Kobe, Western Sydney Wanderers and finally Melbourne Victory.",
-    "\"I may stop playing professionally, but I will never stop being a footballer.\" Mata remains involved with Melbourne Victory after taking a minority ownership stake in the club."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641011/spanish-world-cup-winner-mata-retires-from-football",
-   "image": null,
-   "published_at": "2026-11-18T06:30:43Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "0932d99e633311cc165eefeb9478a0bcec334a57",
-   "title": "Policeman martyred after being abducted, tortured in Bannu",
-   "summary": [
-    "BANNU: A policeman was abducted and tortured to death by unidentified armed men near Taziri Chowk in Bannu on Wednesday, police said.",
-    "The same day, Head Constable Ziaullah, who was posted at Bannu Police Lines, was abducted near Baran Dam in the Karam Garhi area and later killed.",
-    "Apart from targeted killings, police posts and personnel in different parts of Bannu have also come under armed and drone attacks, leaving several policemen injured and prompting security operations in affected areas."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2045384/policeman-martyred-after-being-abducted-tortured-in-bannu",
-   "image": "https://i.dawn.com/large/2026/11/18112638d670a0f.jpg",
-   "published_at": "2026-11-18T06:28:15Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "ad94fcf720a9faf9862db443f1d8afae839d1e9b",
-   "title": "England thrash Australia to win ODI series",
-   "summary": [
-    "Ben Duckett smashed 133 and Sonny Baker took four wickets as England hammered Australia by 97 runs to win the third one-day international at Hobart on Wednesday and with it the series.",
-    "Head fell fourth ball, edging Gus Atkinson to Joe Root at slip with Marsh going six balls later to Baker, this time taken in the slips by Brook.",
-    "Root (12) came undone against the part-time spin of Renshaw, who bowled him with only his fourth ball after Marsh brought him on to change things up."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641009/england-thrash-australia-to-win-odi-series",
-   "image": null,
-   "published_at": "2026-11-18T06:23:55Z",
    "category": "pakistan",
    "related": []
   }
