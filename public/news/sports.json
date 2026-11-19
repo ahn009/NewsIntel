@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T03:13:49.236442Z",
+ "generated_at": "2026-11-19T12:52:05.821391Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -20,19 +20,491 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "ok"
+  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
   {
-   "id": "0dd2f5893c8fdc1b4d9a692898336f6758d6f82f",
-   "title": "Inside the complicated offseason -- and history -- of Will Wade, RJ Luis Jr. and LSU",
+   "id": "5b873e675e531c7592c7cf30d07fe5fdc7364365",
+   "title": "Mauricio Pochettino calls for Manchester United to show no fear against Liverpool",
    "summary": [
-    "The story of how LSU found itself embroiled in controversy goes back four years to Will Wade's first stint at LSU."
+    "New head coach’s first game is at Anfield on Sunday‘We are going there with the idea to win and be brave’Mauricio Pochettino has called on Manchester United to have “no fear” when they travel to Anfield on Sunday for his first game.",
+    "The Argentinian does not want his players to take a backward step as he targets a fast start.United are 18th in the Premier League and Liverpool fourth but the head coach will not accept nerves.",
+    "Pochettino is known for being attack-minded and will bring those ideals, but will have had only three days with the players since replacing Michael Carrick."
    ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/mens-college-basketball/story/_/id/50363070/lsu-wade-line",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/19/manchester-united-mauricio-pochettino-liverpool-anfield-no-fear",
+   "image": "https://i.guim.co.uk/img/media/81d893bb0fe58708ee77594e5d12ed2e91325998/223_0_2697_2157/master/2697.jpg?width=140&quality=85&auto=format&fit=max&s=8cca7ff8e800d572d9568423c20b34cf",
+   "published_at": "2026-11-19T12:38:05Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "667155dba02a6b474a015293a8b884b671fc6d0f",
+   "title": "McCullum plans to use Brook and Banton as bowlers",
+   "summary": [
+    "England white-ball coach Brendon McCullum believes that batters Harry Brook and Tom Banton can be genuine bowling options as they prepare for next year's World Cup."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/cricket/articles/cqly43n4ey6ro?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-19T02:37:36Z",
+   "published_at": "2026-11-19T12:37:15Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "5e5ec5909c488139cc542c1b6df123dd8e8c47ba",
+   "title": "Danny Kelly loved football and never forgot the absurdity of earning a living talking about it | Max Rushden",
+   "summary": [
+    "The journalist and broadcaster who died last week aged 69 knew the enduring power of radio, even as the landscape changed so quicklyIt’s injury time at the Emirates on the 29 October 2008, Arsenal are 4-3 up against Spurs.",
+    "It loops over Manuel Almunia and on to the post into the path of Aaron Lennon, who prods it home and starts skipping towards the Spurs fans before diving on to the ground and being enveloped by Modric, Benoît Assou-Ekotto, Darren Bent and a couple of pitch-invading fans.",
+    "Pandemonium, for once, seems the apt way to describe it.But the real entertainment is happening in a radio studio at 18 Hatfields, London SE1; the old home of TalkSport."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/19/danny-kelly-death-football-radio",
+   "image": "https://i.guim.co.uk/img/media/e22830b4a32acbe9fdbf9e31083e2669856cf5ef/253_0_3254_2604/master/3254.jpg?width=140&quality=85&auto=format&fit=max&s=a2501748e532bf136c783022341e110b",
+   "published_at": "2026-11-19T12:28:40Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "06bda472e4d07d1b3fe50daf7feaf546ae1bc0f8",
+   "title": "Gonzalo García: ‘I love Craven Cottage – the fans can reach out and touch you’",
+   "summary": [
+    "There’s a reason one of the coaches standing in the rain by the pitch where Spain’s under-21s have just finished training says everyone here loves García.",
+    "The Fulham striker shakes hands, introduces himself and ducks into the dressing room to change; then a few minutes later he’s back, apologising for a wait that wasn’t one.Time to talk, so let’s start with tinseltown, the family tale.",
+    "His uncles played rugby for Spain, but that wasn’t his thing."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/19/gonzalo-garcia-fulham-spain-premier-leaue-interview",
+   "image": "https://i.guim.co.uk/img/media/b718144f24f37dae43742dd1ba995a457165b72a/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=bc397e0d070cd5403545f02a7d52d80c",
+   "published_at": "2026-11-19T12:16:42Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "2b04bd61cf0d35745d163fc075217721d821fec8",
+   "title": "Magill returns to NI squad for Greece friendlies",
+   "summary": [
+    "Northern Ireland manager Michael McArdle has made five changes to his squad for the upcoming friendlies against Greece, with the return of experienced striker Simone Magill among the notable returnees."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cqly43n1vjm8o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-19T11:12:20Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "577bace485037a972593188987897abd63a1e38b",
+   "title": "Champion weightlifter loses arm after motorbike crash",
+   "summary": [
+    "Commonwealth Games gold medallist Muhammad Hafizuddin Roslin has his right arm amputated above the elbow after a motorcycle accident in his native Malaysia."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/weightlifting/articles/crz9dnwk18jpo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-19T11:09:09Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "7215b2e960251ee76264a655b5b25c25d91f42f0",
+   "title": "Inside women’s football’s difficult rise in Syria: ‘A joy that everyone in the country needed’",
+   "summary": [
+    "Today, the first glimmers of hope are beginning to emerge amid difficultyIn December 2024, Syria’s under-18 women’s football team boarded a last-minute bus at midnight from Aqaba, bound for Damascus.",
+    "Players from the provinces around Damascus made their way home.",
+    "But those from Hasakah, in the country’s far north-east, spent the next three days stranded at Damascus airport, as airline staff fled and planes sat idle on the tarmac, until a bus was finally able to take them home."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/19/syria-womens-football",
+   "image": "https://i.guim.co.uk/img/media/1cfe5283075e4dc161dd1aaaed8250b9d1d57b25/0_455_5377_4302/master/5377.jpg?width=140&quality=85&auto=format&fit=max&s=04d2f400b2fdaf8034fe4168e719a8d7",
+   "published_at": "2026-11-19T11:00:26Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "9b3141a0113228a14023e6ddc046e34a28492670",
+   "title": "World marathon champion Jepchirchir gets three-year doping ban",
+   "summary": [
+    "Reigning world marathon champion Peres Jepchirchir is banned for three years for a doping violation."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/athletics/articles/cv5y1e1zle88o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-19T10:56:38Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "23d15db2b61ece25ed703e60acf5b2e3bcb3c150",
+   "title": "Race for the Fifa presidency: lineup revealed to challenge Gianni Infantino",
+   "summary": [
+    "The former Switzerland and Tottenham defender Ramon Vega has not met that threshold, despite repeatedly saying he would stand."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/19/fifa-president-election-philippe-diallo-kozo-tashima-challenge-gianni-infantino",
+   "image": "https://i.guim.co.uk/img/media/aacc033c92ea7b4702140e1c229ca6cf6f34771d/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=8d5d40ab308ea3f28fdd19496f2f2c2d",
+   "published_at": "2026-11-19T10:56:21Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "06fc5727065efeecd3ce4f09205a29566cb8ba80",
+   "title": "'I'm very healthy' - Kompany to return to dugout after health scare",
+   "summary": [
+    "Bayern Munich boss Vincent Kompany says he is \"very healthy\" and grateful for all of the support he has recieved as he prepares to return to the dugout on Friday."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cm0rkzwgn0lro?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-19T10:32:30Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "e23b04649ef6bb7c1410fb6bc82fb71e8c8ce51f",
+   "title": "Wallabies keep faith in misfiring backs as they aim to stop the rot against Wales",
+   "summary": [
+    "Forwards Carlo Tizzano and Tom Hooper come into XVAustralia trying to avoid ninth straight defeat in EuropeThe Wallabies will be hoping to avoid a first UK home nations whitewash for 68 years when they head into their Nations Championship match against Wales this weekend with the same backline that started last week’s narrow loss to Scotland.The forwards Carlo Tizzano and Tom Hooper have been thrust into the starting XV in Cardiff as the coach, Les Kiss, aims to take the fight to a Welsh side buoyed up by beating the All Blacks for the first time in decades."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/2026/nov/19/wallabies-keep-faith-in-misfiring-backs-as-they-aim-to-stop-the-rot-against-wales",
+   "image": "https://i.guim.co.uk/img/media/3d90046448da0a1a4065d7d247cd8a3a01164c3b/127_0_2117_1693/master/2117.jpg?width=140&quality=85&auto=format&fit=max&s=4da7f27158c0871fe2b5a6e092c4379a",
+   "published_at": "2026-11-19T10:24:29Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "5517c6cd9c87d59dfc3d6a9e9d23f458b0c2ff4b",
+   "title": "Will Infantino feel he's already won as Fifa challengers confirmed?",
+   "summary": [
+    "Fifa has confirmed Philippe Diallo and Kozo Tashima will also stand in next year's presidential election - but can either stop Gianni Infantino from winning?"
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c8wy53z3ygypo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-19T10:21:10Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "00e24283191b9cb8be9f755dd8dd6e47255a4f3d",
+   "title": "Eight-year ban for player who threw rock that hit assistant referee",
+   "summary": [
+    "Ecuadorian footballer Jhon Perlaza is banned for eight years after hitting an assistant referee with a rock during a third-tier match."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cqlyk9yzkz2no?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-19T10:20:58Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "e3251feea8869c3633ea38fb1dd93790d021a8cc",
+   "title": "England’s ‘fresh’ rookies roll on to Australia T20s as Test stars depart early",
+   "summary": [
+    "Root, Duckett, Archer, Atkinson and Baker head homeMcCullum: ‘Brook has an unbelievable tactical brain’Fresh from turning over Australia in the 50-over leg of this tour, England’s attention now turns to the Twenty20s that start on Saturday."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/2026/nov/19/brendon-mccullum-backs-england-rookies-australia-t20s-test-stars-depart-cricket",
+   "image": "https://i.guim.co.uk/img/media/28ff2a383be5e9cabc77d81d9531c9914cfeebd2/391_0_4664_3733/master/4664.jpg?width=140&quality=85&auto=format&fit=max&s=68f29867b9386d9c449faffe8d3f8ee2",
+   "published_at": "2026-11-19T10:00:25Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "4ba158fe7607c454f83fda26aa78833ba71038d7",
+   "title": "Five return for Wales' World Cup play-off final",
+   "summary": [
+    "Ceri Holland is in the Wales squad for next month's Women's World Cup play-off final against Norway despite being out since September through injury."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c620535y8zpjo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-19T10:00:07Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "b9eaf86746e6f56d8a36f479f06a0421b0e411ec",
+   "title": "The unthinkable has come to pass: Tom Brady is a pretty good broadcaster",
+   "summary": [
+    "The former NFL quarterback was widely derided when he starter his job in the Fox booth.",
+    "But he has shown a human side and explains the game beautifullyI have accidentally force-fed myself Tom Brady’s commentary as my primary means of watching the NFL this season.",
+    "Recently, though, the truth has become unavoidable: Tom Brady is pretty good at his job."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/2026/nov/19/tom-brady-fox-broadcasts-nfl-booth",
+   "image": "https://i.guim.co.uk/img/media/735f1b45acbc68eb46fc4026a2d33c32dde9c17c/250_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=b7d1d7326c506d0fc1c5329ae4348e9c",
+   "published_at": "2026-11-19T09:30:23Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "237eb1bf0eefbc0a31c3fe91ff92064936d54198",
+   "title": "Wainwright and Adams back for Wales against Australia",
+   "summary": [
+    "Wales make four changes to their starting line-up that beat the All Blacks for the Nations Championship meeting with Australia."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6wy97v7j0g3o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-19T09:05:24Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "2839ef7f70c203a7588e828d660c31a4217e805f",
+   "title": "Could England fears lead to fewer overseas players in PWR?",
+   "summary": [
+    "The RFU wants PWR to protect the interests of England's Red Roses, which could see a reduction in the number of international players in the league."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cxnv43verrddo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-19T08:58:34Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "8d51ba5039300552ec7068409f4198f470f14c8d",
+   "title": "The best European strikers this century - ranked by you",
+   "summary": [
+    "BBC Sport reveals the top 10 European strikers this century, as voted for by you."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cw5y1ver2rpyo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-19T08:50:01Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "02b30c3c6d92479e00a57400bfa0ee10970ea9f9",
+   "title": "World marathon champion Peres Jepchirchir banned for three years over doping",
+   "summary": [
+    "Three leading Kenyan distance runners all sanctionedJepchirchir also won the Olympic gold medal in TokyoThe reigning world marathon champion, Peres Jepchirchir, has been hit with a three-year ban for EPO on a dismal day for Kenyan distance running, with two other leading distance athletes from the country also being punished for doping.The 33-year-old Jepchirchir, who won Olympic and world gold in Tokyo in 2021 and 2025 respectively, had her ban reduced by a year after she decided not to challenge the results of a blood test taken before winning the Sydney marathon in August."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/2026/nov/19/peres-jepchirchir-world-marathon-champion-banned-three-years-doping",
+   "image": "https://i.guim.co.uk/img/media/5fd2dbb01fad4f0c27ce0886a24fc4064d6513c5/1093_141_1425_1140/master/1425.jpg?width=140&quality=85&auto=format&fit=max&s=93e4154967817eae9d4825a497abbf85",
+   "published_at": "2026-11-19T08:36:26Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "c82540fe845e448c9abdf98c258f23989e118105",
+   "title": "Australia's Barty elected into Tennis Hall of Fame",
+   "summary": [
+    "Three-time Grand Slam winner Ash Barty will be elected into the International Tennis Hall of Fame at a ceremony in August next year."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/tennis/articles/c5n4eme37p4ko?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-19T08:13:00Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "92bc28266829c8c13c22f8901ff397f504db8204",
+   "title": "Will Pochettino fix Manchester United? Put your questions to Will Unwin",
+   "summary": [
+    "But the job he inherits may be harder still.",
+    "No team in Europe’s top five leagues has conceded more goals in all competitions this season.",
+    "Bruno Fernandes has rejected a second offer of a new contract."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/live/2026/nov/19/will-pochettino-fix-manchester-united-put-your-questions-to-will-unwin",
+   "image": "https://i.guim.co.uk/img/media/5ff2e4183fc2f7c96f968659a6beba6d04d3a894/0_0_2000_1600/master/2000.jpg?width=140&quality=85&auto=format&fit=max&s=c9cdb2529a986d35a1a0d9bec80b3939",
+   "published_at": "2026-11-19T08:06:11Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "f736b2d906fbc8e508839f14827dfbca65131ce5",
+   "title": "You have to laugh at LIV’s collapse but the saga reveals money is golf’s core value | Jonathan Liew",
+   "summary": [
+    "Ultimately the sport exists in a world where the politics is assumed to be settledFarewell, then, LIV Golf.",
+    "As its original figurehead Greg Norman once so delicately put it, albeit in a slightly different context: we’ve all made mistakes, you learn from those mistakes, and you move forward.",
+    "Forward – in LIV’s case – to bankruptcy court and the start of liquidation proceedings some time in January 2027."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/2026/nov/19/liv-golf-tour-collapse-saudi-arabia-analysis",
+   "image": "https://i.guim.co.uk/img/media/824e7c8f87285ba8fd5fc86a8610ad5c6a356403/515_0_4378_3502/master/4378.jpg?width=140&quality=85&auto=format&fit=max&s=79bd286e2723807d71cde1665fcdb020",
+   "published_at": "2026-11-19T08:00:23Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "4011290ba5dfd5fb8d6391009ec0955f975b8a11",
+   "title": "Maine Road offer non-league haven to fans of scandal-hit Manchester City",
+   "summary": [
+    "Tenth-tier club aim to become a new home for disillusioned supporters and those priced out of the Premier LeagueIt began with a timely message on social media. “We’ve seen the posts."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/19/manchester-city-guilty-verdict-premier-league-charges-maine-road-non-league",
+   "image": "https://i.guim.co.uk/img/media/8b28322a2443e0982ccefdbb6c4c71328c7d18a0/1395_0_6990_5592/master/6990.jpg?width=140&quality=85&auto=format&fit=max&s=395004c87bc4e0c7f2adb3b6b96a2e6d",
+   "published_at": "2026-11-19T08:00:21Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "fe5e9e65d3c4a76b171e127c67ebad3d3c9584c6",
+   "title": "Weekly sports quiz: When did England last beat the men's world champions?",
+   "summary": [
+    "How much attention have you paid to what's happened in the world of sport over the past seven days?"
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/articles/c6pw4xnjrzydo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-19T07:54:27Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "76eb2a4bc0565664021db8ee601e757d6fadaa17",
+   "title": "How Premier League's big six keep getting richer",
+   "summary": [
+    "Ten games into the Premier League season, and the top five places are dominated by big six clubs.",
+    "It should come as no surprise as they have a growing advantage of hundreds of millions of pounds."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6x28e93zv3jo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-19T07:38:22Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "f103fcde39139c87a5232bfcef59dddf646ab449",
+   "title": "From Forest fringes to Glasner's go-to guy - the rise of McAtee",
+   "summary": [
+    "How has Nottingham Forest midfielder James McAtee gone from the bench to indispensable at the City Ground?"
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/ck98z842gp11o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-19T07:14:11Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "dce8982189a500082c2e23f27a653e11e26a560b",
+   "title": "Verstappen 'trusts' F1 over Middle East decision",
+   "summary": [
+    "Max Verstappen says he trusts in Formula 1 after their decision to end the season in the Middle East, despite the ongoing conflicts in the area."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/formula1/articles/c6n0l14rjlw4o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-19T07:11:36Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "a4b654cf0818e8f61672e740a62e628e8a987b3c",
+   "title": "Who am I? Plus today's other quizzes",
+   "summary": [
+    "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cmde19r53008o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-19T07:06:18Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "2280969a285d646303c7711fac37cfd6642c4a3c",
+   "title": "No trust problem with Ferrari team - Hamilton",
+   "summary": [
+    "Lewis Hamilton says Ferrari are \"super united\" despite two recent incidents in which the British driver ignored a team call to pit for fresh tyres."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/formula1/articles/cr8683z1wdp2o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-19T06:56:13Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "df3cd1783bd1f5388d9864874aeae5807b93b327",
+   "title": "UK firms owed thousands as Saudi-backed LIV paid golfers millions",
+   "summary": [
+    "A BBC Sport investigation has found bills to UK companies were already overdue when LIV Golf made its final payments to players and executives before filing for bankruptcy."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/golf/articles/cw7vpv793n24o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-19T06:37:40Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "f8287557bd95cb7de643aac1bd01f573cdc5670c",
+   "title": "Vote for the first BBC Men's Footballer of the Year",
+   "summary": [
+    "Jude Bellingham, Harry Kane, Kylian Mbappe, Rodri and Lamine Yamal are shortlisted for the BBC's Men's Footballer of the Year award."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c61wrqr7l1d8o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-19T06:30:04Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "5df4cbe7bac05cba35ac7f5802983eda13325dff",
+   "title": "Tennis the saviour for player who tried to take own life before Wimbledon",
+   "summary": [
+    "Swiss player Leandro Riedi tried to take his own life days before playing at Wimbledon in 2024."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/tennis/articles/cm5y18p5v12yo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-19T06:17:35Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "d60208e5d72b97963794e303abb1841f50d95948",
+   "title": "Lewis Hamilton denies lack of trust at ‘super united’ Ferrari before Las Vegas GP",
+   "summary": [
+    "British driver says team ‘working on our communication’Former champion held clear-the-air talks with LeclercLewis Hamilton has denied there is a lack of trust with his Ferrari team, insisting they are increasingly working well together, despite having overruled pit calls in two of the last four races.The seven‑time world champion ignored the team’s instruction to take a pit stop under the virtual safety car, at the same time as his teammate Charles Leclerc during the Singapore Grand Prix in October."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/2026/nov/19/lewis-hamilton-denies-distrust-ferrari-las-vegas-f1-gp",
+   "image": "https://i.guim.co.uk/img/media/26a81824d618474cd177d8c7609c45accc943fe6/0_0_4485_3590/master/4485.jpg?width=140&quality=85&auto=format&fit=max&s=f0c442173d378e8983a03a29ecf14e00",
+   "published_at": "2026-11-19T05:36:29Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "05311b63a6dd09f59ea36195e83c755c5737abc4",
+   "title": "'Best I've seen live': Watch as player scores ‘special’ goal",
+   "summary": [
+    "The midfielder speaks of the \"special moment\" he scored from within his own half."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/news/videos/cr4gn768pg5lo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-19T05:30:23Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "f59bcef1c35d03c2d1d0cecee7af206f0df63f5b",
+   "title": "Nothing but highlights: is Power Slap the sport we deserve?",
+   "summary": [
+    "Slap fighting is the world’s newest combat sport.",
+    "No flinchingIn the days before Power Slap 22, in Belgrade, Serbia, in late July, the organisers of the world’s newest combat sport were taking no chances.",
+    "In the lobby, I joined Louis “Razor” Robinson, and Ryan “the Punisher” Kenny. “We’re all friends in slap,” Robinson said, earnestly, by way of a greeting."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/news/2026/nov/19/nothing-but-highlights-is-power-slap-the-sport-we-deserve",
+   "image": "https://i.guim.co.uk/img/media/ec4208518e27dc780bea01ed1761448b22025b9d/1162_0_2500_2001/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=9b1852fe01ef15f6f6e20d9071411940",
+   "published_at": "2026-11-19T05:00:19Z",
    "category": "sports",
    "related": []
   },
@@ -46,321 +518,6 @@
    "url": "https://www.theguardian.com/sport/2026/nov/19/cameron-bancroft-sandpapergate-ball-tampering-cricket-australia-cummins-warner-lehmann-ntwnfb",
    "image": "https://i.guim.co.uk/img/media/a153580830bc48739ce356eac658820d45e344b8/415_0_4145_3317/master/4145.jpg?width=140&quality=85&auto=format&fit=max&s=d82a1d1d8bcde004a7c323e3b0328b19",
    "published_at": "2026-11-19T01:47:37Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "55e7e736d225e6b50262ceb02063a805c59fd60b",
-   "title": "Luis takes court for LSU amid eligibility drama, coming off bench",
-   "summary": [
-    "RJ Luis Jr. came off the bench and played 15 minutes in Wednesday night's game against UL Monroe, a move that promises to intensify the showdown between the university and SEC."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/mens-college-basketball/story/_/id/50525838/rj-luis-jr-not-lsu-starting-lineup-game-vs-ul-monroe",
-   "image": null,
-   "published_at": "2026-11-19T01:43:49Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "7112ee928feccb2f870221a0cca97c7e743252b2",
-   "title": "Georgia AG encourages SEC to take 'action' vs. LSU, 'up to and including expulsion'",
-   "summary": [
-    "The Georgia Attorney General blasted LSU in a letter to SEC commissioner Greg Sankey, encouraging sanctions against the Tigers, \"up to and including expulsion.\""
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/mens-college-basketball/story/_/id/50524054/georgia-ag-asks-sec-take-action-vs-lsu-expulsion",
-   "image": null,
-   "published_at": "2026-11-19T01:43:49Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "6815629c258504aa32be7f4d58dd04676ee08332",
-   "title": "Houston takes down No. 1 Florida, but Sampson says no celebrating in November",
-   "summary": [
-    "Houston coach Kelvin Sampson isn't overreacting to November basketball, not even after his No. 8 Cougars toppled top-ranked Florida 86-76 on Wednesday night."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/mens-college-basketball/story/_/id/50525586/houston-stuns-florida-kelvin-sampson-keeps-win-perspective",
-   "image": null,
-   "published_at": "2026-11-19T01:43:49Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "7810871b5a48ecdc8f5a5127054ff6fde018cb9c",
-   "title": "Playing hardball: Commish says MLB owners won't OK deal without cap as lockout looms",
-   "summary": [
-    "Commissioner Rob Manfred said owners will not accept any deal without a salary cap, leaving MLB on track for a lockout that could threaten the 2027 season."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/mlb/story/_/id/50523785/rob-manfred-says-mlb-owners-compromise-salary-cap",
-   "image": null,
-   "published_at": "2026-11-19T01:43:49Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "62cd9b87bc15e9f2f6637222e1cc2d643972f950",
-   "title": "Ravens' Humphrey apologizes for 'criminals' quip about Baltimore; mayor responds",
-   "summary": [
-    "Ravens cornerback Marlon Humphrey apologized Wednesday for the derogatory comment he recently made about Baltimore on his podcast."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nfl/story/_/id/50524109/ravens-humphrey-apologizes-criminals-quip-podcast",
-   "image": null,
-   "published_at": "2026-11-19T01:43:49Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "22dc795ff634972d12a73c95a7fd99ea4697d011",
-   "title": "Giants RB Skattebo to nix backflips in wake of Hutchinson's injury",
-   "summary": [
-    "Giants RB Cam Skattebo said he is holding off on doing any more backflips after Lions DE Aidan Hutchinson suffered a major knee injury while leaping and celebrating a sack."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nfl/story/_/id/50524576/rb-skattebo-nix-backflips-wake-hutchinson-injury",
-   "image": null,
-   "published_at": "2026-11-19T01:43:49Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "0f5b6bec58d139d23fb46255dd1f4051167572c2",
-   "title": "South Carolina star QB Sellers set to play vs. No. 1 Georgia",
-   "summary": [
-    "South Carolina star QB LaNorris Sellers is set to play in Saturday's game vs. No. 1 Georgia after not appearing on the injury report Wednesday."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/college-football/story/_/id/50526154/south-carolina-qb-lanorris-sellers-set-play-vs-georgia",
-   "image": null,
-   "published_at": "2026-11-19T01:43:49Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "2d73033355aac46dd23ec846362129569945d24c",
-   "title": "Ex-U.S. coach Arena: Federation doesn't 'have a clue' how to replace Poch",
-   "summary": [
-    "Former U.S. men's coach and current San Jose Earthquakes manager Bruce Arena called out U.S. Soccer as the federation looks for Mauricio Pochettino's replacement."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/soccer/story/_/id/50525211/us-coach-arena-federation-clue-next-coach",
-   "image": null,
-   "published_at": "2026-11-19T01:43:49Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "27ae5c5ddac41290afbb9fa8aa45bb868d6ed063",
-   "title": "🔥 Heat unveil 'A Night in Vice City' court ahead of GTA VI release",
-   "summary": [
-    "With Grand Theft Auto VI's long-awaited release date Thursday, the Heat are partnering with Rockstar Games to offer a topical lead-up event the night before."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nba/story/_/id/50085674/miami-heat-night-vice-city-game",
-   "image": null,
-   "published_at": "2026-11-19T01:43:49Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "0bd239b4ac92a9f69e8632a6d5e2d0d8d66240a1",
-   "title": "Who's on the CFP bubble after the committee's third ranking?",
-   "summary": [
-    "A conference-by-conference look at which teams are contending for the playoff, who's close and who's out."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/college-football/story/_/id/50503628/cfp-playoff-2026-bubble-watch-week-third-ranking",
-   "image": null,
-   "published_at": "2026-11-19T00:58:48Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "ac05eb8ee73e36d669e9b552d9ecd1ad9569d6f2",
-   "title": "NBA Power Rankings: One wild stat for all 30 teams",
-   "summary": [
-    "Here's where all 30 teams rank this week -- along with one remarkable stat that has fueled each franchise through one month of the season."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nba/story/_/id/50513109/nba-power-rankings-wild-stats-spurs-lakers",
-   "image": null,
-   "published_at": "2026-11-19T00:56:17Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "338b00baf77465c6dcfa30df52c12196fcf51155",
-   "title": "Women's Power Rankings: Tough tests await Texas, rest of top 16",
-   "summary": [
-    "Twelve unbeaten teams highlight the Week 2 rankings.",
-    "Louisville jumps to No. 4, while TCU makes its debut."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/womens-college-basketball/story/_/id/50514128/womens-basketball-2026-2027-power-rankings-top-16-teams",
-   "image": null,
-   "published_at": "2026-11-19T00:19:14Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "7c79855a636e1d15031e0e4ea7cb834738fbc11d",
-   "title": "Bracketology: Louisville leaps to top line as UConn falls",
-   "summary": [
-    "Louisville joins South Carolina, Michigan and USC, which solidified its status as a top team despite a loss."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/espn/feature/story/_/id/30423107/ncaa-women-bracketology-2027-women-college-basketball-projections",
-   "image": null,
-   "published_at": "2026-11-19T00:19:14Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "1fa1e9c0dc52b6a0c4d289636613f6bf4d1e82d0",
-   "title": "Breaking down Players Era 8: Day 2 brings two marquee semifinal matchups",
-   "summary": [
-    "Houston had its revenge over Florida in the Players Era 8 semifinal.",
-    "How will Kansas do against West Virginia?"
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/mens-college-basketball/story/_/id/50505898/players-era-8-matchups-analysis",
-   "image": null,
-   "published_at": "2026-11-19T00:18:43Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "ecbc32df12abe9e0a93bef62c438c62840079238",
-   "title": "The numbers behind Illinois' historic rout of Duke at Cameron Indoor Stadium",
-   "summary": [
-    "Andrej Stojakovic's record 46 points at Cameron Indoor Stadium helped Illinois to a historic rout of Duke."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/mens-college-basketball/story/_/id/50517285/illinois-duke-numbers",
-   "image": null,
-   "published_at": "2026-11-19T00:18:43Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "706b1e49ea72dbd95cfec85bd4e0939345028e00",
-   "title": "Passan's MLB offseason preview: Latest intel on top free agents, where Skubal will sign",
-   "summary": [
-    "The hot stove is about to get blazing hot.",
-    "Here's what will shape the coming weeks of offseason moves."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/mlb/story/_/id/50512111/passan-offseason-preview-2026-27-free-agent-updates",
-   "image": null,
-   "published_at": "2026-11-19T00:17:54Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "0ff35f5e6379379005c44dd4cc3aa7cdd07b1691",
-   "title": "MLB free agency tracker: 2026-27 offseason trades, moves",
-   "summary": [
-    "We've got you covered on all the major MLB hot stove signings and trades."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/mlb/story/_/id/50328768/free-agency-tracker-offseason-trades-moves-2026-2027",
-   "image": null,
-   "published_at": "2026-11-19T00:17:54Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "ebadd296b14044fad2cdca4adc7577e7df79c86f",
-   "title": "Chelsea's defense shines, but will scoring woes be their undoing in UWCL?",
-   "summary": [
-    "Chelsea have scored just four goals in five Women's Champions League matches, though they remain in strong position for the knockout rounds because of their lockdown defense."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/soccer/story/_/id/50524335/chelsea-psg-uwcl-scoring-issues",
-   "image": null,
-   "published_at": "2026-11-18T23:08:25Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "63bf32eaac7a3a5b0fe62621eb5e97f0fb2c1902",
-   "title": "Real Madrid need more sharpness in order to compete with UWCL's best",
-   "summary": [
-    "Real Madrid were able to win it late against Inter, but their missed chances could haunt them in the more important matches in the UEFA Women's Champions League."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/soccer/story/_/id/50523924/real-madrid-women-champions-league-best",
-   "image": null,
-   "published_at": "2026-11-18T23:08:24Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "7f10af90c778e8d9db7c8e1da22c9b88a60e2f62",
-   "title": "Why Packers can't protect Jordan Love or rush successfully",
-   "summary": [
-    "The two-year demise of the Packers' offensive line began on March 10, 2025, and has no end in sight."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nfl/story/_/id/50513014/packers-jordan-love-sack-rushing-offensive-line",
-   "image": null,
-   "published_at": "2026-11-18T22:59:59Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "3cc371789933143e9c2c472a44985fe2273668aa",
-   "title": "'It's part of my heart': Inside Travis Kelce's love affair with Arrowhead Stadium",
-   "summary": [
-    "Kelce's greatest Arrowhead moments include his first catch, lots of playoff magic, and meeting the love of his life, Taylor Swift."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nfl/story/_/id/50513358/chiefs-travis-kelce-100-games-arrowhead-taylor-swift",
-   "image": null,
-   "published_at": "2026-11-18T22:59:59Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "ce272bce0312cb19518089d8b51274f8dbf3b4b7",
-   "title": "Bottom 10: Things go south in Carolina -- and a tribute to a legend",
-   "summary": [
-    "The originator of celebrating football's downtrodden, former Los Angeles columnist Steve Harvey, died last week."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/college-football/story/_/id/50519786/bottom-10-week-11-clemson-steve-harvey",
-   "image": null,
-   "published_at": "2026-11-18T22:59:36Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "277c4012a63aff0fed8f2dbb0816646ca6ad560e",
-   "title": "The Connor McDavid Scoring Tracker: Can the Oilers' superstar break 200 points?",
-   "summary": [
-    "Follow along game by game as No. 97 looks to break a benchmark that only No. 99 has done in NHL history."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nhl/story/_/id/50502384/nhl-2026-27-connor-mcdavid-scoring-200-points-stats-record-wayne-gretzky",
-   "image": null,
-   "published_at": "2026-11-18T22:59:14Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "88539959ed1f0d036da0503434efdfc4aa0e7d61",
-   "title": "NHL Tonight: What to watch in Bruins-Red Wings, Canadiens-Devils, Avalanche-Mammoth",
-   "summary": [
-    "Find game previews, betting intel, broadcast information, stats and highlights here."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nhl/story/_/id/50513005/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting",
-   "image": null,
-   "published_at": "2026-11-18T22:59:14Z",
    "category": "sports",
    "related": []
   },
@@ -391,20 +548,6 @@
    "related": []
   },
   {
-   "id": "6aaf1d75e18f3752126ead6988d399437b73ce02",
-   "title": "Manchester United’s infamous 1974 relegation is a warning from history",
-   "summary": [
-    "It may have been a different era, but the 1970s contain salutary lessons for a club in serious decline once againIn many ways, there are striking parallels between the Manchester United relegated in 1974 and the Manchester United sitting in the relegation zone at this stage of the season for the first time in 40 years.",
-    "A legendary manager leaves, his shadow remains; with boardroom dithering and uncertainty, his replacements churn and burn as the club slide over several years.Sir Matt Busby stepped aside as manager of the 1968 European Cup-winning side, but stayed on as a director, just as Sir Alex Ferguson did, watching from the Old Trafford directors’ box as successors tried and failed."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/2026/nov/18/manchester-united-infamous-1974-relegation-is-a-warning-from-history",
-   "image": "https://i.guim.co.uk/img/media/e972d5919ff64a850d1ffe239a15b17f2d35a20f/247_0_3413_2731/master/3413.jpg?width=140&quality=85&auto=format&fit=max&s=00dafb7dfaec630f9e4edae478d8703d",
-   "published_at": "2026-11-18T22:30:10Z",
-   "category": "sports",
-   "related": []
-  },
-  {
    "id": "47d09567fda777560161d065e13f70384a110d17",
    "title": "Chelsea 1-0 Paris Saint-Germain: Women’s Champions League – as it happened",
    "summary": [
@@ -416,137 +559,6 @@
    "url": "https://www.theguardian.com/football/live/2026/nov/18/chelsea-v-paris-saint-germain-psg-womens-champions-league-live-score-updates",
    "image": "https://i.guim.co.uk/img/media/15e29472ffa21244724fd5ecfc44e790450ae81a/301_0_3458_2767/master/3458.jpg?width=140&quality=85&auto=format&fit=max&s=b08060089a9620f8d95014dec3bf0d9c",
    "published_at": "2026-11-18T22:14:15Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "4a80ce94017bbacad276a903b86481e01490b20e",
-   "title": "Buurman rescues late Chelsea win against PSG",
-   "summary": [
-    "Veerle Buurman scores an 87th-minute winner for Chelsea as they edge past Paris St-Germain 1-0 in the Women's Champions League to move top of the table."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/videos/cjy5xkq5wwrgo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-18T22:13:49Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "651b75d0b75a8736c22149060bce26091dd86f6a",
-   "title": "Veerle Buurman scrambles late WCL winner to push blunt Chelsea past PSG",
-   "summary": [
-    "Chelsea were made to work hard for three Champions League points against a resilient Paris Saint-Germain side but their patience paid off, Veerle Buurman squeezing the ball in at the near post to put them, temporarily at least, at the top of the table in the league phase.Buurman had stolen the show in Chelsea’s defeat of Manchester City at the weekend, coming on 12 minutes in and nullifying Khadija Shaw’s threat to be named player of the match, and she was the hero under the lights with Chelsea doing everything but score prior to her goal."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/2026/nov/18/chelsea-paris-saint-germain-womens-champions-league-match-report",
-   "image": "https://i.guim.co.uk/img/media/e6a874dbf4bddc966b34b0697e0af97e877130b0/523_0_3954_3164/master/3954.jpg?width=140&quality=85&auto=format&fit=max&s=fb6fc4ff9b3a4106ea3b775756da5da4",
-   "published_at": "2026-11-18T22:06:45Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "781d1b045e3df6d4357799f38639662ac22a33ab",
-   "title": "MLB commissioner Manfred cites fan support for salary cap as baseball heads towards lockout",
-   "summary": [
-    "Players say they will never accept a cap.",
-    "The last time management proposed a cap in 1994, it led to a strike that lasted almost eight months and caused the cancellation of the World Series for the first time in 90 years."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/sport/2026/nov/18/mlb-commissioner-manfred-cites-fan-support-for-salary-cap-as-baseball-heads-towards-lockout",
-   "image": "https://i.guim.co.uk/img/media/d6e39f615bca542f3c4bae1fbc4eb46f70e933f9/250_0_3155_2524/master/3155.jpg?width=140&quality=85&auto=format&fit=max&s=8bf83a8e1f497a5845288c79b0144da1",
-   "published_at": "2026-11-18T21:34:01Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "49926fcc9d53e04d6a7445b9df0e197b04e8963f",
-   "title": "QB rankings for all 68 Power 4 college football teams",
-   "summary": [
-    "How have our opinions about the top quarterbacks changed?"
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/college-football/story/_/id/50510847/ranking-power-4-qbs",
-   "image": null,
-   "published_at": "2026-11-18T21:26:45Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "ef0241482823825660af7e39cffa2bf25d998aaf",
-   "title": "What are the conference title game clinching scenarios for Week 12?",
-   "summary": [
-    "Here's what teams from every conference would need to play for their league championship."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/college-football/story/_/id/50512475/conference-title-game-clinching-scenarios-week-12",
-   "image": null,
-   "published_at": "2026-11-18T21:26:44Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "fa6bbde3aef4e2acab8589353e130419c418e845",
-   "title": "Ukrainian FA to blame for failed drugs test - Mudryk",
-   "summary": [
-    "Tottenham's on-loan Chelsea winger Mykhailo Mudryk says he blames the Ukrainian Association of Football for his failed drugs test and subsequent ban."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cr930l71z5ejo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-18T21:22:18Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "517f5738f6d95d5c4e5d19a8eb6f1c2ce0c4db24",
-   "title": "Bottas' stay at Cadillac confirmed for 2027",
-   "summary": [
-    "Valtteri Bottas is retained by Cadillac for the 2027 Formula 1 season."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/formula1/articles/cqkgr0elvl5zo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-18T21:18:32Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "2d843f030c7650a2ca7eb1cf2b73ec92b714b9ee",
-   "title": "England defender Carter joins Bay FC after Gotham exit",
-   "summary": [
-    "England defender Jess Carter completes a move to Bay FC after leaving Gotham FC as a free agent."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/articles/ck5y169v1262o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-18T21:07:26Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "5bdb0087bb14e6e9e2c94d83515fb78cf5b68c83",
-   "title": "Strasbourg announce appointment of Swans boss Matos",
-   "summary": [
-    "Strasbourg appoint Swansea City's Vitor Matos as the club's new head coach."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/articles/c6174epxv1p4o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-18T20:57:54Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "653ec604cecdf935c0c33cb098feef46cfff1d88",
-   "title": "FA explored legal challenge to Infantino staying on",
-   "summary": [
-    "The Football Association considered challenging Gianni Infantino's eligibility to run for a fourth term as Fifa president, but it felt a case was likely to fail."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cm3eg1w4ypz5o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-18T20:55:01Z",
    "category": "sports",
    "related": []
   }

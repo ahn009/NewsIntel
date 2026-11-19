@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-19T03:13:49.235965Z",
- "story_count": 17,
+ "generated_at": "2026-11-19T12:52:05.820790Z",
+ "story_count": 15,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -20,9 +20,74 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "ok"
+  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "feb249b67917e5a30322aaefee75b34df84a0751",
+   "title": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
+   "summary": [
+    "The UK's competition body says initial findings suggest the ticket-reselling website used drip pricing."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-19T12:02:29Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "8befb2780d6e2e8a4c0a9fc0ab81a3e03b9e2af9",
+   "title": "Indian driver wins $1.3m in life-changing lottery prize",
+   "summary": [
+    "A truck driver's fortunes have changed overnight after he won a Diwali lottery in the northern Indian state of Punjab."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/cke89vdn75gyo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-19T11:38:09Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "d8a561c0ee88365a8754378a7a7c979de886c39b",
+   "title": "Increase in direct cremations since pandemic",
+   "summary": [
+    "A 2026 Cost of Dying Report found direct cremation was now chosen for around one in five funerals."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ck5ywnr59z85o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-19T06:23:22Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "29dd76ade58aa7f77d1c3f311eba2d818113be3e",
+   "title": "Gilts v kilts: What is happening with Scottish government bonds?",
+   "summary": [
+    "MSPs have heard both the pros and cons of the government's plan to launch its first ever bond to the market."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-19T06:15:57Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "0567c4f26961cac74f056d0205b6a8b07e6ac64d",
+   "title": "Leftover pumpkins help deliver 1,000th free meal",
+   "summary": [
+    "\"It's a really tough time for a lot of people,\" a sustainable food organisation says."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6x29jxgkjpno?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-19T06:04:30Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "9d6e5b138b34e39ba5d20a1f783a1e47f93f28a5",
    "title": "Who are the investors ready to jump on Anthropic?",
@@ -37,6 +102,19 @@
    "related": []
   },
   {
+   "id": "61b027a68d1b4d0d79ed0320a41d5504f1d95642",
+   "title": "Crew unaware of risks before Mike Lynch's yacht Bayesian sank, say investigators",
+   "summary": [
+    "The vessel sank off the coast of northern Sicily, killing seven people including British tech tycoon Mike Lynch."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-19T00:05:31Z",
+   "category": "business",
+   "related": []
+  },
+  {
    "id": "d458a1da01c44a787e279603500b8e0ad75675e7",
    "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
    "summary": [
@@ -46,19 +124,6 @@
    "url": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-19T00:00:59Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "29dd76ade58aa7f77d1c3f311eba2d818113be3e",
-   "title": "Gilts v kilts: What is happening with Scottish government bonds?",
-   "summary": [
-    "MSPs have heard both the pros and cons of the government's plan to launch its first ever bond to the market?"
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-18T23:01:09Z",
    "category": "business",
    "related": []
   },
@@ -141,19 +206,6 @@
    "related": []
   },
   {
-   "id": "f25b9255d10e23dfbec82e94fb98dcc03306eb7f",
-   "title": "MP urges council to speed up heating oil payments",
-   "summary": [
-    "About 23,000 households use heating oil in Northumberland and face increasing bills this winter."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm792dqz4qvyo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-18T08:48:26Z",
-   "category": "business",
-   "related": []
-  },
-  {
    "id": "4d0c3e89742fb55734280dd0975d4edab70c2e43",
    "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new Bond",
    "summary": [
@@ -163,86 +215,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-18T04:00:54Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "daa9959cb12cf974c10c2d0c2c8f544dbf314cab",
-   "title": "Nvidia doubles revenue as board says it does not intend to reinstate Jensen Huang",
-   "summary": [
-    "Company issues first earnings report after ouster of CEO over allegations of affair with suspected Chinese spyNvidia “does not intend to reinstate Jensen as CEO”, the chairman of the company’s board said Tuesday.",
-    "Harvey Jones made the remark during Nvidia’s first quarterly earnings report since Jensen Huang’s ouster.Nvidia announced the same day that its quarterly revenue beat expectations, coming in at $115.84bn, doubling from the same time period a year ago.",
-    "The third-quarter earnings report comes just days after the world’s most valuable chip company saw the ouster of Huang over allegations of several extramarital affairs, including one with a suspected Chinese spy and two with his own employees."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang",
-   "image": "https://i.guim.co.uk/img/media/8113a55d4f67088521e43617481262c2f4f3358a/366_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=886ec09740a96447a99058c23e7d0c2e",
-   "published_at": "2026-11-17T23:32:16Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "948f6671b98ff049da0433c30e204f1b63d8b661",
-   "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
-   "summary": [
-    "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-17T23:02:12Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "e48357026cb54cb74c4bc85226deb7f5f792dfd4",
-   "title": "Judge extends deadline for Trump’s deposition in $10bn BBC lawsuit",
-   "summary": [
-    "If he failed to do so by that date, he could be subject to penalties up to dismissal of the case, the judge warned."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/17/trump-bbc-deposition-delay",
-   "image": "https://i.guim.co.uk/img/media/2d2c9d7d190c5fae25528afe1f403597f1b06ccf/454_0_4817_3853/master/4817.jpg?width=140&quality=85&auto=format&fit=max&s=186b389dc0111da9451274224167e5cd",
-   "published_at": "2026-11-17T21:45:58Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "04508f950256e050ef61e59c3a2c71896abeebe4",
-   "title": "Speed camera fault may have allowed drivers to escape fines",
-   "summary": [
-    "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-17T20:04:54Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "3b6dc1ca1cc5a3ccb0aea2d825e77574805ca2ac",
-   "title": "Government backs welfare shake-up to prevent 'lost generation'",
-   "summary": [
-    "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-17T18:43:05Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "27ce241d95a6b156058d70bf5444931c7122e392",
-   "title": "People in the US: how are you celebrating Thanksgiving this year amid rising costs in the US?",
-   "summary": [
-    "Are you hosting or attending the holiday differently than years past?"
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/17/americans-celebrating-thanksgiving-costs-callout",
-   "image": "https://i.guim.co.uk/img/media/e7f897df251db72a533a7f4f61366f8691306209/482_0_3733_2987/master/3733.jpg?width=140&quality=85&auto=format&fit=max&s=a96bad5935656a4a46a0a6b93dd5cf2a",
-   "published_at": "2026-11-17T17:04:50Z",
    "category": "business",
    "related": []
   }

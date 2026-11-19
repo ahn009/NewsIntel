@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T03:13:49.235544Z",
+ "generated_at": "2026-11-19T12:52:05.820300Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -20,63 +20,196 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "ok"
+  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
   {
-   "id": "07bd5650afd3006882d4ce5e759cf74e78e41f54",
-   "title": "AI will not make you rich (2025)",
+   "id": "5873d97881414033caf584a74fbb6e4c1dba6c68",
+   "title": "UK joins in GTA 6 frenzy as game becomes available worldwide",
    "summary": [
-    "Article URL: https://colossus.com/article/ai-will-not-make-you-rich/ Comments URL: https://news.ycombinator.com/item?id=50555093 Points: 56 # Comments: 34"
+    "The game, which was in development for 13 years, is set become one of the world's most popular entertainment products ever."
    ],
-   "source": "Hacker News",
-   "url": "https://colossus.com/article/ai-will-not-make-you-rich/",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6z74ep2n17zo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-19T01:51:28Z",
-   "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "https://ut2004.dev/"
-    }
-   ]
-  },
-  {
-   "id": "79d44d19cc731ee695033c20395e004da6eb63f2",
-   "title": "FailTrace – Reproduce a failed GitHub Actions run locally from its URL",
-   "summary": [
-    "Article URL: https://github.com/Ri4dH/failtrace Comments URL: https://news.ycombinator.com/item?id=50554941 Points: 9 # Comments: 0"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/Ri4dH/failtrace",
-   "image": null,
-   "published_at": "2026-11-19T01:30:43Z",
+   "published_at": "2026-11-19T12:26:39Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "7d99e1aa81cc1163df79728738d4c8e1719e6db3",
-   "title": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
+   "id": "97b20df2e79d51091168dd19742bf58dc9a2ddf9",
+   "title": "The AI Superintelligence Debate Has Serious Flaws",
    "summary": [
-    "Article URL: https://arxiv.org/abs/2607.29378 Comments URL: https://news.ycombinator.com/item?id=50554908 Points: 12 # Comments: 4"
+    "Article URL: https://spectrum.ieee.org/ai-superintelligence-debate Comments URL: https://news.ycombinator.com/item?id=50559140 Points: 4 # Comments: 0"
    ],
    "source": "Hacker News",
-   "url": "https://arxiv.org/abs/2607.29378",
+   "url": "https://spectrum.ieee.org/ai-superintelligence-debate",
    "image": null,
-   "published_at": "2026-11-19T01:27:02Z",
+   "published_at": "2026-11-19T12:17:10Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "d3a31f42283206dbb6c8e432a6bcd54813459ea1",
-   "title": "Black high school students sue after AI mistakes Doritos bag for gun",
+   "id": "673fe163ae2a4b65ad675a2f1497a3495ded773d",
+   "title": "Nvidia approaches Arm boss Rene Haas in search for new CEO",
    "summary": [
-    "Article URL: https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/ Comments URL: https://news.ycombinator.com/item?id=50554641 Points: 39 # Comments: 4"
+    "CEO of Cambridge-based firm viewed as leading contender to replace co-founder Jensen Huang according to reportsBusiness live – latest updatesNvidia’s headhunters have reportedly approached the chief executive of the Cambridge-based chip company Arm, in its search for a new leader after Jensen Huang’s dramatic exit.Heidrick & Struggles, the recruiting firm hired by the company’s board, has started contacting potential candidates, according to Bloomberg."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/19/nvidia-new-ceo-search-jensen-huang-arm-rene-haas",
+   "image": "https://i.guim.co.uk/img/media/ce0d34e7679c080109b46bd269b8671589afd5e7/319_0_3193_2556/master/3193.jpg?width=140&quality=85&auto=format&fit=max&s=96cd2fb09886a1435b10ac92e0a8d3a6",
+   "published_at": "2026-11-19T11:29:01Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "db0a328fdd9ad4da7418e960d48a16453752a4cc",
+   "title": "How the European Commission rolled out Matrix to more than 40k staff",
+   "summary": [
+    "Article URL: https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/ Comments URL: https://news.ycombinator.com/item?id=50558533 Points: 123 # Comments: 45"
    ],
    "source": "Hacker News",
-   "url": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/",
+   "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
    "image": null,
-   "published_at": "2026-11-19T00:57:20Z",
+   "published_at": "2026-11-19T10:58:29Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "21379e0f60462e40419d965b3b6c73abc4f79a74",
+   "title": "Bank your stolen cash, bring a change of clothes, go easy on the bloodshed: 15 tips for playing Grand Theft Auto VI",
+   "summary": [
+    "But I’ve done nothing but play this game for weeks and I’m here to help.",
+    "I found that Jason and Lucia walk incredibly slowly.",
+    "If you go into the options menu, you can select “fast walk” as the default walking speed, which sped them up just a little without ruining the pace or atmosphere of the game."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/games/2026/nov/19/tips-for-playing-grand-theft-auto-vi",
+   "image": "https://i.guim.co.uk/img/media/f99302eeb5a3c2a484dce7f90e27c0c8fab79202/571_0_2698_2160/master/2698.jpg?width=140&quality=85&auto=format&fit=max&s=acc6a9d6c5e157ee4315106e768df85f",
+   "published_at": "2026-11-19T10:00:25Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "6f7635bd515290e0878a07b7aa8e4abb5d15259f",
+   "title": "You Can See Everything review – unblinking, unhinged and unmissable",
+   "summary": [
+    "His film delivers an extraordinary twist at around the halfway mark, and readers wanting to preserve the shock had better bail out here."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/film/2026/nov/19/you-can-see-everything-review-docu-hybrid-masterpiece-nathan-fielder-elizabeth-holmes",
+   "image": "https://i.guim.co.uk/img/media/4a9ad5c5700fce535f649f8d6c166a50cc9163f6/266_0_1578_1262/master/1578.jpg?width=140&quality=85&auto=format&fit=max&s=a3031460c5110feb8e6e4ffca7c4749e",
+   "published_at": "2026-11-19T10:00:25Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "62837eed4c0fd851a0a17fb1e278b826b49e5993",
+   "title": "From training clips to thirst traps: why athletes are turning to OnlyFans",
+   "summary": [
+    "But the injury update didn’t come from an interview – it was broadcast on the speed skater’s OnlyFans channel.The subscription site, best known for porn dudes, cam girls and dubiously horny couples, has quietly assembled one of the stranger rosters in professional sport.",
+    "The list, about 285 athletes deep, includes Olympic speed skaters and rowers, tennis players, surfers and golfers.",
+    "And, despite its racy reputation, many of the athletes on OnlyFans are not putting out adult content."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/2026/nov/19/athletes-onlyfans-earnings",
+   "image": "https://i.guim.co.uk/img/media/5f7e8fb8020ec48fb432bcf7a5e910ff8ba1029e/0_288_2642_2113/master/2642.jpg?width=140&quality=85&auto=format&fit=max&s=d030a463d9a373fed23947893d8c7988",
+   "published_at": "2026-11-19T10:00:24Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "43aa16fb77cf37acbf7c126c86cec1557ac2c953",
+   "title": "SSD prices will start going down the second half of next year",
+   "summary": [
+    "Article URL: https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html Comments URL: https://news.ycombinator.com/item?id=50557716 Points: 122 # Comments: 93"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html",
+   "image": null,
+   "published_at": "2026-11-19T09:05:34Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "5a7839424fb0a9f6a671b2d6ffc46921fe3e465d",
+   "title": "Distributed, high-performance blob storage on SQLite",
+   "summary": [
+    "Article URL: https://zerodha.tech/blog/high-performance-distributed-blob-storage/ Comments URL: https://news.ycombinator.com/item?id=50557537 Points: 101 # Comments: 18"
+   ],
+   "source": "Hacker News",
+   "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
+   "image": null,
+   "published_at": "2026-11-19T08:39:45Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "9a5595bee58d256c06f6d7937893a99801da8499",
+   "title": "How GTA started its own moral panic – video",
+   "summary": [
+    "Grand Theft Auto has been so central to the moral panic over graphic video games that some experts have called it the \"grand theft fallacy\".",
+    "Yet the outrage was originally seeded by the studio itself in 1997 to drum up hype and taboo curiosity for its clunky-looking debut.",
+    "Grand Theft Auto VI review – gaming’s most depraved world is now also its greatest love story Continue reading..."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/games/video/2026/nov/19/how-gta-grand-theft-auto-started-its-own-moral-panic-video",
+   "image": "https://i.guim.co.uk/img/media/8e952022e31ad5bdd36846576e1a446ad470b1b9/0_135_5334_4262/master/5334.jpg?width=140&quality=85&auto=format&fit=max&s=706f0e2fd11a7d983e6740e95373f5cc",
+   "published_at": "2026-11-19T07:25:27Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "cd785972e812196cb5fdd97a64448d5c3cacf531",
+   "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
+   "summary": [
+    "Article URL: https://kapteko.com/15-million-webservers/ Comments URL: https://news.ycombinator.com/item?id=50556533 Points: 215 # Comments: 26"
+   ],
+   "source": "Hacker News",
+   "url": "https://kapteko.com/15-million-webservers/",
+   "image": null,
+   "published_at": "2026-11-19T05:56:36Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "f82d195d3e1b5c14e8045f55b45c40cb84412443",
+   "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+   "summary": [
+    "Article URL: https://verialabs.com/ruby2shell/ Comments URL: https://news.ycombinator.com/item?id=50556287 Points: 201 # Comments: 77"
+   ],
+   "source": "Hacker News",
+   "url": "https://verialabs.com/ruby2shell/",
+   "image": null,
+   "published_at": "2026-11-19T05:09:11Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "29eb633a1a4008b5349ad9f0972186af0bdb4c57",
+   "title": "‘Most extraordinary virtual world’: critics hail Grand Theft Auto VI as masterpiece",
+   "summary": [
+    "Reviewers praise relationship between two leads in hotly anticipated release, whose trailer attracted 90m views in 24 hoursTell us: are you playing Grand Theft Auto VI?Good things clearly come to those who wait.",
+    "Excitement continued to mount, with two release delays and a steady stream of leaks and speculation keeping the game in the headlines."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/games/2026/nov/19/grand-theft-auto-vi-critics-response-masterpiece",
+   "image": "https://i.guim.co.uk/img/media/c5ade9ff40b889ba03d26bbf14ace6145c402940/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=0599f9b2c3095f9ef11a6d11f2d42630",
+   "published_at": "2026-11-19T04:00:16Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ffaf75f088d156ed3ab1f8b8c72ca9db19bdc8f7",
+   "title": "GTA 6 dazzles gamers in Australia with ‘fully lived-in, breathable world’",
+   "summary": [
+    "And the reviews, mere hours into release, reflect universal acclaim.",
+    "The game has already vaulted to the top spot on Metacritic’s list of the best games of all time, sitting above 1998’s The Legend of Zelda: Ocarina of Time with an unprecedented 99/100 score."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/games/2026/nov/19/gta-6-grand-theft-auto-vi-release-launch-australia-first-to-play-game",
+   "image": "https://i.guim.co.uk/img/media/e5ce165329932836314e73aaa1608c379bc0f198/570_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=bc6c883bc7739c7c41e75c2a5cdd55f7",
+   "published_at": "2026-11-19T02:30:12Z",
    "category": "tech",
    "related": []
   },
@@ -108,19 +241,6 @@
    "related": []
   },
   {
-   "id": "9491587c1875ac6b7eba1f602df591aa39cd78fc",
-   "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
-   "summary": [
-    "Article URL: https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/ Comments URL: https://news.ycombinator.com/item?id=50554374 Points: 107 # Comments: 36"
-   ],
-   "source": "Hacker News",
-   "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
-   "image": null,
-   "published_at": "2026-11-19T00:29:45Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "d2cb25e8bf7044cb22ac2002694697f2bbb8273c",
    "title": "Four Maryland high school students sue after AI mistakes Doritos bag for gun",
    "summary": [
@@ -134,41 +254,15 @@
    "related": []
   },
   {
-   "id": "a6c50a3fde5eeed129ccd79bec263293572ddf36",
-   "title": "We need smart people who give a shit",
-   "summary": [
-    "Article URL: https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/ Comments URL: https://news.ycombinator.com/item?id=50554045 Points: 276 # Comments: 141"
-   ],
-   "source": "Hacker News",
-   "url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
-   "image": null,
-   "published_at": "2026-11-18T23:53:49Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "5d96bf31ecb80ec65c3ff2e76854309d5684ec02",
    "title": "Multiple vulnerabilities in Regexp and String case conversion",
    "summary": [
-    "Article URL: https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/ Comments URL: https://news.ycombinator.com/item?id=50554038 Points: 101 # Comments: 22"
+    "Article URL: https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/ Comments URL: https://news.ycombinator.com/item?id=50554038 Points: 289 # Comments: 108"
    ],
    "source": "Hacker News",
    "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
    "image": null,
    "published_at": "2026-11-18T23:52:50Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "f3b3ec29dbcb3132171f7f071c903b1bd7b20c12",
-   "title": "Palo Alto Networks to Acquire Applied Compute for $4.5B",
-   "summary": [
-    "Article URL: https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open Comments URL: https://news.ycombinator.com/item?id=50554009 Points: 20 # Comments: 2"
-   ],
-   "source": "Hacker News",
-   "url": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open",
-   "image": null,
-   "published_at": "2026-11-18T23:49:13Z",
    "category": "tech",
    "related": []
   },
@@ -182,19 +276,6 @@
    "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
    "image": null,
    "published_at": "2026-11-18T23:45:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "d116a97c5f1a7a3fb097bdbccf583a17833e4559",
-   "title": "The seven Anthropic founders who are about to become multi-billionaires",
-   "summary": [
-    "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-18T23:42:07Z",
    "category": "tech",
    "related": []
   },
@@ -215,7 +296,7 @@
    "id": "909b75797cd1319b1691945b2e4608e38292841e",
    "title": "Anthropic prices initial public offering",
    "summary": [
-    "Article URL: https://www.anthropic.com/news/anthropic-prices-initial-public-offering Comments URL: https://news.ycombinator.com/item?id=50553843 Points: 108 # Comments: 60"
+    "Article URL: https://www.anthropic.com/news/anthropic-prices-initial-public-offering Comments URL: https://news.ycombinator.com/item?id=50553843 Points: 274 # Comments: 509"
    ],
    "source": "Hacker News",
    "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
@@ -280,7 +361,7 @@
    "id": "f00d83341f65cba84060640a103290cfafa270c1",
    "title": "LLM assisted reverse engineering",
    "summary": [
-    "Article URL: https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering Comments URL: https://news.ycombinator.com/item?id=50553225 Points: 87 # Comments: 20"
+    "Article URL: https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering Comments URL: https://news.ycombinator.com/item?id=50553225 Points: 246 # Comments: 63"
    ],
    "source": "Hacker News",
    "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
@@ -291,7 +372,7 @@
   },
   {
    "id": "b7121aa7617648f3e62fbd2104fd30b180d252dd",
-   "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+   "title": "Anthropic prices IPO at $83 a share, above projected range",
    "summary": [
     "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis."
    ],
@@ -299,6 +380,21 @@
    "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
    "image": null,
    "published_at": "2026-11-18T22:11:15Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "2a1b3475515a1832094f690a96c207be4294b4f0",
+   "title": "Waymo pulls driverless taxis from freeways across the US after California ban",
+   "summary": [
+    "The autonomous driving company suspended driverless taxi rides on US highways days after California banned the vehicles on its own freewaysWaymo has stopped offering driverless taxi rides on freeways across the US indefinitely.",
+    "The California-based company offers rides on city streets in many other areas, including Las Vegas, Dallas and Denver.",
+    "Those rides remain unaffected by suspended freeway service."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/18/waymo-pulls-driverless-taxis-us-freeways",
+   "image": "https://i.guim.co.uk/img/media/66a7e1b60127ac32448a1397ea75dab23ebbfddd/451_0_4513_3610/master/4513.jpg?width=140&quality=85&auto=format&fit=max&s=0fdc62ca339323206f1f5d89a2b25b42",
+   "published_at": "2026-11-18T22:05:49Z",
    "category": "tech",
    "related": []
   },
@@ -329,6 +425,21 @@
    "related": []
   },
   {
+   "id": "2a7ed7ee18a084fe2923844c961561670262b020",
+   "title": "Anthropic sets share price at $83 for stock market debut, above expected range",
+   "summary": [
+    "Last week, the San Francisco-based company, founded in 2021, set its preliminary share price at $70 to $78.",
+    "With all shares counted, those prices put Anthropic’s initial public offering (IPO) from $1.26tn to $1.41tn.",
+    "With Anthropic setting its share price at $83, it could now surpass SpaceX."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/18/anthropic-share-price-stock-market-ipo",
+   "image": "https://i.guim.co.uk/img/media/946b0e05dd0e1b4c6e798b7dd5ff3846fd4f4783/718_0_6195_4958/master/6195.jpg?width=140&quality=85&auto=format&fit=max&s=52829c68a6669d7634536a562a880f8e",
+   "published_at": "2026-11-18T21:39:15Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "22c3131e87fdf83abb8ac478a98dd61b21a6a762",
    "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
    "summary": [
@@ -351,19 +462,6 @@
    "url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
    "image": null,
    "published_at": "2026-11-18T21:31:21Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "129d48b31739a5a274b680f47437d3a1e955f6b9",
-   "title": "PlayStation suffers widespread network problems hours before release of GTA VI",
-   "summary": [
-    "Disruption comes at critical moment, with Grand Theft Auto VI one of the most eagerly anticipated titles in historyPlayStation has suffered widespread network problems just hours before the release of Grand Theft Auto VI, one of the most eagerly anticipated titles in recent gaming history.The disruption emerged Wednesday, causing frustrated players to flood social media with complaints about failed logins and server connection problems downloading games and updates."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/games/2026/nov/18/playstation-down-grand-theft-auto-vi-game-release",
-   "image": "https://i.guim.co.uk/img/media/bd09cb7f2214cc6b9a941223e83cc6a10d1131fd/552_0_5493_4397/master/5493.jpg?width=140&quality=85&auto=format&fit=max&s=9f537a4477e1396d49f73415d1d8fa22",
-   "published_at": "2026-11-18T20:28:42Z",
    "category": "tech",
    "related": []
   },
@@ -394,6 +492,24 @@
    "related": []
   },
   {
+   "id": "70cc8a0a1d31480778901036031a4cc49b7bb09b",
+   "title": "DaisyRose-27B",
+   "summary": [
+    "Article URL: https://www.radixark.com/blog/daisyrose-27b Comments URL: https://news.ycombinator.com/item?id=50551046 Points: 228 # Comments: 82"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.radixark.com/blog/daisyrose-27b",
+   "image": null,
+   "published_at": "2026-11-18T19:39:16Z",
+   "category": "tech",
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://www.gdmunion.co.uk"
+    }
+   ]
+  },
+  {
    "id": "17ed1763602098a90e0f16815549d946d795d85d",
    "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
    "summary": [
@@ -410,7 +526,7 @@
    "id": "abe03c170f0b92ca170ea0d248104d2e6bc83bbe",
    "title": "Genie 4 is now available",
    "summary": [
-    "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/ Comments URL: https://news.ycombinator.com/item?id=50550415 Points: 201 # Comments: 143"
+    "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/ Comments URL: https://news.ycombinator.com/item?id=50550415 Points: 269 # Comments: 172"
    ],
    "source": "Hacker News",
    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
@@ -438,34 +554,6 @@
    "related": []
   },
   {
-   "id": "cde1f5190a74d2ba4d5f9f1602f8460eebd92934",
-   "title": "Tell us: are you playing Grand Theft Auto VI?",
-   "summary": [
-    "Grand Theft Auto VI has finally arrived.",
-    "We’d like to hear your initial thoughts It’s been 13 years in the making, and may be the most highly anticipated video game of all time.",
-    "Grand Theft Auto VI has finally arrived.The new instalment of the epic crime saga is said to have cost more than $1bn to make and is widely expected to break sales records: some predictions put total sales at 40m copies in its first three months."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/games/2026/nov/18/tell-us-are-you-playing-grand-theft-auto-vi",
-   "image": "https://i.guim.co.uk/img/media/6f6a96abc7c44dbaf4071cc6e2ab2db0d18bd33b/298_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=9c85215f470360fd997fcd98b64bedf1",
-   "published_at": "2026-11-18T18:00:04Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "c7d3ecb006439a135768f56529a5adc2ad0eb57f",
-   "title": "Advancing chip design with OpenAI models",
-   "summary": [
-    "Article URL: https://openai.com/index/advancing-chip-design-with-our-models/ Comments URL: https://news.ycombinator.com/item?id=50549493 Points: 167 # Comments: 109"
-   ],
-   "source": "Hacker News",
-   "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
-   "image": null,
-   "published_at": "2026-11-18T17:45:47Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "ff776c31ccfe588c3a72ba04bf14c57710ba9b5c",
    "title": "Grand Theft Auto 6 is a masterpiece, say critics",
    "summary": [
@@ -475,86 +563,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-18T17:34:25Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "6ae82bdc38649050fc1c8301ba2d8c4b77613ddc",
-   "title": "More banks say customers using AI agents are on their own — even if they get hacked",
-   "summary": [
-    "Citi is the latest major financial institution to put the breaks on personal finance AI agents."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
-   "image": null,
-   "published_at": "2026-11-18T17:32:10Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "b5f134a9b7c2223b32cd782c8d1b5623ebf9d674",
-   "title": "David Ellison says HBO will air critical Elon Musk documentary despite his $1B investment in Skydance",
-   "summary": [
-    "Following news of the investment, questions emerged over how Musk's sizable stake in the company might affect Skydance's plans to distribute a documentary that is highly critical of him."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/18/david-ellison-says-hbo-will-air-critical-elon-musk-documentary-despite-1b-investment-in-skydance/",
-   "image": null,
-   "published_at": "2026-11-18T17:30:56Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "49db83e253edbf0771d468b99bafbdd0476979fa",
-   "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
-   "summary": [
-    "From personal assistants and coding agents to specialized healthcare agents, and the main pattern we saw was that even after choosing a sandbox provider, you still have to build additional infrastructure just to get things working.",
-    "Some agents need access to private networks to interact with customer-specific things on prem, or residential IPs, or the ability to restrict network access completely.3.",
-    "We started Maritime together this March because of all the issues we faced with trying to deploy agents to the cloud during our research.We want your feedback.If you're building an agent product, what did you have to build on top of sandboxes to make them work?"
-   ],
-   "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50549188",
-   "image": null,
-   "published_at": "2026-11-18T17:26:28Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "f21f255fd91ab7036a32e2c86abe39ada78260b5",
-   "title": "US senators urge White House AI chief to fix vulnerabilities after mass outages",
-   "summary": [
-    "As Democrats flag AI bank breaches and cyber-attacks in Japan, Jay Clayton says system failures happenUS politics live – latest updatesA bipartisan pair of US senators are calling on Jay Clayton, the director of national intelligence and AI czar, to identify and fix vulnerabilities in the US’s infrastructure following nationwide outages at major companies and government agencies.Maria Cantwell, the top Democrat on the Senate commerce, science, and transportation committee, and Mike Rounds, the Republican chair of the Senate subcommittee on cybersecurity, sent a letter to Clayton on Tuesday, outlining concerns sparked by reports of AI accessing major banks, cyber-attacks in Japan and more."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/18/jay-clayton-ai-tech-outages-infrastructure",
-   "image": "https://i.guim.co.uk/img/media/fd6d0a6c86ef943127b3020482a5ad62bb9e5788/492_0_4915_3933/master/4915.jpg?width=140&quality=85&auto=format&fit=max&s=5ec85d646e771e5486922ae676de0a9b",
-   "published_at": "2026-11-18T17:25:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "5b8efa841e7cdd464416003384e2bb27cb30e372",
-   "title": "The best TVs in the UK for every home and screen size, tested",
-   "summary": [
-    "Whether you want an affordable mini LED or a feature-packed OLED, here’s what our square-eyed expert recommends• Do you really need to buy a new TV?"
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/thefilter/2026/nov/18/best-tvs-tested-uk",
-   "image": "https://i.guim.co.uk/img/media/03bdaefdfdf000c93e3e9f4a147ec93cec60af4d/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=4a52a918866450fe987a06eb1517280d",
-   "published_at": "2026-11-18T17:01:14Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "2d5a3de817461fab7d838b7f6ef434c6fe533ef2",
-   "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
-   "summary": [
-    "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
-   "image": null,
-   "published_at": "2026-11-18T16:59:00Z",
    "category": "tech",
    "related": []
   }

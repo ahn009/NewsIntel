@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-19T03:13:49.236203Z",
- "story_count": 18,
+ "generated_at": "2026-11-19T12:52:05.821062Z",
+ "story_count": 23,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -20,9 +20,138 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "ok"
+  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "cced664dad6eb42c7bdc8179afcec1a4c61759dc",
+   "title": "Scientists tested 212 plant-based foods. Every single one contained fungal toxins",
+   "summary": [
+    "A new study has uncovered a surprising concern hiding in popular plant-based foods and drinks.",
+    "Researchers tested 212 vegan and vegetarian products sold in the UK, including meat alternatives, oat milk, almond milk, and soy milk, and found that every single one contained at least one potentially harmful fungal toxin.",
+    "Known as mycotoxins, these naturally occurring compounds can contaminate grains, legumes, and seeds during farming and storage."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm",
+   "image": null,
+   "published_at": "2026-11-19T11:13:29Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "8b988991748ad58f4b4e72606766de0900f07dea",
+   "title": "This 6-million-year-old whale may have had the most crooked face in mammal history",
+   "summary": [
+    "A bizarre whale that lived roughly 6 million years ago had a face so dramatically crooked that scientists believe it may have been the most asymmetrical of any mammal.",
+    "Discovered in Peru, the extinct pygmy sperm whale Scaphokogia huachafo had an enormous downward-curving snout and a skull so distorted that researchers initially thought it had been damaged after death.",
+    "Instead, its strange anatomy appears to have been an extraordinary evolutionary adaptation for hunting along the seafloor."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261118065528.htm",
+   "image": null,
+   "published_at": "2026-11-19T10:59:55Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "93aa0cf86ec7e16471ddd3d1188e8b9b295c11ca",
+   "title": "Something strange is living beneath the skin of deep-sea pigs",
+   "summary": [
+    "Scientists have discovered a strange bacterium hiding beneath the skin of deep-sea creatures known as sea pigs, revealing an unexpected biological partnership.",
+    "The microbe has an unusually tiny genome, yet more than a quarter of its DNA is devoted to making surface proteins, some of them exceptionally large.",
+    "Researchers suspect it depends heavily on its host for survival, but what the sea pigs gain in return remains a mystery."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261118065512.htm",
+   "image": null,
+   "published_at": "2026-11-19T10:33:03Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "98f0f0a59340287f9672e377903b25246d4bf1d7",
+   "title": "Why hydrogen flames can glow orange, then turn nearly invisible",
+   "summary": [
+    "Hydrogen flames can shift from bright orange to nearly invisible depending on something unexpected: tiny amounts of sodium floating in the air.",
+    "Scientists say this discovery could help make future hydrogen-powered stoves and ovens safer by replacing visual flame detection with specialized sensors."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261118065509.htm",
+   "image": null,
+   "published_at": "2026-11-19T10:10:24Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "82b67a498d5a0c5ea8c9e7036d2fe8def69769f0",
+   "title": "Developer accused of 'environmental vandalism'",
+   "summary": [
+    "Bellway says the work has been done with an ecologist on site and in compliance with planning consent."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmeq4nx95qpdo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-19T06:09:25Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "158426426e7dc993f834d126e5d9dea57349aa7f",
+   "title": "Stonehenge’s six-ton mystery deepens as scientists narrow their search",
+   "summary": [
+    "A major new investigation into Stonehenge’s mysterious six-ton Altar Stone has uncovered fresh clues while ruling out several suspected sources.",
+    "Once thought to have originated in Wales, the massive sandstone slab is now believed to have come from northeastern Scotland, although researchers have yet to find an exact match."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261117033914.htm",
+   "image": null,
+   "published_at": "2026-11-19T03:11:22Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "b7e52b65eb9b576e8978e38683eb2b4b584f406e",
+   "title": "Is free will an illusion? New brain research reveals a surprising twist",
+   "summary": [
+    "New research reveals that the brain makes free choices and forced decisions using surprisingly similar neural processes, with activity building toward a decision before we act.",
+    "The discovery challenges assumptions about free will while suggesting that our personal preferences and experiences still shape what we choose."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261118065524.htm",
+   "image": null,
+   "published_at": "2026-11-19T01:21:35Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "6a992e18bccb974849763b3fc58eca18a8aa2f87",
+   "title": "This strange creature lived 309 million years ago, long before the dinosaurs",
+   "summary": [
+    "More than 300 million years ago, long before dinosaurs roamed Earth, the Chicago area was a steamy, swampy landscape teeming with bizarre creatures.",
+    "Now, scientists at the Field Museum have identified a previously unrecognized species of ancient amphibian ancestor, revealing new clues about the evolution of frogs and salamanders."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261117033928.htm",
+   "image": null,
+   "published_at": "2026-11-18T23:24:05Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "e23ee2ffb4c56fed630ba33839196caf27306726",
+   "title": "Too much exercise could leave your brain stuck in overdrive",
+   "summary": [
+    "Exercising too much without adequate recovery may disrupt brain chemistry in surprising ways.",
+    "Scientists found that mice subjected to prolonged, intense training had elevated dopamine levels in a brain region linked to memory and emotions, even 48 hours after exercising.",
+    "The discovery could help explain why overtrained athletes sometimes struggle with insomnia, anxiety, and persistent fatigue, although these symptoms were not directly measured."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261117033923.htm",
+   "image": null,
+   "published_at": "2026-11-18T21:28:29Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "3849751c73b679a6981e5c016af699c415c29a81",
    "title": "Torrential rain causes widespread flooding in South Florida",
@@ -75,6 +204,20 @@
    "url": "https://www.sciencedaily.com/releases/2026/11/261114202137.htm",
    "image": null,
    "published_at": "2026-11-18T12:06:44Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "73c78aa6eff93a1c6d9792e7db5acd60bf7c9ed2",
+   "title": "Why do farts smell so bad? The secret is brewing in your gut",
+   "summary": [
+    "The secret behind truly terrible-smelling farts lies in tiny amounts of sulfur-containing gases produced by gut bacteria as they digest food.",
+    "Scientists reveal why some foods make farts smell worse, why loud farts aren't always the stinkiest, and how our noses evolved to detect these powerful odors."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261118065521.htm",
+   "image": null,
+   "published_at": "2026-11-18T11:55:21Z",
    "category": "science",
    "related": []
   },
@@ -147,19 +290,6 @@
    "related": []
   },
   {
-   "id": "b75f3918528c7e52b09370cd7a7517fee30b90d4",
-   "title": "Conservationists searching for large river eels",
-   "summary": [
-    "The Tees Rivers Trust has been searching for eels to tag and track as they migrate out to sea."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ck3rgl783xqro?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-18T06:19:28Z",
-   "category": "science",
-   "related": []
-  },
-  {
    "id": "280b464cd48bdf529914716326d166cac52209f0",
    "title": "What's gone wrong at Britain's worst bathing site?",
    "summary": [
@@ -211,58 +341,6 @@
    "url": "https://www.sciencedaily.com/releases/2026/11/261116023344.htm",
    "image": null,
    "published_at": "2026-11-18T01:10:14Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "4090abf823f348f8f8a5cf1c9d073eb4b1945a5f",
-   "title": "Government risks missing climate targets if EV rules weakened, adviser warns",
-   "summary": [
-    "The UK could miss legally binding climate targets if EV targets are cut, an adviser warns"
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-18T00:44:48Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "2e67a7f4fb566c489cc8bbc9b48dc9a274854df0",
-   "title": "Fears toxic lagoon fire led to cancer and miscarriages",
-   "summary": [
-    "The incident took place in Llwyneinion in August 1980."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/cw074g4jk87vo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-17T22:39:23Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "d123b5ef8039d1f7ec4bd6931aa7427d9513d3a9",
-   "title": "Campaigners take claim 'regulatory gap' risks poultry farms polluting rivers to High Court",
-   "summary": [
-    "It follows years of debate over the alleged impacts on rivers in an area dubbed \"poultry capital\"."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm894x41jw54o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-17T21:00:51Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "60cb9759cba14e4d722fa53d9333671e14a23665",
-   "title": "William and Kate celebrate Earthshot Prize winners in Mumbai",
-   "summary": [
-    "The Prince and Princess of Wales were joined by sporting and acting stars for the annual environmental awards ceremony."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cqlykve012d1o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-17T18:20:36Z",
    "category": "science",
    "related": []
   }
