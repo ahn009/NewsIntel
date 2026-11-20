@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-20T03:00:39.099196Z",
- "story_count": 15,
+ "generated_at": "2026-11-20T11:22:44.074257Z",
+ "story_count": 16,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,45 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "4cbd4e9e8f863b20dba1ce1ecd56cfd6118cd0bc",
+   "title": "What are heat pumps and how much do they cost?",
+   "summary": [
+    "The government wants more homes to have heat pumps to cut fossil fuel use and drive down energy bills."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c8xgdv9e007o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-20T10:24:52Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "9e246eddfd3c3ff6e31a8d038352b3ca39a8a52f",
+   "title": "Wildlife conservation cash targets ex-colliery sites",
+   "summary": [
+    "The project aims to create and restore habitats for amphibians and lizards at sites in Yorkshire."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmx2785nzpw2o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-20T06:21:50Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "8864c85aaebc75313357fb595e338dcab24a313d",
+   "title": "Mysterious Mercury is about to get a visitor - after spacecraft's eight-year epic voyage",
+   "summary": [
+    "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-20T05:59:56Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "bf367e0ac21f8d3ad7e725ba34a7e3d677e9427b",
    "title": "Experimental compound burns fat without sacrificing muscle",
@@ -201,34 +240,6 @@
    "url": "https://www.sciencedaily.com/releases/2026/11/261117033928.htm",
    "image": null,
    "published_at": "2026-11-18T23:24:05Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "e23ee2ffb4c56fed630ba33839196caf27306726",
-   "title": "Too much exercise could leave your brain stuck in overdrive",
-   "summary": [
-    "Exercising too much without adequate recovery may disrupt brain chemistry in surprising ways.",
-    "Scientists found that mice subjected to prolonged, intense training had elevated dopamine levels in a brain region linked to memory and emotions, even 48 hours after exercising.",
-    "The discovery could help explain why overtrained athletes sometimes struggle with insomnia, anxiety, and persistent fatigue, although these symptoms were not directly measured."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261117033923.htm",
-   "image": null,
-   "published_at": "2026-11-18T21:28:29Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "3849751c73b679a6981e5c016af699c415c29a81",
-   "title": "Torrential rain causes widespread flooding in South Florida",
-   "summary": [
-    "Entire neighbourhoods remain under water as disruptions impact schools, roads, hospitals and airports."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/crgj3205jv98o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-18T20:29:18Z",
    "category": "science",
    "related": []
   }
