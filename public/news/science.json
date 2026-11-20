@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-19T21:24:01.352606Z",
- "story_count": 21,
+ "generated_at": "2026-11-20T03:00:39.099196Z",
+ "story_count": 15,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,21 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "bf367e0ac21f8d3ad7e725ba34a7e3d677e9427b",
+   "title": "Experimental compound burns fat without sacrificing muscle",
+   "summary": [
+    "Researchers at UC Berkeley have identified a compound that could transform weight-loss treatment by helping the body burn more energy instead of suppressing appetite like Ozempic and Wegovy.",
+    "In mice, the compound boosted energy expenditure by up to 18%, improved blood sugar control, reduced liver fat, and promoted weight loss without significant muscle loss.",
+    "Even more promising, combining it with existing GLP-1 medications produced greater benefits than either treatment alone."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261118073918.htm",
+   "image": null,
+   "published_at": "2026-11-20T00:19:49Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "fe5fdb0d9c4d2036469b78915d22c9d1a430602d",
    "title": "BBC Inside Science",
@@ -214,103 +229,6 @@
    "url": "https://www.bbc.co.uk/news/videos/crgj3205jv98o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-18T20:29:18Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "d6d7c98100205e79f4a662eea1d67a1e41260432",
-   "title": "New discovery reveals what may be holding back room-temperature superconductors",
-   "summary": [
-    "A major breakthrough in superconductivity research has revealed that one of the essential ingredients for electricity to flow without resistance can exist at room temperature.",
-    "Scientists discovered that electrons can form stable pairs at much higher temperatures than previously understood, suggesting that a different obstacle may be preventing room-temperature superconductivity."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261116023358.htm",
-   "image": null,
-   "published_at": "2026-11-18T12:16:46Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "32f6128a8c73ee1b58a6578a04d31c16959f8d50",
-   "title": "Stormont department failing to protect wild birds, investigation finds",
-   "summary": [
-    "The Office for Environmental Protection said Daera had not complied with environmental law requiring it to classify and update Special Protection Areas."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c8p3vwevreyqo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-18T12:13:32Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "f9401287c2ce00420a268ccc87a5d664312e5350",
-   "title": "MIT discovers that aging weakens the brain’s nighttime cleaning system",
-   "summary": [
-    "MIT researchers have discovered that the brain’s natural waste-removal system becomes significantly less effective during sleep as people age.",
-    "The decline is linked to weaker deep-sleep brain waves and changes in blood flow, potentially offering new clues about why aging increases the risk of Alzheimer's disease and dementia.",
-    "Surprisingly, some older adults retain the same powerful cleansing waves seen in younger people."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261114202137.htm",
-   "image": null,
-   "published_at": "2026-11-18T12:06:44Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "73c78aa6eff93a1c6d9792e7db5acd60bf7c9ed2",
-   "title": "Why do farts smell so bad? The secret is brewing in your gut",
-   "summary": [
-    "The secret behind truly terrible-smelling farts lies in tiny amounts of sulfur-containing gases produced by gut bacteria as they digest food.",
-    "Scientists reveal why some foods make farts smell worse, why loud farts aren't always the stinkiest, and how our noses evolved to detect these powerful odors."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261118065521.htm",
-   "image": null,
-   "published_at": "2026-11-18T11:55:21Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "b5128f6cb027a9c6e776f9005a3b6669f81ce526",
-   "title": "A little-known protein could be a powerful weapon against Alzheimer’s",
-   "summary": [
-    "Scientists have uncovered a powerful natural defense against Alzheimer’s disease that could open the door to new treatments.",
-    "By boosting a protein called SORLA, researchers significantly reduced toxic tau tangles, protected connections between brain cells, and prevented some of the brain shrinkage associated with neurodegeneration in mice.",
-    "Removing the protein made the damage worse, highlighting its critical protective role."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261114202233.htm",
-   "image": null,
-   "published_at": "2026-11-18T11:53:30Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "bcf24c7daf813bd3508af0f5ee730cf1af1daf69",
-   "title": "William and Kate honour Earthshot Prize winners in Mumbai",
-   "summary": [
-    "The Prince and Princess of Wales have said environmental innovators are changing the lives of future generations as they celebrated this year's winners of the Earthshot Prize."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/cmwy97rj83n1o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-18T11:18:04Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "26a5df592f6a30ba2a3beabb98163f654b8d256e",
-   "title": "I want to know if toxic lagoon fire caused my husband's rare deadly cancer",
-   "summary": [
-    "Steve Williams died of lung cancer 14 years after falling in to a lagoon at a toxic waste dump fire."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm62y2e4qd9yo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-18T10:48:49Z",
    "category": "science",
    "related": []
   }
