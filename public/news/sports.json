@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-20T11:22:44.074545Z",
+ "generated_at": "2026-11-20T19:59:40.803129Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "ok",
-  "https://www.dawn.com/feeds/pakistan": "ok",
+  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,538 +20,533 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
+  "https://www.espn.com/espn/rss/news": "ok"
  },
  "stories": [
   {
-   "id": "e0a6b87e1cdaf6702fc37586f393f8954e114980",
-   "title": "Pochettino’s first session leaked on drone footage; Nations League draw updates – football live",
+   "id": "97e4a658839a16f18dc458c1a3ee11a3d631e9fb",
+   "title": "Fantasy buzz: Does anything change in Indy with Richardson under center?",
    "summary": [
-    "⚽ All the latest football news going into the weekend⚽ Fixtures | Tables | Ten things to look out for | Mail SimonA Liverpool fan accused of racially abusing Antoine Semenyo has been found not guilty after the Manchester City forward withdrew his support for the prosecution, reports the Press Association.Semenyo was due to give evidence at Liverpool Magistrates’ Court on Friday in the trial of Mark Mogan, 47, who was accused of shouting abuse during the Premier League match between Liverpool and Semenyo’s former club Bournemouth at Anfield on August 15 last year."
+    "Matt Bowen provides fantasy expectations for the Colts' new starter at QB and his supporting cast."
    ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/live/2026/nov/20/weekend-football-countdown-live-news-updates",
-   "image": "https://i.guim.co.uk/img/media/bb93f967665ae9fb691d3afd181a77af7f661bf7/928_685_4524_3622/master/4524.jpg?width=140&quality=85&auto=format&fit=max&s=071e5139925a0ae44d7ae5810a1e3964",
-   "published_at": "2026-11-20T11:07:14Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "1a320733fbf9b7642d638c8bd8161ac413768b32",
-   "title": "How the Columbus Crew switched paths en route to the MLS playoffs",
-   "summary": [
-    "In a transformative year, Crew GM Issa Tall’s boldest change may have been to abandon his best-laid plansThe Columbus Crew have a more holistic operation than most in MLS.",
-    "Their under-19s won the national cup in June, while the developmental Crew 2 made a fourth semi-final berth in five seasons in MLS Next Pro.",
-    "The first team regularly punches above its weight in MLS, winning the third-most major titles (nine) among MLS originals.And yet, this year tested the conventions set by team and league alike."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/2026/nov/20/columbus-crew-mls-playoffs",
-   "image": "https://i.guim.co.uk/img/media/74e51eaf64da27a15a70ccbc348691152ee9bf6d/92_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=b395cb8500c2b74f15d9c72d1bd0fe03",
-   "published_at": "2026-11-20T11:00:29Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "01335354ad56f70ed355a6a117fece15a5ee7405",
-   "title": "CJ Stroud leads Texans to comfortable win over Colts",
-   "summary": [
-    "Quarterback CJ Stroud leads the Houston Texans to a comfortable 26-3 win over AFC South rivals Indianapolis Colts."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/american-football/videos/cq8j403rxn2po?at_medium=RSS&at_campaign=rss",
+   "source": "ESPN",
+   "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
    "image": null,
-   "published_at": "2026-11-20T10:59:38Z",
+   "published_at": "2026-11-20T19:57:12Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "c5fc4ed1326427f876eb9e779bf6ab4965f810a8",
-   "title": "Bukayo Saka may not return for Arsenal before Christmas, Mikel Arteta admits",
+   "id": "5ba6ce12c9a67cc3b2139fdab77efb13bb4cb773",
+   "title": "Colts cut ties with QB Jones, turn to Richardson for next start",
    "summary": [
-    "Arteta revealed more tests during the international break confirmed the England forward did not need surgery and that he was expected to be out for another four weeks."
+    "The Colts have cut quarterback Daniel Jones after a challenging 11-game stint in 2026 and are turning to Anthony Richardson Sr. to start going forward."
    ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/2026/nov/20/bukayo-saka-injury-may-not-play-arsenal-before-christmas-mikel-arteta",
-   "image": "https://i.guim.co.uk/img/media/effeab49ada0973f3ee5b9faa9daa4f735901f4e/1064_736_1754_1403/master/1754.jpg?width=140&quality=85&auto=format&fit=max&s=4e0f9959f1ef2d99b4558d9b254aab06",
-   "published_at": "2026-11-20T10:46:32Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "d93dbb5789936d78f46b222c9c81d0d8b4f52287",
-   "title": "Major changes in men’s tennis will take prize money for players to more than $350m",
-   "summary": [
-    "Cash boost via creation of new ‘One Vision’ company More rest breaks to reduce player welfare issuesThe Association of Tennis Professionals (ATP) has approved major changes to the financial structure of men’s tennis that will make the total prize money available to the players increase to more than $350m (£267m) by 2028, from $270m this year.The creation of a new company to sell all the tour’s media, commercial and data rights, ATP Ventures, will lead to the investment of an additional $100m in player remuneration including an increased $50m bonus pool, a $25m year-end rankings bonus and $26m player pensions."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/sport/2026/nov/20/major-changes-in-mens-tennis-will-take-prize-money-for-players-to-more-than-350m",
-   "image": "https://i.guim.co.uk/img/media/11f8375091b6e6a482816e6c8945c8dfa284afa2/920_0_4599_3679/master/4599.jpg?width=140&quality=85&auto=format&fit=max&s=bdbc9aebbd504f0767f2d8d5d2d24506",
-   "published_at": "2026-11-20T10:36:02Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "2fe56bf8b584af3fcadb95b5fd317f5213472cbf",
-   "title": "UFC title contender Fiorot banned for three months",
-   "summary": [
-    "Highly ranked UFC flyweight Manon Fiorot is banned for three months for violating the promotion's anti-doping policy."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/c6808yxx71e0o?at_medium=RSS&at_campaign=rss",
+   "source": "ESPN",
+   "url": "https://www.espn.com/nfl/story/_/id/50542293/colts-release-qb-daniel-jones-blowout-loss-texans",
    "image": null,
-   "published_at": "2026-11-20T10:18:35Z",
+   "published_at": "2026-11-20T19:56:26Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "c8eae13ea21d8ff9637e4eef0759d2d9f82a6045",
-   "title": "Cummins retains Cricket Australia support as captain",
+   "id": "45f618afaa3fa91012b986a289ba450da4d23600",
+   "title": "Sources: Pats QB Maye has fractured fibula, return this season uncertain",
    "summary": [
-    "Pat Cummins will retain backing from Cricket Australia to remain as Test captain despite ongoing and explosive allegations about the sandpaper controversy."
+    "Patriots quarterback Drake Maye has a fractured right fibula, and receiver A.J.",
+    "Brown has a hamstring injury, sources told ESPN's Mike Reiss and Adam Schefter."
    ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/cricket/articles/c6808y17r0l0o?at_medium=RSS&at_campaign=rss",
+   "source": "ESPN",
+   "url": "https://www.espn.com/nfl/story/_/id/50542578/patriots-qb-drake-maye-fractured-fibula-sources-say",
    "image": null,
-   "published_at": "2026-11-20T10:13:23Z",
+   "published_at": "2026-11-20T19:55:52Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "3ee5c0c321e88ae7a406fef9eab8a61410eab624",
-   "title": "NFL legend John Madden’s unlikely, unfiltered brilliance: ‘Coach was indeed animated’",
+   "id": "6bc2a61bd7e9a06461a6d16cab62247974e1cdfc",
+   "title": "Sources: Tom Brady buys shares in Chelsea after Birmingham exit",
    "summary": [
-    "Some American football coaches might have reacted to the stunt with fury.",
-    "But John Madden was unfazed.“We needed some relief from the intense grind,” recalls Hendricks, 79, who had borrowed the horse from a nearby stable. “It was a spur of the moment idea, but put a smile on everyone’s face.",
-    "All Coach said once I dismounted was, ‘All right guys, Ted’s here, let’s get started.’ But I know he got a kick out of it too – just from the look on his face and the comments he made later in interviews.” Continue reading..."
+    "Seven-time Super Bowl champion quarterback Tom Brady has invested in Chelsea soccer club, sources confirmed to ESPN and NFL Network."
    ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/film/2026/nov/20/john-madden-nfl-football-biopic",
-   "image": "https://i.guim.co.uk/img/media/ff3c10f861a40a1efd638887cff36f3441f3141c/503_175_1613_1291/master/1613.jpg?width=140&quality=85&auto=format&fit=max&s=8733e8b706d3108692addfdd98d38590",
-   "published_at": "2026-11-20T10:00:31Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "bf9a9cd7e93b04b333e1930be7f773b5cb7ca06c",
-   "title": "Lewis Hamilton is now the apex sports protester as US athletes stay silent",
-   "summary": [
-    "Hamilton made the visit on a day Israeli airstrikes and gunfire killed at least seven Palestinians in Gaza, adding to a death toll that’s climbed above 74,000 since war broke out three years ago.",
-    "He wore dark glasses and dressed head to toe in black.“The past three years of Israel’s genocide in Gaza is appalling,” he wrote on Instagram of his visit, before turning the lens on himself. “I know so many people that feel that same helplessness.",
-    "I don’t want us to get used to their suffering."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/sport/2026/nov/20/lewis-hamilton-formula-one-activism-gaza",
-   "image": "https://i.guim.co.uk/img/media/e8ed613fcecba7505b2e4c43271e071305025a94/553_0_3905_3124/master/3905.jpg?width=140&quality=85&auto=format&fit=max&s=9a3471170d7ca3660c1494617d8be87a",
-   "published_at": "2026-11-20T10:00:29Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "858a603e90331db550eb5a3875452cc4fd698f5f",
-   "title": "Drone operator sorry for filming Pochettino’s first Manchester United training session",
-   "summary": [
-    "In a statement posted on his YouTube channel ⁠on Friday, the drone operator said that while the flight ​was legal under drone regulations, ‌filming the session ‌had been “unethical”."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/2026/nov/20/mauricio-pochettino-manchester-united-drone",
-   "image": "https://i.guim.co.uk/img/media/90130f821c6f6f9d02561ca82719f5e6e79f0dfd/662_0_5492_4393/master/5492.jpg?width=140&quality=85&auto=format&fit=max&s=762454648b10029543840b35145f579a",
-   "published_at": "2026-11-20T10:00:04Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "5d2238e05dd4f8354ebe281766480ada5c770aa6",
-   "title": "Rams star Nacua suspended for personal conduct violation",
-   "summary": [
-    "Puka Nacua is given a three-game suspension for violating the NFL's personal conduct policy, although the Los Angeles Rams wide receiver was already out injured."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/american-football/articles/c6vg21xdgpqgo?at_medium=RSS&at_campaign=rss",
+   "source": "ESPN",
+   "url": "https://www.espn.com/soccer/story/_/id/50542238/nfl-legend-tom-brady-buys-shares-chelsea-sources",
    "image": null,
-   "published_at": "2026-11-20T09:38:14Z",
+   "published_at": "2026-11-20T19:55:52Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "22ce633eadfeb9851bd8cb9fdb0d6d5a7160fc6a",
-   "title": "Scots lose Super Six opening thriller to Dutch",
+   "id": "7077d4214602540f6429169ea38e69591047b388",
+   "title": "Rams' suspended Nacua has MCL surgery, likely done for regular season",
    "summary": [
-    "Scotland fall to a final-over, seven-wicket defeat by the Netherlands in their opening match in the Super Six stage of the Women's Emerging Nations Trophy."
+    "Rams WR Puka Nacua, who is serving a three-game suspension while on IR, had surgery on his MCL and likely will miss at least the rest of the regular season."
    ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/cricket/articles/cr3wg173n087o?at_medium=RSS&at_campaign=rss",
+   "source": "ESPN",
+   "url": "https://www.espn.com/nfl/story/_/id/50542028/rams-puka-nacua-needs-mcl-surgery-likely-done-season",
    "image": null,
-   "published_at": "2026-11-20T09:32:19Z",
+   "published_at": "2026-11-20T19:55:52Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "06993cb9eda41680431ba16853a7d56a36fb63a3",
-   "title": "PWR title, England recall, Lions tour - ambitious Atkin-Davies returns",
+   "id": "4fa095fae23053213e477bac6bd965cbdf7bf979",
+   "title": "Miami WR Toney 'close' to return, coach says, with ACC title game a possibility",
    "summary": [
-    "England and Bristol hooker Lark Atkin-Davies on her aims of winning a PWR title and making the Lions tour as she returns to the sport a new mum."
+    "Miami star wide receiver Malachi Toney is about a week and a half from returning from surgery for a high ankle sprain, coach Mario Cristobal told \"The Pat McAfee Show.\""
    ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c90k65nrv26yo?at_medium=RSS&at_campaign=rss",
+   "source": "ESPN",
+   "url": "https://www.espn.com/college-football/story/_/id/50542494/malachi-toney-nearing-return-ankle-surgery-coach-says",
    "image": null,
-   "published_at": "2026-11-20T09:20:34Z",
+   "published_at": "2026-11-20T19:55:52Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "882a979c15efa0aa3e2a4c813887f704fe8754ad",
-   "title": "EFL preview: Evans' gripes & unexpected departures",
+   "id": "d453e223c8376edc86420c2e16301de3a9605fbe",
+   "title": "Cardinals QB Beck dealing with back spasms; Johnson may start vs. Chiefs",
    "summary": [
-    "BBC Sport explores five things to capture your attention this EFL weekend."
+    "The Cardinals are preparing veteran quarterback Josh Johnson to start Sunday vs. the Chiefs as rookie Carson Beck deals with back spasms, coach Mike LaFleur said Friday."
    ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/articles/crwy4wl1n0q2o?at_medium=RSS&at_campaign=rss",
+   "source": "ESPN",
+   "url": "https://www.espn.com/nfl/story/_/id/50542595/cardinals-qb-beck-dealing-back-spasms-johnson-start",
    "image": null,
-   "published_at": "2026-11-20T08:24:38Z",
+   "published_at": "2026-11-20T19:55:52Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "a6a238d5dcf3d3010822708f4c739c4284bd3fb6",
-   "title": "Refereeing will never be perfect - Farrell",
+   "id": "3cff90a20c423a29a93fc46e33cccbc688173cc2",
+   "title": "Ohtani extends deal with New Balance for remainder of playing career",
    "summary": [
-    "Ireland head coach Andy Farrell says refereeing in rugby is \"never going to be perfect\" because it is such a complex sport."
+    "Shohei Ohtani and New Balance have agreed to extend their contract through the remainder of the Dodgers superstar's playing career."
    ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqe9k80zjk2yo?at_medium=RSS&at_campaign=rss",
+   "source": "ESPN",
+   "url": "https://www.espn.com/mlb/story/_/id/50542241/shohei-ohtani-extends-new-balance-rest-playing-career",
    "image": null,
-   "published_at": "2026-11-20T08:05:21Z",
+   "published_at": "2026-11-20T19:55:52Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "535cb73ed75e0431c409bbfdbce7349458756e7e",
-   "title": "Chess: Carlsen’s winless sequence at Budapest risks loss of world No 1 spot and 2800 rating",
+   "id": "7cd5d3011aca97d20f3820d410563bb7c2331cb2",
+   "title": "Tide turned: DeBoer says this is most complete Bama team he's had",
    "summary": [
-    "The Norwegian had to compete for 17th place and defaulted both classical games rather than risk a draw or loss over-the-boardMagnus Carlsen is fighting to save his elite status as the world No 1 chess player and his 2800+ rating after the Norwegian, 35, suffered a dramatic form collapse at the Total World Championship Pilot in Budapest.A run of 10 winless games, including a loss to Armenia’s Haik Martirosyan, meant Carlsen, who was expected to qualify for the top four, instead met Kazakhstan’s Bibisara Assaubayeva in a semi-final for 17th-20th places."
+    "Alabama coach Kalen DeBoer said this is the most complete team he's had since taking over for Nick Saban prior to the 2024 season."
    ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/sport/2026/nov/20/chess-magnus-carlsen-winless-world-no1-spot-2800-rating",
-   "image": "https://i.guim.co.uk/img/media/3346ed6bd86fd30ba58a4d4322e6cd4fc4c1c932/138_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=1ec1caa0132759fe0bce58ccd1142f81",
-   "published_at": "2026-11-20T08:00:27Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "3ad9759f60fba8739342b54b07f37c473631db77",
-   "title": "What history tells us about the Premier League table after 10 games of a season",
-   "summary": [
-    "Past years suggest it is tough to make big positional gains after slow start but that someone now safe will be relegatedThe Premier League is about to enter the most intense phase of its season.",
-    "Yet if you hibernated for winter, most clubs would be in roughly the same position no matter when in spring you emerged.Across the past decade, Premier League teams’ positions changed by an average of 2.6 places between matchweeks 10 and 38.",
-    "Only 5.5 clubs per season moved by more than three places over the final 28 games, with almost half of the teams (89 out of 200) shifting by a single spot at most."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/2026/nov/20/premier-league-table-history-after-10-games-season",
-   "image": "https://i.guim.co.uk/img/media/e185115079ae67cbd5dd3b9ce8c2718c7753bdd7/368_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=65a2c981d70d1d04aa56ce42a6827cea",
-   "published_at": "2026-11-20T08:00:26Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "dbb008b0859b7a023a6da57e94d231f7a9a41357",
-   "title": "Inside the rise of 'humble' Nyoni and why Iraola trusts him",
-   "summary": [
-    "Teenage midfielder Trey Nyoni backed himself in the summer to play regular football for Liverpool.",
-    "He is doing exactly that and thriving under Andoni Iraola."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/articles/ck24enjqvlyeo?at_medium=RSS&at_campaign=rss",
+   "source": "ESPN",
+   "url": "https://www.espn.com/college-football/story/_/id/50541432/kalen-deboer-says-most-complete-alabama-team",
    "image": null,
-   "published_at": "2026-11-20T07:42:04Z",
+   "published_at": "2026-11-20T19:55:52Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "ee5b03589d21bbc9ed3d2eefb6f2c03230e44e0a",
-   "title": "Moore eyes Kane shirt as Spurs' past and future stars meet",
+   "id": "b13029a03d4a8543838936010bf9f8bf9bf0e8aa",
+   "title": "🏈 NFL draft buzz: QB Mestemaker could spur 'auction' for No. 1 pick",
    "summary": [
-    "Cologne loanee Mikey Moore says he hopes to exchange shirts with former Spurs team-mate Harry Kane when they face Bayern Munich on Friday."
+    "If the Titans or Chargers wind up with the No. 1 selection and stick with their franchise quarterbacks, interest in Oklahoma State's Drew Mestemaker could lead to a team seeking to trade up for the top overall pick."
    ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cq0k65pyp4jvo?at_medium=RSS&at_campaign=rss",
+   "source": "ESPN",
+   "url": "https://www.espn.com/nfl/story/_/id/50541939/draft-buzz-mestemaker-spur-auction-no-1-pick",
    "image": null,
-   "published_at": "2026-11-20T07:26:36Z",
+   "published_at": "2026-11-20T19:55:52Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "98400a6613f23dcd0ba386a077b8ee283b947e57",
-   "title": "Too late for Jackson? - FPL gameweek 11 dilemmas",
+   "id": "2760d361b26985adf2edc9fd1000e28be0ec7f0b",
+   "title": "What NBA insiders see from Boozer, Dybantsa and seven other top rookies",
    "summary": [
-    "BBC Sport's Fantasy Premier League expert Gianni Buttice gives his answers to some of the biggest dilemmas facing managers in gameweek 11."
+    "How has the first month unfolded for nine first-year stars?",
+    "Brian Windhorst and Tim MacMahon canvass the league."
    ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/articles/ckp80q8p4yvyo?at_medium=RSS&at_campaign=rss",
+   "source": "ESPN",
+   "url": "https://www.espn.com/nba/story/_/id/50534111/rookies-dybantsa-peterson-boozer-acuff-yaxel",
    "image": null,
-   "published_at": "2026-11-20T07:08:51Z",
+   "published_at": "2026-11-20T19:54:13Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "abe5256c7939722f8cfe42b7772fe12a5813593a",
-   "title": "Who am I? Plus today's other quizzes",
+   "id": "6bcee06e533017fb78778fdbad60ce6d94c68b6c",
+   "title": "How a season without their 'admiral' showed the Rockets what they were missing",
    "summary": [
-    "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
+    "Fred VanVleet is commanding the surging Rockets after an ACL injury derailed his 2025-26 season."
    ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cw772r7g87y0o?at_medium=RSS&at_campaign=rss",
+   "source": "ESPN",
+   "url": "https://www.espn.com/nba/story/_/id/50524821/nba-houston-rockets-fred-vanvleet-injury-comeback",
    "image": null,
-   "published_at": "2026-11-20T06:43:38Z",
+   "published_at": "2026-11-20T19:54:13Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "8daf208c3330063c9e04816f6c522918f1dcaead",
-   "title": "Russell fastest in Las Vegas practice after rain",
+   "id": "142dfefa5a728f6455b7cae1681aac274f71d445",
+   "title": "Top 10 trades or pickups you should make soon",
    "summary": [
-    "Mercedes' George Russell topped a second practice session at the Las Vegas Grand Prix run on a wet but slowly drying track."
+    "Be ahead of the curve, and boost your fantasy basketball lineup with these trades or adds while the value is right."
    ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/formula1/articles/c9gklmdmnzydo?at_medium=RSS&at_campaign=rss",
+   "source": "ESPN",
+   "url": "https://www.espn.com/fantasy/basketball/story/_/id/50533958/fantasy-basketball-players-trade-waivers-pickups",
    "image": null,
-   "published_at": "2026-11-20T06:40:04Z",
+   "published_at": "2026-11-20T19:51:22Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "77612c17d1b2e1b27f390cd014fb009d47703768",
+   "title": "Points rankings: Rookies Lendeborg, Acuff Jr. move up",
+   "summary": [
+    "Updated fantasy basketball rankings for points leagues, with several rookies on the rise."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/fantasy/basketball/story/_/id/49960162/fantasy-basketball-points-league-rankings-2026-27-nba-season",
+   "image": null,
+   "published_at": "2026-11-20T19:51:22Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "58734a2aaf94cf6353ce4a4bb15f17841c19f95f",
+   "title": "Stroud, defense star as Texans beat Colts to keep playoff hopes alive",
+   "summary": [
+    "Stroud and a swarming defense helped Houston beat Indy on 'Thursday Night Football.'"
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/nfl/story/_/id/50536733/texans-colts-thursday-night-football-cj-stroud-defense",
+   "image": null,
+   "published_at": "2026-11-20T19:40:38Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "e9e042a6cd117ac2f52da4e625093cbeef6d8f0d",
+   "title": "Can Ravens keep the Marlon Humphrey controversy from becoming a distraction?",
+   "summary": [
+    "While there's more to the cornerback's story, one Baltimore teammate says: \"We have enough things to worry about.\""
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/nfl/story/_/id/50541178/ravens-avoid-marlon-humphrey-controversy-distraction",
+   "image": null,
+   "published_at": "2026-11-20T19:35:21Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "1fa1e9c0dc52b6a0c4d289636613f6bf4d1e82d0",
+   "title": "How Houston defeated Kansas to take the Players Era 8 championship in Las Vegas",
+   "summary": [
+    "Houston was crowned the Players Era 8 champions Thursday night."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/mens-college-basketball/story/_/id/50505898/players-era-8-matchups-analysis",
+   "image": null,
+   "published_at": "2026-11-20T19:34:44Z",
    "category": "sports",
    "related": []
   },
   {
    "id": "eae214163fd53c554b29bc583e76649e20bd6aa2",
-   "title": "F1 bosses close to V8 engines deal from 2030",
+   "title": "F1 bosses agree V8 engines deal from 2030",
    "summary": [
-    "Formula 1 bosses are close to a deal that will see V8 turbo hybrid engines replace the current controversial engines in 2030."
+    "Formula 1 bosses reach a deal that means V8 turbo hybrid engines will replace the current controversial units in 2030."
    ],
    "source": "BBC Sport",
    "url": "https://www.bbc.co.uk/sport/formula1/articles/cvj6l7nk611jo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-20T06:35:38Z",
+   "published_at": "2026-11-20T19:17:40Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "f4fa3efdfa76e9bfb4240cf4b271fe866bc71c44",
-   "title": "The art of protection - inside an F1 helmet factory",
+   "id": "e80685b8f602b1087dd9cbe5fe5f66027c62965d",
+   "title": "NFL Week 11 best bets for Sunday's games",
    "summary": [
-    "Inside the extraordinary world of Formula 1 helmets, where precision engineering, personal expression and life-saving technology join forces."
+    "Our experts dive into the odds and player props for Week 11 and offer their betting tips and favorite plays."
    ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/formula1/articles/cm20vpq8z6n4o?at_medium=RSS&at_campaign=rss",
+   "source": "ESPN",
+   "url": "https://www.espn.com/espn/betting/story/_/id/50534274/week-11-nfl-odds-touchdown-props-best-bets-sunday-games",
    "image": null,
-   "published_at": "2026-11-20T06:29:04Z",
+   "published_at": "2026-11-20T19:06:56Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "24dadef6ef5f9dfa75b9b1606208c54412c8d8a3",
-   "title": "'I felt like I was a ghost' - when players miss a season through injury",
+   "id": "c6465207e45005b53ebfc2d2972f20b65cb7b062",
+   "title": "NBA betting roundtable: MVP picks, playoff longshots and futures worth betting",
    "summary": [
-    "Not pleasant to be around and staring at a wall for hours after being told you are not going to the World Cup - what's it like for footballers when they miss a season due to serious injury?"
+    "The NBA betting experts share their favorite future bets, including Rookie of the Year, MVP and more."
    ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cqvg27m9xp1xo?at_medium=RSS&at_campaign=rss",
+   "source": "ESPN",
+   "url": "https://www.espn.com/espn/betting/story/_/id/50538678/nba-betting-mvp-rookie-year-playoff-longshots-2026-2027",
    "image": null,
-   "published_at": "2026-11-20T06:13:23Z",
+   "published_at": "2026-11-20T19:06:56Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "ff9ff23dc0ce006de83b1173eb5fa057fae301a4",
-   "title": "The male footballers best associated with each shirt number – the readers’ edition",
+   "id": "e0a6b87e1cdaf6702fc37586f393f8954e114980",
+   "title": "Pochettino demands say on big United decisions; Arteta takes fantasy football action – as it happened",
    "summary": [
-    "Last week we selected 50 players who are synonymous with their squad numbers.",
-    "Our readers spotted notable absentees so came up with an alternative list, which does not start at No 1 or end at No 50Which footballers are inextricably linked to their shirt numbers?",
-    "Thankfully our readers have provided an alternative list."
+    "The latest football news before the weekend, with Mauricio Pochettino preparing to take Manchester United to Anfield⚽ Fixtures | Tables | Ten things to look out forA Liverpool fan accused of racially abusing Antoine Semenyo has been found not guilty after the Manchester City forward withdrew his support for the prosecution, reports the Press Association.Semenyo was due to give evidence at Liverpool Magistrates’ Court on Friday in the trial of Mark Mogan, 47, who was accused of shouting abuse during the Premier League match between Liverpool and Semenyo’s former club Bournemouth at Anfield on August 15 last year."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/ng-interactive/2026/nov/20/male-footballers-best-associated-each-shirt-number-readers-edit",
-   "image": "https://i.guim.co.uk/img/media/e915b62b593d2af5c5615cc210a752d3196133d8/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d09a7ae0ec26408d8da7df1088afe174",
-   "published_at": "2026-11-20T06:00:24Z",
+   "url": "https://www.theguardian.com/football/live/2026/nov/20/weekend-football-countdown-live-news-updates",
+   "image": "https://i.guim.co.uk/img/media/a87b38a80782dd29e77eb49a598b51f3684f958e/0_0_5381_4305/master/5381.jpg?width=140&quality=85&auto=format&fit=max&s=8e392502b83ae05e4c45ac5a34f81aa3",
+   "published_at": "2026-11-20T19:03:40Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "d0bcb013bb8e7362a794aa8c7aab6430540e4598",
-   "title": "History, hunger and headline bills - why Price is box office",
+   "id": "f9d96e02927c37b4258c1d16f4c752667a1b0151",
+   "title": "Pochettino the connector: will human touch lift Manchester United?",
    "summary": [
-    "As Lauren Price bids to become Wales' first undisputed world champion, the former footballer already has her sights set on stadium fights."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/boxing/articles/crwy8e7d5lj1o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-20T05:32:13Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "97a39e1d7caf916c7bca6260e5eb37549381f9c6",
-   "title": "Donald aims for England T20 chance in Australia",
-   "summary": [
-    "Welsh batter Aneurin Donald is part of England's T20 squad for the five-match series in Australia, and hoping to play his part at the MCG."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/cricket/articles/cqe9lmngjm0eo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-20T05:04:29Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "19d494506d0afa4ae1cfdf4dca1c211c161dfc35",
-   "title": "Flanker Tizzano looks forward to Morgan reunion",
-   "summary": [
-    "After their controversial 2025 Lions incident, Australia flanker Carlo Tizzano is looking forward to meeting Wales' Jac Morgan in Cardiff."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm4gn0dxz40no?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-20T05:02:50Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "4b41f15c766f5f4a166a4a75fd4b074ba8e8a3bf",
-   "title": "Houston Texans keep playoff hopes alive as they trample hapless Indianapolis Colts",
-   "summary": [
-    "Indianapolis Colts 3-26 Houston TexansHouston win at home for first time this seasonCJ Stroud threw for 194 yards and three touchdowns and the Houston Texans used a strong defensive performance to coast to a 26-3 win over the Indianapolis Colts on Thursday night.Stroud picked apart a Colts secondary that was missing injured starting cornerbacks Sauce Gardner and Charvarius Ward to help the Texans bounce back from a 27-24 loss to Cleveland last weekend."
+    "It was March 2022, he was in charge at Paris Saint-Germain and the venue was a stunning boutique hotel; the kind that many capitals have but only Paris truly does.",
+    "Pochettino’s family and friends were there.",
+    "As everybody knows, the new Manchester United head coach is the kind of guy to well up when the speeches start, so imagine how he felt when he looked up at the big screen and a video montage of well-wishers started to roll."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/sport/2026/nov/19/colts-texans-thursday-night-football-nfl",
-   "image": "https://i.guim.co.uk/img/media/c5a906a8fe40f11265dcb851b40adc66311ed544/728_213_3872_3097/master/3872.jpg?width=140&quality=85&auto=format&fit=max&s=46705e160cc083bcf472ab41a184cf58",
-   "published_at": "2026-11-20T04:35:34Z",
+   "url": "https://www.theguardian.com/football/2026/nov/20/mauricio-pochettino-manchester-united-manager-liverpool-premier-league",
+   "image": "https://i.guim.co.uk/img/media/9c87c77ae60b672cce0cee6858e9a269a7375c72/1494_325_6466_5173/master/6466.jpg?width=140&quality=85&auto=format&fit=max&s=5a9c52d9e1e46e6ab46614c955fb3005",
+   "published_at": "2026-11-20T19:00:37Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "f559a31e42410c5599cfb003542e61ff3f3c938f",
-   "title": "Aikman aims jab at TV partner Buck amid rumored split: ‘Joe always wanted a one-man booth’",
+   "id": "25b5938fe51445e6cc7b60902eff02c2b0280ba7",
+   "title": "Training hard and biding his time, Dele Alli has not given up on football yet",
    "summary": [
-    "Duo have broadcast together for 25 yearsMoney has reportedly caused tension between pairHall of Famer Troy Aikman took a jab at longtime Monday Night Football broadcast partner Joe Buck ⁠on Thursday, adding to the drama surrounding their rumored impending split.During his weekly radio appearance on 96.7 ⁠The Ticket in ⁠Dallas, Aikman ​was asked by show host George Dunham if he wanted to come into the studio since his co-host ⁠was out sick."
+    "They spend four days on the pitch and days in between in the gym.",
+    "A typical day begins at 9am with an hour of activation and stretching before Dele heads to non-league Windsor & Eton at 11am, where he trains on the pitches and uses the facilities.",
+    "Then it’s back home to use his own oxygen chamber and sauna for a recovery session."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/sport/2026/nov/19/aikman-aims-jab-at-tv-partner-buck-amid-rumored-split-joe-always-wanted-a-one-man-booth",
-   "image": "https://i.guim.co.uk/img/media/9f123e2f701c885d63c870e2f948094a6fcb9022/257_0_4210_3368/master/4210.jpg?width=140&quality=85&auto=format&fit=max&s=6869e50e67167391e5b5f3ab48680062",
-   "published_at": "2026-11-20T04:01:56Z",
+   "url": "https://www.theguardian.com/football/2026/nov/20/dele-alli-tottenham-mk-dons-england",
+   "image": "https://i.guim.co.uk/img/media/4644b48da02f5c51bd8878e38586c24dd5e559b7/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=7c4ecf1aed33efe60b95b709dd286064",
+   "published_at": "2026-11-20T19:00:37Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "0451c5b6bf02e17bf78567cc126afec05711444b",
-   "title": "Socceroos’ future looks bright as Australia stun Argentina in U17 World Cup",
+   "id": "eaa8792a9edcf8ad37b6c3aedea0bdc3d7ae2d2d",
+   "title": "The Super Bowl of F1: how Las Vegas GP has hit the jackpot after turbulent start",
    "summary": [
-    "Akol Akon sealed a 2-0 win over football powerhouse in QatarJoeys mark return to tournament for first time in seven yearsSydney FC prodigy Akol Akon has demonstrated why he’s one of the most exciting talents in Australian football, leading the Joeys to a shock 2-0 victory over Argentina to launch their U17 World Cup campaign in style.The brilliant young winger had his shot deflected for an own goal on the hour and then produced an audaciously cheeky finish 11 minutes later to seal the opening-day win on Friday (AEDT) as Carl Veart’s side announced their return to the global boys’ competition for the first time in seven years."
+    "George Russell calls it the biggest race on the Formula One calendar bar Monaco – and the numbers back him upThat Formula One has achieved a palpable success in hosting a race in Las Vegas is impossible to ignore."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/2026/nov/20/joeys-australia-stun-argentina-in-u17-world-cup",
-   "image": "https://i.guim.co.uk/img/media/0f5e6421f76f7aa9bb952e40d678dddd2333c60e/656_233_3822_3057/master/3822.jpg?width=140&quality=85&auto=format&fit=max&s=69b4a07bffe9a433ee07baa08d28ad8c",
-   "published_at": "2026-11-20T01:31:38Z",
+   "url": "https://www.theguardian.com/sport/2026/nov/20/super-bowl-formula-one-las-vegas-grand-prix-jackpot",
+   "image": "https://i.guim.co.uk/img/media/6a397f4d6d5143a0125acf6622962aa546535091/1440_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=52c7f5997af2200374dcca9f543f3257",
+   "published_at": "2026-11-20T19:00:37Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "20213a7f57ef89b0875aeff5fa0ad385bc3ea4e5",
-   "title": "Premier League: 10 things to look out for this weekend",
+   "id": "2fbf7457ddde467e3552f244844ab21fba36439c",
+   "title": "LA Rams star Puka Nacua faces months out after knee surgery amid NFL suspension",
    "summary": [
-    "Their current run of 17 successive league wins against Fulham is the longest run of victories by one club against a single opponent in English top-flight history.",
-    "Simon BurntonManchester City v Fulham, Saturday 12.30pm (all times GMT)Aston Villa v Sunderland, Saturday 3pmBournemouth v Nottingham Forest, Saturday 3pmChelsea v Leeds, Saturday 3pmCoventry v Crystal Palace, Saturday 3pm Continue reading..."
+    "McVay’s comments came one day after Nacua was suspended for three games for violating the NFL’s personal conduct policy.",
+    "The league was unaware that the 25-year-old had already undergone surgery when it imposed the suspension, ESPN reported on Friday."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/2026/nov/20/premier-league-10-things-to-look-out-for-this-weekend",
-   "image": "https://i.guim.co.uk/img/media/697a5b5e6adf5ec4ae93d2b6aa2ddcbf11b935ce/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=de767372805865151ec7e49f74f96e68",
-   "published_at": "2026-11-20T00:00:15Z",
+   "url": "https://www.theguardian.com/sport/2026/nov/20/puka-nacua-rams-knee-surgery-suspension-daniel-jones-colts-release",
+   "image": "https://i.guim.co.uk/img/media/47934bce0c1ec6e5df6fc7d8b93ff203e07a23fe/614_0_3059_2448/master/3059.jpg?width=140&quality=85&auto=format&fit=max&s=ad42a6644927887b73eaa05706cf23ac",
+   "published_at": "2026-11-20T18:32:01Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "ca1ce2662d11dd3800e1a50e8f77153507630678",
-   "title": "Arsenal 'have ingredients' but Europe's elite on another level",
+   "id": "c6ed1705f96824b86dc03544fc9aa9fdb50fe594",
+   "title": "Our guide to every NFL Week 11 game: Matchup previews, predictions, picks and nuggets",
    "summary": [
-    "In a difficult defeat by French giants Lyon, Arsenal were shown the gap they need to bridge to challenge for the Champions League."
+    "There are 12 more games in Week 11, and we have picks, key stats and more for all of them."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/nfl/story/_/id/50522208/week-11-picks-predictions-schedule-fantasy-odds-2026",
+   "image": null,
+   "published_at": "2026-11-20T18:15:44Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "e8d4cc1487ba74b4ccfb1194209ca2f41cb64583",
+   "title": "Wales players gaining confidence in Prem - Williams",
+   "summary": [
+    "Exposure to the English Prem has boosted the confidence of Wales' players, says scrum-half Tomos Williams."
    ],
    "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cm4gnxz8dvx1o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ckvg253z8x30o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-19T23:57:54Z",
+   "published_at": "2026-11-20T18:04:07Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "b261833c4ce3f4a1e67d6577f0fbb3636cbdd15e",
-   "title": "Lyon outclass Arsenal for Champions League win",
+   "id": "6b106f47f5d6647e602e59d7274f5df0a087807d",
+   "title": "A men's netball World Cup - not a question of if, but when?",
    "summary": [
-    "Arsenal fall to a 2-0 defeat against a superior Lyon side in the Women's Champions League, dealing a blow to their hopes of automatic quarter-final qualification."
+    "England and Jamaica's men's netball teams will act as curtain-raisers for the women's sides in this weekend's Horizon Series in London - and as the sport grows, an inaugural men's World Cup is on the cards."
    ],
    "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/videos/c3dx1n4xp1xxo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/netball/articles/c60evgr13deyo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-19T22:56:07Z",
+   "published_at": "2026-11-20T18:00:20Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "37d21ceded5d1482f035f22592d566c3a89a2964",
-   "title": "Unseeded Sykes stuns Humphries in Grand Slam thriller",
+   "id": "8d28dfe4999eb1e38b7fca0feead9f823a5a9f48",
+   "title": "Bowen brothers needed extra protection after threats",
    "summary": [
-    "Luke Humphries follows Luke Littler in exiting the Grand Slam of Darts after losing 10-9 to unseeded Tom Sykes in a second-round thriller."
+    "James Bowen is the latest jockey to confirm he has received death threats from angry punters, revealing both he and brother Sean needed extra protection after an incident last year."
    ],
    "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/darts/articles/ckzd9n5996zno?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/horse-racing/articles/c6x280vp1px4o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-19T22:45:41Z",
+   "published_at": "2026-11-20T17:57:30Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "7838a08c3f917966a12978ee85dda20416517d7b",
-   "title": "F1 to bring in full-time race stewards for 2027 season in bid to end controversy",
+   "id": "c0084cae0d0447f8488dbcda9e26fe04b6163cee",
+   "title": "Chelsea fined £150,000 for discriminatory chanting",
    "summary": [
-    "Currently each race has four volunteer race stewards, who change for each meeting, chosen from a pool of FIA selections, the local or regional sporting organisation and one former driver."
+    "Chelsea are fined £150,000 by the FA for anti-Catholic and anti-Irish chants during their FA Cup third-round win at Charlton in January."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cwyvde0n8zqyo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-20T17:52:50Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "a7876be1e83a240dfb7aff60167a38315fe8b81b",
+   "title": "'Right time' for Smith exit - but Murray not ready for role",
+   "summary": [
+    "Leon Smith steps down as Britain's Davis Cup captain after almost 17 years, but \"standout candidate\" Andy Murray is unlikely to replace him."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/tennis/articles/cvze7d03880ko?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-20T17:47:38Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "c6df975417e45e2f6e0f14d6068fa056b008cec9",
+   "title": "NHL Power Rankings: Updated poll, plus fantasy hockey add/drops for all 32 teams",
+   "summary": [
+    "The Hurricanes remain atop the list, while the Senators made a big leap."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/nhl/story/_/id/50532384/nhl-2026-27-power-rankings-top-teams-players-stats-projections-standings-fantasy-hockey",
+   "image": null,
+   "published_at": "2026-11-20T17:30:03Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "4e500af1b1862d19d06967d9be32f1bcb054aff2",
+   "title": "Wysh List: Ovechkin, the Sharks and the NHL's other disappointments",
+   "summary": [
+    "This NHL season has been filled with memorable moments and outstanding achievements."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/nhl/story/_/id/50523931/nhl-2026-27-wysh-list-disappointments-players-stats-teams-ovechkin-sharks",
+   "image": null,
+   "published_at": "2026-11-20T17:30:03Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "6654cfb3c9eaf2731c6705eab80092191f3b11e2",
+   "title": "A challenge for Tennessee, Big Ten road tests and 40 other key contests",
+   "summary": [
+    "The Vols and Lane Kiffin meet again, and fringe CFP contenders try to stay alive on a sneaky-good Week 12 slate."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/college-football/story/_/id/50532397/connelly-week-12-preview-big-ten-tennessee",
+   "image": null,
+   "published_at": "2026-11-20T17:28:21Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "22c1f71507440acfdfab054a2e46a2ef97f2b8c8",
+   "title": "Game Day Kickoff: Buying into Week 12 and appreciating Jeremiah Smith's greatness",
+   "summary": [
+    "What to expect this weekend, from top games and players to teams on upset alert."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/college-football/story/_/page/gamedaykickoff111926/week-12-top-games-upsets-preview",
+   "image": null,
+   "published_at": "2026-11-20T17:28:21Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "cbaa405e375f1bceeac11831b49454f87cab0db8",
+   "title": "Power Rankings: Duke keeps dropping, Kansas takes top spot",
+   "summary": [
+    "Among many Top 25 teams that suffered losses this week, including Duke and Florida, Kansas survived to take No. 1."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/mens-college-basketball/story/_/id/50523371/mens-college-basketball-power-rankings",
+   "image": null,
+   "published_at": "2026-11-20T16:57:46Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "e2626f0e67a7c7a730cb5ade33bfb54b8dfbedaf",
+   "title": "LSU, Duke, UConn hold serve in the expanded top 25 recruiting class rankings",
+   "summary": [
+    "The post-early signing window class rankings have LSU at the top, followed by Duke and UConn."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/mens-college-basketball/story/_/id/50242145/2027-mens-basketball-recruiting-class-rankings",
+   "image": null,
+   "published_at": "2026-11-20T16:57:46Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "f2753508f3fbc4b3f181bcfac8f6b9f8dcb49f42",
+   "title": "Matos accepts Swansea fans' anger over shock exit",
+   "summary": [
+    "Vitor Matos addresses his unexpected departure from Swansea City at his first press conference as RC Strasbourg boss."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/ckq6eyppzqgpo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-20T16:57:06Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "7da8a305b7d65d071b8619079ddd2e61d864cfcc",
+   "title": "Man Utd fan criticism has gone too far at times - Berrada",
+   "summary": [
+    "Manchester United chief executive Omar Berrada says some of the recent criticism of the club's hierarchy has \"crossed a line\"."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cwz0k32j9kr9o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-20T16:55:11Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "08c2c82456fd957d03f91bed924549166428579e",
+   "title": "Fresh injury blow for Arsenal as Zohran Mamdani is sidelined with achilles tear",
+   "summary": [
+    "New York City major hurt in friendly with press corpsLifelong Gunner set to be out of action for nine monthsArsenal have suffered a further injury blow after it was revealed that one of their most famous supporters, New York City mayor Zohran Mamdani, tore his achilles while playing in a friendly soccer match on Thursday and is out of action until next summer.Not long after Mikel Arteta confirmed Bukayo Saka may not return to action before Christmas as he continues rehabilitation from a thigh injury, Mamdani added to Gunners woe by outlining how and why he is also sidelined for some time during a press conference that began with him announcing plans to close the Rikers Island jail complex."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/sport/2026/nov/19/f1-full-time-race-stewards-2027-season-controversy-fia",
-   "image": "https://i.guim.co.uk/img/media/e3d2efd5fa72c17f4329d1af1b163a2686fec91a/1126_243_3615_2892/master/3615.jpg?width=140&quality=85&auto=format&fit=max&s=fd34dc438177270c5afd2a5ed9708e02",
-   "published_at": "2026-11-19T22:32:53Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "be77bd1ed2e0bf9acf272961082125c07300cbc6",
-   "title": "England's Hull one stroke off lead at lucrative LPGA finale",
-   "summary": [
-    "England's Charley Hull cards a six-under 66 to sit one shot off the first-round lead at the LPGA's lucrative season-ending CME Group Tour Championship."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/golf/articles/cmx20gypx244o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-19T22:31:40Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "8b6ddddd24a22f49644cd9fe6640d41c3c071786",
-   "title": "'Clearer' approach has lifted England mood - Itoje",
-   "summary": [
-    "Captain Maro Itoje says a clearer sense of purpose and unity has coincided with improved performances from England this autumn."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/ckge31np9ew7o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-19T22:29:46Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "f04e513e6ea80d81ffe605848476db383eaca97c",
-   "title": "Unbeaten Zverev hopes to be 'pain-free' after overcoming Fils at ATP Finals",
-   "summary": [
-    "World number one Alexander Zverev says he will do \"everything I can to be pain-free\" after hurting his ankle during his ATP Finals victory over Arthur Fils."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/tennis/articles/c64gne03ykjro?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-19T22:17:25Z",
+   "url": "https://www.theguardian.com/football/2026/nov/20/fresh-injury-blow-for-arsenal-as-zohran-mamdani-is-sidelined-with-achilles-tear",
+   "image": "https://i.guim.co.uk/img/media/9d65bd86496e778b1c3e104c78ee13664de2e444/203_27_1670_1336/master/1670.jpg?width=140&quality=85&auto=format&fit=max&s=af0d0b3a4d486b1cf46162aeb64bbc09",
+   "published_at": "2026-11-20T16:54:28Z",
    "category": "sports",
    "related": []
   }

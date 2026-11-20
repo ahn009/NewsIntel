@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-20T11:22:44.073937Z",
- "story_count": 18,
+ "generated_at": "2026-11-20T19:59:40.802655Z",
+ "story_count": 19,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "ok",
-  "https://www.dawn.com/feeds/pakistan": "ok",
+  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,9 +20,36 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
+  "https://www.espn.com/espn/rss/news": "ok"
  },
  "stories": [
+  {
+   "id": "b05464920f2e05935860dbc64bea44d5a39af05b",
+   "title": "What exactly is in the deal between the UK and the EU?",
+   "summary": [
+    "The two sides have come to agreements on food and drink, emissions trading and the youth exchange schemeBurnham has agreed EU reset deal with tuition fees issue unresolved, says No 10After months of on-off negotiations, leaks and late nights, the EU and UK have agreed a 12-page statement setting out the next steps in their relationship.",
+    "What exactly have they agreed?"
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/nov/20/what-is-in-deal-between-uk-eu-explainer",
+   "image": "https://i.guim.co.uk/img/media/7dc3c60fa8338bc5ee1369a6d31d699690231550/148_0_2427_1942/master/2427.jpg?width=140&quality=85&auto=format&fit=max&s=408ad629bea9f26f5474edd3bed42498",
+   "published_at": "2026-11-20T18:19:53Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "5024389180d8d2eb39dcc875f5ef3aa59bc19e48",
+   "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+   "summary": [
+    "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-20T16:41:52Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "a69c1b155a087e86f2efd0e7bd19016492f5a1e4",
    "title": "Airbnb's divisive new house rules come into force",
@@ -32,7 +59,59 @@
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-20T09:55:20Z",
+   "published_at": "2026-11-20T15:48:35Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "d7cb860e2048bc283737c9cbceb7b9b85906fa4b",
+   "title": "Could you spot a fake banknote?",
+   "summary": [
+    "A landlord says he took £100 in fake banknotes during his pub's opening weekend."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/c6808y974d13o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-20T15:40:40Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "5ec0d8a24dbef0ac6bdefd775e054ab5bd26412b",
+   "title": "The secret cyber scramble to protect UK fridge freezers",
+   "summary": [
+    "A behind the scenes cyber-security operation has taken place to secure tens of thousands of refrigeration units from hackers, the BBC has learned."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/cqpv94x1zj89o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-20T15:08:16Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "58b737aa711d0031dfb72dc75fd581fb9b36ba46",
+   "title": "Thousands join cost of living protests across Europe",
+   "summary": [
+    "Student-led protests have swept across Europe in response to the rising cost of living, housing shortages and underfunded education."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/c62l5jweqr4ko?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-20T14:43:39Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "8c001dfe6421839dd36cce5433ff30bd07a0e1bd",
+   "title": "These US fishers see offshore wind as a ‘godsend’. Trump wants to shut it down",
+   "summary": [
+    "Despite the president’s attacks, Sea Services is training New England fishers in offshore wind construction and providing them with a second income streamOn a rainy September morning, the Pamela Ann, a rusty, 86ft (26-metre) scallop boat, docked in New Bedford, Massachusetts."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/2026/nov/20/offshore-wind-farms-trump-fishers",
+   "image": "https://i.guim.co.uk/img/media/121c48abe318604b11e3134fcbc6c9f91546e514/0_921_4480_3584/master/4480.jpg?width=140&quality=85&auto=format&fit=max&s=213d773d708486121be83b4865004f1d",
+   "published_at": "2026-11-20T14:00:31Z",
    "category": "business",
    "related": []
   },
@@ -46,6 +125,19 @@
    "url": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-20T09:44:56Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "849d571e5e17e74f98b665995309139e96a45ea0",
+   "title": "What impact has Brexit had on the UK and EU economies?",
+   "summary": [
+    "As talks are held in Brussels over closer relations, we examine the economic context and the challenges aheadThe UK and EU will hold the second summit since Brexit on Friday against a volatile economic backdrop.Taking place in Brussels as the war in the Middle East hits the global economy, the prime minister, Andy Burnham, will meet the head of the European Commission, Ursula von der Leyen, and the president of the European Council, António Costa."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/20/what-impact-brexit-uk-eu-economies",
+   "image": "https://i.guim.co.uk/img/media/262689907bb3a962b8ff4c1ec998672008bc17cc/1037_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=7211935cbb241db32158355594f03df7",
+   "published_at": "2026-11-20T07:00:26Z",
    "category": "business",
    "related": []
   },
@@ -90,14 +182,28 @@
   },
   {
    "id": "f980f0e522afb44900b010f5cd4a275d16bc0bec",
-   "title": "Fish and eggs al desko? The dos and don'ts of the lunch break",
+   "title": "Fish and eggs al desko? The dos and don'ts of lunch at work",
    "summary": [
-    "What is acceptable to eat at your desk, without annoying your colleagues?"
+    "Eating at your desk?",
+    "The dos and don'ts of lunch at work"
    ],
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-20T00:08:37Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "9b2835c8ee7502e70a7f8f58efec32331985f943",
+   "title": "California targets Nvidia in China AI chip probe",
+   "summary": [
+    "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-19T23:04:30Z",
    "category": "business",
    "related": []
   },
@@ -111,19 +217,6 @@
    "url": "https://www.theguardian.com/us-news/2026/nov/19/trump-lawsuit-new-york-times",
    "image": "https://i.guim.co.uk/img/media/e0d95a8cd905be85ddf4efa2770e418df5ac0b2b/441_0_4410_3528/master/4410.jpg?width=140&quality=85&auto=format&fit=max&s=2b21cb64b1109e9b5d54847103a8d6f1",
    "published_at": "2026-11-19T19:27:51Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "fdaee6f33560203a24f60bebeb7bc0d71f64918a",
-   "title": "More support for households reliant on heating oil",
-   "summary": [
-    "North Northamptonshire Council is encouraging eligible residents to apply for more support."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cwm2mj7vezr3o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-19T15:22:31Z",
    "category": "business",
    "related": []
   },
@@ -167,93 +260,15 @@
    "related": []
   },
   {
-   "id": "d8a561c0ee88365a8754378a7a7c979de886c39b",
-   "title": "Increase in direct cremations since pandemic",
+   "id": "8befb2780d6e2e8a4c0a9fc0ab81a3e03b9e2af9",
+   "title": "Indian driver wins $1.3m in life-changing lottery prize",
    "summary": [
-    "A 2026 Cost of Dying Report found direct cremation was now chosen for about one in five funerals."
+    "A truck driver's fortunes have changed overnight after he won a Diwali lottery in the northern Indian state of Punjab."
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ck5ywnr59z85o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/cke89vdn75gyo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-19T06:23:22Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "29dd76ade58aa7f77d1c3f311eba2d818113be3e",
-   "title": "Gilts v kilts: What is happening with Scottish government bonds?",
-   "summary": [
-    "MSPs have heard both the pros and cons of the government's plan to launch its first ever bond to the market."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-19T06:15:57Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "676ff91fd9e76f4d8880860bf2cf4b56b0dcd73c",
-   "title": "Grade I interiors, gold bars, cost fears: Bank of England faces headache over £160m revamp",
-   "summary": [
-    "The central bank, with its reputation staked on carefully counting the nation’s pennies, will be keen to avoid delays, budget-busting or any echoes of the expensive US Federal Reserve revamp that left his former peer Jerome Powell awkwardly clashing with Donald Trump on camera."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/19/bank-of-england-revamp",
-   "image": "https://i.guim.co.uk/img/media/c25762bd1e283f73a3c740c2f6a7ab8bb4b20330/471_0_3764_3012/master/3764.jpg?width=140&quality=85&auto=format&fit=max&s=5146b3c0802972a56494b475fa4c15a2",
-   "published_at": "2026-11-19T06:00:19Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "9d6e5b138b34e39ba5d20a1f783a1e47f93f28a5",
-   "title": "Who are the investors ready to jump on Anthropic?",
-   "summary": [
-    "The BBC's Samira Hussain speaks to a retail investor eagerly waiting for the AI company's stock to go live on Thursday."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/c6y0x84xx22wo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-19T01:22:38Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "61b027a68d1b4d0d79ed0320a41d5504f1d95642",
-   "title": "Crew unaware of risks before Mike Lynch's yacht Bayesian sank, say investigators",
-   "summary": [
-    "The vessel sank off the coast of northern Sicily, killing seven people including British tech tycoon Mike Lynch."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-19T00:05:31Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "d458a1da01c44a787e279603500b8e0ad75675e7",
-   "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
-   "summary": [
-    "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-19T00:00:59Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "65db81481c01dbb60f5f94c29110e538f3547164",
-   "title": "Why has Waymo pulled all its driverless cars from US freeways?",
-   "summary": [
-    "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-18T23:47:46Z",
+   "published_at": "2026-11-19T11:38:09Z",
    "category": "business",
    "related": []
   }

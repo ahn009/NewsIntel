@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-20T11:22:44.073395Z",
+ "generated_at": "2026-11-20T19:59:40.802232Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "ok",
-  "https://www.dawn.com/feeds/pakistan": "ok",
+  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,9 +20,393 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
+  "https://www.espn.com/espn/rss/news": "ok"
  },
  "stories": [
+  {
+   "id": "59fa562eab8a38b3aa6a08d6be6e26c2946c44ed",
+   "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+   "summary": [
+    "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+   "image": null,
+   "published_at": "2026-11-20T19:53:41Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "321bf9e3c390a6360cc289f25831b6e985bbd25b",
+   "title": "AI claimed a solution to the 167 year-old Riemann Hypothesis — and a human did, too",
+   "summary": [
+    "Mathematicians are having their minds blown by the latest AI-driven result—and there's a competing human solution, too."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+   "image": null,
+   "published_at": "2026-11-20T19:32:08Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "b0d536dc481b381fd03904eb37c7ead5732dbb85",
+   "title": "GrapheneOS claims Google is now waging war against it, could lock Pixel bootload",
+   "summary": [
+    "Article URL: https://www.androidauthority.com/grapheneos-team-google-pressure-3737525/ Comments URL: https://news.ycombinator.com/item?id=50580385 Points: 24 # Comments: 6"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.androidauthority.com/grapheneos-team-google-pressure-3737525/",
+   "image": null,
+   "published_at": "2026-11-20T19:21:49Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ff99aaed410cb844d71b1dcd2680fb9b2c933fee",
+   "title": "Super-hot rock geothermal could end data center energy woes",
+   "summary": [
+    "New geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
+   "image": null,
+   "published_at": "2026-11-20T18:34:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "04e4de98579780fa17f96e46d2e5ca465799d5b8",
+   "title": "Hurried Announcement: Alessandro Masullo GRH",
+   "summary": [
+    "Article URL: https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/ Comments URL: https://news.ycombinator.com/item?id=50579568 Points: 544 # Comments: 192"
+   ],
+   "source": "Hacker News",
+   "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+   "image": null,
+   "published_at": "2026-11-20T18:33:14Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "e1a223b73868864c0b2e849ddd1a4b18eb899db1",
+   "title": "We promoted developers into architects without informing them",
+   "summary": [
+    "Article URL: https://manidoraisamy.com/developer-to-architect.html Comments URL: https://news.ycombinator.com/item?id=50579331 Points: 76 # Comments: 38"
+   ],
+   "source": "Hacker News",
+   "url": "https://manidoraisamy.com/developer-to-architect.html",
+   "image": null,
+   "published_at": "2026-11-20T18:17:51Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "3e30621eb1a8fdcade2d173049e03ff2064cd0f5",
+   "title": "Vibecoding an Inference Chip",
+   "summary": [
+    "Article URL: https://ankitg.me/blog/vibecoding-inference-chip/ Comments URL: https://news.ycombinator.com/item?id=50579297 Points: 38 # Comments: 11"
+   ],
+   "source": "Hacker News",
+   "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
+   "image": null,
+   "published_at": "2026-11-20T18:15:16Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "e0006c8114bab179935f34a15389c3039cfda5c8",
+   "title": "‘The greatest game ever made’: readers and Guardian staff on Grand Theft Auto VI",
+   "summary": [
+    "GTA VI has generated extraordinary global anticipation for its action-packed gameplay, but players are now finding new delight in the game’s more intimate moments."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/games/2026/nov/20/grand-theft-auto-vi-players-review",
+   "image": "https://i.guim.co.uk/img/media/bf2fb910b6bd1814c2576b1066e4abdbc6482747/356_0_3818_3055/master/3818.jpg?width=140&quality=85&auto=format&fit=max&s=3774532bd860d37fd71b1b43a30fe213",
+   "published_at": "2026-11-20T18:04:15Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "32a6def5ca5575b87424390ddab92ac57e69ffdd",
+   "title": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+   "summary": [
+    "Article URL: https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394 Comments URL: https://news.ycombinator.com/item?id=50578794 Points: 128 # Comments: 101"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+   "image": null,
+   "published_at": "2026-11-20T17:44:01Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "e43240c9ae66c70f1e069e9fae4e1d66d263d917",
+   "title": "Chips can survive the space environment — can their financing?",
+   "summary": [
+    "Lenders don't want SpaceX shooting their collateral into orbit.",
+    "What does that mean for space data centers writ large?"
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+   "image": null,
+   "published_at": "2026-11-20T17:40:01Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "dc0a65e6fd6d3dfd180592733130d38d895a1de1",
+   "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+   "summary": [
+    "Article URL: https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50578358 Points: 134 # Comments: 24"
+   ],
+   "source": "Hacker News",
+   "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+   "image": null,
+   "published_at": "2026-11-20T17:21:36Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "3c1f8452c0b4a7b58f3176992d430d27c61c434c",
+   "title": "Running two PSP emulators on one Switch 2 and sharing one via GameShare",
+   "summary": [
+    "Article URL: https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md Comments URL: https://news.ycombinator.com/item?id=50578233 Points: 35 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md",
+   "image": null,
+   "published_at": "2026-11-20T17:14:03Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "3cc68ecd0e5ccc22fa73ae0b4d0b67de80913b7b",
+   "title": "PostgreSQL 19: A hands-on tour with runnable browser examples",
+   "summary": [
+    "Article URL: https://certuvia.com/blog/postgres-19 Comments URL: https://news.ycombinator.com/item?id=50578117 Points: 24 # Comments: 1"
+   ],
+   "source": "Hacker News",
+   "url": "https://certuvia.com/blog/postgres-19",
+   "image": null,
+   "published_at": "2026-11-20T17:08:56Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "db87266e54640b6c68b523d0da86230f3b490231",
+   "title": "The best dehumidifiers: 14 favourites to beat damp and cut bills, tested",
+   "summary": [
+    "Fed up with condensation, mould and musty smells?",
+    "A dehumidifier could help – plus, they’re a cheaper way to dry laundry compared with tumble dryers• The best electric blankets and heated throws, tested by our expertYou don’t have to live in the American deep south to feel the effects of humidity.",
+    "In fact, the two are connected: humidity lets mould and dust mites flourish – and they, in turn, can trigger asthma and allergies."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/thefilter/2025/oct/21/best-dehumidifiers-tested-uk",
+   "image": "https://i.guim.co.uk/img/media/273bb0e7e4744bed07df3a7a32fce1b43ce606a4/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2b3288a10415baec970b5b8ba145b25e",
+   "published_at": "2026-11-20T17:08:04Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "65edf14fd72af2fa5b96c770e6e224b7ae635288",
+   "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+   "summary": [
+    "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 119 # Comments: 62"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+   "image": null,
+   "published_at": "2026-11-20T16:59:27Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "49db83e253edbf0771d468b99bafbdd0476979fa",
+   "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+   "summary": [
+    "Please remember that I can't provide legal advice on specific cases for obvious liability reasons because I won't have access to all the facts.",
+    "Please stick to a factual discussion in your questions and comments and I'll try to do the same in my answers!Previous threads we've done: https://news.ycombinator.com/submitted?id=proberts.",
+    "Comments URL: https://news.ycombinator.com/item?id=50577613 Points: 62 # Comments: 88"
+   ],
+   "source": "Hacker News",
+   "url": "https://news.ycombinator.com/item?id=50577613",
+   "image": null,
+   "published_at": "2026-11-20T16:45:25Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "9fe3e937f57a693052b0cfb8dd8b9c04c11f348c",
+   "title": "Language Models Can Rewrite Their Own Weights",
+   "summary": [
+    "Article URL: https://arxiv.org/abs/2611.21885 Comments URL: https://news.ycombinator.com/item?id=50577265 Points: 234 # Comments: 90"
+   ],
+   "source": "Hacker News",
+   "url": "https://arxiv.org/abs/2611.21885",
+   "image": null,
+   "published_at": "2026-11-20T16:29:06Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ffd07770f7d32a220d6b14c0c54b29690d72d230",
+   "title": "Bending Spoons buys Mailchimp for $3.68B",
+   "summary": [
+    "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
+   "image": null,
+   "published_at": "2026-11-20T16:16:06Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "89b47ada3cb28c7747f858f80cbb26f62ff9f9a8",
+   "title": "I'll never buy Framework hardware again",
+   "summary": [
+    "Article URL: https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/ Comments URL: https://news.ycombinator.com/item?id=50576855 Points: 707 # Comments: 458"
+   ],
+   "source": "Hacker News",
+   "url": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/",
+   "image": null,
+   "published_at": "2026-11-20T16:06:30Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "0284c903b166b2ae05022fd43319104c11d9cbd7",
+   "title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
+   "summary": [
+    "Exclusive: A simple security lapse exposed transcriptions of police interviews and bodycam footage on a cloud server without a password."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
+   "image": null,
+   "published_at": "2026-11-20T15:46:07Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "4c04906c125104a995556972aa6a9d255f495191",
+   "title": "Finite-time blow-up for the Navier–Stokes equations",
+   "summary": [
+    "Article URL: https://github.com/tristanbuckmaster/navier-stokes/ Comments URL: https://news.ycombinator.com/item?id=50576232 Points: 179 # Comments: 55"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/tristanbuckmaster/navier-stokes/",
+   "image": null,
+   "published_at": "2026-11-20T15:34:31Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "c582c3b013cd14befcf12aba7383af200c16d644",
+   "title": "‘Light therapy without remortgaging the house’: the best LED face masks – tested",
+   "summary": [
+    "They claim to reduce fine lines, blemishes and redness – but which stand up to scrutiny?",
+    "After consulting dermatologists and putting them to the test, we have crowned a brand new number one• The best anti-ageing creams, serums and treatmentsLED face masks are booming in popularity – despite being one of the most expensive at-home beauty products to hit the market.",
+    "With this in mind, I interviewed doctors and dermatologists to find out whether these light therapy devices work."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/thefilter/2025/sep/19/best-led-red-light-therapy-face-masks",
+   "image": "https://i.guim.co.uk/img/media/dcb3cc35a861de987165a14b91cbd345e81b0006/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6aa28926831680ff4204b20c9d0e77b0",
+   "published_at": "2026-11-20T15:06:46Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "f4c47e25e9525c9f0241e06ed335dd73b062f265",
+   "title": "Why there are still no non-WebKit browsers on iOS",
+   "summary": [
+    "Article URL: https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/ Comments URL: https://news.ycombinator.com/item?id=50575644 Points: 256 # Comments: 131"
+   ],
+   "source": "Hacker News",
+   "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+   "image": null,
+   "published_at": "2026-11-20T15:03:31Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "bbe099f2944c559d2da8bc280acbad043261b64e",
+   "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+   "summary": [
+    "Article URL: https://alpo.ge/remark.pdf Comments URL: https://news.ycombinator.com/item?id=50574968 Points: 1937 # Comments: 1307"
+   ],
+   "source": "Hacker News",
+   "url": "https://alpo.ge/remark.pdf",
+   "image": null,
+   "published_at": "2026-11-20T14:16:21Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "912ce9389b493fc3fb3bcb6943c80b85948f45bb",
+   "title": "Six AI-powered gadgets that could make your home office smarter",
+   "summary": [
+    "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+   "image": null,
+   "published_at": "2026-11-20T14:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "f52243df85702fa1b72108d88745348095f9980b",
+   "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
+   "summary": [
+    "Elon Musk may have been overstating it when he said Nvidia’s employees “love” the ousted Jensen Huang."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
+   "image": null,
+   "published_at": "2026-11-20T13:25:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "2137d47239c2cdf79eb7e1f9873ad5014a85ac21",
+   "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
+   "summary": [
+    "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob Bonta said."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+   "image": null,
+   "published_at": "2026-11-20T13:21:11Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a8f641bc1705047c6d54705e9829e97d832802c6",
+   "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
+   "summary": [
+    "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-20T13:08:30Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "0fd72439d56159a3134a2300ceab5482fc51bf80",
+   "title": "If you stop writing code, you also get worse at reviewing it",
+   "summary": [
+    "Article URL: https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/ Comments URL: https://news.ycombinator.com/item?id=50573886 Points: 276 # Comments: 131"
+   ],
+   "source": "Hacker News",
+   "url": "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/",
+   "image": null,
+   "published_at": "2026-11-20T12:41:38Z",
+   "category": "tech",
+   "related": []
+  },
   {
    "id": "dc4abeffea47e7abc6bf91baecbd7f742411d95a",
    "title": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
@@ -42,7 +426,7 @@
    "id": "82d4562a810231f64f6a3e2dafa5dff8427d6dce",
    "title": "The Making of Oxygene",
    "summary": [
-    "Article URL: https://jeanmicheljarre.com/aaa/the-making-of-oxygene Comments URL: https://news.ycombinator.com/item?id=50572822 Points: 4 # Comments: 0"
+    "Article URL: https://jeanmicheljarre.com/aaa/the-making-of-oxygene Comments URL: https://news.ycombinator.com/item?id=50572822 Points: 173 # Comments: 63"
    ],
    "source": "Hacker News",
    "url": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
@@ -55,7 +439,7 @@
    "id": "0000282282406879db0bb3598c7fd8ebbb0fcc66",
    "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
    "summary": [
-    "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 79 # Comments: 54"
+    "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 543 # Comments: 290"
    ],
    "source": "Hacker News",
    "url": "https://architectlabs.com/blog/frostbite",
@@ -95,10 +479,23 @@
    "related": []
   },
   {
+   "id": "dbff0d10d0540e936af9762e593eda57a4ab3b0c",
+   "title": "What people are building, discovered through new domains",
+   "summary": [
+    "Article URL: https://startups.novumsignals.com/ Comments URL: https://news.ycombinator.com/item?id=50572448 Points: 140 # Comments: 68"
+   ],
+   "source": "Hacker News",
+   "url": "https://startups.novumsignals.com/",
+   "image": null,
+   "published_at": "2026-11-20T09:54:33Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "601ef0d322ce7274ca0a2ae857da5015b8765f63",
    "title": "If you can't explain something in simple terms, you don't understand it (2017)",
    "summary": [
-    "Article URL: https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it Comments URL: https://news.ycombinator.com/item?id=50572355 Points: 20 # Comments: 6"
+    "Article URL: https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it Comments URL: https://news.ycombinator.com/item?id=50572355 Points: 527 # Comments: 265"
    ],
    "source": "Hacker News",
    "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
@@ -108,21 +505,8 @@
    "related": []
   },
   {
-   "id": "2af93e3b8100433ca68f806b0cdab544d4b157d7",
-   "title": "White House removes cyber-security chief after series of tech outages",
-   "summary": [
-    "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-20T09:37:59Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "f136b0739c9453f8e054367c5cf21c4f5bdde5f3",
-   "title": "The U.S. national cyber director is stepping down",
+   "title": "The US national cyber director is stepping down",
    "summary": [
     "The news comes as businesses across the country report a flurry of technical outages, the causes of which are still unknown."
    ],
@@ -130,19 +514,6 @@
    "url": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
    "image": null,
    "published_at": "2026-11-20T09:14:19Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "0ddfc9e8c6484e0b27fd6f84a8781fb58c3d7f54",
-   "title": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars",
-   "summary": [
-    "Article URL: https://ecohustler.com/article/one-corporation-to-pollute-them-all/ Comments URL: https://news.ycombinator.com/item?id=50572116 Points: 31 # Comments: 6"
-   ],
-   "source": "Hacker News",
-   "url": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
-   "image": null,
-   "published_at": "2026-11-20T09:13:09Z",
    "category": "tech",
    "related": []
   },
@@ -160,34 +531,8 @@
    "related": []
   },
   {
-   "id": "f5c1d8753c2b479220ee2945d9f98b47dda68545",
-   "title": "\"I can tell you wrote this yourself\"",
-   "summary": [
-    "Article URL: https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/ Comments URL: https://news.ycombinator.com/item?id=50571189 Points: 199 # Comments: 199"
-   ],
-   "source": "Hacker News",
-   "url": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
-   "image": null,
-   "published_at": "2026-11-20T07:13:21Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "5bf3596fda971b623d99455e2dbae0b30e0c48ef",
-   "title": "Jujutsu Primer",
-   "summary": [
-    "Article URL: https://ethanlowman.com/posts/jj-primer/ Comments URL: https://news.ycombinator.com/item?id=50570628 Points: 127 # Comments: 86"
-   ],
-   "source": "Hacker News",
-   "url": "https://ethanlowman.com/posts/jj-primer/",
-   "image": null,
-   "published_at": "2026-11-20T05:46:01Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "0abd9fbdec95bfa4c24dd67d68e59747d4742c33",
-   "title": "‘We will become cyborgs!’ Peter Gabriel on bonobo ape duets, building a Jurassic Park for plants – and why AI will make great music",
+   "title": "‘We’re the most arrogant of all apes!’ A delightfully mind-expanding encounter with Peter Gabriel",
    "summary": [
     "From sampling to streaming, the rock legend has always been in thrall to technology – but is superintelligence a step too far?",
     "Back with an epic new album, he unpacks his remarkable ideasPeter Gabriel asks me to fetch my laptop: he wants to show me a video of himself playing a keyboard duet with a bonobo called Kanzi.",
@@ -201,366 +546,15 @@
    "related": []
   },
   {
-   "id": "049f29b20254a910b9fc8c92391a66408c9a873a",
-   "title": "PostgreSQL 19",
+   "id": "50425ff6da685b82fb76afbbb463638a06a94496",
+   "title": "NextDC vows to keep future datacentres away from homes after community backlash in Melbourne",
    "summary": [
-    "Article URL: https://www.postgresql.org/docs/release/19.0/ Comments URL: https://news.ycombinator.com/item?id=50569890 Points: 220 # Comments: 10"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.postgresql.org/docs/release/19.0/",
-   "image": null,
-   "published_at": "2026-11-20T03:45:45Z",
-   "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "https://ffmpeg.org/download.html#release_9.1"
-    }
-   ]
-  },
-  {
-   "id": "a8f641bc1705047c6d54705e9829e97d832802c6",
-   "title": "GTA 6 breaks records as estimated sales top $2.3bn",
-   "summary": [
-    "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-20T02:54:40Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "93201ff2693e8b939198408916b77929b4ddb439",
-   "title": "What Comes After AGI?",
-   "summary": [
-    "Article URL: https://institute.deepmind.com/essays/what-comes-after-agi/ Comments URL: https://news.ycombinator.com/item?id=50569519 Points: 72 # Comments: 131"
-   ],
-   "source": "Hacker News",
-   "url": "https://institute.deepmind.com/essays/what-comes-after-agi/",
-   "image": null,
-   "published_at": "2026-11-20T02:44:13Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "92ef4c17d9b385c5fb4af9f73fa08c59bb68ec18",
-   "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
-   "summary": [
-    "Article URL: https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/ Comments URL: https://news.ycombinator.com/item?id=50569516 Points: 113 # Comments: 11"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
-   "image": null,
-   "published_at": "2026-11-20T02:43:49Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "df98bcb7b8aa42e09d4bf4470cd9dd45faaba0e7",
-   "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
-   "summary": [
-    "Article URL: https://github.com/openssl/openssl/pull/33652 Comments URL: https://news.ycombinator.com/item?id=50569226 Points: 272 # Comments: 215"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/openssl/openssl/pull/33652",
-   "image": null,
-   "published_at": "2026-11-20T02:01:09Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "0e9876dba44f0c2a5f1dc803434be87a9c3f1efb",
-   "title": "Big tech is already building datacentres in Australia. Why is Labor so desperate to give them loopholes?",
-   "summary": [
-    "If the government bends to AI companies, artists, creatives and journalists will be the sacrificial lamb – and Australia will become a global pariahGet our breaking news email, free app or daily news podcastRight now, the prime minister faces a choice.",
-    "Does he stand with Jimmy Barnes and the Working Class Man or does he stand with Big AI?This week, some of the biggest names in Australian music, publishing, journalism and art have thrown down the gauntlet to the government.",
-    "From Paul Kelly to Anna Funder and Peter Garrett, household names and Australian icons are all singing from the same song sheet."
+    "Public expectations around datacentres have changed in the age of AI, chief executive Craig Scroggie saysGet our breaking news email, free app or daily news podcastCommunity backlash to a datacentre expansion in inner Melbourne that resulted in NextDC’s share price dropping 40% will change the way the company engages with communities – and it says it will no longer pursue new developments near homes.The company held its first annual general meeting since it was forced to delay the controversial expansion of its M3 site in West Footscray after power provider Jemena paused construction of new 22-metre power poles amid community protest."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/commentisfree/2026/nov/20/big-tech-is-already-building-datacentres-in-australia-why-is-labor-desperate-to-give-them-loopholes",
-   "image": "https://i.guim.co.uk/img/media/0cdbb6369ce14b701428a723ba8bb7a215b0e3bd/0_0_1828_1463/master/1828.jpg?width=140&quality=85&auto=format&fit=max&s=ec31418de2ee6aa3a2433d6d06ad0d05",
-   "published_at": "2026-11-20T02:00:18Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "ad94344260a0551b2dd1a3e8cbfa813810f6b6d3",
-   "title": "Vint Cerf on why TCP/IP was never patented",
-   "summary": [
-    "Article URL: https://seremot.com/p/vint-cerf-on-why-tcpip-was-never Comments URL: https://news.ycombinator.com/item?id=50568861 Points: 114 # Comments: 53"
-   ],
-   "source": "Hacker News",
-   "url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
-   "image": null,
-   "published_at": "2026-11-20T01:06:12Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "2ed09bbf2a0c5d3caf687cc3cd490b620fb8caba",
-   "title": "Apple may be developing its own AI agent that runs your Mac",
-   "summary": [
-    "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-   "image": null,
-   "published_at": "2026-11-20T00:56:01Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "4aacf31011a35edafa06e7018ee4b32d933f890d",
-   "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-   "summary": [
-    "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-   "image": null,
-   "published_at": "2026-11-20T00:43:50Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "271e5d72d10e7127d8540a712a64f5d9cc6f2c57",
-   "title": "Anthropic rival says companies can (mostly) skip the pricey models",
-   "summary": [
-    "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
-   "image": null,
-   "published_at": "2026-11-20T00:26:03Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "7c01653370c338e502bca893e55f7b0f32bb13e9",
-   "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
-   "summary": [
-    "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-20T00:02:07Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "74621002819edca51b0186663b453bfe680eb51a",
-   "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
-   "summary": [
-    "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
-   "image": null,
-   "published_at": "2026-11-19T23:37:56Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "24e5ac982146dca6e1c08d79bde889c144d029d7",
-   "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
-   "summary": [
-    "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
-   "image": null,
-   "published_at": "2026-11-19T22:33:26Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "04fd14ae1a216e730379a0c95758e71b1da569a0",
-   "title": "Synology Security Advisory",
-   "summary": [
-    "Article URL: https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21 Comments URL: https://news.ycombinator.com/item?id=50567209 Points: 155 # Comments: 117"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
-   "image": null,
-   "published_at": "2026-11-19T22:13:40Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "fea67cf9c7eff96e0f20bdf3ecb60083ca2959eb",
-   "title": "Anthropic closes first day of public trading at $1.3tn valuation after largest-ever IPO",
-   "summary": [
-    "At the close of market on Thursday, Anthropic shares were trading at just over $97 with a nearly $1.3tn total market capitalization, $1.75tn fully diluted.While the final share value was higher than the IPO price of $83, it marked a dip from an early high of $111.50.",
-    "The firm’s shares initially soared 34% when trading got under way on its US market debut on Thursday, valuing the company at more than $2tn.",
-    "The artificial intelligence startup, founded in 2021, became one of the most valuable publicly traded businesses in the world."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo",
-   "image": "https://i.guim.co.uk/img/media/6998f4e0d8ab24e4c35516c1ab618511a39fcd71/545_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=1d230408bbae396686d8049961356159",
-   "published_at": "2026-11-19T22:09:18Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "e60f4e5e7cf4b021fbd03d1562f2a3ae3aa96937",
-   "title": "Meta’s new Muse Charm device may cost $300",
-   "summary": [
-    "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-   "image": null,
-   "published_at": "2026-11-19T21:58:06Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "ab107cfc887ac1635eceef4a93762b8fba37724a",
-   "title": "Protesters rally against Anthropic in New York and San Francisco after $2tn stock market debut",
-   "summary": [
-    "Similar demonstrations took place outside Anthropic’s San Francisco headquarters.“I think people are starting to get that there’s something wrong,” Jose Gonzalez, 46, one of roughly 30 protesters in New York City, said.",
-    "Protesters carried flags reading “STOP TECH OLIGARCHS” and “FREEZE AI: END ICE, END WAR”."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/19/anthropic-ipo-protests",
-   "image": "https://i.guim.co.uk/img/media/71f9820b3e6fa3234944209ef4e179d6b83eeb67/333_0_3333_2668/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=c67dc9fe30c346a644aea3be3a033af0",
-   "published_at": "2026-11-19T21:52:19Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "52653ae3ad736466d3a8cdffbe80aada5f19e949",
-   "title": "These tech outages are giving Y2K, AI agent style",
-   "summary": [
-    "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence?",
-    "There's actually likely something deeper going on, cybersecurity experts say."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-   "image": null,
-   "published_at": "2026-11-19T21:42:31Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "ed8df7c2ba43c7ea00433594b05dbee906963ef2",
-   "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
-   "summary": [
-    "Uber is testing the new program in three U.S. cities."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/",
-   "image": null,
-   "published_at": "2026-11-19T21:33:24Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "2fc737ddb9957593a64ccbd7b8def6e6a3483f8e",
-   "title": "The unfolding Jensen Huang scandal: a timeline",
-   "summary": [
-    "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-   "image": null,
-   "published_at": "2026-11-19T20:18:49Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "653751b5d3ac0b8a07cab672566125ecc2d84650",
-   "title": "Grand Theft Auto fans skip work and pull all-nighters to play new instalment",
-   "summary": [
-    "Hotly anticipated Bonnie and Clyde-inspired adventure GTA VI has gamers glued to their screens around the worldGrand Theft Auto fans around the world pulled all-nighters, skipped work and school, and attended overnight launch parties to vicariously embark on police chases and coordinate robberies as the latest instalment of the eagerly anticipated series arrived.GTA VI, a Bonnie and Clyde-inspired crime adventure game set in the fictional US state of Leonida, was launched at midnight on Wednesday after a 13-year wait."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/games/2026/nov/19/grand-theft-auto-six-fans-skip-work-pull-all-nighters",
-   "image": "https://i.guim.co.uk/img/media/af1e31b49b5341ebce31c28c93c8ad558d8934b8/181_0_3988_3192/master/3988.jpg?width=140&quality=85&auto=format&fit=max&s=06325cc903a0fdb4227b8ce910ceefae",
-   "published_at": "2026-11-19T20:07:23Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "6dd2ec3981ff138f72c5737ac4c1e2c3a5f68d0a",
-   "title": "Who are Anthropic’s seven co-founders, now worth $180bn?",
-   "summary": [
-    "The founders have pledged to donate 80% of their shareholdings in Anthropic to philanthropic causes, which would equate to about $150bn at the current share price."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/19/who-are-anthropic-founders",
-   "image": "https://i.guim.co.uk/img/media/f21be169b52ca2b5f51250db2e1f038f14af993b/236_0_3021_2417/master/3021.jpg?width=140&quality=85&auto=format&fit=max&s=cfd2d2381022640d3abcec2594556295",
-   "published_at": "2026-11-19T20:05:13Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "e22812a5ccc9366777fb3e13bfa5b962383cf774",
-   "title": "Anthropic’s IPO could deliver $156B to charity",
-   "summary": [
-    "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-   "image": null,
-   "published_at": "2026-11-19T19:10:45Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "404bc2ee895c1438168ab71caa77b751d329dfdf",
-   "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-   "summary": [
-    "Article URL: https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine Comments URL: https://news.ycombinator.com/item?id=50564159 Points: 301 # Comments: 154"
-   ],
-   "source": "Hacker News",
-   "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
-   "image": null,
-   "published_at": "2026-11-19T18:35:17Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "f1b9eaa5143f7c9f58e0adb1e6ae58c8f6c55589",
-   "title": "Anthropic keeps the AI party swinging, but the atmosphere is bubbly | Nils Pratley",
-   "summary": [
-    "Can the newly listed AI company really be worth $2tn?",
-    "Anyone who remembers the late 1990s has good reason to askRoll up, roll up, who wants to buy shares in a company whose technology “could pose catastrophic or existential risks to humanity”, as the prospectus had it?",
-    "Anthropic flew out of the blocks on its first day as a listed company.From the point of view of the promoters, the result was as good as it gets."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/19/anthropic-keeps-ai-party-swinging-but-atmosphere-bubbly",
-   "image": "https://i.guim.co.uk/img/media/ae7186e144b4b6232e5ff363f0e9905e52124718/716_0_5611_4488/master/5611.jpg?width=140&quality=85&auto=format&fit=max&s=b17d1d80e98e983f0b94c1064dbde8ab",
-   "published_at": "2026-11-19T18:15:48Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "6d6821f501bbce2ed5069143f7edfed4a0a55cd9",
-   "title": "Google gives Gemini the ability to use your Mac for you",
-   "summary": [
-    "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-   "image": null,
-   "published_at": "2026-11-19T18:09:11Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "d9d2fba47fd34f0cb7e7352844266043ee668239",
-   "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-   "summary": [
-    "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-   "image": null,
-   "published_at": "2026-11-19T17:38:40Z",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/20/nextdc-vows-to-keep-future-datacentres-away-from-homes-after-community-backlash-in-melbourne",
+   "image": "https://i.guim.co.uk/img/media/9acf294a8c0fe26735bc3164495be1c8cbfbe068/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=17900272fc8dd5c5221231513aab8877",
+   "published_at": "2026-11-20T04:37:08Z",
    "category": "tech",
    "related": []
   }

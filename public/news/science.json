@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-20T11:22:44.074257Z",
+ "generated_at": "2026-11-20T19:59:40.802921Z",
  "story_count": 16,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "ok",
-  "https://www.dawn.com/feeds/pakistan": "ok",
+  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,9 +20,37 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
+  "https://www.espn.com/espn/rss/news": "ok"
  },
  "stories": [
+  {
+   "id": "1f7371d321a7c10c2160bbffb155b90eaae7c251",
+   "title": "Scientists turn Moon dust into LEGO-like bricks for future lunar bases",
+   "summary": [
+    "Scientists have found a way to 3D-print Moon dust into LEGO-like bricks, raising the possibility of building lunar bases using materials already on the Moon.",
+    "The experimental blocks still need to be strengthened, but the technology could transform how humans construct permanent settlements beyond Earth."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261119194525.htm",
+   "image": null,
+   "published_at": "2026-11-20T12:34:56Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "b9c4b08fe39118416e21f86d22b04ad90581f146",
+   "title": "CERN scientists finally find evidence of a particle decay so rare it took 40 years to detect",
+   "summary": [
+    "Scientists at CERN have found the first evidence of an incredibly rare particle decay after more than 40 years of searching, detecting a process expected to occur just once in every 10 billion beauty particles.",
+    "The breakthrough could help physicists explore a mysterious microscopic realm where unknown particles and forces may be hiding."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261119194530.htm",
+   "image": null,
+   "published_at": "2026-11-20T12:23:23Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "4cbd4e9e8f863b20dba1ce1ecd56cfd6118cd0bc",
    "title": "What are heat pumps and how much do they cost?",
@@ -50,15 +78,30 @@
    "related": []
   },
   {
-   "id": "8864c85aaebc75313357fb595e338dcab24a313d",
-   "title": "Mysterious Mercury is about to get a visitor - after spacecraft's eight-year epic voyage",
+   "id": "85eb88373637178d7a0f75240ab1007c41d2bfc6",
+   "title": "Two massive stars may be secretly feeding the Milky Way’s supermassive black hole",
    "summary": [
-    "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun."
+    "Astronomers have traced mysterious gas clouds near the Milky Way's central supermassive black hole to a massive pair of stars whose colliding winds appear to create dense clumps of material.",
+    "These clouds may eventually feed the black hole, revealing a surprising connection between stellar activity and the growth of cosmic giants."
    ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261119194605.htm",
    "image": null,
-   "published_at": "2026-11-20T05:59:56Z",
+   "published_at": "2026-11-20T05:41:16Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "47da8a8df212f8124bce560b3df1c59ae08f1937",
+   "title": "A 3-million-year-old child just made human evolution far more complicated",
+   "summary": [
+    "A groundbreaking study of the 3-million-year-old Taung Child fossil suggests that several ancient human ancestors once thought to belong to the same species may actually represent different branches of our evolutionary family tree.",
+    "The discovery challenges a century of assumptions and reveals how dramatic climate changes helped shape a surprisingly complex story of human origins."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261118065531.htm",
+   "image": null,
+   "published_at": "2026-11-20T03:17:52Z",
    "category": "science",
    "related": []
   },
@@ -189,57 +232,15 @@
    "related": []
   },
   {
-   "id": "82b67a498d5a0c5ea8c9e7036d2fe8def69769f0",
-   "title": "Developer accused of 'environmental vandalism'",
+   "id": "f10fb213fdd86ab6b2d051f8b42a59aab6281e25",
+   "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
    "summary": [
-    "Bellway says the work has been done with an ecologist on site and in compliance with planning consent."
+    "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods."
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmeq4nx95qpdo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-19T06:09:25Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "158426426e7dc993f834d126e5d9dea57349aa7f",
-   "title": "Stonehenge’s six-ton mystery deepens as scientists narrow their search",
-   "summary": [
-    "A major new investigation into Stonehenge’s mysterious six-ton Altar Stone has uncovered fresh clues while ruling out several suspected sources.",
-    "Once thought to have originated in Wales, the massive sandstone slab is now believed to have come from northeastern Scotland, although researchers have yet to find an exact match."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261117033914.htm",
-   "image": null,
-   "published_at": "2026-11-19T03:11:22Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "b7e52b65eb9b576e8978e38683eb2b4b584f406e",
-   "title": "Is free will an illusion? New brain research reveals a surprising twist",
-   "summary": [
-    "New research reveals that the brain makes free choices and forced decisions using surprisingly similar neural processes, with activity building toward a decision before we act.",
-    "The discovery challenges assumptions about free will while suggesting that our personal preferences and experiences still shape what we choose."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261118065524.htm",
-   "image": null,
-   "published_at": "2026-11-19T01:21:35Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "6a992e18bccb974849763b3fc58eca18a8aa2f87",
-   "title": "This strange creature lived 309 million years ago, long before the dinosaurs",
-   "summary": [
-    "More than 300 million years ago, long before dinosaurs roamed Earth, the Chicago area was a steamy, swampy landscape teeming with bizarre creatures.",
-    "Now, scientists at the Field Museum have identified a previously unrecognized species of ancient amphibian ancestor, revealing new clues about the evolution of frogs and salamanders."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261117033928.htm",
-   "image": null,
-   "published_at": "2026-11-18T23:24:05Z",
+   "published_at": "2026-11-19T09:21:54Z",
    "category": "science",
    "related": []
   }

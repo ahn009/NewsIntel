@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-20T11:22:44.071098Z",
+ "generated_at": "2026-11-20T19:59:40.800084Z",
  "story_count": 60,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "ok",
-  "https://www.dawn.com/feeds/pakistan": "ok",
+  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,511 +20,450 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
+  "https://www.espn.com/espn/rss/news": "ok"
  },
  "stories": [
   {
-   "id": "974fdeb4375ac4138877548159e9787cde117d56",
-   "title": "Three Kyiv bridges hit during major Russian missile attack",
+   "id": "97e4a658839a16f18dc458c1a3ee11a3d631e9fb",
+   "title": "Fantasy buzz: Does anything change in Indy with Richardson under center?",
    "summary": [
-    "Five people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge."
+    "Matt Bowen provides fantasy expectations for the Colts' new starter at QB and his supporting cast."
    ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+   "source": "ESPN",
+   "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
    "image": null,
-   "published_at": "2026-11-20T11:12:57Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "c8606f7a59d7ed6271509f467e072cd821b52b98",
-   "title": "UK says EU reset deal agreed but talks will continue ‘in some areas’ – live",
-   "summary": [
-    "But the move to make the food and drink deal also contingent on a tuition fees deal effectively seeks to neutralise the leverage the UK gets today.",
-    "This is a serious chess game and shows the EU, again, is willing to speak very warmly about the UK but will play absolute hard ball when it comes to conceding any points to a former member state.",
-    "The single biggest growth intervention in this Parliament.” Continue reading..."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
-   "image": "https://i.guim.co.uk/img/media/54da6151ea7baf4c326b9f74ea0f98da416b8954/665_25_4717_3773/master/4717.jpg?width=140&quality=85&auto=format&fit=max&s=7f9bd2ca0ed392f4b3b004b12c901a6f",
-   "published_at": "2026-11-20T11:09:44Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "e0a6b87e1cdaf6702fc37586f393f8954e114980",
-   "title": "Pochettino’s first session leaked on drone footage; Nations League draw updates – football live",
-   "summary": [
-    "⚽ All the latest football news going into the weekend⚽ Fixtures | Tables | Ten things to look out for | Mail SimonA Liverpool fan accused of racially abusing Antoine Semenyo has been found not guilty after the Manchester City forward withdrew his support for the prosecution, reports the Press Association.Semenyo was due to give evidence at Liverpool Magistrates’ Court on Friday in the trial of Mark Mogan, 47, who was accused of shouting abuse during the Premier League match between Liverpool and Semenyo’s former club Bournemouth at Anfield on August 15 last year."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/live/2026/nov/20/weekend-football-countdown-live-news-updates",
-   "image": "https://i.guim.co.uk/img/media/bb93f967665ae9fb691d3afd181a77af7f661bf7/928_685_4524_3622/master/4524.jpg?width=140&quality=85&auto=format&fit=max&s=071e5139925a0ae44d7ae5810a1e3964",
-   "published_at": "2026-11-20T11:07:14Z",
+   "published_at": "2026-11-20T19:57:12Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "de5e7ec3ba70bf382b63cea14b1451852f7a72e4",
-   "title": "Kushner says Russia OK with ‘NATO-like’ security pact for Ukraine: Is it?",
+   "id": "1dccf9ebd12f2dad7b43769ee76a5da22b08816c",
+   "title": "Palestinian anti-Hamas groups accused of role in Israel Gaza operation",
    "summary": [
-    "NATO Article 5 says attack on one member is an attack on all.",
-    "Analysts say inclusion of Ukraine 'stretches credulity'."
+    "Israeli-backed Palestinian militias accused of expanding operations, raising concerns over their role in Gaza’s security"
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/20/kushner-says-russia-ok-with-nato-like-security-pact-for-ukraine-is-it?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/20/palestinian-anti-hamas-groups-accused-of-role-in-israel-gaza-operation?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-20T11:01:51Z",
+   "published_at": "2026-11-20T19:57:05Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "b5e83f8af299d41d4fd767c5f990b3c79bee2d7e",
-   "title": "‘Traumatizing’: hunger striker in ICE detention tells of force-feeding ordeal – and what made him crack",
+   "id": "5ba6ce12c9a67cc3b2139fdab77efb13bb4cb773",
+   "title": "Colts cut ties with QB Jones, turn to Richardson for next start",
    "summary": [
-    "Exclusive: Luis Alejandro Cora Perez says in messages to Guardian from inside Texas facility pain of force-feeding caused him to break strikeThe text message that came from inside the Immigration and Customs Enforcement (ICE) detention center was stark: “I have spent five days eating regular food.",
-    "If I don’t eat it, they put the tube in me to feed me.”A Cuban asylum seeker, Luis Alejandro Cora Perez, 32, said in messages to the Guardian this month that he was still weak and dizzy after three months without eating, but that he had broken his hunger strike because being force-fed was just too painful."
+    "The Colts have cut quarterback Daniel Jones after a challenging 11-game stint in 2026 and are turning to Anthony Richardson Sr. to start going forward."
    ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
-   "image": "https://i.guim.co.uk/img/media/c9dba855c54cae37bd9acbcb62ecc50678235bf6/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=f137ecb5f2e0490201cd4df5110dce53",
-   "published_at": "2026-11-20T11:00:31Z",
-   "category": "world",
+   "source": "ESPN",
+   "url": "https://www.espn.com/nfl/story/_/id/50542293/colts-release-qb-daniel-jones-blowout-loss-texans",
+   "image": null,
+   "published_at": "2026-11-20T19:56:26Z",
+   "category": "sports",
    "related": []
   },
   {
-   "id": "4d56cf5c96859181068c2fc4b192a7652a6c7c21",
-   "title": "Emails reveal how Trump allies pushed pardons for election deniers",
+   "id": "45f618afaa3fa91012b986a289ba450da4d23600",
+   "title": "Sources: Pats QB Maye has fractured fibula, return this season uncertain",
    "summary": [
-    "She knew the official, pardon attorney Ed Martin, was working on a memo outlining why those involved in the fake elector scheme should receive a presidential pardon."
+    "Patriots quarterback Drake Maye has a fractured right fibula, and receiver A.J.",
+    "Brown has a hamstring injury, sources told ESPN's Mike Reiss and Adam Schefter."
    ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/20/allies-email-trump-pardon-election-deniers",
-   "image": "https://i.guim.co.uk/img/media/3e289bd0c4dae807be31fa1f1a33fb5b5f7fa3c9/390_0_3881_3106/master/3881.jpg?width=140&quality=85&auto=format&fit=max&s=414393b1ec3e3dd332055f6fd9322800",
-   "published_at": "2026-11-20T11:00:31Z",
-   "category": "world",
+   "source": "ESPN",
+   "url": "https://www.espn.com/nfl/story/_/id/50542578/patriots-qb-drake-maye-fractured-fibula-sources-say",
+   "image": null,
+   "published_at": "2026-11-20T19:55:52Z",
+   "category": "sports",
    "related": []
   },
   {
-   "id": "dc4abeffea47e7abc6bf91baecbd7f742411d95a",
-   "title": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
+   "id": "6bc2a61bd7e9a06461a6d16cab62247974e1cdfc",
+   "title": "Sources: Tom Brady buys shares in Chelsea after Birmingham exit",
    "summary": [
-    "We need to rethink welfare for an economy being reshaped by AI.Throughout the history of the study of economics, the human brain, which directs our labour, judgment and resilience, has rarely been considered an asset in its own right.",
-    "The emerging AI economy is changing that.",
-    "As machines take on routine work, what becomes most valuable is the judgment, creativity and insights only people can provide."
+    "Seven-time Super Bowl champion quarterback Tom Brady has invested in Chelsea soccer club, sources confirmed to ESPN and NFL Network."
    ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
-   "image": "https://i.guim.co.uk/img/media/b71c923b07b403bdaf953194f3dfdf7229e4b7c6/492_0_3408_2727/master/3408.jpg?width=140&quality=85&auto=format&fit=max&s=7a9b36a23900dd55a7da37ebd913eb2b",
-   "published_at": "2026-11-20T11:00:31Z",
+   "source": "ESPN",
+   "url": "https://www.espn.com/soccer/story/_/id/50542238/nfl-legend-tom-brady-buys-shares-chelsea-sources",
+   "image": null,
+   "published_at": "2026-11-20T19:55:52Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "7077d4214602540f6429169ea38e69591047b388",
+   "title": "Rams' suspended Nacua has MCL surgery, likely done for regular season",
+   "summary": [
+    "Rams WR Puka Nacua, who is serving a three-game suspension while on IR, had surgery on his MCL and likely will miss at least the rest of the regular season."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/nfl/story/_/id/50542028/rams-puka-nacua-needs-mcl-surgery-likely-done-season",
+   "image": null,
+   "published_at": "2026-11-20T19:55:52Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "4fa095fae23053213e477bac6bd965cbdf7bf979",
+   "title": "Miami WR Toney 'close' to return, coach says, with ACC title game a possibility",
+   "summary": [
+    "Miami star wide receiver Malachi Toney is about a week and a half from returning from surgery for a high ankle sprain, coach Mario Cristobal told \"The Pat McAfee Show.\""
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/college-football/story/_/id/50542494/malachi-toney-nearing-return-ankle-surgery-coach-says",
+   "image": null,
+   "published_at": "2026-11-20T19:55:52Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "d453e223c8376edc86420c2e16301de3a9605fbe",
+   "title": "Cardinals QB Beck dealing with back spasms; Johnson may start vs. Chiefs",
+   "summary": [
+    "The Cardinals are preparing veteran quarterback Josh Johnson to start Sunday vs. the Chiefs as rookie Carson Beck deals with back spasms, coach Mike LaFleur said Friday."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/nfl/story/_/id/50542595/cardinals-qb-beck-dealing-back-spasms-johnson-start",
+   "image": null,
+   "published_at": "2026-11-20T19:55:52Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "3cff90a20c423a29a93fc46e33cccbc688173cc2",
+   "title": "Ohtani extends deal with New Balance for remainder of playing career",
+   "summary": [
+    "Shohei Ohtani and New Balance have agreed to extend their contract through the remainder of the Dodgers superstar's playing career."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/mlb/story/_/id/50542241/shohei-ohtani-extends-new-balance-rest-playing-career",
+   "image": null,
+   "published_at": "2026-11-20T19:55:52Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "7cd5d3011aca97d20f3820d410563bb7c2331cb2",
+   "title": "Tide turned: DeBoer says this is most complete Bama team he's had",
+   "summary": [
+    "Alabama coach Kalen DeBoer said this is the most complete team he's had since taking over for Nick Saban prior to the 2024 season."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/college-football/story/_/id/50541432/kalen-deboer-says-most-complete-alabama-team",
+   "image": null,
+   "published_at": "2026-11-20T19:55:52Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "b13029a03d4a8543838936010bf9f8bf9bf0e8aa",
+   "title": "🏈 NFL draft buzz: QB Mestemaker could spur 'auction' for No. 1 pick",
+   "summary": [
+    "If the Titans or Chargers wind up with the No. 1 selection and stick with their franchise quarterbacks, interest in Oklahoma State's Drew Mestemaker could lead to a team seeking to trade up for the top overall pick."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/nfl/story/_/id/50541939/draft-buzz-mestemaker-spur-auction-no-1-pick",
+   "image": null,
+   "published_at": "2026-11-20T19:55:52Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "2760d361b26985adf2edc9fd1000e28be0ec7f0b",
+   "title": "What NBA insiders see from Boozer, Dybantsa and seven other top rookies",
+   "summary": [
+    "How has the first month unfolded for nine first-year stars?",
+    "Brian Windhorst and Tim MacMahon canvass the league."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/nba/story/_/id/50534111/rookies-dybantsa-peterson-boozer-acuff-yaxel",
+   "image": null,
+   "published_at": "2026-11-20T19:54:13Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "6bcee06e533017fb78778fdbad60ce6d94c68b6c",
+   "title": "How a season without their 'admiral' showed the Rockets what they were missing",
+   "summary": [
+    "Fred VanVleet is commanding the surging Rockets after an ACL injury derailed his 2025-26 season."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/nba/story/_/id/50524821/nba-houston-rockets-fred-vanvleet-injury-comeback",
+   "image": null,
+   "published_at": "2026-11-20T19:54:13Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "59fa562eab8a38b3aa6a08d6be6e26c2946c44ed",
+   "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+   "summary": [
+    "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+   "image": null,
+   "published_at": "2026-11-20T19:53:41Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "1a320733fbf9b7642d638c8bd8161ac413768b32",
-   "title": "How the Columbus Crew switched paths en route to the MLS playoffs",
+   "id": "4fa85ae7ae72f7606b8929d2716fa7f985e84f65",
+   "title": "Trump threatens ban on US firms building AI data centres overseas",
    "summary": [
-    "In a transformative year, Crew GM Issa Tall’s boldest change may have been to abandon his best-laid plansThe Columbus Crew have a more holistic operation than most in MLS.",
-    "Their under-19s won the national cup in June, while the developmental Crew 2 made a fourth semi-final berth in five seasons in MLS Next Pro.",
-    "The first team regularly punches above its weight in MLS, winning the third-most major titles (nine) among MLS originals.And yet, this year tested the conventions set by team and league alike."
+    "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time."
    ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/2026/nov/20/columbus-crew-mls-playoffs",
-   "image": "https://i.guim.co.uk/img/media/74e51eaf64da27a15a70ccbc348691152ee9bf6d/92_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=b395cb8500c2b74f15d9c72d1bd0fe03",
-   "published_at": "2026-11-20T11:00:29Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "f4d3589aa2f497becaade43282ecbc6afc3e6d60",
-   "title": "Senate passes bipartisan energy bill amid environmental concerns",
-   "summary": [
-    "As Americans struggle with rising energy costs and increased demand driven by AI, the Senate passed a bipartisan bill that will speed up the approval process for data centers and power plants.(Image credit: Jon Cherry)"
-   ],
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/20/g-s1-154579/senate-bipartisan-energy-bill",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-20T11:00:28Z",
+   "published_at": "2026-11-20T19:51:52Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "01335354ad56f70ed355a6a117fece15a5ee7405",
-   "title": "CJ Stroud leads Texans to comfortable win over Colts",
+   "id": "142dfefa5a728f6455b7cae1681aac274f71d445",
+   "title": "Top 10 trades or pickups you should make soon",
    "summary": [
-    "Quarterback CJ Stroud leads the Houston Texans to a comfortable 26-3 win over AFC South rivals Indianapolis Colts."
+    "Be ahead of the curve, and boost your fantasy basketball lineup with these trades or adds while the value is right."
    ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/american-football/videos/cq8j403rxn2po?at_medium=RSS&at_campaign=rss",
+   "source": "ESPN",
+   "url": "https://www.espn.com/fantasy/basketball/story/_/id/50533958/fantasy-basketball-players-trade-waivers-pickups",
    "image": null,
-   "published_at": "2026-11-20T10:59:38Z",
+   "published_at": "2026-11-20T19:51:22Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "dcd9aa17157bfba6cc8184a33e892b44a0a58b96",
-   "title": "Two Pakistani schools earn global recognition at World’s Best School Prizes 2026",
+   "id": "77612c17d1b2e1b27f390cd014fb009d47703768",
+   "title": "Points rankings: Rookies Lendeborg, Acuff Jr. move up",
    "summary": [
-    "The World’s Best School Prizes are regarded as among the most prestigious global awards in education.",
-    "Pakistan was represented by two schools in the global competition: TNS Beaconhouse in Lahore, and Govt Girls High School Tando Mir Ghulam Hussain in Hyderabad.",
-    "The United Kingdom’s Swiss Cottage School, Development and Research Centre, won the “Community Collaboration” category, while Hyderabad’s Govt Girls High School Tando Mir Ghulam Hussain secured a place among the world’s top three schools in the same category."
+    "Updated fantasy basketball rankings for points leagues, with several rookies on the rise."
    ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2045891/two-pakistani-schools-earn-global-recognition-at-worlds-best-school-prizes-2026",
-   "image": "https://i.dawn.com/large/2026/11/2015402744f5969.webp",
-   "published_at": "2026-11-20T10:47:39Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "c5fc4ed1326427f876eb9e779bf6ab4965f810a8",
-   "title": "Bukayo Saka may not return for Arsenal before Christmas, Mikel Arteta admits",
-   "summary": [
-    "Arteta revealed more tests during the international break confirmed the England forward did not need surgery and that he was expected to be out for another four weeks."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/2026/nov/20/bukayo-saka-injury-may-not-play-arsenal-before-christmas-mikel-arteta",
-   "image": "https://i.guim.co.uk/img/media/effeab49ada0973f3ee5b9faa9daa4f735901f4e/1064_736_1754_1403/master/1754.jpg?width=140&quality=85&auto=format&fit=max&s=4e0f9959f1ef2d99b4558d9b254aab06",
-   "published_at": "2026-11-20T10:46:32Z",
+   "source": "ESPN",
+   "url": "https://www.espn.com/fantasy/basketball/story/_/id/49960162/fantasy-basketball-points-league-rankings-2026-27-nba-season",
+   "image": null,
+   "published_at": "2026-11-20T19:51:22Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "3471c6b95e4b33dcaa5cc8b94bdece83020bc563",
-   "title": "Can the Rohingya genocide verdict deliver justice?",
+   "id": "c7c292cd88703f22872486be51346c7945621a60",
+   "title": "Gérard Depardieu and French author investigated over sexual allegations",
    "summary": [
-    "The ICJ has ruled against Myanmar, but safe return, citizenship and reparations remain far from guaranteed."
+    "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\"."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-20T19:45:20Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "58734a2aaf94cf6353ce4a4bb15f17841c19f95f",
+   "title": "Stroud, defense star as Texans beat Colts to keep playoff hopes alive",
+   "summary": [
+    "Stroud and a swarming defense helped Houston beat Indy on 'Thursday Night Football.'"
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/nfl/story/_/id/50536733/texans-colts-thursday-night-football-cj-stroud-defense",
+   "image": null,
+   "published_at": "2026-11-20T19:40:38Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "c5c36dcfc675bf32b714ccc4cd494e4c13f83ce9",
+   "title": "Indian man sentenced to 19 years in US Sikh separatist assassination plot",
+   "summary": [
+    "Nikhil Gupta jailed for conspiring to hire a hitman to kill New York-based Sikh leader, Gurpatwant Singh Pannun."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/opinions/2026/11/20/can-the-rohingya-genocide-verdict-deliver-justice?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/20/indian-man-sentenced-to-19-years-in-us-sikh-separatist-assassination-plot?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-20T10:45:20Z",
+   "published_at": "2026-11-20T19:40:07Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "82d4562a810231f64f6a3e2dafa5dff8427d6dce",
-   "title": "The Making of Oxygene",
+   "id": "5f9e6b5ffe183b7e545828556e6b67adf72de0e3",
+   "title": "JP Morgan boss says he will set ‘example’ in offsetting UK tax hike on banks",
    "summary": [
-    "Article URL: https://jeanmicheljarre.com/aaa/the-making-of-oxygene Comments URL: https://news.ycombinator.com/item?id=50572822 Points: 4 # Comments: 0"
+    "Jamie Dimon said he would seek to claw back added costs of ‘unfair penalties’ as bank surcharge rises in JanuaryJamie Dimon, the chief executive of JP Morgan, has said he will find ways to offset the chancellor’s tax rise for banks, calling the increase unfair.Speaking at an event in London on Thursday, Dimon said he would seek to claw back the increase and was “setting an example so that [governments] understand the trade-offs of these unfair penalties”."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/20/jp-morgan-jamie-dimon-uk-tax-hike-bank-surcharge",
+   "image": "https://i.guim.co.uk/img/media/a2ea0114fa7d8b930b2b6fb3b7c565d76348f5f3/0_0_3028_2423/master/3028.jpg?width=140&quality=85&auto=format&fit=max&s=ac2ad95e3893c94c9fe2d7c13f030ea9",
+   "published_at": "2026-11-20T19:38:59Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "4dfd121c6c304146b7aafc19578f7f571e4f5d99",
+   "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+   "summary": [
+    "Other tech companies have also taken a hit as share markets broadly slump."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-20T19:38:46Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "e9e042a6cd117ac2f52da4e625093cbeef6d8f0d",
+   "title": "Can Ravens keep the Marlon Humphrey controversy from becoming a distraction?",
+   "summary": [
+    "While there's more to the cornerback's story, one Baltimore teammate says: \"We have enough things to worry about.\""
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/nfl/story/_/id/50541178/ravens-avoid-marlon-humphrey-controversy-distraction",
+   "image": null,
+   "published_at": "2026-11-20T19:35:21Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "1fa1e9c0dc52b6a0c4d289636613f6bf4d1e82d0",
+   "title": "How Houston defeated Kansas to take the Players Era 8 championship in Las Vegas",
+   "summary": [
+    "Houston was crowned the Players Era 8 champions Thursday night."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/mens-college-basketball/story/_/id/50505898/players-era-8-matchups-analysis",
+   "image": null,
+   "published_at": "2026-11-20T19:34:44Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "321bf9e3c390a6360cc289f25831b6e985bbd25b",
+   "title": "AI claimed a solution to the 167 year-old Riemann Hypothesis — and a human did, too",
+   "summary": [
+    "Mathematicians are having their minds blown by the latest AI-driven result—and there's a competing human solution, too."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+   "image": null,
+   "published_at": "2026-11-20T19:32:08Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ac72bf8df42ae789af261042d5099d11ec47f770",
+   "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+   "summary": [
+    "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-20T19:27:49Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "0daedfcfd6e95a65fd1da184dbc12b28a541308a",
+   "title": "Nepal cricket fans celebrate their team’s global rise",
+   "summary": [
+    "Nepal’s cricket fans have witnessed a transformation in their national team’s fortunes in recent years."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/nepal-cricket-fans-celebrate-their-teams-global-rise?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-20T19:24:26Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "b0d536dc481b381fd03904eb37c7ead5732dbb85",
+   "title": "GrapheneOS claims Google is now waging war against it, could lock Pixel bootload",
+   "summary": [
+    "Article URL: https://www.androidauthority.com/grapheneos-team-google-pressure-3737525/ Comments URL: https://news.ycombinator.com/item?id=50580385 Points: 24 # Comments: 6"
    ],
    "source": "Hacker News",
-   "url": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
+   "url": "https://www.androidauthority.com/grapheneos-team-google-pressure-3737525/",
    "image": null,
-   "published_at": "2026-11-20T10:41:10Z",
+   "published_at": "2026-11-20T19:21:49Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "3c56324be2df7078dce6ca7b5a4969113a5f1cf9",
-   "title": "Drone operator removes Man United training footage and issues apology",
+   "id": "c262f425bba41b2e6c0fbb4a469c67622432280b",
+   "title": "Home Alone sequel reportedly in development with Macaulay Culkin returning",
    "summary": [
-    "The footage, filmed during new manager Mauricio Pochettino's first training session, was uploaded online."
+    "The new Home Alone film will bring the 46-year-old back to the franchise as Kevin McCallister for a comedy that, according to Deadline, will be from the father’s point of view."
    ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/sports/2026/11/20/drone-operator-removes-man-united-training-footage-and-issues-apology?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-20T10:37:20Z",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/film/2026/nov/20/home-alone-sequel-macaulay-culkin",
+   "image": "https://i.guim.co.uk/img/media/934c182e9fa7feae129f366be38ebe9b1a067b4b/94_0_2400_1920/master/2400.jpg?width=140&quality=85&auto=format&fit=max&s=ef2a63347fd9754baeea3f315a856543",
+   "published_at": "2026-11-20T19:18:20Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "d93dbb5789936d78f46b222c9c81d0d8b4f52287",
-   "title": "Major changes in men’s tennis will take prize money for players to more than $350m",
+   "id": "eae214163fd53c554b29bc583e76649e20bd6aa2",
+   "title": "F1 bosses agree V8 engines deal from 2030",
    "summary": [
-    "Cash boost via creation of new ‘One Vision’ company More rest breaks to reduce player welfare issuesThe Association of Tennis Professionals (ATP) has approved major changes to the financial structure of men’s tennis that will make the total prize money available to the players increase to more than $350m (£267m) by 2028, from $270m this year.The creation of a new company to sell all the tour’s media, commercial and data rights, ATP Ventures, will lead to the investment of an additional $100m in player remuneration including an increased $50m bonus pool, a $25m year-end rankings bonus and $26m player pensions."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/sport/2026/nov/20/major-changes-in-mens-tennis-will-take-prize-money-for-players-to-more-than-350m",
-   "image": "https://i.guim.co.uk/img/media/11f8375091b6e6a482816e6c8945c8dfa284afa2/920_0_4599_3679/master/4599.jpg?width=140&quality=85&auto=format&fit=max&s=bdbc9aebbd504f0767f2d8d5d2d24506",
-   "published_at": "2026-11-20T10:36:02Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "4cbd4e9e8f863b20dba1ce1ecd56cfd6118cd0bc",
-   "title": "What are heat pumps and how much do they cost?",
-   "summary": [
-    "The government wants more homes to have heat pumps to cut fossil fuel use and drive down energy bills."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c8xgdv9e007o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-20T10:24:52Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "2fe56bf8b584af3fcadb95b5fd317f5213472cbf",
-   "title": "UFC title contender Fiorot banned for three months",
-   "summary": [
-    "Highly ranked UFC flyweight Manon Fiorot is banned for three months for violating the promotion's anti-doping policy."
+    "Formula 1 bosses reach a deal that means V8 turbo hybrid engines will replace the current controversial units in 2030."
    ],
    "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/c6808yxx71e0o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/formula1/articles/cvj6l7nk611jo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-20T10:18:35Z",
+   "published_at": "2026-11-20T19:17:40Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "af55606e350bbd24c22642199a9dd67fc4df9380",
-   "title": "Pakistan’s natural resources worth $8-10tr at 'most conservative estimate', says Dar",
+   "id": "497402baaf1855b74a029c90898caf0155fb3535",
+   "title": "Belgrade mayor charged with assaulting opposition politician in Serbia",
    "summary": [
-    "The vessel, which arrived on Thursday, will be used for offshore oil and gas exploration in Pakistan.",
-    "He noted that Oruc Reis brought “Turkish scientific expertise together with the experience and capabilities of our national energy companies to advance exploration in Pakistan’s offshore domain”.",
-    "He thanked the Turkish government and people for standing alongside Pakistan and described the arrival of the Oruc Reis as another example of the two countries’ partnership."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2045895/pakistans-natural-resources-worth-8-10tr-at-most-conservative-estimate-says-dar",
-   "image": "https://i.dawn.com/large/2026/11/2013294606bc502.webp",
-   "published_at": "2026-11-20T10:17:03Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "c8eae13ea21d8ff9637e4eef0759d2d9f82a6045",
-   "title": "Cummins retains Cricket Australia support as captain",
-   "summary": [
-    "Pat Cummins will retain backing from Cricket Australia to remain as Test captain despite ongoing and explosive allegations about the sandpaper controversy."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/cricket/articles/c6808y17r0l0o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-20T10:13:23Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "52ce7f4ebb952436c7788ccf39a5370650c5c496",
-   "title": "Searching for the next Messi at the Under-17 World Cup",
-   "summary": [
-    "Nearly 100 football scouts are in Qatar, searching for the next global superstar at the FIFA Under-17 World Cup."
+    "Prosecutors say Aleksandar Sapic caused serious facial injuries to a female councillor and seek a three-year sentence."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/searching-for-the-next-messi-at-the-under-17-world-cup?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/20/belgrade-mayor-charged-with-assaulting-opposition-politician-in-serbia?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-20T10:03:11Z",
+   "published_at": "2026-11-20T19:15:18Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "fd2811614640e90d1bfb8ca46043542593c9d4da",
-   "title": "Global stock markets slump as Anthropic IPO fails to stem AI sell-off",
+   "id": "2fe9522e0a256010eae99605a082c8031d226787",
+   "title": "What are the implications of the ICJ Rohingya genocide ruling?",
    "summary": [
-    "In Taiwan, stocks dropped 6.7% to hit their lowest point since mid-April, with the chip maker TSMC down about 6%."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-   "image": "https://i.guim.co.uk/img/media/4099c293fe0771f309ff9ec3954f9933d234c1a0/272_0_3245_2596/master/3245.jpg?width=140&quality=85&auto=format&fit=max&s=8054262018f759c5048bb4a149c0afd5",
-   "published_at": "2026-11-20T10:02:21Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "0000282282406879db0bb3598c7fd8ebbb0fcc66",
-   "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-   "summary": [
-    "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 79 # Comments: 54"
-   ],
-   "source": "Hacker News",
-   "url": "https://architectlabs.com/blog/frostbite",
-   "image": null,
-   "published_at": "2026-11-20T10:01:41Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "c1fe6e4cca9dd9e0cd517ad3fd07f16c77e8daa3",
-   "title": "Will AI break the internet? | Garrison Lovely",
-   "summary": [
-    "Frontier models can exploit software flaws faster than the world can fix them.",
-    "And the risks extend far beyond the cyber realmYou’re not crazy to feel the world is coming apart at the seams.Within the last week, outages took down core services at Microsoft, United Airlines and JPMorgan Chase.",
-    "In each case, officials or the companies said there was no evidence of a cyber-attack."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/commentisfree/2026/nov/20/ai-internet-outages-apocalypse",
-   "image": "https://i.guim.co.uk/img/media/d0d3e01dd99c16399c8dbc88cf6f6b915811600d/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=3c89a7301381e5589eb91de840c238ea",
-   "published_at": "2026-11-20T10:00:31Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "3ee5c0c321e88ae7a406fef9eab8a61410eab624",
-   "title": "NFL legend John Madden’s unlikely, unfiltered brilliance: ‘Coach was indeed animated’",
-   "summary": [
-    "Some American football coaches might have reacted to the stunt with fury.",
-    "But John Madden was unfazed.“We needed some relief from the intense grind,” recalls Hendricks, 79, who had borrowed the horse from a nearby stable. “It was a spur of the moment idea, but put a smile on everyone’s face.",
-    "All Coach said once I dismounted was, ‘All right guys, Ted’s here, let’s get started.’ But I know he got a kick out of it too – just from the look on his face and the comments he made later in interviews.” Continue reading..."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/film/2026/nov/20/john-madden-nfl-football-biopic",
-   "image": "https://i.guim.co.uk/img/media/ff3c10f861a40a1efd638887cff36f3441f3141c/503_175_1613_1291/master/1613.jpg?width=140&quality=85&auto=format&fit=max&s=8733e8b706d3108692addfdd98d38590",
-   "published_at": "2026-11-20T10:00:31Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "3e36496a5cab4b5d7300aa0fed448f110893b506",
-   "title": "Zohran Mamdani unveils plan to close Rikers Island jail complex",
-   "summary": [
-    "Mayor plans to close jail by 2032 and relocate its remaining population to smaller facilities across four boroughsZohran Mamdani, New York City’s mayor, on Friday unveiled a plan to close the Rikers Island jail complex, with a goal to end all incarceration at the current facility and relocate its remaining jail population by the end of 2032.“It is time to finally close Rikers Island,” Mamdani said in a statement. “For decades, New Yorkers have demanded a correctional system that is safe and humane.",
-    "This plan puts us on a path to deliver just that: closing Rikers, reducing pretrial detention, tackling the case delays that deprive people of their right to a speedy trial and investing $146m in the evidence-based supports that helps break the cycles of incarceration.” Continue reading..."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/20/rikers-island-closure-plan-mamdani",
-   "image": "https://i.guim.co.uk/img/media/28eb137e704067f49713d583592e4263c0ac08c3/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=ff5e113858df4a55f4e3e5cc4b6ae1c6",
-   "published_at": "2026-11-20T10:00:30Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "bf9a9cd7e93b04b333e1930be7f773b5cb7ca06c",
-   "title": "Lewis Hamilton is now the apex sports protester as US athletes stay silent",
-   "summary": [
-    "Hamilton made the visit on a day Israeli airstrikes and gunfire killed at least seven Palestinians in Gaza, adding to a death toll that’s climbed above 74,000 since war broke out three years ago.",
-    "He wore dark glasses and dressed head to toe in black.“The past three years of Israel’s genocide in Gaza is appalling,” he wrote on Instagram of his visit, before turning the lens on himself. “I know so many people that feel that same helplessness.",
-    "I don’t want us to get used to their suffering."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/sport/2026/nov/20/lewis-hamilton-formula-one-activism-gaza",
-   "image": "https://i.guim.co.uk/img/media/e8ed613fcecba7505b2e4c43271e071305025a94/553_0_3905_3124/master/3905.jpg?width=140&quality=85&auto=format&fit=max&s=9a3471170d7ca3660c1494617d8be87a",
-   "published_at": "2026-11-20T10:00:29Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "2e0b430afbc7782ec9c630d0fae81a8533ddc0a5",
-   "title": "I’m a tech expert and new mum. Here’s what I learned testing 17 baby monitors",
-   "summary": [
-    "But it meant she could sleep peacefully in her new room and I could sneak a reassuring peek from afar whenever I felt the need.There’s a huge range of baby monitors, from simple audio-only options to sophisticated video models.",
-    "At their most basic, baby monitors typically consist of a baby unit, which you position near the baby, and a parent unit, which lets you hear and/or see them.",
-    "With video models, the baby unit is essentially a camera, while the parent unit is a screen."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/thefilter/2026/nov/20/best-baby-monitor-tested-uk",
-   "image": "https://i.guim.co.uk/img/media/add5710bd2cd30b9e3f6bb21f5abe1f6b78bed9d/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b88e1b6b1199cd674fdd467414093d17",
-   "published_at": "2026-11-20T10:00:28Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "858a603e90331db550eb5a3875452cc4fd698f5f",
-   "title": "Drone operator sorry for filming Pochettino’s first Manchester United training session",
-   "summary": [
-    "In a statement posted on his YouTube channel ⁠on Friday, the drone operator said that while the flight ​was legal under drone regulations, ‌filming the session ‌had been “unethical”."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/2026/nov/20/mauricio-pochettino-manchester-united-drone",
-   "image": "https://i.guim.co.uk/img/media/90130f821c6f6f9d02561ca82719f5e6e79f0dfd/662_0_5492_4393/master/5492.jpg?width=140&quality=85&auto=format&fit=max&s=762454648b10029543840b35145f579a",
-   "published_at": "2026-11-20T10:00:04Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "87145c7924ab9c027c4f7a7e0ccf8eb8f2bdfe75",
-   "title": "How exactly did Trump get so rich on crypto? We explain",
-   "summary": [
-    "President Trump has made billions of dollars in his second term — most of it in cryptocurrencies.",
-    "Democrats are vowing to probe his businesses as they gear up to take over Congress next year.(Image credit: Andrew Caballero-Reynolds)"
-   ],
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/20/nx-s1-6038969/trump-crypto-profits-corruption-meme-coin-world-liberty-explainer",
-   "image": null,
-   "published_at": "2026-11-20T10:00:00Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "27ac58e8151bf2e3e5abd8377b28c4ff2ae90d2d",
-   "title": "New York City unveils a bold plan to move its jails off Rikers Island",
-   "summary": [
-    "'/>New York City officials are moving forward with plans to close Rikers, the city's main jail complex, after years of discussion.",
-    "The jail has been plagued by assaults and inmate deaths.(Image credit: Nicky Quamina-Woo)"
-   ],
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/20/nx-s1-5981356/new-york-city-rikers-jail-plans-germany-prison-model",
-   "image": null,
-   "published_at": "2026-11-20T10:00:00Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "f7ff875e34940f676f011129b82dc4fc8462f7e6",
-   "title": "Critics are calling what brand-new release a masterpiece? The quiz knows",
-   "summary": [
-    "Plus: Are you up to date on your James Bond news?",
-    "If so, you'll get at least one question right."
-   ],
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/20/g-s1-154337/florida-starship-bond-schumer-ai-flu-alaska-news-quiz",
-   "image": null,
-   "published_at": "2026-11-20T10:00:00Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "a69c1b155a087e86f2efd0e7bd19016492f5a1e4",
-   "title": "Airbnb's divisive new house rules come into force",
-   "summary": [
-    "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-20T09:55:20Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "e0300701a0a63814158ed6bc0d9ccf2a405ebbd4",
-   "title": "Russia unleashes retaliatory barrage on Kyiv bridges",
-   "summary": [
-    "The attack follows Putin's pledge of 'painful' response to Ukraine's attack on symbolic Crimean bridge."
+    "Verdict against Myanmar may have implications for Israel's genocide in Gaza."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges?traffic_source=rss",
+   "url": "https://www.aljazeera.com/video/inside-story/2026/11/20/what-are-the-implications-of-the-icj-rohingya-genocide-ruling?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-20T09:54:00Z",
+   "published_at": "2026-11-20T19:12:14Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "562df2c80c8dc794da2ea6daef33f9aac09f928f",
-   "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
+   "id": "e80685b8f602b1087dd9cbe5fe5f66027c62965d",
+   "title": "NFL Week 11 best bets for Sunday's games",
    "summary": [
-    "People stocking up on long-life food drove retail sales higher October, according to official data."
+    "Our experts dive into the odds and player props for Week 11 and offer their betting tips and favorite plays."
    ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
+   "source": "ESPN",
+   "url": "https://www.espn.com/espn/betting/story/_/id/50534274/week-11-nfl-odds-touchdown-props-best-bets-sunday-games",
    "image": null,
-   "published_at": "2026-11-20T09:44:56Z",
-   "category": "business",
+   "published_at": "2026-11-20T19:06:56Z",
+   "category": "sports",
    "related": []
   },
   {
-   "id": "601ef0d322ce7274ca0a2ae857da5015b8765f63",
-   "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+   "id": "c6465207e45005b53ebfc2d2972f20b65cb7b062",
+   "title": "NBA betting roundtable: MVP picks, playoff longshots and futures worth betting",
    "summary": [
-    "Article URL: https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it Comments URL: https://news.ycombinator.com/item?id=50572355 Points: 20 # Comments: 6"
+    "The NBA betting experts share their favorite future bets, including Rookie of the Year, MVP and more."
    ],
-   "source": "Hacker News",
-   "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+   "source": "ESPN",
+   "url": "https://www.espn.com/espn/betting/story/_/id/50538678/nba-betting-mvp-rookie-year-playoff-longshots-2026-2027",
    "image": null,
-   "published_at": "2026-11-20T09:43:19Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "5d2238e05dd4f8354ebe281766480ada5c770aa6",
-   "title": "Rams star Nacua suspended for personal conduct violation",
-   "summary": [
-    "Puka Nacua is given a three-game suspension for violating the NFL's personal conduct policy, although the Los Angeles Rams wide receiver was already out injured."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/american-football/articles/c6vg21xdgpqgo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-20T09:38:14Z",
+   "published_at": "2026-11-20T19:06:56Z",
    "category": "sports",
    "related": []
   },
@@ -532,306 +471,345 @@
    "id": "2af93e3b8100433ca68f806b0cdab544d4b157d7",
    "title": "White House removes cyber-security chief after series of tech outages",
    "summary": [
-    "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller."
+    "He has been fired after losing the confidence of new White House chief of staff Stephen Miller, according to reports."
    ],
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-20T09:37:59Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "6784575ef645eb461e8ab99fc3f20a9def143bbc",
-   "title": "Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’",
-   "summary": [
-    "The trial participants had recently been diagnosed with advanced pancreatic cancer that had spread to other parts of the body."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-   "image": "https://i.guim.co.uk/img/media/d7bac7cca6890657580a396f9255cf7d7b3d2874/1250_0_6250_5000/master/6250.jpg?width=140&quality=85&auto=format&fit=max&s=a39b86006934a5fbc1b4dadf13458620",
-   "published_at": "2026-11-20T09:36:10Z",
+   "published_at": "2026-11-20T19:03:56Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "22ce633eadfeb9851bd8cb9fdb0d6d5a7160fc6a",
-   "title": "Scots lose Super Six opening thriller to Dutch",
+   "id": "e0a6b87e1cdaf6702fc37586f393f8954e114980",
+   "title": "Pochettino demands say on big United decisions; Arteta takes fantasy football action – as it happened",
    "summary": [
-    "Scotland fall to a final-over, seven-wicket defeat by the Netherlands in their opening match in the Super Six stage of the Women's Emerging Nations Trophy."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/cricket/articles/cr3wg173n087o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-20T09:32:19Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "06993cb9eda41680431ba16853a7d56a36fb63a3",
-   "title": "PWR title, England recall, Lions tour - ambitious Atkin-Davies returns",
-   "summary": [
-    "England and Bristol hooker Lark Atkin-Davies on her aims of winning a PWR title and making the Lions tour as she returns to the sport a new mum."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c90k65nrv26yo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-20T09:20:34Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "2c3757b0893a7b0c3a70d2f789d0fa9245702810",
-   "title": "California investigates Nvidia over whether chip exports ended up in China",
-   "summary": [
-    "State attorney says scandal ‘raises bright red flags’ and aims to find out if company misled investorsCalifornia has served an investigative subpoena on Nvidia after a scandal that prompted the departure of co-founder and longtime chief executive Jensen Huang.Rob Bonta, the US state’s attorney general, issued the subpoena as part of an investigation into whether exports of the California-based company’s advanced semiconductor chips ended up in China, contravening US restrictions."
+    "The latest football news before the weekend, with Mauricio Pochettino preparing to take Manchester United to Anfield⚽ Fixtures | Tables | Ten things to look out forA Liverpool fan accused of racially abusing Antoine Semenyo has been found not guilty after the Manchester City forward withdrew his support for the prosecution, reports the Press Association.Semenyo was due to give evidence at Liverpool Magistrates’ Court on Friday in the trial of Mark Mogan, 47, who was accused of shouting abuse during the Premier League match between Liverpool and Semenyo’s former club Bournemouth at Anfield on August 15 last year."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china",
-   "image": "https://i.guim.co.uk/img/media/d8e256cb4f13741672cadb73a1484717745e43a9/424_0_4240_3392/master/4240.jpg?width=140&quality=85&auto=format&fit=max&s=f875503b0a0e2e369b1530c1955aa42a",
-   "published_at": "2026-11-20T09:18:30Z",
+   "url": "https://www.theguardian.com/football/live/2026/nov/20/weekend-football-countdown-live-news-updates",
+   "image": "https://i.guim.co.uk/img/media/a87b38a80782dd29e77eb49a598b51f3684f958e/0_0_5381_4305/master/5381.jpg?width=140&quality=85&auto=format&fit=max&s=8e392502b83ae05e4c45ac5a34f81aa3",
+   "published_at": "2026-11-20T19:03:40Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "f9d96e02927c37b4258c1d16f4c752667a1b0151",
+   "title": "Pochettino the connector: will human touch lift Manchester United?",
+   "summary": [
+    "It was March 2022, he was in charge at Paris Saint-Germain and the venue was a stunning boutique hotel; the kind that many capitals have but only Paris truly does.",
+    "Pochettino’s family and friends were there.",
+    "As everybody knows, the new Manchester United head coach is the kind of guy to well up when the speeches start, so imagine how he felt when he looked up at the big screen and a video montage of well-wishers started to roll."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/20/mauricio-pochettino-manchester-united-manager-liverpool-premier-league",
+   "image": "https://i.guim.co.uk/img/media/9c87c77ae60b672cce0cee6858e9a269a7375c72/1494_325_6466_5173/master/6466.jpg?width=140&quality=85&auto=format&fit=max&s=5a9c52d9e1e46e6ab46614c955fb3005",
+   "published_at": "2026-11-20T19:00:37Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "25b5938fe51445e6cc7b60902eff02c2b0280ba7",
+   "title": "Training hard and biding his time, Dele Alli has not given up on football yet",
+   "summary": [
+    "They spend four days on the pitch and days in between in the gym.",
+    "A typical day begins at 9am with an hour of activation and stretching before Dele heads to non-league Windsor & Eton at 11am, where he trains on the pitches and uses the facilities.",
+    "Then it’s back home to use his own oxygen chamber and sauna for a recovery session."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/20/dele-alli-tottenham-mk-dons-england",
+   "image": "https://i.guim.co.uk/img/media/4644b48da02f5c51bd8878e38586c24dd5e559b7/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=7c4ecf1aed33efe60b95b709dd286064",
+   "published_at": "2026-11-20T19:00:37Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "eaa8792a9edcf8ad37b6c3aedea0bdc3d7ae2d2d",
+   "title": "The Super Bowl of F1: how Las Vegas GP has hit the jackpot after turbulent start",
+   "summary": [
+    "George Russell calls it the biggest race on the Formula One calendar bar Monaco – and the numbers back him upThat Formula One has achieved a palpable success in hosting a race in Las Vegas is impossible to ignore."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/2026/nov/20/super-bowl-formula-one-las-vegas-grand-prix-jackpot",
+   "image": "https://i.guim.co.uk/img/media/6a397f4d6d5143a0125acf6622962aa546535091/1440_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=52c7f5997af2200374dcca9f543f3257",
+   "published_at": "2026-11-20T19:00:37Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "df67e737aa0fce20ee9999bb8cd187a70e30add8",
+   "title": "Police arrest teacher who missed sentencing after indecent assault conviction",
+   "summary": [
+    "Sally-Anne Bowen was found guilty of having sexual relationships with two pupils at a boys’ school in the 1980sA chemistry teacher who had sexual relationships with two pupils at a boys’ school in the late 1980s has been arrested by police in Hampshire after she failed to turn up to her sentencing hearing.Sally-Anne Bowen, 65, could not be found at her home by Metropolitan police officers on Friday morning after a warrant was issued for her arrest, a court heard."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/20/sally-anne-bowen-police-search-teacher-missed-court-sentencing",
+   "image": "https://i.guim.co.uk/img/media/311ab8da7f054396f1dd576b47069e8b03792e22/304_0_4120_3296/master/4120.jpg?width=140&quality=85&auto=format&fit=max&s=b9430c6c19047b5b3153fa6497e7885e",
+   "published_at": "2026-11-20T19:00:11Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "52d79a4abd8c401d73899060c6f808e60e2c993d",
-   "title": "Kenya’s growing doping crisis overshadows legacy as athletics powerhouse",
+   "id": "54036e47f4a96186308142f1eac992035d8d946b",
+   "title": "Former US national security adviser confronted by students on Gaza",
    "summary": [
-    "More than 140 Kenyan athletes suspended by the Athletics Integrity Unit since 2017, most of them distance runners."
+    "Former US National Security Adviser Jake Sullivan was confronted by student protesters during a speaking event at MIT."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/sports/2026/11/20/kenyas-growing-doping-crisis-overshadows-legacy-as-athletics-powerhouse?traffic_source=rss",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/former-us-national-security-adviser-confronted-by-students-on-gaza?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-20T09:16:30Z",
+   "published_at": "2026-11-20T18:51:26Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "6edc9b97feb8dc8fa2d6025beefc17c6235c0eb2",
-   "title": "The U.K. and EU hold a rare summit to strengthen ties",
+   "id": "7a65904af0ba1b33e5775cfbbac1da62cb3c6713",
+   "title": "‘Worth fighting for’: senators vow to restore financial watchdog agency after Guardian investigation",
    "summary": [
-    "A decade after the people of Britain voted to leave the European Union, top EU officials are meeting with Prime Minister Andy Burnham on Friday, looking to mend more fences.(Image credit: Stefan Rousseau)"
+    "In many of these recent complaints, consumers described the same issues the CFPB’s suits had sought to address."
    ],
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/20/g-s1-154576/uk-eu-summit",
-   "image": null,
-   "published_at": "2026-11-20T09:14:41Z",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/20/senators-consumer-financial-protection-bureau",
+   "image": "https://i.guim.co.uk/img/media/bf91efdbdec6fadcddfce048f1aadcc56d9e79ca/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b2e5e5afe977dcf8bc51bcfbcf5aec3c",
+   "published_at": "2026-11-20T18:51:16Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "f136b0739c9453f8e054367c5cf21c4f5bdde5f3",
-   "title": "The U.S. national cyber director is stepping down",
+   "id": "5733aa2a7beb074458eb1b8cb75f933c8a2982be",
+   "title": "Lauren Boebert says Trump ‘did some things to hurt’ her constituents",
    "summary": [
-    "The news comes as businesses across the country report a flurry of technical outages, the causes of which are still unknown."
+    "Controversial Colorado Republican narrowly lost House seat in midterms but says ‘I’m not mad at the president’Lauren Boebert says Donald Trump “did some things that hurt” her constituents before they voted the pugnacious Colorado Republican out of her US House seat during midterm elections, which saw her and the president’s party lose control of Congress.“This could be a referendum on President Trump,” Boebert said to the Associated Press in an interview published on Friday. “It could be the referendum on Congress or the Republican party.",
+    "I think it’s all of it."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/20/lauren-boebert-trump-midterms",
+   "image": "https://i.guim.co.uk/img/media/be6a5eef64defea746f46320afd8fdcddb4bf12a/613_0_6829_5464/master/6829.jpg?width=140&quality=85&auto=format&fit=max&s=bee1b09efd23ab63c188bbd9180ab96f",
+   "published_at": "2026-11-20T18:51:09Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "e089eebd0d7679e02b267e4552d97a018536c9a3",
+   "title": "Swimming lessons offer Gaza’s children a moment of relief",
+   "summary": [
+    "Palestinian children gathered along Gaza’s coast for swimming lessons, finding relief from the psychological toll of war"
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_swimming-lessons-offer-gazas-children-relief-201126?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-20T18:43:37Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "9aa0b9eaddd363c6f45d6bfc5a51877d2f88e6c4",
+   "title": "Ukraine strikes Kerch Bridge as Putin ally declares ‘no one needs Europe’",
+   "summary": [
+    "Russia-Europe tensions rise as Ukraine uses its own weapons and communications tech to hit the Kerch Bridge."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/20/ukraine-strikes-kerch-bridge-as-putin-ally-declares-no-one-needs?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-20T18:37:35Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "22f5eaecb09c50bc91525be56cf61f68a3a23cf0",
+   "title": "Florida mechanic found guilty of murdering British woman who attorney says came to US to die",
+   "summary": [
+    "Dwain Hall was convicted of stabbing Sonia Exelby, a music teacher who prosecutors say suffered from mental illnessA Florida mechanic has been found guilty of stabbing to death a British music teacher, whom he convinced to travel to the United States.Dwain Hall, an auto repair and tow truck driver, groomed 32-year-old Sonia Exelby from Portsmouth, England, on a fetish website before luring her to the US."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/20/florida-man-guilty-murder-british-woman",
+   "image": "https://i.guim.co.uk/img/media/68822b4af6e85f21c7ca85d279e5ad43ec97d7f0/0_739_4252_3402/master/4252.jpg?width=140&quality=85&auto=format&fit=max&s=92f25a5d55d0fad5b5507d63e8834c52",
+   "published_at": "2026-11-20T18:36:30Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "799e86da778639c83b4a857fd21857503d3fdaec",
+   "title": "Spain frees wealthy US-sought activist on bail as Irish police raid Dublin home",
+   "summary": [
+    "Pro-Palestinian donor James ‘Fergie’ Chambers released as court considers extradition requestIn a blur of events surrounding the Trump administration’s effort to extradite James “Fergie” Chambers, Spain released the wealthy US activist and donor on bail even as Irish police raided a Dublin house owned by Chambers and his partner, Stella Schnabel, acting on a request from US authorities.Chambers’s case is the first known instance of the US seeking to extradite a citizen over alleged support for Hamas, an accusation apparently tied to an international money-laundering charge in the criminal complaint underpinning the extradition request and donations to organizations helping Palestinians in Gaza."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/20/james-fergie-chambers-bail-spain",
+   "image": "https://i.guim.co.uk/img/media/74547b1071ce9ebdb86931120adc604b11828149/468_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=71dbb87ded0ef40e5be44df05d5646f2",
+   "published_at": "2026-11-20T18:34:13Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "ff99aaed410cb844d71b1dcd2680fb9b2c933fee",
+   "title": "Super-hot rock geothermal could end data center energy woes",
+   "summary": [
+    "New geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere."
    ],
    "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
+   "url": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
    "image": null,
-   "published_at": "2026-11-20T09:14:19Z",
+   "published_at": "2026-11-20T18:34:00Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "0ddfc9e8c6484e0b27fd6f84a8781fb58c3d7f54",
-   "title": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars",
+   "id": "11e49cad6848a494d488d9da57b135da1bb6fd07",
+   "title": "Princeton doctoral student reportedly detained by ICE on way back from conference",
    "summary": [
-    "Article URL: https://ecohustler.com/article/one-corporation-to-pollute-them-all/ Comments URL: https://news.ycombinator.com/item?id=50572116 Points: 31 # Comments: 6"
+    "Eva Yi Xie was taken into custody at Washington DC airport after presenting research at neuroscience conferenceA Princeton University doctoral student has reportedly been taken into custody by US Immigration and Customs Enforcement (ICE) after traveling to Washington DC, for a neuroscience conference.Eva Yi Xie, a third-year PhD candidate at the Princeton Neuroscience Institute, was detained Thursday at a Washington-area airport, according to university officials and her colleagues."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/20/princeton-doctoral-student-reportedly-detained-ice",
+   "image": "https://i.guim.co.uk/img/media/a2b6e6d017d543b1b4713dc52b5d59d514b1068a/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=5a31f1b45ae7c89839b5952679be4e52",
+   "published_at": "2026-11-20T18:33:17Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "04e4de98579780fa17f96e46d2e5ca465799d5b8",
+   "title": "Hurried Announcement: Alessandro Masullo GRH",
+   "summary": [
+    "Article URL: https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/ Comments URL: https://news.ycombinator.com/item?id=50579568 Points: 544 # Comments: 192"
    ],
    "source": "Hacker News",
-   "url": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
+   "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
    "image": null,
-   "published_at": "2026-11-20T09:13:09Z",
+   "published_at": "2026-11-20T18:33:14Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "9a0b2f5cf1dbb713c82e7d7d0bb63b384545cec6",
-   "title": "Pakistan minister visits India for first time since 2025 war",
+   "id": "2fbf7457ddde467e3552f244844ab21fba36439c",
+   "title": "LA Rams star Puka Nacua faces months out after knee surgery amid NFL suspension",
    "summary": [
-    "Islamabad and New Delhi insist the visit is strictly multilateral, despite hopes it could open a channel for contact."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news-analysis/2026/11/20/pakistan-minister-visits-india-for-first-time-since-2025-war?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-20T09:11:57Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "34ed9397c7f7d687a6be66b6eca304ee356a17d5",
-   "title": "California’s coastal communities on alert as biggest waves in years hit state",
-   "summary": [
-    "Beaches and piers were closed last weekend as large waves crashed into California’s coastline.",
-    "The Monterey, California, buoy recorded a wave height of 34.1ft, which would make it the highest reading in 30 years.Coastal warnings extended from last weekend through this week, with alerts extending until Friday night.",
-    "Into this weekend, a further area of low pressure will bring considerable amounts of moisture for southern Oregon and northern California."
+    "McVay’s comments came one day after Nacua was suspended for three games for violating the NFL’s personal conduct policy.",
+    "The league was unaware that the 25-year-old had already undergone surgery when it imposed the suspension, ESPN reported on Friday."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
-   "image": "https://i.guim.co.uk/img/media/5fa16e1c9eefe44e08e715a5f83a895ce2dd9ea6/376_0_2493_1995/master/2493.jpg?width=140&quality=85&auto=format&fit=max&s=cd548202b629035c561b80f699fa5ef7",
-   "published_at": "2026-11-20T09:03:20Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "7ab8caed3c676c4cb6007750bf6bfb6a4534b7f9",
-   "title": "British Library to outsource security and ‘repurpose’ reading rooms as business spaces",
-   "summary": [
-    "Their union, the PCS, has in turn been informed that STM has rejected union recognition for those staff."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/books/2026/nov/20/british-library-outsource-security-reading-rooms-business-spaces",
-   "image": "https://i.guim.co.uk/img/media/19552496ade8f26d62d72ca1831693c44383efd3/452_0_4470_3576/master/4470.jpg?width=140&quality=85&auto=format&fit=max&s=50ae13b1c22b8976198419d50cacc568",
-   "published_at": "2026-11-20T09:00:27Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "d02bb92be1d052901a98b5eaa2dc8571fad1c39d",
-   "title": "Russia’s day-long attack on Kyiv damages embassies",
-   "summary": [
-    "Russia’s day-long attack on Kyiv damages embassies"
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/russias-day-long-attack-on-kyiv-damages-embassies?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-20T08:56:08Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "88355a379fdb291420c2e220c6eee16d244d505b",
-   "title": "NCCIA arrests suspect over alleged sale of stolen US government data in Karachi",
-   "summary": [
-    "According to the agency, further investigations revealed that the suspect allegedly received payments for the stolen data through cryptocurrency transactions, including Bitcoin.",
-    "A day earlier, the agency claimed to have uncovered an extensive financial network allegedly involved in illegal online betting and gambling, fraudulent business operations and suspected money laundering, with an estimated transaction exposure of up to Rs1 trillion.",
-    "Earlier this month, NCCIA reportedly arrested 130 suspects, including nine women and four foreign nationals, during multiple operations against international cyber fraud networks, illegal call centres, the sale of citizens’ personal data and online blackmailing."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2045889/nccia-arrests-suspect-over-alleged-sale-of-stolen-us-government-data-in-karachi",
-   "image": "https://i.dawn.com/large/2026/11/20131752259a563.jpg",
-   "published_at": "2026-11-20T08:54:43Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "c8ab7ff78dd0aabd2b02ee29a99208b437feb5d3",
-   "title": "Household rush to stockpile emergency supplies sends British retail sales soaring",
-   "summary": [
-    "Surge fuelled by ‘preppers’ heeding Be Ready campaign’s call for households to have three days of food and water for emergenciesBusiness live – latest updatesRetail sales in Great Britain surged last month as the public rushed to buy products including tinned food and long-life milk, after the government issued a warning to stock up in case of a disaster.The Office for National Statistics (ONS) said that the volume of goods sold jumped by 0.7% month-on month in October, defying economists’ consensus expectations of flat sales, as “preppers” took heed of the government’s Be Ready campaign to hold supplies to last 72 hours to survive a possible extreme weather event, cyber incident or another serious emergency."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/20/rush-stockpile-emergency-supplies-sends-british-retail-sales-soaring",
-   "image": "https://i.guim.co.uk/img/media/2ccdf36f045447e0767df30dacd0ecc106d0d8c9/676_0_6759_5408/master/6759.jpg?width=140&quality=85&auto=format&fit=max&s=8dfcf0e5064769f2391ce1d79f2bf36a",
-   "published_at": "2026-11-20T08:36:13Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "c410bd36e0a860575001d2949b52da80b4b8a95d",
-   "title": "Once unthinkable, Trump-Xi-Putin summit makes Russia and Beijing the biggest winners",
-   "summary": [
-    "SHENZHEN: In a capacious reception room within a sprawling hillside resort in the southern Chinese tech hub Shenzhen, the leaders of the world’s three biggest powers sat at a round table and spoke for 90 minutes in a meeting that was once unthinkable.",
-    "Analysts told The Straits Times that all three leaders appeared to have gotten something out of the trilateral meeting, with Beijing and Russia the biggest winners.",
-    "Hoo said the joint statement from the three leaders was a minor achievement, but a low-hanging fruit. “The meeting was certainly more symbolism than substance."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2045892/once-unthinkable-trump-xi-putin-summit-makes-russia-and-beijing-the-biggest-winners",
-   "image": "https://i.dawn.com/large/2026/11/2013214767691a3.webp",
-   "published_at": "2026-11-20T08:24:59Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "882a979c15efa0aa3e2a4c813887f704fe8754ad",
-   "title": "EFL preview: Evans' gripes & unexpected departures",
-   "summary": [
-    "BBC Sport explores five things to capture your attention this EFL weekend."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/articles/crwy4wl1n0q2o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-20T08:24:38Z",
+   "url": "https://www.theguardian.com/sport/2026/nov/20/puka-nacua-rams-knee-surgery-suspension-daniel-jones-colts-release",
+   "image": "https://i.guim.co.uk/img/media/47934bce0c1ec6e5df6fc7d8b93ff203e07a23fe/614_0_3059_2448/master/3059.jpg?width=140&quality=85&auto=format&fit=max&s=ad42a6644927887b73eaa05706cf23ac",
+   "published_at": "2026-11-20T18:32:01Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "ed220e25d6dafea0252519d77745975245180cdb",
-   "title": "Joanne Young praised for bravery in exposing rape by husband and strangers",
+   "id": "b96eb16e4758d7f1d852621f956c33e7c1873dd7",
+   "title": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
    "summary": [
-    "Her decision to waive her anonymity and attend court has drawn comparisons to Gisèle Pelicot, who was drugged and raped by her husband as well as dozens of strangers in France.",
-    "Waiving her right to anonymity, Pelicot said shame “must change sides”."
+    "A federal judge in Virginia said she will issue a preliminary injunction against Trump's arch, going a step further than the D.C. federal judge who temporarily blocked construction earlier this week."
+   ],
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington",
+   "image": null,
+   "published_at": "2026-11-20T18:25:09Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "ab96d4d31437bc69f512f1fefd105e056f51b8dc",
+   "title": "Indian man sentenced to 19 years in prison for conspiring to kill Sikh separatist in New York",
+   "summary": [
+    "Nikhil Gupta admitted to plotting with Indian government official to hire hitman to murder dual US-Canadian citizenAn Indian ⁠man was sentenced to more ⁠than 19 ​years in US prison on Friday after admitting to orchestrating a failed Indian government-backed plot to kill a Sikh separatist in New York ⁠City, in connection with what US and Canadian authorities have called a broader effort to target Indian dissidents.Nikhil Gupta, 55, pleaded guilty in February to murder-for-hire, conspiracy ⁠to commit murder-for-hire and conspiracy to commit money laundering."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/society/2026/nov/20/joanne-young-drugged-raped-by-husband-praised-bravery-anonymity",
-   "image": "https://i.guim.co.uk/img/media/73c77c52c51ef56affefe47af014e07e9badd691/586_609_1167_933/master/1167.jpg?width=140&quality=85&auto=format&fit=max&s=e150d8ce40e25d00d1cd0156835d40bd",
-   "published_at": "2026-11-20T08:22:16Z",
+   "url": "https://www.theguardian.com/us-news/2026/nov/20/indian-man-sentenced-prison-murder-plot-sikh-separatist",
+   "image": "https://i.guim.co.uk/img/media/9685e16f610038a3820904f81eb1dba749b72664/117_0_2813_2250/master/2813.jpg?width=140&quality=85&auto=format&fit=max&s=2cc6f42b367b6b3ca3cc23ff3443d4ff",
+   "published_at": "2026-11-20T18:24:12Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "7fee05843c77fd2336a17e4872d0665b63bb05be",
-   "title": "El Salvador’s Bukele seeks third term after constitution change",
+   "id": "1dbd628dcd3565fb7108ea50f9cb9542fea7816b",
+   "title": "Misty-eyed Burnham gambles on closer ties with EU as he throws down gauntlet to Tories and Reform",
    "summary": [
-    "Critics accuse populist president of engineering a de facto one-party state in El Salvador."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-seeks-third-term-after-constitution-change?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-20T08:21:34Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "5107e59575ddcbbf4f0d9e7d74cddbbd36c39034",
-   "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
-   "summary": [
-    "Two sides find provisional compromise on scheme but food and farming negotiations go down to the wireUK-EU summit live – latest news updatesBritish and European negotiators were closing in on a reset deal on Thursday night as they provisionally agreed to allow 100,000 EU citizens to come to the UK every year under a new mobility scheme.It is understood the EU dropped its demands at the last minute that its students should pay home tuition fees if they attended British universities in a concession to get the deal over the line."
+    "But Burnham’s political gamble on closer ties with Brussels hinges on the assumption that most British voters feel this way as well."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
-   "image": "https://i.guim.co.uk/img/media/a336fb77a4aa4c7e47ea3fc416e63babf551e1e9/649_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=59e8936dc61b7951952736b81b586620",
-   "published_at": "2026-11-20T08:19:28Z",
+   "url": "https://www.theguardian.com/politics/2026/nov/20/andy-burnham-uk-eu-brussels-summit",
+   "image": "https://i.guim.co.uk/img/media/298e2e76a81f2b29227315e2f639e4892114e948/507_0_4299_3440/master/4299.jpg?width=140&quality=85&auto=format&fit=max&s=3ae557580f5a65931c10fbaded2c7434",
+   "published_at": "2026-11-20T18:22:50Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "a6a238d5dcf3d3010822708f4c739c4284bd3fb6",
-   "title": "Refereeing will never be perfect - Farrell",
+   "id": "bcffeb52063fa6ceec0eacc25112719e082e957a",
+   "title": "Two men killed after glider crashes into Loch Leven in Scotland",
    "summary": [
-    "Ireland head coach Andy Farrell says refereeing in rugby is \"never going to be perfect\" because it is such a complex sport."
+    "The pair had taken off from the Scottish Gliding Centre at nearby Portmoak on a training flightTwo men have been killed after their glider crashed into Loch Leven, a large body of water in Perth and Kinross, on Friday morning.Police Scotland said their bodies were recovered from the loch by the emergency services after the alarm was raised at 11.05am on Friday."
    ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cqe9k80zjk2yo?at_medium=RSS&at_campaign=rss",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/20/glider-crash-loch-leven-scotland",
+   "image": "https://i.guim.co.uk/img/media/91c77301e443dd89b1325be4f66e27579f7324be/188_27_3719_2975/master/3719.jpg?width=140&quality=85&auto=format&fit=max&s=f7df03cf743c59650951c56622df1dd2",
+   "published_at": "2026-11-20T18:20:09Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "b05464920f2e05935860dbc64bea44d5a39af05b",
+   "title": "What exactly is in the deal between the UK and the EU?",
+   "summary": [
+    "The two sides have come to agreements on food and drink, emissions trading and the youth exchange schemeBurnham has agreed EU reset deal with tuition fees issue unresolved, says No 10After months of on-off negotiations, leaks and late nights, the EU and UK have agreed a 12-page statement setting out the next steps in their relationship.",
+    "What exactly have they agreed?"
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/nov/20/what-is-in-deal-between-uk-eu-explainer",
+   "image": "https://i.guim.co.uk/img/media/7dc3c60fa8338bc5ee1369a6d31d699690231550/148_0_2427_1942/master/2427.jpg?width=140&quality=85&auto=format&fit=max&s=408ad629bea9f26f5474edd3bed42498",
+   "published_at": "2026-11-20T18:19:53Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "e1a223b73868864c0b2e849ddd1a4b18eb899db1",
+   "title": "We promoted developers into architects without informing them",
+   "summary": [
+    "Article URL: https://manidoraisamy.com/developer-to-architect.html Comments URL: https://news.ycombinator.com/item?id=50579331 Points: 76 # Comments: 38"
+   ],
+   "source": "Hacker News",
+   "url": "https://manidoraisamy.com/developer-to-architect.html",
    "image": null,
-   "published_at": "2026-11-20T08:05:21Z",
+   "published_at": "2026-11-20T18:17:51Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "80154fe65d348e4eea809957b4b9d45fe5e1739d",
+   "title": "Denmark to expel Russian diplomat over alleged Moscow link to attempted killing of rapper",
+   "summary": [
+    "The expulsion will happen within seven days."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
+   "image": "https://i.guim.co.uk/img/media/7a1c4d4674629a24286f9343122e2c3d6d8fc9cb/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=1409e3209b705fa5f723d3e840a5bdf6",
+   "published_at": "2026-11-20T18:16:12Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "c6ed1705f96824b86dc03544fc9aa9fdb50fe594",
+   "title": "Our guide to every NFL Week 11 game: Matchup previews, predictions, picks and nuggets",
+   "summary": [
+    "There are 12 more games in Week 11, and we have picks, key stats and more for all of them."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/nfl/story/_/id/50522208/week-11-picks-predictions-schedule-fantasy-odds-2026",
+   "image": null,
+   "published_at": "2026-11-20T18:15:44Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "535cb73ed75e0431c409bbfdbce7349458756e7e",
-   "title": "Chess: Carlsen’s winless sequence at Budapest risks loss of world No 1 spot and 2800 rating",
+   "id": "3e30621eb1a8fdcade2d173049e03ff2064cd0f5",
+   "title": "Vibecoding an Inference Chip",
    "summary": [
-    "The Norwegian had to compete for 17th place and defaulted both classical games rather than risk a draw or loss over-the-boardMagnus Carlsen is fighting to save his elite status as the world No 1 chess player and his 2800+ rating after the Norwegian, 35, suffered a dramatic form collapse at the Total World Championship Pilot in Budapest.A run of 10 winless games, including a loss to Armenia’s Haik Martirosyan, meant Carlsen, who was expected to qualify for the top four, instead met Kazakhstan’s Bibisara Assaubayeva in a semi-final for 17th-20th places."
+    "Article URL: https://ankitg.me/blog/vibecoding-inference-chip/ Comments URL: https://news.ycombinator.com/item?id=50579297 Points: 38 # Comments: 11"
    ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/sport/2026/nov/20/chess-magnus-carlsen-winless-world-no1-spot-2800-rating",
-   "image": "https://i.guim.co.uk/img/media/3346ed6bd86fd30ba58a4d4322e6cd4fc4c1c932/138_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=1ec1caa0132759fe0bce58ccd1142f81",
-   "published_at": "2026-11-20T08:00:27Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "96258bd38c2dd809e141d02c3076e688eabc5e41",
-   "title": "Senior Tories urge Badenoch to drop Brexit talk in major strategy shift, sources say",
-   "summary": [
-    "Exclusive: While PM pushes for EU reset, Tory leader is moving away from ‘divisive’ issue that defined party for yearsUK-EU summit live: latest news updatesKemi Badenoch has been advised by her team to limit the amount of time she spends discussing Brexit and Europe, the Guardian has been told, moving the Conservatives away from an issue that defined the party for many years.While the Tory leader still gives views on Brexit – in an opinion piece in the Daily Mail on Thursday she condemned Andy Burnham’s ongoing reset with the EU as a “backwards” move – sources say it is now seen as a second-order subject."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/20/kemi-badenoch-brexit-eu-conservatives",
-   "image": "https://i.guim.co.uk/img/media/6651d6665ae5290a9aa6da8c2e030ac90ebdb1bd/144_282_3818_3054/master/3818.jpg?width=140&quality=85&auto=format&fit=max&s=36a08271517efe796797c7ebcddbfe09",
-   "published_at": "2026-11-20T08:00:26Z",
-   "category": "world",
+   "source": "Hacker News",
+   "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
+   "image": null,
+   "published_at": "2026-11-20T18:15:16Z",
+   "category": "tech",
    "related": []
   }
  ]

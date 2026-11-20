@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-20T11:22:44.072105Z",
+ "generated_at": "2026-11-20T19:59:40.801126Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "ok",
-  "https://www.dawn.com/feeds/pakistan": "ok",
+  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,25 +20,364 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
+  "https://www.espn.com/espn/rss/news": "ok"
  },
  "stories": [
   {
-   "id": "974fdeb4375ac4138877548159e9787cde117d56",
-   "title": "Three Kyiv bridges hit during major Russian missile attack",
+   "id": "1dccf9ebd12f2dad7b43769ee76a5da22b08816c",
+   "title": "Palestinian anti-Hamas groups accused of role in Israel Gaza operation",
    "summary": [
-    "Five people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge."
+    "Israeli-backed Palestinian militias accused of expanding operations, raising concerns over their role in Gaza’s security"
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/20/palestinian-anti-hamas-groups-accused-of-role-in-israel-gaza-operation?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-20T19:57:05Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "4fa85ae7ae72f7606b8929d2716fa7f985e84f65",
+   "title": "Trump threatens ban on US firms building AI data centres overseas",
+   "summary": [
+    "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time."
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-20T11:12:57Z",
+   "published_at": "2026-11-20T19:51:52Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "c7c292cd88703f22872486be51346c7945621a60",
+   "title": "Gérard Depardieu and French author investigated over sexual allegations",
+   "summary": [
+    "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\"."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-20T19:45:20Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "c5c36dcfc675bf32b714ccc4cd494e4c13f83ce9",
+   "title": "Indian man sentenced to 19 years in US Sikh separatist assassination plot",
+   "summary": [
+    "Nikhil Gupta jailed for conspiring to hire a hitman to kill New York-based Sikh leader, Gurpatwant Singh Pannun."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/20/indian-man-sentenced-to-19-years-in-us-sikh-separatist-assassination-plot?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-20T19:40:07Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "5f9e6b5ffe183b7e545828556e6b67adf72de0e3",
+   "title": "JP Morgan boss says he will set ‘example’ in offsetting UK tax hike on banks",
+   "summary": [
+    "Jamie Dimon said he would seek to claw back added costs of ‘unfair penalties’ as bank surcharge rises in JanuaryJamie Dimon, the chief executive of JP Morgan, has said he will find ways to offset the chancellor’s tax rise for banks, calling the increase unfair.Speaking at an event in London on Thursday, Dimon said he would seek to claw back the increase and was “setting an example so that [governments] understand the trade-offs of these unfair penalties”."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/20/jp-morgan-jamie-dimon-uk-tax-hike-bank-surcharge",
+   "image": "https://i.guim.co.uk/img/media/a2ea0114fa7d8b930b2b6fb3b7c565d76348f5f3/0_0_3028_2423/master/3028.jpg?width=140&quality=85&auto=format&fit=max&s=ac2ad95e3893c94c9fe2d7c13f030ea9",
+   "published_at": "2026-11-20T19:38:59Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "4dfd121c6c304146b7aafc19578f7f571e4f5d99",
+   "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+   "summary": [
+    "Other tech companies have also taken a hit as share markets broadly slump."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-20T19:38:46Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "ac72bf8df42ae789af261042d5099d11ec47f770",
+   "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+   "summary": [
+    "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-20T19:27:49Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "0daedfcfd6e95a65fd1da184dbc12b28a541308a",
+   "title": "Nepal cricket fans celebrate their team’s global rise",
+   "summary": [
+    "Nepal’s cricket fans have witnessed a transformation in their national team’s fortunes in recent years."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/nepal-cricket-fans-celebrate-their-teams-global-rise?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-20T19:24:26Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "c262f425bba41b2e6c0fbb4a469c67622432280b",
+   "title": "Home Alone sequel reportedly in development with Macaulay Culkin returning",
+   "summary": [
+    "The new Home Alone film will bring the 46-year-old back to the franchise as Kevin McCallister for a comedy that, according to Deadline, will be from the father’s point of view."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/film/2026/nov/20/home-alone-sequel-macaulay-culkin",
+   "image": "https://i.guim.co.uk/img/media/934c182e9fa7feae129f366be38ebe9b1a067b4b/94_0_2400_1920/master/2400.jpg?width=140&quality=85&auto=format&fit=max&s=ef2a63347fd9754baeea3f315a856543",
+   "published_at": "2026-11-20T19:18:20Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "497402baaf1855b74a029c90898caf0155fb3535",
+   "title": "Belgrade mayor charged with assaulting opposition politician in Serbia",
+   "summary": [
+    "Prosecutors say Aleksandar Sapic caused serious facial injuries to a female councillor and seek a three-year sentence."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/20/belgrade-mayor-charged-with-assaulting-opposition-politician-in-serbia?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-20T19:15:18Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "2fe9522e0a256010eae99605a082c8031d226787",
+   "title": "What are the implications of the ICJ Rohingya genocide ruling?",
+   "summary": [
+    "Verdict against Myanmar may have implications for Israel's genocide in Gaza."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/inside-story/2026/11/20/what-are-the-implications-of-the-icj-rohingya-genocide-ruling?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-20T19:12:14Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "2af93e3b8100433ca68f806b0cdab544d4b157d7",
+   "title": "White House removes cyber-security chief after series of tech outages",
+   "summary": [
+    "He has been fired after losing the confidence of new White House chief of staff Stephen Miller, according to reports."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-20T19:03:56Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "df67e737aa0fce20ee9999bb8cd187a70e30add8",
+   "title": "Police arrest teacher who missed sentencing after indecent assault conviction",
+   "summary": [
+    "Sally-Anne Bowen was found guilty of having sexual relationships with two pupils at a boys’ school in the 1980sA chemistry teacher who had sexual relationships with two pupils at a boys’ school in the late 1980s has been arrested by police in Hampshire after she failed to turn up to her sentencing hearing.Sally-Anne Bowen, 65, could not be found at her home by Metropolitan police officers on Friday morning after a warrant was issued for her arrest, a court heard."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/20/sally-anne-bowen-police-search-teacher-missed-court-sentencing",
+   "image": "https://i.guim.co.uk/img/media/311ab8da7f054396f1dd576b47069e8b03792e22/304_0_4120_3296/master/4120.jpg?width=140&quality=85&auto=format&fit=max&s=b9430c6c19047b5b3153fa6497e7885e",
+   "published_at": "2026-11-20T19:00:11Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "54036e47f4a96186308142f1eac992035d8d946b",
+   "title": "Former US national security adviser confronted by students on Gaza",
+   "summary": [
+    "Former US National Security Adviser Jake Sullivan was confronted by student protesters during a speaking event at MIT."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/former-us-national-security-adviser-confronted-by-students-on-gaza?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-20T18:51:26Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "7a65904af0ba1b33e5775cfbbac1da62cb3c6713",
+   "title": "‘Worth fighting for’: senators vow to restore financial watchdog agency after Guardian investigation",
+   "summary": [
+    "In many of these recent complaints, consumers described the same issues the CFPB’s suits had sought to address."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/20/senators-consumer-financial-protection-bureau",
+   "image": "https://i.guim.co.uk/img/media/bf91efdbdec6fadcddfce048f1aadcc56d9e79ca/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b2e5e5afe977dcf8bc51bcfbcf5aec3c",
+   "published_at": "2026-11-20T18:51:16Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "5733aa2a7beb074458eb1b8cb75f933c8a2982be",
+   "title": "Lauren Boebert says Trump ‘did some things to hurt’ her constituents",
+   "summary": [
+    "Controversial Colorado Republican narrowly lost House seat in midterms but says ‘I’m not mad at the president’Lauren Boebert says Donald Trump “did some things that hurt” her constituents before they voted the pugnacious Colorado Republican out of her US House seat during midterm elections, which saw her and the president’s party lose control of Congress.“This could be a referendum on President Trump,” Boebert said to the Associated Press in an interview published on Friday. “It could be the referendum on Congress or the Republican party.",
+    "I think it’s all of it."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/20/lauren-boebert-trump-midterms",
+   "image": "https://i.guim.co.uk/img/media/be6a5eef64defea746f46320afd8fdcddb4bf12a/613_0_6829_5464/master/6829.jpg?width=140&quality=85&auto=format&fit=max&s=bee1b09efd23ab63c188bbd9180ab96f",
+   "published_at": "2026-11-20T18:51:09Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "e089eebd0d7679e02b267e4552d97a018536c9a3",
+   "title": "Swimming lessons offer Gaza’s children a moment of relief",
+   "summary": [
+    "Palestinian children gathered along Gaza’s coast for swimming lessons, finding relief from the psychological toll of war"
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_swimming-lessons-offer-gazas-children-relief-201126?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-20T18:43:37Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "9aa0b9eaddd363c6f45d6bfc5a51877d2f88e6c4",
+   "title": "Ukraine strikes Kerch Bridge as Putin ally declares ‘no one needs Europe’",
+   "summary": [
+    "Russia-Europe tensions rise as Ukraine uses its own weapons and communications tech to hit the Kerch Bridge."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/20/ukraine-strikes-kerch-bridge-as-putin-ally-declares-no-one-needs?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-20T18:37:35Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "22f5eaecb09c50bc91525be56cf61f68a3a23cf0",
+   "title": "Florida mechanic found guilty of murdering British woman who attorney says came to US to die",
+   "summary": [
+    "Dwain Hall was convicted of stabbing Sonia Exelby, a music teacher who prosecutors say suffered from mental illnessA Florida mechanic has been found guilty of stabbing to death a British music teacher, whom he convinced to travel to the United States.Dwain Hall, an auto repair and tow truck driver, groomed 32-year-old Sonia Exelby from Portsmouth, England, on a fetish website before luring her to the US."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/20/florida-man-guilty-murder-british-woman",
+   "image": "https://i.guim.co.uk/img/media/68822b4af6e85f21c7ca85d279e5ad43ec97d7f0/0_739_4252_3402/master/4252.jpg?width=140&quality=85&auto=format&fit=max&s=92f25a5d55d0fad5b5507d63e8834c52",
+   "published_at": "2026-11-20T18:36:30Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "799e86da778639c83b4a857fd21857503d3fdaec",
+   "title": "Spain frees wealthy US-sought activist on bail as Irish police raid Dublin home",
+   "summary": [
+    "Pro-Palestinian donor James ‘Fergie’ Chambers released as court considers extradition requestIn a blur of events surrounding the Trump administration’s effort to extradite James “Fergie” Chambers, Spain released the wealthy US activist and donor on bail even as Irish police raided a Dublin house owned by Chambers and his partner, Stella Schnabel, acting on a request from US authorities.Chambers’s case is the first known instance of the US seeking to extradite a citizen over alleged support for Hamas, an accusation apparently tied to an international money-laundering charge in the criminal complaint underpinning the extradition request and donations to organizations helping Palestinians in Gaza."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/20/james-fergie-chambers-bail-spain",
+   "image": "https://i.guim.co.uk/img/media/74547b1071ce9ebdb86931120adc604b11828149/468_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=71dbb87ded0ef40e5be44df05d5646f2",
+   "published_at": "2026-11-20T18:34:13Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "11e49cad6848a494d488d9da57b135da1bb6fd07",
+   "title": "Princeton doctoral student reportedly detained by ICE on way back from conference",
+   "summary": [
+    "Eva Yi Xie was taken into custody at Washington DC airport after presenting research at neuroscience conferenceA Princeton University doctoral student has reportedly been taken into custody by US Immigration and Customs Enforcement (ICE) after traveling to Washington DC, for a neuroscience conference.Eva Yi Xie, a third-year PhD candidate at the Princeton Neuroscience Institute, was detained Thursday at a Washington-area airport, according to university officials and her colleagues."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/20/princeton-doctoral-student-reportedly-detained-ice",
+   "image": "https://i.guim.co.uk/img/media/a2b6e6d017d543b1b4713dc52b5d59d514b1068a/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=5a31f1b45ae7c89839b5952679be4e52",
+   "published_at": "2026-11-20T18:33:17Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "b96eb16e4758d7f1d852621f956c33e7c1873dd7",
+   "title": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
+   "summary": [
+    "A federal judge in Virginia said she will issue a preliminary injunction against Trump's arch, going a step further than the D.C. federal judge who temporarily blocked construction earlier this week."
+   ],
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington",
+   "image": null,
+   "published_at": "2026-11-20T18:25:09Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "ab96d4d31437bc69f512f1fefd105e056f51b8dc",
+   "title": "Indian man sentenced to 19 years in prison for conspiring to kill Sikh separatist in New York",
+   "summary": [
+    "Nikhil Gupta admitted to plotting with Indian government official to hire hitman to murder dual US-Canadian citizenAn Indian ⁠man was sentenced to more ⁠than 19 ​years in US prison on Friday after admitting to orchestrating a failed Indian government-backed plot to kill a Sikh separatist in New York ⁠City, in connection with what US and Canadian authorities have called a broader effort to target Indian dissidents.Nikhil Gupta, 55, pleaded guilty in February to murder-for-hire, conspiracy ⁠to commit murder-for-hire and conspiracy to commit money laundering."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/20/indian-man-sentenced-prison-murder-plot-sikh-separatist",
+   "image": "https://i.guim.co.uk/img/media/9685e16f610038a3820904f81eb1dba749b72664/117_0_2813_2250/master/2813.jpg?width=140&quality=85&auto=format&fit=max&s=2cc6f42b367b6b3ca3cc23ff3443d4ff",
+   "published_at": "2026-11-20T18:24:12Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "1dbd628dcd3565fb7108ea50f9cb9542fea7816b",
+   "title": "Misty-eyed Burnham gambles on closer ties with EU as he throws down gauntlet to Tories and Reform",
+   "summary": [
+    "But Burnham’s political gamble on closer ties with Brussels hinges on the assumption that most British voters feel this way as well."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/nov/20/andy-burnham-uk-eu-brussels-summit",
+   "image": "https://i.guim.co.uk/img/media/298e2e76a81f2b29227315e2f639e4892114e948/507_0_4299_3440/master/4299.jpg?width=140&quality=85&auto=format&fit=max&s=3ae557580f5a65931c10fbaded2c7434",
+   "published_at": "2026-11-20T18:22:50Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "bcffeb52063fa6ceec0eacc25112719e082e957a",
+   "title": "Two men killed after glider crashes into Loch Leven in Scotland",
+   "summary": [
+    "The pair had taken off from the Scottish Gliding Centre at nearby Portmoak on a training flightTwo men have been killed after their glider crashed into Loch Leven, a large body of water in Perth and Kinross, on Friday morning.Police Scotland said their bodies were recovered from the loch by the emergency services after the alarm was raised at 11.05am on Friday."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/20/glider-crash-loch-leven-scotland",
+   "image": "https://i.guim.co.uk/img/media/91c77301e443dd89b1325be4f66e27579f7324be/188_27_3719_2975/master/3719.jpg?width=140&quality=85&auto=format&fit=max&s=f7df03cf743c59650951c56622df1dd2",
+   "published_at": "2026-11-20T18:20:09Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "80154fe65d348e4eea809957b4b9d45fe5e1739d",
+   "title": "Denmark to expel Russian diplomat over alleged Moscow link to attempted killing of rapper",
+   "summary": [
+    "The expulsion will happen within seven days."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
+   "image": "https://i.guim.co.uk/img/media/7a1c4d4674629a24286f9343122e2c3d6d8fc9cb/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=1409e3209b705fa5f723d3e840a5bdf6",
+   "published_at": "2026-11-20T18:16:12Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "61854d96040f3cd91a43413a9f3185086ac35602",
+   "title": "No one else in Reform is suitable to lead the party, Nigel Farage says",
+   "summary": [
+    "Farage issues warning to potential rivals and says he will fight next election as leader if ‘still here and fit and healthy’Nigel Farage has said he does not see another person who could do his job as leader of Reform UK, in a warning shot to potential rivals who might seek to replace him.The Reform UK leader delivered a message that he was going nowhere despite his worries over his personal safety in the wake of the killing of the Reform politician Ann Widdecombe."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/nov/20/nigel-farage-leadership-reform-uk-party",
+   "image": "https://i.guim.co.uk/img/media/f8e40ebdb59af4c88a35f0a5831e5d5d9dafb33f/0_183_3993_3194/master/3993.jpg?width=140&quality=85&auto=format&fit=max&s=0a8a7c5d4ac9722f7aba06c960582f4b",
+   "published_at": "2026-11-20T18:11:25Z",
    "category": "world",
    "related": []
   },
   {
    "id": "c8606f7a59d7ed6271509f467e072cd821b52b98",
-   "title": "UK says EU reset deal agreed but talks will continue ‘in some areas’ – live",
+   "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
    "summary": [
     "But the move to make the food and drink deal also contingent on a tuition fees deal effectively seeks to neutralise the leverage the UK gets today.",
     "This is a serious chess game and shows the EU, again, is willing to speak very warmly about the UK but will play absolute hard ball when it comes to conceding any points to a former member state.",
@@ -46,511 +385,164 @@
    ],
    "source": "The Guardian",
    "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
-   "image": "https://i.guim.co.uk/img/media/54da6151ea7baf4c326b9f74ea0f98da416b8954/665_25_4717_3773/master/4717.jpg?width=140&quality=85&auto=format&fit=max&s=7f9bd2ca0ed392f4b3b004b12c901a6f",
-   "published_at": "2026-11-20T11:09:44Z",
+   "image": "https://i.guim.co.uk/img/media/bb99120c2f7d41fd909aef903d962db65654e712/450_38_3420_2737/master/3420.jpg?width=140&quality=85&auto=format&fit=max&s=e9208e429a579acb941382730adfcc93",
+   "published_at": "2026-11-20T17:59:55Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "de5e7ec3ba70bf382b63cea14b1451852f7a72e4",
-   "title": "Kushner says Russia OK with ‘NATO-like’ security pact for Ukraine: Is it?",
+   "id": "1efc3952f067ddc08e687f0664a84bfbd50beb3e",
+   "title": "Burnham seals trade and youth mobility deals in biggest step towards EU since Brexit",
    "summary": [
-    "NATO Article 5 says attack on one member is an attack on all.",
-    "Analysts say inclusion of Ukraine 'stretches credulity'."
+    "Agreements reached on food and drink, emissions and to allow young people to move around continent, but may be derailed over student fees Andy Burnham has taken the biggest step towards deeper ties with the EU since Brexit, sealing deals to ease trade and create a mobility scheme for young people as he declared a “new world” of cooperation between the two sides.At a major summit in Brussels on Friday the EU and UK announced three deals, on food and drink, emissions trading and a youth mobility scheme, which will allow 100,000 young Britons to live, work, study and travel in the EU, with reciprocal access for Europeans in the UK."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/nov/20/burnham-trade-youth-mobility-deals-biggest-step-towards-eu-since-brexit",
+   "image": "https://i.guim.co.uk/img/media/94e3fae494c08ea928538429f7f3a3632e56c95d/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=7330433c679e71619cbff9f2d3090fc2",
+   "published_at": "2026-11-20T17:57:10Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "c7b977dd291cabfaad30ec9f000ea994f12e1461",
+   "title": "Zohran Mamdani unveils plan to close New York’s Rikers Island jail by 2032",
+   "summary": [
+    "The plan would replace the jail complex with four smaller jails and reduce the number of people behind bars."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/20/kushner-says-russia-ok-with-nato-like-security-pact-for-ukraine-is-it?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/20/mamdani-unveils-plan-to-close-new-yorks-rikers-island-by-2032?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-20T11:01:51Z",
+   "published_at": "2026-11-20T17:54:55Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "b5e83f8af299d41d4fd767c5f990b3c79bee2d7e",
-   "title": "‘Traumatizing’: hunger striker in ICE detention tells of force-feeding ordeal – and what made him crack",
+   "id": "e93e2ca783cbde7653679b1719607eb67507cff3",
+   "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
    "summary": [
-    "Exclusive: Luis Alejandro Cora Perez says in messages to Guardian from inside Texas facility pain of force-feeding caused him to break strikeThe text message that came from inside the Immigration and Customs Enforcement (ICE) detention center was stark: “I have spent five days eating regular food.",
-    "If I don’t eat it, they put the tube in me to feed me.”A Cuban asylum seeker, Luis Alejandro Cora Perez, 32, said in messages to the Guardian this month that he was still weak and dizzy after three months without eating, but that he had broken his hunger strike because being force-fed was just too painful."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
-   "image": "https://i.guim.co.uk/img/media/c9dba855c54cae37bd9acbcb62ecc50678235bf6/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=f137ecb5f2e0490201cd4df5110dce53",
-   "published_at": "2026-11-20T11:00:31Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "4d56cf5c96859181068c2fc4b192a7652a6c7c21",
-   "title": "Emails reveal how Trump allies pushed pardons for election deniers",
-   "summary": [
-    "She knew the official, pardon attorney Ed Martin, was working on a memo outlining why those involved in the fake elector scheme should receive a presidential pardon."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/20/allies-email-trump-pardon-election-deniers",
-   "image": "https://i.guim.co.uk/img/media/3e289bd0c4dae807be31fa1f1a33fb5b5f7fa3c9/390_0_3881_3106/master/3881.jpg?width=140&quality=85&auto=format&fit=max&s=414393b1ec3e3dd332055f6fd9322800",
-   "published_at": "2026-11-20T11:00:31Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "f4d3589aa2f497becaade43282ecbc6afc3e6d60",
-   "title": "Senate passes bipartisan energy bill amid environmental concerns",
-   "summary": [
-    "As Americans struggle with rising energy costs and increased demand driven by AI, the Senate passed a bipartisan bill that will speed up the approval process for data centers and power plants.(Image credit: Jon Cherry)"
-   ],
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/20/g-s1-154579/senate-bipartisan-energy-bill",
-   "image": null,
-   "published_at": "2026-11-20T11:00:28Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "3471c6b95e4b33dcaa5cc8b94bdece83020bc563",
-   "title": "Can the Rohingya genocide verdict deliver justice?",
-   "summary": [
-    "The ICJ has ruled against Myanmar, but safe return, citizenship and reparations remain far from guaranteed."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/opinions/2026/11/20/can-the-rohingya-genocide-verdict-deliver-justice?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-20T10:45:20Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "3c56324be2df7078dce6ca7b5a4969113a5f1cf9",
-   "title": "Drone operator removes Man United training footage and issues apology",
-   "summary": [
-    "The footage, filmed during new manager Mauricio Pochettino's first training session, was uploaded online."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/sports/2026/11/20/drone-operator-removes-man-united-training-footage-and-issues-apology?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-20T10:37:20Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "52ce7f4ebb952436c7788ccf39a5370650c5c496",
-   "title": "Searching for the next Messi at the Under-17 World Cup",
-   "summary": [
-    "Nearly 100 football scouts are in Qatar, searching for the next global superstar at the FIFA Under-17 World Cup."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/searching-for-the-next-messi-at-the-under-17-world-cup?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-20T10:03:11Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "fd2811614640e90d1bfb8ca46043542593c9d4da",
-   "title": "Global stock markets slump as Anthropic IPO fails to stem AI sell-off",
-   "summary": [
-    "In Taiwan, stocks dropped 6.7% to hit their lowest point since mid-April, with the chip maker TSMC down about 6%."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-   "image": "https://i.guim.co.uk/img/media/4099c293fe0771f309ff9ec3954f9933d234c1a0/272_0_3245_2596/master/3245.jpg?width=140&quality=85&auto=format&fit=max&s=8054262018f759c5048bb4a149c0afd5",
-   "published_at": "2026-11-20T10:02:21Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "3e36496a5cab4b5d7300aa0fed448f110893b506",
-   "title": "Zohran Mamdani unveils plan to close Rikers Island jail complex",
-   "summary": [
-    "Mayor plans to close jail by 2032 and relocate its remaining population to smaller facilities across four boroughsZohran Mamdani, New York City’s mayor, on Friday unveiled a plan to close the Rikers Island jail complex, with a goal to end all incarceration at the current facility and relocate its remaining jail population by the end of 2032.“It is time to finally close Rikers Island,” Mamdani said in a statement. “For decades, New Yorkers have demanded a correctional system that is safe and humane.",
-    "This plan puts us on a path to deliver just that: closing Rikers, reducing pretrial detention, tackling the case delays that deprive people of their right to a speedy trial and investing $146m in the evidence-based supports that helps break the cycles of incarceration.” Continue reading..."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/20/rikers-island-closure-plan-mamdani",
-   "image": "https://i.guim.co.uk/img/media/28eb137e704067f49713d583592e4263c0ac08c3/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=ff5e113858df4a55f4e3e5cc4b6ae1c6",
-   "published_at": "2026-11-20T10:00:30Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "87145c7924ab9c027c4f7a7e0ccf8eb8f2bdfe75",
-   "title": "How exactly did Trump get so rich on crypto? We explain",
-   "summary": [
-    "President Trump has made billions of dollars in his second term — most of it in cryptocurrencies.",
-    "Democrats are vowing to probe his businesses as they gear up to take over Congress next year.(Image credit: Andrew Caballero-Reynolds)"
-   ],
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/20/nx-s1-6038969/trump-crypto-profits-corruption-meme-coin-world-liberty-explainer",
-   "image": null,
-   "published_at": "2026-11-20T10:00:00Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "27ac58e8151bf2e3e5abd8377b28c4ff2ae90d2d",
-   "title": "New York City unveils a bold plan to move its jails off Rikers Island",
-   "summary": [
-    "'/>New York City officials are moving forward with plans to close Rikers, the city's main jail complex, after years of discussion.",
-    "The jail has been plagued by assaults and inmate deaths.(Image credit: Nicky Quamina-Woo)"
-   ],
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/20/nx-s1-5981356/new-york-city-rikers-jail-plans-germany-prison-model",
-   "image": null,
-   "published_at": "2026-11-20T10:00:00Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "f7ff875e34940f676f011129b82dc4fc8462f7e6",
-   "title": "Critics are calling what brand-new release a masterpiece? The quiz knows",
-   "summary": [
-    "Plus: Are you up to date on your James Bond news?",
-    "If so, you'll get at least one question right."
-   ],
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/20/g-s1-154337/florida-starship-bond-schumer-ai-flu-alaska-news-quiz",
-   "image": null,
-   "published_at": "2026-11-20T10:00:00Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "e0300701a0a63814158ed6bc0d9ccf2a405ebbd4",
-   "title": "Russia unleashes retaliatory barrage on Kyiv bridges",
-   "summary": [
-    "The attack follows Putin's pledge of 'painful' response to Ukraine's attack on symbolic Crimean bridge."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-20T09:54:00Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "6784575ef645eb461e8ab99fc3f20a9def143bbc",
-   "title": "Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’",
-   "summary": [
-    "The trial participants had recently been diagnosed with advanced pancreatic cancer that had spread to other parts of the body."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-   "image": "https://i.guim.co.uk/img/media/d7bac7cca6890657580a396f9255cf7d7b3d2874/1250_0_6250_5000/master/6250.jpg?width=140&quality=85&auto=format&fit=max&s=a39b86006934a5fbc1b4dadf13458620",
-   "published_at": "2026-11-20T09:36:10Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "2c3757b0893a7b0c3a70d2f789d0fa9245702810",
-   "title": "California investigates Nvidia over whether chip exports ended up in China",
-   "summary": [
-    "State attorney says scandal ‘raises bright red flags’ and aims to find out if company misled investorsCalifornia has served an investigative subpoena on Nvidia after a scandal that prompted the departure of co-founder and longtime chief executive Jensen Huang.Rob Bonta, the US state’s attorney general, issued the subpoena as part of an investigation into whether exports of the California-based company’s advanced semiconductor chips ended up in China, contravening US restrictions."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china",
-   "image": "https://i.guim.co.uk/img/media/d8e256cb4f13741672cadb73a1484717745e43a9/424_0_4240_3392/master/4240.jpg?width=140&quality=85&auto=format&fit=max&s=f875503b0a0e2e369b1530c1955aa42a",
-   "published_at": "2026-11-20T09:18:30Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "52d79a4abd8c401d73899060c6f808e60e2c993d",
-   "title": "Kenya’s growing doping crisis overshadows legacy as athletics powerhouse",
-   "summary": [
-    "More than 140 Kenyan athletes suspended by the Athletics Integrity Unit since 2017, most of them distance runners."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/sports/2026/11/20/kenyas-growing-doping-crisis-overshadows-legacy-as-athletics-powerhouse?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-20T09:16:30Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "6edc9b97feb8dc8fa2d6025beefc17c6235c0eb2",
-   "title": "The U.K. and EU hold a rare summit to strengthen ties",
-   "summary": [
-    "A decade after the people of Britain voted to leave the European Union, top EU officials are meeting with Prime Minister Andy Burnham on Friday, looking to mend more fences.(Image credit: Stefan Rousseau)"
-   ],
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/20/g-s1-154576/uk-eu-summit",
-   "image": null,
-   "published_at": "2026-11-20T09:14:41Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "9a0b2f5cf1dbb713c82e7d7d0bb63b384545cec6",
-   "title": "Pakistan minister visits India for first time since 2025 war",
-   "summary": [
-    "Islamabad and New Delhi insist the visit is strictly multilateral, despite hopes it could open a channel for contact."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news-analysis/2026/11/20/pakistan-minister-visits-india-for-first-time-since-2025-war?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-20T09:11:57Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "34ed9397c7f7d687a6be66b6eca304ee356a17d5",
-   "title": "California’s coastal communities on alert as biggest waves in years hit state",
-   "summary": [
-    "Beaches and piers were closed last weekend as large waves crashed into California’s coastline.",
-    "The Monterey, California, buoy recorded a wave height of 34.1ft, which would make it the highest reading in 30 years.Coastal warnings extended from last weekend through this week, with alerts extending until Friday night.",
-    "Into this weekend, a further area of low pressure will bring considerable amounts of moisture for southern Oregon and northern California."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
-   "image": "https://i.guim.co.uk/img/media/5fa16e1c9eefe44e08e715a5f83a895ce2dd9ea6/376_0_2493_1995/master/2493.jpg?width=140&quality=85&auto=format&fit=max&s=cd548202b629035c561b80f699fa5ef7",
-   "published_at": "2026-11-20T09:03:20Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "7ab8caed3c676c4cb6007750bf6bfb6a4534b7f9",
-   "title": "British Library to outsource security and ‘repurpose’ reading rooms as business spaces",
-   "summary": [
-    "Their union, the PCS, has in turn been informed that STM has rejected union recognition for those staff."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/books/2026/nov/20/british-library-outsource-security-reading-rooms-business-spaces",
-   "image": "https://i.guim.co.uk/img/media/19552496ade8f26d62d72ca1831693c44383efd3/452_0_4470_3576/master/4470.jpg?width=140&quality=85&auto=format&fit=max&s=50ae13b1c22b8976198419d50cacc568",
-   "published_at": "2026-11-20T09:00:27Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "d02bb92be1d052901a98b5eaa2dc8571fad1c39d",
-   "title": "Russia’s day-long attack on Kyiv damages embassies",
-   "summary": [
-    "Russia’s day-long attack on Kyiv damages embassies"
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/russias-day-long-attack-on-kyiv-damages-embassies?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-20T08:56:08Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "c8ab7ff78dd0aabd2b02ee29a99208b437feb5d3",
-   "title": "Household rush to stockpile emergency supplies sends British retail sales soaring",
-   "summary": [
-    "Surge fuelled by ‘preppers’ heeding Be Ready campaign’s call for households to have three days of food and water for emergenciesBusiness live – latest updatesRetail sales in Great Britain surged last month as the public rushed to buy products including tinned food and long-life milk, after the government issued a warning to stock up in case of a disaster.The Office for National Statistics (ONS) said that the volume of goods sold jumped by 0.7% month-on month in October, defying economists’ consensus expectations of flat sales, as “preppers” took heed of the government’s Be Ready campaign to hold supplies to last 72 hours to survive a possible extreme weather event, cyber incident or another serious emergency."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/20/rush-stockpile-emergency-supplies-sends-british-retail-sales-soaring",
-   "image": "https://i.guim.co.uk/img/media/2ccdf36f045447e0767df30dacd0ecc106d0d8c9/676_0_6759_5408/master/6759.jpg?width=140&quality=85&auto=format&fit=max&s=8dfcf0e5064769f2391ce1d79f2bf36a",
-   "published_at": "2026-11-20T08:36:13Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "ed220e25d6dafea0252519d77745975245180cdb",
-   "title": "Joanne Young praised for bravery in exposing rape by husband and strangers",
-   "summary": [
-    "Her decision to waive her anonymity and attend court has drawn comparisons to Gisèle Pelicot, who was drugged and raped by her husband as well as dozens of strangers in France.",
-    "Waiving her right to anonymity, Pelicot said shame “must change sides”."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/society/2026/nov/20/joanne-young-drugged-raped-by-husband-praised-bravery-anonymity",
-   "image": "https://i.guim.co.uk/img/media/73c77c52c51ef56affefe47af014e07e9badd691/586_609_1167_933/master/1167.jpg?width=140&quality=85&auto=format&fit=max&s=e150d8ce40e25d00d1cd0156835d40bd",
-   "published_at": "2026-11-20T08:22:16Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "7fee05843c77fd2336a17e4872d0665b63bb05be",
-   "title": "El Salvador’s Bukele seeks third term after constitution change",
-   "summary": [
-    "Critics accuse populist president of engineering a de facto one-party state in El Salvador."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-seeks-third-term-after-constitution-change?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-20T08:21:34Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "5107e59575ddcbbf4f0d9e7d74cddbbd36c39034",
-   "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
-   "summary": [
-    "Two sides find provisional compromise on scheme but food and farming negotiations go down to the wireUK-EU summit live – latest news updatesBritish and European negotiators were closing in on a reset deal on Thursday night as they provisionally agreed to allow 100,000 EU citizens to come to the UK every year under a new mobility scheme.It is understood the EU dropped its demands at the last minute that its students should pay home tuition fees if they attended British universities in a concession to get the deal over the line."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
-   "image": "https://i.guim.co.uk/img/media/a336fb77a4aa4c7e47ea3fc416e63babf551e1e9/649_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=59e8936dc61b7951952736b81b586620",
-   "published_at": "2026-11-20T08:19:28Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "96258bd38c2dd809e141d02c3076e688eabc5e41",
-   "title": "Senior Tories urge Badenoch to drop Brexit talk in major strategy shift, sources say",
-   "summary": [
-    "Exclusive: While PM pushes for EU reset, Tory leader is moving away from ‘divisive’ issue that defined party for yearsUK-EU summit live: latest news updatesKemi Badenoch has been advised by her team to limit the amount of time she spends discussing Brexit and Europe, the Guardian has been told, moving the Conservatives away from an issue that defined the party for many years.While the Tory leader still gives views on Brexit – in an opinion piece in the Daily Mail on Thursday she condemned Andy Burnham’s ongoing reset with the EU as a “backwards” move – sources say it is now seen as a second-order subject."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/20/kemi-badenoch-brexit-eu-conservatives",
-   "image": "https://i.guim.co.uk/img/media/6651d6665ae5290a9aa6da8c2e030ac90ebdb1bd/144_282_3818_3054/master/3818.jpg?width=140&quality=85&auto=format&fit=max&s=36a08271517efe796797c7ebcddbfe09",
-   "published_at": "2026-11-20T08:00:26Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "6fe8f57263da5bb0e274f9b7a06b53b53bce3309",
-   "title": "US robbery suspects charged over alleged $22M train heist spree",
-   "summary": [
-    "US robbery suspects charged over alleged $22M train heist spree"
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/us-robbery-suspects-charged-over-alleged-22m-train-heist-spree?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-20T07:56:30Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "8a0bad0770534f2da140965623e4bda6e7e9d41a",
-   "title": "Islam set to be the largest religion by 2035: Where will most Muslims live?",
-   "summary": [
-    "Pew Research projects Muslim population in Pakistan will overtake Indonesia by 2070, with India next and Nigeria third."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/20/islam-set-to-be-the-largest-religion-by-2035-where-will-most-muslims-live?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-20T07:56:03Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "576f870644bdd9d1394c1f1d66a0bd1a418f011c",
-   "title": "Lionel Messi of Inter Miami tops Major League Soccer salaries",
-   "summary": [
-    "Argentinian football legend Messi, who joined Miami in 2023, signed a contract extension through 2028 last year."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/sports/2026/11/20/lionel-messi-inter-miami-salary-highest-paid-player-major-league-soccer?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-20T07:37:55Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "79fa21ef1dae9c16dbf2175766e9f929a8410bca",
-   "title": "UK government borrowing rises less than forecast in surprise boost for chancellor John Healey",
-   "summary": [
-    "City economists had forecast borrowing would increase by more, to £18bn."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/20/uk-government-borrowing-rises-less-than-forecast-in-surprise-boost-for-chancellor-john-healey",
-   "image": "https://i.guim.co.uk/img/media/d6d9c0c84f2abfeb43fbf3cce6e569b8864075f9/425_0_4173_3340/master/4173.jpg?width=140&quality=85&auto=format&fit=max&s=78934bf5dcf025ae46c61334a72cc05b",
-   "published_at": "2026-11-20T07:25:31Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "a773331428a7470683fbe5435780548e2973774f",
-   "title": "The Gambia stood up for the Rohingya, now the world must act",
-   "summary": [
-    "The ICJ has delivered a historic judgement, but justice will depend on what happens next."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/opinions/2026/11/20/the-gambia-stood-up-for-the-rohingya-now-the-world-must-act?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-20T07:20:53Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "667188f0eb953f5e6d1d1b24f51b24939201573d",
-   "title": "Vape users hospitalised after losing consciousness, prompting public health warning in New South Wales",
-   "summary": [
-    "Testing confirms presence of etomidate, a strong and fast-acting sedative used as a general anaesthetic overseas but not registered for medical use in AustraliaGet our breaking news email, free app or daily news podcastThree people who lost consciousness and were hospitalised in New South Wales after using certain vapes have tested positive for the unregulated anaesthetic agent etomidate, health officials said.NSW health on Friday issued a public warning about vape liquids containing etomidate, a strong and fast-acting sedative used as a general anaesthetic overseas but not registered for medical use in Australia."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/20/vape-users-hospitalised-after-losing-consciousness-prompting-public-health-warning-in-new-south-wales",
-   "image": "https://i.guim.co.uk/img/media/a8c083df952ff966868d4c06e9dd4da0fa335d1a/481_0_3661_2929/master/3661.jpg?width=140&quality=85&auto=format&fit=max&s=5df6a99a90c9e39471ef25a952defa4a",
-   "published_at": "2026-11-20T07:17:01Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "3432b89d3c37b065a5a45964c553f89a71a7adf7",
-   "title": "UK and EU to agree youth mobility scheme, BBC understands",
-   "summary": [
-    "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table."
+    "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme."
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-20T07:14:46Z",
+   "published_at": "2026-11-20T17:49:48Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "67263b4655f83838bb950ad1e2c35848a79e1780",
-   "title": "EU and Britain to agree steps towards relations reset",
+   "id": "992dd27169f7eb0dae3aa276c291ccef3e0201e1",
+   "title": "US tech sell-off continues as Anthropic tumbles after mega IPO",
    "summary": [
-    "A decade after Brexit, London is signalling a willingness to align more closely with the EU on various policies."
+    "Anthropic's listing had been viewed as a potential boost for an industry struggling to regain its footing."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/20/eu-and-britain-to-agree-steps-towards-relations-reset?traffic_source=rss",
+   "url": "https://www.aljazeera.com/economy/2026/11/20/us-tech-sell-off-continues-as-anthropic-tumbles-after-mega-ipo?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-20T07:12:43Z",
+   "published_at": "2026-11-20T17:44:18Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "a022dce82f6696e39387f3db8a9925c2aa63b2ad",
-   "title": "Sandpapergate: Australian gov’t demands CA to ensure transparency in forum",
+   "id": "d2969e8f1e87c2810b234b9fe326d04a3ac0413f",
+   "title": "Protests held across Europe over wages, services, high living costs",
    "summary": [
-    "Cricket Australia's Sandpapergate forum for players to give their accounts has been ridiculed by former cricketers."
+    "Workers and students take to the streets as protests inspired by demonstrations in France show no sign of abating."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/sports/2026/11/20/sandpapergate-australia-ball-tampering-2018-scandal-cricket-government-bancroft-cummins?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/20/protests-held-across-europe-over-wages-services-high-living-costs?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-20T07:04:27Z",
+   "published_at": "2026-11-20T17:32:32Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "7173a86c9318b4779f4fe477a921cdc8e9461f06",
-   "title": "Baby born with heart abnormalities ‘didn’t have a chance’ after non-medical free birth, NSW inquest hears",
+   "id": "7e6fb991af57f72d4745fae1c586c8c967b31176",
+   "title": "Qatar’s emir calls for diplomacy to end regional conflicts",
    "summary": [
-    "Inquest into the deaths of four babies after free and home births hears routine checks and follow-up may have saved their livesGet our breaking news email, free app or daily news podcastFour babies who died in New South Wales – three after free births and one after a home birth – might have survived if they had had routine checks and follow-up , a coronial inquest has heard.Baby DH, Baby D, Baby R, and Baby B died in the state’s northern rivers region between 2022 and 2024."
+    "Qatar’s Emir Sheikh Tamim bin Hamad Al Thani called for diplomatic efforts to de-escalate conflicts."
    ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/20/routine-checks-may-have-saved-babies-lives-freebirth-inquest-nsw-ntwnfb",
-   "image": "https://i.guim.co.uk/img/media/f1717a2a58a718f26e5ea27c390dc3e864b3b906/0_0_3000_2399/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=a6d63bb74b4836b6135a506b431ed05c",
-   "published_at": "2026-11-20T06:51:54Z",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/qatars-emir-calls-for-diplomacy-to-end-regional-conflicts?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-20T17:18:58Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "4c907ceadad6329df3adba7cfd9480c7ecb34f46",
-   "title": "Nigeria moves to end jail terms for attempted suicide",
+   "id": "af00d3fab5ed24354c67409de24e7b46bb463566",
+   "title": "Top US Democrat warns Trump admin against destroying records",
    "summary": [
-    "Nigeria's proposed reform follows years of calls from psychiatrists and a parallel Senate bill."
+    "In a new letter, Congressman Jamie Raskin says officials in the US government are ignoring federal recordkeeping laws."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/20/top-us-democrat-warns-trump-admin-against-destroying-records?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-20T17:05:42Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "48e1c5d74364aba4767d5ef17866e64044de8ad7",
+   "title": "UK far-right activist ‘Danny Tommo’ jailed for slashing migrant boat",
+   "summary": [
+    "Daniel Thomas livestreamed himself slashing a dinghy used to bring migrants from France to the UK."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/20/uk-far-right-activist-danny-tommo-jailed-for-slashing-migrant-boat?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-20T17:05:32Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "656cdb405835b5f584af8ab84bc2622d8d18383f",
+   "title": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair",
+   "summary": [
+    "Less than half of Republicans nationwide considered the midterm elections \"free and fair,\" according to new polling.(Image credit: Spencer Platt)"
+   ],
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans",
+   "image": null,
+   "published_at": "2026-11-20T17:00:00Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "1c65bd77cc62ed4b7467ad01519b49564d682e7f",
+   "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+   "summary": [
+    "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow."
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm3rgnvxj339o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-20T06:32:17Z",
+   "published_at": "2026-11-20T16:54:29Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "5c415145afe3c9fa2c98fde858a9dd8130e357b1",
-   "title": "‘We don’t want our future decided by the military’: Young Germans protest",
+   "id": "e9650a9973c91d70adcd13eb8d5a0bdd144e48fa",
+   "title": "Latest botched execution prompts calls for US moratorium on lethal injections",
    "summary": [
-    "Ahead of Friday's nationwide rallies, German teenagers explain why they are resisting conscription."
+    "The execution team had struggled to find a vein through which a lethal dose of the sedative pentobarbital could be administered."
    ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/20/we-dont-want-our-future-decided-by-the-military-young-germans-protest?traffic_source=rss",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/20/botched-execution-texas",
+   "image": "https://i.guim.co.uk/img/media/8c85117104e2840265e0eb69fe3f8c43a03b1629/716_0_3761_3010/master/3761.jpg?width=140&quality=85&auto=format&fit=max&s=58f690195335e90d4788be57ae1e012a",
+   "published_at": "2026-11-20T16:48:08Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "81c0414eb3e191b5a919ea55b87f519c8d794a0c",
+   "title": "Cost of living protests sweep across Europe",
+   "summary": [
+    "Thousands marched across European cities on Friday to protest against the cost of living and other issues."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-20T06:20:26Z",
+   "published_at": "2026-11-20T16:45:34Z",
    "category": "world",
    "related": []
   }
