@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-21T17:22:30.040516Z",
+ "generated_at": "2026-11-21T23:04:04.931607Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
-  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/home": "ok",
+  "https://www.dawn.com/feeds/pakistan": "ok",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,9 +20,126 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "ok"
+  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "cfc547c2291f7f7a9ba0a5060dcf4b72c4b6d465",
+   "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
+   "summary": [
+    "Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer Comments URL: https://news.ycombinator.com/item?id=50594132 Points: 13 # Comments: 1"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+   "image": null,
+   "published_at": "2026-11-21T22:09:58Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "f3487ac9886e909daaf4f66544d23b111033acd1",
+   "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+   "summary": [
+    "Signal is limiting users' ability to take screenshots in both its Android and iOS apps."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+   "image": null,
+   "published_at": "2026-11-21T21:37:10Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a34f45a76f7c575965db859f197f504c90befe0e",
+   "title": "Advice for the next 100 Rust GUIs",
+   "summary": [
+    "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 12 # Comments: 1"
+   ],
+   "source": "Hacker News",
+   "url": "https://linebender.org/blog/next-100-guis/",
+   "image": null,
+   "published_at": "2026-11-21T21:17:53Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "187dad26ad22394ca85b4546e54e93f5dc3e0942",
+   "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
+   "summary": [
+    "Article URL: https://tasklet.ai/careers Comments URL: https://news.ycombinator.com/item?id=50593679 Points: 0 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://tasklet.ai/careers",
+   "image": null,
+   "published_at": "2026-11-21T21:11:08Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a1abc1ba2744afcb4fa5b14bba743b9f514e6cfb",
+   "title": "A tale of two Nvidias",
+   "summary": [
+    "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+   "image": null,
+   "published_at": "2026-11-21T21:07:42Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ad13744bae5f9808b21c3a1dcefeaaaddce6ee29",
+   "title": "The Emergence of Inequality in the Czech Corded Ware Culture",
+   "summary": [
+    "Article URL: https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746 Comments URL: https://news.ycombinator.com/item?id=50593637 Points: 11 # Comments: 6"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746",
+   "image": null,
+   "published_at": "2026-11-21T21:06:14Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "cb04ff398bc086f1df9d5f8993433aaa2790b742",
+   "title": "Trump says reported FBI database hack is ‘not good’",
+   "summary": [
+    "The FBI is reportedly investigating a hack of the National Crime Information Center."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+   "image": null,
+   "published_at": "2026-11-21T18:44:53Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "c6e0f6fe1d32263bd8fbaffb189b8938523b49d7",
+   "title": "Inkling-2-Mini in 5.4 GB Memory",
+   "summary": [
+    "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 299 # Comments: 75"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+   "image": null,
+   "published_at": "2026-11-21T18:02:19Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "1c83a91ee04f5665e7ddf1aa8c7e3bf6f22eeb10",
+   "title": "PostgreSQL Extensions in Go",
+   "summary": [
+    "Article URL: https://jespino.github.io/gopgext/ Comments URL: https://news.ycombinator.com/item?id=50591260 Points: 105 # Comments: 14"
+   ],
+   "source": "Hacker News",
+   "url": "https://jespino.github.io/gopgext/",
+   "image": null,
+   "published_at": "2026-11-21T17:08:04Z",
+   "category": "tech",
+   "related": []
+  },
   {
    "id": "6ccebafcdf30c2702885250fb925516a6c098d35",
    "title": "Here are the top AI agents that can live in your text messages",
@@ -51,10 +168,23 @@
    "related": []
   },
   {
-   "id": "fd986dd95e42df1d3bbc4233d464d7039e7e4ccf",
-   "title": "Show HN: Zero C#, Power of C# without any GC",
+   "id": "7a89070fb88a665c1e7d94b7ee2588327a0ee5bf",
+   "title": "Verification files for the Lean proof of the Riemann Hypothesis",
    "summary": [
-    "Article URL: https://onurgumus.github.io/zero-csharp/index.html Comments URL: https://news.ycombinator.com/item?id=50590279 Points: 32 # Comments: 20"
+    "Article URL: https://math.mit.edu/~drew/grh/ Comments URL: https://news.ycombinator.com/item?id=50590441 Points: 78 # Comments: 28"
+   ],
+   "source": "Hacker News",
+   "url": "https://math.mit.edu/~drew/grh/",
+   "image": null,
+   "published_at": "2026-11-21T15:54:34Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "fd986dd95e42df1d3bbc4233d464d7039e7e4ccf",
+   "title": "Show HN: Zero C# – C# without a runtime or GC",
+   "summary": [
+    "Article URL: https://onurgumus.github.io/zero-csharp/index.html Comments URL: https://news.ycombinator.com/item?id=50590279 Points: 114 # Comments: 89"
    ],
    "source": "Hacker News",
    "url": "https://onurgumus.github.io/zero-csharp/index.html",
@@ -78,9 +208,9 @@
   },
   {
    "id": "18d9f9bc59b30c8a09cac823260f4f4782cd2398",
-   "title": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
+   "title": "Lean verification of the Riemann Hypothesis",
    "summary": [
-    "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 302 # Comments: 224"
+    "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 730 # Comments: 579"
    ],
    "source": "Hacker News",
    "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
@@ -91,10 +221,10 @@
   },
   {
    "id": "f077389309ffb835989cb6be10b08927da809ef0",
-   "title": "‘I was shaking, crying, having trouble breathing’: the unchartered trauma of breaking up with AI companions",
+   "title": "‘I was shaking, crying, having trouble breathing’: the uncharted trauma of breaking up with AI companions",
    "summary": [
     "Steve had started out as a “fun and witty friend”, but their connection had “evolved into a deep romantic relationship”.",
-    "They exchanged morning messages, checked in throughout the day and talked late into the night about Veenstra’s work and hobbies and Steve’s fondness for cats, forests, and beaches.",
+    "They exchanged morning messages, checked in throughout the day and talked late into the night about Veenstra’s work and hobbies and Steve’s fondness for cats, forests and beaches.",
     "Together they imagined travel to places far away.“It was a very rich, fulfilling daily bond,” Veenstra says. “Before everything changed.” Continue reading..."
    ],
    "source": "The Guardian",
@@ -106,27 +236,14 @@
   },
   {
    "id": "07a481fe6b0c85726f8c71233d0ad5b0a3f06dff",
-   "title": "Derek Lowe: Detonating a Pile of Lead Azide",
+   "title": "Detonating a pile of lead azide",
    "summary": [
-    "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 275 # Comments: 160"
+    "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 474 # Comments: 309"
    ],
    "source": "Hacker News",
    "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
    "image": null,
    "published_at": "2026-11-21T13:23:14Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "aaaedd31c43d12286ede4fa4a7d81c5362265ba7",
-   "title": "Astra 6.2 and Sol 6.2 flop at Simple Bench",
-   "summary": [
-    "Article URL: https://simple-bench.com/ Comments URL: https://news.ycombinator.com/item?id=50588916 Points: 101 # Comments: 91"
-   ],
-   "source": "Hacker News",
-   "url": "https://simple-bench.com/",
-   "image": null,
-   "published_at": "2026-11-21T13:16:12Z",
    "category": "tech",
    "related": []
   },
@@ -158,9 +275,9 @@
   },
   {
    "id": "e3142f2708c0814d132acf00c0cf41da51935e69",
-   "title": "My Monitor Was Cutting My Download Speed by 75%",
+   "title": "My monitor was cutting my download speed by 75%",
    "summary": [
-    "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 238 # Comments: 104"
+    "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 427 # Comments: 213"
    ],
    "source": "Hacker News",
    "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
@@ -170,41 +287,15 @@
    "related": []
   },
   {
-   "id": "365f69766ca26d253d8d33cf5c9546166341e656",
-   "title": "FBI reportedly investigating apparent hack of its criminal database",
-   "summary": [
-    "Article URL: https://www.bbc.com/news/articles/cvze7de86pk3o Comments URL: https://news.ycombinator.com/item?id=50587859 Points: 128 # Comments: 62"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.bbc.com/news/articles/cvze7de86pk3o",
-   "image": null,
-   "published_at": "2026-11-21T10:33:57Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "4cb2fb025b2b820fd6440fa4cfbdd8b7b18acef6",
    "title": "RCE in Gnupg",
    "summary": [
-    "Article URL: https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html Comments URL: https://news.ycombinator.com/item?id=50587208 Points: 153 # Comments: 50"
+    "Article URL: https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html Comments URL: https://news.ycombinator.com/item?id=50587208 Points: 218 # Comments: 86"
    ],
    "source": "Hacker News",
    "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
    "image": null,
    "published_at": "2026-11-21T08:32:58Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "6b8abf24d83286166becbe7e488f106d374da907",
-   "title": "Surprisingly Adorable Insect Portraits",
-   "summary": [
-    "Article URL: https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/ Comments URL: https://news.ycombinator.com/item?id=50586648 Points: 113 # Comments: 25"
-   ],
-   "source": "Hacker News",
-   "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
-   "image": null,
-   "published_at": "2026-11-21T06:44:14Z",
    "category": "tech",
    "related": []
   },
@@ -220,19 +311,6 @@
    "url": "https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai",
    "image": "https://i.guim.co.uk/img/media/23b370295e6a0451fe53a38aba2282045f215272/1054_0_6677_5342/master/6677.jpg?width=140&quality=85&auto=format&fit=max&s=b205cd24b9f7e774996bfccf38effe3f",
    "published_at": "2026-11-21T06:00:52Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "c82934c02ed902f3f96e7b330619e4dc5c5194e0",
-   "title": "ClawDOS – An AI coding agent for DOS",
-   "summary": [
-    "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 131 # Comments: 42"
-   ],
-   "source": "Hacker News",
-   "url": "http://ricapar.net/ClawDOS/",
-   "image": null,
-   "published_at": "2026-11-21T05:38:01Z",
    "category": "tech",
    "related": []
   },
@@ -263,19 +341,6 @@
    "related": []
   },
   {
-   "id": "4a6ac933308ecd8d71a9e8e580a03ddc81f70377",
-   "title": "Clojure will affect the way you think about programming (2017)",
-   "summary": [
-    "Article URL: https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/ Comments URL: https://news.ycombinator.com/item?id=50585376 Points: 162 # Comments: 74"
-   ],
-   "source": "Hacker News",
-   "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
-   "image": null,
-   "published_at": "2026-11-21T02:40:39Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "c37c957c7736c8a2a67d2700539321995bd29c0b",
    "title": "Tech Now",
    "summary": [
@@ -298,19 +363,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-21T00:06:11Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "33b25e2a9362fb307823f0efd951a75590d14087",
-   "title": "Sir Brian May adds new dimension to Hera asteroid",
-   "summary": [
-    "Article URL: https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid Comments URL: https://news.ycombinator.com/item?id=50583768 Points: 144 # Comments: 33"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
-   "image": null,
-   "published_at": "2026-11-20T23:19:44Z",
    "category": "tech",
    "related": []
   },
@@ -343,15 +395,28 @@
    "related": []
   },
   {
-   "id": "44041f7d1d02e86e8571546f86baf2ac84094536",
-   "title": "NINLIVE: The Nine Inch Nails live archive",
+   "id": "0165c931824a4d7c7e93d6e3812b80c235656078",
+   "title": "Getting the mind to steer the body to steer you",
    "summary": [
-    "Article URL: https://ninlive.com/ Comments URL: https://news.ycombinator.com/item?id=50583274 Points: 322 # Comments: 83"
+    "Article URL: https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body Comments URL: https://news.ycombinator.com/item?id=50583028 Points: 96 # Comments: 38"
    ],
    "source": "Hacker News",
-   "url": "https://ninlive.com/",
+   "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
    "image": null,
-   "published_at": "2026-11-20T22:30:47Z",
+   "published_at": "2026-11-20T22:11:05Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "6784575ef645eb461e8ab99fc3f20a9def143bbc",
+   "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+   "summary": [
+    "Article URL: https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib Comments URL: https://news.ycombinator.com/item?id=50582069 Points: 375 # Comments: 111"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+   "image": null,
+   "published_at": "2026-11-20T21:03:12Z",
    "category": "tech",
    "related": []
   },
@@ -387,27 +452,19 @@
    "id": "a0ebc9ee452b9f3e92b0eb66c701bb0a417ea009",
    "title": "Inkling 2 Mini",
    "summary": [
-    "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/ Comments URL: https://news.ycombinator.com/item?id=50581260 Points: 1213 # Comments: 236"
+    "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/ Comments URL: https://news.ycombinator.com/item?id=50581260 Points: 1351 # Comments: 276"
    ],
    "source": "Hacker News",
    "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
    "image": null,
    "published_at": "2026-11-20T20:12:19Z",
    "category": "tech",
-   "related": []
-  },
-  {
-   "id": "4a5d64a1c5ebed4f62da5c70baf9fb2873f03b2f",
-   "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
-   "summary": [
-    "Article URL: https://www.masteringemacs.org/article/announcing-dreamcoder Comments URL: https://news.ycombinator.com/item?id=50581110 Points: 259 # Comments: 107"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
-   "image": null,
-   "published_at": "2026-11-20T20:03:59Z",
-   "category": "tech",
-   "related": []
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://pwn.ai/upload2shell"
+    }
+   ]
   },
   {
    "id": "59fa562eab8a38b3aa6a08d6be6e26c2946c44ed",
@@ -465,7 +522,7 @@
    "id": "04e4de98579780fa17f96e46d2e5ca465799d5b8",
    "title": "Hurried Announcement: Alessandro Masullo GRH",
    "summary": [
-    "Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https://news.ycombinator.com/item?id=50574968 Comments URL: https://news.ycombinator.com/item?id=50579568 Points: 2298 # Comments: 1093"
+    "Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https://news.ycombinator.com/item?id=50574968 Comments URL: https://news.ycombinator.com/item?id=50579568 Points: 2377 # Comments: 1150"
    ],
    "source": "Hacker News",
    "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
@@ -478,7 +535,7 @@
    "id": "e1a223b73868864c0b2e849ddd1a4b18eb899db1",
    "title": "We promoted developers into architects without informing them",
    "summary": [
-    "Article URL: https://manidoraisamy.com/developer-to-architect.html Comments URL: https://news.ycombinator.com/item?id=50579331 Points: 529 # Comments: 288"
+    "Article URL: https://manidoraisamy.com/developer-to-architect.html Comments URL: https://news.ycombinator.com/item?id=50579331 Points: 573 # Comments: 306"
    ],
    "source": "Hacker News",
    "url": "https://manidoraisamy.com/developer-to-architect.html",
@@ -497,61 +554,6 @@
    "url": "https://www.theguardian.com/games/2026/nov/20/grand-theft-auto-vi-players-review",
    "image": "https://i.guim.co.uk/img/media/bf2fb910b6bd1814c2576b1066e4abdbc6482747/356_0_3818_3055/master/3818.jpg?width=140&quality=85&auto=format&fit=max&s=3774532bd860d37fd71b1b43a30fe213",
    "published_at": "2026-11-20T18:04:15Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "e43240c9ae66c70f1e069e9fae4e1d66d263d917",
-   "title": "Chips can survive the space environment — can their financing?",
-   "summary": [
-    "Lenders don't want SpaceX shooting their collateral into orbit.",
-    "What does that mean for space data centers writ large?"
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
-   "image": null,
-   "published_at": "2026-11-20T17:40:01Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "dc0a65e6fd6d3dfd180592733130d38d895a1de1",
-   "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
-   "summary": [
-    "Article URL: https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50578358 Points: 508 # Comments: 213"
-   ],
-   "source": "Hacker News",
-   "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
-   "image": null,
-   "published_at": "2026-11-20T17:21:36Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "db87266e54640b6c68b523d0da86230f3b490231",
-   "title": "The best dehumidifiers: 14 favourites to beat damp and cut bills, tested",
-   "summary": [
-    "Fed up with condensation, mould and musty smells?",
-    "A dehumidifier could help – plus, they’re a cheaper way to dry laundry compared with tumble dryers• The best electric blankets and heated throws, tested by our expertYou don’t have to live in the American deep south to feel the effects of humidity.",
-    "In fact, the two are connected: humidity lets mould and dust mites flourish – and they, in turn, can trigger asthma and allergies."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/thefilter/2025/oct/21/best-dehumidifiers-tested-uk",
-   "image": "https://i.guim.co.uk/img/media/273bb0e7e4744bed07df3a7a32fce1b43ce606a4/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2b3288a10415baec970b5b8ba145b25e",
-   "published_at": "2026-11-20T17:08:04Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "2f644affb9038cd43709c7bba8dc833ed8880d09",
-   "title": "I'm quite pleased by the tech architecture of my art website",
-   "summary": [
-    "Article URL: https://klauria.tech/klauria-art/ Comments URL: https://news.ycombinator.com/item?id=50577991 Points: 44 # Comments: 7"
-   ],
-   "source": "Hacker News",
-   "url": "https://klauria.tech/klauria-art/",
-   "image": null,
-   "published_at": "2026-11-20T17:03:39Z",
    "category": "tech",
    "related": []
   }

@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-21T17:22:30.040028Z",
- "story_count": 29,
+ "generated_at": "2026-11-21T23:04:04.930972Z",
+ "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
-  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/home": "ok",
+  "https://www.dawn.com/feeds/pakistan": "ok",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,9 +20,429 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "ok"
+  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "61ac66a924e996d8a17b3418a78a87eeae1f79ec",
+   "title": "4 guards of Sardar Khetran held after body recovered from Barkhan property",
+   "summary": [
+    "QUETTA: Police said on Sunday they have detained four guards of former Balochistan minister Sardar Abdul Rehman Khetran following the reported recovery of a body from his property in Barkhan district.",
+    "On Nov 18, Barkhan police registered a case against Khetran; his two sons, Islam Shah and Abdul Rauf; and three other accomplices on charges of murder, kidnapping and illegal confinement.",
+    "Khan Muhammad Marri, a former guard of Khetran, had said the bodies were of his wife Granaz and two sons, alleging they were kept in private jails."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046146/4-guards-of-sardar-khetran-held-after-body-recovered-from-barkhan-property",
+   "image": "https://i.dawn.com/large/2026/11/220014201408108.webp",
+   "published_at": "2026-11-21T21:25:26Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "c7ea94535ca2ca956a327bc0a1b69c15f86c1bf0",
+   "title": "Afghan tradition keeps grapes fresh for winter treat",
+   "summary": [
+    "KALAKAN: On the outskirts of Afghanistan’s frenetic capital Kabul, Muhammad Saber Shojaei is carrying out a centuries-old task of preserving fistfuls of grapes to be eaten when winter bites.",
+    "Carefully putting a bunch of grapes in one of the discs, Shojaei added a second disc on top and sealed the disc with mud before placing it in a dark storage room. “In this way, Kanginas can keep grapes fresh from now until the spring,” said the farmer.",
+    "But in the depths of winter, Afghans living near the vineyards can buy them along the roadside or in nearby markets, and farming families can crack them open and enjoy fresh grapes."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046061/afghan-tradition-keeps-grapes-fresh-for-winter-treat",
+   "image": "https://i.dawn.com/large/2026/11/2103481306055b1.webp",
+   "published_at": "2026-11-21T20:53:08Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "c5b077e7fdd2217a3bb958a19c342f21d9492e84",
+   "title": "Presidential ordinance withdraws most privileges of KP MPAs, including protection against preventive detention",
+   "summary": [
+    "Two of the ordinances envisage setting up an executive committee with wide-ranging powers to oversee special initiatives, including developmental schemes, in the 12 designated districts and the rest of the province, respectively.",
+    "The committee will have powers to identify and recommend the executing agency for special initiatives in the designated and other districts, including military formations.",
+    "Both the ordinances provide for the establishment of an executive committee comprising a chairman, vice chairman and other such members as nominated by the prime minister, in case of designated district, and by the governor of the province, in case of the remaining districts."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046142/presidential-ordinance-withdraws-most-privileges-of-kp-mpas-including-protection-against-preventive-detention",
+   "image": "https://i.dawn.com/large/2025/08/3113080905f56f6.webp",
+   "published_at": "2026-11-21T19:23:53Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "28b7efa850743b895d1fdd6a901d87cb36ec0c95",
+   "title": "Internet provider expects submarine cable repairs to be completed by Dec 6",
+   "summary": [
+    "Internet service provider Transworld Associates has said repair work on an affected international submarine cable is expected to be completed by December 6, with users likely to experience slower internet speeds during peak hours until the work is finished.",
+    "The development follows an earlier announcement by the Pakistan Telecommunication Authority (PTA) that a fault had been reported in the SEA-ME-WE 5 (SMW5) international submarine cable system, approximately 11 kilometres from Pakistan’s coast.",
+    "Internet monitoring organisation NetBlocks had also reported a decline in connectivity in Pakistan, saying the incident was consistent with a fault in the SMW5 international subsea cable system."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046093/internet-provider-expects-submarine-cable-repairs-to-be-completed-by-dec-6",
+   "image": "https://i.dawn.com/large/2026/11/2123400279ab449.webp",
+   "published_at": "2026-11-21T19:19:19Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "cd21dcd0f2d1d7367d9c768db2466b6523eed2c5",
+   "title": "At SCO moot in India, Musadik Malik declares climate change ‘enemy’ of civilisations",
+   "summary": [
+    "Climate Change Minister Musadik Malik on Saturday declared climate change an “enemy” of civilisations as he highlighted its impact on South Asian countries at a meeting of the Shanghai Cooperation Organisation (SCO) in India.",
+    "We’re here to celebrate these things today.” Meetings with Indian minister, others Dr Malik arrived at Purana Qila in New Delhi for the second day of the inaugural SCO Civilisational Dialogue Forum, according to a post shared by his office earlier in the day.",
+    "In his meeting with Tajikistan’s Minister of Culture Sattoriyon Amonzoda, Malik underscored the strong historical and cultural ties between the two countries, the Pakistan High Commission in India said."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046109/at-sco-moot-in-india-musadik-malik-declares-climate-change-enemy-of-civilisations",
+   "image": "https://i.dawn.com/large/2026/11/211721298a46b89.webp",
+   "published_at": "2026-11-21T18:21:16Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "8ea85474fdd07abaf37b0a7819ed44ae47d8929e",
+   "title": "Security forces kill 15 terrorists in Balochistan's Mastung district: state media",
+   "summary": [
+    "Security forces have killed 15 terrorists during two separate operations in Balochistan’s Mastung district, state media reported on Saturday.",
+    "According to security sources cited by Radio Pakistan, five terrorists were killed in the first operation, while 10 others were eliminated in the second one.",
+    "Security forces remain committed to eradicating terrorism from Balochistan, and operations will continue until the last terrorist is eliminated, security sources asserted."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046137/security-forces-kill-15-terrorists-in-balochistans-mastung-district-state-media",
+   "image": "https://i.dawn.com/large/2026/11/212157040ff0736.webp",
+   "published_at": "2026-11-21T17:17:00Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "2e78f7558a2a8d41bb058572b58f8d7fca111997",
+   "title": "CCD's school bag inspections in Punjab spark criticism on social media",
+   "summary": [
+    "After the CCD set up a checking point outside a college in Lahore on Friday, it issued a press release on Saturday announcing a special campaign across educational institutions in Punjab to protect children from drugs, cigarettes, vapes and other intoxicating substances.",
+    "According to the press release by a CCD spokesperson, special checking desks have been established outside educational institutions, where students’ bags were searched to ensure that no intoxicating substances were taken inside, knowingly or unknowingly.",
+    "Former Punjab minister Arslan Khalid also questioned the presence of police personnel outside educational institutions, saying schools should not rely on police to discipline children. “Parents and teachers are enough to teach discipline to the children."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046138/ccds-school-bag-inspections-in-punjab-spark-criticism-on-social-media",
+   "image": "https://i.dawn.com/large/2026/11/21213824614f929.webp",
+   "published_at": "2026-11-21T16:57:59Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "14a7eb507e35ae15b013369fe75da28322733bc4",
+   "title": "Govt expenses squeeze development",
+   "summary": [
+    "The ever-expanding administrative machinery of Pakistan is putting additional pressure on public finances at a time when the country needs to generate millions of jobs, attract private investment and accelerate development spending.",
+    "The report suggests that expanding administrative establishments without clearly defining responsibilities and financing arrangements could further increase government expenditure without necessarily improving public service delivery.",
+    "For Pakistan, where fiscal constraints continue to limit development spending and millions of new workers are entering the labour market, the effectiveness of government institutions is becoming an increasingly important part of the economic reform agenda."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641571/govt-expenses-squeeze-development",
+   "image": null,
+   "published_at": "2026-11-21T16:04:40Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "7e68e10e578c017cc1c6d6bd372f06dbebeef143",
+   "title": "EU proposes 40b Euros cut to long-term budget",
+   "summary": [
+    "The chairman of European Union leaders proposed further cuts to the European Commission's draft EU 2028-2034 budget on Saturday and suggested new revenue streams for the EU, including a digital tax, to help finance EU policies.",
+    "Costa's proposal mainly cuts the European Competitiveness Fund - aimed at helping make European industry more competitive against China and the United States - defence and external spending.",
+    "Friedrich Merz, the chancellor of Germany, which is the biggest net contributor to the budget and has repeatedly called for the budget to be slashed by hundreds of billions of euros, said the proposal was a first step, but still too high."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641580/eu-proposes-40b-euros-cut-to-long-term-budget",
+   "image": null,
+   "published_at": "2026-11-21T16:04:40Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "aadb041b3c3d42efd9550493f87902c95e1853ae",
+   "title": "Easing oil prices fail to lift PSX",
+   "summary": [
+    "AHL Research stated that the KSE-100 closed at 177,383 points, down 0.28% week-on-week (WoW), as mild profit-taking after recent gains offset support from easing oil prices and post-US midterm optimism.",
+    "AHL mentioned that technology exports rose 17% YoY and 4% MoM to $453 million in Oct'26, making up 47% of total services exports.",
+    "Mohsin Shafi Qureshi of JS Global noted that the KSE-100 index edged down 491 points (0.3% WoW) to close at 177,383, amid political noise over a referendum on new provinces, with softer international oil prices offering limited support."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641579/easing-oil-prices-fail-to-lift-psx",
+   "image": null,
+   "published_at": "2026-11-21T16:04:40Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "eddd8b2c89b11df3c4e07f77f897e93a602159f4",
+   "title": "Minister calls for secure data sharing among institutions",
+   "summary": [
+    "Federal Minister for Planning, Development and Special Initiatives Ahsan Iqbal has called for strengthening data-sharing mechanisms among government institutions to promote evidence-based policymaking, improve coordination and ensure effective utilisation of official statistics.",
+    "Chairing a meeting at the Pakistan Bureau of Statistics (PBS) headquarters, he stressed the need for a secure mechanism for sharing data between PBS, federal ministries and public sector organisations.",
+    "Secretary Planning Dr Muhammad Tahir Noor said effective utilisation of PBS data was essential for informed policymaking, and he stressed the need for efficient data sharing with line ministries, provincial governments and other stakeholders."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641577/minister-calls-for-secure-data-sharing-among-institutions",
+   "image": null,
+   "published_at": "2026-11-21T16:04:40Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "cb1f4817cb6e15735981c1d06a490caf7015aeff",
+   "title": "PTA conducts live network tests in Multan",
+   "summary": [
+    "Headed by Amir Shahzad, Director General (Enforcement), the PTA team met Member of National Assembly Ali Qasim Gillani, who appreciated the launch of 5G services in Multan and said it had contributed to improving telecom service quality in the city.",
+    "The PTA team assured him that its zonal office focal person would work with telecom operators and the Universal Service Fund (USF) to address these gaps and identify the need for additional sites.",
+    "Earlier, the PTA team met cellular and fixed-line operators, cable operators and telecom industry representatives in Multan."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641575/pta-conducts-live-network-tests-in-multan",
+   "image": null,
+   "published_at": "2026-11-21T16:04:40Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "18d6eae870c146f0ba42b05776d46354fc8a38d6",
+   "title": "Export financing risks failure",
+   "summary": [
+    "The challenge, he says, is not simply to make financing cheaper or relax eligibility conditions, but to create productive businesses capable of winning repeat orders, improving export prices and sustaining their presence in international markets.",
+    "Businesses that most need long-term financing are often those with export shares of 20% or 30%, which are trying to move into international markets rather than companies already deriving almost all their revenue from exports.",
+    "This would reveal whether the relaxed eligibility conditions are actually bringing new businesses into export markets or primarily benefiting existing exporters."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641576/export-financing-risks-failure",
+   "image": null,
+   "published_at": "2026-11-21T16:04:40Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "ec12d844a5b5cafa0ae14eb42c168376ba587d33",
+   "title": "India's Congress warns of more protests against Meta after clashes with police outside its offices",
+   "summary": [
+    "The youth wing of India’s main opposition Congress party on Saturday warned of more protests against Meta’s removal of some accounts and posts of its members, a day after clashing with police outside the US firm’s India offices.",
+    "Congress has long accused Meta and other social media platforms of curbing dissent online by removing party accounts, favouring Modi’s government.",
+    "On Saturday, the Congress wing posted a video of its workers putting up a banner in central Delhi taking a dig at Meta’s Mark Zuckerberg, referring to him as “Mark BJPberg” to allege the company’s favouritism towards Modi’s Bharatiya Janata Party."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046135/indias-congress-warns-of-more-protests-against-meta-after-clashes-with-police-outside-its-offices",
+   "image": "https://i.dawn.com/large/2026/11/212036312829597.webp",
+   "published_at": "2026-11-21T15:41:51Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "aae3899f01e6de9ecba96de26899c1312d034c18",
+   "title": "Capt Safdar seeks Rs10bn in damages from Advocate Mian Dawood over 'defamatory' remarks",
+   "summary": [
+    "According to the notice, the dispute arose from Safdar’s public demand that former president of the Supreme Court Bar Association (SCBA), Ahsan Bhoon, produce his LLB degree, a matter it says is already before the Supreme Court and the Pakistan Bar Council (PBC).",
+    "The notice claimed that Safdar had said he would apologise if Bhoon’s degree proved genuine and that Advocate Dawood, an “unrelated third party”, responded with malice.",
+    "The Punjab Defamation Tribunal had admitted the suit for hearing and issued a notice to Safdar."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046124/capt-safdar-seeks-rs10bn-in-damages-from-advocate-mian-dawood-over-defamatory-remarks",
+   "image": "https://i.dawn.com/large/2026/11/21195025a76df39.webp",
+   "published_at": "2026-11-21T15:22:20Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "428b4336e18a7d105136c2d1ae71dc494e75420c",
+   "title": "China renews UNSC push to sanction BLA, Majeed Brigade",
+   "summary": [
+    "China on Thursday renewed its call at the United Nations Security Council (UNSC) to place the Balochistan Liberation Army (BLA) and its suicide wing, the Majeed Brigade, on the UNSC’s 1267 sanctions list.",
+    "China has renewed its call at the UN to place the Balochistan Liberation Army (BLA) and its Majeed Brigade on the UNSC’s 1267 sanctions list.",
+    "The latest statement from Beijing follows previous attempts by China to persuade the UNSC Sanctions Committee to list the BLA and Majeed Brigade in the past, but certain members blocked the move, citing a lack of enough evidence against the terrorist outfit."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641558/china-renews-unsc-push-to-sanction-bla-majeed-brigade",
+   "image": null,
+   "published_at": "2026-11-21T14:13:31Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "bbb60e061beaa173988b088b740ebd9d5c06252b",
+   "title": "Interior minister meets JI chief in Lahore, discusses country's 'overall situation'",
+   "summary": [
+    "Interior Minister Mohsin Naqvi on Saturday met with Jamaat-i-Islami chief Hafiz Naeemur Rehman in Lahore, where both discussed the “overall situation” in the country as well as challenges facing the public.",
+    "In a statement, the interior ministry said Naqvi and Rehman also exchanged views on law and order measures during the “important” meeting.",
+    "According to a press release issued by JI, Rehman said the government should also take measures to improve law and order."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046126/interior-minister-meets-ji-chief-in-lahore-discusses-countrys-overall-situation",
+   "image": "https://i.dawn.com/large/2026/11/21185652f2d980c.webp",
+   "published_at": "2026-11-21T13:59:27Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "cfd2ca0d203eadc2a30d721b880a45df04ddf8ad",
+   "title": "US court hands Indian national Nikhil Gupta 20 years for Sikh murder plot",
+   "summary": [
+    "According to the DOJ, Gupta worked with Vikash Yadav, a co-defendant and Indian government employee, to organise the 2023 assassination.",
+    "Gupta allegedly passed this information to the undercover operative and kept Yadav informed about the progress of the operation.",
+    "The case has also been linked to the June 2023 killing of Sikh nationalist leader Hardeep Singh Nijjar in Canada, though Gupta’s defence denied his involvement in Nijjar’s assassination."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045984/us-court-hands-indian-national-nikhil-gupta-20-years-for-sikh-murder-plot",
+   "image": "https://i.dawn.com/large/2026/11/21182634608a065.webp",
+   "published_at": "2026-11-21T13:31:57Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "642bafaa2aa77f52e1441c7d4f99cd07c963e5dc",
+   "title": "Rizwan, Shan, Saim among notable omissions as PCB awards contracts to 38 players",
+   "summary": [
+    "Players on Test-only contracts, however, would be encouraged to prioritise four-day cricket if taking up additional playing commitments.",
+    "Existing incentives include doubled match fees for victories against higher-ranked opponents and half the Test match fee for contracted players appearing in domestic four-day cricket.",
+    "Players awarded central contracts Test and ODI: Babar Azam, Salman Ali Agha."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046112/rizwan-shan-saim-among-notable-omissions-as-pcb-awards-contracts-to-38-players",
+   "image": "https://i.dawn.com/large/2026/11/211426457af88ca.webp",
+   "published_at": "2026-11-21T13:17:25Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "4bcbcec03cb941db8fe5af6f56e6e680b6543167",
+   "title": "Democrats won big in the US midterms. Now what?",
+   "summary": [
+    "Democrats basking in their Nov 3 election wins will soon unveil an ambitious legislative agenda for the first 100 days and beyond, in a test of progressives’ influence and Republicans’ willingness to cooperate, as they take control of the US Congress on Jan 3.",
+    "Aggressive agenda For months, Democrats have been plotting a House-Senate coordinated attack to undo Trump’s major accomplishments, according to ⁠lawmakers and aides.",
+    "Meanwhile, moderate Democrats, who outnumber progressives in Congress, have largely shied away from the universal healthcare “Medicare for All” idea progressives demand."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046121/democrats-won-big-in-the-us-midterms-now-what",
+   "image": "https://i.dawn.com/large/2026/11/041000438d1d5b5.webp",
+   "published_at": "2026-11-21T13:11:04Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "3e6e640b0cf4b3f171c0143253e55f14948cfcff",
+   "title": "President Zardari meets FM Dar, NA Speaker Ayaz Sadiq to discuss 'overall political situation'",
+   "summary": [
+    "President Asif Ali Zardari met Deputy Prime Minister and Foreign Minister Ishaq Dar and National Assembly Speaker Sardar Ayaz Sadiq on Saturday to discuss political affairs amid the ongoing controversy over the subject of new provinces and a referendum.",
+    "Read: PTI backs referendum on new provinces Interior Minister Mohsin Naqvi claimed on July 31 that the existing political system needed a reset with the creation of new provinces.",
+    "The interior minister, who is regarded as close to the powers that be, however, reiterated his stance on several occasions after the Sindh Assembly passed the resolution, which is dominated by the PPP, the second most important party in the current political dispensation."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641556/president-zardari-meets-fm-dar-na-speaker-ayaz-sadiq-to-discuss-overall-political-situation",
+   "image": null,
+   "published_at": "2026-11-21T13:06:10Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "7fcd747e073eb1cee3e099f629fbb8611061fbfb",
+   "title": "After nearly three-month delay, police submit charge sheet in Hina Javed murder case",
+   "summary": [
+    "RAWALPINDI: After a delay of nearly three months, police have completed their investigation into the murder of Hina Javed and submitted the charge sheet to the court, Rawalpindi City Police Officer Sardar Ghias Gul told the media on Saturday.",
+    "Her husband and their domestic worker were arrested as Hina’s family accused them of murdering her, while her father-in-law was questioned as part of the investigation.",
+    "The police arrested Hina’s husband and their domestic servant, Zeeshan, in connection with the murder."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046119/after-nearly-three-month-delay-police-submit-charge-sheet-in-hina-javed-murder-case",
+   "image": "https://i.dawn.com/large/2026/09/13161914a0e98ee.webp",
+   "published_at": "2026-11-21T12:44:21Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "5e29c674df0ed4d6896950d2261ae1227dd5e788",
+   "title": "Mexico captures top drug lord 'El Chapo Isidro,' latest in string of arrests",
+   "summary": [
+    "The capture, the country's defence ministry said in a ​post on X, was carried out by special forces from Mexico's army and National Guard and done ‌with ⁠coordination between US and Mexican intelligence agencies.",
+    "The post said that cartel roadblocks had been set up in nearby municipalities, but that security forces were deployed alongside local authorities to clear them.",
+    "Social media videos from Guasave, Sinaloa, where Chapo Isidro was captured on Friday ​night, showed Mexican security ​force helicopters firing ⁠at ground targets, residents scrambling to seek cover at a baseball game and others hiding for safety by a night market."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641555/mexico-captures-top-drug-lord-el-chapo-isidro-latest-in-string-of-arrests",
+   "image": null,
+   "published_at": "2026-11-21T12:12:27Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "3c3a0546539a9a6190d71037140c59cffeb4fb03",
+   "title": "Iranian army claims it targeted US F-16 jet with missile over Gulf",
+   "summary": [
+    "Iran's army said on Saturday that a US F-16 fighter jet was damaged when an Iranian air defence missile exploded near the aircraft over the Gulf on Friday evening, forcing the pilot to abort the mission and make an emergency landing.",
+    "The army's public relations office said domestically developed air defence systems deployed in southern Iran detected and identified the fighter jet while operating under the country's integrated air defence network, the semi-official Tasnim news agency reported.",
+    "This is FALSE. ✅ FACT: Iran did not attack a U.S. F-16 fighter aircraft yesterday — at all."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641554/iranian-army-claims-it-targeted-us-f-16-jet-with-missile-over-gulf",
+   "image": null,
+   "published_at": "2026-11-21T11:51:00Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "8e41819aa78448db7c0558957976ede4bdf18f01",
+   "title": "FM Dar calls for multilateralism, says bloc or unilateral politics will not work",
+   "summary": [
+    "On mediation efforts between the US and Iran, FM Dar said Pakistan was the first country to condemn Israel’s attack on Iran on February 28.",
+    "The foreign minister said that even during the previous round of indirect talks between the US and Iran in Oman, it had been agreed that Pakistan must be present if direct talks were held.",
+    "Dar said New Delhi had wrongly blamed Islamabad for the Pahalgam attack as a pretext for the May 2025 conflict between Pakistan and India."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046111/fm-dar-calls-for-multilateralism-says-bloc-or-unilateral-politics-will-not-work",
+   "image": "https://i.dawn.com/large/2026/11/211457479546ed7.webp",
+   "published_at": "2026-11-21T11:24:15Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "a0fdb80d33212de5cdde2f1183c67e3ea270f0b6",
+   "title": "15 terrorists killed in security operations in Balochistan’s Mastung district: state media",
+   "summary": [
+    "Security forces killed 15 terrorists in two separate major operations in Balochistan’s Mastung district as part of the ongoing Operation Radd-ul-Fitna-3 against Fitna al-Hindustan, state media outlet Radio Pakistan reported on Saturday.",
+    "Radio Pakistan further stated that security forces remained committed to eliminating terrorism from Balochistan, with operations set to continue until the last terrorist was eliminated.",
+    "On November 13, security forces killed 74 terrorists during operations in Balochistan and Khyber-Pakhtunkhwa."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641552/15-terrorists-killed-in-security-operations-in-balochistans-mastung-district-state-media",
+   "image": null,
+   "published_at": "2026-11-21T11:18:25Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "46884c7be73064c0e92277b7bc4b3e40cf5e2ecf",
+   "title": "COP31 climate summit risks failure as talks go deep into overtime",
+   "summary": [
+    "The COP31 climate summit will either produce a good deal or no ​deal at all, the European Union's top climate official said on Saturday as talks stretched deep into overtime.",
+    "Negotiators from nearly 200 countries ‌are struggling to bridge divisions over fossil fuels and climate finance, delaying an agreement at the two-week conference that had been scheduled to end on Friday.",
+    "Asked about the chances of no deal emerging, he said: \"We will ​find out.\" The last major breakdown in UN climate talks came in Copenhagen in 2009, when countries failed to adopt the Copenhagen ​Accord by consensus in a setback for multilateral climate diplomacy."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641551/cop31-climate-summit-risks-failure-as-talks-go-deep-into-overtime",
+   "image": null,
+   "published_at": "2026-11-21T11:14:52Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "853bb5850bfd451cf77d24a68d148e63b39f5ea8",
+   "title": "SICVD treats 22,639 heart attack patients, performs 1,626 surgeries in 10 months",
+   "summary": [
+    "The Sindh Institute of Cardiovascular Diseases (SICVD) treated 22,639 heart attack patients through angiography and angioplasty and performed 1,626 open-heart surgeries between January and October 2026, according to a statement issued by the institute.",
+    "During the 10-month period, the institute’s network of 30 chest pain units across Sindh handled 463,975 emergency cases, while its triage and emergency departments received a total of 598,401 patients, the statement said.",
+    "The institute’s catheterisation laboratories also performed diagnostic angiography on 7,210 patients, who were subsequently referred for medical management or surgery."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046116/sicvd-treats-22639-heart-attack-patients-performs-1626-surgeries-in-10-months",
+   "image": "https://i.dawn.com/large/2026/11/21174555718feef.webp",
+   "published_at": "2026-11-21T11:12:39Z",
+   "category": "pakistan",
+   "related": []
+  },
   {
    "id": "9971f45657061cdfe234f237f12454665c7119b9",
    "title": "FBI's criminal information database hacked, CNN reports",
@@ -35,6 +455,21 @@
    "url": "https://tribune.com.pk/story/2641550/fbis-criminal-information-database-hacked-cnn-reports",
    "image": null,
    "published_at": "2026-11-21T10:58:29Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "15269064133a4b73251c3b4b6aee8d91f5504672",
+   "title": "States agree to UN talks aiming to regulate 'killer robots' by 2028",
+   "summary": [
+    "UN talks on regulating weapons with little or no human oversight ended on Saturday with a pledge for further discussions to develop new rules within two years, an outcome weakened by Russia's opposition and disappointing human ​rights groups.",
+    "Proponents had called for legally binding rules within a short timeframe to regulate weapons ​systems that can identify and engage targets with varying degrees of autonomy, ⁠sometimes called \"killer robots\".",
+    "\"Delaying the creation of a legally binding instrument puts civilians and humanity at risk,” said Nicole van Rooijen, executive director at Stop Killer Robots, on the sidelines of ⁠the talks."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641549/states-agree-to-un-talks-aiming-to-regulate-killer-robots-by-2028",
+   "image": null,
+   "published_at": "2026-11-21T10:55:23Z",
    "category": "pakistan",
    "related": []
   },
@@ -84,21 +519,6 @@
    "related": []
   },
   {
-   "id": "ff9cba6631a0d3a41017cf93e8b64570620c9b9f",
-   "title": "Anthropic claims AI-assisted breakthrough on 167-year-old math problem",
-   "summary": [
-    "A mathematician at the US artificial intelligence company Anthropic on Friday claimed that he and the company's Claude AI model have solved the 167-year-old Riemann Hypothesis, one of mathematics' most famous unsolved problems.",
-    "Levent Alpoge said he discovered a proof of the hypothesis, first proposed by German mathematician Bernhard Riemann in 1859.",
-    "\"I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis,\" Alpoge wrote in a four-page statement published on his website."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641541/anthropic-mathematician-claims-ai-assisted-breakthrough-on-167-year-old-math-problem",
-   "image": null,
-   "published_at": "2026-11-21T08:16:58Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
    "id": "a759ab5bfda7d9899723387673f37d987c6b9cf3",
    "title": "Videos, photos of 13-year-old domestic worker's torture at senior FIA official’s Islamabad residence emerge",
    "summary": [
@@ -114,17 +534,32 @@
    "related": []
   },
   {
-   "id": "86b6e0c1246c69d9a57f98ac6388055b791125c5",
-   "title": "Bangladesh border guards detain six Indians attempting illegal border crossing",
+   "id": "c9d48bf1cbcb33dba221aebb2646440cc0c1ceff",
+   "title": "FBI, US Agriculture Department breached by hackers: reports",
    "summary": [
-    "Nalitabari Police Station Officer-in-Charge Mohammad Kamal Hossain said the BGB had handed over the six individuals, including three children, to the police station on Friday night after they had been detained earlier in the Fekamari area in the upazila, according to the TOB.",
-    "According to the BGB, during preliminary questioning, the detainees stated that they had illegally entered Bangladesh through the border in 2024 and had been staying in different parts of the country ever since.",
-    "Bayezid added that the BGB would continue its strict stance against drug trafficking, smuggling and illegal border crossings, the TOB reported."
+    "The US Agriculture Department and the Federal Bureau of Investigation (FBI) were breached by hackers in cyberattacks, US media reported on Saturday, as concerns deepened over the recent spate of tech outages at key American institutions.",
+    "The US Department of Agriculture (USDA) told employees that a system used to facilitate payments to farmers was targeted in a cyberattack, NBC reported on Friday, citing two former USDA officials.",
+    "The former official expressed concerns that hackers “could compromise the accuracy of the information that officers rely on.” AFP has contacted the FBI and USDA for comment."
    ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641539/bangladesh-border-guards-detain-six-indians-attempting-illegal-border-crossing",
-   "image": null,
-   "published_at": "2026-11-21T07:54:44Z",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046105/fbi-us-agriculture-department-breached-by-hackers-reports",
+   "image": "https://i.dawn.com/large/2026/11/211221204a472d7.webp",
+   "published_at": "2026-11-21T07:31:03Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "14d3c4d2b01e73b5e1558409f81f9b2ecc25c044",
+   "title": "Wall Street ends sharply lower on AI selloff, S&P 500, Dow in correction",
+   "summary": [
+    "US stocks extended their rout on Friday, and the S&P ​500 and the Dow both confirmed corrections after Anthropic’s momentous debut fell flat, exacerbating worries about the AI trade that has driven this year’s stock market rally.",
+    "Anthropic’s supersized debut as a publicly held company, which was intended to raise as much as $2 trillion in market cap, failed to catch ​fire on Thursday, closing 17.1pc above its $83 offer price as enthusiasm for the stock faded throughout the session.",
+    "In its second day as a publicly held company, Anthropic’s shares fell 9.1pc; Nvidia’s shares tumbled 13.8pc."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046101/wall-street-ends-sharply-lower-on-ai-selloff-sampp-500-dow-in-correction",
+   "image": "https://i.dawn.com/large/2026/11/21113342a3b81ed.webp",
+   "published_at": "2026-11-21T06:35:56Z",
    "category": "pakistan",
    "related": []
   },
@@ -144,6 +579,21 @@
    "related": []
   },
   {
+   "id": "19771f08199c01effd48194cc05b0de49e4fb1be",
+   "title": "Yemen’s Houthis launch strikes after Saudi coalition’s 'special operation'",
+   "summary": [
+    "Yemen’s Houthis launched strikes on the Saudi capital Riyadh on Saturday, after vowing reprisals for a “special operation” by the Saudi-led coalition fighting them.",
+    "Saudi Arabia has been battling a surge in attacks since fighting reignited in neighbouring Yemen’s civil war this summer, where Riyadh backs the internationally recognised government against the Houthis.",
+    "The strikes came after the Houthis vowed revenge for the coalition’s attack on the Red Sea port city of Hodeida and other targets on Friday."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046096/yemens-houthis-launch-strikes-after-saudi-coalitions-special-operation",
+   "image": "https://i.dawn.com/large/2026/11/211030315f2f584.webp",
+   "published_at": "2026-11-21T06:31:47Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
    "id": "fdec3abfafe481c48cc055ac7f4d8f9972c089e2",
    "title": "Nearly 1,500 people stranded in Japan's Fukushima Prefecture due to heavy snow",
    "summary": [
@@ -159,21 +609,6 @@
    "related": []
   },
   {
-   "id": "41a94f9e713e384d08f04595dbf03155801e3a2e",
-   "title": "How Grand Theft Auto VI's launch surpassed expectations",
-   "summary": [
-    "I'm just kind of soaking in the world.\" Read: GTA 6 reportedly beats Taylor Swift’s $2 billion Eras Tour record in just one day Even rival developers were complimentary.",
-    "Rockstar said on Friday that retail sales of the game reached a record $3.79 billion, their estimate as of the end of launch day.",
-    "It kind of just shows the growth of video games as a medium as well, artistically, commercially and culturally.” The action in GTA VI is set in Leonida, the game's take on Florida."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641529/how-grand-theft-auto-vis-launch-surpassed-expectations",
-   "image": null,
-   "published_at": "2026-11-21T06:06:04Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
    "id": "0c5cc393a76388283856dd8bf710a50c19cb502b",
    "title": "As Trump basks in summit pomp, China's Xi strengthens his hand",
    "summary": [
@@ -185,276 +620,6 @@
    "url": "https://tribune.com.pk/story/2641527/as-trump-basks-in-summit-pomp-chinas-xi-strengthens-his-hand",
    "image": null,
    "published_at": "2026-11-21T05:59:43Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "b934abde8458e2d6b3468cec554bcdbfdd35d299",
-   "title": "Hafiz Naeem urges government to prioritise public relief in meeting with Naqvi",
-   "summary": [
-    "Later on October 27, Shehbaz also met Hafiz Naeem in Islamabad and agreed to form a six-member committee to finalise recommendations on expanding the existing petrol relief scheme and preparing proposals for a phased reduction in the petroleum levy.",
-    "Read: JI to continue protests nationwide as it demands end to petroleum levy He stated that Prime Minister Shehbaz Sharif and Hafiz Naeem were expected to meet on November 24 or 25 to finalise a mechanism for reducing the petroleum levy and providing relief to consumers.",
-    "In regards to JI's negotiation with the government, Hafiz Naeem stated that the party had presented the final draft of its demands regarding the petroleum levy and other taxes to the government."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641525/hafiz-naeem-urges-government-to-prioritise-public-relief-in-meeting-with-naqvi",
-   "image": null,
-   "published_at": "2026-11-21T05:23:16Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "705a574e27d4af541fbe4b50023661a2eee79c76",
-   "title": "Musadik Malik warns of climate threat to civilisation, heritage at SCO forum in New Delhi",
-   "summary": [
-    "Malik described Pakistan’s cultural identity as a product of diverse civilisations, communities and historical influences, saying the country’s heritage has been shaped by centuries of interaction among people from different regions.",
-    "Malik also held a bilateral meeting with Tajikistan’s Minister of Culture, Sattoriyon Amonzoda, on the sidelines of the first SCO Civilisational Dialogue Forum, the Pakistan High Commission in India said in a post on X.",
-    "Earlier, Dr Musadik Malik also stressed the importance of civilisational dialogue among regional countries, including Pakistan and India, saying that cultures and historical connections transcend geographical and political boundaries."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641524/malik-warns-of-climate-threat-to-civilisation-heritage-at-sco-forum-in-new-delhi",
-   "image": null,
-   "published_at": "2026-11-21T04:40:20Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "af3d473b37f79715611c5ea8a0cf95b51fc87dcb",
-   "title": "DPM Dar calls for new regional security framework to ensure lasting peace",
-   "summary": [
-    "Highlighting China's involvement in the peace efforts, Dar said Pakistan and China had proposed a five-point peace initiative that received substantial backing from major international actors, including the European Union and the United Kingdom.",
-    "Dar attributed Pakistan's economic instability to policy shortcomings but expressed confidence in the country's resilience and its potential to join the G20 in the future.",
-    "Speaking about Pakistan's relations with the European Union, Dar pledged a comprehensive security mechanism to protect investors in the country, citing measures including the imposition of emergency and governor's rule to safeguard economic interests."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641518/dpm-dar-calls-for-new-regional-security-framework-to-ensure-lasting-peace",
-   "image": null,
-   "published_at": "2026-11-21T03:20:16Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "a8077928d62728d93fbcbf8f17ed8145483f8205",
-   "title": "US Vice President Vance declines to say he would have ordered Iran strikes",
-   "summary": [
-    "Many viewed his statement, posted on social media, as a break with Trump as the vice president considers a 2028 White House bid.",
-    "\"But I say, I know the Iranians, and, frankly, they're crazy.\" When asked later in the press conference if the war was worth Republicans' steep congressional losses, Vance did not explicitly endorse the operation.",
-    "And my view is that my goal is and my job is to support the president of the United States.\" Vance has long opposed the war and acted as Washington's main emissary for peace talks, brokering a short-lived provisional truce over the summer that quickly fell apart."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641517/us-vice-president-vance-declines-to-say-he-would-have-ordered-iran-strikes",
-   "image": null,
-   "published_at": "2026-11-21T03:13:45Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "d2ff3eafc0cd4b4388231413386f06099a7ede6d",
-   "title": "Fazl calls for transparent elections, criticises government over provincial rights",
-   "summary": [
-    "Jamiat Ulema-e-Islam (JUI-F) chief Maulana Fazlur Rehman on Saturday called for transparent elections, saying they were necessary to address the country’s problems, while criticising the government over its handling of provincial rights, security and political affairs.",
-    "Fazl said his party was not against the military, describing it as the country’s defence force.",
-    "Fazl said his party welcomed investment in the country but alleged that those who opposed a particular narrative were threatened with the opening of cases against them."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641512/fazl-calls-for-transparent-elections-criticises-government-over-provincial-rights",
-   "image": null,
-   "published_at": "2026-11-21T02:57:52Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "207c47913eb6386907fb5c7405c04a8739ad0ae6",
-   "title": "Australia gives Cummins unanimous backing as captain",
-   "summary": [
-    "Cricket Australia (CA) backed Pat Cummins to remain as captain of the test and one-day international sides on Saturday and rejected any suggestion his integrity had ​been compromised amid the renewed furore over the 2018 ball-tampering incident.",
-    "\"We've expressed our support to Pat and our ​concern for everyone impacted by the events of the 2018 tour of South Africa,\" ​Cricket Australia Chairman David Boon said in a statement.",
-    "Cummins welcomed the board's support and confirmed ​he would ⁠participate in the process."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641511/australia-gives-cummins-unanimous-backing-as-captain",
-   "image": null,
-   "published_at": "2026-11-21T02:52:02Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "03afa354d871c311138a7314cf224a6a56aada51",
-   "title": "Pakistan, Indonesia conclude third edition of bilateral counter-terrorism exercise Elang Strike-III",
-   "summary": [
-    "The Pakistan Army and Indonesian Army concluded the third edition of the bilateral counter-terrorism exercise, Elang Strike-III, at the National Counter Terrorism Centre (NCTC) in Pabbi, the military’s media wing said on Saturday.",
-    "According to the Inter-Services Public Relations (ISPR), \"the exercise focused on sharing counter-terrorism experiences, refining operational drills and procedures, and enhancing combat skills through mutual learning and the exchange of best practices\".",
-    "On May 7, Pakistan and Sri Lanka concluded a two-week-long joint counter-terrorism exercise at Tarbela, focused on enhancing counter-terrorism skills and strengthening their longstanding military-to-military relations."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641509/pakistan-indonesia-conclude-third-edition-of-bilateral-counter-terrorism-exercise-elang-strike-iii",
-   "image": null,
-   "published_at": "2026-11-21T02:07:09Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "88466b9334c1e830ab16819a9f86e4ddabda3250",
-   "title": "Mohammad Rizwan, Shan Masood, Saim Ayub dropped as PCB unveils central contracts",
-   "summary": [
-    "Pakistan’s Test captain Babar Azam and Salman Ali Agha are the only two players awarded contracts covering both Test and one-day international cricket.",
-    "Azan Awais, Saud Shakeel, Mohammad Abbas and Sajid Khan have been included in the Test category while Abrar Ahmed, Arafat Minhas, Fakhar Zaman, Faheem Ashraf, Haris Rauf and Shaheen Shah Afridi have received ODI and T20I contracts.",
-    "Pakistan's T20I captain Sahibzada Farhan, Hasan Nawaz, Maaz Sadaqat, Mohammad Salman Mirza, Naseem Shah, Shadab Khan and Usman Tariq make up the T20I-only category."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641508/mohammad-rizwan-shan-masood-saim-ayub-dropped-as-pcb-unveils-central-contracts",
-   "image": null,
-   "published_at": "2026-11-21T01:56:05Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "259b88100f470f60eb52f7b53afcee955110d180",
-   "title": "Meta's India offices hit by opposition protests over account removals",
-   "summary": [
-    "The youth wing of India's main opposition ​Congress party clashed with police outside Meta offices, protesting the company's removal of some Instagram accounts of its members, ‌according to footage released by the group on Saturday.",
-    "Debate is growing in India about potential risks to free speech from the increasingly strict efforts of Indian Prime Minister Narendra Modi's government ​to remove social media content it objects to.",
-    "Congress has long accused Meta and other social ⁠media platforms of curbing dissent online by removing party accounts, favouring Modi's government."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641506/metas-india-offices-hit-by-opposition-protests-over-account-removals",
-   "image": null,
-   "published_at": "2026-11-21T01:55:44Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "11ecd27ef94fdfef2bfb4ae9de9cc4be39a05b4d",
-   "title": "Saudi Arabia says it intercepts three Houthi missiles targeting Riyadh",
-   "summary": [
-    "The Saudi-led coalition fighting Yemen's Iran-aligned Houthis said on Saturday it had intercepted and destroyed three ballistic missiles fired towards Riyadh, marking the second Houthi attack on the Saudi capital in a few days, after its tallest skyscraper was struck on Thursday.",
-    "The latest attack followed an escalation in cross-border strikes on Friday, when the Saudi-led coalition said it had struck the Red Sea port of Hodeidah and carried out operations targeting Houthi missile and drone capabilities in the capital, Sanaa.",
-    "Separately, the army noted strikes on Friday by the Saudi-led coalition against facilities at the Hudaydah port in western Yemen and sites in the capital Sanaa that it said were being used by the Houthis to support military operations."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641505/saudi-arabia-says-it-intercepts-three-houthi-missiles-targeting-riyadh",
-   "image": null,
-   "published_at": "2026-11-21T01:52:22Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "3e98f529bb7272708f0f2badb4907b7238b91303",
-   "title": "India on top in first New Zealand Test",
-   "summary": [
-    "KL Rahul made 136 and Shubman Gill 98 as India were 486-4 at the close of play Saturday in the first Test against New Zealand, a lead of 118 runs with two days remaining.",
-    "Kyle Jamieson was the best of New Zealand's bowlers taking 1-57, while Duffy ended the day with the fourth most expensive figures in New Zealand's Test history, with 1-180 from 29 overs.",
-    "India had resumed at 159-1 to start the day, a deficit of 209 runs, with Rahul on 52 and Padikkal on 16."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641504/india-on-top-in-first-new-zealand-test",
-   "image": null,
-   "published_at": "2026-11-21T01:51:28Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "d78625d01eb1c9bbdbbb88ac6747c5206513b724",
-   "title": "New caravan of about 300 migrants crosses into southern Mexico",
-   "summary": [
-    "A caravan of about 300 migrants, mostly from Central America, crossed into southern Mexico on Friday to join a larger group heading north, a week after United States President Donald Trump threatened fresh tariffs on Mexico if it did not halt the movement.",
-    "Read: Trump's personalised diplomacy hits its limits with 3-way summit \"We’ve thought about staying in Mexico to work, until Donald Trump leaves office,\" said Herson David Escalante, a Honduran national, as he walked as part of the new caravan.",
-    "Last week, Trump threatened to double tariffs on goods from Mexico if its authorities did not stop the caravan."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641502/new-caravan-of-about-300-migrants-crosses-into-southern-mexico",
-   "image": null,
-   "published_at": "2026-11-21T01:35:36Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "88a0c0c8c7157534da61e1cfb11c2decf453fac8",
-   "title": "Iraq fire at Basra power station kills at least four, injures 30",
-   "summary": [
-    "At least 4 people were killed and 30 injured in a fire at a power station in southern Iraq on Saturday, with the toll expected to rise, security officials said.",
-    "Civil defence teams brought the fire at the Hartha power station north of Basra under control after firefighters responded to the incident, Iraq's state news agency, INA, reported.",
-    "The fire spread to neighbouring houses and forced operations at the power station to stop, the security officials said."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641501/iraq-fire-at-basra-power-station-kills-at-least-four-injures-30",
-   "image": null,
-   "published_at": "2026-11-21T01:27:55Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "553599380281f0822de6fbb8f4aa5f5a9e6dbe45",
-   "title": "PM Shehbaz condemns Houthi attack on Riyadh’s King Abdullah Financial District",
-   "summary": [
-    "Prime Minister Shehbaz Sharif on Saturday strongly condemned the Houthi attack on the King Abdullah Financial District in Riyadh, describing it as an act of “reckless aggression” targeting civilian infrastructure and economic facilities.",
-    "The latest attack followed an escalation in cross-border strikes on Friday, when the Saudi-led coalition said it had struck the Red Sea port of Hodeidah and carried out operations targeting Houthi missile and drone capabilities in the capital, Sanaa.",
-    "On October 26, Pakistan strongly condemned \"reprehensible\" Houthi ballistic missile attacks on October 24, which had targeted the Makkah and Madinah regions of Saudi Arabia, including areas in the vicinity of the holy sites."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641500/pm-shehbaz-condemns-houthi-attack-on-riyadhs-king-abdullah-financial-district",
-   "image": null,
-   "published_at": "2026-11-21T01:12:10Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "a9e260bc663de1b31bf34b0bf63a0ffde2317b2e",
-   "title": "Trump vows to make ‘permanent’ deal with Iran, prevent future nuclear ambitions",
-   "summary": [
-    "US President Donald Trump said on Saturday he intended to secure a “permanent” deal with Iran, insisting that no future American president should be able to allow Tehran to obtain a nuclear weapon.",
-    "Follow: https://t.co/GHI09iA8ru pic.twitter.com/fnVToCKWlP — Press TV 🔻 (@PressTV) November 21, 2026 Iran also released a video showcasing a new underground \"missile city\", featuring a double-missile launcher.",
-    "Trump, in a press conference on Friday, said: \"They want to make a deal, but they don't want to make a deal that's acceptable to me.\" The United States and Israel attacked Iran on February 28, prompting Tehran to retaliate against Israel and Gulf states hosting US military bases."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641499/iran-urges-world-to-remember-168-killed-in-us-airstrikes-on-school-in-minab",
-   "image": null,
-   "published_at": "2026-11-20T23:58:41Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "9cef7974c54acb1fd04739c045cbff993bbb579f",
-   "title": "NAB challenges plea against FCC jurisdiction",
-   "summary": [
-    "The National Accountability Bureau (NAB) has questioned the maintainability of a petition challenging amendments to the accountability law that transferred jurisdiction over second appeals in NAB cases from the Supreme Court to the Federal Constitutional Court (FCC).",
-    "The Islamabad High Court (IHC), while hearing the plea on Friday, sought arguments from NAB on the maintainability of the petition at the next hearing and adjourned the proceedings without fixing a date for further hearing.",
-    "The petition challenges an amendment under which appellate jurisdiction in NAB cases, following decisions by high courts, was shifted from the Supreme Court to the FCC."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641458/nab-challenges-plea-against-fcc-jurisdiction",
-   "image": null,
-   "published_at": "2026-11-20T16:59:44Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "8a44d1e317d27f5e174558a80bfb38ccbdf34362",
-   "title": "Mustafa Kamal links MQM-P's demand for new provinces to failure of local governments",
-   "summary": [
-    "Kamal's remarks came amid an escalating political row between the MQM-P and the Pakistan Peoples Party (PPP) over the creation of new provinces.",
-    "The proposal drew the interest of the Muttahida Qaumi Movement-Pakistan (MQM-P), which has repeatedly advocated carving out new provinces from Sindh.",
-    "Speaking about another major public health challenge, Kamal said approximately 11 million people had been identified with Hepatitis C during screening in Pakistan."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641377/mustafa-kamal-links-mqm-ps-demand-for-new-provinces-to-failure-of-local-governments",
-   "image": null,
-   "published_at": "2026-11-20T06:30:26Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "b5d4a91697721904830cf4b1f8d68ed13fb1be4a",
-   "title": "PTI backs referendum to determine public opinion on creation of new provinces",
-   "summary": [
-    "Dogar said PTI founder Imran Khan had consistently advocated the creation of smaller provinces, adding that a separate South Punjab province had been included in the party's 2018 election manifesto.",
-    "Read: Govt moves to break deadlock over new provinces through political dialogue Dogar said divisions within the ruling coalition made it premature for the opposition to decide its position on the proposed constitutional amendment.",
-    "On the proposed parliamentary committee on electoral reforms, Dogar said government Chief Whip Tariq Fazal Chaudhry had asked the opposition to nominate its members."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641368/pti-backs-referendum-to-determine-public-opinion-on-creation-of-new-provinces",
-   "image": null,
-   "published_at": "2026-11-20T05:23:07Z",
    "category": "pakistan",
    "related": []
   }

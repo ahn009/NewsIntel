@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-21T17:22:30.039608Z",
+ "generated_at": "2026-11-21T23:04:04.930456Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
-  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/home": "ok",
+  "https://www.dawn.com/feeds/pakistan": "ok",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,12 +20,482 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "ok"
+  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
   {
+   "id": "325f1a2a1c9a284cc9cd80e1b74626a99c5032cd",
+   "title": "Man found dead on Flinders Island linked to shooting of police officer, Tasmanian authorities say",
+   "summary": [
+    "Body of a man in his 20s discovered by police who were sent to investigate the shooting of an officer, who is in a serious but stable conditionGet our breaking news email, free app or daily news podcastAn on-duty police officer has been shot and a man found dead nearby as police investigate two firearm incidents in a tiny Tasmanian town.The officer was working at Whitemark police station on Flinders Island, north-east of the island of Tasmania, when he was shot at about 9.45pm on Saturday night."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/22/man-found-dead-on-flinders-island-linked-to-shooting-of-police-officer-tasmanian-authorities-say",
+   "image": "https://i.guim.co.uk/img/media/37ac1eff6d2198604ce1f56e02ba752ac5645c8a/531_0_4102_3283/master/4102.jpg?width=140&quality=85&auto=format&fit=max&s=26d1f4dbd1fc4ff0ffb581dcebb1e837",
+   "published_at": "2026-11-21T22:41:36Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "460719117a505666c4ee4bea9f09d6c12897027d",
+   "title": "Trump orders federal contractors to check with White House before responding to Congress",
+   "summary": [
+    "President Trump is directing federal contractors to consult the White House about inquiries from Congress and to withhold any communications that his administration considers privileged.(Image credit: Jacquelyn Martin)"
+   ],
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
+   "image": null,
+   "published_at": "2026-11-21T22:40:36Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "299849b262daed6bda38928d8130e76b5e4b420f",
+   "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+   "summary": [
+    "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-21T22:19:43Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "1ad9b7c2c0b230253d9625141eaface47fa15839",
+   "title": "Bahrain says Iranian attack hits industrial facility",
+   "summary": [
+    "Bahrain says Iranian attack hits industrial facility"
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T22:02:03Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "cabda8bbd81bfa0e0fd1a3a7814617660bc6492e",
+   "title": "Lock of former US President George Washington's hair sells for $4,000",
+   "summary": [
+    "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-21T22:01:19Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "0a231aee0003d9fdc84746507304eceec425d6c9",
+   "title": "Bahrain says Iranian attack causes fire at industrial facility",
+   "summary": [
+    "Bahrain reports no injuries, as Iran's IRGC says it targeted US military positions at two bases in al-Riffa and Awali."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T21:31:03Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "29429e32448ec25d977cdec7c0ed16d1d859d9d9",
+   "title": "Impunity fuels surge in settler violence across occupied West Bank",
+   "summary": [
+    "Impunity fuels surge in settler violence across occupied West Bank"
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T21:11:54Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "0d0a739467a20d4621c7d1168deb891c27561b6c",
+   "title": "Indian man jailed over plot to kill Sikh separatist in US",
+   "summary": [
+    "An Indian national has been sentenced to more than 19 years in a US prison for plotting to assassinate Sikh separatist."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-us-sikh-separatist-pannun-assassination-plot?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T21:09:18Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "79bace62ffcba62c14f1a8fc7e1c9b5f2c6ffdae",
+   "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+   "summary": [
+    "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-21T21:05:29Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "eae34af2e53bfd1b53833e7925c9e6bc901c4223",
+   "title": "Brazil’s Jair Bolsonaro in intensive care with bowel obstruction",
+   "summary": [
+    "The former president, serving a sentence for plotting a coup, is stable and breathing on his own, the hospital says."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T21:02:18Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "2952b0e2a532887d804a7f19ed22e43160f61840",
+   "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
+   "summary": [
+    "Iran's foreign minister says reopening the strait is 'not difficult' if the US accepts reasonable conditions."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T20:56:35Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "6c2109ddef72726485fa6b004c029053ac8b11a9",
+   "title": "Thousands protest across Europe over living costs and housing",
+   "summary": [
+    "Demonstrations in France and Portugal follow youth-led protests over education and economic hardship across Europe."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T20:47:50Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "6880bf75be7263acb4efc46f0691fb83e8631493",
+   "title": "AOC challenged over AIPAC’s influence on Democratic leadership",
+   "summary": [
+    "US Representative AOC was challenged by an activist over her support for Hakeem Jeffries, in light of his ties to AIPAC."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_aoc-challenged-over-aipacs-influence-on-democrats-211126?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T20:38:20Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "4411aba23093ba4d3b7b1b68d0c44c407252c628",
+   "title": "Bayer reaches Roundup settlement that could cost the company billions",
+   "summary": [
+    "The money will go to thousands of people who have been or will be diagnosed with non-Hodgkin lymphoma – a blood cancer linked to the herbicide.(Image credit: Justin Sullivan)"
+   ],
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement",
+   "image": null,
+   "published_at": "2026-11-21T20:37:35Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "3500af305ed03afde70d667f66c4c065b614b69e",
+   "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
+   "summary": [
+    "He says that Claude helped develop a solution to the problem during the course of about six weeks."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+   "image": "https://i.guim.co.uk/img/media/d3154f68df589c297fc3d173e2bb3d95faca05c9/530_0_4678_3742/master/4678.jpg?width=140&quality=85&auto=format&fit=max&s=2be6ea0855df616ea30ffc89afed2e1f",
+   "published_at": "2026-11-21T20:15:57Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "80178d9cec2d06d73e1f7e6a9941490c297f85f5",
+   "title": "Why is the US Army detonating lead-rich explosives in Iowa?",
+   "summary": [
+    "The delayed blasts have stoked environmental fears and concerns about health effects in the state."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/21/why-is-the-us-army-detonating-lead-rich-explosives-in-iowa?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T20:15:13Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "a7135975c7cc3a6bc05cbf4231527cbee5a89f78",
+   "title": "Noni Madueke salvages draw for Arsenal at Newcastle United as Raya injured",
+   "summary": [
+    "League leaders Arsenal miss the chance to go eight points clear of second placed Brighton, who play on Sunday."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/11/21/noni-madueke-salvages-draw-for-arsenal-at-newcastle-united-as-raya-injured?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T19:53:00Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "6bb0948a08a8b60c17b46b7f9af72351ca25f9ba",
+   "title": "Man charged with attempted murder after councillor stabbed in Bradford",
+   "summary": [
+    "Arfan Ali, 31, has also been charged with assault and possession of an offensive weapon in a public placeA man has been charged with attempted murder after a local councillor was stabbed while working in the community in Bradford, police have said.Arfan Ali, 32, is accused of attacking Ibrar Ali, 52, at about 11am on Thursday in the West Yorkshire city."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/21/man-charged-with-attempted-after-councillor-stabbed-in-bradford",
+   "image": "https://i.guim.co.uk/img/media/d5d63a095a45669cc7ca9471cec50901a1e1863d/0_688_1796_1437/master/1796.jpg?width=140&quality=85&auto=format&fit=max&s=ec99552cf68785b3ea7b28db64834b0b",
+   "published_at": "2026-11-21T19:42:42Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "4c9d70de279cb63cb4b7f6b77a1970e975964624",
+   "title": "Russia-bound ship attacked in Gulf of Finland",
+   "summary": [
+    "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-21T19:20:22Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "cdabda9f591abb40d3806ad8d7c564409a543b21",
+   "title": "‘Six, seven, maybe more preventable deaths’: Queensland’s LNP faces reckoning over broken health system",
+   "summary": [
+    "Many wondered why he wanted to stay on after the party’s drubbing in 2024.",
+    "Some of Labor’s factional whisperers were telling anyone who would listen that the former premier’s leadership would come to an end in the weeks before Christmas."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/22/queensland-health-ambulance-deaths-lnp-labor-ntwnfb",
+   "image": "https://i.guim.co.uk/img/media/e9bb488d6f56a808e4c08a19e1ddea696735455d/410_0_2606_2085/master/2606.jpg?width=140&quality=85&auto=format&fit=max&s=4f36239acbfcd8f7333ae1e3de2f8bf2",
+   "published_at": "2026-11-21T19:00:08Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "3977b4ac2205104fc455789cbc6908453b1c14ff",
+   "title": "Cigarettes on silver platters at Bondi ‘clean’ beauty business lip gloss launch referred for investigation",
+   "summary": [
+    "Copini Beauty referred to New South Wales health regulators, while federal government says it is ‘deeply concerned’Get our breaking news email, free app or daily news podcastAn Australian beauty company that promotes “clean” ingredients “free from skin irritants” has been referred to state health regulators after appearing to offer cigarettes to guests at a beachside lip gloss launch.Photos from an event held earlier in November at a venue in Bondi, Sydney show what appears to be loose cigarettes without health warnings on a tiered silver platter alongside a bowl of lip glosses."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/22/cigarette-platter-bondi-copini-beauty-event-investigation",
+   "image": "https://i.guim.co.uk/img/media/6ce0bb93a4da40d20b813c67e99af09399f8268b/214_0_1747_1398/master/1747.jpg?width=140&quality=85&auto=format&fit=max&s=1a964940fcd99abace8e52b45c33992e",
+   "published_at": "2026-11-21T19:00:07Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "96394a4bee6598fbdfb02620edb8b43c436692cc",
+   "title": "Australian neo-Nazis among far-right groups raising hundreds of thousands via global crowdfunding platform",
+   "summary": [
+    "GiveSendGo has been accused of facilitating the financing of extremism, but the platform says it does not ‘condone racism, discrimination, hate speech, or violence of any kind’Get our breaking news email, free app or daily news podcastAustralian neo-Nazis have raised hundreds of thousands of dollars on the global crowdfunding platform GiveSendGo, which has been accused of facilitating the financing of hate and extremism.Of the 68 Australian fundraisers on the site, the White Australia party has raised the fourth-highest amount of money with $200,000 for its high court battle to overturn its ban as a designated hate group."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/22/australian-neo-nazis-among-far-right-groups-raising-hundreds-of-thousands-via-global-crowdfunding-platform-ntwnfb",
+   "image": "https://i.guim.co.uk/img/media/f407e25401074b0d9b8e2c21e82c592c40e9f9f0/512_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=b957a7fcf2ffb37f8d972e65ce799d6e",
+   "published_at": "2026-11-21T19:00:06Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "635c339e1bd25625bca8428c5879506a7088e7d1",
+   "title": "Louisiana man charged with killing woman on hiking trail and murdering co-worker with crossbow",
+   "summary": [
+    "Jared Schurr arrested in Mississippi after Lizeht Rodriguez and Woodrow Scott died in otherwise unrelated killingsA man recently strangled a woman to death whom he did not know along a hiking trail north of New Orleans – then killed his co-worker with a crossbow two days later before being arrested in Mississippi after a police chase, authorities allege.Jared Schurr, 36, faces counts of second-degree murder in the killings of Lizeht Rodriguez, 24, and Woodrow Scott, 37, on 11 and 13 November, respectively, investigators said on Saturday."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/21/louisiana-mississippi-hiking-trail-crossbow-murder-charges",
+   "image": "https://i.guim.co.uk/img/media/f4c6abe204a85016df59a803d74bfc353e054666/430_0_4250_3400/master/4250.jpg?width=140&quality=85&auto=format&fit=max&s=7eaeafaffdf4267ef1ced9659ed1e84c",
+   "published_at": "2026-11-21T18:50:00Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "1dde4d335561be99d4610f11effd1145f4ed96f3",
+   "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
+   "summary": [
+    "Russia launched more than 400 drones and 110 missiles across Ukraine overnight, killing at least seven in Kyiv."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T18:42:38Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "6c3af45b1395dbb4c407e4bf6c1178bcbca3d8e6",
+   "title": "Storms expected on both coasts threatens Thanksgiving travel",
+   "summary": [
+    "The mayor of San Francisco is asking people in the city not to travel unless \"absolutely essential.\" Meanwhile, a storm moving up the Eastern seaboard could also cause travel delays ahead of Thanksgiving.(Image credit: Joe Raedle)"
+   ],
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino",
+   "image": null,
+   "published_at": "2026-11-21T18:22:46Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "0b0e060ad4ed3c25b2c6485b72ae41e8d62d521d",
+   "title": "Suffolk village votes to ‘leave the UK’ over plans to house asylum seekers nearby",
+   "summary": [
+    "There were 257 votes for independence, 16 against and one spoiled ballot."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/21/suffolk-village-votes-to-leave-the-uk-over-plans-to-house-asylum-seekers-nearby",
+   "image": "https://i.guim.co.uk/img/media/bfb4a0d197f8daee0456ecc459f3eddb4cc320cc/835_0_4628_3704/master/4628.jpg?width=140&quality=85&auto=format&fit=max&s=3f0a91a0567e177545453ca396f15e90",
+   "published_at": "2026-11-21T18:20:37Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "1af11fa6c7cbeb4634a931e9927bcd7dc616165f",
+   "title": "FBI national crime database suffers suspected breach: Reports",
+   "summary": [
+    "The reported hacking is the latest in ​a string of breaches and outages affecting the US government."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/21/fbi-national-crime-database-suffers-suspected-breach-reports?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T18:19:10Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "925a1909408b0d1be876d23c1875f0affb02405d",
+   "title": "Could Brexit be reversed?",
+   "summary": [
+    "UK Prime Minister Andy Burnham hopes his country will rejoin the EU in his lifetime."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/inside-story/2026/11/21/could-brexit-be-reversed?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T18:18:11Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "efe791339806547e2ac59e678df2a1bcc41d0857",
+   "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence",
+   "summary": [
+    "Fausto Isidro Meza Flores, better known as \"El Chapo Isidro,\" was one of the FBI's most wanted fugitives.",
+    "His arrest in northwest Mexico on Saturday has sparked violence in the region.(Image credit: Claudia Rosel)"
+   ],
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
+   "image": null,
+   "published_at": "2026-11-21T18:08:55Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "7ac6d14389feef653a0c7c56a0beb3c6acfc7890",
+   "title": "Trump orders contractors to check with White House over any congressional inquiries",
+   "summary": [
+    "If they fail to comply, the White House warns, their contracts could be terminated and their future work with the federal government suspended."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/21/trump-contractors-congress-executive-order",
+   "image": "https://i.guim.co.uk/img/media/f021398e23c64249dd270de109b550a94bbd26fb/332_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=ac681459ea7485f2b61ae3c5952d9496",
+   "published_at": "2026-11-21T18:08:30Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "5d4b6e627c695fe1a1d2d2e5bd4cd6b3e313eb17",
+   "title": "Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons",
+   "summary": [
+    "US President Donald Trump says he wants a permanent agreement to prevent Iran from developing nuclear weapons."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T18:05:51Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "506d22f83e7b8912c8759f681404c2e4cd3ebb36",
+   "title": "UK police drag man from protest over ‘Pallet Sign Acton’ shirt",
+   "summary": [
+    "UK police drag man from protest over ‘Pallet Sign Acton’ shirt"
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/uk-police-drag-man-from-protest-over-pallet-sign-acton-shirt?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T17:57:27Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "20cd31db71e9a2feb1ed515c82ca218447b56663",
+   "title": "Israeli strike hits food aid vehicle in Gaza, killing three",
+   "summary": [
+    "Three Palestinians were killed in an Israeli air attack on a vehicle carrying food."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T17:54:19Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "11a79bbce9a7451d16f7bccb1367de5f90950b0f",
+   "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
+   "summary": [
+    "Fausto Isidro Meza Flores was one of FBI’s most wanted fugitives and evaded capture for more than a decadeThe Mexican military captured one of the FBI’s 10 most wanted fugitives during a special forces raid in the Mexican state of Sinaloa on Friday night.Fausto Isidro Meza Flores, known as “El Chapo Isidro”, was arrested along with two other alleged leaders of his gang after a gun battle that triggered widespread panic in the city of Guasave."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
+   "image": "https://i.guim.co.uk/img/media/109833a4d1387ede241180856c6e37007aa8a6a3/264_354_897_717/master/897.jpg?width=140&quality=85&auto=format&fit=max&s=8e424ac24ad3eb43602b54fde7ef7bfb",
+   "published_at": "2026-11-21T17:46:55Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "11fb6198d15619d3c3fc0285191a046bbe0303e6",
+   "title": "Liverpool vs Manchester United: Premier League – teams, prediction, lineups",
+   "summary": [
+    "One of sport's biggest rivalries takes centre stage as Liverpool host a Man United side in the EPL relegation zone."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/11/21/liverpool-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T17:28:51Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "5cbcf31514b335518eae1242343746af332c9f10",
+   "title": "Vance stops short of endorsing Trump’s claim that Iran was close to nuclear weapon",
+   "summary": [
+    "US vice-president says it’s not his place to second-guess the president, but refrains from endorsing Trump’s claim At a White House news conference on Friday, JD Vance stopped short of endorsing Donald Trump’s claim that Iran was so close to obtaining a nuclear weapon in February that it was essential for the US to go to war with the Islamic republic.In the White House briefing room, Trump was asked about reporting this week that he was unhappy with the US vice-president’s statement blaming Republican losses in the midterm elections on the Iran war."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/21/vance-trump-iran-nuclear-weapon",
+   "image": "https://i.guim.co.uk/img/media/b5b32185795e8abee801ae63027a8874bf8934f3/853_0_6654_5323/master/6654.jpg?width=140&quality=85&auto=format&fit=max&s=f15e18b09d6e9d25f896019877a21ae8",
+   "published_at": "2026-11-21T17:24:51Z",
+   "category": "world",
+   "related": []
+  },
+  {
    "id": "01bc620cb8045233690a8ec33684b404a1055d50",
-   "title": "Chelsea beaten 4-1 by Leeds United at home in the Premier League",
+   "title": "Chelsea beaten 4-1 by Leeds to suffer third loss in four in Premier League",
    "summary": [
     "Leeds come from a goal down at Stamford Bridge to shock Chelsea and climb above their hosts to sixth in Premier League."
    ],
@@ -50,19 +520,6 @@
    "related": []
   },
   {
-   "id": "3500af305ed03afde70d667f66c4c065b614b69e",
-   "title": "Anthropic mathematician claims he used Claude to prove 19th-century Riemann hypothesis",
-   "summary": [
-    "He says that Claude helped develop a solution to the problem during the course of about six weeks."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
-   "image": "https://i.guim.co.uk/img/media/d3154f68df589c297fc3d173e2bb3d95faca05c9/530_0_4678_3742/master/4678.jpg?width=140&quality=85&auto=format&fit=max&s=2be6ea0855df616ea30ffc89afed2e1f",
-   "published_at": "2026-11-21T16:39:49Z",
-   "category": "world",
-   "related": []
-  },
-  {
    "id": "158994b8ae4ecd45a372af36b26b26fdedb8738c",
    "title": "International UN talks on controlling use of autonomous weapons collapse",
    "summary": [
@@ -76,477 +533,15 @@
    "related": []
   },
   {
-   "id": "a321f063e309d3fda53fe4a5f81d88a29a3114cd",
-   "title": "India’s opposition stages protests against Meta over account removals",
+   "id": "e86869f8921697db91e44fc9577a43c90c4ce987",
+   "title": "FBI reportedly investigating apparent hack of its criminal database",
    "summary": [
-    "Indian Youth Congress issues a seven-day 'ultimatum' to the US technology giant, urging it to lift all restrictions."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T16:14:01Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "7edb1f5909757f100e5ffa1d0bca9dbb1cd4ab58",
-   "title": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
-   "summary": [
-    "Mexican forces arrested Chapo Isidro in Sinaloa.",
-    "He was on the FBI’s most wanted list and faces US drug charges."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T16:03:16Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "3b48cc532e5f5f5a4a7888fc50330c07d135c090",
-   "title": "US midterms 2026: What happens before the new Congress takes office?",
-   "summary": [
-    "What happens between the US midterm elections and January, when Democrats take control of Congress?"
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T15:49:32Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "8af3055b5461492d7908191880795c35209f4711",
-   "title": "French presidential candidate blames media for racist attack",
-   "summary": [
-    "French presidential candidate blames media for racist attack"
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/french-presidential-candidate-blames-media-for-racist-attack?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T15:46:18Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "da9c6a6f2638047ce9a521706e7e78ea02328739",
-   "title": "Virginia child dies in state’s first measles-associated death of 2026",
-   "summary": [
-    "It did not disclose additional details, including the child’s vaccination status, citing the family’s privacy."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/21/virginia-child-dies-measles",
-   "image": "https://i.guim.co.uk/img/media/c0ce942a27e560d3ae51a4e8900971d7de2d7ccb/574_0_5736_4589/master/5736.jpg?width=140&quality=85&auto=format&fit=max&s=1636a3ff8a4d86dc6e0b6d3ec9c17bee",
-   "published_at": "2026-11-21T15:30:07Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "9837acf6063e3c9e7fb4af81adc51b21c3e20a09",
-   "title": "Diallo present as Africa’s Motsepe reiterates support for FIFA’s Infantino",
-   "summary": [
-    "Africa's CAF join South America's CONMEBOL in giving unanimous support of FIFA President Gianni Infantino's re-election."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/sports/2026/11/21/diallo-present-as-africa-football-boss-motsepe-reiterates-infantino-support?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T15:20:43Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "8d21ce3be65172211d50343c4295217e5f537af6",
-   "title": "British man recalls ‘despair’ over son’s death after fall from Cyprus window",
-   "summary": [
-    "Prosecutors in Cyprus had refused to drop the case against him."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/21/british-man-recalls-despair-over-sons-death-after-fall-from-cyprus-window",
-   "image": "https://i.guim.co.uk/img/media/448b8cda06ae22c1900e5ff11f009b62f3b449f9/231_146_2907_2326/master/2907.jpg?width=140&quality=85&auto=format&fit=max&s=3d6c28c8cb97f9ee223f182855c56ec4",
-   "published_at": "2026-11-21T15:19:03Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "17173d03ce65f9f0ee446b143af8d54c2a25f882",
-   "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
-   "summary": [
-    "British maritime agency reports two incidents near Oman, while Iran says a tanker caught fire due to naval mine."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T15:01:18Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "00e77640c25aba0e3f1b16e435b8e2578b07d64a",
-   "title": "SNL’s skit Sister captures the quiet agony of caregiving for women: ‘I’ve never felt seen like that’",
-   "summary": [
-    "The viral satirization of the caregiving burden left to women and daughters hit home for many viewersThe Saturday Night Live sketch, titled Sister quickly went viral this week for its satirization of the burden that women and daughters face to take care of aging family members.",
-    "Another posted: “As a hospice nurse this definitely tracks.",
-    "I deal 90% of the time with adult daughters, and if there is no daughter, it is the daughter in law.” “This is so real it almost gave me a stroke from rage,” added another viewer."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/tv-and-radio/2026/nov/21/snl-sister-caregiving",
-   "image": "https://i.guim.co.uk/img/media/7bfc72a64cf39369ce4dc05177044fe3f366251c/244_0_2511_2010/master/2511.jpg?width=140&quality=85&auto=format&fit=max&s=19c99eb7a70e07f624849ef48297753d",
-   "published_at": "2026-11-21T15:00:01Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "299849b262daed6bda38928d8130e76b5e4b420f",
-   "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-   "summary": [
-    "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement."
+    "The National Crime Information Center database is used by federal and local law enforcement to share information."
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-21T14:54:24Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "5f7e494dc48ee2bcada1124aaa6151daf24575bd",
-   "title": "Federal judge denies request to release man shot by immigration agents in New York",
-   "summary": [
-    "However, he wrote, that was merely a technical error that does not require Belgal to be released from federal custody pending deportation proceedings."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/21/new-york-judge-ice-shooting-immigration",
-   "image": "https://i.guim.co.uk/img/media/b7cd93f6008b4c4b5a411a1c48698ec3368fecbe/119_0_2077_1662/master/2077.jpg?width=140&quality=85&auto=format&fit=max&s=ab0135e0bab9ea79f8515516a63f32ca",
-   "published_at": "2026-11-21T14:52:30Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "72dc2f0a14f7ed60a043b5bb523411858d3e2df2",
-   "title": "Cold gives way to rain in parts of UK as weather warning issued for south-west England",
-   "summary": [
-    "The warning will be in place from 6am on Sunday until midnight."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/21/uk-weather-cold-rain-warning-south-west-england",
-   "image": "https://i.guim.co.uk/img/media/cf9535c982b545e490c47bb89f288a644547dd4d/1843_310_3857_3087/master/3857.jpg?width=140&quality=85&auto=format&fit=max&s=f299fe872d2c38b6da23898897e0abf4",
-   "published_at": "2026-11-21T14:51:37Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "79a02425ec1794ffe32c4435fdc9ca80514a2dba",
-   "title": "Princess of Wales speaks about impact of cancer diagnosis in BBC film Heal",
-   "summary": [
-    "It changes you physically, but there’s a much, much deeper part to what a cancer diagnosis shifts in you.” Continue reading..."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/21/princess-of-wales-impact-cancer-diagnosis-bbc-film-heal",
-   "image": "https://i.guim.co.uk/img/media/fd810cd935a14aa8ada325f3b3bdf72e59b7c84f/726_0_3234_2588/master/3234.jpg?width=140&quality=85&auto=format&fit=max&s=ded2b02305fcd1f7c92e952042674919",
-   "published_at": "2026-11-21T14:42:56Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "a1f3faa7350ac7980f283cbd1ccca3ec33285f5c",
-   "title": "‘Hell dorm’: Florida prisoners testify about 119F heat indexes and walls that sweat",
-   "summary": [
-    "The plaintiff’s law firm, the Florida Justice Institute, convinced a judge to allow 31 sensors to be temporarily installed throughout the prison during the summer of 2025.",
-    "They recorded temperature and humidity levels that Stefano Shiavon, a professor of civil and environmental engineering with expertise in thermal comfort, used to calculate the heat index.",
-    "No air comes to the bed we sleep at and the bed is soaked in sweat.” Continue reading..."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/21/florida-prisoner-lawsuit-extreme-heat",
-   "image": "https://i.guim.co.uk/img/media/927934c914d0ee17837ad17f16babd0941cd47e9/193_0_3892_3114/master/3892.jpg?width=140&quality=85&auto=format&fit=max&s=c95999168f3905f4c0ff69be6d003f81",
-   "published_at": "2026-11-21T14:38:58Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "c84380ea23baad9c376dbad4927e5f205ca7287f",
-   "title": "Man City claw back 1-1 draw with Fulham to end three-game losing streak",
-   "summary": [
-    "Rodrigo Muniz set Fulham on the way but Elliot Anderson volley earns Manchester City a valuable Premier League point."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/sports/2026/11/21/man-city-fightback-for-1-1-draw-with-fulham-to-end-three-game-losing-streak?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T14:35:52Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "722b9477dff164365e1f4e07352210f5f2b5a8a0",
-   "title": "Newcastle United vs Arsenal LIVE: Premier League",
-   "summary": [
-    "Follow updates from the Premier League clash, including the build-up, analysis and live text commentary of the game."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/sports/liveblog/2026/11/21/newcastle-united-vs-arsenal-live-premier-league?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T14:30:00Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "d615c59e615c53a15f4d11929d86481746acad34",
-   "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
-   "summary": [
-    "U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy.(Image credit: Efrem Lukatsky)"
-   ],
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
-   "image": null,
-   "published_at": "2026-11-21T14:18:17Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "5f47715e9799aa46032f93de1f008e636f1f497f",
-   "title": "Could Iran reverse its stated policy of a civil-only nuclear programme?",
-   "summary": [
-    "Iran's FM Araghchi says there is 'major strategic debate' about the future of Iran's nuclear doctrine."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T14:15:36Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "4d594910102f2875c4b9917a936f07e75f82af11",
-   "title": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
-   "summary": [
-    "Jerusalem Daily: Gaza faces deadly strikes and health crisis"
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/jerusalem-daily-gaza-faces-deadly-strikes-and-health-crisis?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T14:06:06Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "80154fe65d348e4eea809957b4b9d45fe5e1739d",
-   "title": "Denmark to expel Russian diplomat over alleged plot to kill US-Ukrainian rapper",
-   "summary": [
-    "The expulsion will happen within seven days."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
-   "image": "https://i.guim.co.uk/img/media/5a7dd431910379766554a57f1bae363afdb4ad03/516_0_4178_3342/master/4178.jpg?width=140&quality=85&auto=format&fit=max&s=d1fbfde89ec546b8b49bea9f8d347ad5",
-   "published_at": "2026-11-21T14:03:50Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "f328baf8aab587dc1713106bc9ed604e74b46161",
-   "title": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
-   "summary": [
-    "Prosecutors argued the defendant, 30-year-old Jonathan Rinderknecht, had been \"mad at everything\" in the days leading up to the January 2025 fire, which killed 12 people.(Image credit: Etienne Laurent)"
-   ],
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
-   "image": null,
-   "published_at": "2026-11-21T13:58:33Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "1c20aabfa0ef2b66dde54133b3b75697c9cd7fc5",
-   "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-   "summary": [
-    "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-21T13:17:38Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "79bace62ffcba62c14f1a8fc7e1c9b5f2c6ffdae",
-   "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-   "summary": [
-    "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-21T13:15:21Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "556448d4505387bc09b7893df067a58f2f7e5968",
-   "title": "Chaudhary helps Australia beat England in T20 shake-off of scandal-hit run",
-   "summary": [
-    "Australia beat England by three wickets with only one ball to spare as Nikhil Chaudhary's 66 leads charge in Melbourne."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/sports/2026/11/21/chaudhary-helps-australia-beat-england-in-t20-shake-off-of-scandal-hit-run?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T13:08:59Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "56f108c7a339f383d4891b32a6f44bebcf6ea315",
-   "title": "Perspective: Defining 'human'",
-   "summary": [
-    "The Cambridge Dictionary has chosen the word \"human\" as its Word of the Year.",
-    "Why ever might a word that entered the English language over 500 years ago be so honored?(Image credit: Andreea Alexandru)"
-   ],
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/21/nx-s1-6041585/perspective-defining-human",
-   "image": null,
-   "published_at": "2026-11-21T13:00:00Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "593bf1952407109facebf35bcd9b83e82bbe7c2b",
-   "title": "Riemann hypothesis: Has the world’s most famous maths problem been cracked?",
-   "summary": [
-    "Mathematicians say the claimed proof, made with Claude, could be historic, but it may take weeks to understand it."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/21/riemann-hypothesis-has-the-worlds-most-famous-maths-problem-been-cracked?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T12:49:20Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "6d5ff7529d539700fdf62e6a1a7a0e9a76041f3c",
-   "title": "Russian crew evacuating ship hit by drones off coast of Finland",
-   "summary": [
-    "Two drones attack cargo ship that Finnish authorities say has links to Russia's armed forces."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T12:45:24Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "d77db62f359948f61501eab697d411e706f77054",
-   "title": "Senate permitting bill speeds up renewables, divides greens over oil and gas",
-   "summary": [
-    "A permitting reform bill in the Senate could help speed the development of renewable energy projects, but it's splitting environmentalists over other provisions that help the oil and gas industry."
-   ],
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/21/nx-s1-6046482/senate-permitting-bill-speeds-up-renewables-divides-greens-over-oil-and-gas",
-   "image": null,
-   "published_at": "2026-11-21T12:40:17Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "a54d31ce80907cb181fff8c3492cab915d417f92",
-   "title": "Sudan’s elderly face hardship and heartbreak in a life of displacement",
-   "summary": [
-    "Sudan's displaced elderly often have to support grandchildren or fend for themselves."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/21/sudans-elderly-face-hardship-and-heartbreak-in-a-life-of-displacement?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T12:30:49Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "fd3efd63d803fd4fb03215031224f9d6a9f96786",
-   "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
-   "summary": [
-    "A mathematician who works for artificial intelligence giant Anthropic claims he has solved a Holy Grail of math problems with the help of the company's AI tool Claude.",
-    "It marks the second time in recent months that an AI company or someone linked to one claims to have cracked a famed unsolved math problem.(Image credit: Seth Wenig)"
-   ],
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
-   "image": null,
-   "published_at": "2026-11-21T12:30:16Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "5ebdc85de961cb397cd0ccb92569b3963ed58c8b",
-   "title": "Israeli strike on vehicle distributing food aid in Gaza kills three",
-   "summary": [
-    "Separately, Palestinian man is shot dead by Israeli forces in Jabalia and three people injured in attack in Khan Younis."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T12:29:49Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "b28eefa3bc614ca7bf30ad71466de90eec39eedf",
-   "title": "Reform UK considers pact with Restore Britain to overcome stalling performance in polls",
-   "summary": [
-    "Thursday’s byelection in Castle Bromwich will be latest test for Nigel Farage’s party as rival eats into supportVoters go to the polls in the village of Castle Bromwich in the West Midlands on Thursday in a little-noticed election that is the latest test for Reform at a time when it is particularly vulnerable.Yet, while it is the Conservatives who are edging ahead in recent polls, the decisive difference could well be the performance of Restore Britain – the hard-right party set up by Rupert Lowe after the MP fell out with Nigel Farage."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/21/reform-uk-considers-pact-restore-britain-stalling-performance-polls",
-   "image": "https://i.guim.co.uk/img/media/5bbda4f2586156f3b160d70e965e0e2422a855c8/49_0_1180_944/master/1180.jpg?width=140&quality=85&auto=format&fit=max&s=5597b4adf0622dba743b5691a82d09af",
-   "published_at": "2026-11-21T12:22:54Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "9a7765b4ed75537c14bd288375f07628485aa228",
-   "title": "Florida residents turn to kayaks and rafts as floods swamp streets",
-   "summary": [
-    "Days of heavy rain have flooded streets across Florida, forcing residents to find creative ways to get around."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/florida-residents-turn-to-kayaks-and-rafts-as-floods-swamp-streets?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T12:22:24Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "5cea83edc6af74e3d55b4eef683595a4463c8b35",
-   "title": "‘Music was our teacher’: the sound system pioneers reviving the scene in Manchester and beyond",
-   "summary": [
-    "For us, the sound system was not just entertainment – it was an education.” Continue reading..."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/news/2026/nov/21/sound-system-pioneers-music-manchester-windrush",
-   "image": "https://i.guim.co.uk/img/media/1233bc85cfa94b596692ad167468b0f4b76847d3/582_87_2809_2247/master/2809.jpg?width=140&quality=85&auto=format&fit=max&s=92d84e7f853c6c10f4d950cee37c2299",
-   "published_at": "2026-11-21T12:00:58Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "70bec3899003eb07fbd9b606215f5816070c848d",
-   "title": "Mexico captures FBI-wanted cartel boss in military raid",
-   "summary": [
-    "Mexico’s military captured FBI-wanted cartel leader ‘El Chapo Isidro’ in Guasave, Sinaloa."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/mexico-captures-fbi-wanted-cartel-boss-in-military-raid?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T11:53:56Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "6601f36d33e5095f76bd0161d73ae469bdef6a04",
-   "title": "Why is GTA VI so expensive to play?",
-   "summary": [
-    "Grand Theft Auto VI costs less than GTA V to buy, yet far more to play."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/11/21/why-is-gta-vi-so-expensive-to-play?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T11:39:03Z",
+   "published_at": "2026-11-21T16:35:15Z",
    "category": "world",
    "related": []
   }

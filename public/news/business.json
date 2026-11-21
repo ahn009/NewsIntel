@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-21T17:22:30.040944Z",
- "story_count": 14,
+ "generated_at": "2026-11-21T23:04:04.932082Z",
+ "story_count": 10,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
-  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/home": "ok",
+  "https://www.dawn.com/feeds/pakistan": "ok",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,7 +20,7 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "ok"
+  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
   {
@@ -151,58 +151,6 @@
    "url": "https://www.theguardian.com/environment/2026/nov/20/offshore-wind-farms-trump-fishers",
    "image": "https://i.guim.co.uk/img/media/121c48abe318604b11e3134fcbc6c9f91546e514/0_921_4480_3584/master/4480.jpg?width=140&quality=85&auto=format&fit=max&s=213d773d708486121be83b4865004f1d",
    "published_at": "2026-11-20T14:00:31Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "562df2c80c8dc794da2ea6daef33f9aac09f928f",
-   "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
-   "summary": [
-    "People stocking up on long-life food drove retail sales higher October, according to official data."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-20T09:44:56Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "849d571e5e17e74f98b665995309139e96a45ea0",
-   "title": "What impact has Brexit had on the UK and EU economies?",
-   "summary": [
-    "As talks are held in Brussels over closer relations, we examine the economic context and the challenges aheadThe UK and EU will hold the second summit since Brexit on Friday against a volatile economic backdrop.Taking place in Brussels as the war in the Middle East hits the global economy, the prime minister, Andy Burnham, will meet the head of the European Commission, Ursula von der Leyen, and the president of the European Council, António Costa."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/20/what-impact-brexit-uk-eu-economies",
-   "image": "https://i.guim.co.uk/img/media/262689907bb3a962b8ff4c1ec998672008bc17cc/1037_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=7211935cbb241db32158355594f03df7",
-   "published_at": "2026-11-20T07:00:26Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "0d7f33946a1bb407f469640b903204b6a4064c48",
-   "title": "Social poker with £5 stake is booming, says dealer",
-   "summary": [
-    "A poker league in Fenland sees a 35% rise in players since 2022."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm8947dy3kg9o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-20T06:19:25Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "eeea0e424e241a36ab8ec7137f5a30d86ebe6a72",
-   "title": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
-   "summary": [
-    "The properties are marketed at premium prices with claims of “government-backed” returns, the BBC finds."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-20T06:00:33Z",
    "category": "business",
    "related": []
   }

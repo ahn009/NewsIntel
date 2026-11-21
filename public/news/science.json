@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-21T17:22:30.041129Z",
- "story_count": 17,
+ "generated_at": "2026-11-21T23:04:04.932307Z",
+ "story_count": 14,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
-  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/home": "ok",
+  "https://www.dawn.com/feeds/pakistan": "ok",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,9 +20,22 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "ok"
+  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "7f5440f94e752f8b7312266f615d89702e5a5fa5",
+   "title": "Will COP31 end with a new global climate deal?",
+   "summary": [
+    "BBC Climate editor Justin Rowlatt reports from the COP 31 UN climate summit in Antalya, Turkey."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-21T22:44:52Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "b899eec8aba7faca4add390a1910efc2f891fc8d",
    "title": "Hormuz swim highlights environmental cost of war",
@@ -201,59 +214,6 @@
    "url": "https://www.sciencedaily.com/releases/2026/11/261119194530.htm",
    "image": null,
    "published_at": "2026-11-20T12:23:23Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "4cbd4e9e8f863b20dba1ce1ecd56cfd6118cd0bc",
-   "title": "What are heat pumps and how much do they cost?",
-   "summary": [
-    "The government wants more homes to have heat pumps to cut fossil fuel use and drive down energy bills."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c8xgdv9e007o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-20T10:24:52Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "9e246eddfd3c3ff6e31a8d038352b3ca39a8a52f",
-   "title": "Wildlife conservation cash targets ex-colliery sites",
-   "summary": [
-    "The project aims to create and restore habitats for amphibians and lizards at sites in Yorkshire."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmx2785nzpw2o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-20T06:21:50Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "8864c85aaebc75313357fb595e338dcab24a313d",
-   "title": "Mysterious Mercury is about to get a visitor - after spacecraft's eight-year epic voyage",
-   "summary": [
-    "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-20T05:59:56Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "85eb88373637178d7a0f75240ab1007c41d2bfc6",
-   "title": "Two massive stars may be secretly feeding the Milky Way’s supermassive black hole",
-   "summary": [
-    "Astronomers have traced mysterious gas clouds near the Milky Way's central supermassive black hole to a massive pair of stars whose colliding winds appear to create dense clumps of material.",
-    "These clouds may eventually feed the black hole, revealing a surprising connection between stellar activity and the growth of cosmic giants."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261119194605.htm",
-   "image": null,
-   "published_at": "2026-11-20T05:41:16Z",
    "category": "science",
    "related": []
   }

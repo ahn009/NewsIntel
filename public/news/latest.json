@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-21T17:22:30.038684Z",
+ "generated_at": "2026-11-21T23:04:04.929584Z",
  "story_count": 60,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
-  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/home": "ok",
+  "https://www.dawn.com/feeds/pakistan": "ok",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,802 +20,799 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "ok"
+  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
   {
-   "id": "01bc620cb8045233690a8ec33684b404a1055d50",
-   "title": "Chelsea beaten 4-1 by Leeds United at home in the Premier League",
+   "id": "72399fd31e93a529346bd459229e3cb6a42b9993",
+   "title": "Match of the Day",
    "summary": [
-    "Leeds come from a goal down at Stamford Bridge to shock Chelsea and climb above their hosts to sixth in Premier League."
+    "Highlights from seven Premier League games, including leaders Arsenal at Newcastle."
    ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/sports/2026/11/21/chelsea-beaten-4-1-by-leeds-united-at-home-in-the-premier-league?traffic_source=rss",
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-21T17:21:37Z",
+   "published_at": "2026-11-22T09:00:00Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "ae4d5c98b3af556d1da1f537b913d13f5d48dc11",
+   "title": "Alcaraz to face Zverev in ATP Finals title decider",
+   "summary": [
+    "Carlos Alcaraz will face world number one Alexander Zverev for the ATP Finals title after completing a superb comeback victory against Ben Shelton."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/tennis/articles/cw5y1gg7nyv0o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-21T22:50:19Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "3f5314ece91ce71c1fea3b0f5a2ed38ab523549c",
+   "title": "France beat Argentina to set up Nations Championship final with South Africa",
+   "summary": [
+    "They confirmed top spot in the northern hemisphere table with the required bonus-point win, finishing on 26 points with five wins out of six.",
+    "England (five bonus points) and Ireland (four bonus points) also won five matches, but finish second and third respectively."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/2026/nov/21/france-beat-argentina-to-set-up-nations-championship-final-with-south-africa",
+   "image": "https://i.guim.co.uk/img/media/b075c24aace53b3464962c5aa017fde567f10648/443_0_4429_3543/master/4429.jpg?width=140&quality=85&auto=format&fit=max&s=1daf1b4020c9e7dad3dd8fe9913c38a4",
+   "published_at": "2026-11-21T22:46:00Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "fc5279097272c7fd2e9fb08885ba29112c1dada1",
+   "title": "'They looked like a team again' - Hearts roar back with Dundee demolition",
+   "summary": [
+    "After a worrying week before the international break, Hearts respond is style by thrashing Dundee 8-0 at Dens Park."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cm9w98y28djno?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-21T22:45:05Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "7f5440f94e752f8b7312266f615d89702e5a5fa5",
+   "title": "Will COP31 end with a new global climate deal?",
+   "summary": [
+    "BBC Climate editor Justin Rowlatt reports from the COP 31 UN climate summit in Antalya, Turkey."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-21T22:44:52Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "325f1a2a1c9a284cc9cd80e1b74626a99c5032cd",
+   "title": "Man found dead on Flinders Island linked to shooting of police officer, Tasmanian authorities say",
+   "summary": [
+    "Body of a man in his 20s discovered by police who were sent to investigate the shooting of an officer, who is in a serious but stable conditionGet our breaking news email, free app or daily news podcastAn on-duty police officer has been shot and a man found dead nearby as police investigate two firearm incidents in a tiny Tasmanian town.The officer was working at Whitemark police station on Flinders Island, north-east of the island of Tasmania, when he was shot at about 9.45pm on Saturday night."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/22/man-found-dead-on-flinders-island-linked-to-shooting-of-police-officer-tasmanian-authorities-say",
+   "image": "https://i.guim.co.uk/img/media/37ac1eff6d2198604ce1f56e02ba752ac5645c8a/531_0_4102_3283/master/4102.jpg?width=140&quality=85&auto=format&fit=max&s=26d1f4dbd1fc4ff0ffb581dcebb1e837",
+   "published_at": "2026-11-21T22:41:36Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "cf2547504110fc73f54a8ad1892a8fe2983f85ec",
-   "title": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
+   "id": "460719117a505666c4ee4bea9f09d6c12897027d",
+   "title": "Trump orders federal contractors to check with White House before responding to Congress",
    "summary": [
-    "Attack on Kryvyi Rih comes as Russian missiles land in NATO member Poland and US-led peace efforts face uncertainty."
+    "President Trump is directing federal contractors to consult the White House about inquiries from Congress and to withhold any communications that his administration considers privileged.(Image credit: Jacquelyn Martin)"
    ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
    "image": null,
-   "published_at": "2026-11-21T17:20:03Z",
+   "published_at": "2026-11-21T22:40:36Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "6654cfb3c9eaf2731c6705eab80092191f3b11e2",
-   "title": "A challenge for Tennessee, Big Ten road tests and 40 other key contests",
+   "id": "d5146afc8812478a7bf2fd7ba7ea024ffb4c8e6f",
+   "title": "Highlights: Wallabies edge Wales in Cardiff",
    "summary": [
-    "The Vols and Lane Kiffin meet again, and fringe CFP contenders try to stay alive on a sneaky-good Week 12 slate."
+    "Watch the best of the action as Australia edge Wales in Cardiff"
    ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/college-football/story/_/id/50532397/connelly-week-12-preview-big-ten-tennessee",
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/rugby-union/videos/cjwy57n2rqwyo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-21T17:18:57Z",
+   "published_at": "2026-11-21T22:37:09Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "ceffc12dd6d63c33d3d3445ea25997ce20cc8795",
-   "title": "Florida State's turquoise threads headline best uniforms of CFB Week 12",
+   "id": "f34aa3f20bb0895ad6757f21cd0a1d523331c261",
+   "title": "Scotland kept 'foot on throat' in ruthless display - captain McDowall",
    "summary": [
-    "The color, which represents harmony, friendship and fellowship throughout Native American communities, pays homage to the school's relationship with the Seminole Tribe."
+    "Stand-in captain Stafford McDowall praises Scotland for keeping their \"foot on the throat\" of opponents Japan in their thumping 67-5 Nations Championship win."
    ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/college-football/story/_/id/50534624/week-12-college-football-uniforms-florida-state",
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm62pz9xkvd7o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-21T17:18:57Z",
+   "published_at": "2026-11-21T22:28:55Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "d6c5a89506a4db9e4dea39435e4b8a509c5fa9ab",
-   "title": "'Run it forward': Reigning champion Bruins focused on far more than a repeat",
+   "id": "2c770dbcaa85a09f589044432acf5faee1aae1e7",
+   "title": "Kim holds one-shot lead at LPGA finale as Korda closes in",
    "summary": [
-    "UCLA is back with a revamped roster and a commitment not to run it back but to grow and find joy along the way."
+    "A-Lim Kim holds a slender lead going into the final round of the CME Group Tour Championship, with world number one Nelly Korda among the chasers."
    ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/womens-college-basketball/story/_/id/50535067/ucla-bruins-defending-ncaa-champion-repeat",
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/golf/articles/c3ewvg08gjggo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-21T17:13:18Z",
+   "published_at": "2026-11-21T22:28:26Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "af73bf29dced233d74b6de747cb7849af82c732d",
-   "title": "Feast Week guide: South Carolina-UConn and the 26 biggest games to watch",
+   "id": "dd979eacb90a2891c445f36df3b5717931e5b377",
+   "title": "Can win over All Blacks finally break England's boom-bust cycle?",
    "summary": [
-    "Here comes South Carolina-UConn, three USC games and more big nonconference matchups (and the ACC opener)."
+    "Twelve months ago, England beat New Zealand and flopped in the following Six Nations.",
+    "Can their 2026 success pave the way to more permanent success?"
    ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/womens-college-basketball/story/_/id/50513465/2026-womens-feast-week-thanksgiving-tournament-schedule",
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6gregx71gjro?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-21T17:13:18Z",
+   "published_at": "2026-11-21T22:27:36Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "cbaa405e375f1bceeac11831b49454f87cab0db8",
-   "title": "Power Rankings: Duke keeps dropping, Kansas takes top spot",
+   "id": "727cc55d80dbb08319cf39107f83ad6df517b376",
+   "title": "Australia hold on for narrow win against Wales",
    "summary": [
-    "Among many Top 25 teams that suffered losses this week, including Duke and Florida, Kansas survived to take No. 1."
+    "Wales could not emulate their famous victory against New Zealand as Australia claimed the Nations Championship spoils in Cardiff."
    ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/mens-college-basketball/story/_/id/50523371/mens-college-basketball-power-rankings",
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm25ev1z8y8o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-21T17:12:54Z",
+   "published_at": "2026-11-21T22:25:36Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "e2626f0e67a7c7a730cb5ade33bfb54b8dfbedaf",
-   "title": "LSU, Duke, UConn hold serve in the expanded top 25 recruiting class rankings",
+   "id": "b5cfd0318a8fef02e2f1fe09629f11ee74789c65",
+   "title": "France secure Nations Championship final with Springboks",
    "summary": [
-    "The post-early signing window class rankings have LSU at the top, followed by Duke and UConn."
+    "France dispatch Argentina in Paris to book their spot against South Africa in the Nations Championship final at Allianz Stadium next Sunday."
    ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/mens-college-basketball/story/_/id/50242145/2027-mens-basketball-recruiting-class-rankings",
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c3zxv4e5g5g5o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-21T17:12:54Z",
+   "published_at": "2026-11-21T22:22:36Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "e80685b8f602b1087dd9cbe5fe5f66027c62965d",
-   "title": "NFL Week 11 best bets for Sunday's games",
+   "id": "87a9c946e29825de7a2d187882f81a1e90985057",
+   "title": "Scottish Premiership roundup: Dundee left reeling after 8-0 mauling by Hearts",
    "summary": [
-    "Our experts dive into the odds and player props for Week 11 and offer their betting tips and favorite plays."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/espn/betting/story/_/id/50534274/week-11-nfl-odds-touchdown-props-best-bets-sunday-games",
-   "image": null,
-   "published_at": "2026-11-21T17:10:52Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "c6465207e45005b53ebfc2d2972f20b65cb7b062",
-   "title": "NBA betting roundtable: MVP picks, playoff long shots and futures worth betting",
-   "summary": [
-    "The NBA betting experts share their favorite future bets, including Rookie of the Year, MVP and more."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/espn/betting/story/_/id/50538678/nba-betting-mvp-rookie-year-playoff-longshots-2026-2027",
-   "image": null,
-   "published_at": "2026-11-21T17:10:52Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "1b6a15c8294517c84be1c26387c793ee70b1d772",
-   "title": "Ireland v South Africa: Nations Championship rugby union – live",
-   "summary": [
-    "Nations Championship updates, 4.40pm GMT kick-off Follow us on TikTok | And email Lee about the game7 mins.",
-    "A poor restart drill from SA hands the ball to Ireland on the attack and in a good position.",
-    "Prendergast almost finds some space out wide before the door is closed to Baloucoune and then Baird when he takes a turn to carry from the ruck.Diminishing returns set in, but there is an advantage for the Boks offside."
+    "Vrancken was naturally delighted that his players had ended a run of three defeats in a row in such spectacular style."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/sport/live/2026/nov/21/ireland-v-south-africa-nations-championship-rugby-union-live",
-   "image": "https://i.guim.co.uk/img/media/4f37f41ac27625fb235264638153581be7f3760a/499_0_5332_4264/master/5332.jpg?width=140&quality=85&auto=format&fit=max&s=401395ace44f07668a3ca783c8c8d385",
-   "published_at": "2026-11-21T17:10:43Z",
+   "url": "https://www.theguardian.com/football/2026/nov/21/scottish-premiership-roundup-celtic-sweep-st-mirren-aside-to-strengthen-grip-at-top",
+   "image": "https://i.guim.co.uk/img/media/0c4eaf434ca237b594cffa07a9c244de9bb6e938/220_0_3749_3000/master/3749.jpg?width=140&quality=85&auto=format&fit=max&s=61f4d045bbc497d09374e4535d1315f5",
+   "published_at": "2026-11-21T22:20:19Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "1e3a45b5944ec08067792e29f90b0292827c281a",
-   "title": "In Mexico City, 49ers' Fred Warner will represent his heritage -- and he can boost his DPOY case",
+   "id": "299849b262daed6bda38928d8130e76b5e4b420f",
+   "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
    "summary": [
-    "Warner will represent his heritage again Sunday in Mexico City.",
-    "This time while in the middle of the best Defensive Player of the Year campaign of his career."
+    "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement."
    ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nfl/story/_/id/50535108/san-francisco-49ers-fred-warner-mexican-heritage-dpoy",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-21T17:10:25Z",
-   "category": "sports",
+   "published_at": "2026-11-21T22:19:43Z",
+   "category": "world",
    "related": []
   },
   {
-   "id": "d4b4aeba14cfa30c4cedb9b2b684e1b8aa676bce",
-   "title": "Eight stadiums, seven countries: NFL field director has earned a break",
+   "id": "9a4b710c48fc80caf08f30790f12f105e3643df0",
+   "title": "‘I didn’t know’: former Australia Test coach Darren Lehmann denies any knowledge of sandpaper use",
    "summary": [
-    "Nick Pappas is the man charged with making sure international venues are up to standard to host NFL games."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nfl/story/_/id/50534594/mf-field-director-versus-international-games",
-   "image": null,
-   "published_at": "2026-11-21T17:10:25Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "3e729d0df1f09eee7696083188e93523f35f5cb8",
-   "title": "Last-minute pickups for Week 11: Flournoy, Ayomanor among top candidates",
-   "summary": [
-    "There is no busier bye week than this one.",
-    "Matt Bowen lists potential options if you need a fill-in."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/fantasy/football/story/_/id/50532835/fantasy-football-streamers-last-minute-pickups-week-11",
-   "image": null,
-   "published_at": "2026-11-21T17:09:41Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "40f9a33b2048a4ebcf2f28cd62106be0dae19a6c",
-   "title": "What to know to set your lineup: Opportunity knocking for these Titans, Broncos",
-   "summary": [
-    "Adam Rank catches you up on the vital information and insights before you make your toughest lineup decisions."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/fantasy/football/story/_/id/50531472/fantasy-football-start-sit-week-11-need-know",
-   "image": null,
-   "published_at": "2026-11-21T17:09:41Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "e57c0e4d879e0707e289a1a8533c83f06591afd0",
-   "title": "NHL Tonight: What to watch in all 14 games on Saturday",
-   "summary": [
-    "Find game previews, betting intel, broadcast information, stats and highlights here."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nhl/story/_/id/50542625/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting",
-   "image": null,
-   "published_at": "2026-11-21T17:08:03Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "c6df975417e45e2f6e0f14d6068fa056b008cec9",
-   "title": "Power Rankings: Updated poll, plus fantasy hockey add/drops",
-   "summary": [
-    "The Hurricanes remain atop the list, while the Senators made a big leap."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nhl/story/_/id/50532384/nhl-2026-27-power-rankings-top-teams-players-stats-projections-standings-fantasy-hockey",
-   "image": null,
-   "published_at": "2026-11-21T17:08:03Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "48dc2bce666a58e498d48cc853158c7db5aa027c",
-   "title": "Newcastle United v Arsenal: Premier League – live",
-   "summary": [
-    "⚽️ Premier League updates from the 5.30pm GMT kick-off⚽️ Live scores | Latest table | Follow us on TikTok | Mail RobMikel Arteta on Bruno Guimaraes’s inclusionHe’s prepared emotionally; he knows to accept.",
-    "We have to be very dominant emotionally to attack Newcastle in the way we want, and he’s ready to do that."
+    "Lehmann’s version of events of 2018 tour remain unchanged‘We’ve just got to try to move on’ from ball tampering sagaDarren Lehmann has denied knowledge of a plan to use sandpaper to alter the ball during Australia’s Test tour of South Africa in 2018, contradicting Cameron Bancroft’s claims.The former Australian Test coach was implicated in Bancroft’s 4,000-plus word statement on the events that led to the Western Australian being busted on-field with sandpaper down his trousers in Cape Town."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/live/2026/nov/21/newcastle-united-v-arsenal-premier-league-live",
-   "image": "https://i.guim.co.uk/img/media/71c36cc661d57528c90b0a2a862ebd52bebfec72/198_0_6361_5090/master/6361.jpg?width=140&quality=85&auto=format&fit=max&s=b3dffc9b10574ae32f1a869051b527e3",
-   "published_at": "2026-11-21T17:07:05Z",
+   "url": "https://www.theguardian.com/sport/2026/nov/22/i-didnt-know-former-australian-test-coach-darren-lehmann-denies-any-knowledge-of-sandpaper-use",
+   "image": "https://i.guim.co.uk/img/media/c6c103d183b09c6d2bedf741541b0e8d4bea3ec8/237_0_1555_1244/master/1555.jpg?width=140&quality=85&auto=format&fit=max&s=5250c31a07c5e229aa5e3794d45d4cac",
+   "published_at": "2026-11-21T22:18:14Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "a5ccfb1466e09c82868d2bcfdffaca7fc756a45a",
-   "title": "Chelsea 1-4 Leeds, Tottenham 2-0 Ipswich, and more: football clockwatch – live",
+   "id": "cfc547c2291f7f7a9ba0a5060dcf4b72c4b6d465",
+   "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
    "summary": [
-    "⚽️ Follow updates from the Premier League and beyond⚽️ Live scores | Table | Follow on TikTok | And mail EmilliaChampionship fixturesMillwall 0-1 QPRNorwich City 2-1 Cardiff CitySouthampton 2-0 Derby CountyWest Ham v Preston North EndBolton Wanderers v PortsmouthMiddlesbrough v B"
+    "Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer Comments URL: https://news.ycombinator.com/item?id=50594132 Points: 13 # Comments: 1"
    ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/live/2026/nov/21/chelsea-v-leeds-tottenham-v-ipswich-and-more-football-clockwatch-live",
-   "image": "https://i.guim.co.uk/img/media/6b2e1f33ffafdb432f7797aa82340363c5d96cc0/114_0_3108_2487/master/3108.jpg?width=140&quality=85&auto=format&fit=max&s=a8fe048bc79d1ed7c223e89d098dc421",
-   "published_at": "2026-11-21T17:04:01Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "6ccebafcdf30c2702885250fb925516a6c098d35",
-   "title": "Here are the top AI agents that can live in your text messages",
-   "summary": [
-    "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "source": "Hacker News",
+   "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
    "image": null,
-   "published_at": "2026-11-21T17:00:00Z",
+   "published_at": "2026-11-21T22:09:58Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "19072253fde5a4cdc9da5986b8fb02d45f253d12",
-   "title": "Teenage ace Williams-Barnett puts Tottenham on path to win over Ipswich",
+   "id": "1ad9b7c2c0b230253d9625141eaface47fa15839",
+   "title": "Bahrain says Iranian attack hits industrial facility",
    "summary": [
-    "Not since the emergence of a certain Harry Kane has there been this much excitement about a player from Tottenham’s academy.",
-    "Tottenham have struggled to match their London rivals Arsenal and Chelsea’s record of producing homegrown players in recent years but they appear to have struck gold with Williams-Barnett."
+    "Bahrain says Iranian attack hits industrial facility"
    ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/2026/nov/21/tottenham-ipswich-premier-league-match-report",
-   "image": "https://i.guim.co.uk/img/media/53f1dc6f7ac06615f3cf6886146797ae9a2bd896/423_0_4232_3385/master/4232.jpg?width=140&quality=85&auto=format&fit=max&s=f6eadd7d3bd3f450a84d235ed4391ace",
-   "published_at": "2026-11-21T16:58:31Z",
-   "category": "sports",
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T22:02:03Z",
+   "category": "world",
    "related": []
   },
   {
-   "id": "46529da650605130f426aca2d09623b51e9bb793",
-   "title": "Carlos Alcaraz beats Ben Shelton in final-set tie-break to reach ATP Finals final – as it happened",
+   "id": "cabda8bbd81bfa0e0fd1a3a7814617660bc6492e",
+   "title": "Lock of former US President George Washington's hair sells for $4,000",
    "summary": [
-    "And being a left-hander, Shelton will hope his ferocious cross-court forehand can stretch Alcaraz on the backhand side and put pressure on that injured hamstring.",
-    "Shelton’s biggest weapon, of course though, is his serve.As for the head-to-head, Alcaraz leads 4-1, with Shelton’s only victory coming in that US Open quarter-final in September.",
-    "Alcaraz has beaten Shelton indoors twice before: in the Paris Masters final two weeks ago and at the Laver Cup in 2024."
+    "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner."
    ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/sport/live/2026/nov/21/atp-finals-tennis-carlos-alcaraz-v-ben-shelton-live-semi-final-updates",
-   "image": "https://i.guim.co.uk/img/media/18bad5906412c5a19e7ff1a579c93e5094c397f0/499_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=b9eea6cf063549323f7052d62ceb129a",
-   "published_at": "2026-11-21T16:47:40Z",
-   "category": "sports",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-21T22:01:19Z",
+   "category": "world",
    "related": []
   },
   {
-   "id": "e34689196331b291e72b2dba5ebf89378f7fcfed",
-   "title": "Ex-captain Moody joins England in emotional haka response",
+   "id": "e8ee55d7243454e7abceffd394034120ddd90fc2",
+   "title": "Rising star Stirling knocks out Prochazka",
    "summary": [
-    "Former England captain Lewis Moody joins the current team to face New Zealand's haka in an emotional start to Saturday's Test match at Allianz Stadium."
+    "Rising star Navajo Stirling earns the biggest win of his career as he knocks out former champion Jiri Prochazka in the second round at UFC Qatar."
    ],
    "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c5vg2ppp90w8o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/ckgj3l8nxev5o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-21T16:42:55Z",
+   "published_at": "2026-11-21T21:51:51Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "64c07d378a5a1c1329923e70e2fd53970df649d3",
+   "title": "‘Obviously it’s not good’: Arteta sweating over David Raya’s fitness after injury",
+   "summary": [
+    "The Spaniard was helped off in evident pain and looked close to tears."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/21/david-raya-shoulder-injury-arsenal-newcastle-mikel-arteta",
+   "image": "https://i.guim.co.uk/img/media/3bbb589d9e517a18cfef57d7776dd498a4d5caeb/33_42_928_742/master/928.jpg?width=140&quality=85&auto=format&fit=max&s=4d42beaf30774bbb3cc822764d63b224",
+   "published_at": "2026-11-21T21:48:21Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "6ffe884ff2e399c09fc5f6698bfea2f772b3c422",
+   "title": "‘GO NAVY’ becomes ‘GO ARMY’ after overnight prank at Navy football stadium",
+   "summary": [
+    "Cadets rearranged bolted-down seats overnightNavy workers spent four hours undoing stuntRival academies have long history of pranksThe large letters that spell “GO NAVY” in the upper seating level of the Naval Academy’s football stadium were changed to “GO ARMY” in an elaborate overnight prank before the Midshipmen hosted No 24 Memphis on Saturday.The stunt involved rearranging the blue and yellow seat backs at Navy-Marine Corps Memorial Stadium in Annapolis, Maryland, a task made considerably more complicated by the fact that the seats are bolted into place."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/2026/nov/21/army-navy-football-stadium-prank-cadets-go-army",
+   "image": "https://i.guim.co.uk/img/media/872cef1fa3a2b071559e660cc1fea0de2d0f98e1/415_0_4136_3311/master/4136.jpg?width=140&quality=85&auto=format&fit=max&s=ff9c970a022b82b1f31752c42b4fcdac",
+   "published_at": "2026-11-21T21:43:31Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "f3487ac9886e909daaf4f66544d23b111033acd1",
+   "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+   "summary": [
+    "Signal is limiting users' ability to take screenshots in both its Android and iOS apps."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+   "image": null,
+   "published_at": "2026-11-21T21:37:10Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "691108b16c75a8598785fbe25062dc1e6c5d553f",
+   "title": "Alcaraz holds off Shelton to set up final showdown with Zverev at ATP Finals",
+   "summary": [
+    "Ferrero is one of the most highly respected coaches on tour, but he also knows Carlos Alcaraz better than any other coach in the world.However, there is only so much that anyone can do against one of the sport’s greatest talents."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/2026/nov/21/carlos-alcaraz-holds-off-ben-shelton-to-book-his-place-in-the-atp-finals",
+   "image": "https://i.guim.co.uk/img/media/e9b9d23305a7d630fb0ca7f3b4264b90894b6fa4/511_0_5112_4089/master/5112.jpg?width=140&quality=85&auto=format&fit=max&s=a46e06896286be60d2f60196af453192",
+   "published_at": "2026-11-21T21:35:18Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "0a231aee0003d9fdc84746507304eceec425d6c9",
+   "title": "Bahrain says Iranian attack causes fire at industrial facility",
+   "summary": [
+    "Bahrain reports no injuries, as Iran's IRGC says it targeted US military positions at two bases in al-Riffa and Awali."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T21:31:03Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "61ac66a924e996d8a17b3418a78a87eeae1f79ec",
+   "title": "4 guards of Sardar Khetran held after body recovered from Barkhan property",
+   "summary": [
+    "QUETTA: Police said on Sunday they have detained four guards of former Balochistan minister Sardar Abdul Rehman Khetran following the reported recovery of a body from his property in Barkhan district.",
+    "On Nov 18, Barkhan police registered a case against Khetran; his two sons, Islam Shah and Abdul Rauf; and three other accomplices on charges of murder, kidnapping and illegal confinement.",
+    "Khan Muhammad Marri, a former guard of Khetran, had said the bodies were of his wife Granaz and two sons, alleging they were kept in private jails."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046146/4-guards-of-sardar-khetran-held-after-body-recovered-from-barkhan-property",
+   "image": "https://i.dawn.com/large/2026/11/220014201408108.webp",
+   "published_at": "2026-11-21T21:25:26Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "a34f45a76f7c575965db859f197f504c90befe0e",
+   "title": "Advice for the next 100 Rust GUIs",
+   "summary": [
+    "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 12 # Comments: 1"
+   ],
+   "source": "Hacker News",
+   "url": "https://linebender.org/blog/next-100-guis/",
+   "image": null,
+   "published_at": "2026-11-21T21:17:53Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "dcf506cb0b2a9b57e08f518ed853484897218c6a",
+   "title": "Raya set to have scan on injury - how much would Arsenal miss him?",
+   "summary": [
+    "Arsenal goalkeeper David Raya is set to have a scan on his shoulder after going off injured during Saturday's 2-2 draw with Newcastle."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/ckx28w9ree9vo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-21T21:14:08Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "29429e32448ec25d977cdec7c0ed16d1d859d9d9",
+   "title": "Impunity fuels surge in settler violence across occupied West Bank",
+   "summary": [
+    "Impunity fuels surge in settler violence across occupied West Bank"
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T21:11:54Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "187dad26ad22394ca85b4546e54e93f5dc3e0942",
+   "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
+   "summary": [
+    "Article URL: https://tasklet.ai/careers Comments URL: https://news.ycombinator.com/item?id=50593679 Points: 0 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://tasklet.ai/careers",
+   "image": null,
+   "published_at": "2026-11-21T21:11:08Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "0d0a739467a20d4621c7d1168deb891c27561b6c",
+   "title": "Indian man jailed over plot to kill Sikh separatist in US",
+   "summary": [
+    "An Indian national has been sentenced to more than 19 years in a US prison for plotting to assassinate Sikh separatist."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-us-sikh-separatist-pannun-assassination-plot?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T21:09:18Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "a1abc1ba2744afcb4fa5b14bba743b9f514e6cfb",
+   "title": "A tale of two Nvidias",
+   "summary": [
+    "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+   "image": null,
+   "published_at": "2026-11-21T21:07:42Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ad13744bae5f9808b21c3a1dcefeaaaddce6ee29",
+   "title": "The Emergence of Inequality in the Czech Corded Ware Culture",
+   "summary": [
+    "Article URL: https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746 Comments URL: https://news.ycombinator.com/item?id=50593637 Points: 11 # Comments: 6"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746",
+   "image": null,
+   "published_at": "2026-11-21T21:06:14Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "79bace62ffcba62c14f1a8fc7e1c9b5f2c6ffdae",
+   "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+   "summary": [
+    "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-21T21:05:29Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "eae34af2e53bfd1b53833e7925c9e6bc901c4223",
+   "title": "Brazil’s Jair Bolsonaro in intensive care with bowel obstruction",
+   "summary": [
+    "The former president, serving a sentence for plotting a coup, is stable and breathing on his own, the hospital says."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T21:02:18Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "2952b0e2a532887d804a7f19ed22e43160f61840",
+   "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
+   "summary": [
+    "Iran's foreign minister says reopening the strait is 'not difficult' if the US accepts reasonable conditions."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T20:56:35Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "59d2703d929a371c7a32024d32703e3fbfa0a4a4",
+   "title": "WSL roundup: Chelsea thwarted by Liverpool keeper, London City move to third",
+   "summary": [
+    "Against Gareth Taylor’s side, Chelsea’s lack of cutting edge was clear a week after they beat City to go top.",
+    "The calf injury picked up by Melvine Malard against City, the absence of Lauren James, who has a thigh injury, and the form of Aggie Beever-Jones, who scored her first WSL goal in more than a year in the 6-0 defeat of Charlton, have left Chelsea’s attack short."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/21/liverpool-chelsea-london-city-lionesses-crystal-palace-wsl",
+   "image": "https://i.guim.co.uk/img/media/f9fdedef7f806355de107b35c4546feeb0038014/286_0_4382_3505/master/4382.jpg?width=140&quality=85&auto=format&fit=max&s=56f29efda715e79b44c44c8e9fa49406",
+   "published_at": "2026-11-21T20:54:39Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "c7ea94535ca2ca956a327bc0a1b69c15f86c1bf0",
+   "title": "Afghan tradition keeps grapes fresh for winter treat",
+   "summary": [
+    "KALAKAN: On the outskirts of Afghanistan’s frenetic capital Kabul, Muhammad Saber Shojaei is carrying out a centuries-old task of preserving fistfuls of grapes to be eaten when winter bites.",
+    "Carefully putting a bunch of grapes in one of the discs, Shojaei added a second disc on top and sealed the disc with mud before placing it in a dark storage room. “In this way, Kanginas can keep grapes fresh from now until the spring,” said the farmer.",
+    "But in the depths of winter, Afghans living near the vineyards can buy them along the roadside or in nearby markets, and farming families can crack them open and enjoy fresh grapes."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046061/afghan-tradition-keeps-grapes-fresh-for-winter-treat",
+   "image": "https://i.dawn.com/large/2026/11/2103481306055b1.webp",
+   "published_at": "2026-11-21T20:53:08Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "6c2109ddef72726485fa6b004c029053ac8b11a9",
+   "title": "Thousands protest across Europe over living costs and housing",
+   "summary": [
+    "Demonstrations in France and Portugal follow youth-led protests over education and economic hardship across Europe."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T20:47:50Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "51cea4d093719af1e035bbe8a9810e2cf150ed7d",
+   "title": "Ireland remind themselves that the best are beatable",
+   "summary": [
+    "Ireland put a string of deflating losses against the world's best teams behind them with a hard-fought 20-17 win over South Africa in Dublin."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c820qxx2k7y2o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-21T20:39:51Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "6880bf75be7263acb4efc46f0691fb83e8631493",
+   "title": "AOC challenged over AIPAC’s influence on Democratic leadership",
+   "summary": [
+    "US Representative AOC was challenged by an activist over her support for Hakeem Jeffries, in light of his ties to AIPAC."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_aoc-challenged-over-aipacs-influence-on-democrats-211126?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T20:38:20Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "4411aba23093ba4d3b7b1b68d0c44c407252c628",
+   "title": "Bayer reaches Roundup settlement that could cost the company billions",
+   "summary": [
+    "The money will go to thousands of people who have been or will be diagnosed with non-Hodgkin lymphoma – a blood cancer linked to the herbicide.(Image credit: Justin Sullivan)"
+   ],
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement",
+   "image": null,
+   "published_at": "2026-11-21T20:37:35Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "57c131a7f708f36f27c3fa4fa3e29cd2ea863c66",
+   "title": "AC Milan monitoring Man Utd's Fernandes - Sunday's gossip",
+   "summary": [
+    "AC Milan monitoring Manchester United midfielder Bruno Fernandes, Arsenal pair yet to start talks on new deals and Trabzonspor renew interest in Tottenham forward Richarlison, plus more."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cq8j4e8nlvm1o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-21T20:35:12Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "f6f49576bcd4f475cf47b65a6278a82504ff2d6f",
+   "title": "'We lost two points' - Arteta on 'unacceptable' Newcastle draw",
+   "summary": [
+    "Arsenal manager Mikel Arteta says his side squandered the chance to take all three points after their 2-2 draw against Newcastle United at St James' Park.",
+    "The result sees the reigning Premier League champions go six points clear at the top of the table."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/videos/ck1wrdd9ew11o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-21T20:30:50Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "db7e0f792c929dc864b5c349842887f318bbbb0e",
+   "title": "European football: Doué carried off for PSG while Kane vows to return fresh",
+   "summary": [
+    "The match was stopped for five minutes to allow Doué to receive treatment to his right knee before being carried off to a backdrop of applause from the crowd at the Allianz Riviera stadium."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/21/european-football-borussia-dortmund-psg-real-madrid",
+   "image": "https://i.guim.co.uk/img/media/804efa5e8ed0f04d0847177a9410d55745e6820a/297_0_2972_2377/master/2972.jpg?width=140&quality=85&auto=format&fit=max&s=97fa607c796b3e792f1c54dafc582f54",
+   "published_at": "2026-11-21T20:25:53Z",
    "category": "sports",
    "related": []
   },
   {
    "id": "3500af305ed03afde70d667f66c4c065b614b69e",
-   "title": "Anthropic mathematician claims he used Claude to prove 19th-century Riemann hypothesis",
+   "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
    "summary": [
     "He says that Claude helped develop a solution to the problem during the course of about six weeks."
    ],
    "source": "The Guardian",
    "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
    "image": "https://i.guim.co.uk/img/media/d3154f68df589c297fc3d173e2bb3d95faca05c9/530_0_4678_3742/master/4678.jpg?width=140&quality=85&auto=format&fit=max&s=2be6ea0855df616ea30ffc89afed2e1f",
-   "published_at": "2026-11-21T16:39:49Z",
+   "published_at": "2026-11-21T20:15:57Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "158994b8ae4ecd45a372af36b26b26fdedb8738c",
-   "title": "International UN talks on controlling use of autonomous weapons collapse",
+   "id": "80178d9cec2d06d73e1f7e6a9941490c297f85f5",
+   "title": "Why is the US Army detonating lead-rich explosives in Iowa?",
    "summary": [
-    "Week-long efforts fail to establish negotiating mandate on AI warfare after Russian ‘filibustering’Week-long efforts to agree a negotiating mandate for a legally binding international treaty to control the use of autonomous weapons collapsed just before 5am after all-night talks failed to overcome Russian objections.Despite an overwhelming majority of states at the UN’s Convention on Certain Conventional Weapons (CCW) in Geneva wanting to agree a negotiating mandate leading to a legally binding treaty, the need for consensus forced the conference to adopt a much weaker option."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
-   "image": "https://i.guim.co.uk/img/media/247601abada695f09f302253178bbc8f6e58cd42/415_0_4165_3333/master/4165.jpg?width=140&quality=85&auto=format&fit=max&s=19283afd22dbc9bfead542bffab860d5",
-   "published_at": "2026-11-21T16:36:11Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "c2ed6bfcff5b56048731364008ab9c11435cdb47",
-   "title": "England 37-12 New Zealand: Hosts storm to historic Nations Championship win over All Blacks – as it happened",
-   "summary": [
-    "England put up a record margin of victory against New Zealand to all but guarantee a place in at least the second-place final next weekendOfficials for today, by the wayReferee: Nic Berry (Australia)Assistant referees: Nika Amashukeli (Georgia), Damon Murphy (Australia)TMO: Mariu"
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/sport/live/2026/nov/21/england-v-new-zealand-nations-championship-rugby-union-live",
-   "image": "https://i.guim.co.uk/img/media/810a2f95e3ed9e7fcf3c479dea2427ad553de3a3/157_0_1823_1459/master/1823.jpg?width=140&quality=85&auto=format&fit=max&s=ec3fd3de3062529954b933b4bc185f75",
-   "published_at": "2026-11-21T16:30:45Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "3200a5263146551d201469488cd9040b6da667a7",
-   "title": "England beat New Zealand by record margin",
-   "summary": [
-    "England stun New Zealand, beating the three-time world champions by 25 points - compounding the All Blacks' disappointment after their loss to Wales last week."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/rugby-union/videos/c6742znzggeyo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-21T16:28:09Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "691108b16c75a8598785fbe25062dc1e6c5d553f",
-   "title": "Carlos Alcaraz holds off Ben Shelton to book place in ATP Finals",
-   "summary": [
-    "Ferrero is one of the most highly respected coaches on tour, but he also knows Carlos Alcaraz better than any other coach in the world.However, there is only so much that anyone can do against one of this sport’s greatest talents."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/sport/2026/nov/21/carlos-alcaraz-holds-off-ben-shelton-to-book-his-place-in-the-atp-finals",
-   "image": "https://i.guim.co.uk/img/media/e9b9d23305a7d630fb0ca7f3b4264b90894b6fa4/511_0_5112_4089/master/5112.jpg?width=140&quality=85&auto=format&fit=max&s=a46e06896286be60d2f60196af453192",
-   "published_at": "2026-11-21T16:27:26Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "821373bb6bd0a13721ed3783bfbbc2a925475182",
-   "title": "McConnell shines as 11-try Scotland dismantle Japan",
-   "summary": [
-    "A Liam McConnell hat-trick inspires Scotland in an 11-try Nations Championship rout of Japan at Murrayfield."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmx2x00w08keo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-21T16:23:11Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "b57439c9d77f8cb3806502097840d4bd10243d98",
-   "title": "Grey Dawning wins at Haydock and Lossiemouth gives Mullins third winner at Punchestown: horse racing – as it happened",
-   "summary": [
-    "Grey Dawning, the 11-10 favourite, joined the illustrious list of dual winners of Betfair Chase at Haydock1.",
-    "BLOW YOUR WAD (Freddie Mitchell) 11-8, 2.",
-    "3 ran.Blow Your Wad is the first to be ridden, Doyen Quest leads four out … Continue reading..."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/sport/live/2026/nov/21/horse-racing-updates-news-and-results-from-ascot-haydock-and-more-live",
-   "image": "https://i.guim.co.uk/img/media/0d1fd02656846e7fc7e0173ad0b4e13aeee5f1a7/902_253_6200_4960/master/6200.jpg?width=140&quality=85&auto=format&fit=max&s=684f038e27a3745b539ccd96730b0b5e",
-   "published_at": "2026-11-21T16:20:49Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "a321f063e309d3fda53fe4a5f81d88a29a3114cd",
-   "title": "India’s opposition stages protests against Meta over account removals",
-   "summary": [
-    "Indian Youth Congress issues a seven-day 'ultimatum' to the US technology giant, urging it to lift all restrictions."
+    "The delayed blasts have stoked environmental fears and concerns about health effects in the state."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/21/why-is-the-us-army-detonating-lead-rich-explosives-in-iowa?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-21T16:14:01Z",
+   "published_at": "2026-11-21T20:15:13Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "b899eec8aba7faca4add390a1910efc2f891fc8d",
-   "title": "Hormuz swim highlights environmental cost of war",
+   "id": "1cc7fe840fea14f149f1e1b5dda15c82ea3c7f52",
+   "title": "Nine wins in a row - Bournemouth & Evanilson continue to make history",
    "summary": [
-    "Ocean campaigner Lewis Pugh completes Hormuz challenge and warns of lasting environmental damage."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c95y1gr27xplo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-21T16:12:31Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "aee70c00cf7ed1c5abf724009181d72428f75218",
-   "title": "Superb England run up record win over New Zealand",
-   "summary": [
-    "England's revival roars up a gear as they beat New Zealand by a record margin after former captain Lewis Moody leads the hosts' response to the haka."
+    "With a ninth successive win, Bournemouth continue to make history under new manager Marco Rose."
    ],
    "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm2jxd8k15mo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6p9d102k4mdo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-21T16:08:59Z",
+   "published_at": "2026-11-21T20:07:56Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "a5c690c5165a3fee026b960de04ec652a0554bf0",
-   "title": "Fernandez dropped, Anderson scores - Man City's £327m midfield dilemma",
+   "id": "7b63e9c55367af7780c08b46b6a0a02858630c75",
+   "title": "Pochettino needs New Manager Bounce to break torrid Manchester United turnover | Jonathan Wilson",
    "summary": [
-    "Manchester City spent £327m overhauling their midfield in the summer - but how does Enzo Maresca find the right balance?"
+    "Latest hire will depend on fresh faces and time to bed in at Old Trafford where the dugout churn is hardest to budgeEverybody knows the pattern.",
+    "A title challenge becomes clinging on for the last Champions League spot becomes mid-table.",
+    "Or a promising start becomes a troubling dip, becomes a full-on battle against relegation.Fans begin to grumble."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/21/pochettino-needs-new-manager-bounce-to-break-torrid-manchester-united-turnover",
+   "image": "https://i.guim.co.uk/img/media/90130f821c6f6f9d02561ca82719f5e6e79f0dfd/262_0_5492_4393/master/5492.jpg?width=140&quality=85&auto=format&fit=max&s=7f03bbef9cb73fc4427af16a9d47535a",
+   "published_at": "2026-11-21T20:00:06Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "49363e99b40af411a420c334e334a0e13c19c9bf",
+   "title": "Arsenal go six points clear after lively draw at Newcastle",
+   "summary": [
+    "Noni Madueke's second-half goal earns Arsenal a 2-2 draw against Newcastle United at St James' Park, as the reigning champions move six points clear at the top of the Premier League table."
    ],
    "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cxe8944j188yo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/videos/cm702zzl66l6o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-21T16:07:19Z",
+   "published_at": "2026-11-21T19:59:35Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "7edb1f5909757f100e5ffa1d0bca9dbb1cd4ab58",
-   "title": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
+   "id": "b38b2a5142842a9b82c0c94468902a08fca4251a",
+   "title": "Evanilson strikes again as Bournemouth beat Forest",
    "summary": [
-    "Mexican forces arrested Chapo Isidro in Sinaloa.",
-    "He was on the FBI’s most wanted list and faces US drug charges."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T16:03:16Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "dffab27fe8d5022c0bdbf4d7acf0cd3e05cba73e",
-   "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-   "summary": [
-    "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China.",
-    "Experts question the long-term consequences if this becomes a trend in Hollywood, too."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
-   "image": null,
-   "published_at": "2026-11-21T16:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "3b48cc532e5f5f5a4a7888fc50330c07d135c090",
-   "title": "US midterms 2026: What happens before the new Congress takes office?",
-   "summary": [
-    "What happens between the US midterm elections and January, when Democrats take control of Congress?"
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T15:49:32Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "8af3055b5461492d7908191880795c35209f4711",
-   "title": "French presidential candidate blames media for racist attack",
-   "summary": [
-    "French presidential candidate blames media for racist attack"
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/french-presidential-candidate-blames-media-for-racist-attack?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T15:46:18Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "fd986dd95e42df1d3bbc4233d464d7039e7e4ccf",
-   "title": "Show HN: Zero C#, Power of C# without any GC",
-   "summary": [
-    "Article URL: https://onurgumus.github.io/zero-csharp/index.html Comments URL: https://news.ycombinator.com/item?id=50590279 Points: 32 # Comments: 20"
-   ],
-   "source": "Hacker News",
-   "url": "https://onurgumus.github.io/zero-csharp/index.html",
-   "image": null,
-   "published_at": "2026-11-21T15:39:09Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "e0d29b5db91b90f56e0d9f994261f491370ddaa2",
-   "title": "'It's quite clear' - Maresca believes Haaland goal should have stood",
-   "summary": [
-    "Manchester City manager Enzo Maresca says Erling Haaland's first-half goal against Fulham should have stood."
+    "Evanilson scores in his sixth consecutive Premier League game, as Bournemouth defeat Nottingham Forest 2-0 at the Vitality Stadium."
    ],
    "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/videos/c9e85mmr3z8vo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/videos/cm4gn997yry2o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-21T15:34:35Z",
+   "published_at": "2026-11-21T19:59:17Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "46579213aed96fe51fbbe5dd0b609d30a8a4932d",
-   "title": "Melo calls out Humphrey for Baltimore remark: Back your apology with action",
+   "id": "0e908f361c29c6b0bb07378b43b482800bc78f56",
+   "title": "Leeds dominate Chelsea for first Stamford Bridge win since 1999",
    "summary": [
-    "Former NBA star Carmelo Anthony challenged Ravens cornerback Marlon Humphrey to do more than apologize after he said Baltimore was \"best at making criminals.\""
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nfl/story/_/id/50548223/carmelo-anthony-calls-ravens-humphrey-baltimore-remark",
-   "image": null,
-   "published_at": "2026-11-21T15:33:45Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "97e4a658839a16f18dc458c1a3ee11a3d631e9fb",
-   "title": "Fantasy buzz: Does anything change in Indy with Richardson under center?",
-   "summary": [
-    "Matt Bowen provides fantasy expectations for the Colts' new starter at QB and his supporting cast."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
-   "image": null,
-   "published_at": "2026-11-21T15:30:19Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "da9c6a6f2638047ce9a521706e7e78ea02328739",
-   "title": "Virginia child dies in state’s first measles-associated death of 2026",
-   "summary": [
-    "It did not disclose additional details, including the child’s vaccination status, citing the family’s privacy."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/21/virginia-child-dies-measles",
-   "image": "https://i.guim.co.uk/img/media/c0ce942a27e560d3ae51a4e8900971d7de2d7ccb/574_0_5736_4589/master/5736.jpg?width=140&quality=85&auto=format&fit=max&s=1636a3ff8a4d86dc6e0b6d3ec9c17bee",
-   "published_at": "2026-11-21T15:30:07Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "9837acf6063e3c9e7fb4af81adc51b21c3e20a09",
-   "title": "Diallo present as Africa’s Motsepe reiterates support for FIFA’s Infantino",
-   "summary": [
-    "Africa's CAF join South America's CONMEBOL in giving unanimous support of FIFA President Gianni Infantino's re-election."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/sports/2026/11/21/diallo-present-as-africa-football-boss-motsepe-reiterates-infantino-support?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T15:20:43Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "8d21ce3be65172211d50343c4295217e5f537af6",
-   "title": "British man recalls ‘despair’ over son’s death after fall from Cyprus window",
-   "summary": [
-    "Prosecutors in Cyprus had refused to drop the case against him."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/21/british-man-recalls-despair-over-sons-death-after-fall-from-cyprus-window",
-   "image": "https://i.guim.co.uk/img/media/448b8cda06ae22c1900e5ff11f009b62f3b449f9/231_146_2907_2326/master/2907.jpg?width=140&quality=85&auto=format&fit=max&s=3d6c28c8cb97f9ee223f182855c56ec4",
-   "published_at": "2026-11-21T15:19:03Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "c5c43946e508cc7401cdeb24cda3df51066d304e",
-   "title": "Sources: Struggling Aggies expected to bench Reed, start Hart vs. Sooners",
-   "summary": [
-    "Texas A&M is expected to make a change at quarterback, going with sophomore Brady Hart over Marcel Reed against Oklahoma, sources confirmed to ESPN."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/college-football/story/_/id/50549670/sources-texas-expected-bench-marcel-reed-vs-sooners",
-   "image": null,
-   "published_at": "2026-11-21T15:18:42Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "c0feb18c8ec9790bba6ee7d377d678a62510891e",
-   "title": "Sources: Michigan expected to start Underwood over Carr vs. UCLA",
-   "summary": [
-    "Michigan is again making a switch at quarterback, returning to Bryce Underwood against No. 4 UCLA after Tommy Carr had started the past four games, sources confirmed to ESPN."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/college-football/story/_/id/50549879/sources-michigan-expected-start-bryce-underwood-vs-ucla",
-   "image": null,
-   "published_at": "2026-11-21T15:18:42Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "c68cfa27eb75942db31ff3e0718c8e6d15ffc74c",
-   "title": "Gil, '24 AL Rookie of Year, cut loose by Yankees at MLB tender deadline",
-   "summary": [
-    "Luis Gil, a former AL Rookie of the Year, was cut loose by the Yankees, among 44 players who became MLB free agents when their teams declined to offer 2027 contracts by Friday's tender deadline."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/mlb/story/_/id/50545849/yankees-cut-gil-24-al-rookie-year-tender-deadline",
-   "image": null,
-   "published_at": "2026-11-21T15:18:42Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "0f9848fa4ef0b60d94f6450709213c866301ee60",
-   "title": "Raiders owner Davis upset by 'Madden' version of his father: 'Totally unfair'",
-   "summary": [
-    "Saying \"I did the best I could to protect him,\" Raiders owner Mark Davis expressed frustration with the depiction of his father, the late Al Davis, in the new movie \"Madden.\""
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nfl/story/_/id/50549761/mark-davis-upset-father-portrayal-movie-madden",
-   "image": null,
-   "published_at": "2026-11-21T15:18:42Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "a17aa840c297a8d9935352e1917ed64f6afdaec6",
-   "title": "Harden has 51 in 'vintage' performance, leaps Kobe for 3rd-most 50-point games",
-   "summary": [
-    "James Harden posted the 26th 50-point game of his career, passing Kobe Bryant for third-most 50-point games in NBA history."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nba/story/_/id/50546191/james-harden-explodes-51-points-propels-cavs-pacers",
-   "image": null,
-   "published_at": "2026-11-21T15:18:42Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "71b50aecd2ebcbd79601b8992a794adba97a34fe",
-   "title": "Udoka says Rockets 'mentally fragile,' blasts defense after loss to Nuggets",
-   "summary": [
-    "Coach Ime Udoka was upset by the Rockets' lack of physicality and effort as they gave up a season high in points during a loss to the Nuggets, calling the defense \"as bad as I've seen it.\""
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nba/story/_/id/50549254/ime-udoka-frustrated-rockets-defense-loss-nuggets",
-   "image": null,
-   "published_at": "2026-11-21T15:18:42Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "fb942843f9e15f5f487aade5f9df2856cfaef2a2",
-   "title": "Reid offers Saints farewell: 'Things don't always go the way you planned'",
-   "summary": [
-    "The Saints have granted Justin Reid's request to be released, with the safety posting on social media: \"In life and sports, things don't always go the way you planned or hoped they would.\""
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nfl/story/_/id/50543025/justin-reid-posts-saints-farewell-team-works-release",
-   "image": null,
-   "published_at": "2026-11-21T15:18:42Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "d4007f56ebcf06a9734e3f9c588f481c63bd1206",
-   "title": "💪 'Another universe': How Indiana football changed Bloomington",
-   "summary": [
-    "The basketball haven has become a legend of the fall, where the reigning national champs take center stage."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/college-football/story/_/id/50533477/bloomington-indiana-football-town",
-   "image": null,
-   "published_at": "2026-11-21T15:18:42Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "b316f5016eae51bdb68f909f1548634fdb2dafdf",
-   "title": "Alaska, your next governor is a Wikipedia nerd",
-   "summary": [
-    "Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 WIkipedia edits."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
-   "image": null,
-   "published_at": "2026-11-21T15:18:29Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "5c0487ac07a1f6420830cbcedc97aa3d8e87922d",
-   "title": "Time may be far stranger than we realize. Scientists have a way to test it",
-   "summary": [
-    "Time may be far stranger than we realize, and scientists have proposed a way to detect clocks experiencing multiple flows of time simultaneously.",
-    "Using atomic clocks with dramatically enhanced sensitivity, researchers hope to reveal a never-before-observed quantum effect that could transform our understanding of time and gravity."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm",
-   "image": null,
-   "published_at": "2026-11-21T15:09:46Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "25584ed81fea50fbc2cfce6a8388eff3a0c18eef",
-   "title": "Manchester City 1-1 Fulham: Premier League – as it happened",
-   "summary": [
-    "Dominic Booth reports …Gonzalo Garica: The Fulham striker and great nephew of Rita Hayworth admits the pace of the Premier League has surprised him but says he will remain calm over his 11-match goal drought."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/live/2026/nov/21/manchester-city-v-fulham-premier-league-live",
-   "image": "https://i.guim.co.uk/img/media/58847aa2bca406a83de87935b5f7288c06a096cb/337_155_3566_2853/master/3566.jpg?width=140&quality=85&auto=format&fit=max&s=5f1c81be645e416d2da157899e80354d",
-   "published_at": "2026-11-21T15:05:28Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "59d2703d929a371c7a32024d32703e3fbfa0a4a4",
-   "title": "Liverpool keeper Keating holds leaders Chelsea at bay in scoreless WSL draw",
-   "summary": [
-    "Khiara Keating’s resilient performance in goal denied Chelsea, the Women’s Super League leaders, and earned Liverpool a point.",
-    "After hard-fought 1-0 wins against Manchester City last Saturday and Paris Saint-Germain on Wednesday night, Chelsea drew a blank.Against Gareth Taylor’s side, Chelsea’s lack of cutting edge was clear a week after beating City to go top."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/2026/nov/21/liverpool-chelsea-london-city-lionesses-crystal-palace-wsl",
-   "image": "https://i.guim.co.uk/img/media/f9fdedef7f806355de107b35c4546feeb0038014/286_0_4382_3505/master/4382.jpg?width=140&quality=85&auto=format&fit=max&s=56f29efda715e79b44c44c8e9fa49406",
-   "published_at": "2026-11-21T15:03:50Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "17173d03ce65f9f0ee446b143af8d54c2a25f882",
-   "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
-   "summary": [
-    "British maritime agency reports two incidents near Oman, while Iran says a tanker caught fire due to naval mine."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T15:01:18Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "00e77640c25aba0e3f1b16e435b8e2578b07d64a",
-   "title": "SNL’s skit Sister captures the quiet agony of caregiving for women: ‘I’ve never felt seen like that’",
-   "summary": [
-    "The viral satirization of the caregiving burden left to women and daughters hit home for many viewersThe Saturday Night Live sketch, titled Sister quickly went viral this week for its satirization of the burden that women and daughters face to take care of aging family members.",
-    "Another posted: “As a hospice nurse this definitely tracks.",
-    "I deal 90% of the time with adult daughters, and if there is no daughter, it is the daughter in law.” “This is so real it almost gave me a stroke from rage,” added another viewer."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/tv-and-radio/2026/nov/21/snl-sister-caregiving",
-   "image": "https://i.guim.co.uk/img/media/7bfc72a64cf39369ce4dc05177044fe3f366251c/244_0_2511_2010/master/2511.jpg?width=140&quality=85&auto=format&fit=max&s=19c99eb7a70e07f624849ef48297753d",
-   "published_at": "2026-11-21T15:00:01Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "9f8cbbe4adf1ad08b338b915eb832a0e3b9069d0",
-   "title": "Northern Ireland seal comfortable win over Gibraltar",
-   "summary": [
-    "Northern Ireland secure a dominant 74-29 victory over Gibraltar in their first game of their double-header at Antrim Forum."
+    "Noah Okafor scores twice to deliver Leeds United's first win at Chelsea in 27 years, in an impressive 4-1 victory at Stamford Bridge.",
+    "They move up to sixth in the Premier League."
    ],
    "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/netball/articles/cq5y1grd6726o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/videos/c3ewvkk4qgxjo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-21T14:54:29Z",
+   "published_at": "2026-11-21T19:59:13Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "a80287a076208727f99186c4fe1c36b10df1f770",
+   "title": "Man City drop points to Fulham despite superb Anderson volley",
+   "summary": [
+    "Elliot Anderson's fantastic volley earns Manchester City a first Premier League point in over a month as they come from behind to hold Fulham."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/videos/c30rkq9xyk8eo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-21T19:59:08Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "627dedbdb197b5e4dacca5c3e2a6b88594d406e0",
+   "title": "Teenager Williams-Barnett shines as Spurs beat Ipswich",
+   "summary": [
+    "Tottenham Hotspur teenager Luca Williams-Barnett starres for Roberto de Zerbi's side as they comfortably beat Ipswich Town."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/videos/c3174qq2j82zo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-21T19:59:02Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "dcf275dc2698c3c069140f75a69c8be0f7b46bd4",
+   "title": "Villa's home woes continue as Sunderland earn point",
+   "summary": [
+    "Aston Villa's struggles at home this season continue as they are held to a goalless draw by Sunderland in the Premier League."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/videos/c5j9m227l42do?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-21T19:58:56Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "76ea0364717e87947e8785e5ada09a2d82d15698",
+   "title": "Coventry beat Palace in Frank's first game after late own goal",
+   "summary": [
+    "A Dwight McNeil own goal in the 85th minute gives Coventry City a 3-2 win to move three points clear of the relegation zone, as Thomas Frank's first game in charge at Crystal Palace ends in defeat in the Premier League."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/videos/c8wy5ddky5n9o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-21T19:58:52Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "c70ed86127c701235f9af5f7ba0cc8ca3e2c17b3",
+   "title": "Big wins for Saracens, Exeter and Newcastle in Prem Cup",
+   "summary": [
+    "Prem Rugby Cup round-up: Saracens go top with win over Harlequins, while Carwyn Tuipulotu scores a hat-trick for Exeter and Newcastle beat Northampton."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwn83x22m49mo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-21T19:57:31Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "a7135975c7cc3a6bc05cbf4231527cbee5a89f78",
+   "title": "Noni Madueke salvages draw for Arsenal at Newcastle United as Raya injured",
+   "summary": [
+    "League leaders Arsenal miss the chance to go eight points clear of second placed Brighton, who play on Sunday."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/11/21/noni-madueke-salvages-draw-for-arsenal-at-newcastle-united-as-raya-injured?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T19:53:00Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "48dc2bce666a58e498d48cc853158c7db5aa027c",
+   "title": "Newcastle United 2-2 Arsenal: Premier League – as it happened",
+   "summary": [
+    "And all this is not to mention the chap lurking on the bench.",
+    "Personally – I admit it – I’d rather have three fully functioning goal machines, but there we are.”We hate it when our teams become successful.He’s prepared emotionally; he knows to accept.",
+    "We have to be very dominant emotionally to attack Newcastle in the way we want, and he’s ready to do that."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/live/2026/nov/21/newcastle-united-v-arsenal-premier-league-live",
+   "image": "https://i.guim.co.uk/img/media/1065cf874af7706d7d7827812e5b1ccda82f826a/69_0_2590_2073/master/2590.jpg?width=140&quality=85&auto=format&fit=max&s=455f467c0e6de39fe05e35db12391c2e",
+   "published_at": "2026-11-21T19:48:35Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "a471a91117752fe7a5fa6dcdbc170627a5f737db",
+   "title": "Raya injured but Madueke rescues point for Arsenal in seesaw Newcastle draw",
+   "summary": [
+    "At half-time the crowd had felt close to turning against Jaissle but he held his nerve and, thanks to a triple substitution and subtle tactical rejig suggested he is no mug after all."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/21/newcastle-arsenal-premier-league-match-report",
+   "image": "https://i.guim.co.uk/img/media/1065cf874af7706d7d7827812e5b1ccda82f826a/69_0_2590_2073/master/2590.jpg?width=140&quality=85&auto=format&fit=max&s=455f467c0e6de39fe05e35db12391c2e",
+   "published_at": "2026-11-21T19:47:11Z",
    "category": "sports",
    "related": []
   }

@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-21T17:22:30.041767Z",
+ "generated_at": "2026-11-21T23:04:04.933070Z",
  "story_count": 20,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
-  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/home": "ok",
+  "https://www.dawn.com/feeds/pakistan": "ok",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,34 +20,45 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "ok"
+  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
   {
-   "id": "299849b262daed6bda38928d8130e76b5e4b420f",
+   "id": "8ea85474fdd07abaf37b0a7819ed44ae47d8929e",
    "rank": 1,
+   "title": "Security forces kill 15 terrorists in Balochistan's Mastung district: state media",
+   "brief": "Security forces have killed 15 terrorists during two separate operations in Balochistan’s Mastung district, state media reported on Saturday. According to security sources cited by Radio Pakistan, five terrorists were killed in the first operation, while 10 others were eliminated in the second one.",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046137/security-forces-kill-15-terrorists-in-balochistans-mastung-district-state-media",
+   "image": "https://i.dawn.com/large/2026/11/212157040ff0736.webp",
+   "published_at": "2026-11-21T17:17:00Z",
+   "category": "pakistan"
+  },
+  {
+   "id": "a0fdb80d33212de5cdde2f1183c67e3ea270f0b6",
+   "rank": 2,
+   "title": "15 terrorists killed in security operations in Balochistan’s Mastung district: state media",
+   "brief": "Security forces killed 15 terrorists in two separate major operations in Balochistan’s Mastung district as part of the ongoing Operation Radd-ul-Fitna-3 against Fitna al-Hindustan, state media outlet Radio Pakistan reported on Saturday.",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641552/15-terrorists-killed-in-security-operations-in-balochistans-mastung-district-state-media",
+   "image": null,
+   "published_at": "2026-11-21T11:18:25Z",
+   "category": "pakistan"
+  },
+  {
+   "id": "299849b262daed6bda38928d8130e76b5e4b420f",
+   "rank": 3,
    "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
    "brief": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-21T14:54:24Z",
-   "category": "world"
-  },
-  {
-   "id": "315887e5e7c839055458780d5f876c950701eab7",
-   "rank": 2,
-   "title": "Deadly fire engulfs power station in southern Iraq",
-   "brief": "At least four people were killed and 30 injured after a fire tore through the Hartha power station complex.",
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/deadly-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T11:02:29Z",
+   "published_at": "2026-11-21T22:19:43Z",
    "category": "world"
   },
   {
    "id": "4dfd121c6c304146b7aafc19578f7f571e4f5d99",
-   "rank": 3,
+   "rank": 4,
    "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
    "brief": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
    "source": "BBC News",
@@ -58,7 +69,7 @@
   },
   {
    "id": "fd2811614640e90d1bfb8ca46043542593c9d4da",
-   "rank": 4,
+   "rank": 5,
    "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
    "brief": "On Friday, the Nasdaq Composite erased all its gains for 2026 and closed down 5% from its value on 1 January.",
    "source": "The Guardian",
@@ -69,7 +80,7 @@
   },
   {
    "id": "4fa85ae7ae72f7606b8929d2716fa7f985e84f65",
-   "rank": 5,
+   "rank": 6,
    "title": "Trump threatens ban on US firms building AI data centres overseas",
    "brief": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
    "source": "BBC News",
@@ -79,26 +90,15 @@
    "category": "world"
   },
   {
-   "id": "762c2d91a1788355d7a06010eb31a90179524f94",
-   "rank": 6,
-   "title": "Should AI be judging our credit worthiness?",
-   "brief": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-20T07:32:19Z",
-   "category": "tech"
-  },
-  {
-   "id": "8864c85aaebc75313357fb595e338dcab24a313d",
+   "id": "3e6e640b0cf4b3f171c0143253e55f14948cfcff",
    "rank": 7,
-   "title": "Mysterious Mercury is about to get a visitor - after spacecraft's eight-year epic voyage",
-   "brief": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun.",
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
+   "title": "President Zardari meets FM Dar, NA Speaker Ayaz Sadiq to discuss 'overall political situation'",
+   "brief": "President Asif Ali Zardari met Deputy Prime Minister and Foreign Minister Ishaq Dar and National Assembly Speaker Sardar Ayaz Sadiq on Saturday to discuss political affairs amid the ongoing controversy over the subject of new provinces and a referendum.",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641556/president-zardari-meets-fm-dar-na-speaker-ayaz-sadiq-to-discuss-overall-political-situation",
    "image": null,
-   "published_at": "2026-11-20T05:59:56Z",
-   "category": "science"
+   "published_at": "2026-11-21T13:06:10Z",
+   "category": "pakistan"
   },
   {
    "id": "5b1ffe0b4d1df4575dc8a31198c6e14447ac8ff5",
@@ -112,30 +112,8 @@
    "category": "pakistan"
   },
   {
-   "id": "a759ab5bfda7d9899723387673f37d987c6b9cf3",
-   "rank": 9,
-   "title": "Videos, photos of 13-year-old domestic worker's torture at senior FIA official’s Islamabad residence emerge",
-   "brief": "Read: Court extends remand of two suspects in Fatima murder case Earlier, a post-mortem report prepared by the Pakistan Institute of Medical Sciences (PIMS) revealed extensive injuries and signs of prolonged and brutal torture inflicted on the child.",
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641540/videos-photos-of-13-year-old-domestic-workers-torture-at-senior-fia-officials-house",
-   "image": null,
-   "published_at": "2026-11-21T08:00:34Z",
-   "category": "pakistan"
-  },
-  {
-   "id": "3abf1eb4b10605db911d100bbb4f41a651a6207a",
-   "rank": 10,
-   "title": "NIH issues nationwide advisories on flu, smog and vaccine-preventable diseases",
-   "brief": "The advisories, issued by the NIH’s Centre for Disease Control, cover the prevention and control of seasonal influenza for 2026-27, health risks and precautionary measures associated with smog, as well as vaccine-preventable disease control.",
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641532/nih-issues-nationwide-advisories-on-flu-smog-and-vaccine-preventable-diseases",
-   "image": null,
-   "published_at": "2026-11-21T06:33:51Z",
-   "category": "pakistan"
-  },
-  {
    "id": "b934abde8458e2d6b3468cec554bcdbfdd35d299",
-   "rank": 11,
+   "rank": 9,
    "title": "Hafiz Naeem urges government to prioritise public relief in meeting with Naqvi",
    "brief": "Later on October 27, Shehbaz also met Hafiz Naeem in Islamabad and agreed to form a six-member committee to finalise recommendations on expanding the existing petrol relief scheme and preparing proposals for a phased reduction in the petroleum levy.",
    "source": "Express Tribune",
@@ -146,7 +124,7 @@
   },
   {
    "id": "af3d473b37f79715611c5ea8a0cf95b51fc87dcb",
-   "rank": 12,
+   "rank": 10,
    "title": "DPM Dar calls for new regional security framework to ensure lasting peace",
    "brief": "Highlighting China's involvement in the peace efforts, Dar said Pakistan and China had proposed a five-point peace initiative that received substantial backing from major international actors, including the European Union and the United Kingdom.",
    "source": "Express Tribune",
@@ -156,25 +134,47 @@
    "category": "pakistan"
   },
   {
-   "id": "88a0c0c8c7157534da61e1cfb11c2decf453fac8",
-   "rank": 13,
-   "title": "Iraq fire at Basra power station kills at least four, injures 30",
-   "brief": "At least 4 people were killed and 30 injured in a fire at a power station in southern Iraq on Saturday, with the toll expected to rise, security officials said.",
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641501/iraq-fire-at-basra-power-station-kills-at-least-four-injures-30",
+   "id": "7f5440f94e752f8b7312266f615d89702e5a5fa5",
+   "rank": 11,
+   "title": "Will COP31 end with a new global climate deal?",
+   "brief": "BBC Climate editor Justin Rowlatt reports from the COP 31 UN climate summit in Antalya, Turkey.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-21T01:27:55Z",
-   "category": "pakistan"
+   "published_at": "2026-11-21T22:44:52Z",
+   "category": "science"
+  },
+  {
+   "id": "460719117a505666c4ee4bea9f09d6c12897027d",
+   "rank": 12,
+   "title": "Trump orders federal contractors to check with White House before responding to Congress",
+   "brief": "President Trump is directing federal contractors to consult the White House about inquiries from Congress and to withhold any communications that his administration considers privileged.(Image credit: Jacquelyn Martin)",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/21/g-s1-154966/trump-contractors-congress",
+   "image": null,
+   "published_at": "2026-11-21T22:40:36Z",
+   "category": "world"
   },
   {
    "id": "3500af305ed03afde70d667f66c4c065b614b69e",
-   "rank": 14,
-   "title": "Anthropic mathematician claims he used Claude to prove 19th-century Riemann hypothesis",
+   "rank": 13,
+   "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
    "brief": "He says that Claude helped develop a solution to the problem during the course of about six weeks.",
    "source": "The Guardian",
    "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
    "image": "https://i.guim.co.uk/img/media/d3154f68df589c297fc3d173e2bb3d95faca05c9/530_0_4678_3742/master/4678.jpg?width=140&quality=85&auto=format&fit=max&s=2be6ea0855df616ea30ffc89afed2e1f",
-   "published_at": "2026-11-21T16:39:49Z",
+   "published_at": "2026-11-21T20:15:57Z",
+   "category": "world"
+  },
+  {
+   "id": "7ac6d14389feef653a0c7c56a0beb3c6acfc7890",
+   "rank": 14,
+   "title": "Trump orders contractors to check with White House over any congressional inquiries",
+   "brief": "If they fail to comply, the White House warns, their contracts could be terminated and their future work with the federal government suspended.",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/21/trump-contractors-congress-executive-order",
+   "image": "https://i.guim.co.uk/img/media/f021398e23c64249dd270de109b550a94bbd26fb/332_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=ac681459ea7485f2b61ae3c5952d9496",
+   "published_at": "2026-11-21T18:08:30Z",
    "category": "world"
   },
   {
@@ -189,8 +189,19 @@
    "category": "world"
   },
   {
-   "id": "8e797836f2dc8906ee63e3c6e499147a12989e5b",
+   "id": "e86869f8921697db91e44fc9577a43c90c4ce987",
    "rank": 16,
+   "title": "FBI reportedly investigating apparent hack of its criminal database",
+   "brief": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-21T16:35:15Z",
+   "category": "world"
+  },
+  {
+   "id": "8e797836f2dc8906ee63e3c6e499147a12989e5b",
+   "rank": 17,
    "title": "‘Little room for error’: what a debt-laden cloud computing company says about the AI boom",
    "brief": "‘Poster child of AI bubble’ CoreWeave symbolises increasingly risky business model of datacentre buildoutThe Egyptians had pyramids.",
    "source": "The Guardian",
@@ -201,7 +212,7 @@
   },
   {
    "id": "5d3c25a64fe3237b8f9b1d1069bc3bfff1d7b0dc",
-   "rank": 17,
+   "rank": 18,
    "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
    "brief": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
    "source": "BBC News",
@@ -212,7 +223,7 @@
   },
   {
    "id": "a8f641bc1705047c6d54705e9829e97d832802c6",
-   "rank": 18,
+   "rank": 19,
    "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
    "brief": "The mammoth figure surpasses every video game launch and single-day film box office record.",
    "source": "BBC News",
@@ -223,24 +234,13 @@
   },
   {
    "id": "ac72bf8df42ae789af261042d5099d11ec47f770",
-   "rank": 19,
+   "rank": 20,
    "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
    "brief": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-20T19:27:49Z",
-   "category": "world"
-  },
-  {
-   "id": "ab96d4d31437bc69f512f1fefd105e056f51b8dc",
-   "rank": 20,
-   "title": "Indian man sentenced to 19 years in prison for conspiring to kill Sikh separatist in New York",
-   "brief": "Nikhil Gupta admitted to plotting with Indian government official to hire hitman to murder dual US-Canadian citizenAn Indian ⁠man was sentenced to more ⁠than 19 ​years in US prison on Friday after admitting to orchestrating a failed Indian government-backed plot to kill a Sikh separatist in New York ⁠City, in connection with what US and…",
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/20/indian-man-sentenced-prison-murder-plot-sikh-separatist",
-   "image": "https://i.guim.co.uk/img/media/9685e16f610038a3820904f81eb1dba749b72664/117_0_2813_2250/master/2813.jpg?width=140&quality=85&auto=format&fit=max&s=2cc6f42b367b6b3ca3cc23ff3443d4ff",
-   "published_at": "2026-11-20T18:24:12Z",
    "category": "world"
   }
  ]
