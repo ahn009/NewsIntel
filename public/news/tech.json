@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-20T19:59:40.802232Z",
+ "generated_at": "2026-11-21T01:23:55.219491Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
-  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/home": "ok",
+  "https://www.dawn.com/feeds/pakistan": "ok",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,9 +20,213 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "ok"
+  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "c37c957c7736c8a2a67d2700539321995bd29c0b",
+   "title": "Tech Now",
+   "summary": [
+    "Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/iplayer/episode/m0034tjc?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-21T01:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "061f6c8fa6ba0386078de48cc8be1ece1f36d710",
+   "title": "Can AI really help spot Black Friday deals? We put it to the test",
+   "summary": [
+    "We put four AI models to the test to see if they could save us money on a new TV."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-21T00:06:11Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "d147fa847b3bfbef4457a1debfa7e28eae8e5c91",
+   "title": "Uncontacted Indigenous people emerge from Amazon forest to ask for food",
+   "summary": [
+    "Article URL: https://www.washingtonpost.com/world/2026/11/19/uncontacted-indigenous-people-emerge-amazon-forest-ask-food/ Comments URL: https://news.ycombinator.com/item?id=50583877 Points: 23 # Comments: 4"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.washingtonpost.com/world/2026/11/19/uncontacted-indigenous-people-emerge-amazon-forest-ask-food/",
+   "image": null,
+   "published_at": "2026-11-20T23:31:27Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "33b25e2a9362fb307823f0efd951a75590d14087",
+   "title": "Sir Brian May adds new dimension to Hera asteroid",
+   "summary": [
+    "Article URL: https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid Comments URL: https://news.ycombinator.com/item?id=50583768 Points: 29 # Comments: 5"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
+   "image": null,
+   "published_at": "2026-11-20T23:19:44Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a8f641bc1705047c6d54705e9829e97d832802c6",
+   "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+   "summary": [
+    "The mammoth figure surpasses every video game launch and single-day film box office record."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-20T22:53:24Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "7f78d7354514503e906ed596fce09877468349e0",
+   "title": "AI may have solved the most important problem in mathematics",
+   "summary": [
+    "Article URL: https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics Comments URL: https://news.ycombinator.com/item?id=50583445 Points: 27 # Comments: 13"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
+   "image": null,
+   "published_at": "2026-11-20T22:46:59Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "44041f7d1d02e86e8571546f86baf2ac84094536",
+   "title": "NINLIVE: The Nine Inch Nails live archive",
+   "summary": [
+    "Article URL: https://ninlive.com/ Comments URL: https://news.ycombinator.com/item?id=50583274 Points: 102 # Comments: 21"
+   ],
+   "source": "Hacker News",
+   "url": "https://ninlive.com/",
+   "image": null,
+   "published_at": "2026-11-20T22:30:47Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "1d62cfb8adacebc0fb8f29e556677e1ffa9d5dc0",
+   "title": "Merkle Tree Certificates",
+   "summary": [
+    "Article URL: https://datatracker.ietf.org/doc/draft-ietf-plants-merkle-tree-certs/ Comments URL: https://news.ycombinator.com/item?id=50583134 Points: 10 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://datatracker.ietf.org/doc/draft-ietf-plants-merkle-tree-certs/",
+   "image": null,
+   "published_at": "2026-11-20T22:19:23Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "956f406f46c1133298e202b7f6baf67493057ed4",
+   "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+   "summary": [
+    "Article URL: https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models Comments URL: https://news.ycombinator.com/item?id=50583117 Points: 12 # Comments: 4"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
+   "image": null,
+   "published_at": "2026-11-20T22:18:20Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ee805bbdebf91547c08bb59cec00bad33a2c84df",
+   "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+   "summary": [
+    "Techies are building technology that can advance all aspects of the world — but can they protect their hearts?",
+    "That's the vulnerability that honey pots exploit."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+   "image": null,
+   "published_at": "2026-11-20T20:58:29Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "c72cb9838d98f486d22f89c3fd905c1a3308fff1",
+   "title": "US SEC's Nvidia probe is examining potential accounting issues – sources",
+   "summary": [
+    "Article URL: https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627 Comments URL: https://news.ycombinator.com/item?id=50581438 Points: 218 # Comments: 109"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627",
+   "image": null,
+   "published_at": "2026-11-20T20:22:41Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "00dcab6deae05afa51ccf9e5bc8e1f1ab8abc8f5",
+   "title": "Show HN: OpenComputer – an open source alternative to Devin",
+   "summary": [
+    "Hi HN!Utpal here, I'm one of the founders of OpenComputer.OpenComputer is an open source cloud coding agent for teams that can run in your own cloud account (AWS, GCP, Azure).We run the agent harness and the sandbox on the same durable VM (architecture in the docs [1]).",
+    "First commit lands in 24s; the alternatives we benchmarked took 53-72s (benchmarks below [2]).Two other choices:- One VM per team, scalable horizontally.",
+    "So at scale, this setup would not only be faster than current SOTA coding agents, but also more cost-efficient.Feel free to try via cloud for free [4] or self host."
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/diggerhq/opencomputer",
+   "image": null,
+   "published_at": "2026-11-20T20:19:56Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "af72f9870d1f5ea752d504d0595bbe170be6c510",
+   "title": "We’ve tried everything to get off our phones. These 11 things work (and make great gifts)",
+   "summary": [
+    "Our favorite screen alternatives, including guided watercolor books, jigsaw puzzles and a Mexican cookbookThe best holiday gifts – obsessively testedLogging off is en vogue.",
+    "From touting analog bags to playing vinyl records, many of us are tired of living life behind a screen.So 2026 may be the ideal year to gift some low-tech entertainment instead of the newest iPhone."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/thefilter-us/2026/nov/20/best-analog-holiday-gift-ideas",
+   "image": "https://i.guim.co.uk/img/media/39315886bd6d22fce36c1249c9ce152e0d5d9375/66_0_2359_1887/master/2359.jpg?width=140&quality=85&auto=format&fit=max&s=33635aef5949b6278841ac99c4ee7bb1",
+   "published_at": "2026-11-20T20:15:38Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "77a3b767d0e74c18e51530f1dd5ff7741d0f4997",
+   "title": "And yet, it moves",
+   "summary": [
+    "Article URL: https://signoregalilei.com/2026/11/20/and-yet-it-moves/ Comments URL: https://news.ycombinator.com/item?id=50581177 Points: 80 # Comments: 40"
+   ],
+   "source": "Hacker News",
+   "url": "https://signoregalilei.com/2026/11/20/and-yet-it-moves/",
+   "image": null,
+   "published_at": "2026-11-20T20:07:55Z",
+   "category": "tech",
+   "related": [
+    {
+     "source": "Hacker News",
+     "url": "https://borretti.me/article/re-riemann"
+    }
+   ]
+  },
+  {
+   "id": "4a5d64a1c5ebed4f62da5c70baf9fb2873f03b2f",
+   "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+   "summary": [
+    "Article URL: https://www.masteringemacs.org/article/announcing-dreamcoder Comments URL: https://news.ycombinator.com/item?id=50581110 Points: 99 # Comments: 15"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
+   "image": null,
+   "published_at": "2026-11-20T20:03:59Z",
+   "category": "tech",
+   "related": []
+  },
   {
    "id": "59fa562eab8a38b3aa6a08d6be6e26c2946c44ed",
    "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
@@ -38,9 +242,9 @@
   },
   {
    "id": "321bf9e3c390a6360cc289f25831b6e985bbd25b",
-   "title": "AI claimed a solution to the 167 year-old Riemann Hypothesis — and a human did, too",
+   "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
    "summary": [
-    "Mathematicians are having their minds blown by the latest AI-driven result—and there's a competing human solution, too."
+    "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too."
    ],
    "source": "TechCrunch",
    "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
@@ -50,15 +254,28 @@
    "related": []
   },
   {
-   "id": "b0d536dc481b381fd03904eb37c7ead5732dbb85",
-   "title": "GrapheneOS claims Google is now waging war against it, could lock Pixel bootload",
+   "id": "2ad14a149dae3f825c2516f6af46d054044ca006",
+   "title": "Winedroid – run Android apps without Android (WASM demo)",
    "summary": [
-    "Article URL: https://www.androidauthority.com/grapheneos-team-google-pressure-3737525/ Comments URL: https://news.ycombinator.com/item?id=50580385 Points: 24 # Comments: 6"
+    "Article URL: https://winedroid.soham.sh/demo/ Comments URL: https://news.ycombinator.com/item?id=50580536 Points: 95 # Comments: 29"
    ],
    "source": "Hacker News",
-   "url": "https://www.androidauthority.com/grapheneos-team-google-pressure-3737525/",
+   "url": "https://winedroid.soham.sh/demo/",
    "image": null,
-   "published_at": "2026-11-20T19:21:49Z",
+   "published_at": "2026-11-20T19:30:16Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "2af93e3b8100433ca68f806b0cdab544d4b157d7",
+   "title": "White House removes cyber-security chief after series of tech outages",
+   "summary": [
+    "He has been fired after losing the confidence of new White House chief of staff Stephen Miller, according to reports."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-20T19:03:56Z",
    "category": "tech",
    "related": []
   },
@@ -79,7 +296,7 @@
    "id": "04e4de98579780fa17f96e46d2e5ca465799d5b8",
    "title": "Hurried Announcement: Alessandro Masullo GRH",
    "summary": [
-    "Article URL: https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/ Comments URL: https://news.ycombinator.com/item?id=50579568 Points: 544 # Comments: 192"
+    "Article URL: https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/ Comments URL: https://news.ycombinator.com/item?id=50579568 Points: 1522 # Comments: 692"
    ],
    "source": "Hacker News",
    "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
@@ -92,25 +309,12 @@
    "id": "e1a223b73868864c0b2e849ddd1a4b18eb899db1",
    "title": "We promoted developers into architects without informing them",
    "summary": [
-    "Article URL: https://manidoraisamy.com/developer-to-architect.html Comments URL: https://news.ycombinator.com/item?id=50579331 Points: 76 # Comments: 38"
+    "Article URL: https://manidoraisamy.com/developer-to-architect.html Comments URL: https://news.ycombinator.com/item?id=50579331 Points: 288 # Comments: 178"
    ],
    "source": "Hacker News",
    "url": "https://manidoraisamy.com/developer-to-architect.html",
    "image": null,
    "published_at": "2026-11-20T18:17:51Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "3e30621eb1a8fdcade2d173049e03ff2064cd0f5",
-   "title": "Vibecoding an Inference Chip",
-   "summary": [
-    "Article URL: https://ankitg.me/blog/vibecoding-inference-chip/ Comments URL: https://news.ycombinator.com/item?id=50579297 Points: 38 # Comments: 11"
-   ],
-   "source": "Hacker News",
-   "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
-   "image": null,
-   "published_at": "2026-11-20T18:15:16Z",
    "category": "tech",
    "related": []
   },
@@ -124,19 +328,6 @@
    "url": "https://www.theguardian.com/games/2026/nov/20/grand-theft-auto-vi-players-review",
    "image": "https://i.guim.co.uk/img/media/bf2fb910b6bd1814c2576b1066e4abdbc6482747/356_0_3818_3055/master/3818.jpg?width=140&quality=85&auto=format&fit=max&s=3774532bd860d37fd71b1b43a30fe213",
    "published_at": "2026-11-20T18:04:15Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "32a6def5ca5575b87424390ddab92ac57e69ffdd",
-   "title": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
-   "summary": [
-    "Article URL: https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394 Comments URL: https://news.ycombinator.com/item?id=50578794 Points: 128 # Comments: 101"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
-   "image": null,
-   "published_at": "2026-11-20T17:44:01Z",
    "category": "tech",
    "related": []
   },
@@ -158,38 +349,12 @@
    "id": "dc0a65e6fd6d3dfd180592733130d38d895a1de1",
    "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
    "summary": [
-    "Article URL: https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50578358 Points: 134 # Comments: 24"
+    "Article URL: https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50578358 Points: 334 # Comments: 138"
    ],
    "source": "Hacker News",
    "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
    "image": null,
    "published_at": "2026-11-20T17:21:36Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "3c1f8452c0b4a7b58f3176992d430d27c61c434c",
-   "title": "Running two PSP emulators on one Switch 2 and sharing one via GameShare",
-   "summary": [
-    "Article URL: https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md Comments URL: https://news.ycombinator.com/item?id=50578233 Points: 35 # Comments: 0"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md",
-   "image": null,
-   "published_at": "2026-11-20T17:14:03Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "3cc68ecd0e5ccc22fa73ae0b4d0b67de80913b7b",
-   "title": "PostgreSQL 19: A hands-on tour with runnable browser examples",
-   "summary": [
-    "Article URL: https://certuvia.com/blog/postgres-19 Comments URL: https://news.ycombinator.com/item?id=50578117 Points: 24 # Comments: 1"
-   ],
-   "source": "Hacker News",
-   "url": "https://certuvia.com/blog/postgres-19",
-   "image": null,
-   "published_at": "2026-11-20T17:08:56Z",
    "category": "tech",
    "related": []
   },
@@ -209,25 +374,12 @@
    "related": []
   },
   {
-   "id": "65edf14fd72af2fa5b96c770e6e224b7ae635288",
-   "title": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
-   "summary": [
-    "Article URL: https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/ Comments URL: https://news.ycombinator.com/item?id=50577901 Points: 119 # Comments: 62"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
-   "image": null,
-   "published_at": "2026-11-20T16:59:27Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "49db83e253edbf0771d468b99bafbdd0476979fa",
    "title": "I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",
    "summary": [
     "Please remember that I can't provide legal advice on specific cases for obvious liability reasons because I won't have access to all the facts.",
     "Please stick to a factual discussion in your questions and comments and I'll try to do the same in my answers!Previous threads we've done: https://news.ycombinator.com/submitted?id=proberts.",
-    "Comments URL: https://news.ycombinator.com/item?id=50577613 Points: 62 # Comments: 88"
+    "Comments URL: https://news.ycombinator.com/item?id=50577613 Points: 94 # Comments: 131"
    ],
    "source": "Hacker News",
    "url": "https://news.ycombinator.com/item?id=50577613",
@@ -240,7 +392,7 @@
    "id": "9fe3e937f57a693052b0cfb8dd8b9c04c11f348c",
    "title": "Language Models Can Rewrite Their Own Weights",
    "summary": [
-    "Article URL: https://arxiv.org/abs/2611.21885 Comments URL: https://news.ycombinator.com/item?id=50577265 Points: 234 # Comments: 90"
+    "Article URL: https://arxiv.org/abs/2611.21885 Comments URL: https://news.ycombinator.com/item?id=50577265 Points: 334 # Comments: 108"
    ],
    "source": "Hacker News",
    "url": "https://arxiv.org/abs/2611.21885",
@@ -263,19 +415,6 @@
    "related": []
   },
   {
-   "id": "89b47ada3cb28c7747f858f80cbb26f62ff9f9a8",
-   "title": "I'll never buy Framework hardware again",
-   "summary": [
-    "Article URL: https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/ Comments URL: https://news.ycombinator.com/item?id=50576855 Points: 707 # Comments: 458"
-   ],
-   "source": "Hacker News",
-   "url": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/",
-   "image": null,
-   "published_at": "2026-11-20T16:06:30Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "0284c903b166b2ae05022fd43319104c11d9cbd7",
    "title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
    "summary": [
@@ -285,19 +424,6 @@
    "url": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
    "image": null,
    "published_at": "2026-11-20T15:46:07Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "4c04906c125104a995556972aa6a9d255f495191",
-   "title": "Finite-time blow-up for the Navier–Stokes equations",
-   "summary": [
-    "Article URL: https://github.com/tristanbuckmaster/navier-stokes/ Comments URL: https://news.ycombinator.com/item?id=50576232 Points: 179 # Comments: 55"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/tristanbuckmaster/navier-stokes/",
-   "image": null,
-   "published_at": "2026-11-20T15:34:31Z",
    "category": "tech",
    "related": []
   },
@@ -313,32 +439,6 @@
    "url": "https://www.theguardian.com/thefilter/2025/sep/19/best-led-red-light-therapy-face-masks",
    "image": "https://i.guim.co.uk/img/media/dcb3cc35a861de987165a14b91cbd345e81b0006/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6aa28926831680ff4204b20c9d0e77b0",
    "published_at": "2026-11-20T15:06:46Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "f4c47e25e9525c9f0241e06ed335dd73b062f265",
-   "title": "Why there are still no non-WebKit browsers on iOS",
-   "summary": [
-    "Article URL: https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/ Comments URL: https://news.ycombinator.com/item?id=50575644 Points: 256 # Comments: 131"
-   ],
-   "source": "Hacker News",
-   "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
-   "image": null,
-   "published_at": "2026-11-20T15:03:31Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "bbe099f2944c559d2da8bc280acbad043261b64e",
-   "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
-   "summary": [
-    "Article URL: https://alpo.ge/remark.pdf Comments URL: https://news.ycombinator.com/item?id=50574968 Points: 1937 # Comments: 1307"
-   ],
-   "source": "Hacker News",
-   "url": "https://alpo.ge/remark.pdf",
-   "image": null,
-   "published_at": "2026-11-20T14:16:21Z",
    "category": "tech",
    "related": []
   },
@@ -382,32 +482,6 @@
    "related": []
   },
   {
-   "id": "a8f641bc1705047c6d54705e9829e97d832802c6",
-   "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
-   "summary": [
-    "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-20T13:08:30Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "0fd72439d56159a3134a2300ceab5482fc51bf80",
-   "title": "If you stop writing code, you also get worse at reviewing it",
-   "summary": [
-    "Article URL: https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/ Comments URL: https://news.ycombinator.com/item?id=50573886 Points: 276 # Comments: 131"
-   ],
-   "source": "Hacker News",
-   "url": "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/",
-   "image": null,
-   "published_at": "2026-11-20T12:41:38Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "dc4abeffea47e7abc6bf91baecbd7f742411d95a",
    "title": "AI is imposing a hidden ‘cognitive tax’ on the lowest-paid workers",
    "summary": [
@@ -419,32 +493,6 @@
    "url": "https://www.theguardian.com/technology/2026/nov/20/ai-low-paid-workers-cognitive-tax",
    "image": "https://i.guim.co.uk/img/media/b71c923b07b403bdaf953194f3dfdf7229e4b7c6/492_0_3408_2727/master/3408.jpg?width=140&quality=85&auto=format&fit=max&s=7a9b36a23900dd55a7da37ebd913eb2b",
    "published_at": "2026-11-20T11:00:31Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "82d4562a810231f64f6a3e2dafa5dff8427d6dce",
-   "title": "The Making of Oxygene",
-   "summary": [
-    "Article URL: https://jeanmicheljarre.com/aaa/the-making-of-oxygene Comments URL: https://news.ycombinator.com/item?id=50572822 Points: 173 # Comments: 63"
-   ],
-   "source": "Hacker News",
-   "url": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
-   "image": null,
-   "published_at": "2026-11-20T10:41:10Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "0000282282406879db0bb3598c7fd8ebbb0fcc66",
-   "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-   "summary": [
-    "Article URL: https://architectlabs.com/blog/frostbite Comments URL: https://news.ycombinator.com/item?id=50572503 Points: 543 # Comments: 290"
-   ],
-   "source": "Hacker News",
-   "url": "https://architectlabs.com/blog/frostbite",
-   "image": null,
-   "published_at": "2026-11-20T10:01:41Z",
    "category": "tech",
    "related": []
   },
@@ -475,32 +523,6 @@
    "url": "https://www.theguardian.com/thefilter/2026/nov/20/best-baby-monitor-tested-uk",
    "image": "https://i.guim.co.uk/img/media/add5710bd2cd30b9e3f6bb21f5abe1f6b78bed9d/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b88e1b6b1199cd674fdd467414093d17",
    "published_at": "2026-11-20T10:00:28Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "dbff0d10d0540e936af9762e593eda57a4ab3b0c",
-   "title": "What people are building, discovered through new domains",
-   "summary": [
-    "Article URL: https://startups.novumsignals.com/ Comments URL: https://news.ycombinator.com/item?id=50572448 Points: 140 # Comments: 68"
-   ],
-   "source": "Hacker News",
-   "url": "https://startups.novumsignals.com/",
-   "image": null,
-   "published_at": "2026-11-20T09:54:33Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "601ef0d322ce7274ca0a2ae857da5015b8765f63",
-   "title": "If you can't explain something in simple terms, you don't understand it (2017)",
-   "summary": [
-    "Article URL: https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it Comments URL: https://news.ycombinator.com/item?id=50572355 Points: 527 # Comments: 265"
-   ],
-   "source": "Hacker News",
-   "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
-   "image": null,
-   "published_at": "2026-11-20T09:43:19Z",
    "category": "tech",
    "related": []
   },
@@ -542,19 +564,6 @@
    "url": "https://www.theguardian.com/music/2026/nov/20/peter-gabriel-interview-ai-music-bonobo-ape-duets-jurassic-park-plants",
    "image": "https://i.guim.co.uk/img/media/124bc29050c7da765c91e3c9121b3b2ab887ffa0/0_715_4126_3300/master/4126.jpg?width=140&quality=85&auto=format&fit=max&s=f0bd83c4f578462ee5eeaf1e262d06d8",
    "published_at": "2026-11-20T05:00:22Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "50425ff6da685b82fb76afbbb463638a06a94496",
-   "title": "NextDC vows to keep future datacentres away from homes after community backlash in Melbourne",
-   "summary": [
-    "Public expectations around datacentres have changed in the age of AI, chief executive Craig Scroggie saysGet our breaking news email, free app or daily news podcastCommunity backlash to a datacentre expansion in inner Melbourne that resulted in NextDC’s share price dropping 40% will change the way the company engages with communities – and it says it will no longer pursue new developments near homes.The company held its first annual general meeting since it was forced to delay the controversial expansion of its M3 site in West Footscray after power provider Jemena paused construction of new 22-metre power poles amid community protest."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/20/nextdc-vows-to-keep-future-datacentres-away-from-homes-after-community-backlash-in-melbourne",
-   "image": "https://i.guim.co.uk/img/media/9acf294a8c0fe26735bc3164495be1c8cbfbe068/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=17900272fc8dd5c5221231513aab8877",
-   "published_at": "2026-11-20T04:37:08Z",
    "category": "tech",
    "related": []
   }

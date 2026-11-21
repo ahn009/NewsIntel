@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-20T19:59:40.801622Z",
- "story_count": 39,
+ "generated_at": "2026-11-21T01:23:55.218715Z",
+ "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
-  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/home": "ok",
+  "https://www.dawn.com/feeds/pakistan": "ok",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,9 +20,494 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "ok"
+  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "c847480198c0b418ccbe173412f46c770ba156d5",
+   "title": "'I would love to see him be back': Trump urges Nvidia to give Jensen Huang 'second chance'",
+   "summary": [
+    "US President Donald Trump on Friday called for AI giant Nvidia to reinstate Jensen Huang after he was ousted as CEO over an affair with an alleged Chinese spy. “I would love to see him be back.",
+    "Earlier, Treasury Secretary Scott Bessent said that Trump did not discuss Huang with Chinese President Xi Jinping during their meeting this week.",
+    "Responding to a question, Bessent told US broadcaster CNBC that Huang had not come up in Trump’s talks with Xi, held earlier this week in Shenzhen."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045939/i-would-love-to-see-him-be-back-trump-urges-nvidia-to-give-jensen-huang-second-chance",
+   "image": "https://i.dawn.com/large/2026/05/161200099279792.webp",
+   "published_at": "2026-11-20T18:45:55Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "2453f6a66a0bd0f0f24ffe2a33eb8f85d51a2983",
+   "title": "Indian man jailed over US murder plot against Sikh separatist",
+   "summary": [
+    "US federal prosecutors alleged that an Indian intelligence officer, who remains at large, directed the plot and recruited Gupta in May 2023 to hire a hitman to carry out the murder.",
+    "Canada separately alleged in 2023 that India arranged a plot on its soil that ended in the killing of a Sikh separatist, who was a naturalised Canadian citizen.",
+    "Hardeep Singh Nijjar, 45, was shot dead by masked gunmen outside the Sikh temple he presided over after being wanted by Indian authorities for alleged terrorism offences and conspiracy to commit murder — accusations he denied."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045944/indian-man-jailed-over-us-murder-plot-against-sikh-separatist",
+   "image": "https://i.dawn.com/large/2026/02/141016127299ec0.webp",
+   "published_at": "2026-11-20T18:33:17Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "c256dc2abcc88400155ae6af7178472e50e7e5c9",
+   "title": "Minister insists referendum on new provinces 'will happen'",
+   "summary": [
+    "Parliamentary Affairs Minister Tariq Fazal Chaudhry on Friday insisted that a referendum on the formation of new provinces “will happen”.",
+    "Bilawal had expressed his opposition to the creation of provinces and the idea of holding a referendum for such a move in his speech.",
+    "Soon after Bilawal’s remarks, Information Minister Attaullah Tarar defended the move, saying it was a legal and constitutional method of gauging public opinion."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045936/minister-insists-referendum-on-new-provinces-will-happen",
+   "image": "https://i.dawn.com/large/2026/02/24000347ede2bf1.webp",
+   "published_at": "2026-11-20T18:15:15Z",
+   "category": "pakistan",
+   "related": [
+    {
+     "source": "Express Tribune",
+     "url": "https://tribune.com.pk/story/2641451/referendum-will-happen-says-minister"
+    }
+   ]
+  },
+  {
+   "id": "8b420e62e5ff1ee563972dccd6c917fc80706c3c",
+   "title": "CTD says 3 terrorists, including mastermind of Kohat police lines attack, killed in IBO",
+   "summary": [
+    "PESHAWAR: The Counter Terrorism Department (CTD) on Friday claimed to have killed three terrorists of the banned Ittehadul Mujahideen Pakistan (IMP), including the mastermind of the Kohat Police Lines attack in September.",
+    "According to an official statement, the Kohat CTD received intelligence that armed terrorists of the banned IMP had set up a checkpoint on Bazeed Khel Road in Kohat.",
+    "The statement read that according to preliminary information, two of the suspected terrorists killed had been identified as Abdul Hai and Abdul Rashid."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045941/ctd-says-3-terrorists-including-mastermind-of-kohat-police-lines-attack-killed-in-ibo",
+   "image": "https://i.dawn.com/large/2026/05/240739513513dde.webp",
+   "published_at": "2026-11-20T18:07:18Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "53c12e28c9483f3f7b2d2702cebdd1c0e1394f22",
+   "title": "ECC allows 416,000T sugar export",
+   "summary": [
+    "The government on Friday allowed the export of another 416,000 metric tonnes of sugar without circulating the summary among the relevant ministries, amid its failure to deregulate the sugar sector despite a condition by the International Monetary Fund (IMF).",
+    "The ECC's approval for the export of 416,000 tonnes of sugar was the third such permission in four months, bringing the total export quantity to 724,000 metric tonnes for this season.",
+    "According to a draft of the National Policy for De-regulation of the Sugar Sector, over the last decade, Pakistan exported 3.92 million tonnes of sugar but also imported about 565,000 metric tonnes."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641490/ecc-allows-416000t-sugar-export",
+   "image": null,
+   "published_at": "2026-11-20T17:54:18Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "82db95d7341c14b13f5874c2a29d915a6360422c",
+   "title": "SPI stays elevated in double digits",
+   "summary": [
+    "The year-on-year increase continues to be led by sharp rises in energy-related items, including liquefied petroleum gas (LPG) up 87.99%, electricity charges for the lowest consumption quintile up 36.30%, high-speed diesel up 24.84%, and petrol up 21.35%.",
+    "The sustained double-digit year-on-year SPI reading comes against the backdrop of prolonged regional tensions that have disrupted energy flows through the Strait of Hormuz and kept international oil and LPG prices elevated for much of the year.",
+    "The monthly Consumer Price Index (CPI) increased by 9.6% year-on-year in October 2026 as compared to a rise of 10.3% in the previous month and 6.2% in October 2025."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641491/spi-stays-elevated-in-double-digits",
+   "image": null,
+   "published_at": "2026-11-20T17:54:18Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "605d1053dfe0b41d6efc41c42ccbd37576f98b6c",
+   "title": "SOEs scrap LPG auctions after LHC intervention",
+   "summary": [
+    "The LPG auctions planned by state-owned enterprises (SOEs) Oil and Gas Development Company Limited (OGDCL), Pakistan Petroleum Limited (PPL) and Pak-Arab Refinery Limited (PARCO) have been scrapped, the Pakistan LPG Marketers Association (PLPGMA) announced.",
+    "The association argued that the proposed process was contrary to the legal and regulatory framework governing the LPG sector that prohibits LPG producers from charging any sort of premium over and above the Oil and Gas Regulatory Authority (OGRA) notified price.",
+    "Separately, the LPG Distributors Association of Pakistan issued a pre-litigation representation challenging the Federal Cabinet's LPG Pricing Guidelines approved on November 4, 2026, and communicated by the Petroleum Division on November 5, 2026."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641492/soes-scrap-lpg-auctions-after-lhc-intervention",
+   "image": null,
+   "published_at": "2026-11-20T17:54:18Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "ecc8271046a7081ffc4a2860374b4137d7c255e6",
+   "title": "Resilience cannot be substitute for economic growth",
+   "summary": [
+    "Adil Salahuddin called for stronger private sector financing and deeper capital markets to support business expansion and economic transformation.",
+    "The discussion underscored the need for coordinated improvements in financing, digital infrastructure, regulatory practices, governance and workforce development to strengthen the competitiveness of Pakistani businesses.",
+    "His address focused on the importance of entrepreneurial activity in generating solutions to changing economic conditions and supporting business transformation."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641493/resilience-cannot-be-substitute-for-economic-growth",
+   "image": null,
+   "published_at": "2026-11-20T17:54:18Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "503ab3bc8f470262a6bd22dd58792049efe0f9dc",
+   "title": "Petrol price reduced by Re1 per litre; diesel increased by Rs2 per litre",
+   "summary": [
+    "'8.5' : '10') + 'px Arial,sans-serif'; ctx.fillStyle = '#8a2510'; ctx.textAlign = 'left'; ctx.textBaseline = 'top'; ctx.fillText('Peak crisis', pxp + 4, PAD_T + 4); /* daily label */ ctx.font = (W < 440 ?",
+    "'+' : ''; var msg; if (i === 0) { msg = 'The pre-crisis price — petrol at Rs' + PRE_PETROL + ' and diesel at Rs' + PRE_DIESEL + ' per litre.",
+    "On Sept 17, the government rolled out the Prime Minister’s Fuel Relief Scheme across the country to ease the public’s burden amid rising fuel prices due to the Middle East situation."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045935/petrol-price-reduced-by-re1-per-litre-diesel-increased-by-rs2-per-litre",
+   "image": "https://i.dawn.com/large/2021/06/60dcaad712565.png",
+   "published_at": "2026-11-20T17:50:20Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "4b2ed99003b8bd3899230a979a70d644d52c51a4",
+   "title": "Trump not sure if denuclearisation 'can ever happen'",
+   "summary": [
+    "US President Donald Trump said on Friday he was not sure that denuclearisation 'can ever happen', describing his trilateral meeting with Chinese President Xi Jinping and Russian President Vladimir Putin as highly positive.",
+    "On Ukraine, Trump described his talks with Putin as \"very good\".",
+    "He said he was working towards a deal that would be fair to the United States, adding: \"Time for Canada to stop ripping us off.\" On Mexico, however, Trump indicated that negotiations were closer to completion, saying the two countries were \"getting close to a deal\"."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641477/trump-not-sure-if-denuclearisation-can-ever-happen",
+   "image": null,
+   "published_at": "2026-11-20T17:32:36Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "41ad17acb98fc262035e40c63d41ed9e3809ed1d",
+   "title": "Russian missiles land in Poland amid NATO drills",
+   "summary": [
+    "Two Russian missiles and a suspected drone came down in Poland on Friday during a major Russian bombardment of neighbouring Ukraine, prompting Warsaw to describe the incidents as a likely provocation and NATO to call them a violation of Polish airspace.",
+    "Polish Prime Minister Donald Tusk said the incidents appeared to be an intentional provocation timed to coincide with European military exercises in southeastern Poland, where troops are preparing for a possible postwar mission in Ukraine.",
+    "There was no immediate comment from Moscow on the missiles, the suspected drone or the military exercises."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641478/russian-missiles-land-in-poland-amid-nato-drills",
+   "image": null,
+   "published_at": "2026-11-20T17:32:36Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "22c8265c128b6be79eca3203c5d70e65c9b9d4dd",
+   "title": "Saudi forces launch major strikes in Yemen",
+   "summary": [
+    "The Saudi-led coalition fighting Yemen's Iran-aligned Houthis launched a series of strikes on the Red Sea port of Hodeida and other targets on Friday, as the rebels threatened retaliatory attacks on Saudi ports, power facilities and aviation, raising fears of a wider escalation.",
+    "In a separate development, the Saudi-led coalition said its air defences had intercepted and destroyed two ballistic missiles launched by the Houthis towards Jazan province.",
+    "Saudi-backed government forces recently withdrew from areas near the strategic Bab al-Mandab Strait, while the Houthis advanced towards Aden, the government's interim capital after the group seized Sanaa in 2014."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641480/saudi-forces-launch-major-strikes-in-yemen",
+   "image": null,
+   "published_at": "2026-11-20T17:32:36Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "af821682e9a542ecaaefecad14a3963f4e59f4f1",
+   "title": "PM ties offshore exploration to energy security",
+   "summary": [
+    "Prime Minister Shehbaz Sharif on Friday linked exploration of potential oil and gas reserves in Pakistan's maritime boundaries to the country's energy security and economic development.",
+    "He also welcomed Turkey's Minister of Energy and Natural Resources, Alparslan Bayraktar, and thanked the Turkish government and people for standing alongside Pakistan.",
+    "The Oruç Reis will bring together Turkish scientific expertise and the experience of Pakistan's national energy companies to conduct advanced exploration in the country's offshore domain, he said."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641471/pm-ties-offshore-exploration-to-energy-security",
+   "image": null,
+   "published_at": "2026-11-20T17:23:31Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "039224a9033cc8369a702658ff02b18002d0699f",
+   "title": "FO rebuffs Delhi over mineral wealth",
+   "summary": [
+    "Pakistan on Friday strongly rejected India's remarks at a recent United Nations Security Council Arria-formula meeting on natural resources, describing them as an attempt to interfere in its internal affairs.",
+    "The spokesperson also welcomed the meeting of the leaders of the United States, China and Russia in Shenzhen, describing it as a positive development that could help ease tensions among major powers and promote global peace.",
+    "Asked how Pakistan could benefit from the emerging engagement among the three powers, Sajjad said Islamabad had traditionally maintained good relations with all major global players."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641474/fo-rebuffs-delhi-over-mineral-wealth",
+   "image": null,
+   "published_at": "2026-11-20T17:23:31Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "123ab2368b78865f759ee8b36aeb39daf0e54a0b",
+   "title": "Minister schools Indian media over 'terror mantra'",
+   "summary": [
+    "DELHI Federal Minister for Climate Change Dr Musadik Malik has said rather than focusing on a single incident of terror or Pakistan-India bilateral issues, it will be far better to address the problems of the entire region through a structured mechanism and concrete evidence.",
+    "Earlier, Dr Musadik Malik also stressed the importance of civilisational dialogue among regional countries, including Pakistan and India, saying that cultures and historical connections transcend geographical and political boundaries.",
+    "He emphasised that civilisational dialogue among regional countries was an important contemporary need, particularly between Pakistan and India, where shared historical and cultural connections provided scope for greater mutual understanding."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641476/minister-schools-indian-media-over-terror-mantra",
+   "image": null,
+   "published_at": "2026-11-20T17:23:31Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "df874e4f0815cf8f1e7456376499f530be376a50",
+   "title": "'Retaliation' won't weaken us: Fazl",
+   "summary": [
+    "Addressing party workers at a gathering after Friday prayers in Peshawar, Fazl said his party had refused to recognise \"a fabricated electoral mandate\" or join the government despite repeated requests over the past two and a half years.",
+    "He alleged that the government had subsequently resorted to threats of reopening cases against party leaders, but warned that such pressure would not weaken JUI-F or force it to abandon its political position.",
+    "However, after JUI-F refused to accept \"a fabricated mandate\" and declined to join the government, Fazl said, the party was threatened with the reopening of cases against its leaders."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641454/retaliation-wont-weaken-us-fazl",
+   "image": null,
+   "published_at": "2026-11-20T16:59:44Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "5dabca748f4894307c93b77cbd878bff30394c00",
+   "title": "PTI backs referendum on new provinces",
+   "summary": [
+    "Amir Dogar, PTI's chief whip in the National Assembly, has endorsed the idea of holding a referendum on the question of creating new provinces in the country while urging that new administrative units should be created according to the law and the Constitution.",
+    "He said the PTI would hold comprehensive political consultations on new provinces and also discuss the issue at the PTI core and political committee meetings.",
+    "Talking to the media in Peshawar, PTI Chairman Gohar Ali Khan said the PTI would take a stance on the question of new provinces after reviewing the draft of the alleged 28th amendment and holding consultations with other parties."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641457/pti-backs-referendum-on-new-provinces",
+   "image": null,
+   "published_at": "2026-11-20T16:59:44Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "44bc235d63b02075b3281054b59ef64dba1a5a10",
+   "title": "Pakistan logs 9.4 million annual cyberattacks",
+   "summary": [
+    "Pakistan recorded more than 9.4 million cyberattacks over the past 12 months, with over 6.3 million devices targeted by cyber threats, according to a report by cybersecurity firm Kaspersky.",
+    "It said 24% of Kaspersky users in Pakistan encountered cyber threats targeting their devices, while 15% faced risks involving phishing and web-based attacks.",
+    "More than 448,000 exploit attacks were recorded in Pakistan over the past year, although the number declined by 8% compared with the previous year."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641461/pakistan-logs-94-million-annual-cyberattacks",
+   "image": null,
+   "published_at": "2026-11-20T16:59:44Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "e52ce710a596be7167bb7f57acea4d8d427a14d1",
+   "title": "Corruption vulnerabilities identified in govt institutions in bid to undertake ‘self-accountability’, says law minister",
+   "summary": [
+    "The federal government has identified weaknesses that could create opportunities for corruption in ten institutions through a comprehensive ‘National Risk Assessment of Corruption Vulnerabilities’ survey, Law Minister Azam Nazeer Tarar said on Friday.",
+    "Shifting his attention back to the report, the law minister stated that the report had highlighted “checks and balances, misuse of authority” to stop financial leakages. “This has been done for the guidance of the federal institutions.",
+    "The law minister said the objective of the report was to move towards “self-accountability” and ensure federal institutions operate on the basis of merit and transparency without any lapses."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045925/corruption-vulnerabilities-identified-in-govt-institutions-in-bid-to-undertake-self-accountability-says-law-minister",
+   "image": "https://i.dawn.com/large/2026/11/201904327e6c623.webp",
+   "published_at": "2026-11-20T16:29:40Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "5e4e98901b8a7c8ffe37f3a49da5f17055c695d6",
+   "title": "The provinces diatribe",
+   "summary": [
+    "The consolation is that they have agreed to pursue a path of political reconciliation and kickstart a debate on the utility of creating more provinces.",
+    "The issue of creating more provinces is a national concern and should not be pursued through quick-fix mechanisms.",
+    "The rejoinder from the Presidency, however, stating that the leaders also \"discussed the previous constitutional amendments\", noting that all coalition parties had introduced these through mutual consultation, is a setback to Bilawal's stance."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641420/the-provinces-diatribe",
+   "image": null,
+   "published_at": "2026-11-20T16:29:05Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "871ef4c7c42ff4aac5671e536a0986a8519fb117",
+   "title": "Trillion-rupee cyber fraud",
+   "summary": [
+    "The network allegedly funneled gambling proceeds through commercial banks, microfinance institutions, mobile wallets, shell companies and 'mule accounts', including one settlement account that alone received Rs3.72 billion in less than two years.",
+    "A study by Visa found roughly one in two Pakistanis experienced online financial fraud in 2024, and annual losses from digital fraud may reach $9 billion about 2.5% of GDP.",
+    "Without heavy penalties and better enforcement, there is no incentive to discourage people from indulging in scams, especially when scammers know how easily an arrested person can be made to go home."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641421/trillion-rupee-cyber-fraud",
+   "image": null,
+   "published_at": "2026-11-20T16:29:05Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "d175ca6ac0370a8c854894d4892d365ca102e859",
+   "title": "Fresh hope",
+   "summary": [
+    "Pakistan's eight-wicket win over Sri Lanka in the second Test at Rawalpindi sealed a 1-0 series result, following a draw in the opening game.",
+    "It is also Pakistan's first Test series win in two years - and their first in the current World Test Championship cycle.",
+    "First, prepare sporting, pace-friendly pitches at home that test batters and consistently reward seamers."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641422/fresh-hope",
+   "image": null,
+   "published_at": "2026-11-20T16:29:05Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "9d104018ea1c3cc5715ab789fb0fb9faeeeb9712",
+   "title": "An elegy of unbelonging",
+   "summary": [
+    "Had this book pretended to be anything more than an honest emotional chronicle of a life in the public eye, we would have seen present-day Mrs Gandhi sitting behind a wooden desk, signing important-looking documents under a title like 'My Struggle' or 'My Destiny'.",
+    "Rajiv Gandhi comes out looking rather well here.",
+    "When the backlash arrives, she shares the unvarnished dread for her brother-in-law's life, followed by a frugal existence in exile from power."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641424/an-elegy-of-unbelonging",
+   "image": null,
+   "published_at": "2026-11-20T16:29:05Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "1058dd4d8a05848fa7cfe010d7d35c9177534a82",
+   "title": "Justice lies in conscience, not buildings",
+   "summary": [
+    "Earlier, the Geneva-based Stop Killer Robots, a human rights organisation, had fired Noor for speaking out at the UN against Israeli occupation and genocide of Palestinians in Gaza that had begun after the Hamas October 7 attacks.",
+    "Ironical as much as hypocritical that an organisation publicly avows opposition to Israel using Palestinians as \"guinea pigs to test these weapons ( killer robots)\" but punishes its own employee for calling out Israeli atrocities.",
+    "Noor's case also exposed as to who gets to speak about Palestine, and whether a lawyer can challenge the thus far predominant consensus on Israeli apartheid and genocide without risking their livelihood."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641425/justice-lies-in-conscience-not-buildings",
+   "image": null,
+   "published_at": "2026-11-20T16:29:05Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "40a255a546710c7ff3b9e0f990e89eb5dfc41f90",
+   "title": "Cheapest village development project",
+   "summary": [
+    "I believe we should introduce a village property-sharing scheme that turns abandoned and unused houses into useful community spaces.",
+    "With the owner's permission, these buildings could become small libraries, tuition centres, food-storage facilities, women's skill-development workshops, first-aid centres, digital learning rooms and emergency shelters.",
+    "Give a house another purpose, and a village gains a future."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641419/cheapest-village-development-project",
+   "image": null,
+   "published_at": "2026-11-20T16:29:05Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "8315668867e75ed548c1d94069855af8688d1237",
+   "title": "A good cop’s guide to reporting rape",
+   "summary": [
+    "Duties from the CrPC (s.154, Schedule II) and the Anti-Rape Crisis Cell manual by Dr Summaiya Syed, Police Surgeon Karachi (ch.",
+    "Police data from Sindh provides a troubling picture of reported rape cases: In 2025, 178 cases were reported across Sindh.",
+    "The data tells us that Sindh has recorded almost three-quarters of the number of rape cases registered during the entire previous year."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045909/a-good-cops-guide-to-reporting-rape",
+   "image": "https://i.dawn.com/large/2026/11/20162719852959a.webp",
+   "published_at": "2026-11-20T16:06:57Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "af55606e350bbd24c22642199a9dd67fc4df9380",
+   "title": "Pakistan’s natural resources worth $8-10tr at 'most conservative estimate', says Dar",
+   "summary": [
+    "He noted that Oruc Reis brought “Turkish scientific expertise together with the experience and capabilities of our national energy companies to advance exploration in Pakistan’s offshore domain”.",
+    "He thanked Turkish President Recep Tayyip Erdogan for sending Oruc Reis to Pakistan and for Türkiye’s cooperation in the offshore oil and gas exploration project, welcoming the growing cooperation between Pakistan and Türkiye in the energy sector.",
+    "The exploration of potential oil and gas reserves in Pakistan’s maritime areas was an “important step” towards strengthening the country’s energy security and promoting economic development, the prime minister said."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045895/pakistans-natural-resources-worth-8-10tr-at-most-conservative-estimate-says-dar",
+   "image": "https://i.dawn.com/large/2026/11/2013294606bc502.webp",
+   "published_at": "2026-11-20T15:44:09Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "516b3646f4a5f4fb1b4ff6ed9f74c230d09520ce",
+   "title": "Afghanistan not invited to ECO moot as Islamabad does not recognise Kabul regime: FO",
+   "summary": [
+    "The Foreign Office (FO) said on Friday that Afghanistan was not invited to participate in the Economic Cooperation Organisation (ECO) Council of Foreign Ministers meeting in Islamabad as Pakistan does not recognise the incumbent Afghan regime.",
+    "Addressing a weekly press briefing, FO spokesperson Sajjad Haider Khan said that Afghanistan’s membership had been suspended by the ECO Secretariat.",
+    "Islamabad MoU ‘impeded’ The spokesperson also addressed the implementation of the Islamabad Memorandum of Understanding (MoU) signed between the US and Iran in June, saying that it “unfortunately remains impeded”."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045913/afghanistan-not-invited-to-eco-moot-as-islamabad-does-not-recognise-kabul-regime-fo",
+   "image": "https://i.dawn.com/large/2026/09/180731003ccad1f.webp",
+   "published_at": "2026-11-20T15:04:50Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "81de72e2052ce30ce45ac9490bdd43f436375212",
+   "title": "Pakistan Shaheens begin Asia Cup Rising Stars title defence with 61-run win over UAE",
+   "summary": [
+    "In reply, UAE were dismissed for 184 in 40.5 overs as Pakistan Shaheens’ bowlers maintained control of the chase.",
+    "Fast bowler Ali Raza struck early, removing three top-order batters to leave UAE struggling at 16 for three inside the first six overs.",
+    "Mohammad Shahdad top-scored for UAE with 45 off 60 balls, including four fours and a six, while Aftab Alam made 39 and Awais Ali Shah added 32."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045930/pakistan-shaheens-begin-asia-cup-rising-stars-title-defence-with-61-run-win-over-uae",
+   "image": "https://i.dawn.com/large/2026/11/2019541933d7462.webp",
+   "published_at": "2026-11-20T14:59:35Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "f3585ae5d89eaf6485459ee9789085bcf00a4484",
+   "title": "'We don't want to die': Protesters slam Claude creator Anthropic after IPO debut",
+   "summary": [
+    "Anthropic, which on Thursday pulled off the largest IPO in history, says it has not yet reached the RSI stage.",
+    "Anthropic was founded by several former OpenAI employees who disagreed with its business decisions and vowed to always prioritise safety. “Stop the AI race,” another protest sign said.",
+    "With Anthropic, maybe I’ll live 10 years longer,” Gila said. “Or maybe you’ll die in like two years,” the other demonstrator responded."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045928/we-dont-want-to-die-protesters-slam-claude-creator-anthropic-after-ipo-debut",
+   "image": "https://i.dawn.com/large/2026/11/2019284414657a3.webp",
+   "published_at": "2026-11-20T14:46:57Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "08177cf59f6c936345a7fb0a6f8d1f54fab41810",
+   "title": "Khawaja Asif urges Zardari to intervene in debate over new provinces",
+   "summary": [
+    "Defence Minister Khawaja Asif on Friday urged President Asif Ali Zardari to intervene in the ongoing debate over the creation of new provinces, calling for a unified national approach to resolve the issue.",
+    "Speaking on a private television programme, Naya Pakistan, the minister said the government wanted to obtain the people's opinion through a democratic process and was trying to build consensus among political parties. “The referendum will take place.",
+    "Referring to PPP Chairman Bilawal Bhutto-Zardari's recent remarks, he said the PPP leader had the right to express his party's position on the creation of a province in Sindh but should not have gone beyond the issue to criticise other political parties."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641415/khawaja-asif-urges-zardari-to-intervene-in-debate-over-new-provinces",
+   "image": null,
+   "published_at": "2026-11-20T14:30:53Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "46c04075e944f2422a0ea3c96eeb82e333e4f047",
+   "title": "FO rejects India's 'undiplomatic, irresponsible' remarks about Pakistan's mineral wealth",
+   "summary": [
+    "The Foreign Office (FO) on Friday categorically rejected the “undiplomatic and irresponsible” remarks made by India at the United Nations regarding the country’s mineral wealth.",
+    "The remarks had come after Pakistan raised the Indus Waters Treaty (IWT) during the meeting, which has been held in abeyance by India following the attack in occupied Kashmir’s Pahalgam that killed 26.",
+    "In response to Harish’s remarks, Pakistan’s First Secretary Ansar Shah rejected the “frivolous and highly inappropriate remarks”."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045921/fo-rejects-indias-undiplomatic-irresponsible-remarks-about-pakistans-mineral-wealth",
+   "image": "https://i.dawn.com/large/2025/11/141930383f233f2.webp",
+   "published_at": "2026-11-20T13:42:50Z",
+   "category": "pakistan",
+   "related": []
+  },
   {
    "id": "262c76c3d2ec9728407e0012e4804c0afd9a54f5",
    "title": "Gohar demands end to ‘harassment’ of PTI workers, says 29 lawmakers arrested, missing",
@@ -35,6 +520,21 @@
    "url": "https://tribune.com.pk/story/2641411/gohar-demands-end-to-harassment-of-pti-workers-says-29-lawmakers-arrested-missing",
    "image": null,
    "published_at": "2026-11-20T13:28:48Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "88e4b71c9e4e680a6ee26234813980ab7db88edc",
+   "title": "Short-term inflation reaches 10.41pc on costly flour",
+   "summary": [
+    "ISLAMABAD: Short-term inflation was recorded at 10.41 per cent year-on-year in the week ending on Nov 19, driven largely by wheat flour prices, according to official data released by the Pakistan Bureau of Statistics (PBS) on Friday.",
+    "Meanwhile, the prices of 20 items remained unchanged from the previous week.",
+    "Items that recorded week-on-week price declines included tomatoes (30.55pc), onions (9.17pc), LPG (6.46pc), petrol (3.87pc), diesel (2.46pc), pulse moong (0.54pc), gur (0.08pc) and sugar (0.07pc)."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045919/short-term-inflation-reaches-1041pc-on-costly-flour",
+   "image": "https://i.dawn.com/large/2026/11/20175045683436a.webp",
+   "published_at": "2026-11-20T13:04:53Z",
    "category": "pakistan",
    "related": []
   },
@@ -54,6 +554,36 @@
    "related": []
   },
   {
+   "id": "0bdddcab3062867ab9c0fc77c12b9436be241c6e",
+   "title": "Bilawal wants PM Shehbaz to become first premier to complete 5-year term",
+   "summary": [
+    "PPP Chairman Bilawal Bhutto-Zardari said on Friday that he wanted Prime Minister Shehbaz Sharif to become the first premier to complete a five-year term in office.",
+    "I will not do that […] I am saying that I want Shehbaz Sharif to be the first prime minister […] to complete a five-year term,” Bilawal said.",
+    "Bilawal noted that the prime minister had not been “given the chance” to focus on the economic issues so far. “What can he do?"
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045911/bilawal-wants-pm-shehbaz-to-become-first-premier-to-complete-5-year-term",
+   "image": "https://i.dawn.com/large/2026/11/201852049581208.webp",
+   "published_at": "2026-11-20T12:58:20Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "30164df66fec864b1d3f41ffb4acd404905662fb",
+   "title": "Settling disputes",
+   "summary": [
+    "WITH almost 2m court cases clogging the lower judiciary — most of them in Punjab — Chief Minister Maryam Nawaz’s nod to a proposed panchayat system to resolve local-level disputes is expected to be well received by many litigants.",
+    "For instance, India’s village justice court system aimed at providing inexpensive and accessible justice to rural communities in the country, has had mixed results that should provide a useful clue for the government here.",
+    "Small steps towards the larger goal of an integrated justice system will allow the authorities to ensure accessible legal relief for Pakistan’s rural communities — measures that are sensitive to local concerns without straying from constitutional norms."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045828/settling-disputes",
+   "image": null,
+   "published_at": "2026-11-20T12:52:50Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
    "id": "06e83c52a782c1c1ecd8ed529b42e664270bbea3",
    "title": "Govt cuts petrol by Rs1, increases diesel by Rs2 till Nov 23",
    "summary": [
@@ -69,542 +599,37 @@
    "related": []
   },
   {
-   "id": "11445c765a4dce2fbcb93a33280b43c6d57f649b",
-   "title": "Pakistan crowned Men’s Blind Cricket Asia Cup champions",
+   "id": "4527511616d2cb701fa8f64d9e4398105e63b8a7",
+   "title": "On North Waziristan visit, CDF Munir vows to eliminate terrorism, preserve peace in KP",
    "summary": [
-    "Pakistan were declared winners of the Blind Cricket Asia Cup T20 after persistent rain prevented their final against arch-rivals India from taking place in Dhaka, with match referee awarding the title under the competition's playing conditions.",
-    "After a prolonged wait, officials abandoned the match and declared Pakistan champions, citing their superior net run rate and victory over India in the league stage.",
-    "This correspondent has learnt that India tried to put pressure on the three-member technical committee which contains members from Pakistan, Bangladesh and Australia."
+    "Security forces continue to carry out counterterrorism action in KP and Balochistan, the two provinces that have been particularly affected by terrorism in Pakistan.",
+    "Pakistan overall witnessed a significant decline in terrorism-related violence during October, with attacks falling by 37 per cent, deaths resulting from these attacks declining by 57pc, and injuries decreasing by 71pc compared to September, the report said.",
+    "The merged districts of KP recorded 30 attacks during October, compared with 34 in September, and deaths resulting from these attacks decreased from 33 to 25, while injuries increased from 11 to 13, the report said."
    ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641406/Pakistan-crowned-Men%E2%80%99s-Blind-Cricket-Asia-Cup-champions",
-   "image": null,
-   "published_at": "2026-11-20T11:26:26Z",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045881/on-north-waziristan-visit-cdf-munir-vows-to-eliminate-terrorism-preserve-peace-in-kp",
+   "image": "https://i.dawn.com/large/2026/11/20111551389b87a.webp",
+   "published_at": "2026-11-20T12:47:07Z",
    "category": "pakistan",
-   "related": []
+   "related": [
+    {
+     "source": "Express Tribune",
+     "url": "https://tribune.com.pk/story/2641475/cdf-munir-vows-end-to-waziristan-terrorism"
+    }
+   ]
   },
   {
-   "id": "03dcb0f2f1cd91325345983b12cfab028bfaddf1",
-   "title": "Turkiye says it is starting offshore hydrocarbon exploration in Pakistan, plans drilling next year",
+   "id": "9cc5c38ffb2c729b04e8d5dcdb8118de6759e7cd",
+   "title": "Musadik Malik arrives in New Delhi to attend SCO dialogue forum",
    "summary": [
-    "Turkiye's Oruc Reis seismic research vessel would begin exploration for ​hydrocarbon resources in offshore fields in Pakistan, ‌Turkish Energy Minister Alparslan Bayraktar said on Friday, adding that drilling was expected to start ​in 2027.",
-    "Read: Turkish energy minister arrives in Karachi ahead of Oruç Reis offshore exploration mission Duran said on the Turkish social media platform NSosyal that the vessel would conduct 2D and 3D seismic data collection activities in two separate areas of Pakistani waters.",
-    "The premier thanked Turkish President Recep Tayyip Erdogan for sending the vessel to Pakistan and extending full cooperation in the country's offshore oil and gas exploration project."
+    "Minister for Climate Change and Environmental Coordination Dr Musadik Malik arrived in New Delhi on Friday to attend the SCO Civilisational Dialogue Forum.",
+    "Recent high-level engagements between Pakistan and India have largely taken place under the SCO framework; for instance, Bilawal’s visit in 2023 and Jaishankar’s in 2024.",
+    "Pakistan has assumed the rotating chairmanship of the SCO Council of Heads of State for the 2026-27 term and is scheduled to host the organisation’s summit in Islamabad in August 2027."
    ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641403/turkiye-says-it-is-starting-offshore-hydrocarbon-exploration-in-pakistan-plans-drilling-next-year",
-   "image": null,
-   "published_at": "2026-11-20T09:55:27Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "f0191b45a6854d6012f0eeb61a39267cfc11e56a",
-   "title": "Signal restricts screenshots to block AI agents from reading messages",
-   "summary": [
-    "To prevent agents from scanning Signal messages, the service is introducing new settings blocking screenshot access on people's phones and switching those restrictions on by default.",
-    "Signal said that developers should have straightforward ways of opting their apps out of such data processing by AI assistants entirely, specifically mentioning screen reading, notifications and other file ⁠system access.",
-    "AI systems that scan people's screens can undermine those protections by pulling the ​messages out of Signal's secure environment and into whatever other servers the agent is using, it said in the post."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641402/signal-restricts-screenshots-to-block-ai-agents-from-reading-messages",
-   "image": null,
-   "published_at": "2026-11-20T09:52:03Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "298e3be7c238d2348b49ab13d059be098509b78b",
-   "title": "Astronomers observe a huge puffy star merge with smaller companion",
-   "summary": [
-    "Astronomers have observed a large dying star, seven times more massive and 18,000 times brighter than the sun, engulfing a smaller companion in a stellar merger unlike any other ​previously witnessed.",
-    "'SET OFF A BOMB' The researchers detected brightening when this occurred in 2018, and the smaller star began to ​spiral inward toward the core of the bigger star over the next seven years.",
-    "While the larger of the two stars in this instance was nearing the end of its life, the merger may have produced a rejuvenated star with a new lease on life, the researchers said."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641397/astronomers-observe-a-huge-puffy-star-merge-with-smaller-companion",
-   "image": null,
-   "published_at": "2026-11-20T09:13:26Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "f746b3235e1b9a553a3bf900d1f940e3ec4db7ab",
-   "title": "Ringleader pleads guilty to $100 million US jewellery heist",
-   "summary": [
-    "The stolen collection of ​fine gold, diamonds, rubies, emeralds and luxury watches was valued at approximately $100 million, marking the largest US ‌jewellery heist ⁠on record, according to the US Attorney's Office in Los Angeles.",
-    "In addition to the jewellery heist, Mestanza admitted to taking part with his co-defendants in the highway robberies of ​electronics being shipped by several trucks in March 2022.",
-    "A statement ​from the ⁠US Attorney's Office in Los Angeles announcing his guilty plea described Mestanza as \"the lead defendant in the case\"."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641396/ringleader-pleads-guilty-to-100-million-us-jewellery-heist",
-   "image": null,
-   "published_at": "2026-11-20T09:11:30Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "4fa7ec854a4cdebe66c7636b8c15f6a0feccaf23",
-   "title": "Big Pharma, with eye on Anthropic, says AI is shrinking drug discovery timelines",
-   "summary": [
-    "Artificial intelligence has sped up early-stage drug development work at some of the world's largest pharmaceutical companies this year, cutting by as much as half the time it takes to produce new molecules and move them into the clinic, according to their ​top scientists.",
-    "Some of the scientists say decades of drug discovery experience and data give them an advantage over AI companies like Anthropic, which is gearing up to be a rival, partner or both, with a $1.5 trillion initial public offering this week.",
-    "Other companies, including Novo Nordisk, use ​Anthropic models and Claude Science in their R&D work."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641389/big-pharma-with-eye-on-anthropic-says-ai-is-shrinking-drug-discovery-timelines",
-   "image": null,
-   "published_at": "2026-11-20T08:51:38Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "c0fd1f004009418f620b2dd1a547297af918a80d",
-   "title": "UK finds fix for fridge and freezer vulnerability after European hacks",
-   "summary": [
-    "A British cybersecurity operation has fixed a flaw in ​the operating systems of commercial fridges and freezers used ‌by supermarkets, warehouses and restaurants, helping protect them from hacks that hit several European countries in recent weeks.",
-    "A wave of cyberattacks knocked out commercial ​fridges and freezers from Sweden to Belgium earlier in ​November, while a similar hack hit France in October, forcing ⁠stores to throw away millions of euros' worth of ​food.",
-    "French intelligence and cyber agencies accused Iran's Revolutionary Guards of carrying out the October hack, which targeted 700 commercial sites and caused ​15 fires ​after hackers raised ⁠temperatures in refrigeration systems."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641388/uk-finds-fix-for-fridge-and-freezer-vulnerability-after-european-hacks",
-   "image": null,
-   "published_at": "2026-11-20T08:36:25Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "356cf88940aba9ec1ddb5097b25076d1e52d3812",
-   "title": "Tarar says public opinion should determine creation of new provinces",
-   "summary": [
-    "Information Minister Attaullah Tarar on Friday backed holding a referendum to determine public opinion on the creation of new provinces, saying the proposal should proceed only if people supported it.",
-    "The idea of holding one on the creation of new provinces was floated by Interior Minister Mohsin Naqvi, who argued that it could help establish public opinion on the issue and settle the debate.",
-    "Sindh Chief Minister Murad Ali Shah rejected Naqvi’s assessment that the governance system had collapsed and called the proposal outdated, warning that no bloodshed would be allowed over the creation of new provinces."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641386/tarar-says-public-opinion-should-determine-creation-of-new-provinces",
-   "image": null,
-   "published_at": "2026-11-20T08:24:10Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "a03190c264cea5b8cc59b41cd940d9403d198f80",
-   "title": "Alia Bhatt says motherhood has reshaped her career priorities, wants more time with daughter",
-   "summary": [
-    "Indian Actor Alia Bhatt has said that while she loves being in the spotlight, spending time with her daughter remains a priority, explaining how motherhood has reshaped her approach to work and professional commitments.",
-    "Bhatt acknowledged in her TIME profile that her professional standing had helped her secure accommodating producers, but stressed that fair working hours should become standard across the industry rather than a privilege reserved for established stars.",
-    "Bhatt's TIME100 Next India recognition came after more than a decade in the film industry, during which she moved between commercial successes and critically acclaimed performances."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641381/alia-bhatt-says-motherhood-has-reshaped-her-career-priorities-wants-more-time-with-daughter",
-   "image": null,
-   "published_at": "2026-11-20T06:48:15Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "8a44d1e317d27f5e174558a80bfb38ccbdf34362",
-   "title": "Mustafa Kamal links MQM-P's demand for new provinces to failure of local governments",
-   "summary": [
-    "Kamal's remarks came amid an escalating political row between the MQM-P and the Pakistan Peoples Party (PPP) over the creation of new provinces.",
-    "The proposal drew the interest of the Muttahida Qaumi Movement-Pakistan (MQM-P), which has repeatedly advocated carving out new provinces from Sindh.",
-    "Speaking about another major public health challenge, Kamal said approximately 11 million people had been identified with Hepatitis C during screening in Pakistan."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641377/mustafa-kamal-links-mqm-ps-demand-for-new-provinces-to-failure-of-local-governments",
-   "image": null,
-   "published_at": "2026-11-20T06:30:26Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "5d2a9946d3202264a0b6d2d9155ba407d4ae0566",
-   "title": "Bilawal urges parties to set aside differences, wants Shehbaz to become first PM to complete 5 years",
-   "summary": [
-    "Addressing the Sindh Wheat Growers Support Programme 2026 in Karachi, Bilawal said Pakistan was facing an unprecedented economic crisis and no political issue should take precedence over the difficulties confronting ordinary citizens.",
-    "Speaking about the country's economic indicators, Bilawal said Prime Minister Shehbaz Sharif took pride in having saved Pakistan from the brink of default and stabilised the basic indicators of the economy through hard work.",
-    "The comments drew the ire of the political elite, with Adviser to the Prime Minister on Political Affairs Rana Sanaullah saying that Bilawal's remarks could lead to disqualification \"They were fully involved in the 26th Amendment."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641375/bilawal-urges-parties-to-set-aside-differences-focus-on-economic-crisis",
-   "image": null,
-   "published_at": "2026-11-20T06:23:10Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "147ba6aa318192fc60be9a2beeca016d50de2527",
-   "title": "GTA 6 sales eclipse Christopher Nolan’s ‘The Odyssey’ as gaming giant takes over",
-   "summary": [
-    "According to estimates from market intelligence firm Sensor Tower reported by The Hollywood Reporter, GTA 6 had generated approximately $1.84 billion in revenue from an estimated 19.05 million copies sold.",
-    "Further reporting based on Sensor Tower’s figures put GTA 6 at an estimated $2.36 billion in revenue and approximately 24.6 million copies by the end of launch day, including pre-orders.",
-    "GTA 5 reportedly generated approximately $800 million during its first 24 hours in 2013, making the new instalment’s estimated launch revenue particularly striking."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641374/gta-6-sales-eclipse-christopher-nolans-the-odyssey-as-gaming-giant-takes-over",
-   "image": null,
-   "published_at": "2026-11-20T06:12:43Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "54c1712a3c4847de258b18550d560efcd7f8563d",
-   "title": "Abdul Hannan on fame, hustle culture and why health and family come before work",
-   "summary": [
-    "Hannan also shared the stories behind two of his songs, Khasara and O'Yaara, offering insight into the creative decisions and collaborations that shaped them.",
-    "Recalling the process behind the collaboration, Hannan spoke about the moment he realised the song could take a different direction.",
-    "The conversation then turned to kindness and its connection to men's mental health, with Hannan discussing the importance of creating an environment in which people felt comfortable expressing themselves."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641372/abdul-hannan-on-fame-hustle-culture-and-why-health-and-family-come-before-work",
-   "image": null,
-   "published_at": "2026-11-20T06:01:07Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "a019116fec516a29a2464f7a1325ff5c147e844d",
-   "title": "K-P police foil major terror plot in Lakki Marwat, kill suicide bomber",
-   "summary": [
-    "A suicide bomber was killed, and a large quantity of explosives was recovered from a truck during an intelligence-based operation in the Bargai area of Lakki Marwat district, District Police Officer Sajjad Ahmad Sahibzada said on Friday.",
-    "\"Following intelligence reports, the police conducted operations, increased patrolling and established temporary checkpoints to thwart the terrorists' nefarious plan,\" he said.",
-    "The official said law enforcement personnel spotted the explosives-laden vehicle within the limits of Bargai Police Station, and one suicide bomber was killed during the ensuing engagement."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641370/k-p-police-foil-major-terror-plot-in-lakki-marwat-kill-suicide-bomber",
-   "image": null,
-   "published_at": "2026-11-20T05:32:05Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "b5d4a91697721904830cf4b1f8d68ed13fb1be4a",
-   "title": "PTI backs referendum to determine public opinion on creation of new provinces",
-   "summary": [
-    "Dogar said PTI founder Imran Khan had consistently advocated the creation of smaller provinces, adding that a separate South Punjab province had been included in the party's 2018 election manifesto.",
-    "Read: Govt moves to break deadlock over new provinces through political dialogue Dogar said divisions within the ruling coalition made it premature for the opposition to decide its position on the proposed constitutional amendment.",
-    "On the proposed parliamentary committee on electoral reforms, Dogar said government Chief Whip Tariq Fazal Chaudhry had asked the opposition to nominate its members."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641368/pti-backs-referendum-to-determine-public-opinion-on-creation-of-new-provinces",
-   "image": null,
-   "published_at": "2026-11-20T05:23:07Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "6a9a29a878a54ec05f8acbd8d832da64763b3fe6",
-   "title": "Kusal flags Sri Lanka's opening woes after Pakistan series defeat",
-   "summary": [
-    "Sri Lanka captain Kusal Mendis said on Friday his side needed to address its struggles at the top of the batting order and improve its new-ball bowling after losing the Test series against Pakistan 1-0.",
-    "Kusal described the tour as a positive experience, saying several players had spent more than a month in Pakistan and enjoyed their time in the country while playing some good cricket.",
-    "I give 100 percent for my team whenever I bat, and some of the other players have also done really well,\" he said."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641367/kusal-flags-sri-lankas-opening-woes-after-pakistan-series-defeat",
-   "image": null,
-   "published_at": "2026-11-20T05:22:39Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "f7cc35545981b3a4749d8b513ae537fa25ae790a",
-   "title": "Government urges Sandpapergate forum transparency as Cricket Australia faces backlash",
-   "summary": [
-    "Test captain Pat Cummins and fellow pace bowler Mitchell Starc have since rejected Khawaja's allegations, saying they had no prior knowledge of ball-tampering.",
-    "A ⁠poll of 13,000 readers of Melbourne's Herald Sun newspaper had 82 percent saying they believed Khawaja's, Warner's and Bancroft's accounts of Sandpapergate versus 18 percent for Cummins and Australia's bowlers who denied prior knowledge.",
-    "Former Australia bowler Mitchell Johnson said the public pressure on Cummins to stand down as captain would be too much."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641365/government-urges-sandpapergate-forum-transparency-as-cricket-australia-faces-backlash",
-   "image": null,
-   "published_at": "2026-11-20T05:14:35Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "2f805b48fad9883ee1039cd1a700b80d1b3efdb3",
-   "title": "Rahul Gandhi says India reduced to ‘side player’ as Pakistan mediates between US-Iran",
-   "summary": [
-    "Indian opposition leader Rahul Gandhi has expressed surprise at Pakistan’s role in facilitating negotiations between the United States and Iran, saying India had been reduced to a “side player” in global affairs.",
-    "I’m pretty shocked that Pakistan is busy negotiating with the Iranians and the Americans, while India is just looking.",
-    "Gandhi said India should contribute to building a global order based on stability, dialogue and mutual understanding. “We want stability."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641363/india-reduced-to-side-player-as-pakistan-facilitates-us-iran-talks-rahul-gandhi",
-   "image": null,
-   "published_at": "2026-11-20T05:06:59Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "4e750c8a43fc373f767e8f93f44ba60e8bc845fe",
-   "title": "Hina Bayat urges balance between individuality and compromise in relationships",
-   "summary": [
-    "Veteran actor Hina Bayat has called for greater understanding and compromise in relationships, stressing that recognising individual rights should go hand in hand with accepting responsibilities towards others.",
-    "Speaking about the need to establish boundaries across different relationships, Bayat said these varied depending on the nature of the relationship and the circumstances involved. “It is for all your relationships.",
-    "Bayat further questioned the tendency to prioritise being right over resolving disagreements, urging people to create an environment in which differences could be addressed constructively. “I would say that we are our generation that puts up with things that we shouldn't be."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641360/hina-bayat-urges-balance-between-individuality-and-compromise-in-relationships",
-   "image": null,
-   "published_at": "2026-11-20T04:43:07Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "a0a8adad3924578c1dfabbecf67318e4aad53cb9",
-   "title": "Mehwish Hayat revisits favourite on-screen experience in 'Teri Meri Kahaniyaan'",
-   "summary": [
-    "Actor Mehwish Hayat looked back on one of her favourite on-screen experiences after revisiting a scene from her 2023 anthology film Teri Meri Kahaniyaan, in which she starred alongside Wahaj Ali.",
-    "The actress shared a fan-made video on her Instagram Story featuring a scene from the film's segment Ek Sau Taeeswan, in which she portrayed Sadaf opposite Wahaj's character, Asad.",
-    "Bringing her to life was one of my favourite experiences as an actor.\" The throwback featured a light-hearted exchange between Sadaf and Asad during their train journey, capturing the playful dynamic between the two characters."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641358/mehwish-hayat-revisits-favourite-on-screen-experience-in-teri-meri-kahaniyaan",
-   "image": null,
-   "published_at": "2026-11-20T04:28:57Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "0613e6b666048df348b9c66814216433387ae12d",
-   "title": "PSX gains 610 points, extends recovery for second straight day",
-   "summary": [
-    "The Pakistan Stock Exchange (PSX) extended its recovery for a second consecutive session on Friday, with the benchmark KSE-100 index gaining 610 points as selective buying in heavyweight stocks helped offset early selling pressure.",
-    "At the close of trading, the benchmark KSE-100 index posted a gain of 610.38 points, or 0.35%, and settled at 177,382.57.",
-    "Topline market review noted that the PSX extended its recovery for a second consecutive session on Friday, with the benchmark KSE-100 Index gaining 610.39 points (+0.35%) to close at 177,382.57."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641356/psx-rises-over-500-points-in-first-half",
-   "image": null,
-   "published_at": "2026-11-20T04:25:08Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "f05eb3dfdae0d0957ba30bdd0f0093acee6a0c5e",
-   "title": "Pakistan rejects India’s UN remarks targeting country's mineral sector",
-   "summary": [
-    "Khan said Pakistan attached great importance to regional cooperation, connectivity and economic integration, he said, adding that its approach towards Afghanistan was guided by the same principles.",
-    "Turning to regional economic cooperation, the spokesperson said Pakistan had hosted the 30th ECO Council of Ministers meeting in Islamabad on November 15 and 16 under the theme “Reviving Regionalism for a Resilient ECO”.",
-    "Khan further highlighted FM Dar’s November 17 meeting with Turkmenistan’s Deputy Chairman of the Cabinet of Ministers and Foreign Minister Rashid Meredov, during which the two sides co-chaired the sixth Pakistan-Turkmenistan Joint Intergovernmental Commission."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641355/peaceful-resolution-of-disputes-central-to-pakistans-foreign-policy-fo",
-   "image": null,
-   "published_at": "2026-11-20T04:03:03Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "34b10d102d65de8288bc230c3f8e8288ab144e28",
-   "title": "Babar calls for patience as Pakistan’s young guns deliver against Sri Lanka",
-   "summary": [
-    "Pakistan's victory, achieved despite losing a frontline fast bowler Saqib Khan to injury during the match, offered encouragement for a side looking to rebuild its Test fortunes by blending experienced players with emerging talent.",
-    "Among the players to earn particular praise was Saud Shakeel, whom Babar described as the backbone of Pakistan's Test batting, highlighting his ability to occupy the crease and guide the team through difficult periods.",
-    "Pakistan will now look to build on the series victory, with Babar saying future plans, including pitches and playing conditions, would be discussed once the venues and weather for the next assignment were known."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641354/babar-calls-for-patience-as-pakistans-young-guns-deliver-against-sri-lanka",
-   "image": null,
-   "published_at": "2026-11-20T03:53:14Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "3be6ea685c8b01660cee557bcf509dbd0da251c0",
-   "title": "Asim Azhar shuts down wedding rumours, says leaked photos were from a shoot",
-   "summary": [
-    "Singer Asim Azhar clarified that photographs showing him dressed as a groom were from a promotional shoot, not his wedding, after the images circulated online and sparked speculation that he had secretly tied the knot.",
-    "Don't be worried.\" View this post on Instagram The photographs showed Azhar posing alongside actor Yasir Hussain and other cast members at a staged wedding function.",
-    "View this post on Instagram His responses put the speculation to rest, with the singer making it clear that he would share the news himself when he got married."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641352/asim-azhar-shuts-down-wedding-rumours-says-leaked-photos-were-from-a-shoot",
-   "image": null,
-   "published_at": "2026-11-20T03:16:08Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "2b70fdeffd9661fa61a3be65e547b90657245b20",
-   "title": "DPM Dar says Pakistan’s natural resources could be worth up to $10 trillion",
-   "summary": [
-    "The Oruç Reis will bring together Turkish scientific expertise and the experience of Pakistan’s national energy companies to conduct advanced exploration in the country’s offshore domain, he said. “Every successful journey of exploration begins with knowledge.",
-    "DPM Dar outlined Pakistan’s ambition to build a long-term energy partnership with Turkey covering offshore exploration, minerals and renewable energy.",
-    "According to the Turkish Ministry of Energy and Natural Resources, the Turkish seismic research vessel Oruç Reis is a specialised survey ship equipped to collect seismic data from beneath the seabed to assess the potential presence of offshore oil and gas reserves."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641349/dpm-dar-says-pakistans-natural-resources-could-be-worth-up-to-10-trillion",
-   "image": null,
-   "published_at": "2026-11-20T02:54:39Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "d30e6a678dac3b883a00876d1f44e39b9d3b3eda",
-   "title": "Cincinnati beat Griezmann's Orlando",
-   "summary": [
-    "FC Cincinnati booked an MLS first-round playoff berth with a 3-1 win that eliminated Antoine Griezmann's Orlando City, while Real Salt Lake beat Seattle on penalties in Thursday's other wild-card clash.",
-    "Half an hour into a first half dominated by Seattle, Cabral saved an Albert Rusnak penalty, diving low and right to keep the game scoreless.",
-    "Cabral saved the first two Sounders penalties, taken by Joveljic and Rusnak, while Salt Lake buried all four of theirs, including defender Philip Quinton's game-winner."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641347/cincinnati-beat-griezmanns-orlando",
-   "image": null,
-   "published_at": "2026-11-20T02:11:53Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "5d025bb1aa86fa32147ab1c7ca10bb9359bd9e6b",
-   "title": "Pakistan calls for ‘universal realisation’ of right to self-determination",
-   "summary": [
-    "Pakistan called for the “universal realisation” of the right to self-determination, saying the aspirations of people living under foreign occupation remained unfulfilled despite the principle being enshrined in international law.",
-    "In a statement shared on X, Shah introduced the draft resolution A/C.3/81/L.47, titled “Universal Realization of the Right of Peoples to Self-Determination”, on behalf of Pakistan and its co-sponsors at the UN General Assembly's Third Committee.",
-    "Statement by Ambassador Syed Haider Shah, Permanent Representative of Pakistan to the UN, To Introduce Resolution on “Universal Realization of the Right of Peoples to Self-Determination” for Adoption (19 November 2026) ******** Mr. Chair, 1."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641345/pakistan-calls-for-universal-realisation-of-right-to-self-determination",
-   "image": null,
-   "published_at": "2026-11-20T02:05:27Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "89f2b90437e54572a363ddbacab793f3ace96774",
-   "title": "US religious freedom panel says India is targeting Muslims in voter roll revisions",
-   "summary": [
-    "India has escalated its targeting of religious minorities ​during a voter list revision that struck off tens of millions of names nationwide, a US panel ‌on religious freedom said on Thursday.",
-    "India's voter list revision removed ​130 million names, roughly the population of Mexico, in the largest deletion of voters in the country's ​history.",
-    "Mills ​urged the State Department to designate India as a \"country of particular concern.\" USCIRF is a bipartisan body of the US government that ‌monitors religious ⁠freedom around the world and makes policy recommendations, which are not binding."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641342/us-religious-freedom-panel-says-india-is-targeting-muslims-in-voter-roll-revisions",
-   "image": null,
-   "published_at": "2026-11-20T01:53:11Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "c101ad7d4c1fba86a5183b13d63f592994304697",
-   "title": "Protesters rally in Paris against bill presuming police who used their firearms acted lawfully",
-   "summary": [
-    "Protesters staged a rally in Paris on Thursday as lawmakers debated a bill that would presume police officers acted lawfully when using their firearms.",
-    "Dozens of associations and nongovernmental organisations gathered near the French Senate to protest the proposed legislation, which would presume that police officers acted lawfully when using their firearms, shifting the burden of proof in cases involving police shootings.",
-    "Among those addressing the demonstrators was Issam El Khalfaoui, of North African descent –whose 19-year-old son Souheil was fatally shot by police in Marseille in 2021 – who told protesters that the legislation could reduce scrutiny of police use of force."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641341/protesters-rally-in-paris-against-bill-presuming-police-who-used-their-firearms-acted-lawfully",
-   "image": null,
-   "published_at": "2026-11-20T01:47:04Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "cd5152cf35819b7301e19b931863a8c052f0ed44",
-   "title": "Malik draws distinction between distinct identity, shared heritage at SCO forum",
-   "summary": [
-    "When asked about civilisational linkages between the arch rivals India and Pakistan, the minister said, “I think between India, Pakistan, Russia, China and Central Asian states, if you go to the excavations, you would find that dialogue taking place just in the fore.",
-    "Earlier in the day, Malik arrived in New Delhi to lead Pakistan’s delegation at the SCO forum, the Pakistan High Commission in India stated.",
-    "Read: Musadik Malik set for Delhi visit The meeting assumes significance as Pakistan and India continue to remain locked in a diplomatic stalemate following their four-day military confrontation in May 2025."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641334/musadik-malik-arrives-in-new-delhi-to-lead-pakistan-delegation-at-sco-forum",
-   "image": null,
-   "published_at": "2026-11-20T01:12:39Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "37e613a79c7932de6dd92bcc2ddde30d643de615",
-   "title": "CDF Munir vows to 'decisively eliminate terrorism' from K-P in North Waziristan visit",
-   "summary": [
-    "Field Marshal Munir has made several visits to K-P since assuming command of the army in November 2022, including visits to the former tribal districts to review security arrangements and counter-terrorism efforts.",
-    "On November 14, security forces killed 16 terrorists, including two Afghan nationals, during intelligence-based operations in the Mir Ali, Datta Khel and Ali Khel areas of North Waziristan, while two soldiers were also martyred.",
-    "A day earlier, security forces had killed 74 terrorists in operations across K-P and Balochistan, including 35 in Mir Ali and eight in Orakzai."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641332/cdf-munir-lauds-k-p-police-as-brave-frontline-force-during-north-waziristan-visit",
-   "image": null,
-   "published_at": "2026-11-20T00:33:11Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "f3fc5623677c213fd5389e2fceed937420ba985f",
-   "title": "IHC seeks action against stray dogs",
-   "summary": [
-    "The petition was filed in the wake of the death of an International Islamic University student after being bitten by a stray dog.",
-    "The petition maintained that the alarming and uncontrolled growth in the stray dog population in the federal capital posed a threat to the lives of residents.",
-    "According to the petition, roads, parks and public places were filled with stray dogs, while several incidents of dog bites had already been reported."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641302/ihc-seeks-action-against-stray-dogs",
-   "image": null,
-   "published_at": "2026-11-19T20:55:27Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "6788eb508fdedd56ff642f81ce41908859dc814a",
-   "title": "Panel questions election bill jurisdiction",
-   "summary": [
-    "The bill, introduced by Senators Tahir Khalil and Abdul Qadir, came under discussion at a Senate Standing Committee on Law and Justice meeting chaired by Senator Farooq H Naek.",
-    "Asked by the committee chairman about the ECP's position on the bill, the secretary law said the commission agreed with transferring election disputes to the FCC following the 27th Constitutional Amendment.",
-    "Senator Khalil Tahir, the mover of the bill, responded that following the 27th Amendment, the FCC had become the superior forum in constitutional matters and should therefore hear election disputes instead of the SC."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641290/panel-questions-election-bill-jurisdiction",
-   "image": null,
-   "published_at": "2026-11-19T18:53:05Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "73eedd5637333ffc06529aaf40977e37ea84f029",
-   "title": "PM, JI to finalise fuel relief next week",
-   "summary": [
-    "Jamaat-e-Islami (JI) Deputy Chief Liaquat Baloch said on Thursday negotiations between the government and the party over petroleum prices and public relief had concluded at the committee level.",
-    "He said Prime Minister Shehbaz Sharif and JI Emir Hafiz Naeemur Rehman expected to meet on Nov 24 or 25 to finalise a mechanism for reducing the petroleum levy and providing relief to consumers.",
-    "He made the remarks after a meeting with a government delegation led by DPM and FM Ishaq Dar in Islamabad."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641281/pm-ji-to-finalise-fuel-relief-next-week",
-   "image": null,
-   "published_at": "2026-11-19T18:53:05Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "f2681d9a4c2fdcf929326cd0a88eba078511944d",
-   "title": "Rabia’s killer to walk free as family redeems him from murder in affidavit to Rawalpindi court",
-   "summary": [
-    "Additional District and Sessions Judge Khurram Saleem approved the post-arrest bail of the prime suspect against property surety bonds after the deceased’s family submitted affidavits stating that they had forgiven him and did not believe he had deliberately killed Rabia.",
-    "Rabia’s mother Rakhshanda Bibi, brother Khurram Ahmed Khan, and sister Alvina Khan also appeared before the court and recorded their statements in favour of the suspect.",
-    "Rabia Ahsan lost her life in an unfortunate accident.” The defence counsel Malik Mohsin Kalyami and the Rawalpindi High Court Bar Association Additional Secretary General Saba Faraz Raja filed the bail applications and submitted the affidavits."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641230/rabias-killer-to-walk-free-as-family-redeems-him-from-murder-in-affidavit-to-rawalpindi-court",
-   "image": null,
-   "published_at": "2026-11-19T12:06:02Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "b0a1801ed7d36d2d4556d98e733fea54e8b8bff5",
-   "title": "Govt moves to break deadlock over new provinces through political dialogue",
-   "summary": [
-    "Well-placed PML-N sources told The Express Tribune that the party would form a political coordination committee comprising senior leaders to engage parliamentary parties and develop a joint strategy on key national issues through consultations.",
-    "The party's central leadership is currently examining various political and constitutional matters, including the proposed creation of new provinces and administrative units, as well as the possibility of another constitutional amendment.",
-    "Also Read: MQM-P postpones Nov 29 rally for new provinces, reiterates demand for administrative division The meeting between the president and the prime minister earlier today was among several recent engagements focusing on issues dominating the political landscape."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641221/govt-moves-to-break-deadlock-over-new-provinces-through-political-dialogue",
-   "image": null,
-   "published_at": "2026-11-19T10:33:57Z",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045878/musadik-malik-arrives-in-new-delhi-to-attend-sco-dialogue-forum",
+   "image": "https://i.dawn.com/large/2026/11/2010494301ccbd5.webp",
+   "published_at": "2026-11-20T12:36:01Z",
    "category": "pakistan",
    "related": []
   }

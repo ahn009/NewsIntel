@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-20T19:59:40.802655Z",
+ "generated_at": "2026-11-21T01:23:55.220117Z",
  "story_count": 19,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
-  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/home": "ok",
+  "https://www.dawn.com/feeds/pakistan": "ok",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,7 +20,7 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "ok"
+  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
   {
@@ -195,6 +195,19 @@
    "related": []
   },
   {
+   "id": "11147e28a0c160e41852517f46d4e815bf940725",
+   "title": "How did Anthropic's stock market debut unfold?",
+   "summary": [
+    "The BBC's Samira Hussain breaks down the AI company's first day as a publicly traded company, as shares closed up 17%."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-19T23:52:25Z",
+   "category": "business",
+   "related": []
+  },
+  {
    "id": "9b2835c8ee7502e70a7f8f58efec32331985f943",
    "title": "California targets Nvidia in China AI chip probe",
    "summary": [
@@ -256,19 +269,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-19T13:35:52Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "8befb2780d6e2e8a4c0a9fc0ab81a3e03b9e2af9",
-   "title": "Indian driver wins $1.3m in life-changing lottery prize",
-   "summary": [
-    "A truck driver's fortunes have changed overnight after he won a Diwali lottery in the northern Indian state of Punjab."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/cke89vdn75gyo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-19T11:38:09Z",
    "category": "business",
    "related": []
   }

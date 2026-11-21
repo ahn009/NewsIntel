@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-20T19:59:40.801126Z",
+ "generated_at": "2026-11-21T01:23:55.218022Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
-  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/home": "ok",
+  "https://www.dawn.com/feeds/pakistan": "ok",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,19 +20,479 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "ok"
+  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
   {
-   "id": "1dccf9ebd12f2dad7b43769ee76a5da22b08816c",
-   "title": "Palestinian anti-Hamas groups accused of role in Israel Gaza operation",
+   "id": "91dcb1338cab7b46d4481240648b3fcfe4300377",
+   "title": "Can Mauricio Pochettino save Man United from Premier League relegation?",
    "summary": [
-    "Israeli-backed Palestinian militias accused of expanding operations, raising concerns over their role in Gaza’s security"
+    "Mauricio Pochettino will take charge of Manchester United for the first time on Sunday, in a trip to rivals Liverpool."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/20/palestinian-anti-hamas-groups-accused-of-role-in-israel-gaza-operation?traffic_source=rss",
+   "url": "https://www.aljazeera.com/sports/2026/11/21/can-pochetinno-save-man-united-from-premier-league-relegation?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-20T19:57:05Z",
+   "published_at": "2026-11-21T00:55:01Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "17e1c5c1e63b4f1083abcf0fe5e1e071339ac149",
+   "title": "ANC fights to keep control of South Africa's key cities after election setback",
+   "summary": [
+    "The ANC appears reluctant to replicate its national power-sharing deal with the pro-business DA at the local level."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-21T00:34:51Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "e5102d2b451f1adf987a942caca391ecb9dad469",
+   "title": "Victorian Greens seek urgent injunction over how-to-vote cards mimicking party’s branding but preferencing it last",
+   "summary": [
+    "Exclusive: Independent candidate Tosh-Jake Finnigan’s cards instruct people to vote in a way that would benefit Liberal partyGet our daily political email, free app or daily news podcastThe Victorian Greens are seeking an urgent injunction from the supreme court to stop an independent candidate distributing how-to-vote cards that allegedly mimic the party’s branding and urge people to preference it last.As prepoll opened on Wednesday morning, Tosh-Jake Finnigan’s campaign team handed out how-to-vote cards that used the minor party’s colour scheme, font and triangle logo with the banner “Vote 1 Green Values”."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb",
+   "image": "https://i.guim.co.uk/img/media/96ab340872e588ad309196b07390be6b1c05c064/0_0_935_748/master/935.jpg?width=140&quality=85&auto=format&fit=max&s=cb157e8ba631ea73ff9af551de474e32",
+   "published_at": "2026-11-21T00:26:56Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "d9d55b2a7cb969609bc47f8e99d32fb7245294d2",
+   "title": "Trump turns White House press conference into a 2028 succession audition",
+   "summary": [
+    "The president appeared to put Vance and Rubio through their paces as potential successors, though Stephen Miller unexpectedly stole the spotlight“Which of you shall we say doth love us most?”The ageing King Lear’s question to his daughters, expecting them to compete for his favour and carve up his kingdom, hovered in the White House press briefing room on Friday."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-republican-succession-battle-vance-rubio",
+   "image": "https://i.guim.co.uk/img/media/13a779743e2a0f56e66622d1d81ea56493964bed/454_0_4537_3631/master/4537.jpg?width=140&quality=85&auto=format&fit=max&s=efa2f21711e4d5e1709b16fb42ade6ae",
+   "published_at": "2026-11-21T00:16:26Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "7dbf331b0d3981bb2e661e1c9c4787e1b3c7fa7e",
+   "title": "‘A source of inspiration’: California celebrates the late civil rights icon Dolores Huerta",
+   "summary": [
+    "A public vigil and celebration of life honor the civil rights activist and co-founder of United Farm Workers unionHundreds of people came out to honor and celebrate the life and legacy of the California civil rights activist Dolores Huerta at a celebration-of-life event Friday in Bakersfield.Huerta’s daughter Lori de Leon thanked attendees for their support during her mother’s passing, highlighting the widespread tributes and communities gathering in her honor."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/20/dolores-huerta-celebration-of-life-california",
+   "image": null,
+   "published_at": "2026-11-21T00:03:47Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "89fcbe70d366afaa85bdd05e18eb5cc85fb09062",
+   "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+   "summary": [
+    "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-21T00:01:39Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "a7dd2896b1422167de75793e670a0ee7d6c1d147",
+   "title": "Iran war live: Saudi-led coalition downs Houthi missiles",
+   "summary": [
+    "Saudi Arabia issues a flurry of emergency alerts for Riyadh, as the Saudi coalition says it intercepted three missiles."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T00:00:06Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "19c0628393b866ea5bbc611fb212e792e21a50bf",
+   "title": "Republican senator blocks Trump cyber nominee over January 6 denial",
+   "summary": [
+    "His block on the nomination will prevent it from being included in a package of nominees to be voted on next month, before the Republicans lose their majority in the Senate."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/20/tillis-republican-senator-trump-cyber-nominee",
+   "image": "https://i.guim.co.uk/img/media/cac7b215020ab17f2e1926d910d082e9f9ca8ad3/444_0_4416_3535/master/4416.jpg?width=140&quality=85&auto=format&fit=max&s=892fc0c8d9b7b741fcb53f80e10cc653",
+   "published_at": "2026-11-20T23:48:38Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "96a7f9767d2d24038a127cb3619d966654583a60",
+   "title": "Judge approves $7.25bn Bayer payout to settle claims that Roundup causes cancer",
+   "summary": [
+    "German company faced 65,000 claims from people who said they developed cancer after using weedkillerA Missouri judge on Friday approved Bayer’s $7.25bn settlement of lawsuits ⁠alleging that its weedkiller ​Roundup causes cancer, potentially resolving litigation that has weighed on the German company for close to a decade.Judge Timothy Boyer of a state court in St Louis ⁠found the settlement “fair, reasonable and adequate”."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation",
+   "image": "https://i.guim.co.uk/img/media/efbc188d676f119c98b60ce20d212a75264e7757/483_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=80be199f03da1f2774ebcc5eaf1c6cd0",
+   "published_at": "2026-11-20T23:42:43Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "d0ff6f5e5eed7f167db235817564d74cca54b2d0",
+   "title": "Overturned boat carrying mourners to funeral kills at least four in Nigeria",
+   "summary": [
+    "Police say two children among dead as search continues for more victims."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/20/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-20T23:36:36Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "d7d37cd779a1fde19d4eea48125dfbe56003cf7a",
+   "title": "A new Nepal, an old neighbour - Balendra Shah's India test",
+   "summary": [
+    "Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-20T23:28:17Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "377074850dec828f2ad5cea46792f0ce13b42ee9",
+   "title": "Rahul Gandhi backs strong India-Israel ties despite Gaza war",
+   "summary": [
+    "India’s opposition leader Rahul Gandhi, says New Delhi should continue to maintain strong ties with Israel."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/rahul-gandhi-backs-strong-india-israel-ties-despite-gaza-war?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-20T23:20:50Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "bf78ec82969c79f6deccfdcac227d0a7561df743",
+   "title": "Dead pets were meant to be cremated - then their bodies appeared on a livestream",
+   "summary": [
+    "Grieving Filipinos confront a distressing reality: their dogs and cats may not have received the send-off they paid for."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-20T23:20:33Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "973aadc167195a9f35319fec6401669d1ebba056",
+   "title": "Man accused of sparking deadly Los Angeles wildfire found guilty",
+   "summary": [
+    "Verdict in case against former Uber driver Jonathan Rinderknecht comes after first trial ended with hung juryThe 30-year-old accused of sparking the deadly Palisades fire in Los Angeles was found guilty of two federal arson charges in a Friday verdict that came months after his first trial concluded with a hung jury.For two weeks, a fresh batch of jurors listened to prosecutors mount their case against Jonathan Rinderknecht."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/20/los-angeles-palisades-wildfire-trial-verdict",
+   "image": "https://i.guim.co.uk/img/media/9ac7a13c61ac09c8989f886adde8097c03d0fc03/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=4513785efb37d1da06beb027b45f87f7",
+   "published_at": "2026-11-20T23:20:29Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "e7ee319ddee192551632fec7435cca179f86debe",
+   "title": "US declassifies more UFO footage filmed in the Middle East",
+   "summary": [
+    "The Pentagon has released an eighth tranche of UFO records, which includes three video clips recorded in 2020, 2023 and 2026."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-20T23:15:20Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "6db0fde3718cbe9e803da5e132e5150652595044",
+   "title": "NSW passes Mount Pleasant coalmine law as Greens claim change an attempt to head off One Nation",
+   "summary": [
+    "Labor says allowing mine to increase production reflects ‘gravity of situation facing hundreds of workers’ – but critics call it ‘unprecedented and dangerous’Get our breaking news email, free app or daily news podcastThe New South Wales government has passed special legislation to allow a coalmine in the Hunter Valley to increase production by 32% in its final act of parliament before the March state election, in which the region will be a key battleground for One Nation.After a marathon session in the legislative council on Friday, the Minns government and the Coalition voted at 1.36am on Saturday morning to allow the Mount Pleasant mine to increase its annual extraction rate from 12.5MT to 16.5MT until 2032."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/21/nsw-passes-hunter-valley-coalmine-law-as-greens-claim-change-an-attempt-to-head-off-one-nation-ntwnfb",
+   "image": "https://i.guim.co.uk/img/media/b24b376c3c4ded825f413fd2ac48655f5fcb5e3c/480_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=0bf10c399ce4d8386b40e0e8eef67063",
+   "published_at": "2026-11-20T23:09:57Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "5d3c25a64fe3237b8f9b1d1069bc3bfff1d7b0dc",
+   "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+   "summary": [
+    "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-20T23:08:57Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "d8d064076f70f6215b5c5f16545c7d478761abed",
+   "title": "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
+   "summary": [
+    "EU warns COP31 risks turning into a 'fossil summit' as critical climate commitments are omitted from the draft deal."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-20T23:06:41Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "4dfd121c6c304146b7aafc19578f7f571e4f5d99",
+   "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+   "summary": [
+    "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-20T22:42:47Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "4939f70f711bb596703fd6ff48f45d3da3845e8f",
+   "title": "French police officers sentenced for beating of music producer Michel Zecler",
+   "summary": [
+    "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-20T22:37:09Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "8ed73d92e1a547ca22cd80e31af0c6172152c728",
+   "title": "French police officers found guilty of racist assault on black music producer",
+   "summary": [
+    "The trial this month was considered a turning point for the recognition of racist violence."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/20/french-police-officers-found-guilty-of-racist-assault-on-black-music-producer",
+   "image": "https://i.guim.co.uk/img/media/e744f4dacdb4a945886bcb2886956ca9b6a2f39e/797_1_3568_2855/master/3568.jpg?width=140&quality=85&auto=format&fit=max&s=3d8125feb06722ff5542c1d5921cbe88",
+   "published_at": "2026-11-20T22:23:53Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "62f2d196d87d64eecb9412cf2d65cbf9460457be",
+   "title": "US lawmakers push for tougher AI chip rules amid China export crackdown",
+   "summary": [
+    "Washington has new rules restricting remote access to advanced US AI chips, but lawmakers want more."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-20T22:15:07Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "9b37693e45ed76e6b860ad1c27400fbecfcba60f",
+   "title": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
+   "summary": [
+    "Orla Guerin speaks to seven people trapped in the key city of Taiz, cut off from the outside world for weeks."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-20T22:14:17Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "d143a578a81d5432284ca1dd627d43dced075cd9",
+   "title": "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
+   "summary": [
+    "AI stocks have hefty market values and have a much bigger impact on the market's direction.",
+    "They were responsible for Wall Street's big gains this year and are now behind the big slide for the market.(Image credit: Seth Wenig)"
+   ],
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative",
+   "image": null,
+   "published_at": "2026-11-20T22:11:29Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "06b98fb6c92a521b53192e49390f4ca34105addf",
+   "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+   "summary": [
+    "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-20T21:57:07Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "8e3ceec613f9f9ec6efc5849a21e56a7d763973c",
+   "title": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
+   "summary": [
+    "President gives wide-ranging White House press conference and says he has ‘fantastic relationships’ with Putin and XiDonald Trump threatened on Friday to impose “tremendous penalties” on American tech companies that build datacenters outside the US, though he gave no details and told reporters he had not yet informed his own officials about the plan.In a discursive press conference from the White House briefing room, Trump also said he would “look into” the report that Iran had been planning to possibly detonate a “dirty bomb” in Washington DC, and backed JD Vance over comments the vice-president made blaming Republican midterm losses on the Iran war."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
+   "image": "https://i.guim.co.uk/img/media/9532d886df85f2ca4c23d7e6a6341c606f995971/357_0_3572_2857/master/3572.jpg?width=140&quality=85&auto=format&fit=max&s=07ff49e86c3162c2f8cbd055b6230888",
+   "published_at": "2026-11-20T21:47:41Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "8bb9ea366d89db527265c4fed2e26e5f168e11f0",
+   "title": "What the new UK-EU deal could mean for future post-Brexit relations",
+   "summary": [
+    "The BBC's political and Europe editors analyse the new agreements between the UK and EU."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-20T21:43:22Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "2b46772c5167c98d7b8a794eb3254c15a1b86a3a",
+   "title": "The latest from Trump's press conference",
+   "summary": [
+    "President Trump gave a wide-ranging press conference following his historic trip to Asia where he met with Chinese President Xi and Russian President Putin."
+   ],
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/20/nx-s1-6047636/trump-presser",
+   "image": null,
+   "published_at": "2026-11-20T21:38:21Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "fd2811614640e90d1bfb8ca46043542593c9d4da",
+   "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
+   "summary": [
+    "On Friday, the Nasdaq Composite erased all its gains for 2026 and closed down 5% from its value on 1 January.",
+    "The Dow Jones Industrial Average and S&P 500 closed in correction territory.Anthropic’s record-breaking IPO failed to stem a global sell-off in AI-linked companies, and the tech-heavy Nasdaq erased some $4tn in market value this week, according to the Wall Street Journal."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+   "image": "https://i.guim.co.uk/img/media/578833ee207aab76c1b6a542f17226703dbd735b/686_0_5336_4269/master/5336.jpg?width=140&quality=85&auto=format&fit=max&s=95af56c4e78299bd447fd1e5bd03b452",
+   "published_at": "2026-11-20T21:38:17Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "09b641e4fe409746b7f4166f4a2bd12350bc7c63",
+   "title": "Rising seas have forced this Quinault village to relocate",
+   "summary": [
+    "The Quinault Indian Nation has moved its largest village away from rising seas and tsunamis"
+   ],
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/20/nx-s1-6046485/rising-seas-have-forced-this-quinault-village-to-relocate",
+   "image": null,
+   "published_at": "2026-11-20T21:38:13Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "fbc06fcfb2ac3651bd8dece182a2abe21c001821",
+   "title": "Trump's impact on an Ohio steel plant",
+   "summary": [
+    "The giant steel plant in Middletown, Ohio planned to switch away from using coke, a refined form of coal.",
+    "The switch would have cut hazardous air pollution -- and greenhouse gas emissions.",
+    "But that plan has changed under President Trump"
+   ],
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/20/nx-s1-5860971/trumps-impact-on-ohio-steel-plant",
+   "image": null,
+   "published_at": "2026-11-20T21:38:11Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "d3bb9ee053c0a1556ec6ee0fc4f9ae8fbad68ca6",
+   "title": "MLK's handwritten draft of iconic speech on display for the first time",
+   "summary": [
+    "The only known handwritten draft of The Reverend Martin Luther King Jr.'s 'I Have a Dream' speech is on display in his hometown.",
+    "The iconic phrase, however, never made it on the page.(Image credit: Lynsey Weatherspoon for NPR)"
+   ],
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/20/nx-s1-6039337/mlk-i-have-a-dream-speech-draft-public-display",
+   "image": null,
+   "published_at": "2026-11-20T21:38:05Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "3feb2b0113cc2789ac166e69913390153c87d21e",
+   "title": "Iraq PM targets militia stronghold in bid to assert state control",
+   "summary": [
+    "Iraqi PM Ali al-Zaidi said an operation in Jurf al-Sakhar marks the start of a nationwide push to assert state control."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_iraq-pm-targets-militia-stronghold-jurf-al-sakhar-201126?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-20T21:28:25Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "766ed3f25898a7c98fbde5966df9568fff9cbf83",
+   "title": "Trump threatens tax on US tech firms building AI data centres abroad",
+   "summary": [
+    "US President Donald Trump warned US tech companies will face “a tremendous tax” if they build AI data centres abroad."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-20T21:10:53Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "d6132208e24afb09413a3b8bddac163dbe5cbe61",
+   "title": "Trump defends Putin relationship, warns AI data centres must stay in US",
+   "summary": [
+    "The US president also spoke about the war in Iran and praised trip to China during a wide-ranging news conference."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-20T21:05:07Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "4ac43ec9386593c73c57b3b211739713b1339662",
+   "title": "Two Salvadoran soldiers killed in Haiti while handling explosives",
+   "summary": [
+    "Two others were injured in the explosion, marking the first deaths among troops deployed to Haiti since late October."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/20/two-salvadoran-soldiers-killed-in-haiti-while-handling-explosives?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-20T20:59:04Z",
    "category": "world",
    "related": []
   },
@@ -45,504 +505,46 @@
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-20T19:51:52Z",
+   "published_at": "2026-11-20T20:54:12Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "c7c292cd88703f22872486be51346c7945621a60",
-   "title": "Gérard Depardieu and French author investigated over sexual allegations",
+   "id": "c09db21377d24755f5bc451f979fccc0a8d7ddeb",
+   "title": "Can the UK and EU turn the page on Brexit?",
    "summary": [
-    "A judicial investigation was launched after a complaint was filed last year over \"allegations of a sexual nature\"."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-20T19:45:20Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "c5c36dcfc675bf32b714ccc4cd494e4c13f83ce9",
-   "title": "Indian man sentenced to 19 years in US Sikh separatist assassination plot",
-   "summary": [
-    "Nikhil Gupta jailed for conspiring to hire a hitman to kill New York-based Sikh leader, Gurpatwant Singh Pannun."
+    "A decade after the Brexit vote, the UK and EU have struck deals."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/20/indian-man-sentenced-to-19-years-in-us-sikh-separatist-assassination-plot?traffic_source=rss",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/can-the-uk-and-eu-turn-the-page-on-brexit?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-20T19:40:07Z",
+   "published_at": "2026-11-20T20:51:19Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "5f9e6b5ffe183b7e545828556e6b67adf72de0e3",
-   "title": "JP Morgan boss says he will set ‘example’ in offsetting UK tax hike on banks",
+   "id": "091a7d0031b59286167c0756b01b950c03e91d5f",
+   "title": "Gaza’s displaced children celebrate World Children’s Day",
    "summary": [
-    "Jamie Dimon said he would seek to claw back added costs of ‘unfair penalties’ as bank surcharge rises in JanuaryJamie Dimon, the chief executive of JP Morgan, has said he will find ways to offset the chancellor’s tax rise for banks, calling the increase unfair.Speaking at an event in London on Thursday, Dimon said he would seek to claw back the increase and was “setting an example so that [governments] understand the trade-offs of these unfair penalties”."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/20/jp-morgan-jamie-dimon-uk-tax-hike-bank-surcharge",
-   "image": "https://i.guim.co.uk/img/media/a2ea0114fa7d8b930b2b6fb3b7c565d76348f5f3/0_0_3028_2423/master/3028.jpg?width=140&quality=85&auto=format&fit=max&s=ac2ad95e3893c94c9fe2d7c13f030ea9",
-   "published_at": "2026-11-20T19:38:59Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "4dfd121c6c304146b7aafc19578f7f571e4f5d99",
-   "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-   "summary": [
-    "Other tech companies have also taken a hit as share markets broadly slump."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-20T19:38:46Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "ac72bf8df42ae789af261042d5099d11ec47f770",
-   "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
-   "summary": [
-    "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-20T19:27:49Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "0daedfcfd6e95a65fd1da184dbc12b28a541308a",
-   "title": "Nepal cricket fans celebrate their team’s global rise",
-   "summary": [
-    "Nepal’s cricket fans have witnessed a transformation in their national team’s fortunes in recent years."
+    "Displaced children gathered in al-Nuseirat refugee camp to mark World Children’s Day."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/nepal-cricket-fans-celebrate-their-teams-global-rise?traffic_source=rss",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/gazas-displaced-children-celebrate-world-childrens-day?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-20T19:24:26Z",
+   "published_at": "2026-11-20T20:45:09Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "c262f425bba41b2e6c0fbb4a469c67622432280b",
-   "title": "Home Alone sequel reportedly in development with Macaulay Culkin returning",
+   "id": "88090e7d863b2579879e1ba3fe64e99154293f10",
+   "title": "Sudan’s war leaves disabled children missing out on education",
    "summary": [
-    "The new Home Alone film will bring the 46-year-old back to the franchise as Kevin McCallister for a comedy that, according to Deadline, will be from the father’s point of view."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/film/2026/nov/20/home-alone-sequel-macaulay-culkin",
-   "image": "https://i.guim.co.uk/img/media/934c182e9fa7feae129f366be38ebe9b1a067b4b/94_0_2400_1920/master/2400.jpg?width=140&quality=85&auto=format&fit=max&s=ef2a63347fd9754baeea3f315a856543",
-   "published_at": "2026-11-20T19:18:20Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "497402baaf1855b74a029c90898caf0155fb3535",
-   "title": "Belgrade mayor charged with assaulting opposition politician in Serbia",
-   "summary": [
-    "Prosecutors say Aleksandar Sapic caused serious facial injuries to a female councillor and seek a three-year sentence."
+    "War forces schools, rehabilitation centres to close, forcing children with disabilities to lose access to education."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/20/belgrade-mayor-charged-with-assaulting-opposition-politician-in-serbia?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/20/sudans-war-leaves-disabled-children-missing-out-on-education?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-20T19:15:18Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "2fe9522e0a256010eae99605a082c8031d226787",
-   "title": "What are the implications of the ICJ Rohingya genocide ruling?",
-   "summary": [
-    "Verdict against Myanmar may have implications for Israel's genocide in Gaza."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/inside-story/2026/11/20/what-are-the-implications-of-the-icj-rohingya-genocide-ruling?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-20T19:12:14Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "2af93e3b8100433ca68f806b0cdab544d4b157d7",
-   "title": "White House removes cyber-security chief after series of tech outages",
-   "summary": [
-    "He has been fired after losing the confidence of new White House chief of staff Stephen Miller, according to reports."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-20T19:03:56Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "df67e737aa0fce20ee9999bb8cd187a70e30add8",
-   "title": "Police arrest teacher who missed sentencing after indecent assault conviction",
-   "summary": [
-    "Sally-Anne Bowen was found guilty of having sexual relationships with two pupils at a boys’ school in the 1980sA chemistry teacher who had sexual relationships with two pupils at a boys’ school in the late 1980s has been arrested by police in Hampshire after she failed to turn up to her sentencing hearing.Sally-Anne Bowen, 65, could not be found at her home by Metropolitan police officers on Friday morning after a warrant was issued for her arrest, a court heard."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/20/sally-anne-bowen-police-search-teacher-missed-court-sentencing",
-   "image": "https://i.guim.co.uk/img/media/311ab8da7f054396f1dd576b47069e8b03792e22/304_0_4120_3296/master/4120.jpg?width=140&quality=85&auto=format&fit=max&s=b9430c6c19047b5b3153fa6497e7885e",
-   "published_at": "2026-11-20T19:00:11Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "54036e47f4a96186308142f1eac992035d8d946b",
-   "title": "Former US national security adviser confronted by students on Gaza",
-   "summary": [
-    "Former US National Security Adviser Jake Sullivan was confronted by student protesters during a speaking event at MIT."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/former-us-national-security-adviser-confronted-by-students-on-gaza?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-20T18:51:26Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "7a65904af0ba1b33e5775cfbbac1da62cb3c6713",
-   "title": "‘Worth fighting for’: senators vow to restore financial watchdog agency after Guardian investigation",
-   "summary": [
-    "In many of these recent complaints, consumers described the same issues the CFPB’s suits had sought to address."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/20/senators-consumer-financial-protection-bureau",
-   "image": "https://i.guim.co.uk/img/media/bf91efdbdec6fadcddfce048f1aadcc56d9e79ca/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b2e5e5afe977dcf8bc51bcfbcf5aec3c",
-   "published_at": "2026-11-20T18:51:16Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "5733aa2a7beb074458eb1b8cb75f933c8a2982be",
-   "title": "Lauren Boebert says Trump ‘did some things to hurt’ her constituents",
-   "summary": [
-    "Controversial Colorado Republican narrowly lost House seat in midterms but says ‘I’m not mad at the president’Lauren Boebert says Donald Trump “did some things that hurt” her constituents before they voted the pugnacious Colorado Republican out of her US House seat during midterm elections, which saw her and the president’s party lose control of Congress.“This could be a referendum on President Trump,” Boebert said to the Associated Press in an interview published on Friday. “It could be the referendum on Congress or the Republican party.",
-    "I think it’s all of it."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/20/lauren-boebert-trump-midterms",
-   "image": "https://i.guim.co.uk/img/media/be6a5eef64defea746f46320afd8fdcddb4bf12a/613_0_6829_5464/master/6829.jpg?width=140&quality=85&auto=format&fit=max&s=bee1b09efd23ab63c188bbd9180ab96f",
-   "published_at": "2026-11-20T18:51:09Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "e089eebd0d7679e02b267e4552d97a018536c9a3",
-   "title": "Swimming lessons offer Gaza’s children a moment of relief",
-   "summary": [
-    "Palestinian children gathered along Gaza’s coast for swimming lessons, finding relief from the psychological toll of war"
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_swimming-lessons-offer-gazas-children-relief-201126?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-20T18:43:37Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "9aa0b9eaddd363c6f45d6bfc5a51877d2f88e6c4",
-   "title": "Ukraine strikes Kerch Bridge as Putin ally declares ‘no one needs Europe’",
-   "summary": [
-    "Russia-Europe tensions rise as Ukraine uses its own weapons and communications tech to hit the Kerch Bridge."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/20/ukraine-strikes-kerch-bridge-as-putin-ally-declares-no-one-needs?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-20T18:37:35Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "22f5eaecb09c50bc91525be56cf61f68a3a23cf0",
-   "title": "Florida mechanic found guilty of murdering British woman who attorney says came to US to die",
-   "summary": [
-    "Dwain Hall was convicted of stabbing Sonia Exelby, a music teacher who prosecutors say suffered from mental illnessA Florida mechanic has been found guilty of stabbing to death a British music teacher, whom he convinced to travel to the United States.Dwain Hall, an auto repair and tow truck driver, groomed 32-year-old Sonia Exelby from Portsmouth, England, on a fetish website before luring her to the US."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/20/florida-man-guilty-murder-british-woman",
-   "image": "https://i.guim.co.uk/img/media/68822b4af6e85f21c7ca85d279e5ad43ec97d7f0/0_739_4252_3402/master/4252.jpg?width=140&quality=85&auto=format&fit=max&s=92f25a5d55d0fad5b5507d63e8834c52",
-   "published_at": "2026-11-20T18:36:30Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "799e86da778639c83b4a857fd21857503d3fdaec",
-   "title": "Spain frees wealthy US-sought activist on bail as Irish police raid Dublin home",
-   "summary": [
-    "Pro-Palestinian donor James ‘Fergie’ Chambers released as court considers extradition requestIn a blur of events surrounding the Trump administration’s effort to extradite James “Fergie” Chambers, Spain released the wealthy US activist and donor on bail even as Irish police raided a Dublin house owned by Chambers and his partner, Stella Schnabel, acting on a request from US authorities.Chambers’s case is the first known instance of the US seeking to extradite a citizen over alleged support for Hamas, an accusation apparently tied to an international money-laundering charge in the criminal complaint underpinning the extradition request and donations to organizations helping Palestinians in Gaza."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/20/james-fergie-chambers-bail-spain",
-   "image": "https://i.guim.co.uk/img/media/74547b1071ce9ebdb86931120adc604b11828149/468_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=71dbb87ded0ef40e5be44df05d5646f2",
-   "published_at": "2026-11-20T18:34:13Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "11e49cad6848a494d488d9da57b135da1bb6fd07",
-   "title": "Princeton doctoral student reportedly detained by ICE on way back from conference",
-   "summary": [
-    "Eva Yi Xie was taken into custody at Washington DC airport after presenting research at neuroscience conferenceA Princeton University doctoral student has reportedly been taken into custody by US Immigration and Customs Enforcement (ICE) after traveling to Washington DC, for a neuroscience conference.Eva Yi Xie, a third-year PhD candidate at the Princeton Neuroscience Institute, was detained Thursday at a Washington-area airport, according to university officials and her colleagues."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/20/princeton-doctoral-student-reportedly-detained-ice",
-   "image": "https://i.guim.co.uk/img/media/a2b6e6d017d543b1b4713dc52b5d59d514b1068a/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=5a31f1b45ae7c89839b5952679be4e52",
-   "published_at": "2026-11-20T18:33:17Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "b96eb16e4758d7f1d852621f956c33e7c1873dd7",
-   "title": "A second judge blocks Trump's arch, saying it's unlikely to succeed in court",
-   "summary": [
-    "A federal judge in Virginia said she will issue a preliminary injunction against Trump's arch, going a step further than the D.C. federal judge who temporarily blocked construction earlier this week."
-   ],
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington",
-   "image": null,
-   "published_at": "2026-11-20T18:25:09Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "ab96d4d31437bc69f512f1fefd105e056f51b8dc",
-   "title": "Indian man sentenced to 19 years in prison for conspiring to kill Sikh separatist in New York",
-   "summary": [
-    "Nikhil Gupta admitted to plotting with Indian government official to hire hitman to murder dual US-Canadian citizenAn Indian ⁠man was sentenced to more ⁠than 19 ​years in US prison on Friday after admitting to orchestrating a failed Indian government-backed plot to kill a Sikh separatist in New York ⁠City, in connection with what US and Canadian authorities have called a broader effort to target Indian dissidents.Nikhil Gupta, 55, pleaded guilty in February to murder-for-hire, conspiracy ⁠to commit murder-for-hire and conspiracy to commit money laundering."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/20/indian-man-sentenced-prison-murder-plot-sikh-separatist",
-   "image": "https://i.guim.co.uk/img/media/9685e16f610038a3820904f81eb1dba749b72664/117_0_2813_2250/master/2813.jpg?width=140&quality=85&auto=format&fit=max&s=2cc6f42b367b6b3ca3cc23ff3443d4ff",
-   "published_at": "2026-11-20T18:24:12Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "1dbd628dcd3565fb7108ea50f9cb9542fea7816b",
-   "title": "Misty-eyed Burnham gambles on closer ties with EU as he throws down gauntlet to Tories and Reform",
-   "summary": [
-    "But Burnham’s political gamble on closer ties with Brussels hinges on the assumption that most British voters feel this way as well."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/20/andy-burnham-uk-eu-brussels-summit",
-   "image": "https://i.guim.co.uk/img/media/298e2e76a81f2b29227315e2f639e4892114e948/507_0_4299_3440/master/4299.jpg?width=140&quality=85&auto=format&fit=max&s=3ae557580f5a65931c10fbaded2c7434",
-   "published_at": "2026-11-20T18:22:50Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "bcffeb52063fa6ceec0eacc25112719e082e957a",
-   "title": "Two men killed after glider crashes into Loch Leven in Scotland",
-   "summary": [
-    "The pair had taken off from the Scottish Gliding Centre at nearby Portmoak on a training flightTwo men have been killed after their glider crashed into Loch Leven, a large body of water in Perth and Kinross, on Friday morning.Police Scotland said their bodies were recovered from the loch by the emergency services after the alarm was raised at 11.05am on Friday."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/20/glider-crash-loch-leven-scotland",
-   "image": "https://i.guim.co.uk/img/media/91c77301e443dd89b1325be4f66e27579f7324be/188_27_3719_2975/master/3719.jpg?width=140&quality=85&auto=format&fit=max&s=f7df03cf743c59650951c56622df1dd2",
-   "published_at": "2026-11-20T18:20:09Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "80154fe65d348e4eea809957b4b9d45fe5e1739d",
-   "title": "Denmark to expel Russian diplomat over alleged Moscow link to attempted killing of rapper",
-   "summary": [
-    "The expulsion will happen within seven days."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
-   "image": "https://i.guim.co.uk/img/media/7a1c4d4674629a24286f9343122e2c3d6d8fc9cb/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=1409e3209b705fa5f723d3e840a5bdf6",
-   "published_at": "2026-11-20T18:16:12Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "61854d96040f3cd91a43413a9f3185086ac35602",
-   "title": "No one else in Reform is suitable to lead the party, Nigel Farage says",
-   "summary": [
-    "Farage issues warning to potential rivals and says he will fight next election as leader if ‘still here and fit and healthy’Nigel Farage has said he does not see another person who could do his job as leader of Reform UK, in a warning shot to potential rivals who might seek to replace him.The Reform UK leader delivered a message that he was going nowhere despite his worries over his personal safety in the wake of the killing of the Reform politician Ann Widdecombe."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/20/nigel-farage-leadership-reform-uk-party",
-   "image": "https://i.guim.co.uk/img/media/f8e40ebdb59af4c88a35f0a5831e5d5d9dafb33f/0_183_3993_3194/master/3993.jpg?width=140&quality=85&auto=format&fit=max&s=0a8a7c5d4ac9722f7aba06c960582f4b",
-   "published_at": "2026-11-20T18:11:25Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "c8606f7a59d7ed6271509f467e072cd821b52b98",
-   "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
-   "summary": [
-    "But the move to make the food and drink deal also contingent on a tuition fees deal effectively seeks to neutralise the leverage the UK gets today.",
-    "This is a serious chess game and shows the EU, again, is willing to speak very warmly about the UK but will play absolute hard ball when it comes to conceding any points to a former member state.",
-    "The single biggest growth intervention in this Parliament.” Continue reading..."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
-   "image": "https://i.guim.co.uk/img/media/bb99120c2f7d41fd909aef903d962db65654e712/450_38_3420_2737/master/3420.jpg?width=140&quality=85&auto=format&fit=max&s=e9208e429a579acb941382730adfcc93",
-   "published_at": "2026-11-20T17:59:55Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "1efc3952f067ddc08e687f0664a84bfbd50beb3e",
-   "title": "Burnham seals trade and youth mobility deals in biggest step towards EU since Brexit",
-   "summary": [
-    "Agreements reached on food and drink, emissions and to allow young people to move around continent, but may be derailed over student fees Andy Burnham has taken the biggest step towards deeper ties with the EU since Brexit, sealing deals to ease trade and create a mobility scheme for young people as he declared a “new world” of cooperation between the two sides.At a major summit in Brussels on Friday the EU and UK announced three deals, on food and drink, emissions trading and a youth mobility scheme, which will allow 100,000 young Britons to live, work, study and travel in the EU, with reciprocal access for Europeans in the UK."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/20/burnham-trade-youth-mobility-deals-biggest-step-towards-eu-since-brexit",
-   "image": "https://i.guim.co.uk/img/media/94e3fae494c08ea928538429f7f3a3632e56c95d/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=7330433c679e71619cbff9f2d3090fc2",
-   "published_at": "2026-11-20T17:57:10Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "c7b977dd291cabfaad30ec9f000ea994f12e1461",
-   "title": "Zohran Mamdani unveils plan to close New York’s Rikers Island jail by 2032",
-   "summary": [
-    "The plan would replace the jail complex with four smaller jails and reduce the number of people behind bars."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/20/mamdani-unveils-plan-to-close-new-yorks-rikers-island-by-2032?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-20T17:54:55Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "e93e2ca783cbde7653679b1719607eb67507cff3",
-   "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-   "summary": [
-    "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-20T17:49:48Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "992dd27169f7eb0dae3aa276c291ccef3e0201e1",
-   "title": "US tech sell-off continues as Anthropic tumbles after mega IPO",
-   "summary": [
-    "Anthropic's listing had been viewed as a potential boost for an industry struggling to regain its footing."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/economy/2026/11/20/us-tech-sell-off-continues-as-anthropic-tumbles-after-mega-ipo?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-20T17:44:18Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "d2969e8f1e87c2810b234b9fe326d04a3ac0413f",
-   "title": "Protests held across Europe over wages, services, high living costs",
-   "summary": [
-    "Workers and students take to the streets as protests inspired by demonstrations in France show no sign of abating."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/20/protests-held-across-europe-over-wages-services-high-living-costs?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-20T17:32:32Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "7e6fb991af57f72d4745fae1c586c8c967b31176",
-   "title": "Qatar’s emir calls for diplomacy to end regional conflicts",
-   "summary": [
-    "Qatar’s Emir Sheikh Tamim bin Hamad Al Thani called for diplomatic efforts to de-escalate conflicts."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/qatars-emir-calls-for-diplomacy-to-end-regional-conflicts?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-20T17:18:58Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "af00d3fab5ed24354c67409de24e7b46bb463566",
-   "title": "Top US Democrat warns Trump admin against destroying records",
-   "summary": [
-    "In a new letter, Congressman Jamie Raskin says officials in the US government are ignoring federal recordkeeping laws."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/20/top-us-democrat-warns-trump-admin-against-destroying-records?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-20T17:05:42Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "48e1c5d74364aba4767d5ef17866e64044de8ad7",
-   "title": "UK far-right activist ‘Danny Tommo’ jailed for slashing migrant boat",
-   "summary": [
-    "Daniel Thomas livestreamed himself slashing a dinghy used to bring migrants from France to the UK."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/20/uk-far-right-activist-danny-tommo-jailed-for-slashing-migrant-boat?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-20T17:05:32Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "656cdb405835b5f584af8ab84bc2622d8d18383f",
-   "title": "Trump initially accepted the midterm results, but most GOP voters doubt they were fair",
-   "summary": [
-    "Less than half of Republicans nationwide considered the midterm elections \"free and fair,\" according to new polling.(Image credit: Spencer Platt)"
-   ],
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/20/nx-s1-6047605/midterm-election-distrust-republicans",
-   "image": null,
-   "published_at": "2026-11-20T17:00:00Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "1c65bd77cc62ed4b7467ad01519b49564d682e7f",
-   "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-   "summary": [
-    "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-20T16:54:29Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "e9650a9973c91d70adcd13eb8d5a0bdd144e48fa",
-   "title": "Latest botched execution prompts calls for US moratorium on lethal injections",
-   "summary": [
-    "The execution team had struggled to find a vein through which a lethal dose of the sedative pentobarbital could be administered."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/20/botched-execution-texas",
-   "image": "https://i.guim.co.uk/img/media/8c85117104e2840265e0eb69fe3f8c43a03b1629/716_0_3761_3010/master/3761.jpg?width=140&quality=85&auto=format&fit=max&s=58f690195335e90d4788be57ae1e012a",
-   "published_at": "2026-11-20T16:48:08Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "81c0414eb3e191b5a919ea55b87f519c8d794a0c",
-   "title": "Cost of living protests sweep across Europe",
-   "summary": [
-    "Thousands marched across European cities on Friday to protest against the cost of living and other issues."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-20T16:45:34Z",
+   "published_at": "2026-11-20T20:45:08Z",
    "category": "world",
    "related": []
   }
