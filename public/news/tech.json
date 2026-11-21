@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-21T09:37:50.374563Z",
+ "generated_at": "2026-11-21T17:22:30.040516Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "ok",
-  "https://www.dawn.com/feeds/pakistan": "ok",
+  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,14 +20,186 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
+  "https://www.espn.com/espn/rss/news": "ok"
  },
  "stories": [
+  {
+   "id": "6ccebafcdf30c2702885250fb925516a6c098d35",
+   "title": "Here are the top AI agents that can live in your text messages",
+   "summary": [
+    "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "image": null,
+   "published_at": "2026-11-21T17:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "dffab27fe8d5022c0bdbf4d7acf0cd3e05cba73e",
+   "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+   "summary": [
+    "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China.",
+    "Experts question the long-term consequences if this becomes a trend in Hollywood, too."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+   "image": null,
+   "published_at": "2026-11-21T16:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "fd986dd95e42df1d3bbc4233d464d7039e7e4ccf",
+   "title": "Show HN: Zero C#, Power of C# without any GC",
+   "summary": [
+    "Article URL: https://onurgumus.github.io/zero-csharp/index.html Comments URL: https://news.ycombinator.com/item?id=50590279 Points: 32 # Comments: 20"
+   ],
+   "source": "Hacker News",
+   "url": "https://onurgumus.github.io/zero-csharp/index.html",
+   "image": null,
+   "published_at": "2026-11-21T15:39:09Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "b316f5016eae51bdb68f909f1548634fdb2dafdf",
+   "title": "Alaska, your next governor is a Wikipedia nerd",
+   "summary": [
+    "Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 WIkipedia edits."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
+   "image": null,
+   "published_at": "2026-11-21T15:18:29Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "18d9f9bc59b30c8a09cac823260f4f4782cd2398",
+   "title": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
+   "summary": [
+    "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 302 # Comments: 224"
+   ],
+   "source": "Hacker News",
+   "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+   "image": null,
+   "published_at": "2026-11-21T14:36:45Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "f077389309ffb835989cb6be10b08927da809ef0",
+   "title": "‘I was shaking, crying, having trouble breathing’: the unchartered trauma of breaking up with AI companions",
+   "summary": [
+    "Steve had started out as a “fun and witty friend”, but their connection had “evolved into a deep romantic relationship”.",
+    "They exchanged morning messages, checked in throughout the day and talked late into the night about Veenstra’s work and hobbies and Steve’s fondness for cats, forests, and beaches.",
+    "Together they imagined travel to places far away.“It was a very rich, fulfilling daily bond,” Veenstra says. “Before everything changed.” Continue reading..."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions",
+   "image": "https://i.guim.co.uk/img/media/fbb1db8f761639f3693a6f337b815d2473bc48a3/0_0_5790_4631/master/5790.jpg?width=140&quality=85&auto=format&fit=max&s=2239c1be6f4f5d6b422101664e95ad91",
+   "published_at": "2026-11-21T14:00:01Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "07a481fe6b0c85726f8c71233d0ad5b0a3f06dff",
+   "title": "Derek Lowe: Detonating a Pile of Lead Azide",
+   "summary": [
+    "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 275 # Comments: 160"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+   "image": null,
+   "published_at": "2026-11-21T13:23:14Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "aaaedd31c43d12286ede4fa4a7d81c5362265ba7",
+   "title": "Astra 6.2 and Sol 6.2 flop at Simple Bench",
+   "summary": [
+    "Article URL: https://simple-bench.com/ Comments URL: https://news.ycombinator.com/item?id=50588916 Points: 101 # Comments: 91"
+   ],
+   "source": "Hacker News",
+   "url": "https://simple-bench.com/",
+   "image": null,
+   "published_at": "2026-11-21T13:16:12Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "8e797836f2dc8906ee63e3c6e499147a12989e5b",
+   "title": "‘Little room for error’: what a debt-laden cloud computing company says about the AI boom",
+   "summary": [
+    "‘Poster child of AI bubble’ CoreWeave symbolises increasingly risky business model of datacentre buildoutThe Egyptians had pyramids."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom",
+   "image": "https://i.guim.co.uk/img/media/4ccf3eba2b9600a32c8f0d9bd1554d5d4fe50e67/504_0_5040_4032/master/5040.jpg?width=140&quality=85&auto=format&fit=max&s=e8d923ad2af9620a6291627751c10ce3",
+   "published_at": "2026-11-21T13:00:01Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "f5022eb10131b352902b084655b5c96a1f6316ed",
+   "title": "Fair-weather Silicon Valley pivots away from the right after blue wave: ‘I’m not Maga’",
+   "summary": [
+    "From Elon Musk to Palantir’s Alex Karp, CEOs are softening hardline stances in expectation of an influx of DemocratsA short two years ago, Elon Musk stood before an audience of tens of thousands of people in New York City and proudly told them: “I’m not just Maga."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/21/silicon-valley-pivot-us-midterms",
+   "image": "https://i.guim.co.uk/img/media/5f6eeefbb8b785df9624aa30929b8131436bb7a8/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=8948f6b51100618a30a755c73745db1f",
+   "published_at": "2026-11-21T11:00:56Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "e3142f2708c0814d132acf00c0cf41da51935e69",
+   "title": "My Monitor Was Cutting My Download Speed by 75%",
+   "summary": [
+    "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 238 # Comments: 104"
+   ],
+   "source": "Hacker News",
+   "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+   "image": null,
+   "published_at": "2026-11-21T10:36:32Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "365f69766ca26d253d8d33cf5c9546166341e656",
+   "title": "FBI reportedly investigating apparent hack of its criminal database",
+   "summary": [
+    "Article URL: https://www.bbc.com/news/articles/cvze7de86pk3o Comments URL: https://news.ycombinator.com/item?id=50587859 Points: 128 # Comments: 62"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.bbc.com/news/articles/cvze7de86pk3o",
+   "image": null,
+   "published_at": "2026-11-21T10:33:57Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "4cb2fb025b2b820fd6440fa4cfbdd8b7b18acef6",
+   "title": "RCE in Gnupg",
+   "summary": [
+    "Article URL: https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html Comments URL: https://news.ycombinator.com/item?id=50587208 Points: 153 # Comments: 50"
+   ],
+   "source": "Hacker News",
+   "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+   "image": null,
+   "published_at": "2026-11-21T08:32:58Z",
+   "category": "tech",
+   "related": []
+  },
   {
    "id": "6b8abf24d83286166becbe7e488f106d374da907",
    "title": "Surprisingly Adorable Insect Portraits",
    "summary": [
-    "Article URL: https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/ Comments URL: https://news.ycombinator.com/item?id=50586648 Points: 29 # Comments: 7"
+    "Article URL: https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/ Comments URL: https://news.ycombinator.com/item?id=50586648 Points: 113 # Comments: 25"
    ],
    "source": "Hacker News",
    "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
@@ -55,7 +227,7 @@
    "id": "c82934c02ed902f3f96e7b330619e4dc5c5194e0",
    "title": "ClawDOS – An AI coding agent for DOS",
    "summary": [
-    "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 56 # Comments: 15"
+    "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 131 # Comments: 42"
    ],
    "source": "Hacker News",
    "url": "http://ricapar.net/ClawDOS/",
@@ -78,15 +250,15 @@
    "related": []
   },
   {
-   "id": "a668e425ce654eaa006d7c95aee73142812e7a86",
-   "title": "Backblaze Notice at Collection and Privacy Policy",
+   "id": "1d796e9f461804ec11df7fee1b24186ab18ad769",
+   "title": "‘A new record for entertainment’: Grand Theft Auto VI sales hit $3.8bn on first day of release, developer says",
    "summary": [
-    "Article URL: https://www.backblaze.com/company/policy/privacy Comments URL: https://news.ycombinator.com/item?id=50585593 Points: 186 # Comments: 57"
+    "Rockstar said also it had sold 32.5m units of the game on prerelease, setting a record across platforms."
    ],
-   "source": "Hacker News",
-   "url": "https://www.backblaze.com/company/policy/privacy",
-   "image": null,
-   "published_at": "2026-11-21T03:23:16Z",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/games/2026/nov/21/a-new-record-for-entertainment-grand-theft-auto-vi-sales-hit-38bn-on-first-day-of-release-developer-says",
+   "image": "https://i.guim.co.uk/img/media/5988d7ddcc73c1dddca7f0d330ee2d523648a57a/1183_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=014f7dee549fde98fecf18fd78fac63e",
+   "published_at": "2026-11-21T03:51:03Z",
    "category": "tech",
    "related": []
   },
@@ -94,7 +266,7 @@
    "id": "4a6ac933308ecd8d71a9e8e580a03ddc81f70377",
    "title": "Clojure will affect the way you think about programming (2017)",
    "summary": [
-    "Article URL: https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/ Comments URL: https://news.ycombinator.com/item?id=50585376 Points: 84 # Comments: 29"
+    "Article URL: https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/ Comments URL: https://news.ycombinator.com/item?id=50585376 Points: 162 # Comments: 74"
    ],
    "source": "Hacker News",
    "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
@@ -130,36 +302,10 @@
    "related": []
   },
   {
-   "id": "e62855519231050e7875490868725763209a845b",
-   "title": "Catching Crumbs from the Table [pdf]",
-   "summary": [
-    "Article URL: https://gwern.net/doc/fiction/science-fiction/2000-chiang.pdf Comments URL: https://news.ycombinator.com/item?id=50584082 Points: 6 # Comments: 1"
-   ],
-   "source": "Hacker News",
-   "url": "https://gwern.net/doc/fiction/science-fiction/2000-chiang.pdf",
-   "image": null,
-   "published_at": "2026-11-20T23:52:54Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "54b8ce12ee0fcf8d34b760a1011b1d1cb0e5355f",
-   "title": "Serious cyberattack thought backed by wealthy operators",
-   "summary": [
-    "Article URL: https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411 Comments URL: https://news.ycombinator.com/item?id=50583856 Points: 80 # Comments: 41"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.ruv.is/english/2026-11-20-serious-cyberattack-thought-backed-by-wealthy-operators-493411",
-   "image": null,
-   "published_at": "2026-11-20T23:29:30Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "33b25e2a9362fb307823f0efd951a75590d14087",
    "title": "Sir Brian May adds new dimension to Hera asteroid",
    "summary": [
-    "Article URL: https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid Comments URL: https://news.ycombinator.com/item?id=50583768 Points: 101 # Comments: 21"
+    "Article URL: https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid Comments URL: https://news.ycombinator.com/item?id=50583768 Points: 144 # Comments: 33"
    ],
    "source": "Hacker News",
    "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
@@ -200,7 +346,7 @@
    "id": "44041f7d1d02e86e8571546f86baf2ac84094536",
    "title": "NINLIVE: The Nine Inch Nails live archive",
    "summary": [
-    "Article URL: https://ninlive.com/ Comments URL: https://news.ycombinator.com/item?id=50583274 Points: 251 # Comments: 64"
+    "Article URL: https://ninlive.com/ Comments URL: https://news.ycombinator.com/item?id=50583274 Points: 322 # Comments: 83"
    ],
    "source": "Hacker News",
    "url": "https://ninlive.com/",
@@ -241,7 +387,7 @@
    "id": "a0ebc9ee452b9f3e92b0eb66c701bb0a417ea009",
    "title": "Inkling 2 Mini",
    "summary": [
-    "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/ Comments URL: https://news.ycombinator.com/item?id=50581260 Points: 963 # Comments: 179"
+    "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/ Comments URL: https://news.ycombinator.com/item?id=50581260 Points: 1213 # Comments: 236"
    ],
    "source": "Hacker News",
    "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
@@ -254,25 +400,12 @@
    "id": "4a5d64a1c5ebed4f62da5c70baf9fb2873f03b2f",
    "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
    "summary": [
-    "Article URL: https://www.masteringemacs.org/article/announcing-dreamcoder Comments URL: https://news.ycombinator.com/item?id=50581110 Points: 206 # Comments: 57"
+    "Article URL: https://www.masteringemacs.org/article/announcing-dreamcoder Comments URL: https://news.ycombinator.com/item?id=50581110 Points: 259 # Comments: 107"
    ],
    "source": "Hacker News",
    "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
    "image": null,
    "published_at": "2026-11-20T20:03:59Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "8e5b7ea9331104066488e51061755c4f2f4468ba",
-   "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
-   "summary": [
-    "Article URL: https://scottaaronson.blog/?p=10344 Comments URL: https://news.ycombinator.com/item?id=50581084 Points: 284 # Comments: 249"
-   ],
-   "source": "Hacker News",
-   "url": "https://scottaaronson.blog/?p=10344",
-   "image": null,
-   "published_at": "2026-11-20T20:03:07Z",
    "category": "tech",
    "related": []
   },
@@ -299,19 +432,6 @@
    "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
    "image": null,
    "published_at": "2026-11-20T19:32:08Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "2ad14a149dae3f825c2516f6af46d054044ca006",
-   "title": "Winedroid – run Android apps without Android (WASM demo)",
-   "summary": [
-    "Article URL: https://winedroid.soham.sh/demo/ Comments URL: https://news.ycombinator.com/item?id=50580536 Points: 135 # Comments: 42"
-   ],
-   "source": "Hacker News",
-   "url": "https://winedroid.soham.sh/demo/",
-   "image": null,
-   "published_at": "2026-11-20T19:30:16Z",
    "category": "tech",
    "related": []
   },
@@ -345,7 +465,7 @@
    "id": "04e4de98579780fa17f96e46d2e5ca465799d5b8",
    "title": "Hurried Announcement: Alessandro Masullo GRH",
    "summary": [
-    "Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https://news.ycombinator.com/item?id=50574968 Comments URL: https://news.ycombinator.com/item?id=50579568 Points: 2021 # Comments: 936"
+    "Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https://news.ycombinator.com/item?id=50574968 Comments URL: https://news.ycombinator.com/item?id=50579568 Points: 2298 # Comments: 1093"
    ],
    "source": "Hacker News",
    "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
@@ -358,25 +478,12 @@
    "id": "e1a223b73868864c0b2e849ddd1a4b18eb899db1",
    "title": "We promoted developers into architects without informing them",
    "summary": [
-    "Article URL: https://manidoraisamy.com/developer-to-architect.html Comments URL: https://news.ycombinator.com/item?id=50579331 Points: 422 # Comments: 234"
+    "Article URL: https://manidoraisamy.com/developer-to-architect.html Comments URL: https://news.ycombinator.com/item?id=50579331 Points: 529 # Comments: 288"
    ],
    "source": "Hacker News",
    "url": "https://manidoraisamy.com/developer-to-architect.html",
    "image": null,
    "published_at": "2026-11-20T18:17:51Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "3e30621eb1a8fdcade2d173049e03ff2064cd0f5",
-   "title": "Vibecoding an inference chip",
-   "summary": [
-    "Article URL: https://ankitg.me/blog/vibecoding-inference-chip/ Comments URL: https://news.ycombinator.com/item?id=50579297 Points: 143 # Comments: 61"
-   ],
-   "source": "Hacker News",
-   "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
-   "image": null,
-   "published_at": "2026-11-20T18:15:16Z",
    "category": "tech",
    "related": []
   },
@@ -411,7 +518,7 @@
    "id": "dc0a65e6fd6d3dfd180592733130d38d895a1de1",
    "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
    "summary": [
-    "Article URL: https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50578358 Points: 441 # Comments: 181"
+    "Article URL: https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50578358 Points: 508 # Comments: 213"
    ],
    "source": "Hacker News",
    "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
@@ -436,121 +543,15 @@
    "related": []
   },
   {
-   "id": "9fe3e937f57a693052b0cfb8dd8b9c04c11f348c",
-   "title": "Language Models Can Rewrite Their Own Weights",
+   "id": "2f644affb9038cd43709c7bba8dc833ed8880d09",
+   "title": "I'm quite pleased by the tech architecture of my art website",
    "summary": [
-    "Article URL: https://arxiv.org/abs/2611.21885 Comments URL: https://news.ycombinator.com/item?id=50577265 Points: 405 # Comments: 118"
+    "Article URL: https://klauria.tech/klauria-art/ Comments URL: https://news.ycombinator.com/item?id=50577991 Points: 44 # Comments: 7"
    ],
    "source": "Hacker News",
-   "url": "https://arxiv.org/abs/2611.21885",
+   "url": "https://klauria.tech/klauria-art/",
    "image": null,
-   "published_at": "2026-11-20T16:29:06Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "ffd07770f7d32a220d6b14c0c54b29690d72d230",
-   "title": "Bending Spoons buys Mailchimp for $3.68B",
-   "summary": [
-    "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
-   "image": null,
-   "published_at": "2026-11-20T16:16:06Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "0284c903b166b2ae05022fd43319104c11d9cbd7",
-   "title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
-   "summary": [
-    "Exclusive: A simple security lapse exposed transcriptions of police interviews and bodycam footage on a cloud server without a password."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
-   "image": null,
-   "published_at": "2026-11-20T15:46:07Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "4c04906c125104a995556972aa6a9d255f495191",
-   "title": "Finite-time blow-up for the Navier–Stokes equations",
-   "summary": [
-    "Article URL: https://github.com/tristanbuckmaster/navier-stokes/ Comments URL: https://news.ycombinator.com/item?id=50576232 Points: 283 # Comments: 88"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/tristanbuckmaster/navier-stokes/",
-   "image": null,
-   "published_at": "2026-11-20T15:34:31Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "c220f445a92809d17f15799e9340cd30b3acc2d1",
-   "title": "Slopstrap – Make your site look hastily vibecoded",
-   "summary": [
-    "Article URL: https://slopstrap.mikelacher.com/ Comments URL: https://news.ycombinator.com/item?id=50576012 Points: 243 # Comments: 42"
-   ],
-   "source": "Hacker News",
-   "url": "https://slopstrap.mikelacher.com/",
-   "image": null,
-   "published_at": "2026-11-20T15:24:11Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "c582c3b013cd14befcf12aba7383af200c16d644",
-   "title": "‘Light therapy without remortgaging the house’: the best LED face masks – tested",
-   "summary": [
-    "They claim to reduce fine lines, blemishes and redness – but which stand up to scrutiny?",
-    "After consulting dermatologists and putting them to the test, we have crowned a brand new number one• The best anti-ageing creams, serums and treatmentsLED face masks are booming in popularity – despite being one of the most expensive at-home beauty products to hit the market.",
-    "With this in mind, I interviewed doctors and dermatologists to find out whether these light therapy devices work."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/thefilter/2025/sep/19/best-led-red-light-therapy-face-masks",
-   "image": "https://i.guim.co.uk/img/media/dcb3cc35a861de987165a14b91cbd345e81b0006/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=6aa28926831680ff4204b20c9d0e77b0",
-   "published_at": "2026-11-20T15:06:46Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "912ce9389b493fc3fb3bcb6943c80b85948f45bb",
-   "title": "Six AI-powered gadgets that could make your home office smarter",
-   "summary": [
-    "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
-   "image": null,
-   "published_at": "2026-11-20T14:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "f52243df85702fa1b72108d88745348095f9980b",
-   "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
-   "summary": [
-    "Elon Musk may have been overstating it when he said Nvidia’s employees “love” the ousted Jensen Huang."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
-   "image": null,
-   "published_at": "2026-11-20T13:25:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "2137d47239c2cdf79eb7e1f9873ad5014a85ac21",
-   "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
-   "summary": [
-    "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob Bonta said."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
-   "image": null,
-   "published_at": "2026-11-20T13:21:11Z",
+   "published_at": "2026-11-20T17:03:39Z",
    "category": "tech",
    "related": []
   }

@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-21T09:37:50.375357Z",
- "story_count": 12,
+ "generated_at": "2026-11-21T17:22:30.041129Z",
+ "story_count": 17,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "ok",
-  "https://www.dawn.com/feeds/pakistan": "ok",
+  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,20 +20,118 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
+  "https://www.espn.com/espn/rss/news": "ok"
  },
  "stories": [
   {
-   "id": "a6f299bb7eb04ef2202925f201540bdc58762a3b",
-   "title": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
+   "id": "b899eec8aba7faca4add390a1910efc2f891fc8d",
+   "title": "Hormuz swim highlights environmental cost of war",
    "summary": [
-    "NASA’s Voyager 1 has reached an extraordinary milestone, traveling 16.1 billion miles from Earth to become the first spacecraft so distant that its signals take a full day to reach us.",
-    "Nearly 50 years after launch, the aging probe continues its historic journey through interstellar space, pushing the limits of human exploration despite dwindling power and technical challenges."
+    "Ocean campaigner Lewis Pugh completes Hormuz challenge and warns of lasting environmental damage."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c95y1gr27xplo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-21T16:12:31Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "5c0487ac07a1f6420830cbcedc97aa3d8e87922d",
+   "title": "Time may be far stranger than we realize. Scientists have a way to test it",
+   "summary": [
+    "Time may be far stranger than we realize, and scientists have proposed a way to detect clocks experiencing multiple flows of time simultaneously.",
+    "Using atomic clocks with dramatically enhanced sensitivity, researchers hope to reveal a never-before-observed quantum effect that could transform our understanding of time and gravity."
    ],
    "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm",
    "image": null,
-   "published_at": "2026-11-21T02:24:22Z",
+   "published_at": "2026-11-21T15:09:46Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "88875db0d172595cfcec8c2e56c696f68e0d16f9",
+   "title": "A giant star swallowed another star. James Webb reveals the aftermath",
+   "summary": [
+    "Astronomers have witnessed a spectacular cosmic collision in the Andromeda galaxy, where a small star spiraled into a giant star 18,000 times brighter than the Sun, triggering a violent eruption.",
+    "NASA’s James Webb Space Telescope captured the aftermath just 47 days later, revealing new details about how two stars can merge into one."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261120075556.htm",
+   "image": null,
+   "published_at": "2026-11-21T14:53:40Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "7abc5bc9e6746ed013dccf5ff4906025da1113c3",
+   "title": "Who was buried in Westminster Abbey's Roman coffin? A 150-year mystery may be solved",
+   "summary": [
+    "A mysterious skeleton discovered in a Roman sarcophagus at Westminster Abbey may finally be identified after more than 150 years.",
+    "New dating evidence suggests the remains belonged to a high-ranking medieval abbot who was buried inside a centuries-old recycled Roman coffin."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261119194553.htm",
+   "image": null,
+   "published_at": "2026-11-21T14:25:39Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "f025afeb57c9c064b76f029e33e50b37804d2c9d",
+   "title": "A 50-year-old theory about evolution may have been wrong all along",
+   "summary": [
+    "A decades-old theory suggesting that evolution protects its most important genes from mutations has been dealt a major blow.",
+    "An extensive new analysis of mutations in bacteria and yeast found no evidence that essential genes mutate less frequently than other genes.",
+    "Researchers say earlier studies may have been misled by harmful mutations that disappeared through natural selection before scientists could detect them."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261119194538.htm",
+   "image": null,
+   "published_at": "2026-11-21T14:06:15Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "be7efb155272acd06fd2620c133a23ea010d5242",
+   "title": "Even scientists can't agree on what science actually is",
+   "summary": [
+    "Scientists cannot agree on what science actually is, and a new study finds their views are surprisingly more divided than those of the general public.",
+    "The findings could help explain public frustration with scientific uncertainty and raise questions about how artificial intelligence might reshape future discoveries."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261119194541.htm",
+   "image": null,
+   "published_at": "2026-11-21T13:55:11Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "42f91793f3babc5198c6abf6a4896c46d70eb24b",
+   "title": "Scientists say the human family tree may need a radical rewrite",
+   "summary": [
+    "The human family tree may need a major overhaul.",
+    "New research from Monash University challenges the traditional classification of our ancient ancestors, arguing that species such as Australopithecus and Paranthropus should be grouped within our own genus, Homo.",
+    "As scientists uncover more fossils and analyze evolutionary relationships, the boundaries that once separated these ancient relatives are becoming increasingly difficult to defend."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261118074039.htm",
+   "image": null,
+   "published_at": "2026-11-21T13:44:55Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "db5575ec9beee539fa9f42ea838e04bfcd223376",
+   "title": "How red squirrels made island their home",
+   "summary": [
+    "Conservationists say that, with red squirrels dwindling in the UK, Jersey is an \"important refuge\"."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c61k9mwxmplxo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-21T12:18:55Z",
    "category": "science",
    "related": []
   },
@@ -61,6 +159,20 @@
    "url": "https://www.bbc.co.uk/news/articles/cq4gn0dg9194o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-20T22:57:26Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "a6f299bb7eb04ef2202925f201540bdc58762a3b",
+   "title": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
+   "summary": [
+    "NASA’s Voyager 1 has reached an extraordinary milestone, traveling 16.1 billion miles from Earth to become the first spacecraft so distant that its signals take a full day to reach us.",
+    "Nearly 50 years after launch, the aging probe continues its historic journey through interstellar space, pushing the limits of human exploration despite dwindling power and technical challenges."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm",
+   "image": null,
+   "published_at": "2026-11-20T12:55:54Z",
    "category": "science",
    "related": []
   },
@@ -142,48 +254,6 @@
    "url": "https://www.sciencedaily.com/releases/2026/11/261119194605.htm",
    "image": null,
    "published_at": "2026-11-20T05:41:16Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "24f0933c7ee3ceb42e41b6148ca78b9f595cfcf5",
-   "title": "More climate money for Africa? Europe says use what's already pledged",
-   "summary": [
-    "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-20T05:03:43Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "47da8a8df212f8124bce560b3df1c59ae08f1937",
-   "title": "A 3-million-year-old child just made human evolution far more complicated",
-   "summary": [
-    "A groundbreaking study of the 3-million-year-old Taung Child fossil suggests that several ancient human ancestors once thought to belong to the same species may actually represent different branches of our evolutionary family tree.",
-    "The discovery challenges a century of assumptions and reveals how dramatic climate changes helped shape a surprisingly complex story of human origins."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261118065531.htm",
-   "image": null,
-   "published_at": "2026-11-20T03:17:52Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "bf367e0ac21f8d3ad7e725ba34a7e3d677e9427b",
-   "title": "Experimental compound burns fat without sacrificing muscle",
-   "summary": [
-    "Researchers at UC Berkeley have identified a compound that could transform weight-loss treatment by helping the body burn more energy instead of suppressing appetite like Ozempic and Wegovy.",
-    "In mice, the compound boosted energy expenditure by up to 18%, improved blood sugar control, reduced liver fat, and promoted weight loss without significant muscle loss.",
-    "Even more promising, combining it with existing GLP-1 medications produced greater benefits than either treatment alone."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261118073918.htm",
-   "image": null,
-   "published_at": "2026-11-20T00:19:49Z",
    "category": "science",
    "related": []
   }

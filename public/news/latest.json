@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-21T09:37:50.372251Z",
+ "generated_at": "2026-11-21T17:22:30.038684Z",
  "story_count": 60,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "ok",
-  "https://www.dawn.com/feeds/pakistan": "ok",
+  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,825 +20,803 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
+  "https://www.espn.com/espn/rss/news": "ok"
  },
  "stories": [
   {
-   "id": "be893221aedd1293ee03ea6b6bee17ca6a07ee5e",
-   "title": "Cummins' integrity not compromised - Cricket Australia",
+   "id": "01bc620cb8045233690a8ec33684b404a1055d50",
+   "title": "Chelsea beaten 4-1 by Leeds United at home in the Premier League",
    "summary": [
-    "Cricket Australia has \"unequivocally rejected\" the suggestion that captain Pat Cummins' integrity has been compromised by the sandpaper scandal."
+    "Leeds come from a goal down at Stamford Bridge to shock Chelsea and climb above their hosts to sixth in Premier League."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/11/21/chelsea-beaten-4-1-by-leeds-united-at-home-in-the-premier-league?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T17:21:37Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "cf2547504110fc73f54a8ad1892a8fe2983f85ec",
+   "title": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
+   "summary": [
+    "Attack on Kryvyi Rih comes as Russian missiles land in NATO member Poland and US-led peace efforts face uncertainty."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T17:20:03Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "6654cfb3c9eaf2731c6705eab80092191f3b11e2",
+   "title": "A challenge for Tennessee, Big Ten road tests and 40 other key contests",
+   "summary": [
+    "The Vols and Lane Kiffin meet again, and fringe CFP contenders try to stay alive on a sneaky-good Week 12 slate."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/college-football/story/_/id/50532397/connelly-week-12-preview-big-ten-tennessee",
+   "image": null,
+   "published_at": "2026-11-21T17:18:57Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "ceffc12dd6d63c33d3d3445ea25997ce20cc8795",
+   "title": "Florida State's turquoise threads headline best uniforms of CFB Week 12",
+   "summary": [
+    "The color, which represents harmony, friendship and fellowship throughout Native American communities, pays homage to the school's relationship with the Seminole Tribe."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/college-football/story/_/id/50534624/week-12-college-football-uniforms-florida-state",
+   "image": null,
+   "published_at": "2026-11-21T17:18:57Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "d6c5a89506a4db9e4dea39435e4b8a509c5fa9ab",
+   "title": "'Run it forward': Reigning champion Bruins focused on far more than a repeat",
+   "summary": [
+    "UCLA is back with a revamped roster and a commitment not to run it back but to grow and find joy along the way."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/womens-college-basketball/story/_/id/50535067/ucla-bruins-defending-ncaa-champion-repeat",
+   "image": null,
+   "published_at": "2026-11-21T17:13:18Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "af73bf29dced233d74b6de747cb7849af82c732d",
+   "title": "Feast Week guide: South Carolina-UConn and the 26 biggest games to watch",
+   "summary": [
+    "Here comes South Carolina-UConn, three USC games and more big nonconference matchups (and the ACC opener)."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/womens-college-basketball/story/_/id/50513465/2026-womens-feast-week-thanksgiving-tournament-schedule",
+   "image": null,
+   "published_at": "2026-11-21T17:13:18Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "cbaa405e375f1bceeac11831b49454f87cab0db8",
+   "title": "Power Rankings: Duke keeps dropping, Kansas takes top spot",
+   "summary": [
+    "Among many Top 25 teams that suffered losses this week, including Duke and Florida, Kansas survived to take No. 1."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/mens-college-basketball/story/_/id/50523371/mens-college-basketball-power-rankings",
+   "image": null,
+   "published_at": "2026-11-21T17:12:54Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "e2626f0e67a7c7a730cb5ade33bfb54b8dfbedaf",
+   "title": "LSU, Duke, UConn hold serve in the expanded top 25 recruiting class rankings",
+   "summary": [
+    "The post-early signing window class rankings have LSU at the top, followed by Duke and UConn."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/mens-college-basketball/story/_/id/50242145/2027-mens-basketball-recruiting-class-rankings",
+   "image": null,
+   "published_at": "2026-11-21T17:12:54Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "e80685b8f602b1087dd9cbe5fe5f66027c62965d",
+   "title": "NFL Week 11 best bets for Sunday's games",
+   "summary": [
+    "Our experts dive into the odds and player props for Week 11 and offer their betting tips and favorite plays."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/espn/betting/story/_/id/50534274/week-11-nfl-odds-touchdown-props-best-bets-sunday-games",
+   "image": null,
+   "published_at": "2026-11-21T17:10:52Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "c6465207e45005b53ebfc2d2972f20b65cb7b062",
+   "title": "NBA betting roundtable: MVP picks, playoff long shots and futures worth betting",
+   "summary": [
+    "The NBA betting experts share their favorite future bets, including Rookie of the Year, MVP and more."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/espn/betting/story/_/id/50538678/nba-betting-mvp-rookie-year-playoff-longshots-2026-2027",
+   "image": null,
+   "published_at": "2026-11-21T17:10:52Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "1b6a15c8294517c84be1c26387c793ee70b1d772",
+   "title": "Ireland v South Africa: Nations Championship rugby union – live",
+   "summary": [
+    "Nations Championship updates, 4.40pm GMT kick-off Follow us on TikTok | And email Lee about the game7 mins.",
+    "A poor restart drill from SA hands the ball to Ireland on the attack and in a good position.",
+    "Prendergast almost finds some space out wide before the door is closed to Baloucoune and then Baird when he takes a turn to carry from the ruck.Diminishing returns set in, but there is an advantage for the Boks offside."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/live/2026/nov/21/ireland-v-south-africa-nations-championship-rugby-union-live",
+   "image": "https://i.guim.co.uk/img/media/4f37f41ac27625fb235264638153581be7f3760a/499_0_5332_4264/master/5332.jpg?width=140&quality=85&auto=format&fit=max&s=401395ace44f07668a3ca783c8c8d385",
+   "published_at": "2026-11-21T17:10:43Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "1e3a45b5944ec08067792e29f90b0292827c281a",
+   "title": "In Mexico City, 49ers' Fred Warner will represent his heritage -- and he can boost his DPOY case",
+   "summary": [
+    "Warner will represent his heritage again Sunday in Mexico City.",
+    "This time while in the middle of the best Defensive Player of the Year campaign of his career."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/nfl/story/_/id/50535108/san-francisco-49ers-fred-warner-mexican-heritage-dpoy",
+   "image": null,
+   "published_at": "2026-11-21T17:10:25Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "d4b4aeba14cfa30c4cedb9b2b684e1b8aa676bce",
+   "title": "Eight stadiums, seven countries: NFL field director has earned a break",
+   "summary": [
+    "Nick Pappas is the man charged with making sure international venues are up to standard to host NFL games."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/nfl/story/_/id/50534594/mf-field-director-versus-international-games",
+   "image": null,
+   "published_at": "2026-11-21T17:10:25Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "3e729d0df1f09eee7696083188e93523f35f5cb8",
+   "title": "Last-minute pickups for Week 11: Flournoy, Ayomanor among top candidates",
+   "summary": [
+    "There is no busier bye week than this one.",
+    "Matt Bowen lists potential options if you need a fill-in."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/fantasy/football/story/_/id/50532835/fantasy-football-streamers-last-minute-pickups-week-11",
+   "image": null,
+   "published_at": "2026-11-21T17:09:41Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "40f9a33b2048a4ebcf2f28cd62106be0dae19a6c",
+   "title": "What to know to set your lineup: Opportunity knocking for these Titans, Broncos",
+   "summary": [
+    "Adam Rank catches you up on the vital information and insights before you make your toughest lineup decisions."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/fantasy/football/story/_/id/50531472/fantasy-football-start-sit-week-11-need-know",
+   "image": null,
+   "published_at": "2026-11-21T17:09:41Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "e57c0e4d879e0707e289a1a8533c83f06591afd0",
+   "title": "NHL Tonight: What to watch in all 14 games on Saturday",
+   "summary": [
+    "Find game previews, betting intel, broadcast information, stats and highlights here."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/nhl/story/_/id/50542625/nhl-2026-27-tonight-games-schedule-matchups-stats-top-players-betting",
+   "image": null,
+   "published_at": "2026-11-21T17:08:03Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "c6df975417e45e2f6e0f14d6068fa056b008cec9",
+   "title": "Power Rankings: Updated poll, plus fantasy hockey add/drops",
+   "summary": [
+    "The Hurricanes remain atop the list, while the Senators made a big leap."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/nhl/story/_/id/50532384/nhl-2026-27-power-rankings-top-teams-players-stats-projections-standings-fantasy-hockey",
+   "image": null,
+   "published_at": "2026-11-21T17:08:03Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "48dc2bce666a58e498d48cc853158c7db5aa027c",
+   "title": "Newcastle United v Arsenal: Premier League – live",
+   "summary": [
+    "⚽️ Premier League updates from the 5.30pm GMT kick-off⚽️ Live scores | Latest table | Follow us on TikTok | Mail RobMikel Arteta on Bruno Guimaraes’s inclusionHe’s prepared emotionally; he knows to accept.",
+    "We have to be very dominant emotionally to attack Newcastle in the way we want, and he’s ready to do that."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/live/2026/nov/21/newcastle-united-v-arsenal-premier-league-live",
+   "image": "https://i.guim.co.uk/img/media/71c36cc661d57528c90b0a2a862ebd52bebfec72/198_0_6361_5090/master/6361.jpg?width=140&quality=85&auto=format&fit=max&s=b3dffc9b10574ae32f1a869051b527e3",
+   "published_at": "2026-11-21T17:07:05Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "a5ccfb1466e09c82868d2bcfdffaca7fc756a45a",
+   "title": "Chelsea 1-4 Leeds, Tottenham 2-0 Ipswich, and more: football clockwatch – live",
+   "summary": [
+    "⚽️ Follow updates from the Premier League and beyond⚽️ Live scores | Table | Follow on TikTok | And mail EmilliaChampionship fixturesMillwall 0-1 QPRNorwich City 2-1 Cardiff CitySouthampton 2-0 Derby CountyWest Ham v Preston North EndBolton Wanderers v PortsmouthMiddlesbrough v B"
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/live/2026/nov/21/chelsea-v-leeds-tottenham-v-ipswich-and-more-football-clockwatch-live",
+   "image": "https://i.guim.co.uk/img/media/6b2e1f33ffafdb432f7797aa82340363c5d96cc0/114_0_3108_2487/master/3108.jpg?width=140&quality=85&auto=format&fit=max&s=a8fe048bc79d1ed7c223e89d098dc421",
+   "published_at": "2026-11-21T17:04:01Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "6ccebafcdf30c2702885250fb925516a6c098d35",
+   "title": "Here are the top AI agents that can live in your text messages",
+   "summary": [
+    "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "image": null,
+   "published_at": "2026-11-21T17:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "19072253fde5a4cdc9da5986b8fb02d45f253d12",
+   "title": "Teenage ace Williams-Barnett puts Tottenham on path to win over Ipswich",
+   "summary": [
+    "Not since the emergence of a certain Harry Kane has there been this much excitement about a player from Tottenham’s academy.",
+    "Tottenham have struggled to match their London rivals Arsenal and Chelsea’s record of producing homegrown players in recent years but they appear to have struck gold with Williams-Barnett."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/21/tottenham-ipswich-premier-league-match-report",
+   "image": "https://i.guim.co.uk/img/media/53f1dc6f7ac06615f3cf6886146797ae9a2bd896/423_0_4232_3385/master/4232.jpg?width=140&quality=85&auto=format&fit=max&s=f6eadd7d3bd3f450a84d235ed4391ace",
+   "published_at": "2026-11-21T16:58:31Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "46529da650605130f426aca2d09623b51e9bb793",
+   "title": "Carlos Alcaraz beats Ben Shelton in final-set tie-break to reach ATP Finals final – as it happened",
+   "summary": [
+    "And being a left-hander, Shelton will hope his ferocious cross-court forehand can stretch Alcaraz on the backhand side and put pressure on that injured hamstring.",
+    "Shelton’s biggest weapon, of course though, is his serve.As for the head-to-head, Alcaraz leads 4-1, with Shelton’s only victory coming in that US Open quarter-final in September.",
+    "Alcaraz has beaten Shelton indoors twice before: in the Paris Masters final two weeks ago and at the Laver Cup in 2024."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/live/2026/nov/21/atp-finals-tennis-carlos-alcaraz-v-ben-shelton-live-semi-final-updates",
+   "image": "https://i.guim.co.uk/img/media/18bad5906412c5a19e7ff1a579c93e5094c397f0/499_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=b9eea6cf063549323f7052d62ceb129a",
+   "published_at": "2026-11-21T16:47:40Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "e34689196331b291e72b2dba5ebf89378f7fcfed",
+   "title": "Ex-captain Moody joins England in emotional haka response",
+   "summary": [
+    "Former England captain Lewis Moody joins the current team to face New Zealand's haka in an emotional start to Saturday's Test match at Allianz Stadium."
    ],
    "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/cricket/articles/c65y1gjnqe50o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c5vg2ppp90w8o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-21T09:32:48Z",
+   "published_at": "2026-11-21T16:42:55Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "273df0736f1bb789c3db4075905ff0a0311b0c13",
-   "title": "Premier League resumes, Kane facing spell on sidelines: football news – matchday live",
+   "id": "3500af305ed03afde70d667f66c4c065b614b69e",
+   "title": "Anthropic mathematician claims he used Claude to prove 19th-century Riemann hypothesis",
    "summary": [
-    "A lot of Arsenal’s dynamism doesn’t come from out wide at all.",
-    "The 2015–2020 lot were mostly given licence to stay forward and decide games, and fewer managers allow that now.",
-    "It works, but it can make Arsenal a bit stodgy to watch.That being said, I’d instantly forgive Sánchez and take him back over our other options."
+    "He says that Claude helped develop a solution to the problem during the course of about six weeks."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/live/2026/nov/21/premier-league-resumes-kane-facing-spell-on-sidelines-football-news-matchday-live",
-   "image": "https://i.guim.co.uk/img/media/614ada1fd57c31371836b47711911d06a7c2fec6/0_0_5000_4000/master/5000.png?width=140&quality=85&auto=format&fit=max&s=0748e9d41f9859ac1330d27e214289a6",
-   "published_at": "2026-11-21T09:32:48Z",
-   "category": "sports",
+   "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+   "image": "https://i.guim.co.uk/img/media/d3154f68df589c297fc3d173e2bb3d95faca05c9/530_0_4678_3742/master/4678.jpg?width=140&quality=85&auto=format&fit=max&s=2be6ea0855df616ea30ffc89afed2e1f",
+   "published_at": "2026-11-21T16:39:49Z",
+   "category": "world",
    "related": []
   },
   {
-   "id": "642bafaa2aa77f52e1441c7d4f99cd07c963e5dc",
-   "title": "Rizwan, Shan, Saim among notable omissions as PCB awards contracts to 38 players",
+   "id": "158994b8ae4ecd45a372af36b26b26fdedb8738c",
+   "title": "International UN talks on controlling use of autonomous weapons collapse",
    "summary": [
-    "Players on Test-only contracts, however, would be encouraged to prioritise four-day cricket if taking up additional playing commitments.",
-    "Existing incentives include doubled match fees for victories against higher-ranked opponents and half the Test match fee for contracted players appearing in domestic four-day cricket.",
-    "Players awarded central contracts Test and ODI: Babar Azam, Salman Ali Agha."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2046112/rizwan-shan-saim-among-notable-omissions-as-pcb-awards-contracts-to-38-players",
-   "image": "https://i.dawn.com/large/2026/11/211426457af88ca.webp",
-   "published_at": "2026-11-21T09:29:38Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "68b384aac3d52b359e83eee2fe567a9d87bad5bf",
-   "title": "Australia v England: first men’s T20 cricket international – live",
-   "summary": [
-    "T20 international updatees at the MCG in MelbournePlay starts at 7.15pm AEDT/8.15am GMT | Send us a mailI’m off to score some Colombian (coffee, your honour), but will be back in time for the first ball of the series.“Very sorry to read during the ODI that you’ve been unwell,” writes Robert Ellson. “Hope you’re recovering well.",
-    "Enjoy the game.” Continue reading..."
+    "Week-long efforts fail to establish negotiating mandate on AI warfare after Russian ‘filibustering’Week-long efforts to agree a negotiating mandate for a legally binding international treaty to control the use of autonomous weapons collapsed just before 5am after all-night talks failed to overcome Russian objections.Despite an overwhelming majority of states at the UN’s Convention on Certain Conventional Weapons (CCW) in Geneva wanting to agree a negotiating mandate leading to a legally binding treaty, the need for consensus forced the conference to adopt a much weaker option."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/sport/live/2026/nov/21/australia-v-england-first-mens-t20-cricket-international-live",
-   "image": "https://i.guim.co.uk/img/media/dfc29c1384d2d18224fbcbcb0986707e3a8ba131/356_0_4997_3999/master/4997.jpg?width=140&quality=85&auto=format&fit=max&s=57f4a0e0af0cd2ed8c67a765439e2e5c",
-   "published_at": "2026-11-21T09:28:57Z",
+   "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+   "image": "https://i.guim.co.uk/img/media/247601abada695f09f302253178bbc8f6e58cd42/415_0_4165_3333/master/4165.jpg?width=140&quality=85&auto=format&fit=max&s=19283afd22dbc9bfead542bffab860d5",
+   "published_at": "2026-11-21T16:36:11Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "c2ed6bfcff5b56048731364008ab9c11435cdb47",
+   "title": "England 37-12 New Zealand: Hosts storm to historic Nations Championship win over All Blacks – as it happened",
+   "summary": [
+    "England put up a record margin of victory against New Zealand to all but guarantee a place in at least the second-place final next weekendOfficials for today, by the wayReferee: Nic Berry (Australia)Assistant referees: Nika Amashukeli (Georgia), Damon Murphy (Australia)TMO: Mariu"
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/live/2026/nov/21/england-v-new-zealand-nations-championship-rugby-union-live",
+   "image": "https://i.guim.co.uk/img/media/810a2f95e3ed9e7fcf3c479dea2427ad553de3a3/157_0_1823_1459/master/1823.jpg?width=140&quality=85&auto=format&fit=max&s=ec3fd3de3062529954b933b4bc185f75",
+   "published_at": "2026-11-21T16:30:45Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "ec0a4bcf030a68e25cd98142b937da1f66477ab6",
-   "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+   "id": "3200a5263146551d201469488cd9040b6da667a7",
+   "title": "England beat New Zealand by record margin",
    "summary": [
-    "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain."
+    "England stun New Zealand, beating the three-time world champions by 25 points - compounding the All Blacks' disappointment after their loss to Wales last week."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/rugby-union/videos/c6742znzggeyo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-21T16:28:09Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "691108b16c75a8598785fbe25062dc1e6c5d553f",
+   "title": "Carlos Alcaraz holds off Ben Shelton to book place in ATP Finals",
+   "summary": [
+    "Ferrero is one of the most highly respected coaches on tour, but he also knows Carlos Alcaraz better than any other coach in the world.However, there is only so much that anyone can do against one of this sport’s greatest talents."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/2026/nov/21/carlos-alcaraz-holds-off-ben-shelton-to-book-his-place-in-the-atp-finals",
+   "image": "https://i.guim.co.uk/img/media/e9b9d23305a7d630fb0ca7f3b4264b90894b6fa4/511_0_5112_4089/master/5112.jpg?width=140&quality=85&auto=format&fit=max&s=a46e06896286be60d2f60196af453192",
+   "published_at": "2026-11-21T16:27:26Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "821373bb6bd0a13721ed3783bfbbc2a925475182",
+   "title": "McConnell shines as 11-try Scotland dismantle Japan",
+   "summary": [
+    "A Liam McConnell hat-trick inspires Scotland in an 11-try Nations Championship rout of Japan at Murrayfield."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmx2x00w08keo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-21T16:23:11Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "b57439c9d77f8cb3806502097840d4bd10243d98",
+   "title": "Grey Dawning wins at Haydock and Lossiemouth gives Mullins third winner at Punchestown: horse racing – as it happened",
+   "summary": [
+    "Grey Dawning, the 11-10 favourite, joined the illustrious list of dual winners of Betfair Chase at Haydock1.",
+    "BLOW YOUR WAD (Freddie Mitchell) 11-8, 2.",
+    "3 ran.Blow Your Wad is the first to be ridden, Doyen Quest leads four out … Continue reading..."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/live/2026/nov/21/horse-racing-updates-news-and-results-from-ascot-haydock-and-more-live",
+   "image": "https://i.guim.co.uk/img/media/0d1fd02656846e7fc7e0173ad0b4e13aeee5f1a7/902_253_6200_4960/master/6200.jpg?width=140&quality=85&auto=format&fit=max&s=684f038e27a3745b539ccd96730b0b5e",
+   "published_at": "2026-11-21T16:20:49Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "a321f063e309d3fda53fe4a5f81d88a29a3114cd",
+   "title": "India’s opposition stages protests against Meta over account removals",
+   "summary": [
+    "Indian Youth Congress issues a seven-day 'ultimatum' to the US technology giant, urging it to lift all restrictions."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T16:14:01Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "b899eec8aba7faca4add390a1910efc2f891fc8d",
+   "title": "Hormuz swim highlights environmental cost of war",
+   "summary": [
+    "Ocean campaigner Lewis Pugh completes Hormuz challenge and warns of lasting environmental damage."
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c95y1gr27xplo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-21T09:27:51Z",
-   "category": "world",
+   "published_at": "2026-11-21T16:12:31Z",
+   "category": "science",
    "related": []
   },
   {
-   "id": "8e41819aa78448db7c0558957976ede4bdf18f01",
-   "title": "FM Dar calls for multilateralism, says bloc or unilateral politics will not work",
+   "id": "aee70c00cf7ed1c5abf724009181d72428f75218",
+   "title": "Superb England run up record win over New Zealand",
    "summary": [
-    "Deputy Prime Minister and Foreign Minister Ishaq Dar stressed the importance of multilateralism, saying bloc politics and unilateralism would not work.",
-    "The foreign minister said that even during the previous round of indirect talks between the US and Iran in Oman, it had been agreed that Pakistan must be present if direct talks were held.",
-    "Dar also hailed the June 18 signing of the Islamabad Memorandum of Understanding between the US and Iran, but regretted the subsequent violations. “Pakistan hasn’t given up."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2046111/fm-dar-calls-for-multilateralism-says-bloc-or-unilateral-politics-will-not-work",
-   "image": "https://i.dawn.com/large/2025/07/07175030929ea87.jpg",
-   "published_at": "2026-11-21T09:19:45Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "c0ba4dbd96829b32be03e8548aaa8d21f6d3fd1e",
-   "title": "French police officers guilty of Michel Zecler assault: What happens now?",
-   "summary": [
-    "Officers dealt more than 30 blows to the Black music producer in what the court ruled was a racially motivated crime."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/21/french-police-officers-guilty-of-michel-zecler-assault-what-happens-now?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T09:12:14Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "c88da599854e0c3120327c830f93c5384be8a6f5",
-   "title": "Harden passes Bryant for 50-point games",
-   "summary": [
-    "James Harden moves third on the all-time list for 50-point NBA games as the Cleveland Cavaliers beat the Indiana Pacers 128-119 in the NBA Cup."
+    "England's revival roars up a gear as they beat New Zealand by a record margin after former captain Lewis Moody leads the hosts' response to the haka."
    ],
    "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/basketball/articles/cwx2e8y1lr8lo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm2jxd8k15mo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-21T09:10:18Z",
+   "published_at": "2026-11-21T16:08:59Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "f99b3524bf400422eb11cb23fdc558786e89bd53",
-   "title": "Harry Kane to miss ‘a few months’ after injury as Bayern Munich draw",
+   "id": "a5c690c5165a3fee026b960de04ec652a0554bf0",
+   "title": "Fernandez dropped, Anderson scores - Man City's £327m midfield dilemma",
    "summary": [
-    "Ballon d'Or winner tears a ligament in his left ankle during Bayern Munich’s 1-1 draw against Cologne."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/sports/2026/11/21/ballon-dor-kane-to-miss-a-few-months-after-injury-as-bayern-munich-held?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T09:01:29Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "b421a74e964c578d3fa54a14a80903b0e3cb6f10",
-   "title": "Illicit alcohol kills 11, poisons 180 in northeast India’s Manipur state",
-   "summary": [
-    "Manipur's chief minister orders a probe into the incident, saying those responsible will be arrested and punished."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/21/suspected-toxic-alcohol-kills-at-least-11-people-in-northeast-india?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T08:48:54Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "dee7ae3761168536cdc19f79e097b7c393afe41b",
-   "title": "Swimmer braves tanker attacks to expose Hormuz contamination",
-   "summary": [
-    "As tankers burned in Hormuz, swimmer Lewis Pugh exposed another casualty of the US-Israeli war on Iran: marine life."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/swimmer-braves-tanker-attacks-to-expose-hormuz-contamination?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T08:39:35Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "5a4c1420c85384397926b716246c39d988df3401",
-   "title": "Gianni Infantino’s FIFA re-election backed by South America’s CONMEBOL",
-   "summary": [
-    "Infantino handed huge boost in re-election campaign as FIFA president as CONMEBOL offers unanimous support."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/sports/2026/11/21/gianni-infantinos-fifa-re-election-backed-by-south-americas-conmebol?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T08:33:52Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "ede589f02e6e5d9957c21b88329268df6ea88e92",
-   "title": "Musadik Malik holds separate meetings with Iranian, Tajik officials on SCO forum sidelines",
-   "summary": [
-    "Dr Malik arrived at Purana Qila in New Delhi for the second day of the inaugural SCO Civilisational Dialogue Forum, according to a post shared by his office earlier in the day.",
-    "In a separate meeting with President of Iran’s Islamic Culture and Relations Organisation Mohammad Mahdi Imanipour, Dr Malik underscored the deep-rooted historical and cultural bonds between Pakistan and Iran.",
-    "A day earlier, after arriving in New Delhi, Dr Malik had described the forum as a “tremendous opportunity” for multilateral dialogue, saying that cultures and civilisations transcended geographical boundaries."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2046109/musadik-malik-holds-separate-meetings-with-iranian-tajik-officials-on-sco-forum-sidelines",
-   "image": "https://i.dawn.com/large/2026/11/211313241988978.webp",
-   "published_at": "2026-11-21T08:32:16Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "cb40b754313ffec38b2efbb4623de4da31a56a1b",
-   "title": "Spain court grants bail to pro-Palestinian activist James ‘Fergie’ Chambers",
-   "summary": [
-    "Spain’s High Court granted conditional bail to James ‘Fergie’ Chambers, a pro-Palestinian philanthropist."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/spain-court-grants-bail-to-pro-palestinian-activist-james-fergie-chambers-2?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T08:26:22Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "8afc8f8b11e8e5171ba8c29a13e6b7bb75dfbbb7",
-   "title": "'Somebody has to stand up to that guy' - and Russell has his chance in Vegas",
-   "summary": [
-    "The George Russell-Max Verstappen feud surfaced again in Las Vegas, adding spice to a race where they will start on the front row."
+    "Manchester City spent £327m overhauling their midfield in the summer - but how does Enzo Maresca find the right balance?"
    ],
    "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/formula1/articles/c34gnrvl9zvro?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cxe8944j188yo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-21T08:13:58Z",
+   "published_at": "2026-11-21T16:07:19Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "a5ae86279d6526d52eeb90f178b6bd698bc62ee2",
-   "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+   "id": "7edb1f5909757f100e5ffa1d0bca9dbb1cd4ab58",
+   "title": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
    "summary": [
-    "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\"."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-21T08:10:25Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "5a8d64ef0622348fd475187c2bf3043bc69e39e7",
-   "title": "Trafalgar Square Christmas tree felled in Norway",
-   "summary": [
-    "The 21m tree is Oslo’s annual thank you for Britain’s support during World War Two."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-21T08:10:03Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "8dbe631aa2dbbd8d1d2d93169a7a5c67edb6efec",
-   "title": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
-   "summary": [
-    "Efforts to establish rules for AI-powered killer robots and drones have run aground.",
-    "U.N.-backed talks in Geneva ended Saturday with an agreement to extend discussions for two more years.(Image credit: Omer Urer)"
-   ],
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in",
-   "image": null,
-   "published_at": "2026-11-21T08:08:01Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "28b7efa850743b895d1fdd6a901d87cb36ec0c95",
-   "title": "Internet provider expects submarine cable repairs to be completed by Dec 6",
-   "summary": [
-    "Internet service provider Transworld Associates has said repair work on an affected international submarine cable is expected to be completed by December 6, with users likely to experience slower internet speeds during peak hours until the work is finished.",
-    "The development follows an earlier announcement by the Pakistan Telecommunication Authority (PTA) that a fault had been reported in the SEA-ME-WE 5 (SMW5) international submarine cable system, approximately 11 kilometres from Pakistan’s coast.",
-    "Internet monitoring organisation NetBlocks had also reported a decline in connectivity in Pakistan, saying the incident was consistent with a fault in the SMW5 international subsea cable system."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2046093/internet-provider-expects-submarine-cable-repairs-to-be-completed-by-dec-6",
-   "image": "https://i.dawn.com/large/2021/06/60da9ad6696e0.jpg",
-   "published_at": "2026-11-21T08:07:29Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "9e355a6524a8720448564042c66cebb16566cadf",
-   "title": "Kangaroos on cusp of AFLW history after setting up grand final against Demons",
-   "summary": [
-    "North Melbourne reach fourth straight decider with Sydney win Melbourne hold off Carlton by 30 points in other preliminary finalNorth Melbourne are on the cusp of AFLW history and coach Darren Crocker is determined not to let the prospect of an unprecedented premiership “three-peat” distract his side from the task at hand.The all-conquering Kangaroos moved into a fourth consecutive grand final with a hard-fought 32-point victory over a gallant Sydney at Ikon Park on Saturday."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/sport/2026/nov/21/aflw-preliminary-finals-north-melbourne-v-sydney-melbourne-v-carlton",
-   "image": "https://i.guim.co.uk/img/media/0c8855c88813bef8946305c122099171a95a032a/0_0_2527_2022/master/2527.jpg?width=140&quality=85&auto=format&fit=max&s=6746f53385281575dc38203482098b90",
-   "published_at": "2026-11-21T08:06:00Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "d057a4ec016c1c14d3a2ec7ae1d8456df0279527",
-   "title": "Telegraph departures signal concerns over direction under Axel Springer’s ownership",
-   "summary": [
-    "Insiders say they only see cuts, with no discernible long-term strategy, since title’s purchase by German media firmA spate of prominent departures and years of public battling over its ownership have ensured the Telegraph’s newsroom has been no stranger to internal intrigue and speculation in recent times.Even by its own high standards, however, its offices have been fraught with rumours about its leadership this week."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/media/2026/nov/21/telegraph-departures-direction-axel-springer-ownership",
-   "image": "https://i.guim.co.uk/img/media/351f708be30dca27b8ca1b2a67fcd37484ca596e/0_0_4219_3375/master/4219.jpg?width=140&quality=85&auto=format&fit=max&s=5105b308499a22836f9d72388fbda9e6",
-   "published_at": "2026-11-21T08:00:53Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "23ebc14888ba4e2e8f35d0da63725e63b3413f31",
-   "title": "Letby trial doctor barred from treating patients was expert witness in another case",
-   "summary": [
-    "The jury, who five months later convicted Letby of the murder of seven babies, were never told."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/21/lucy-letby-trial-doctor-professor-peter-hindmarsh-barred-from-treating-patients-expert-witness-another-case",
-   "image": "https://i.guim.co.uk/img/media/b2c26a4fcb3635b204d80bc6d91bdf7ba9a8c866/0_0_2399_1920/master/2399.jpg?width=140&quality=85&auto=format&fit=max&s=f56d00cc8456aae821a1f8eecb3512ee",
-   "published_at": "2026-11-21T08:00:52Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "cb8532cb120c0f29ffaecf7cc0bee81575b2b100",
-   "title": "Can mediation succeed in a war-torn world? | Episode 1",
-   "summary": [
-    "With more than 65 armed conflicts raging worldwide, top mediators reveal why peace has never been harder to achieve."
+    "Mexican forces arrested Chapo Isidro in Sinaloa.",
+    "He was on the FBI’s most wanted list and faces US drug charges."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/the-art-of-negotiation/2026/11/21/can-mediation-succeed-in-a-war-torn-world-episode-1?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-21T07:38:38Z",
+   "published_at": "2026-11-21T16:03:16Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "78cde80ef806f6f707e72d886e4f7d36fc37288a",
-   "title": "Wales hungry to show they are not one-hit wonders",
+   "id": "dffab27fe8d5022c0bdbf4d7acf0cd3e05cba73e",
+   "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
    "summary": [
-    "Wales must kick on when they host Australia in the Nations Championship on Saturday, fresh from making history against New Zealand."
+    "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China.",
+    "Experts question the long-term consequences if this becomes a trend in Hollywood, too."
    ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6n83rj3v9zmo?at_medium=RSS&at_campaign=rss",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
    "image": null,
-   "published_at": "2026-11-21T07:37:23Z",
-   "category": "sports",
+   "published_at": "2026-11-21T16:00:00Z",
+   "category": "tech",
    "related": []
   },
   {
-   "id": "34f55b5883bc801935d5eb33870647e7e6ea1957",
-   "title": "Chinaman or doosra",
+   "id": "3b48cc532e5f5f5a4a7888fc50330c07d135c090",
+   "title": "US midterms 2026: What happens before the new Congress takes office?",
    "summary": [
-    "The other is our ‘all-weather friend,’ and though its political and governance model is completely different, the powers that be would be tempted to emulate it for two reasons.",
-    "It seems we may now be tempted to emulate the Chinese political system that produced one of the greatest military-industrial powers.",
-    "In our haste to put things right, let’s not forget that the Chinese, among other things, are masters at biding their time because they have internalised their 5,000 years of history, whereas we have actively disowned ours."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2046076/chinaman-or-doosra",
-   "image": "https://i.dawn.com/large/2025/02/67afc8be93cb1.jpg",
-   "published_at": "2026-11-21T07:32:04Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "299849b262daed6bda38928d8130e76b5e4b420f",
-   "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-   "summary": [
-    "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-21T07:31:05Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "c9d48bf1cbcb33dba221aebb2646440cc0c1ceff",
-   "title": "FBI, US Agriculture Department breached by hackers: reports",
-   "summary": [
-    "The US Agriculture Department and the Federal Bureau of Investigation (FBI) were breached by hackers in cyberattacks, US media reported on Saturday, as concerns deepened over the recent spate of tech outages at key American institutions.",
-    "The US Department of Agriculture (USDA) told employees that a system used to facilitate payments to farmers was targeted in a cyberattack, NBC reported on Friday, citing two former USDA officials.",
-    "The former official expressed concerns that hackers “could compromise the accuracy of the information that officers rely on.” AFP has contacted the FBI and USDA for comment."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2046105/fbi-us-agriculture-department-breached-by-hackers-reports",
-   "image": "https://i.dawn.com/large/2026/11/211221204a472d7.webp",
-   "published_at": "2026-11-21T07:31:03Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "2e038849fa992425d73051745de386683e78b8f0",
-   "title": "At least four killed, 35 injured in fire at power station in Iraq’s Basra",
-   "summary": [
-    "The blaze erupted at the Hartha power station and spread to nearby houses."
+    "What happens between the US midterm elections and January, when Democrats take control of Congress?"
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/21/at-least-two-people-killed-as-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-21T07:25:29Z",
+   "published_at": "2026-11-21T15:49:32Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "5daf2b9652d404dac6d85e1018ac400defadc3b1",
-   "title": "Emergency crews in Ukraine hit by a double-tap strike",
+   "id": "8af3055b5461492d7908191880795c35209f4711",
+   "title": "French presidential candidate blames media for racist attack",
    "summary": [
-    "Video shows emergency crews in Ukraine approaching the scene of a Russian strike, before another strike hits."
+    "French presidential candidate blames media for racist attack"
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/emergency-crews-in-ukraine-hit-by-a-double-tap-strike?traffic_source=rss",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/french-presidential-candidate-blames-media-for-racist-attack?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-21T07:12:03Z",
+   "published_at": "2026-11-21T15:46:18Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "6b1fdb82793abe15df6c38d952065830f16549dc",
-   "title": "Three US citizens among 4 convicted in Honduras over sex-trafficking case",
+   "id": "fd986dd95e42df1d3bbc4233d464d7039e7e4ccf",
+   "title": "Show HN: Zero C#, Power of C# without any GC",
    "summary": [
-    "The defendants face 10 years in jail after being found guilty of recruiting women into a sex-trafficking ring."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/21/three-us-citizens-among-4-convicted-in-honduras-over-sex-trafficking-case?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T07:07:59Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "4b3c055638471882dd8c9492beb55a3ef719f97d",
-   "title": "Train collides with minibus in Indonesia",
-   "summary": [
-    "Dramatic footage shows a passenger train pushing a flaming minibus along the tracks after colliding with it."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/train-collides-with-minibus-in-indonesia?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T06:55:02Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "405ec49c9c8d8f5e8378f319c940184fc1e034f2",
-   "title": "Who am I? Plus today's other quizzes",
-   "summary": [
-    "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cjwy5d3lxvkzo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-21T06:50:31Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "6b8abf24d83286166becbe7e488f106d374da907",
-   "title": "Surprisingly Adorable Insect Portraits",
-   "summary": [
-    "Article URL: https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/ Comments URL: https://news.ycombinator.com/item?id=50586648 Points: 29 # Comments: 7"
+    "Article URL: https://onurgumus.github.io/zero-csharp/index.html Comments URL: https://news.ycombinator.com/item?id=50590279 Points: 32 # Comments: 20"
    ],
    "source": "Hacker News",
-   "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
+   "url": "https://onurgumus.github.io/zero-csharp/index.html",
    "image": null,
-   "published_at": "2026-11-21T06:44:14Z",
+   "published_at": "2026-11-21T15:39:09Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "14d3c4d2b01e73b5e1558409f81f9b2ecc25c044",
-   "title": "Wall Street ends sharply lower on AI selloff, S&P 500, Dow in correction",
+   "id": "e0d29b5db91b90f56e0d9f994261f491370ddaa2",
+   "title": "'It's quite clear' - Maresca believes Haaland goal should have stood",
    "summary": [
-    "US stocks extended their rout on Friday, and the S&P ​500 and the Dow both confirmed corrections after Anthropic’s momentous debut fell flat, exacerbating worries about the AI trade that has driven this year’s stock market rally.",
-    "Anthropic’s supersized debut as a publicly held company, which was intended to raise as much as $2 trillion in market cap, failed to catch ​fire on Thursday, closing 17.1pc above its $83 offer price as enthusiasm for the stock faded throughout the session.",
-    "In its second day as a publicly held company, Anthropic’s shares fell 9.1pc; Nvidia’s shares tumbled 13.8pc."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2046101/wall-street-ends-sharply-lower-on-ai-selloff-sampp-500-dow-in-correction",
-   "image": "https://i.dawn.com/large/2026/11/21113342a3b81ed.webp",
-   "published_at": "2026-11-21T06:35:56Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "4a7b11cba85bdfac0790acd258fd7bef09041ad0",
-   "title": "Athlete who lost hand saving friends in attack 'would do it again'",
-   "summary": [
-    "Ismael Ox was 11 years old when he lost his hand trying to protect his friends from a grenade - and now competes in Para-taekwondo for the USA."
+    "Manchester City manager Enzo Maresca says Erling Haaland's first-half goal against Fulham should have stood."
    ],
    "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/taekwondo/articles/crpdwljj0v89o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/videos/c9e85mmr3z8vo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-21T06:35:06Z",
+   "published_at": "2026-11-21T15:34:35Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "c8f733b5e17d1f3e38978fdbc8ab691a94deca6d",
-   "title": "Sudan’s war will end, but will it be too late?",
+   "id": "46579213aed96fe51fbbe5dd0b609d30a8a4932d",
+   "title": "Melo calls out Humphrey for Baltimore remark: Back your apology with action",
    "summary": [
-    "Pressure from within Sudan may achieve what international diplomacy has not."
+    "Former NBA star Carmelo Anthony challenged Ravens cornerback Marlon Humphrey to do more than apologize after he said Baltimore was \"best at making criminals.\""
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/nfl/story/_/id/50548223/carmelo-anthony-calls-ravens-humphrey-baltimore-remark",
+   "image": null,
+   "published_at": "2026-11-21T15:33:45Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "97e4a658839a16f18dc458c1a3ee11a3d631e9fb",
+   "title": "Fantasy buzz: Does anything change in Indy with Richardson under center?",
+   "summary": [
+    "Matt Bowen provides fantasy expectations for the Colts' new starter at QB and his supporting cast."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/fantasy/football/story/_/id/40699880/fantasy-football-injuries-position-battles-nfl-news-analysis",
+   "image": null,
+   "published_at": "2026-11-21T15:30:19Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "da9c6a6f2638047ce9a521706e7e78ea02328739",
+   "title": "Virginia child dies in state’s first measles-associated death of 2026",
+   "summary": [
+    "It did not disclose additional details, including the child’s vaccination status, citing the family’s privacy."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/21/virginia-child-dies-measles",
+   "image": "https://i.guim.co.uk/img/media/c0ce942a27e560d3ae51a4e8900971d7de2d7ccb/574_0_5736_4589/master/5736.jpg?width=140&quality=85&auto=format&fit=max&s=1636a3ff8a4d86dc6e0b6d3ec9c17bee",
+   "published_at": "2026-11-21T15:30:07Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "9837acf6063e3c9e7fb4af81adc51b21c3e20a09",
+   "title": "Diallo present as Africa’s Motsepe reiterates support for FIFA’s Infantino",
+   "summary": [
+    "Africa's CAF join South America's CONMEBOL in giving unanimous support of FIFA President Gianni Infantino's re-election."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/opinions/2026/11/21/sudans-war-will-end-but-will-it-be-too-late?traffic_source=rss",
+   "url": "https://www.aljazeera.com/sports/2026/11/21/diallo-present-as-africa-football-boss-motsepe-reiterates-infantino-support?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-21T06:32:04Z",
+   "published_at": "2026-11-21T15:20:43Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "19771f08199c01effd48194cc05b0de49e4fb1be",
-   "title": "Yemen’s Houthis launch strikes after Saudi coalition’s 'special operation'",
+   "id": "8d21ce3be65172211d50343c4295217e5f537af6",
+   "title": "British man recalls ‘despair’ over son’s death after fall from Cyprus window",
    "summary": [
-    "Yemen’s Houthis launched strikes on the Saudi capital Riyadh on Saturday, after vowing reprisals for a “special operation” by the Saudi-led coalition fighting them.",
-    "Saudi Arabia has been battling a surge in attacks since fighting reignited in neighbouring Yemen’s civil war this summer, where Riyadh backs the internationally recognised government against the Houthis.",
-    "The strikes came after the Houthis vowed revenge for the coalition’s attack on the Red Sea port city of Hodeida and other targets on Friday."
+    "Prosecutors in Cyprus had refused to drop the case against him."
    ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2046096/yemens-houthis-launch-strikes-after-saudi-coalitions-special-operation",
-   "image": "https://i.dawn.com/large/2026/11/211030315f2f584.webp",
-   "published_at": "2026-11-21T06:31:47Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "cf91ab90c2f3fb368a804591d3728d14bb4378d4",
-   "title": "Netanyahu is playing with the fire that killed Rabin",
-   "summary": [
-    "His attacks on Arab lawmakers echo the incitement that preceded Rabin’s assassination and risk unleashing new violence."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/opinions/2026/11/21/netanyahu-is-playing-with-the-fire-that-killed-rabin?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T06:21:03Z",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/21/british-man-recalls-despair-over-sons-death-after-fall-from-cyprus-window",
+   "image": "https://i.guim.co.uk/img/media/448b8cda06ae22c1900e5ff11f009b62f3b449f9/231_146_2907_2326/master/2907.jpg?width=140&quality=85&auto=format&fit=max&s=3d6c28c8cb97f9ee223f182855c56ec4",
+   "published_at": "2026-11-21T15:19:03Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "9897f8b806dd4b2a9b806e6a17e8028d6dfc75e0",
-   "title": "Jeers, injuries and doubters - White's journey back to the top",
+   "id": "c5c43946e508cc7401cdeb24cda3df51066d304e",
+   "title": "Sources: Struggling Aggies expected to bench Reed, start Hart vs. Sooners",
    "summary": [
-    "When Ben White wheeled away after scoring England's third goal against world champions Spain, it was more than just a strike which ended up being the winner in a special win."
+    "Texas A&M is expected to make a change at quarterback, going with sophomore Brady Hart over Marcel Reed against Oklahoma, sources confirmed to ESPN."
    ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cv7028xeler2o?at_medium=RSS&at_campaign=rss",
+   "source": "ESPN",
+   "url": "https://www.espn.com/college-football/story/_/id/50549670/sources-texas-expected-bench-marcel-reed-vs-sooners",
    "image": null,
-   "published_at": "2026-11-21T06:17:32Z",
+   "published_at": "2026-11-21T15:18:42Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "d47705798870bfdcb3ac21dc9ab9b48719af17a3",
-   "title": "Max Verstappen takes pole for Las Vegas Grand Prix after Kimi Antonelli penalty",
+   "id": "c0feb18c8ec9790bba6ee7d377d678a62510891e",
+   "title": "Sources: Michigan expected to start Underwood over Carr vs. UCLA",
    "summary": [
-    "He claimed his first pole for the race which he has won twice and Antonelli’s Mercedes’ teammate, George Russell, will line up alongside him on the front row of the grid."
+    "Michigan is again making a switch at quarterback, returning to Bryce Underwood against No. 4 UCLA after Tommy Carr had started the past four games, sources confirmed to ESPN."
    ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/sport/2026/nov/21/max-verstappen-las-vegas-gp-f1-pole-position-qualifying-kimi-antonelli",
-   "image": "https://i.guim.co.uk/img/media/2923203b4c1ae114683640de4db530022f44267b/599_0_4490_3592/master/4490.jpg?width=140&quality=85&auto=format&fit=max&s=0be55e21a8fc8bf406308921a91433c2",
-   "published_at": "2026-11-21T06:00:55Z",
+   "source": "ESPN",
+   "url": "https://www.espn.com/college-football/story/_/id/50549879/sources-michigan-expected-start-bryce-underwood-vs-ucla",
+   "image": null,
+   "published_at": "2026-11-21T15:18:42Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "de7f6c902fce731b414bad9de19d761e6c34a5d7",
-   "title": "Campaigners back call for scrutiny of consent laws by Joanne Young",
+   "id": "c68cfa27eb75942db31ff3e0718c8e6d15ffc74c",
+   "title": "Gil, '24 AL Rookie of Year, cut loose by Yankees at MLB tender deadline",
    "summary": [
-    "Experts say no law states third-party consent is a valid defence and call for public debate and further education Campaigners have welcomed a call for scrutiny of consent laws by a survivor of drug-facilitated rape but said action must also focus on wider issues around sexual assault.Joanne Young, who was drugged and raped by her husband and sexually abused by men he invited into their home, warned of “serious questions about how the law deals with consent”."
+    "Luis Gil, a former AL Rookie of the Year, was cut loose by the Yankees, among 44 players who became MLB free agents when their teams declined to offer 2027 contracts by Friday's tender deadline."
    ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/society/2026/nov/21/campaigners-back-call-for-scrutiny-of-consent-laws-by-joanne-young",
-   "image": "https://i.guim.co.uk/img/media/b210f835d3402c106de262ff8f2b7ff286b6533c/35_0_4917_3933/master/4917.jpg?width=140&quality=85&auto=format&fit=max&s=4c73efff30b6f821b2bfb7045c9833b5",
-   "published_at": "2026-11-21T06:00:53Z",
-   "category": "world",
+   "source": "ESPN",
+   "url": "https://www.espn.com/mlb/story/_/id/50545849/yankees-cut-gil-24-al-rookie-year-tender-deadline",
+   "image": null,
+   "published_at": "2026-11-21T15:18:42Z",
+   "category": "sports",
    "related": []
   },
   {
-   "id": "3bd15573705779b6b0771e8af0e5b689df3fe600",
-   "title": "‘The doom of humanity’: will the quest to make robotic hands render us obsolete?",
+   "id": "0f9848fa4ef0b60d94f6450709213c866301ee60",
+   "title": "Raiders owner Davis upset by 'Madden' version of his father: 'Totally unfair'",
    "summary": [
-    "Experts are racing to change thatJust outside Luton, in an Amazon warehouse the size of four football pitches, yellow shelving units pirouette in a digitally choreographed dance.",
-    "This, Amazon says, is the “symphony of people and technology” to which the retail giant owes its success.Following a barrage of negative publicity about working practices, Amazon began to open up its fulfilment centres to carefully controlled free public tours a decade ago.",
-    "Our guide tells us about the competitive rates of pay Amazon workers receive, their pensions, dental cover and options for flexible working."
+    "Saying \"I did the best I could to protect him,\" Raiders owner Mark Davis expressed frustration with the depiction of his father, the late Al Davis, in the new movie \"Madden.\""
    ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai",
-   "image": "https://i.guim.co.uk/img/media/23b370295e6a0451fe53a38aba2282045f215272/1054_0_6677_5342/master/6677.jpg?width=140&quality=85&auto=format&fit=max&s=b205cd24b9f7e774996bfccf38effe3f",
-   "published_at": "2026-11-21T06:00:52Z",
+   "source": "ESPN",
+   "url": "https://www.espn.com/nfl/story/_/id/50549761/mark-davis-upset-father-portrayal-movie-madden",
+   "image": null,
+   "published_at": "2026-11-21T15:18:42Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "a17aa840c297a8d9935352e1917ed64f6afdaec6",
+   "title": "Harden has 51 in 'vintage' performance, leaps Kobe for 3rd-most 50-point games",
+   "summary": [
+    "James Harden posted the 26th 50-point game of his career, passing Kobe Bryant for third-most 50-point games in NBA history."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/nba/story/_/id/50546191/james-harden-explodes-51-points-propels-cavs-pacers",
+   "image": null,
+   "published_at": "2026-11-21T15:18:42Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "71b50aecd2ebcbd79601b8992a794adba97a34fe",
+   "title": "Udoka says Rockets 'mentally fragile,' blasts defense after loss to Nuggets",
+   "summary": [
+    "Coach Ime Udoka was upset by the Rockets' lack of physicality and effort as they gave up a season high in points during a loss to the Nuggets, calling the defense \"as bad as I've seen it.\""
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/nba/story/_/id/50549254/ime-udoka-frustrated-rockets-defense-loss-nuggets",
+   "image": null,
+   "published_at": "2026-11-21T15:18:42Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "fb942843f9e15f5f487aade5f9df2856cfaef2a2",
+   "title": "Reid offers Saints farewell: 'Things don't always go the way you planned'",
+   "summary": [
+    "The Saints have granted Justin Reid's request to be released, with the safety posting on social media: \"In life and sports, things don't always go the way you planned or hoped they would.\""
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/nfl/story/_/id/50543025/justin-reid-posts-saints-farewell-team-works-release",
+   "image": null,
+   "published_at": "2026-11-21T15:18:42Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "d4007f56ebcf06a9734e3f9c588f481c63bd1206",
+   "title": "💪 'Another universe': How Indiana football changed Bloomington",
+   "summary": [
+    "The basketball haven has become a legend of the fall, where the reigning national champs take center stage."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/college-football/story/_/id/50533477/bloomington-indiana-football-town",
+   "image": null,
+   "published_at": "2026-11-21T15:18:42Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "b316f5016eae51bdb68f909f1548634fdb2dafdf",
+   "title": "Alaska, your next governor is a Wikipedia nerd",
+   "summary": [
+    "Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 WIkipedia edits."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
+   "image": null,
+   "published_at": "2026-11-21T15:18:29Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "cb03cf9cf0ee1e29d754b5307070036f61072795",
-   "title": "Brighton are rocking the Premier League elite. But can they mount a title tilt?",
+   "id": "5c0487ac07a1f6420830cbcedc97aa3d8e87922d",
+   "title": "Time may be far stranger than we realize. Scientists have a way to test it",
    "summary": [
-    "A combination of smart analytics, a young manager and players hand-picked for their particular skills has the Seagulls flying highThey lined up in sky‑blue shirts, white shorts.",
-    "Enzo Fernández, Ayyoub Bouaddi and Elliot Anderson were starting their first match together in Manchester City’s midfield.But it was a Brighton midfielder who made the game’s first decisive contribution.",
-    "The away crowd at the Etihad Stadium roared, then watched their team defend relentlessly, securing Brighton’s first league victory away to City."
+    "Time may be far stranger than we realize, and scientists have proposed a way to detect clocks experiencing multiple flows of time simultaneously.",
+    "Using atomic clocks with dramatically enhanced sensitivity, researchers hope to reveal a never-before-observed quantum effect that could transform our understanding of time and gravity."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261120075558.htm",
+   "image": null,
+   "published_at": "2026-11-21T15:09:46Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "25584ed81fea50fbc2cfce6a8388eff3a0c18eef",
+   "title": "Manchester City 1-1 Fulham: Premier League – as it happened",
+   "summary": [
+    "Dominic Booth reports …Gonzalo Garica: The Fulham striker and great nephew of Rita Hayworth admits the pace of the Premier League has surprised him but says he will remain calm over his 11-match goal drought."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/2026/nov/21/brighton-rocking-premier-league-elite-title-challenge",
-   "image": "https://i.guim.co.uk/img/media/8d33d6d3a16efaa8873bce778879cff4b83e758c/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=3ec71670fecb7b9e0d42d24f97fa81df",
-   "published_at": "2026-11-21T06:00:52Z",
+   "url": "https://www.theguardian.com/football/live/2026/nov/21/manchester-city-v-fulham-premier-league-live",
+   "image": "https://i.guim.co.uk/img/media/58847aa2bca406a83de87935b5f7288c06a096cb/337_155_3566_2853/master/3566.jpg?width=140&quality=85&auto=format&fit=max&s=5f1c81be645e416d2da157899e80354d",
+   "published_at": "2026-11-21T15:05:28Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "a63468cf47dacdfdce1ec11d5676ac5d4c1f8a14",
-   "title": "Antonelli fastest but penalty leaves Verstappen on pole",
+   "id": "59d2703d929a371c7a32024d32703e3fbfa0a4a4",
+   "title": "Liverpool keeper Keating holds leaders Chelsea at bay in scoreless WSL draw",
    "summary": [
-    "Mercedes' Kimi Antonelli is fastest in qualifying for the Las Vegas Grand Prix but a grid penalty hands pole position to Red Bull's Max Verstappen."
+    "Khiara Keating’s resilient performance in goal denied Chelsea, the Women’s Super League leaders, and earned Liverpool a point.",
+    "After hard-fought 1-0 wins against Manchester City last Saturday and Paris Saint-Germain on Wednesday night, Chelsea drew a blank.Against Gareth Taylor’s side, Chelsea’s lack of cutting edge was clear a week after beating City to go top."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/21/liverpool-chelsea-london-city-lionesses-crystal-palace-wsl",
+   "image": "https://i.guim.co.uk/img/media/f9fdedef7f806355de107b35c4546feeb0038014/286_0_4382_3505/master/4382.jpg?width=140&quality=85&auto=format&fit=max&s=56f29efda715e79b44c44c8e9fa49406",
+   "published_at": "2026-11-21T15:03:50Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "17173d03ce65f9f0ee446b143af8d54c2a25f882",
+   "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
+   "summary": [
+    "British maritime agency reports two incidents near Oman, while Iran says a tanker caught fire due to naval mine."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T15:01:18Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "00e77640c25aba0e3f1b16e435b8e2578b07d64a",
+   "title": "SNL’s skit Sister captures the quiet agony of caregiving for women: ‘I’ve never felt seen like that’",
+   "summary": [
+    "The viral satirization of the caregiving burden left to women and daughters hit home for many viewersThe Saturday Night Live sketch, titled Sister quickly went viral this week for its satirization of the burden that women and daughters face to take care of aging family members.",
+    "Another posted: “As a hospice nurse this definitely tracks.",
+    "I deal 90% of the time with adult daughters, and if there is no daughter, it is the daughter in law.” “This is so real it almost gave me a stroke from rage,” added another viewer."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/tv-and-radio/2026/nov/21/snl-sister-caregiving",
+   "image": "https://i.guim.co.uk/img/media/7bfc72a64cf39369ce4dc05177044fe3f366251c/244_0_2511_2010/master/2511.jpg?width=140&quality=85&auto=format&fit=max&s=19c99eb7a70e07f624849ef48297753d",
+   "published_at": "2026-11-21T15:00:01Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "9f8cbbe4adf1ad08b338b915eb832a0e3b9069d0",
+   "title": "Northern Ireland seal comfortable win over Gibraltar",
+   "summary": [
+    "Northern Ireland secure a dominant 74-29 victory over Gibraltar in their first game of their double-header at Antrim Forum."
    ],
    "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/formula1/articles/cqlyj4yg366wo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/netball/articles/cq5y1grd6726o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-21T05:54:10Z",
+   "published_at": "2026-11-21T14:54:29Z",
    "category": "sports",
-   "related": []
-  },
-  {
-   "id": "d6536449d34f2dcca8ec3ebb1a43b81c5d07703a",
-   "title": "Countries open path towards 'killer robots' pact",
-   "summary": [
-    "Countries agreed on Saturday to open a path towards finding an international agreement on regulating lethal autonomous weapons systems, though campaigners seeking to stop so-called killer robots were disappointed by the “watered-down” outcome.",
-    "The 128 countries party to the CCW “agreed to launch the elaboration of an international instrument on lethal autonomous weapons systems, which should be conducted over the next two years”, conference president Julien Thoni told reporters afterwards.",
-    "While a majority of states went in favour of a legally binding agreement, countries that have the technology, including the United States and Russia, are reluctant to have their hands tied."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2046098/countries-open-path-towards-killer-robots-pact",
-   "image": "https://i.dawn.com/large/2026/11/211038382446cef.webp",
-   "published_at": "2026-11-21T05:50:52Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "aa368184f3168243a4de4da72d2e7a896c3c8607",
-   "title": "Can Israel’s opposition bloc stay united against Netanyahu?",
-   "summary": [
-    "Eisenkot's fragile alliance must overcome deep ideological divisions to turn its opposition into a government."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/21/can-israels-opposition-bloc-stay-united-against-netanyahu?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T05:46:29Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "c82934c02ed902f3f96e7b330619e4dc5c5194e0",
-   "title": "ClawDOS – An AI coding agent for DOS",
-   "summary": [
-    "Article URL: http://ricapar.net/ClawDOS/ Comments URL: https://news.ycombinator.com/item?id=50586292 Points: 56 # Comments: 15"
-   ],
-   "source": "Hacker News",
-   "url": "http://ricapar.net/ClawDOS/",
-   "image": null,
-   "published_at": "2026-11-21T05:38:01Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "b90cb26a13edde89bef51ec85e6cc4901a0f0602",
-   "title": "Cummins wins Cricket Australia's 'unanimous support' to remain Test captain",
-   "summary": [
-    "Cricket Australia threw its “unanimous support” behind Pat Cummins to remain Test captain Saturday, rejecting any suggestion his integrity had been compromised by the lingering “Sandpapergate” scandal.",
-    "Only then-captain Steve Smith, his deputy David Warner and Bancroft – who used the sandpaper – were found to be responsible by a Cricket Australia probe.",
-    "Otherwise, from this point, captaining the Australian team in Perth (at the first Test) will be my focus and priority.” Hazlewood threw his support behind Cummins earlier Saturday and made a veiled threat to call it a day if he was removed as captain."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2046094/cummins-wins-cricket-australias-unanimous-support-to-remain-test-captain",
-   "image": "https://i.dawn.com/large/2026/11/21101619ed38f37.jpg",
-   "published_at": "2026-11-21T05:16:30Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "14207e5788f33a56b74c385da69264ef242b57d3",
-   "title": "Funeral held for New York teen shot while walking to school",
-   "summary": [
-    "Funeral held for New York teen shot while walking to school"
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/funeral-held-for-new-york-teen-shot-while-walking-to-school?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T05:16:15Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "31d5770915c4082c56615cc6e36176e0364a0abd",
-   "title": "Al Jazeera explains: The US-China AI race is entering a new phase",
-   "summary": [
-    "Al Jazeera’s Matthew Torres unpacks the latest from the world of artificial intelligence."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/al-jazeera-explains-the-us-china-ai-race-is-entering-a-new-phase?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T05:08:40Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "9f96134b0c5390d854321aca14f999007fa2144e",
-   "title": "‘So what if there’s a hole? It hasn’t collapsed’: Kyiv residents unbothered by Russian attacks on city’s bridges",
-   "summary": [
-    "Despite dodging tears in the tarmac, people are confident in city’s infrastructure – and will not worry about what has not happened yetMykola expects to drive his battered beige passenger minibus 20 to 24 times a day past the holes in the road on Kyiv’s damaged Northern Bridge that were caused by a Russian ballistic missile attack on Tuesday.Buses are now the only motor transport allowed across the normally busy multi-lane crossing, though on their way into the city centre they have to skirt the tears in the tarmac, using the only functioning lane to get by."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/21/kyiv-russian-attacks-bridges",
-   "image": "https://i.guim.co.uk/img/media/6d132cb3da5f06c121f49b617e424621050b17ce/188_0_5624_4500/master/5624.jpg?width=140&quality=85&auto=format&fit=max&s=b518285330ac63c934be7240c7e3a2f5",
-   "published_at": "2026-11-21T05:00:50Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "e3c15a3c87e0d14511c139e1ae7ef2a38ff26508",
-   "title": "Tourists are throwing fewer coins into Rome’s Trevi fountain – is €2 entry fee to blame?",
-   "summary": [
-    "Charity that collects the coins says donations are down by £200,000 after a barrier was put in place to restrict accessWhen Jeff Clinton, an American visiting Rome with his wife for the first time, found a US one-cent coin on a street close to Termini train station, he knew precisely what he was going to do with it. “I’ll throw it into the Trevi fountain,” said Clinton, holding the copper coin in the palm of his hand as the couple admired the landmark.He was well aware of the tradition among tourists of tossing a coin over their shoulder and into the waters of the baroque masterpiece, in a ritual fabled to ensure a return visit to the city or make other dreams come true."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/21/charity-hit-coin-throwing-rome-trevi-fountain-caritas-italy",
-   "image": "https://i.guim.co.uk/img/media/995e47462557fa57e3a198604992fb49faee6fc8/536_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=c688aa15830c56e6c0a2bedeefdcb500",
-   "published_at": "2026-11-21T05:00:49Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "e75debc60ef612de76fba26610bbda46cfd834f6",
-   "title": "Teenager allegedly organised arsons and kidnapping on Signal during Melbourne hospitality wars",
-   "summary": [
-    "Victoria police say boy, 17, communicated with offenders under username ‘Onepercent’Get our breaking news email, free app or daily news podcastVictorian police allege a 17-year-old boy tasked others to carry out a series of arsons, home invasions and a mistaken identity kidnapping that resulted in the partial amputation of a victim’s finger during Melbourne’s hospitality wars.The boy, who was arrested on Friday afternoon, allegedly communicated with the offenders under the username “Onepercent” on the encrypted communications app Signal."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/21/teenager-allegedly-organised-arsons-and-kidnapping-on-signal-during-melbourne-hospitality-wars-ntwnfb",
-   "image": "https://i.guim.co.uk/img/media/99136bef967ae4aba72dfc6e04e06a4ec0dc1eab/0_1497_4284_3427/master/4284.jpg?width=140&quality=85&auto=format&fit=max&s=cb1363336ef34583a49d6bf4a024f358",
-   "published_at": "2026-11-21T04:44:00Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "1c549630cd2dcaf3f62b80407c6426a0539dfb7e",
-   "title": "Court extends physical remand of accused in minor maid’s murder case in Islamabad",
-   "summary": [
-    "Directs investigating officer to determine whether the child was subjected to bonded labour and exploitation The prosecution further informed the court that an electric iron had been recovered from the female accused and a stick from the male accused.",
-    "The court also ordered the IO to verify the alleged relationship between the complainant and the accused family, and to ascertain whether any actual arrangement regarding her education, maintenance, or welfare was made.",
-    "Furthermore, the court directed an inquiry into whether the child was engaged in domestic work or employed in any capacity, including any child labour or exploitation."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2045958/court-extends-physical-remand-of-accused-in-minor-maids-murder-case-in-islamabad",
-   "image": "https://i.dawn.com/large/2026/11/21093720c84d982.jpg",
-   "published_at": "2026-11-21T04:38:10Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "0e3ee30514b4693ad05714d4be5831547657618e",
-   "title": "Three suspects remanded into FIA custody over counterfeit vaccine in Islamabad",
-   "summary": [
-    "The FIA had sought a 14-day physical remand of the suspects to investigate the alleged supply and administration of counterfeit vaccines.",
-    "The agency alleged that the suspects had administered substandard and counterfeit doses of Influvac Tetra vaccine, bearing lot number P13, to patients.",
-    "The FIA informed the court that reports issued by the Drug Regulatory Authority of Pakistan (Drap) and the Punjab government had declared the vaccine from the said lot counterfeit and substandard."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2045961/three-suspects-remanded-into-fia-custody-over-counterfeit-vaccine-in-islamabad",
-   "image": "https://i.dawn.com/large/2021/06/60d6aedfc0d91.jpg",
-   "published_at": "2026-11-21T04:34:48Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "30aaa889f8ae2f050a819dea1eece17e43a8d800",
-   "title": "Man convicted of starting Palisades fire in Los Angeles",
-   "summary": [
-    "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-21T04:34:00Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "72179784aa3e4298e26631a9f55661cdda2ee037",
-   "title": "Saudi-led coalition intercepts three Houthi missiles headed for Riyadh",
-   "summary": [
-    "Saudi Arabia issues emergency alerts in Riyadh for third night in row, as the Houthis threaten ports and power station."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T04:32:07Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "376b6667f6e2ee3f92596b04124a947ea1c66e14",
-   "title": "Alarming rise in dog-bite cases echoes in Sindh Assembly",
-   "summary": [
-    "KARACHI: The issue of an alarming rise in dog-bite cases echoed in the Sindh Assembly on Friday, with the government claiming that the process of catching stray dogs for vaccination is under way across the province.",
-    "Local Government Minister Syed Nasir Hussain Shah said that considerable work had been done on stray dogs, but more steps were needed. “The process of catching stray dogs, vaccinating them and releasing them again is under way in different areas of the province,” he added.",
-    "The minister said that a pilot project of the digital labour inspection system was under way in Karachi, and the labour department’s manual system was gradually being shifted online."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2046035/alarming-rise-in-dog-bite-cases-echoes-in-sindh-assembly",
-   "image": "https://i.dawn.com/large/2025/12/0207451261b7acd.webp",
-   "published_at": "2026-11-21T04:20:12Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "31eeafd6bba372de1cc3d480799fce9edbd4a945",
-   "title": "Magistrate indicts anchorperson Iqrarul Hassan for cyberterrorism",
-   "summary": [
-    "KARACHI: A judicial magistrate (East) on Friday framed charges against anchorperson Iqrarul Hassan in a case pertaining to cyberterrorism and the alleged dissemination of anti-state, false and defamatory content on his official social media accounts.",
-    "Last month, Mr Hassan was arrested by National Cyber Crime Investigation Agency (NCCIA) at his home in Lahore in connection with a case registered in Karachi under multiple provisions of the Prevention of Electronic Crimes Act (Peca).",
-    "The NCCIA had registered a case against Mr Hassan for offences under Sections 9 (glorification of an offence), 10 (cyberterrorism), 20 (offences against dignity of a natural person), 24 (cyberstalking) and 26-A (punishment for false and fake information) of Peca."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2046041/magistrate-indicts-anchorperson-iqrarul-hassan-for-cyberterrorism",
-   "image": "https://i.dawn.com/large/2026/10/131342239a1e1d5.webp",
-   "published_at": "2026-11-21T04:15:57Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "43e104f45301cbca2f14d42b150dd975eb3c865e",
-   "title": "Alleged rapist of daughter killed in ‘CCD encounter’ in Kot Addu",
-   "summary": [
-    "A case was registered against the suspect on the complaint of her grandmother on November 18.",
-    "Earlier, in July, a case was also registered against the suspect on the complaint of another woman for allegedly raping her but he was not arrested at the time.",
-    "A CCD spokesperson said that they were carrying the suspect to Qasba Gujrat when his three accomplices opened fire at them."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2046016/alleged-rapist-of-daughter-killed-in-ccd-encounter-in-kot-addu",
-   "image": "https://i.dawn.com/large/2026/11/21090809630235b.webp",
-   "published_at": "2026-11-21T04:08:57Z",
-   "category": "pakistan",
    "related": []
   }
  ]

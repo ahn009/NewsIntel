@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-21T09:37:50.373879Z",
- "story_count": 40,
+ "generated_at": "2026-11-21T17:22:30.040028Z",
+ "story_count": 29,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "ok",
-  "https://www.dawn.com/feeds/pakistan": "ok",
+  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,321 +20,231 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
+  "https://www.espn.com/espn/rss/news": "ok"
  },
  "stories": [
   {
-   "id": "642bafaa2aa77f52e1441c7d4f99cd07c963e5dc",
-   "title": "Rizwan, Shan, Saim among notable omissions as PCB awards contracts to 38 players",
+   "id": "9971f45657061cdfe234f237f12454665c7119b9",
+   "title": "FBI's criminal information database hacked, CNN reports",
    "summary": [
-    "Players on Test-only contracts, however, would be encouraged to prioritise four-day cricket if taking up additional playing commitments.",
-    "Existing incentives include doubled match fees for victories against higher-ranked opponents and half the Test match fee for contracted players appearing in domestic four-day cricket.",
-    "Players awarded central contracts Test and ODI: Babar Azam, Salman Ali Agha."
+    "The FBI is investigating a suspected breach of a nationwide database ​used by federal, state and local ‌law enforcement agencies to share criminal justice information, CNN reported on Friday, citing two people briefed ​on the investigation.",
+    "The apparent compromise of the ​National Crime Information Centre database would ⁠mark the second intrusion involving an FBI ​system in recent months and the latest in ​a string of cyber incidents that have alarmed US officials over the past week.",
+    "Read: FBI and US Secret Service working with Binance after $6.3 billion hack, source says The FBI database is used by law enforcement ‌agencies ⁠nationwide to store and share information on warrants, criminal histories and background checks."
    ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2046112/rizwan-shan-saim-among-notable-omissions-as-pcb-awards-contracts-to-38-players",
-   "image": "https://i.dawn.com/large/2026/11/211426457af88ca.webp",
-   "published_at": "2026-11-21T09:29:38Z",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641550/fbis-criminal-information-database-hacked-cnn-reports",
+   "image": null,
+   "published_at": "2026-11-21T10:58:29Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "8e41819aa78448db7c0558957976ede4bdf18f01",
-   "title": "FM Dar calls for multilateralism, says bloc or unilateral politics will not work",
+   "id": "5b1ffe0b4d1df4575dc8a31198c6e14447ac8ff5",
+   "title": "Parliamentary affairs minister invites PTI to join NA electoral reforms committee",
    "summary": [
-    "Deputy Prime Minister and Foreign Minister Ishaq Dar stressed the importance of multilateralism, saying bloc politics and unilateralism would not work.",
-    "The foreign minister said that even during the previous round of indirect talks between the US and Iran in Oman, it had been agreed that Pakistan must be present if direct talks were held.",
-    "Dar also hailed the June 18 signing of the Islamabad Memorandum of Understanding between the US and Iran, but regretted the subsequent violations. “Pakistan hasn’t given up."
+    "The government on Saturday invited the Pakistan Tehreek-e-Insaf (PTI) to join the National Assembly (NA) Electoral Reforms Committee (ERC), offering representation in proportion to the party’s strength in the lower house while rejecting its demand for equal representation.",
+    "The NA on October 16 passed a motion moved by Dr Chaudhry under Rule 244B to form a parliamentary committee comprising members from both houses to recommend electoral reforms.",
+    "The motion stipulated that parliamentary parties would be represented in proportion to their strength in Parliament."
    ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2046111/fm-dar-calls-for-multilateralism-says-bloc-or-unilateral-politics-will-not-work",
-   "image": "https://i.dawn.com/large/2025/07/07175030929ea87.jpg",
-   "published_at": "2026-11-21T09:19:45Z",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641547/parliamentary-affairs-minister-invites-pti-to-join-na-electoral-reforms-committee",
+   "image": null,
+   "published_at": "2026-11-21T09:58:44Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "ede589f02e6e5d9957c21b88329268df6ea88e92",
-   "title": "Musadik Malik holds separate meetings with Iranian, Tajik officials on SCO forum sidelines",
+   "id": "2e29261137816486809e3785199d550f8b0d91b5",
+   "title": "EU proposes tax on Big Tech to boost budget",
    "summary": [
-    "Dr Malik arrived at Purana Qila in New Delhi for the second day of the inaugural SCO Civilisational Dialogue Forum, according to a post shared by his office earlier in the day.",
-    "In a separate meeting with President of Iran’s Islamic Culture and Relations Organisation Mohammad Mahdi Imanipour, Dr Malik underscored the deep-rooted historical and cultural bonds between Pakistan and Iran.",
-    "A day earlier, after arriving in New Delhi, Dr Malik had described the forum as a “tremendous opportunity” for multilateral dialogue, saying that cultures and civilisations transcended geographical boundaries."
+    "The EU put forward plans to tax the world's biggest digital companies to fund its next budget Saturday, as it seeks to bridge divisions among member states over the bloc's long-term funding.",
+    "European Council President Antonio Costa unveiled a new spending proposal that slashes by 204 billion euros ($224 billion) a plan initially put forward by the European Commission, which some countries had slammed as too onerous.",
+    "Among these could be a tax on digital firms, which the draft Costa presented Saturday says will concern companies with an annual turnover for digital activities of at least 50 million euros in the EU as well as a global turnover of more than 750 million euros."
    ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2046109/musadik-malik-holds-separate-meetings-with-iranian-tajik-officials-on-sco-forum-sidelines",
-   "image": "https://i.dawn.com/large/2026/11/211313241988978.webp",
-   "published_at": "2026-11-21T08:32:16Z",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641546/eu-proposes-tax-on-big-tech-to-boost-budget",
+   "image": null,
+   "published_at": "2026-11-21T08:42:21Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "28b7efa850743b895d1fdd6a901d87cb36ec0c95",
-   "title": "Internet provider expects submarine cable repairs to be completed by Dec 6",
+   "id": "004eb29d7210c8a67e37e59cd95c830c93dfe9f0",
+   "title": "From screens in class to smart glasses, Norway rethinks new technologies",
    "summary": [
-    "Internet service provider Transworld Associates has said repair work on an affected international submarine cable is expected to be completed by December 6, with users likely to experience slower internet speeds during peak hours until the work is finished.",
-    "The development follows an earlier announcement by the Pakistan Telecommunication Authority (PTA) that a fault had been reported in the SEA-ME-WE 5 (SMW5) international submarine cable system, approximately 11 kilometres from Pakistan’s coast.",
-    "Internet monitoring organisation NetBlocks had also reported a decline in connectivity in Pakistan, saying the incident was consistent with a fault in the SMW5 international subsea cable system."
+    "After making laptops and screens ubiquitous in schools across the country, Norway is bringing back textbooks in a bid to reverse a sharp decline in pupils' reading and writing skills.",
+    "\"There is reason to believe that the introduction of screens in schools happened too quickly, before we had sufficient knowledge about their effects and about what constitutes good pedagogical use of digital devices,\" Norway's Digitalisation Minister Torgeir Micaelsen told AFP.",
+    "'Quick fixes' Norwegian authorities have, in turn, recommended regulating the use of mobile phones in schools and introducing artificial intelligence into the school curriculum only gradually."
    ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2046093/internet-provider-expects-submarine-cable-repairs-to-be-completed-by-dec-6",
-   "image": "https://i.dawn.com/large/2021/06/60da9ad6696e0.jpg",
-   "published_at": "2026-11-21T08:07:29Z",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641542/from-screens-in-class-to-smart-glasses-norway-rethinks-new-technologies",
+   "image": null,
+   "published_at": "2026-11-21T08:36:39Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "34f55b5883bc801935d5eb33870647e7e6ea1957",
-   "title": "Chinaman or doosra",
+   "id": "ff9cba6631a0d3a41017cf93e8b64570620c9b9f",
+   "title": "Anthropic claims AI-assisted breakthrough on 167-year-old math problem",
    "summary": [
-    "The other is our ‘all-weather friend,’ and though its political and governance model is completely different, the powers that be would be tempted to emulate it for two reasons.",
-    "It seems we may now be tempted to emulate the Chinese political system that produced one of the greatest military-industrial powers.",
-    "In our haste to put things right, let’s not forget that the Chinese, among other things, are masters at biding their time because they have internalised their 5,000 years of history, whereas we have actively disowned ours."
+    "A mathematician at the US artificial intelligence company Anthropic on Friday claimed that he and the company's Claude AI model have solved the 167-year-old Riemann Hypothesis, one of mathematics' most famous unsolved problems.",
+    "Levent Alpoge said he discovered a proof of the hypothesis, first proposed by German mathematician Bernhard Riemann in 1859.",
+    "\"I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis,\" Alpoge wrote in a four-page statement published on his website."
    ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2046076/chinaman-or-doosra",
-   "image": "https://i.dawn.com/large/2025/02/67afc8be93cb1.jpg",
-   "published_at": "2026-11-21T07:32:04Z",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641541/anthropic-mathematician-claims-ai-assisted-breakthrough-on-167-year-old-math-problem",
+   "image": null,
+   "published_at": "2026-11-21T08:16:58Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "c9d48bf1cbcb33dba221aebb2646440cc0c1ceff",
-   "title": "FBI, US Agriculture Department breached by hackers: reports",
+   "id": "a759ab5bfda7d9899723387673f37d987c6b9cf3",
+   "title": "Videos, photos of 13-year-old domestic worker's torture at senior FIA official’s Islamabad residence emerge",
    "summary": [
-    "The US Agriculture Department and the Federal Bureau of Investigation (FBI) were breached by hackers in cyberattacks, US media reported on Saturday, as concerns deepened over the recent spate of tech outages at key American institutions.",
-    "The US Department of Agriculture (USDA) told employees that a system used to facilitate payments to farmers was targeted in a cyberattack, NBC reported on Friday, citing two former USDA officials.",
-    "The former official expressed concerns that hackers “could compromise the accuracy of the information that officers rely on.” AFP has contacted the FBI and USDA for comment."
+    "Read: Court extends remand of two suspects in Fatima murder case Earlier, a post-mortem report prepared by the Pakistan Institute of Medical Sciences (PIMS) revealed extensive injuries and signs of prolonged and brutal torture inflicted on the child.",
+    "Read: Court extends remand of two suspects in Fatima murder case Fatima was working as a domestic helper at the residence, which police identified as the official accommodation of a senior FIA officer located within the Islamabad Police Lines Headquarters.",
+    "The death of 13-year-old Fatima Asghar has once again drawn attention to the exploitation and abuse of children employed as domestic workers in Pakistan."
    ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2046105/fbi-us-agriculture-department-breached-by-hackers-reports",
-   "image": "https://i.dawn.com/large/2026/11/211221204a472d7.webp",
-   "published_at": "2026-11-21T07:31:03Z",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641540/videos-photos-of-13-year-old-domestic-workers-torture-at-senior-fia-officials-house",
+   "image": null,
+   "published_at": "2026-11-21T08:00:34Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "14d3c4d2b01e73b5e1558409f81f9b2ecc25c044",
-   "title": "Wall Street ends sharply lower on AI selloff, S&P 500, Dow in correction",
+   "id": "86b6e0c1246c69d9a57f98ac6388055b791125c5",
+   "title": "Bangladesh border guards detain six Indians attempting illegal border crossing",
    "summary": [
-    "US stocks extended their rout on Friday, and the S&P ​500 and the Dow both confirmed corrections after Anthropic’s momentous debut fell flat, exacerbating worries about the AI trade that has driven this year’s stock market rally.",
-    "Anthropic’s supersized debut as a publicly held company, which was intended to raise as much as $2 trillion in market cap, failed to catch ​fire on Thursday, closing 17.1pc above its $83 offer price as enthusiasm for the stock faded throughout the session.",
-    "In its second day as a publicly held company, Anthropic’s shares fell 9.1pc; Nvidia’s shares tumbled 13.8pc."
+    "Nalitabari Police Station Officer-in-Charge Mohammad Kamal Hossain said the BGB had handed over the six individuals, including three children, to the police station on Friday night after they had been detained earlier in the Fekamari area in the upazila, according to the TOB.",
+    "According to the BGB, during preliminary questioning, the detainees stated that they had illegally entered Bangladesh through the border in 2024 and had been staying in different parts of the country ever since.",
+    "Bayezid added that the BGB would continue its strict stance against drug trafficking, smuggling and illegal border crossings, the TOB reported."
    ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2046101/wall-street-ends-sharply-lower-on-ai-selloff-sampp-500-dow-in-correction",
-   "image": "https://i.dawn.com/large/2026/11/21113342a3b81ed.webp",
-   "published_at": "2026-11-21T06:35:56Z",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641539/bangladesh-border-guards-detain-six-indians-attempting-illegal-border-crossing",
+   "image": null,
+   "published_at": "2026-11-21T07:54:44Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "19771f08199c01effd48194cc05b0de49e4fb1be",
-   "title": "Yemen’s Houthis launch strikes after Saudi coalition’s 'special operation'",
+   "id": "3abf1eb4b10605db911d100bbb4f41a651a6207a",
+   "title": "NIH issues nationwide advisories on flu, smog and vaccine-preventable diseases",
    "summary": [
-    "Yemen’s Houthis launched strikes on the Saudi capital Riyadh on Saturday, after vowing reprisals for a “special operation” by the Saudi-led coalition fighting them.",
-    "Saudi Arabia has been battling a surge in attacks since fighting reignited in neighbouring Yemen’s civil war this summer, where Riyadh backs the internationally recognised government against the Houthis.",
-    "The strikes came after the Houthis vowed revenge for the coalition’s attack on the Red Sea port city of Hodeida and other targets on Friday."
+    "The advisories, issued by the NIH’s Centre for Disease Control, cover the prevention and control of seasonal influenza for 2026-27, health risks and precautionary measures associated with smog, as well as vaccine-preventable disease control.",
+    "Health authorities have further been directed to strengthen public awareness and risk communication to promote preventive measures against seasonal infections and smog-related health complications.",
+    "The NIH has urged all relevant health authorities and stakeholders across the country to implement the recommended measures promptly to minimise winter-related health risks and protect public health."
    ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2046096/yemens-houthis-launch-strikes-after-saudi-coalitions-special-operation",
-   "image": "https://i.dawn.com/large/2026/11/211030315f2f584.webp",
-   "published_at": "2026-11-21T06:31:47Z",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641532/nih-issues-nationwide-advisories-on-flu-smog-and-vaccine-preventable-diseases",
+   "image": null,
+   "published_at": "2026-11-21T06:33:51Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "d6536449d34f2dcca8ec3ebb1a43b81c5d07703a",
-   "title": "Countries open path towards 'killer robots' pact",
+   "id": "fdec3abfafe481c48cc055ac7f4d8f9972c089e2",
+   "title": "Nearly 1,500 people stranded in Japan's Fukushima Prefecture due to heavy snow",
    "summary": [
-    "Countries agreed on Saturday to open a path towards finding an international agreement on regulating lethal autonomous weapons systems, though campaigners seeking to stop so-called killer robots were disappointed by the “watered-down” outcome.",
-    "The 128 countries party to the CCW “agreed to launch the elaboration of an international instrument on lethal autonomous weapons systems, which should be conducted over the next two years”, conference president Julien Thoni told reporters afterwards.",
-    "While a majority of states went in favour of a legally binding agreement, countries that have the technology, including the United States and Russia, are reluctant to have their hands tied."
+    "Nearly 1,500 people were stranded in a village in Japan's Fukushima Prefecture after heavy snow toppled trees and blocked roads, local authorities said on Saturday.",
+    "Those stranded include approximately 900 residents and 500 people staying at hotels and other accommodations in and around the Urabandai area of Kitashiobara village, Kyodo News Agency reported, citing authorities.",
+    "No injuries have been reported so far, according to authorities."
    ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2046098/countries-open-path-towards-killer-robots-pact",
-   "image": "https://i.dawn.com/large/2026/11/211038382446cef.webp",
-   "published_at": "2026-11-21T05:50:52Z",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641530/nearly-1500-people-stranded-in-japans-fukushima-prefecture-due-to-heavy-snow",
+   "image": null,
+   "published_at": "2026-11-21T06:09:58Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "b90cb26a13edde89bef51ec85e6cc4901a0f0602",
-   "title": "Cummins wins Cricket Australia's 'unanimous support' to remain Test captain",
+   "id": "41a94f9e713e384d08f04595dbf03155801e3a2e",
+   "title": "How Grand Theft Auto VI's launch surpassed expectations",
    "summary": [
-    "Cricket Australia threw its “unanimous support” behind Pat Cummins to remain Test captain Saturday, rejecting any suggestion his integrity had been compromised by the lingering “Sandpapergate” scandal.",
-    "Only then-captain Steve Smith, his deputy David Warner and Bancroft – who used the sandpaper – were found to be responsible by a Cricket Australia probe.",
-    "Otherwise, from this point, captaining the Australian team in Perth (at the first Test) will be my focus and priority.” Hazlewood threw his support behind Cummins earlier Saturday and made a veiled threat to call it a day if he was removed as captain."
+    "I'm just kind of soaking in the world.\" Read: GTA 6 reportedly beats Taylor Swift’s $2 billion Eras Tour record in just one day Even rival developers were complimentary.",
+    "Rockstar said on Friday that retail sales of the game reached a record $3.79 billion, their estimate as of the end of launch day.",
+    "It kind of just shows the growth of video games as a medium as well, artistically, commercially and culturally.” The action in GTA VI is set in Leonida, the game's take on Florida."
    ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2046094/cummins-wins-cricket-australias-unanimous-support-to-remain-test-captain",
-   "image": "https://i.dawn.com/large/2026/11/21101619ed38f37.jpg",
-   "published_at": "2026-11-21T05:16:30Z",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641529/how-grand-theft-auto-vis-launch-surpassed-expectations",
+   "image": null,
+   "published_at": "2026-11-21T06:06:04Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "1c549630cd2dcaf3f62b80407c6426a0539dfb7e",
-   "title": "Court extends physical remand of accused in minor maid’s murder case in Islamabad",
+   "id": "0c5cc393a76388283856dd8bf710a50c19cb502b",
+   "title": "As Trump basks in summit pomp, China's Xi strengthens his hand",
    "summary": [
-    "Directs investigating officer to determine whether the child was subjected to bonded labour and exploitation The prosecution further informed the court that an electric iron had been recovered from the female accused and a stick from the male accused.",
-    "The court also ordered the IO to verify the alleged relationship between the complainant and the accused family, and to ascertain whether any actual arrangement regarding her education, maintenance, or welfare was made.",
-    "Furthermore, the court directed an inquiry into whether the child was engaged in domestic work or employed in any capacity, including any child labour or exploitation."
+    "US President Donald Trump hailed the fanfare of his meeting this week with Xi Jinping as a victory, but the US president has gained little from three such summits this year while the Chinese ​leader has strengthened his position on the world stage, analysts say.",
+    "Xi emerged from a global gathering in China as a statesman who could convene the first China-US-Russia summit and he keeps a ‌fragile trade truce with the US in a holding pattern — where Beijing likes it — even as Washington takes a harder line.",
+    "\"It may ​feel like a holding pattern by comparison to past summits, but in the current context it's actually a significant step, given the recent midterm elections and the Jensen Huang scandal.\" Analysts expect the year's fourth Trump-Xi meeting will also be heavy on optics."
    ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2045958/court-extends-physical-remand-of-accused-in-minor-maids-murder-case-in-islamabad",
-   "image": "https://i.dawn.com/large/2026/11/21093720c84d982.jpg",
-   "published_at": "2026-11-21T04:38:10Z",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641527/as-trump-basks-in-summit-pomp-chinas-xi-strengthens-his-hand",
+   "image": null,
+   "published_at": "2026-11-21T05:59:43Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "0e3ee30514b4693ad05714d4be5831547657618e",
-   "title": "Three suspects remanded into FIA custody over counterfeit vaccine in Islamabad",
+   "id": "b934abde8458e2d6b3468cec554bcdbfdd35d299",
+   "title": "Hafiz Naeem urges government to prioritise public relief in meeting with Naqvi",
    "summary": [
-    "The FIA had sought a 14-day physical remand of the suspects to investigate the alleged supply and administration of counterfeit vaccines.",
-    "The agency alleged that the suspects had administered substandard and counterfeit doses of Influvac Tetra vaccine, bearing lot number P13, to patients.",
-    "The FIA informed the court that reports issued by the Drug Regulatory Authority of Pakistan (Drap) and the Punjab government had declared the vaccine from the said lot counterfeit and substandard."
+    "Later on October 27, Shehbaz also met Hafiz Naeem in Islamabad and agreed to form a six-member committee to finalise recommendations on expanding the existing petrol relief scheme and preparing proposals for a phased reduction in the petroleum levy.",
+    "Read: JI to continue protests nationwide as it demands end to petroleum levy He stated that Prime Minister Shehbaz Sharif and Hafiz Naeem were expected to meet on November 24 or 25 to finalise a mechanism for reducing the petroleum levy and providing relief to consumers.",
+    "In regards to JI's negotiation with the government, Hafiz Naeem stated that the party had presented the final draft of its demands regarding the petroleum levy and other taxes to the government."
    ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2045961/three-suspects-remanded-into-fia-custody-over-counterfeit-vaccine-in-islamabad",
-   "image": "https://i.dawn.com/large/2021/06/60d6aedfc0d91.jpg",
-   "published_at": "2026-11-21T04:34:48Z",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641525/hafiz-naeem-urges-government-to-prioritise-public-relief-in-meeting-with-naqvi",
+   "image": null,
+   "published_at": "2026-11-21T05:23:16Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "376b6667f6e2ee3f92596b04124a947ea1c66e14",
-   "title": "Alarming rise in dog-bite cases echoes in Sindh Assembly",
+   "id": "705a574e27d4af541fbe4b50023661a2eee79c76",
+   "title": "Musadik Malik warns of climate threat to civilisation, heritage at SCO forum in New Delhi",
    "summary": [
-    "KARACHI: The issue of an alarming rise in dog-bite cases echoed in the Sindh Assembly on Friday, with the government claiming that the process of catching stray dogs for vaccination is under way across the province.",
-    "Local Government Minister Syed Nasir Hussain Shah said that considerable work had been done on stray dogs, but more steps were needed. “The process of catching stray dogs, vaccinating them and releasing them again is under way in different areas of the province,” he added.",
-    "The minister said that a pilot project of the digital labour inspection system was under way in Karachi, and the labour department’s manual system was gradually being shifted online."
+    "Malik described Pakistan’s cultural identity as a product of diverse civilisations, communities and historical influences, saying the country’s heritage has been shaped by centuries of interaction among people from different regions.",
+    "Malik also held a bilateral meeting with Tajikistan’s Minister of Culture, Sattoriyon Amonzoda, on the sidelines of the first SCO Civilisational Dialogue Forum, the Pakistan High Commission in India said in a post on X.",
+    "Earlier, Dr Musadik Malik also stressed the importance of civilisational dialogue among regional countries, including Pakistan and India, saying that cultures and historical connections transcend geographical and political boundaries."
    ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2046035/alarming-rise-in-dog-bite-cases-echoes-in-sindh-assembly",
-   "image": "https://i.dawn.com/large/2025/12/0207451261b7acd.webp",
-   "published_at": "2026-11-21T04:20:12Z",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641524/malik-warns-of-climate-threat-to-civilisation-heritage-at-sco-forum-in-new-delhi",
+   "image": null,
+   "published_at": "2026-11-21T04:40:20Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "31eeafd6bba372de1cc3d480799fce9edbd4a945",
-   "title": "Magistrate indicts anchorperson Iqrarul Hassan for cyberterrorism",
+   "id": "af3d473b37f79715611c5ea8a0cf95b51fc87dcb",
+   "title": "DPM Dar calls for new regional security framework to ensure lasting peace",
    "summary": [
-    "KARACHI: A judicial magistrate (East) on Friday framed charges against anchorperson Iqrarul Hassan in a case pertaining to cyberterrorism and the alleged dissemination of anti-state, false and defamatory content on his official social media accounts.",
-    "Last month, Mr Hassan was arrested by National Cyber Crime Investigation Agency (NCCIA) at his home in Lahore in connection with a case registered in Karachi under multiple provisions of the Prevention of Electronic Crimes Act (Peca).",
-    "The NCCIA had registered a case against Mr Hassan for offences under Sections 9 (glorification of an offence), 10 (cyberterrorism), 20 (offences against dignity of a natural person), 24 (cyberstalking) and 26-A (punishment for false and fake information) of Peca."
+    "Highlighting China's involvement in the peace efforts, Dar said Pakistan and China had proposed a five-point peace initiative that received substantial backing from major international actors, including the European Union and the United Kingdom.",
+    "Dar attributed Pakistan's economic instability to policy shortcomings but expressed confidence in the country's resilience and its potential to join the G20 in the future.",
+    "Speaking about Pakistan's relations with the European Union, Dar pledged a comprehensive security mechanism to protect investors in the country, citing measures including the imposition of emergency and governor's rule to safeguard economic interests."
    ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2046041/magistrate-indicts-anchorperson-iqrarul-hassan-for-cyberterrorism",
-   "image": "https://i.dawn.com/large/2026/10/131342239a1e1d5.webp",
-   "published_at": "2026-11-21T04:15:57Z",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641518/dpm-dar-calls-for-new-regional-security-framework-to-ensure-lasting-peace",
+   "image": null,
+   "published_at": "2026-11-21T03:20:16Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "43e104f45301cbca2f14d42b150dd975eb3c865e",
-   "title": "Alleged rapist of daughter killed in ‘CCD encounter’ in Kot Addu",
+   "id": "a8077928d62728d93fbcbf8f17ed8145483f8205",
+   "title": "US Vice President Vance declines to say he would have ordered Iran strikes",
    "summary": [
-    "A case was registered against the suspect on the complaint of her grandmother on November 18.",
-    "Earlier, in July, a case was also registered against the suspect on the complaint of another woman for allegedly raping her but he was not arrested at the time.",
-    "A CCD spokesperson said that they were carrying the suspect to Qasba Gujrat when his three accomplices opened fire at them."
+    "Many viewed his statement, posted on social media, as a break with Trump as the vice president considers a 2028 White House bid.",
+    "\"But I say, I know the Iranians, and, frankly, they're crazy.\" When asked later in the press conference if the war was worth Republicans' steep congressional losses, Vance did not explicitly endorse the operation.",
+    "And my view is that my goal is and my job is to support the president of the United States.\" Vance has long opposed the war and acted as Washington's main emissary for peace talks, brokering a short-lived provisional truce over the summer that quickly fell apart."
    ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2046016/alleged-rapist-of-daughter-killed-in-ccd-encounter-in-kot-addu",
-   "image": "https://i.dawn.com/large/2026/11/21090809630235b.webp",
-   "published_at": "2026-11-21T04:08:57Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "64f0d4390f505f3aaec45b322637fcb4e4114e36",
-   "title": "Mobile phone explosion: Panicked passengers shatter windowpanes, door of e-bus in Bahawalpur",
-   "summary": [
-    "BAHAWALPUR: Passengers travelling in an e-Green Bus got panicked here on Friday, with some of them shattering its windowpanes and door glass, and some others jumping out of the moving vehicle, after a mobile phone exploded in the bus near Dring Stadium.",
-    "As soon as he connected the charger’s wire to the port, the mobile phone exploded, filling the bus with smoke, they say.",
-    "The management also admitted that due to confusion and panic, passengers shattered four windowpanes, while a woman smashed the bus’ glass door in a bid to exit the vehicle."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2046014/mobile-phone-explosion-panicked-passengers-shatter-windowpanes-door-of-e-bus-in-bahawalpur",
-   "image": "https://i.dawn.com/large/2026/11/21090414de7a695.jpg",
-   "published_at": "2026-11-21T04:05:11Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "358014d138ef664aa11c114337835b4fb5c4e216",
-   "title": "Minor boy suffers leg fracture ‘at employer’s hands’ in Lahore",
-   "summary": [
-    "LAHORE: A minor boy working as a house help was hospitalised with a fractured leg and other serious injuries after he was allegedly subjected to brutal torture by his employer in Nawab Town here on Friday.",
-    "Perveen Bibi, the victim’s mother, told the police that her minor son was employed as a house help by the suspect, Hassan, who allegedly subjected the boy to inhuman torture with a club on theft allegations.",
-    "As a result the boy suffered multiple serious injuries, including a leg fracture, she alleged."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2046019/minor-boy-suffers-leg-fracture-at-employers-hands-in-lahore",
-   "image": "https://i.dawn.com/large/2019/04/5cc2c6c7a6797.jpg",
-   "published_at": "2026-11-21T03:59:58Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "8641cec75e9b94f4db417e2ea7dadda9df3894fe",
-   "title": "Gujranwala, Multan overtake Lahore in air pollution",
-   "summary": [
-    "The readings indicate a widespread deterioration in air quality across Punjab, with several cities experiencing hazardous pollution levels that pose serious health risks, particularly to children, elderly people and those suffering from respiratory and cardiovascular diseases.",
-    "During the critical smog period from Sept 1 to Nov 18, the department conducted 29,999 visits, demolished 519 kilns, sealed 494 and registered 408 FIRs, besides imposing fines totalling Rs101.45m.",
-    "In the first 18 days of November, enforcement teams conducted 7,509 visits, demolished 101 kilns, sealed 161 and registered 96 FIRs, while imposing fines totalling Rs27.6m."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2046020/gujranwala-multan-overtake-lahore-in-air-pollution",
-   "image": "https://i.dawn.com/large/2026/11/120730298fd1e99.webp",
-   "published_at": "2026-11-21T03:55:24Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "9530703d4abffe9c2317cbdfbb024be80c65d04c",
-   "title": "Before we design new provinces",
-   "summary": [
-    "Article 239(4) further requires any bill altering a province’s limits to secure a two-thirds majority of that provincial assembly’s total membership before presidential assent.",
-    "A national majority through referendum may favour a change whose costs fall chiefly on the people of one particular province.",
-    "The question remains: can a referendum, by itself, effect the extensive constitutional changes that creating new provinces would entail?"
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2046079/before-we-design-new-provinces",
-   "image": "https://i.dawn.com/large/2026/11/210415353919323.webp",
-   "published_at": "2026-11-21T03:48:52Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "8e4c620f2a3660c7dc3fc5e465c07dce1083d385",
-   "title": "Balochistan CM promises jobs across the province",
-   "summary": [
-    "QUETTA: Balochistan Chief Minister Mir Sarfraz Bugti has said that recruitment against vacant federal posts in the province will be extended to all districts in phases to ensure that people from across Balochistan benefit in proportion to their population.",
-    "Speaking during the provincial assembly session on Friday, MPA Engineer Zamarak Khan Achakzai, while raising a point of order, welcomed the federal government’s decision to initiate recruitment against vacant posts in 12 districts of Balochistan.",
-    "Responding to the concerns, Chief Minister Sarfraz Bugti thanked the president, the prime minister and the field marshal for initiating recruitment against vacant posts to provide employment opportunities to the youth of Balochistan."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2046001/balochistan-cm-promises-jobs-across-the-province",
-   "image": "https://i.dawn.com/large/2026/04/08080340c789fdc.webp",
-   "published_at": "2026-11-21T03:08:39Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "33758ad9c1eff814de27904004cc8de5acd50ce2",
-   "title": "Pakistan rises 17 places in UN e-governance ranking",
-   "summary": [
-    "Federal Minister for Inform­a­tion Technology and Telecom­m­unication Shaza Fatima Khawaja said: “Pakistan has risen 31 places in two editions of the UN’s benchmark for digital government.",
-    "Its score for online services increased by 20 per cent to 0.8422, the second-highest in Southern Asia, reflecting the growing availability of government services through digital channels.",
-    "He said the government would build on this progress in the next phase of the Digital Nation agenda, focusing on extending digital services, connectivity and digital skills to every part of the country."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2046012/pakistan-rises-17-places-in-un-e-governance-ranking",
-   "image": "https://i.dawn.com/large/2024/12/06074354d3dca25.jpg",
-   "published_at": "2026-11-21T03:02:37Z",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641517/us-vice-president-vance-declines-to-say-he-would-have-ordered-iran-strikes",
+   "image": null,
+   "published_at": "2026-11-21T03:13:45Z",
    "category": "pakistan",
    "related": []
   },
@@ -384,6 +294,21 @@
    "related": []
   },
   {
+   "id": "88466b9334c1e830ab16819a9f86e4ddabda3250",
+   "title": "Mohammad Rizwan, Shan Masood, Saim Ayub dropped as PCB unveils central contracts",
+   "summary": [
+    "Pakistan’s Test captain Babar Azam and Salman Ali Agha are the only two players awarded contracts covering both Test and one-day international cricket.",
+    "Azan Awais, Saud Shakeel, Mohammad Abbas and Sajid Khan have been included in the Test category while Abrar Ahmed, Arafat Minhas, Fakhar Zaman, Faheem Ashraf, Haris Rauf and Shaheen Shah Afridi have received ODI and T20I contracts.",
+    "Pakistan's T20I captain Sahibzada Farhan, Hasan Nawaz, Maaz Sadaqat, Mohammad Salman Mirza, Naseem Shah, Shadab Khan and Usman Tariq make up the T20I-only category."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641508/mohammad-rizwan-shan-masood-saim-ayub-dropped-as-pcb-unveils-central-contracts",
+   "image": null,
+   "published_at": "2026-11-21T01:56:05Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
    "id": "259b88100f470f60eb52f7b53afcee955110d180",
    "title": "Meta's India offices hit by opposition protests over account removals",
    "summary": [
@@ -425,21 +350,6 @@
    "url": "https://tribune.com.pk/story/2641504/india-on-top-in-first-new-zealand-test",
    "image": null,
    "published_at": "2026-11-21T01:51:28Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "96a4f2cfcd3151e37fc63e74d8af3f6692de6613",
-   "title": "Myanmar genocide judgment may bolster Gaza case against Israel",
-   "summary": [
-    "South Africa, which has brought a genocide case against Israel over its conduct in Gaza, welcomed the judgment.",
-    "Read: Inside ICJ's historic Rohingya genocide ruling against Myanmar Both Myanmar and Israel have defended the actions of their armed forces as legitimate responses to insurgencies.",
-    "Important Precedent Israeli legal scholar Yuval Shany said the ruling could broaden the arguments available to South Africa in its case against Israel."
-   ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2641503/myanmar-genocide-judgment-may-bolster-gaza-case-against-israel",
-   "image": null,
-   "published_at": "2026-11-21T01:44:28Z",
    "category": "pakistan",
    "related": []
   },
@@ -490,10 +400,10 @@
   },
   {
    "id": "a9e260bc663de1b31bf34b0bf63a0ffde2317b2e",
-   "title": "Tanker hit by unknown projectile near Oman's Khasab, UKMTO says",
+   "title": "Trump vows to make ‘permanent’ deal with Iran, prevent future nuclear ambitions",
    "summary": [
-    "Read: Probe points to possible US role in Iran school strike A UN-backed fact-finding mission recently said there were reasonable grounds to believe that the US had committed war crimes in the two Tomahawk airstrikes in Iran, including one that struck the school in Minab.",
-    "Separately, the US State Department said that the four designated individuals illicitly sell oil to help fund Iran's military and its support for terrorism.",
+    "US President Donald Trump said on Saturday he intended to secure a “permanent” deal with Iran, insisting that no future American president should be able to allow Tehran to obtain a nuclear weapon.",
+    "Follow: https://t.co/GHI09iA8ru pic.twitter.com/fnVToCKWlP — Press TV 🔻 (@PressTV) November 21, 2026 Iran also released a video showcasing a new underground \"missile city\", featuring a double-missile launcher.",
     "Trump, in a press conference on Friday, said: \"They want to make a deal, but they don't want to make a deal that's acceptable to me.\" The United States and Israel attacked Iran on February 28, prompting Tehran to retaliate against Israel and Gulf states hosting US military bases."
    ],
    "source": "Express Tribune",
@@ -504,122 +414,47 @@
    "related": []
   },
   {
-   "id": "80a0ff05604f2170c938c078a9fa73b1d9346d21",
-   "title": "Mechanically unfit traffic police vehicles barred from Pindi roads",
+   "id": "9cef7974c54acb1fd04739c045cbff993bbb579f",
+   "title": "NAB challenges plea against FCC jurisdiction",
    "summary": [
-    "RAWALPINDI: Mechanically unfit police vehicles will not be allowed to operate on Rawalpindi roads and departmental action will be taken against drivers found negligent in their maintenance.",
-    "Drivers to face action over negligence, improper maintenance Presently, there are 45 vehicles, including fork-lifters, and 550 motorcycles in the fleet of the Rawalpindi traffic police.",
-    "During the inspection of 15 vehicles on Friday in the first phase, three vehicles, including two fork-lifters, were found emitting smoke and mechanically unfit."
+    "The National Accountability Bureau (NAB) has questioned the maintainability of a petition challenging amendments to the accountability law that transferred jurisdiction over second appeals in NAB cases from the Supreme Court to the Federal Constitutional Court (FCC).",
+    "The Islamabad High Court (IHC), while hearing the plea on Friday, sought arguments from NAB on the maintainability of the petition at the next hearing and adjourned the proceedings without fixing a date for further hearing.",
+    "The petition challenges an amendment under which appellate jurisdiction in NAB cases, following decisions by high courts, was shifted from the Supreme Court to the FCC."
    ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2045962/mechanically-unfit-traffic-police-vehicles-barred-from-pindi-roads",
-   "image": "https://i.dawn.com/large/2026/11/210927178ad9bb1.jpg",
-   "published_at": "2026-11-20T23:34:29Z",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641458/nab-challenges-plea-against-fcc-jurisdiction",
+   "image": null,
+   "published_at": "2026-11-20T16:59:44Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "391bf8c29008fe8e24d56ff411b45b3d4b4b2ba0",
-   "title": "Security to be stepped up for Sikh pilgrims visiting Punja Sahib",
+   "id": "8a44d1e317d27f5e174558a80bfb38ccbdf34362",
+   "title": "Mustafa Kamal links MQM-P's demand for new provinces to failure of local governments",
    "summary": [
-    "The plan includes installation of walkthrough gates, surveillance cameras, searchlights and layered security cordons around key entry and exit points.",
-    "Walkthrough gates and around 50 security cameras have been installed at the gurdwara, while 40 metal detectors and luggage scanners have been placed at entry points to ensure strict monitoring.",
-    "Speaking on this occasion, Dr Mudassir Ahmed Shah said that all arrangements, including security, transport and accommodation, have been finalised to ensure that pilgrims can perform their religious obligations in a peaceful and dignified environment."
+    "Kamal's remarks came amid an escalating political row between the MQM-P and the Pakistan Peoples Party (PPP) over the creation of new provinces.",
+    "The proposal drew the interest of the Muttahida Qaumi Movement-Pakistan (MQM-P), which has repeatedly advocated carving out new provinces from Sindh.",
+    "Speaking about another major public health challenge, Kamal said approximately 11 million people had been identified with Hepatitis C during screening in Pakistan."
    ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2045957/security-to-be-stepped-up-for-sikh-pilgrims-visiting-punja-sahib",
-   "image": "https://i.dawn.com/large/2019/11/5dc6ee5e540cd.jpg",
-   "published_at": "2026-11-20T23:34:29Z",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641377/mustafa-kamal-links-mqm-ps-demand-for-new-provinces-to-failure-of-local-governments",
+   "image": null,
+   "published_at": "2026-11-20T06:30:26Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "1cb89eb6e0db45663eab7c88306f46a747834e02",
-   "title": "JUI-F leaders being targeted for refusing to join govt: Fazl",
+   "id": "b5d4a91697721904830cf4b1f8d68ed13fb1be4a",
+   "title": "PTI backs referendum to determine public opinion on creation of new provinces",
    "summary": [
-    "Mr Fazl said that in Punjab, authorities were pressuring JUI-F workers and leaders to quit the party but not a single activist was willing to abandon the party anywhere in the country.",
-    "He claimed that the Mufti Mehmood Markaz was not an encroachment. “Our Markaz is not an encroachment.",
-    "What business do they have in Pakistan’s politics?” The JUI-F leader alleged that authorities were “stealing” Khyber Pakhtunkhwa’s mineral resources and had become angry when his party exposed the theft."
+    "Dogar said PTI founder Imran Khan had consistently advocated the creation of smaller provinces, adding that a separate South Punjab province had been included in the party's 2018 election manifesto.",
+    "Read: Govt moves to break deadlock over new provinces through political dialogue Dogar said divisions within the ruling coalition made it premature for the opposition to decide its position on the proposed constitutional amendment.",
+    "On the proposed parliamentary committee on electoral reforms, Dogar said government Chief Whip Tariq Fazal Chaudhry had asked the opposition to nominate its members."
    ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2045977/jui-f-leaders-being-targeted-for-refusing-to-join-govt-fazl",
-   "image": "https://i.dawn.com/large/2019/09/5d9182ecc4ff6.jpg",
-   "published_at": "2026-11-20T23:33:57Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "5b69a691c12c63eff2625f03446507a27850919c",
-   "title": "Education dept restricts media access to govt schools in Charsadda",
-   "summary": [
-    "The decision comes as journalists in different districts of Khyber Pakhtunkhwa are highlighting the deteriorating condition of public-sector educational institutions, including overcrowded classrooms and a lack of essential facilities.",
-    "At Government Primary School Paindakhel, around 380 students are enrolled, but the institution has only three classrooms, forcing many children to attend lessons in the open.",
-    "Similarly, Government Primary School Majoki has more than 300 students but only five classrooms."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2045967/education-dept-restricts-media-access-to-govt-schools-in-charsadda",
-   "image": "https://i.dawn.com/large/2015/03/54feafbcc2742.jpg",
-   "published_at": "2026-11-20T23:33:57Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "7dcfcd9a10919632cca7c715b39bc9370b2668e5",
-   "title": "Three die as vehicle falls in Panjkora River",
-   "summary": [
-    "Rescue 1122 and police personnel rushed to the scene.",
-    "Rescue personnel recovered a large amount of cash from the belongings of a deceased and handed over the money to his heirs.",
-    "Residents and the bereaved families praised the rescue personnel for their honesty and sense of duty, saying their conduct reflected that the rescuers considered safeguarding people’s belongings, alongside saving lives, an important part of their responsibility."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2045978/three-die-as-vehicle-falls-in-panjkora-river",
-   "image": "https://i.dawn.com/large/2021/07/60e0838d7b243.jpg",
-   "published_at": "2026-11-20T23:33:57Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "2483337d37f274f9593e3190813582852385295e",
-   "title": "Young woman, man shot dead for ‘honour’ in Oghi",
-   "summary": [
-    "Oghi SHO Amir Khan told reporters that the suspect, whose family had shifted to Oghi from Kohistan, killed his young daughter and the man for honour.",
-    "AFGHANS DETAINED: Police have arrested more than 350 Afghan nationals staying illegally in different parts of the district over the past three weeks and handed them over to the district administration for deportation to their homeland.",
-    "He said that earlier Afghan nationals settled anywhere in the district were arrested and booked under Section 14 of the Foreigners Act, 1946, but now they were taken into custody and handed over to the district administration for their own deportation to their home country."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2045973/young-woman-man-shot-dead-for-honour-in-oghi",
-   "image": "https://i.dawn.com/large/2019/07/5d382668f1cbc.jpg",
-   "published_at": "2026-11-20T23:33:57Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "0aa121542465ff6b4a2ad068ad50969460a21550",
-   "title": "PHC directs govt to notify recruitment rules for NCCIA within three months",
-   "summary": [
-    "PESHAWAR: The Peshawar High Court has directed the federal government to finalise the service and recruitment rules for the National Cyber Crime Investigation Agency (NCCIA) within three months.",
-    "The court directed the government and other respondents, including the NCCIA director general, not to take any adverse action against the petitioners until the rules were notified.",
-    "Meanwhile, the respondents initiated fresh recruitment and deputation against cybercrime-related posts instead of regularising the petitioners."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2045980/phc-directs-govt-to-notify-recruitment-rules-for-nccia-within-three-months",
-   "image": "https://i.dawn.com/large/2020/05/5ebb7afdca5a3.jpg",
-   "published_at": "2026-11-20T23:33:57Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "91d9e505944867121a7a7e7ecce5645693428350",
-   "title": "Provinces cannot assume ‘unexercised’ federal powers: FCC",
-   "summary": [
-    "The FCC observed that the impugned judgements had given controlling weight to the infrastructure purpose, movement of goods and asserted compensatory character of the cess without first establishing provincial legislative competence.",
-    "The FCC further observed that the abolition of the Concurrent Legislative List through the 18th Amendment had expanded provincial competence but had not transferred subjects expressly retained in the federal domain.",
-    "During the hearing, the taxpayers had contended that the levies encroached upon parliament’s exclusive legislative domain and could not be sustained as fees or compensatory charges merely because the goods used provincial infrastructure."
-   ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2046013/provinces-cannot-assume-unexercised-federal-powers-fcc",
-   "image": "https://i.dawn.com/large/2026/11/1919240099b60c3.webp",
-   "published_at": "2026-11-20T23:32:44Z",
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2641368/pti-backs-referendum-to-determine-public-opinion-on-creation-of-new-provinces",
+   "image": null,
+   "published_at": "2026-11-20T05:23:07Z",
    "category": "pakistan",
    "related": []
   }

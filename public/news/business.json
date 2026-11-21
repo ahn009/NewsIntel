@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-21T09:37:50.375075Z",
- "story_count": 16,
+ "generated_at": "2026-11-21T17:22:30.040944Z",
+ "story_count": 14,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "ok",
-  "https://www.dawn.com/feeds/pakistan": "ok",
+  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,9 +20,35 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
+  "https://www.espn.com/espn/rss/news": "ok"
  },
  "stories": [
+  {
+   "id": "cfe33db7546f7f8e8d5fb42bc701a3ce5dad6a2c",
+   "title": "Sessions offer advice on rising energy costs",
+   "summary": [
+    "A council is urging people to seek support with rising energy costs on heating this winter."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmy49l3x893jo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-21T12:09:49Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "96a7f9767d2d24038a127cb3619d966654583a60",
+   "title": "Judge approves $7.25bn Bayer payout to settle claims that Roundup causes cancer",
+   "summary": [
+    "German company faced 65,000 claims from people who said they developed cancer after using weedkillerA Missouri judge on Friday approved Bayer’s $7.25bn settlement of lawsuits ⁠alleging that its weedkiller ​Roundup causes cancer, potentially resolving litigation that has weighed on the German company for close to a decade.Judge Timothy Boyer of a state court in St Louis ⁠found the settlement “fair, reasonable and adequate”."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation",
+   "image": "https://i.guim.co.uk/img/media/efbc188d676f119c98b60ce20d212a75264e7757/483_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=80be199f03da1f2774ebcc5eaf1c6cd0",
+   "published_at": "2026-11-20T23:42:43Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "b05464920f2e05935860dbc64bea44d5a39af05b",
    "title": "What exactly is in the deal between the UK and the EU?",
@@ -168,19 +194,6 @@
    "related": []
   },
   {
-   "id": "fa271ab0d709f34efd09655ec4223ff3c9e556ef",
-   "title": "Survey reveals 'major increase' in cost of living",
-   "summary": [
-    "More than two thirds of respondents reported noticing rises in the cost of living."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cq772r7kk315o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-20T06:12:28Z",
-   "category": "business",
-   "related": []
-  },
-  {
    "id": "eeea0e424e241a36ab8ec7137f5a30d86ebe6a72",
    "title": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
    "summary": [
@@ -190,46 +203,6 @@
    "url": "https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-20T06:00:33Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "f980f0e522afb44900b010f5cd4a275d16bc0bec",
-   "title": "Fish and eggs al desko? The dos and don'ts of lunch at work",
-   "summary": [
-    "Eating at your desk?",
-    "The dos and don'ts of lunch at work"
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-20T00:08:37Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "11147e28a0c160e41852517f46d4e815bf940725",
-   "title": "How did Anthropic's stock market debut unfold?",
-   "summary": [
-    "The BBC's Samira Hussain breaks down the AI company's first day as a publicly traded company, as shares closed up 17%."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-19T23:52:25Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "9b2835c8ee7502e70a7f8f58efec32331985f943",
-   "title": "California targets Nvidia in China AI chip probe",
-   "summary": [
-    "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-19T23:04:30Z",
    "category": "business",
    "related": []
   }

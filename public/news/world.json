@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-21T09:37:50.373294Z",
+ "generated_at": "2026-11-21T17:22:30.039608Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "ok",
-  "https://www.dawn.com/feeds/pakistan": "ok",
+  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,176 +20,178 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
+  "https://www.espn.com/espn/rss/news": "ok"
  },
  "stories": [
   {
-   "id": "ec0a4bcf030a68e25cd98142b937da1f66477ab6",
-   "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+   "id": "01bc620cb8045233690a8ec33684b404a1055d50",
+   "title": "Chelsea beaten 4-1 by Leeds United at home in the Premier League",
    "summary": [
-    "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-21T09:27:51Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "c0ba4dbd96829b32be03e8548aaa8d21f6d3fd1e",
-   "title": "French police officers guilty of Michel Zecler assault: What happens now?",
-   "summary": [
-    "Officers dealt more than 30 blows to the Black music producer in what the court ruled was a racially motivated crime."
+    "Leeds come from a goal down at Stamford Bridge to shock Chelsea and climb above their hosts to sixth in Premier League."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/21/french-police-officers-guilty-of-michel-zecler-assault-what-happens-now?traffic_source=rss",
+   "url": "https://www.aljazeera.com/sports/2026/11/21/chelsea-beaten-4-1-by-leeds-united-at-home-in-the-premier-league?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-21T09:12:14Z",
+   "published_at": "2026-11-21T17:21:37Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "f99b3524bf400422eb11cb23fdc558786e89bd53",
-   "title": "Harry Kane to miss ‘a few months’ after injury as Bayern Munich draw",
+   "id": "cf2547504110fc73f54a8ad1892a8fe2983f85ec",
+   "title": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
    "summary": [
-    "Ballon d'Or winner tears a ligament in his left ankle during Bayern Munich’s 1-1 draw against Cologne."
+    "Attack on Kryvyi Rih comes as Russian missiles land in NATO member Poland and US-led peace efforts face uncertainty."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/sports/2026/11/21/ballon-dor-kane-to-miss-a-few-months-after-injury-as-bayern-munich-held?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-21T09:01:29Z",
+   "published_at": "2026-11-21T17:20:03Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "b421a74e964c578d3fa54a14a80903b0e3cb6f10",
-   "title": "Illicit alcohol kills 11, poisons 180 in northeast India’s Manipur state",
+   "id": "3500af305ed03afde70d667f66c4c065b614b69e",
+   "title": "Anthropic mathematician claims he used Claude to prove 19th-century Riemann hypothesis",
    "summary": [
-    "Manipur's chief minister orders a probe into the incident, saying those responsible will be arrested and punished."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/21/suspected-toxic-alcohol-kills-at-least-11-people-in-northeast-india?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T08:48:54Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "dee7ae3761168536cdc19f79e097b7c393afe41b",
-   "title": "Swimmer braves tanker attacks to expose Hormuz contamination",
-   "summary": [
-    "As tankers burned in Hormuz, swimmer Lewis Pugh exposed another casualty of the US-Israeli war on Iran: marine life."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/swimmer-braves-tanker-attacks-to-expose-hormuz-contamination?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T08:39:35Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "5a4c1420c85384397926b716246c39d988df3401",
-   "title": "Gianni Infantino’s FIFA re-election backed by South America’s CONMEBOL",
-   "summary": [
-    "Infantino handed huge boost in re-election campaign as FIFA president as CONMEBOL offers unanimous support."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/sports/2026/11/21/gianni-infantinos-fifa-re-election-backed-by-south-americas-conmebol?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T08:33:52Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "cb40b754313ffec38b2efbb4623de4da31a56a1b",
-   "title": "Spain court grants bail to pro-Palestinian activist James ‘Fergie’ Chambers",
-   "summary": [
-    "Spain’s High Court granted conditional bail to James ‘Fergie’ Chambers, a pro-Palestinian philanthropist."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/spain-court-grants-bail-to-pro-palestinian-activist-james-fergie-chambers-2?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T08:26:22Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "a5ae86279d6526d52eeb90f178b6bd698bc62ee2",
-   "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-   "summary": [
-    "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\"."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-21T08:10:25Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "5a8d64ef0622348fd475187c2bf3043bc69e39e7",
-   "title": "Trafalgar Square Christmas tree felled in Norway",
-   "summary": [
-    "The 21m tree is Oslo’s annual thank you for Britain’s support during World War Two."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-21T08:10:03Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "8dbe631aa2dbbd8d1d2d93169a7a5c67edb6efec",
-   "title": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
-   "summary": [
-    "Efforts to establish rules for AI-powered killer robots and drones have run aground.",
-    "U.N.-backed talks in Geneva ended Saturday with an agreement to extend discussions for two more years.(Image credit: Omer Urer)"
-   ],
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in",
-   "image": null,
-   "published_at": "2026-11-21T08:08:01Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "d057a4ec016c1c14d3a2ec7ae1d8456df0279527",
-   "title": "Telegraph departures signal concerns over direction under Axel Springer’s ownership",
-   "summary": [
-    "Insiders say they only see cuts, with no discernible long-term strategy, since title’s purchase by German media firmA spate of prominent departures and years of public battling over its ownership have ensured the Telegraph’s newsroom has been no stranger to internal intrigue and speculation in recent times.Even by its own high standards, however, its offices have been fraught with rumours about its leadership this week."
+    "He says that Claude helped develop a solution to the problem during the course of about six weeks."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/media/2026/nov/21/telegraph-departures-direction-axel-springer-ownership",
-   "image": "https://i.guim.co.uk/img/media/351f708be30dca27b8ca1b2a67fcd37484ca596e/0_0_4219_3375/master/4219.jpg?width=140&quality=85&auto=format&fit=max&s=5105b308499a22836f9d72388fbda9e6",
-   "published_at": "2026-11-21T08:00:53Z",
+   "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+   "image": "https://i.guim.co.uk/img/media/d3154f68df589c297fc3d173e2bb3d95faca05c9/530_0_4678_3742/master/4678.jpg?width=140&quality=85&auto=format&fit=max&s=2be6ea0855df616ea30ffc89afed2e1f",
+   "published_at": "2026-11-21T16:39:49Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "23ebc14888ba4e2e8f35d0da63725e63b3413f31",
-   "title": "Letby trial doctor barred from treating patients was expert witness in another case",
+   "id": "158994b8ae4ecd45a372af36b26b26fdedb8738c",
+   "title": "International UN talks on controlling use of autonomous weapons collapse",
    "summary": [
-    "The jury, who five months later convicted Letby of the murder of seven babies, were never told."
+    "Week-long efforts fail to establish negotiating mandate on AI warfare after Russian ‘filibustering’Week-long efforts to agree a negotiating mandate for a legally binding international treaty to control the use of autonomous weapons collapsed just before 5am after all-night talks failed to overcome Russian objections.Despite an overwhelming majority of states at the UN’s Convention on Certain Conventional Weapons (CCW) in Geneva wanting to agree a negotiating mandate leading to a legally binding treaty, the need for consensus forced the conference to adopt a much weaker option."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/21/lucy-letby-trial-doctor-professor-peter-hindmarsh-barred-from-treating-patients-expert-witness-another-case",
-   "image": "https://i.guim.co.uk/img/media/b2c26a4fcb3635b204d80bc6d91bdf7ba9a8c866/0_0_2399_1920/master/2399.jpg?width=140&quality=85&auto=format&fit=max&s=f56d00cc8456aae821a1f8eecb3512ee",
-   "published_at": "2026-11-21T08:00:52Z",
+   "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+   "image": "https://i.guim.co.uk/img/media/247601abada695f09f302253178bbc8f6e58cd42/415_0_4165_3333/master/4165.jpg?width=140&quality=85&auto=format&fit=max&s=19283afd22dbc9bfead542bffab860d5",
+   "published_at": "2026-11-21T16:36:11Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "cb8532cb120c0f29ffaecf7cc0bee81575b2b100",
-   "title": "Can mediation succeed in a war-torn world? | Episode 1",
+   "id": "a321f063e309d3fda53fe4a5f81d88a29a3114cd",
+   "title": "India’s opposition stages protests against Meta over account removals",
    "summary": [
-    "With more than 65 armed conflicts raging worldwide, top mediators reveal why peace has never been harder to achieve."
+    "Indian Youth Congress issues a seven-day 'ultimatum' to the US technology giant, urging it to lift all restrictions."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/the-art-of-negotiation/2026/11/21/can-mediation-succeed-in-a-war-torn-world-episode-1?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-21T07:38:38Z",
+   "published_at": "2026-11-21T16:14:01Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "7edb1f5909757f100e5ffa1d0bca9dbb1cd4ab58",
+   "title": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
+   "summary": [
+    "Mexican forces arrested Chapo Isidro in Sinaloa.",
+    "He was on the FBI’s most wanted list and faces US drug charges."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T16:03:16Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "3b48cc532e5f5f5a4a7888fc50330c07d135c090",
+   "title": "US midterms 2026: What happens before the new Congress takes office?",
+   "summary": [
+    "What happens between the US midterm elections and January, when Democrats take control of Congress?"
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T15:49:32Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "8af3055b5461492d7908191880795c35209f4711",
+   "title": "French presidential candidate blames media for racist attack",
+   "summary": [
+    "French presidential candidate blames media for racist attack"
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/french-presidential-candidate-blames-media-for-racist-attack?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T15:46:18Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "da9c6a6f2638047ce9a521706e7e78ea02328739",
+   "title": "Virginia child dies in state’s first measles-associated death of 2026",
+   "summary": [
+    "It did not disclose additional details, including the child’s vaccination status, citing the family’s privacy."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/21/virginia-child-dies-measles",
+   "image": "https://i.guim.co.uk/img/media/c0ce942a27e560d3ae51a4e8900971d7de2d7ccb/574_0_5736_4589/master/5736.jpg?width=140&quality=85&auto=format&fit=max&s=1636a3ff8a4d86dc6e0b6d3ec9c17bee",
+   "published_at": "2026-11-21T15:30:07Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "9837acf6063e3c9e7fb4af81adc51b21c3e20a09",
+   "title": "Diallo present as Africa’s Motsepe reiterates support for FIFA’s Infantino",
+   "summary": [
+    "Africa's CAF join South America's CONMEBOL in giving unanimous support of FIFA President Gianni Infantino's re-election."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/11/21/diallo-present-as-africa-football-boss-motsepe-reiterates-infantino-support?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T15:20:43Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "8d21ce3be65172211d50343c4295217e5f537af6",
+   "title": "British man recalls ‘despair’ over son’s death after fall from Cyprus window",
+   "summary": [
+    "Prosecutors in Cyprus had refused to drop the case against him."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/21/british-man-recalls-despair-over-sons-death-after-fall-from-cyprus-window",
+   "image": "https://i.guim.co.uk/img/media/448b8cda06ae22c1900e5ff11f009b62f3b449f9/231_146_2907_2326/master/2907.jpg?width=140&quality=85&auto=format&fit=max&s=3d6c28c8cb97f9ee223f182855c56ec4",
+   "published_at": "2026-11-21T15:19:03Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "17173d03ce65f9f0ee446b143af8d54c2a25f882",
+   "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
+   "summary": [
+    "British maritime agency reports two incidents near Oman, while Iran says a tanker caught fire due to naval mine."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T15:01:18Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "00e77640c25aba0e3f1b16e435b8e2578b07d64a",
+   "title": "SNL’s skit Sister captures the quiet agony of caregiving for women: ‘I’ve never felt seen like that’",
+   "summary": [
+    "The viral satirization of the caregiving burden left to women and daughters hit home for many viewersThe Saturday Night Live sketch, titled Sister quickly went viral this week for its satirization of the burden that women and daughters face to take care of aging family members.",
+    "Another posted: “As a hospice nurse this definitely tracks.",
+    "I deal 90% of the time with adult daughters, and if there is no daughter, it is the daughter in law.” “This is so real it almost gave me a stroke from rage,” added another viewer."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/tv-and-radio/2026/nov/21/snl-sister-caregiving",
+   "image": "https://i.guim.co.uk/img/media/7bfc72a64cf39369ce4dc05177044fe3f366251c/244_0_2511_2010/master/2511.jpg?width=140&quality=85&auto=format&fit=max&s=19c99eb7a70e07f624849ef48297753d",
+   "published_at": "2026-11-21T15:00:01Z",
    "category": "world",
    "related": []
   },
@@ -202,345 +204,349 @@
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-21T07:31:05Z",
+   "published_at": "2026-11-21T14:54:24Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "2e038849fa992425d73051745de386683e78b8f0",
-   "title": "At least four killed, 35 injured in fire at power station in Iraq’s Basra",
+   "id": "5f7e494dc48ee2bcada1124aaa6151daf24575bd",
+   "title": "Federal judge denies request to release man shot by immigration agents in New York",
    "summary": [
-    "The blaze erupted at the Hartha power station and spread to nearby houses."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/21/at-least-two-people-killed-as-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T07:25:29Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "5daf2b9652d404dac6d85e1018ac400defadc3b1",
-   "title": "Emergency crews in Ukraine hit by a double-tap strike",
-   "summary": [
-    "Video shows emergency crews in Ukraine approaching the scene of a Russian strike, before another strike hits."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/emergency-crews-in-ukraine-hit-by-a-double-tap-strike?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T07:12:03Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "6b1fdb82793abe15df6c38d952065830f16549dc",
-   "title": "Three US citizens among 4 convicted in Honduras over sex-trafficking case",
-   "summary": [
-    "The defendants face 10 years in jail after being found guilty of recruiting women into a sex-trafficking ring."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/21/three-us-citizens-among-4-convicted-in-honduras-over-sex-trafficking-case?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T07:07:59Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "4b3c055638471882dd8c9492beb55a3ef719f97d",
-   "title": "Train collides with minibus in Indonesia",
-   "summary": [
-    "Dramatic footage shows a passenger train pushing a flaming minibus along the tracks after colliding with it."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/train-collides-with-minibus-in-indonesia?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T06:55:02Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "c8f733b5e17d1f3e38978fdbc8ab691a94deca6d",
-   "title": "Sudan’s war will end, but will it be too late?",
-   "summary": [
-    "Pressure from within Sudan may achieve what international diplomacy has not."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/opinions/2026/11/21/sudans-war-will-end-but-will-it-be-too-late?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T06:32:04Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "cf91ab90c2f3fb368a804591d3728d14bb4378d4",
-   "title": "Netanyahu is playing with the fire that killed Rabin",
-   "summary": [
-    "His attacks on Arab lawmakers echo the incitement that preceded Rabin’s assassination and risk unleashing new violence."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/opinions/2026/11/21/netanyahu-is-playing-with-the-fire-that-killed-rabin?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T06:21:03Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "de7f6c902fce731b414bad9de19d761e6c34a5d7",
-   "title": "Campaigners back call for scrutiny of consent laws by Joanne Young",
-   "summary": [
-    "Experts say no law states third-party consent is a valid defence and call for public debate and further education Campaigners have welcomed a call for scrutiny of consent laws by a survivor of drug-facilitated rape but said action must also focus on wider issues around sexual assault.Joanne Young, who was drugged and raped by her husband and sexually abused by men he invited into their home, warned of “serious questions about how the law deals with consent”."
+    "However, he wrote, that was merely a technical error that does not require Belgal to be released from federal custody pending deportation proceedings."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/society/2026/nov/21/campaigners-back-call-for-scrutiny-of-consent-laws-by-joanne-young",
-   "image": "https://i.guim.co.uk/img/media/b210f835d3402c106de262ff8f2b7ff286b6533c/35_0_4917_3933/master/4917.jpg?width=140&quality=85&auto=format&fit=max&s=4c73efff30b6f821b2bfb7045c9833b5",
-   "published_at": "2026-11-21T06:00:53Z",
+   "url": "https://www.theguardian.com/us-news/2026/nov/21/new-york-judge-ice-shooting-immigration",
+   "image": "https://i.guim.co.uk/img/media/b7cd93f6008b4c4b5a411a1c48698ec3368fecbe/119_0_2077_1662/master/2077.jpg?width=140&quality=85&auto=format&fit=max&s=ab0135e0bab9ea79f8515516a63f32ca",
+   "published_at": "2026-11-21T14:52:30Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "aa368184f3168243a4de4da72d2e7a896c3c8607",
-   "title": "Can Israel’s opposition bloc stay united against Netanyahu?",
+   "id": "72dc2f0a14f7ed60a043b5bb523411858d3e2df2",
+   "title": "Cold gives way to rain in parts of UK as weather warning issued for south-west England",
    "summary": [
-    "Eisenkot's fragile alliance must overcome deep ideological divisions to turn its opposition into a government."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/21/can-israels-opposition-bloc-stay-united-against-netanyahu?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T05:46:29Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "14207e5788f33a56b74c385da69264ef242b57d3",
-   "title": "Funeral held for New York teen shot while walking to school",
-   "summary": [
-    "Funeral held for New York teen shot while walking to school"
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/funeral-held-for-new-york-teen-shot-while-walking-to-school?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T05:16:15Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "31d5770915c4082c56615cc6e36176e0364a0abd",
-   "title": "Al Jazeera explains: The US-China AI race is entering a new phase",
-   "summary": [
-    "Al Jazeera’s Matthew Torres unpacks the latest from the world of artificial intelligence."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/al-jazeera-explains-the-us-china-ai-race-is-entering-a-new-phase?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T05:08:40Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "9f96134b0c5390d854321aca14f999007fa2144e",
-   "title": "‘So what if there’s a hole? It hasn’t collapsed’: Kyiv residents unbothered by Russian attacks on city’s bridges",
-   "summary": [
-    "Despite dodging tears in the tarmac, people are confident in city’s infrastructure – and will not worry about what has not happened yetMykola expects to drive his battered beige passenger minibus 20 to 24 times a day past the holes in the road on Kyiv’s damaged Northern Bridge that were caused by a Russian ballistic missile attack on Tuesday.Buses are now the only motor transport allowed across the normally busy multi-lane crossing, though on their way into the city centre they have to skirt the tears in the tarmac, using the only functioning lane to get by."
+    "The warning will be in place from 6am on Sunday until midnight."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/21/kyiv-russian-attacks-bridges",
-   "image": "https://i.guim.co.uk/img/media/6d132cb3da5f06c121f49b617e424621050b17ce/188_0_5624_4500/master/5624.jpg?width=140&quality=85&auto=format&fit=max&s=b518285330ac63c934be7240c7e3a2f5",
-   "published_at": "2026-11-21T05:00:50Z",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/21/uk-weather-cold-rain-warning-south-west-england",
+   "image": "https://i.guim.co.uk/img/media/cf9535c982b545e490c47bb89f288a644547dd4d/1843_310_3857_3087/master/3857.jpg?width=140&quality=85&auto=format&fit=max&s=f299fe872d2c38b6da23898897e0abf4",
+   "published_at": "2026-11-21T14:51:37Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "e3c15a3c87e0d14511c139e1ae7ef2a38ff26508",
-   "title": "Tourists are throwing fewer coins into Rome’s Trevi fountain – is €2 entry fee to blame?",
+   "id": "79a02425ec1794ffe32c4435fdc9ca80514a2dba",
+   "title": "Princess of Wales speaks about impact of cancer diagnosis in BBC film Heal",
    "summary": [
-    "Charity that collects the coins says donations are down by £200,000 after a barrier was put in place to restrict accessWhen Jeff Clinton, an American visiting Rome with his wife for the first time, found a US one-cent coin on a street close to Termini train station, he knew precisely what he was going to do with it. “I’ll throw it into the Trevi fountain,” said Clinton, holding the copper coin in the palm of his hand as the couple admired the landmark.He was well aware of the tradition among tourists of tossing a coin over their shoulder and into the waters of the baroque masterpiece, in a ritual fabled to ensure a return visit to the city or make other dreams come true."
+    "It changes you physically, but there’s a much, much deeper part to what a cancer diagnosis shifts in you.” Continue reading..."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/21/charity-hit-coin-throwing-rome-trevi-fountain-caritas-italy",
-   "image": "https://i.guim.co.uk/img/media/995e47462557fa57e3a198604992fb49faee6fc8/536_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=c688aa15830c56e6c0a2bedeefdcb500",
-   "published_at": "2026-11-21T05:00:49Z",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/21/princess-of-wales-impact-cancer-diagnosis-bbc-film-heal",
+   "image": "https://i.guim.co.uk/img/media/fd810cd935a14aa8ada325f3b3bdf72e59b7c84f/726_0_3234_2588/master/3234.jpg?width=140&quality=85&auto=format&fit=max&s=ded2b02305fcd1f7c92e952042674919",
+   "published_at": "2026-11-21T14:42:56Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "e75debc60ef612de76fba26610bbda46cfd834f6",
-   "title": "Teenager allegedly organised arsons and kidnapping on Signal during Melbourne hospitality wars",
+   "id": "a1f3faa7350ac7980f283cbd1ccca3ec33285f5c",
+   "title": "‘Hell dorm’: Florida prisoners testify about 119F heat indexes and walls that sweat",
    "summary": [
-    "Victoria police say boy, 17, communicated with offenders under username ‘Onepercent’Get our breaking news email, free app or daily news podcastVictorian police allege a 17-year-old boy tasked others to carry out a series of arsons, home invasions and a mistaken identity kidnapping that resulted in the partial amputation of a victim’s finger during Melbourne’s hospitality wars.The boy, who was arrested on Friday afternoon, allegedly communicated with the offenders under the username “Onepercent” on the encrypted communications app Signal."
+    "The plaintiff’s law firm, the Florida Justice Institute, convinced a judge to allow 31 sensors to be temporarily installed throughout the prison during the summer of 2025.",
+    "They recorded temperature and humidity levels that Stefano Shiavon, a professor of civil and environmental engineering with expertise in thermal comfort, used to calculate the heat index.",
+    "No air comes to the bed we sleep at and the bed is soaked in sweat.” Continue reading..."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/21/teenager-allegedly-organised-arsons-and-kidnapping-on-signal-during-melbourne-hospitality-wars-ntwnfb",
-   "image": "https://i.guim.co.uk/img/media/99136bef967ae4aba72dfc6e04e06a4ec0dc1eab/0_1497_4284_3427/master/4284.jpg?width=140&quality=85&auto=format&fit=max&s=cb1363336ef34583a49d6bf4a024f358",
-   "published_at": "2026-11-21T04:44:00Z",
+   "url": "https://www.theguardian.com/us-news/2026/nov/21/florida-prisoner-lawsuit-extreme-heat",
+   "image": "https://i.guim.co.uk/img/media/927934c914d0ee17837ad17f16babd0941cd47e9/193_0_3892_3114/master/3892.jpg?width=140&quality=85&auto=format&fit=max&s=c95999168f3905f4c0ff69be6d003f81",
+   "published_at": "2026-11-21T14:38:58Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "30aaa889f8ae2f050a819dea1eece17e43a8d800",
-   "title": "Man convicted of starting Palisades fire in Los Angeles",
+   "id": "c84380ea23baad9c376dbad4927e5f205ca7287f",
+   "title": "Man City claw back 1-1 draw with Fulham to end three-game losing streak",
    "summary": [
-    "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings."
+    "Rodrigo Muniz set Fulham on the way but Elliot Anderson volley earns Manchester City a valuable Premier League point."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/11/21/man-city-fightback-for-1-1-draw-with-fulham-to-end-three-game-losing-streak?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T14:35:52Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "722b9477dff164365e1f4e07352210f5f2b5a8a0",
+   "title": "Newcastle United vs Arsenal LIVE: Premier League",
+   "summary": [
+    "Follow updates from the Premier League clash, including the build-up, analysis and live text commentary of the game."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/liveblog/2026/11/21/newcastle-united-vs-arsenal-live-premier-league?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T14:30:00Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "d615c59e615c53a15f4d11929d86481746acad34",
+   "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
+   "summary": [
+    "U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy.(Image credit: Efrem Lukatsky)"
+   ],
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
+   "image": null,
+   "published_at": "2026-11-21T14:18:17Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "5f47715e9799aa46032f93de1f008e636f1f497f",
+   "title": "Could Iran reverse its stated policy of a civil-only nuclear programme?",
+   "summary": [
+    "Iran's FM Araghchi says there is 'major strategic debate' about the future of Iran's nuclear doctrine."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T14:15:36Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "4d594910102f2875c4b9917a936f07e75f82af11",
+   "title": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
+   "summary": [
+    "Jerusalem Daily: Gaza faces deadly strikes and health crisis"
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/jerusalem-daily-gaza-faces-deadly-strikes-and-health-crisis?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T14:06:06Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "80154fe65d348e4eea809957b4b9d45fe5e1739d",
+   "title": "Denmark to expel Russian diplomat over alleged plot to kill US-Ukrainian rapper",
+   "summary": [
+    "The expulsion will happen within seven days."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
+   "image": "https://i.guim.co.uk/img/media/5a7dd431910379766554a57f1bae363afdb4ad03/516_0_4178_3342/master/4178.jpg?width=140&quality=85&auto=format&fit=max&s=d1fbfde89ec546b8b49bea9f8d347ad5",
+   "published_at": "2026-11-21T14:03:50Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "f328baf8aab587dc1713106bc9ed604e74b46161",
+   "title": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
+   "summary": [
+    "Prosecutors argued the defendant, 30-year-old Jonathan Rinderknecht, had been \"mad at everything\" in the days leading up to the January 2025 fire, which killed 12 people.(Image credit: Etienne Laurent)"
+   ],
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/21/nx-s1-6049625/palisades-fire-conviction",
+   "image": null,
+   "published_at": "2026-11-21T13:58:33Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "1c20aabfa0ef2b66dde54133b3b75697c9cd7fc5",
+   "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+   "summary": [
+    "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine."
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-21T04:34:00Z",
+   "published_at": "2026-11-21T13:17:38Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "72179784aa3e4298e26631a9f55661cdda2ee037",
-   "title": "Saudi-led coalition intercepts three Houthi missiles headed for Riyadh",
+   "id": "79bace62ffcba62c14f1a8fc7e1c9b5f2c6ffdae",
+   "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
    "summary": [
-    "Saudi Arabia issues emergency alerts in Riyadh for third night in row, as the Houthis threaten ports and power station."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T04:32:07Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "6300341dc8de3fad68ef692813ef0f9efea32570",
-   "title": "When you see smoke, run: Rohingya who escaped Myanmar’s genocide tell their stories",
-   "summary": [
-    "Survivors recount rivers red with blood and burning nearby villages serving as an urgent warning to flee their homesSmoke was often the signal to run – seen from a distance, it was the indication for Rohingya that a neighbouring village was under attack and that theirs would be next.In other places, they saw the rivers run red and would pull out the bodies, perform quick burial rites and then flee."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/21/rohingya-who-escaped-myanmars-genocide-tell-their-stories",
-   "image": "https://i.guim.co.uk/img/media/2ff5d1e8e72cae560f6ff28cfc6de81f85a9e5e0/805_50_3971_3177/master/3971.jpg?width=140&quality=85&auto=format&fit=max&s=702471ece579024da236e1a8b3f5208a",
-   "published_at": "2026-11-21T04:00:47Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "1d796e9f461804ec11df7fee1b24186ab18ad769",
-   "title": "‘A new record for entertainment’: Grand Theft Auto VI sales hit $3.8bn on first day of release, developer says",
-   "summary": [
-    "Rockstar said also it had sold 32.5m units of the game on prerelease, setting a record across platforms."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/games/2026/nov/21/a-new-record-for-entertainment-grand-theft-auto-vi-sales-hit-38bn-on-first-day-of-release-developer-says",
-   "image": "https://i.guim.co.uk/img/media/5988d7ddcc73c1dddca7f0d330ee2d523648a57a/1183_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=014f7dee549fde98fecf18fd78fac63e",
-   "published_at": "2026-11-21T03:51:03Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "afacece5d656fd3ad0db4462a32c68ff418aea58",
-   "title": "Three French police officers sentenced over racist assault on Black man",
-   "summary": [
-    "Paris criminal court finds racism was an aggravating factor in the 2020 assault of Black music producer Michel Zecler."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/21/three-french-police-officers-sentenced-over-racist-assault-on-black-man?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T03:01:24Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "edce921e12d23a7f0ee4ba2af4ccf0cb49caacac",
-   "title": "Gen Z protests sweep Europe over wars, rising costs and climate",
-   "summary": [
-    "Thousands of Gen Z protesters rallied across 25 European countries over living costs, military spending and climate."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/gen-z-protests-sweep-europe-over-wars-rising-costs-and-climate?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T02:49:16Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "1168a6bfee28c2450c8136adb9a3f5d31f5eca6c",
-   "title": "Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang",
-   "summary": [
-    "US president calls tech giant to give former CEO 'a second chance' and urges him to 'make a big apology'."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T01:49:07Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "e0d72a0fe78fac7ca46cac839fac23fa6993bcbe",
-   "title": "COP31 deal stalls as nations struggle to agree on climate plan",
-   "summary": [
-    "COP31 deal stalls as nations struggle to agree on climate plan"
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/cop31-deal-stalls-as-nations-struggle-to-agree-on-climate-plan?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T01:44:09Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "973aadc167195a9f35319fec6401669d1ebba056",
-   "title": "Man accused of sparking deadly Los Angeles wildfire found guilty",
-   "summary": [
-    "Verdict in case against former Uber driver Jonathan Rinderknecht comes after first trial ended with hung juryThe 30-year-old accused of sparking the deadly Palisades fire in Los Angeles was found guilty of two federal arson charges in a Friday verdict that came months after his first trial concluded with a hung jury.For two weeks, a fresh batch of jurors listened to prosecutors mount their case against Jonathan Rinderknecht."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/20/los-angeles-palisades-wildfire-trial-verdict",
-   "image": "https://i.guim.co.uk/img/media/9ac7a13c61ac09c8989f886adde8097c03d0fc03/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=4513785efb37d1da06beb027b45f87f7",
-   "published_at": "2026-11-21T01:43:15Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "b4828955a87cd2b46926a9276322fb8e584981bc",
-   "title": "Can Africa’s new credit rating agency change how the continent is assessed?",
-   "summary": [
-    "The new African agency aims to bring greater transparency to credit ratings."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/21/can-africas-new-credit-rating-agency-change-how-the-continent-is-assessed?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T01:36:10Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "08f48f73391d50af50481cfeb2ef2d836117e03e",
-   "title": "Denmark expels Russian diplomat over alleged plot to kill Ukrainian rapper",
-   "summary": [
-    "Copenhagen accuses Moscow of planning assassination with banned local gang; Russia says no evidence for allegation."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-21T01:12:48Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "55a61f00efc1e0ae4af1f73866163b1611e40d65",
-   "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
-   "summary": [
-    "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars."
+    "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities."
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-21T01:02:39Z",
+   "published_at": "2026-11-21T13:15:21Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "91dcb1338cab7b46d4481240648b3fcfe4300377",
-   "title": "Can Mauricio Pochettino save Manchester United from Premier League drop?",
+   "id": "556448d4505387bc09b7893df067a58f2f7e5968",
+   "title": "Chaudhary helps Australia beat England in T20 shake-off of scandal-hit run",
    "summary": [
-    "Mauricio Pochettino will take charge of Manchester United for the first time on Sunday, in a trip to rivals Liverpool."
+    "Australia beat England by three wickets with only one ball to spare as Nikhil Chaudhary's 66 leads charge in Melbourne."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/sports/2026/11/21/can-pochetinno-save-man-united-from-premier-league-relegation?traffic_source=rss",
+   "url": "https://www.aljazeera.com/sports/2026/11/21/chaudhary-helps-australia-beat-england-in-t20-shake-off-of-scandal-hit-run?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-21T00:55:01Z",
+   "published_at": "2026-11-21T13:08:59Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "56f108c7a339f383d4891b32a6f44bebcf6ea315",
+   "title": "Perspective: Defining 'human'",
+   "summary": [
+    "The Cambridge Dictionary has chosen the word \"human\" as its Word of the Year.",
+    "Why ever might a word that entered the English language over 500 years ago be so honored?(Image credit: Andreea Alexandru)"
+   ],
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/21/nx-s1-6041585/perspective-defining-human",
+   "image": null,
+   "published_at": "2026-11-21T13:00:00Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "593bf1952407109facebf35bcd9b83e82bbe7c2b",
+   "title": "Riemann hypothesis: Has the world’s most famous maths problem been cracked?",
+   "summary": [
+    "Mathematicians say the claimed proof, made with Claude, could be historic, but it may take weeks to understand it."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/21/riemann-hypothesis-has-the-worlds-most-famous-maths-problem-been-cracked?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T12:49:20Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "6d5ff7529d539700fdf62e6a1a7a0e9a76041f3c",
+   "title": "Russian crew evacuating ship hit by drones off coast of Finland",
+   "summary": [
+    "Two drones attack cargo ship that Finnish authorities say has links to Russia's armed forces."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T12:45:24Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "d77db62f359948f61501eab697d411e706f77054",
+   "title": "Senate permitting bill speeds up renewables, divides greens over oil and gas",
+   "summary": [
+    "A permitting reform bill in the Senate could help speed the development of renewable energy projects, but it's splitting environmentalists over other provisions that help the oil and gas industry."
+   ],
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/21/nx-s1-6046482/senate-permitting-bill-speeds-up-renewables-divides-greens-over-oil-and-gas",
+   "image": null,
+   "published_at": "2026-11-21T12:40:17Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "a54d31ce80907cb181fff8c3492cab915d417f92",
+   "title": "Sudan’s elderly face hardship and heartbreak in a life of displacement",
+   "summary": [
+    "Sudan's displaced elderly often have to support grandchildren or fend for themselves."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/21/sudans-elderly-face-hardship-and-heartbreak-in-a-life-of-displacement?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T12:30:49Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "fd3efd63d803fd4fb03215031224f9d6a9f96786",
+   "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
+   "summary": [
+    "A mathematician who works for artificial intelligence giant Anthropic claims he has solved a Holy Grail of math problems with the help of the company's AI tool Claude.",
+    "It marks the second time in recent months that an AI company or someone linked to one claims to have cracked a famed unsolved math problem.(Image credit: Seth Wenig)"
+   ],
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
+   "image": null,
+   "published_at": "2026-11-21T12:30:16Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "5ebdc85de961cb397cd0ccb92569b3963ed58c8b",
+   "title": "Israeli strike on vehicle distributing food aid in Gaza kills three",
+   "summary": [
+    "Separately, Palestinian man is shot dead by Israeli forces in Jabalia and three people injured in attack in Khan Younis."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T12:29:49Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "b28eefa3bc614ca7bf30ad71466de90eec39eedf",
+   "title": "Reform UK considers pact with Restore Britain to overcome stalling performance in polls",
+   "summary": [
+    "Thursday’s byelection in Castle Bromwich will be latest test for Nigel Farage’s party as rival eats into supportVoters go to the polls in the village of Castle Bromwich in the West Midlands on Thursday in a little-noticed election that is the latest test for Reform at a time when it is particularly vulnerable.Yet, while it is the Conservatives who are edging ahead in recent polls, the decisive difference could well be the performance of Restore Britain – the hard-right party set up by Rupert Lowe after the MP fell out with Nigel Farage."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/nov/21/reform-uk-considers-pact-restore-britain-stalling-performance-polls",
+   "image": "https://i.guim.co.uk/img/media/5bbda4f2586156f3b160d70e965e0e2422a855c8/49_0_1180_944/master/1180.jpg?width=140&quality=85&auto=format&fit=max&s=5597b4adf0622dba743b5691a82d09af",
+   "published_at": "2026-11-21T12:22:54Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "9a7765b4ed75537c14bd288375f07628485aa228",
+   "title": "Florida residents turn to kayaks and rafts as floods swamp streets",
+   "summary": [
+    "Days of heavy rain have flooded streets across Florida, forcing residents to find creative ways to get around."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/florida-residents-turn-to-kayaks-and-rafts-as-floods-swamp-streets?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T12:22:24Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "5cea83edc6af74e3d55b4eef683595a4463c8b35",
+   "title": "‘Music was our teacher’: the sound system pioneers reviving the scene in Manchester and beyond",
+   "summary": [
+    "For us, the sound system was not just entertainment – it was an education.” Continue reading..."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/news/2026/nov/21/sound-system-pioneers-music-manchester-windrush",
+   "image": "https://i.guim.co.uk/img/media/1233bc85cfa94b596692ad167468b0f4b76847d3/582_87_2809_2247/master/2809.jpg?width=140&quality=85&auto=format&fit=max&s=92d84e7f853c6c10f4d950cee37c2299",
+   "published_at": "2026-11-21T12:00:58Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "70bec3899003eb07fbd9b606215f5816070c848d",
+   "title": "Mexico captures FBI-wanted cartel boss in military raid",
+   "summary": [
+    "Mexico’s military captured FBI-wanted cartel leader ‘El Chapo Isidro’ in Guasave, Sinaloa."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/mexico-captures-fbi-wanted-cartel-boss-in-military-raid?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T11:53:56Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "6601f36d33e5095f76bd0161d73ae469bdef6a04",
+   "title": "Why is GTA VI so expensive to play?",
+   "summary": [
+    "Grand Theft Auto VI costs less than GTA V to buy, yet far more to play."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/11/21/why-is-gta-vi-so-expensive-to-play?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-21T11:39:03Z",
    "category": "world",
    "related": []
   }
