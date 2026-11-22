@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T23:04:04.931607Z",
+ "generated_at": "2026-11-22T03:01:47.298463Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -24,10 +24,49 @@
  },
  "stories": [
   {
+   "id": "381628060ea95e20f1d6c346326c5cf01845a1bf",
+   "title": "Data Processing Incidents on Inference Providers",
+   "summary": [
+    "Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/ Comments URL: https://news.ycombinator.com/item?id=50595554 Points: 18 # Comments: 4"
+   ],
+   "source": "Hacker News",
+   "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+   "image": null,
+   "published_at": "2026-11-22T02:14:14Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "01af6e752b2cf2926174fb8f4221ecadb0e7af45",
+   "title": "Leonida – PC Recompilation of the Xbox Version of GTA 6",
+   "summary": [
+    "Article URL: https://github.com/ItsNotRexed/Leonida Comments URL: https://news.ycombinator.com/item?id=50595168 Points: 22 # Comments: 7"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/ItsNotRexed/Leonida",
+   "image": null,
+   "published_at": "2026-11-22T00:57:26Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "c4a226a4ddc42b3ff017df4174ef2b36d3721ccb",
+   "title": "Sandwich Simulator",
+   "summary": [
+    "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 42 # Comments: 19"
+   ],
+   "source": "Hacker News",
+   "url": "https://stulle.app/",
+   "image": null,
+   "published_at": "2026-11-22T00:07:59Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "cfc547c2291f7f7a9ba0a5060dcf4b72c4b6d465",
    "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
    "summary": [
-    "Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer Comments URL: https://news.ycombinator.com/item?id=50594132 Points: 13 # Comments: 1"
+    "Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer Comments URL: https://news.ycombinator.com/item?id=50594132 Points: 74 # Comments: 9"
    ],
    "source": "Hacker News",
    "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
@@ -53,7 +92,7 @@
    "id": "a34f45a76f7c575965db859f197f504c90befe0e",
    "title": "Advice for the next 100 Rust GUIs",
    "summary": [
-    "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 12 # Comments: 1"
+    "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 105 # Comments: 19"
    ],
    "source": "Hacker News",
    "url": "https://linebender.org/blog/next-100-guis/",
@@ -92,12 +131,25 @@
    "id": "ad13744bae5f9808b21c3a1dcefeaaaddce6ee29",
    "title": "The Emergence of Inequality in the Czech Corded Ware Culture",
    "summary": [
-    "Article URL: https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746 Comments URL: https://news.ycombinator.com/item?id=50593637 Points: 11 # Comments: 6"
+    "Article URL: https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746 Comments URL: https://news.ycombinator.com/item?id=50593637 Points: 33 # Comments: 12"
    ],
    "source": "Hacker News",
    "url": "https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746",
    "image": null,
    "published_at": "2026-11-21T21:06:14Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "29504616ac00a36ecd404783f8f5448bf2235cac",
+   "title": "Pandex – Official European Law for AI Agents, over MCP",
+   "summary": [
+    "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 40 # Comments: 7"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.pandex.io",
+   "image": null,
+   "published_at": "2026-11-21T20:47:41Z",
    "category": "tech",
    "related": []
   },
@@ -115,10 +167,23 @@
    "related": []
   },
   {
+   "id": "6d859339b158cafc1f5ab60c95e13308e1000c5d",
+   "title": "Upload2Shell (CVE-2026-125396)",
+   "summary": [
+    "Article URL: https://pwn.ai/upload2shell Comments URL: https://news.ycombinator.com/item?id=50592097 Points: 81 # Comments: 35"
+   ],
+   "source": "Hacker News",
+   "url": "https://pwn.ai/upload2shell",
+   "image": null,
+   "published_at": "2026-11-21T18:29:29Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "c6e0f6fe1d32263bd8fbaffb189b8938523b49d7",
    "title": "Inkling-2-Mini in 5.4 GB Memory",
    "summary": [
-    "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 299 # Comments: 75"
+    "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 373 # Comments: 94"
    ],
    "source": "Hacker News",
    "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
@@ -131,7 +196,7 @@
    "id": "1c83a91ee04f5665e7ddf1aa8c7e3bf6f22eeb10",
    "title": "PostgreSQL Extensions in Go",
    "summary": [
-    "Article URL: https://jespino.github.io/gopgext/ Comments URL: https://news.ycombinator.com/item?id=50591260 Points: 105 # Comments: 14"
+    "Article URL: https://jespino.github.io/gopgext/ Comments URL: https://news.ycombinator.com/item?id=50591260 Points: 123 # Comments: 22"
    ],
    "source": "Hacker News",
    "url": "https://jespino.github.io/gopgext/",
@@ -171,7 +236,7 @@
    "id": "7a89070fb88a665c1e7d94b7ee2588327a0ee5bf",
    "title": "Verification files for the Lean proof of the Riemann Hypothesis",
    "summary": [
-    "Article URL: https://math.mit.edu/~drew/grh/ Comments URL: https://news.ycombinator.com/item?id=50590441 Points: 78 # Comments: 28"
+    "Article URL: https://math.mit.edu/~drew/grh/ Comments URL: https://news.ycombinator.com/item?id=50590441 Points: 104 # Comments: 37"
    ],
    "source": "Hacker News",
    "url": "https://math.mit.edu/~drew/grh/",
@@ -184,7 +249,7 @@
    "id": "fd986dd95e42df1d3bbc4233d464d7039e7e4ccf",
    "title": "Show HN: Zero C# – C# without a runtime or GC",
    "summary": [
-    "Article URL: https://onurgumus.github.io/zero-csharp/index.html Comments URL: https://news.ycombinator.com/item?id=50590279 Points: 114 # Comments: 89"
+    "Article URL: https://onurgumus.github.io/zero-csharp/index.html Comments URL: https://news.ycombinator.com/item?id=50590279 Points: 135 # Comments: 100"
    ],
    "source": "Hacker News",
    "url": "https://onurgumus.github.io/zero-csharp/index.html",
@@ -210,7 +275,7 @@
    "id": "18d9f9bc59b30c8a09cac823260f4f4782cd2398",
    "title": "Lean verification of the Riemann Hypothesis",
    "summary": [
-    "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 730 # Comments: 579"
+    "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 864 # Comments: 723"
    ],
    "source": "Hacker News",
    "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
@@ -238,7 +303,7 @@
    "id": "07a481fe6b0c85726f8c71233d0ad5b0a3f06dff",
    "title": "Detonating a pile of lead azide",
    "summary": [
-    "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 474 # Comments: 309"
+    "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 540 # Comments: 358"
    ],
    "source": "Hacker News",
    "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
@@ -277,7 +342,7 @@
    "id": "e3142f2708c0814d132acf00c0cf41da51935e69",
    "title": "My monitor was cutting my download speed by 75%",
    "summary": [
-    "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 427 # Comments: 213"
+    "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 507 # Comments: 241"
    ],
    "source": "Hacker News",
    "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
@@ -290,7 +355,7 @@
    "id": "4cb2fb025b2b820fd6440fa4cfbdd8b7b18acef6",
    "title": "RCE in Gnupg",
    "summary": [
-    "Article URL: https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html Comments URL: https://news.ycombinator.com/item?id=50587208 Points: 218 # Comments: 86"
+    "Article URL: https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html Comments URL: https://news.ycombinator.com/item?id=50587208 Points: 236 # Comments: 96"
    ],
    "source": "Hacker News",
    "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
@@ -398,7 +463,7 @@
    "id": "0165c931824a4d7c7e93d6e3812b80c235656078",
    "title": "Getting the mind to steer the body to steer you",
    "summary": [
-    "Article URL: https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body Comments URL: https://news.ycombinator.com/item?id=50583028 Points: 96 # Comments: 38"
+    "Article URL: https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body Comments URL: https://news.ycombinator.com/item?id=50583028 Points: 169 # Comments: 59"
    ],
    "source": "Hacker News",
    "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
@@ -411,7 +476,7 @@
    "id": "6784575ef645eb461e8ab99fc3f20a9def143bbc",
    "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
    "summary": [
-    "Article URL: https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib Comments URL: https://news.ycombinator.com/item?id=50582069 Points: 375 # Comments: 111"
+    "Article URL: https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib Comments URL: https://news.ycombinator.com/item?id=50582069 Points: 687 # Comments: 166"
    ],
    "source": "Hacker News",
    "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
@@ -449,24 +514,6 @@
    "related": []
   },
   {
-   "id": "a0ebc9ee452b9f3e92b0eb66c701bb0a417ea009",
-   "title": "Inkling 2 Mini",
-   "summary": [
-    "Article URL: https://thinkingmachines.ai/news/inkling-2-mini/ Comments URL: https://news.ycombinator.com/item?id=50581260 Points: 1351 # Comments: 276"
-   ],
-   "source": "Hacker News",
-   "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-   "image": null,
-   "published_at": "2026-11-20T20:12:19Z",
-   "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "https://pwn.ai/upload2shell"
-    }
-   ]
-  },
-  {
    "id": "59fa562eab8a38b3aa6a08d6be6e26c2946c44ed",
    "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
    "summary": [
@@ -502,58 +549,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-20T19:03:56Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "ff99aaed410cb844d71b1dcd2680fb9b2c933fee",
-   "title": "Super-hot rock geothermal could end data center energy woes",
-   "summary": [
-    "New geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
-   "image": null,
-   "published_at": "2026-11-20T18:34:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "04e4de98579780fa17f96e46d2e5ca465799d5b8",
-   "title": "Hurried Announcement: Alessandro Masullo GRH",
-   "summary": [
-    "Related: Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf] - https://news.ycombinator.com/item?id=50574968 Comments URL: https://news.ycombinator.com/item?id=50579568 Points: 2377 # Comments: 1150"
-   ],
-   "source": "Hacker News",
-   "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-   "image": null,
-   "published_at": "2026-11-20T18:33:14Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "e1a223b73868864c0b2e849ddd1a4b18eb899db1",
-   "title": "We promoted developers into architects without informing them",
-   "summary": [
-    "Article URL: https://manidoraisamy.com/developer-to-architect.html Comments URL: https://news.ycombinator.com/item?id=50579331 Points: 573 # Comments: 306"
-   ],
-   "source": "Hacker News",
-   "url": "https://manidoraisamy.com/developer-to-architect.html",
-   "image": null,
-   "published_at": "2026-11-20T18:17:51Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "e0006c8114bab179935f34a15389c3039cfda5c8",
-   "title": "‘The greatest game ever made’: readers and Guardian staff on Grand Theft Auto VI",
-   "summary": [
-    "GTA VI has generated extraordinary global anticipation for its action-packed gameplay, but players are now finding new delight in the game’s more intimate moments."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/games/2026/nov/20/grand-theft-auto-vi-players-review",
-   "image": "https://i.guim.co.uk/img/media/bf2fb910b6bd1814c2576b1066e4abdbc6482747/356_0_3818_3055/master/3818.jpg?width=140&quality=85&auto=format&fit=max&s=3774532bd860d37fd71b1b43a30fe213",
-   "published_at": "2026-11-20T18:04:15Z",
    "category": "tech",
    "related": []
   }
