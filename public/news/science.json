@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-22T03:01:47.299166Z",
- "story_count": 11,
+ "generated_at": "2026-11-22T11:06:09.075638Z",
+ "story_count": 14,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "ok",
-  "https://www.dawn.com/feeds/pakistan": "ok",
+  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,9 +20,48 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
+  "https://www.espn.com/espn/rss/news": "ok"
  },
  "stories": [
+  {
+   "id": "8864c85aaebc75313357fb595e338dcab24a313d",
+   "title": "Mysterious Mercury gets a visitor - after spacecraft's eight-year epic voyage",
+   "summary": [
+    "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-22T10:44:12Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "b562b9609d14edbc067d362dec5d06eb2126ef25",
+   "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
+   "summary": [
+    "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-22T06:54:06Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "0930d70aa26063d947eda9713de52f7adca5b4dc",
+   "title": "Record-breaking sightings of rare moth in Essex",
+   "summary": [
+    "There is now a self-sustaining population of the moth at a nature reserve in Essex, a charity says."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6jrey28gvqxo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-22T06:38:26Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "7f5440f94e752f8b7312266f615d89702e5a5fa5",
    "title": "Will COP31 end with a new global climate deal?",
@@ -33,6 +72,19 @@
    "url": "https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-21T22:44:52Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "299849b262daed6bda38928d8130e76b5e4b420f",
+   "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+   "summary": [
+    "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-21T22:19:43Z",
    "category": "science",
    "related": []
   },
@@ -159,19 +211,6 @@
    "url": "https://www.sciencedaily.com/releases/2026/11/261120075547.htm",
    "image": null,
    "published_at": "2026-11-21T02:11:14Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "39792ebd7ac7848e5b4ec4d8dd3b297896cbe133",
-   "title": "Birds killed in blaze at one of the largest foie gras farms in the US",
-   "summary": [
-    "Hundreds of young birds were also rescued from the fire, which comes as foie gras is under renewed scrutiny over animal welfare concerns."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cq4gn0dg9194o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-20T22:57:26Z",
    "category": "science",
    "related": []
   }

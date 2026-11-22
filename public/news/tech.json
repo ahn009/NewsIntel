@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-22T03:01:47.298463Z",
- "story_count": 40,
+ "generated_at": "2026-11-22T11:06:09.075152Z",
+ "story_count": 36,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "ok",
-  "https://www.dawn.com/feeds/pakistan": "ok",
+  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,14 +20,119 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
+  "https://www.espn.com/espn/rss/news": "ok"
  },
  "stories": [
+  {
+   "id": "7751ababced90d7438d092c0e6a7396932418d37",
+   "title": "It will soon be too late to regulate use of autonomous weapons, warns Red Cross",
+   "summary": [
+    "Warning about putting ‘genie back in the bottle’ comes as UN conference fails to agree on regulation instrumentThe International Committee of the Red Cross and rights groups have warned that it will soon be too late to put the “genie back in the bottle” as the development of autonomous weapons appears to outpace efforts to regulate them.The stark warning came as more than 120 member states of the UN Convention on Certain Conventional Weapons concluded a week-long conference in Geneva."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/science/2026/nov/22/red-cross-warns-too-late-regulate-autonomous-weapons-united-nations",
+   "image": "https://i.guim.co.uk/img/media/e83253eef2712121e66a9774fee97fca01778307/875_229_5546_4437/master/5546.jpg?width=140&quality=85&auto=format&fit=max&s=d69854bb96be9dea188f9ed66bad2c16",
+   "published_at": "2026-11-22T09:00:22Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "38c61351fe0dc3e7c6b43250508fe09e9aed4d01",
+   "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+   "summary": [
+    "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ Comments URL: https://news.ycombinator.com/item?id=50597612 Points: 139 # Comments: 158"
+   ],
+   "source": "Hacker News",
+   "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+   "image": null,
+   "published_at": "2026-11-22T08:57:34Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "5c32e616b4802ccd1e890177973360a87fde56a6",
+   "title": "‘A Nintendo Switch – yes, I know I’m 67’: the best gifts for every generation, picked by real people aged 2 to 103",
+   "summary": [
+    "We asked everyone from gen Alpha preschoolers to retired boomers, celebs and Guardian writers what’s on their gift list this year – here’s what they said• The best Christmas gifts for 2026How old are you, and what would you like for Christmas?",
+    "But be warned: from the boomer who wants a Nintendo Switch to the 30-somethings collecting vinyl and brewing craft beer, some answers might surprise you."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/thefilter/2026/nov/22/best-christmas-gifts-every-generation-uk",
+   "image": "https://i.guim.co.uk/img/media/032769a43e0c128c7890799f53ee9f22c5deebbf/0_0_4000_3199/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=3c6e3b6760e5c36d100f7f0dee8686c4",
+   "published_at": "2026-11-22T07:00:21Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "457ae2a3f09df7e72abf63bd6e6cc82622a26eec",
+   "title": "Notes on the discrete Fourier transform (DFT)",
+   "summary": [
+    "Article URL: https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/ Comments URL: https://news.ycombinator.com/item?id=50596960 Points: 31 # Comments: 4"
+   ],
+   "source": "Hacker News",
+   "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+   "image": null,
+   "published_at": "2026-11-22T06:52:25Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "9eade0408225d6bdf5c13b3ddabc6a1c4f792337",
+   "title": "Hacks, AI and conspiracy theories: why are we having so many outages?",
+   "summary": [
+    "She immediately suspected the two were linked in some way by AI-related threats – and that she would not get to the wedding of her best friend’s son in California."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple",
+   "image": "https://i.guim.co.uk/img/media/917aeeec17f3bee46d98e2201997eb1f9a0b316c/0_807_4000_3198/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=d4752a8d74606eaec6916b68b2a9c81d",
+   "published_at": "2026-11-22T06:00:19Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "1fd500df4662cd471e47a2d08203caa3bad8eb9f",
+   "title": "Show HN: The Riemann Proof Handbook",
+   "summary": [
+    "Article URL: https://github.com/tamnd/riemann-handbook Comments URL: https://news.ycombinator.com/item?id=50596664 Points: 51 # Comments: 19"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/tamnd/riemann-handbook",
+   "image": null,
+   "published_at": "2026-11-22T05:46:30Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "3400785e003329cfbed6422cea81f25df13ef22b",
+   "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
+   "summary": [
+    "Article URL: https://github.com/EL4CTEO/fast-anything Comments URL: https://news.ycombinator.com/item?id=50596155 Points: 35 # Comments: 24"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/EL4CTEO/fast-anything",
+   "image": null,
+   "published_at": "2026-11-22T04:10:09Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "f0cbfd67946449ca9190f6c79c2c855c2e44c34f",
+   "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+   "summary": [
+    "Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/ Comments URL: https://news.ycombinator.com/item?id=50596133 Points: 527 # Comments: 311"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+   "image": null,
+   "published_at": "2026-11-22T04:04:56Z",
+   "category": "tech",
+   "related": []
+  },
   {
    "id": "381628060ea95e20f1d6c346326c5cf01845a1bf",
    "title": "Data Processing Incidents on Inference Providers",
    "summary": [
-    "Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/ Comments URL: https://news.ycombinator.com/item?id=50595554 Points: 18 # Comments: 4"
+    "Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/ Comments URL: https://news.ycombinator.com/item?id=50595554 Points: 156 # Comments: 61"
    ],
    "source": "Hacker News",
    "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
@@ -37,15 +142,15 @@
    "related": []
   },
   {
-   "id": "01af6e752b2cf2926174fb8f4221ecadb0e7af45",
-   "title": "Leonida – PC Recompilation of the Xbox Version of GTA 6",
+   "id": "67786b63779fc125944a4430cf1c877fcb3a9466",
+   "title": "The Mythology of Conscious AI",
    "summary": [
-    "Article URL: https://github.com/ItsNotRexed/Leonida Comments URL: https://news.ycombinator.com/item?id=50595168 Points: 22 # Comments: 7"
+    "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 72 # Comments: 146"
    ],
    "source": "Hacker News",
-   "url": "https://github.com/ItsNotRexed/Leonida",
+   "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
    "image": null,
-   "published_at": "2026-11-22T00:57:26Z",
+   "published_at": "2026-11-22T02:10:02Z",
    "category": "tech",
    "related": []
   },
@@ -53,7 +158,7 @@
    "id": "c4a226a4ddc42b3ff017df4174ef2b36d3721ccb",
    "title": "Sandwich Simulator",
    "summary": [
-    "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 42 # Comments: 19"
+    "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 264 # Comments: 88"
    ],
    "source": "Hacker News",
    "url": "https://stulle.app/",
@@ -66,7 +171,7 @@
    "id": "cfc547c2291f7f7a9ba0a5060dcf4b72c4b6d465",
    "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
    "summary": [
-    "Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer Comments URL: https://news.ycombinator.com/item?id=50594132 Points: 74 # Comments: 9"
+    "Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer Comments URL: https://news.ycombinator.com/item?id=50594132 Points: 119 # Comments: 17"
    ],
    "source": "Hacker News",
    "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
@@ -92,25 +197,12 @@
    "id": "a34f45a76f7c575965db859f197f504c90befe0e",
    "title": "Advice for the next 100 Rust GUIs",
    "summary": [
-    "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 105 # Comments: 19"
+    "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 169 # Comments: 70"
    ],
    "source": "Hacker News",
    "url": "https://linebender.org/blog/next-100-guis/",
    "image": null,
    "published_at": "2026-11-21T21:17:53Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "187dad26ad22394ca85b4546e54e93f5dc3e0942",
-   "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
-   "summary": [
-    "Article URL: https://tasklet.ai/careers Comments URL: https://news.ycombinator.com/item?id=50593679 Points: 0 # Comments: 0"
-   ],
-   "source": "Hacker News",
-   "url": "https://tasklet.ai/careers",
-   "image": null,
-   "published_at": "2026-11-21T21:11:08Z",
    "category": "tech",
    "related": []
   },
@@ -128,23 +220,10 @@
    "related": []
   },
   {
-   "id": "ad13744bae5f9808b21c3a1dcefeaaaddce6ee29",
-   "title": "The Emergence of Inequality in the Czech Corded Ware Culture",
-   "summary": [
-    "Article URL: https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746 Comments URL: https://news.ycombinator.com/item?id=50593637 Points: 33 # Comments: 12"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746",
-   "image": null,
-   "published_at": "2026-11-21T21:06:14Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "29504616ac00a36ecd404783f8f5448bf2235cac",
    "title": "Pandex – Official European Law for AI Agents, over MCP",
    "summary": [
-    "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 40 # Comments: 7"
+    "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 96 # Comments: 22"
    ],
    "source": "Hacker News",
    "url": "https://www.pandex.io",
@@ -170,7 +249,7 @@
    "id": "6d859339b158cafc1f5ab60c95e13308e1000c5d",
    "title": "Upload2Shell (CVE-2026-125396)",
    "summary": [
-    "Article URL: https://pwn.ai/upload2shell Comments URL: https://news.ycombinator.com/item?id=50592097 Points: 81 # Comments: 35"
+    "Article URL: https://pwn.ai/upload2shell Comments URL: https://news.ycombinator.com/item?id=50592097 Points: 123 # Comments: 59"
    ],
    "source": "Hacker News",
    "url": "https://pwn.ai/upload2shell",
@@ -183,7 +262,7 @@
    "id": "c6e0f6fe1d32263bd8fbaffb189b8938523b49d7",
    "title": "Inkling-2-Mini in 5.4 GB Memory",
    "summary": [
-    "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 373 # Comments: 94"
+    "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 473 # Comments: 117"
    ],
    "source": "Hacker News",
    "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
@@ -196,7 +275,7 @@
    "id": "1c83a91ee04f5665e7ddf1aa8c7e3bf6f22eeb10",
    "title": "PostgreSQL Extensions in Go",
    "summary": [
-    "Article URL: https://jespino.github.io/gopgext/ Comments URL: https://news.ycombinator.com/item?id=50591260 Points: 123 # Comments: 22"
+    "Article URL: https://jespino.github.io/gopgext/ Comments URL: https://news.ycombinator.com/item?id=50591260 Points: 152 # Comments: 25"
    ],
    "source": "Hacker News",
    "url": "https://jespino.github.io/gopgext/",
@@ -236,25 +315,12 @@
    "id": "7a89070fb88a665c1e7d94b7ee2588327a0ee5bf",
    "title": "Verification files for the Lean proof of the Riemann Hypothesis",
    "summary": [
-    "Article URL: https://math.mit.edu/~drew/grh/ Comments URL: https://news.ycombinator.com/item?id=50590441 Points: 104 # Comments: 37"
+    "Article URL: https://math.mit.edu/~drew/grh/ Comments URL: https://news.ycombinator.com/item?id=50590441 Points: 118 # Comments: 39"
    ],
    "source": "Hacker News",
    "url": "https://math.mit.edu/~drew/grh/",
    "image": null,
    "published_at": "2026-11-21T15:54:34Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "fd986dd95e42df1d3bbc4233d464d7039e7e4ccf",
-   "title": "Show HN: Zero C# – C# without a runtime or GC",
-   "summary": [
-    "Article URL: https://onurgumus.github.io/zero-csharp/index.html Comments URL: https://news.ycombinator.com/item?id=50590279 Points: 135 # Comments: 100"
-   ],
-   "source": "Hacker News",
-   "url": "https://onurgumus.github.io/zero-csharp/index.html",
-   "image": null,
-   "published_at": "2026-11-21T15:39:09Z",
    "category": "tech",
    "related": []
   },
@@ -275,7 +341,7 @@
    "id": "18d9f9bc59b30c8a09cac823260f4f4782cd2398",
    "title": "Lean verification of the Riemann Hypothesis",
    "summary": [
-    "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 864 # Comments: 723"
+    "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 1043 # Comments: 871"
    ],
    "source": "Hacker News",
    "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
@@ -303,7 +369,7 @@
    "id": "07a481fe6b0c85726f8c71233d0ad5b0a3f06dff",
    "title": "Detonating a pile of lead azide",
    "summary": [
-    "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 540 # Comments: 358"
+    "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 616 # Comments: 389"
    ],
    "source": "Hacker News",
    "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
@@ -342,7 +408,7 @@
    "id": "e3142f2708c0814d132acf00c0cf41da51935e69",
    "title": "My monitor was cutting my download speed by 75%",
    "summary": [
-    "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 507 # Comments: 241"
+    "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 591 # Comments: 277"
    ],
    "source": "Hacker News",
    "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
@@ -353,9 +419,9 @@
   },
   {
    "id": "4cb2fb025b2b820fd6440fa4cfbdd8b7b18acef6",
-   "title": "RCE in Gnupg",
+   "title": "GnuPG Security Advisory for GPGME",
    "summary": [
-    "Article URL: https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html Comments URL: https://news.ycombinator.com/item?id=50587208 Points: 236 # Comments: 96"
+    "Article URL: https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html Comments URL: https://news.ycombinator.com/item?id=50587208 Points: 255 # Comments: 105"
    ],
    "source": "Hacker News",
    "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
@@ -428,127 +494,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-21T00:06:11Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "49db83e253edbf0771d468b99bafbdd0476979fa",
-   "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
-   "summary": [
-    "Worked for Fortune 50+ company and bunch of mid-size companies.",
-    "Currently, I tutor math and probably about to start working as manager in pizzaria.In Jan 2025, I quit from a mid-size insurance tech company(1000+) after working there for almost 4y, because I was tipped off the they were about to start layoffs and they did.",
-    "Well, since then I have zero luck finding any job in SWE.At this point, I have massive gap in my resume that I can't explain to recruiters, I can still code (C#/.NET/AWS) and learned the AI, but who cares if date of my last employment is Jan2025."
-   ],
-   "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50583761",
-   "image": null,
-   "published_at": "2026-11-20T23:18:32Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "a8f641bc1705047c6d54705e9829e97d832802c6",
-   "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
-   "summary": [
-    "The mammoth figure surpasses every video game launch and single-day film box office record."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-20T22:53:24Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "0165c931824a4d7c7e93d6e3812b80c235656078",
-   "title": "Getting the mind to steer the body to steer you",
-   "summary": [
-    "Article URL: https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body Comments URL: https://news.ycombinator.com/item?id=50583028 Points: 169 # Comments: 59"
-   ],
-   "source": "Hacker News",
-   "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
-   "image": null,
-   "published_at": "2026-11-20T22:11:05Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "6784575ef645eb461e8ab99fc3f20a9def143bbc",
-   "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-   "summary": [
-    "Article URL: https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib Comments URL: https://news.ycombinator.com/item?id=50582069 Points: 687 # Comments: 166"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-   "image": null,
-   "published_at": "2026-11-20T21:03:12Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "ee805bbdebf91547c08bb59cec00bad33a2c84df",
-   "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
-   "summary": [
-    "Techies are building technology that can advance all aspects of the world — but can they protect their hearts?",
-    "That's the vulnerability that honey pots exploit."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
-   "image": null,
-   "published_at": "2026-11-20T20:58:29Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "af72f9870d1f5ea752d504d0595bbe170be6c510",
-   "title": "We’ve tried everything to get off our phones. These 11 things work (and make great gifts)",
-   "summary": [
-    "Our favorite screen alternatives, including guided watercolor books, jigsaw puzzles and a Mexican cookbookThe best holiday gifts – obsessively testedLogging off is en vogue.",
-    "From touting analog bags to playing vinyl records, many of us are tired of living life behind a screen.So 2026 may be the ideal year to gift some low-tech entertainment instead of the newest iPhone."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/thefilter-us/2026/nov/20/best-analog-holiday-gift-ideas",
-   "image": "https://i.guim.co.uk/img/media/39315886bd6d22fce36c1249c9ce152e0d5d9375/66_0_2359_1887/master/2359.jpg?width=140&quality=85&auto=format&fit=max&s=33635aef5949b6278841ac99c4ee7bb1",
-   "published_at": "2026-11-20T20:15:38Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "59fa562eab8a38b3aa6a08d6be6e26c2946c44ed",
-   "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-   "summary": [
-    "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-   "image": null,
-   "published_at": "2026-11-20T19:53:41Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "321bf9e3c390a6360cc289f25831b6e985bbd25b",
-   "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-   "summary": [
-    "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-   "image": null,
-   "published_at": "2026-11-20T19:32:08Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "2af93e3b8100433ca68f806b0cdab544d4b157d7",
-   "title": "White House removes cyber-security chief after series of tech outages",
-   "summary": [
-    "He has been fired after losing the confidence of new White House chief of staff Stephen Miller, according to reports."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-20T19:03:56Z",
    "category": "tech",
    "related": []
   }

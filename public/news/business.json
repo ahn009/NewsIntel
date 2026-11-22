@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-22T03:01:47.298991Z",
- "story_count": 8,
+ "generated_at": "2026-11-22T11:06:09.075529Z",
+ "story_count": 4,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "ok",
-  "https://www.dawn.com/feeds/pakistan": "ok",
+  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,9 +20,36 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
+  "https://www.espn.com/espn/rss/news": "ok"
  },
  "stories": [
+  {
+   "id": "c96c1ed2d4eb4dc8ab9d450c544b6a867a9d423f",
+   "title": "MP criticises Guernsey and Jersey company ownership register plans",
+   "summary": [
+    "Sir Andrew Mitchell says access should be easier for people tackling financial crime."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-22T07:22:05Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "fe71d9b3a355d1d0d08d5680f78ea2f40d5396dc",
+   "title": "Employers are being asked to give interview feedback - here's what applicants want",
+   "summary": [
+    "People say they often hear nothing back after applying for jobs.",
+    "But could employers be forced to respond to every applicant?"
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-22T00:04:07Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "cfe33db7546f7f8e8d5fb42bc701a3ce5dad6a2c",
    "title": "Sessions offer advice on rising energy costs",
@@ -46,85 +73,6 @@
    "url": "https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation",
    "image": "https://i.guim.co.uk/img/media/efbc188d676f119c98b60ce20d212a75264e7757/483_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=80be199f03da1f2774ebcc5eaf1c6cd0",
    "published_at": "2026-11-20T23:42:43Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "b05464920f2e05935860dbc64bea44d5a39af05b",
-   "title": "What exactly is in the deal between the UK and the EU?",
-   "summary": [
-    "The two sides have come to agreements on food and drink, emissions trading and the youth exchange schemeBurnham has agreed EU reset deal with tuition fees issue unresolved, says No 10After months of on-off negotiations, leaks and late nights, the EU and UK have agreed a 12-page statement setting out the next steps in their relationship.",
-    "What exactly have they agreed?"
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/politics/2026/nov/20/what-is-in-deal-between-uk-eu-explainer",
-   "image": "https://i.guim.co.uk/img/media/7dc3c60fa8338bc5ee1369a6d31d699690231550/148_0_2427_1942/master/2427.jpg?width=140&quality=85&auto=format&fit=max&s=408ad629bea9f26f5474edd3bed42498",
-   "published_at": "2026-11-20T18:19:53Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "e93e2ca783cbde7653679b1719607eb67507cff3",
-   "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-   "summary": [
-    "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-20T17:49:48Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "5024389180d8d2eb39dcc875f5ef3aa59bc19e48",
-   "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
-   "summary": [
-    "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-20T16:41:52Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "a69c1b155a087e86f2efd0e7bd19016492f5a1e4",
-   "title": "Airbnb's divisive new house rules come into force",
-   "summary": [
-    "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-20T15:48:35Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "d7cb860e2048bc283737c9cbceb7b9b85906fa4b",
-   "title": "Could you spot a fake banknote?",
-   "summary": [
-    "A landlord says he took £100 in fake banknotes during his pub's opening weekend."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/c6808y974d13o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-20T15:40:40Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "5ec0d8a24dbef0ac6bdefd775e054ab5bd26412b",
-   "title": "The secret cyber scramble to protect UK fridge freezers",
-   "summary": [
-    "A behind the scenes cyber-security operation has taken place to secure tens of thousands of refrigeration units from hackers, the BBC has learned."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/cqpv94x1zj89o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-20T15:08:16Z",
    "category": "business",
    "related": []
   }

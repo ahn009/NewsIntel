@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-22T03:01:47.299370Z",
+ "generated_at": "2026-11-22T11:06:09.075821Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "ok",
-  "https://www.dawn.com/feeds/pakistan": "ok",
+  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,21 +20,523 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
+  "https://www.espn.com/espn/rss/news": "ok"
  },
  "stories": [
   {
-   "id": "a244b19114b26c9ad9fa6061587e3f29f53690c2",
-   "title": "Washington Spirit v Kansas City Current: NWSL Championship – live updates",
+   "id": "5796c05e21136fe44121cf7cb7379bd5c1c4f12a",
+   "title": "'Let fantastically promising McConnell loose against Pumas'",
    "summary": [
-    "⚽️ Trinity Rodman: We bring the fans into everything⚽️ Where the final will be won and lost | Ticket prices⚽️ Email Jeff | Newsletter sign-up | InstagramThe KC Current posted their lineup first.",
+    "Scotland head into their Nations Championship finale against Argentina on a high and should unleash Liam McConnell on the Pumas after his hat-trick against Japan, writes Tom English."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cmgqxvzyq959o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-22T10:59:15Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "94128aa9cff4978bc291c4201f11cb3dedf177a4",
+   "title": "Bruno Fernandes puts Manchester United contract talks on hold – matchday live",
+   "summary": [
+    "The latest Premier League and WSL news and buildupToday’s games | Tables | Follow on TikTok | And mail usThe Tottenham head coach Roberto De Zerbi compared Luca Williams-Barnett to Lamine Yamal following his heroics against Ipswich.He said: “Luca is a special player.",
+    "I’m not surprised because his talent is bigger than you think.",
+    "He’s lucky because he’s playing in a top club with top team-mates."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-buildup-and-more-premier-league-news-matchday-live",
+   "image": "https://i.guim.co.uk/img/media/05fc711a1690bb75157556422c2683ba3395a06f/911_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=c46f69b85b8ff613bad9f3c6d84cdeed",
+   "published_at": "2026-11-22T10:54:19Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "f1666f70ba8fa66dd7b43c2a2327ee0909565651",
+   "title": "NFL player Harrell in hospital after alleged driver assault",
+   "summary": [
+    "Tennessee Titans linebacker Jaylen Harrell is in hospital after a car crash in Florida, with police investigating whether he assaulted a taxi driver."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/american-football/articles/c3ly71pg27wvo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-22T10:30:36Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "f6ad3d8a0173f5b13e1b6b4ad57546ddcdc1c764",
+   "title": "Injured Jacks out of T20 Australia tour",
+   "summary": [
+    "England all-rounder Will Jacks is ruled out of the rest of the tour of Australia with a broken hand."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/cricket/articles/c8p3v1p45360o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-22T10:00:04Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "f57c544f5dc257fd859387e0938b8b30cecf4cdb",
+   "title": "Verstappen wins extraordinary race as Ferraris collide",
+   "summary": [
+    "Red Bull's Max Verstappen wins an extraordinary Las Vegas Grand Prix that featured 34 lead changes and another collision between the Ferraris."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/formula1/articles/cqx2ex25pvn9o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-22T09:49:15Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "832b6fc423f241ea74cd248d285d56a2714d34ab",
+   "title": "Verstappen's superb racecraft & Russell's costly mistake - driver ratings",
+   "summary": [
+    "BBC Radio 5 Live F1 commentator Harry Benjamin rates how the drivers performed during the Las Vegas Grand Prix weekend."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/formula1/articles/c83vg92x21vzo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-22T09:35:05Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "e1f13341212ea96f7acfa51beda4e12154bf7be9",
+   "title": "Hamilton-Leclerc collision completely unacceptable, says Ferrari boss",
+   "summary": [
+    "Ferrari drivers Lewis Hamilton and Charles Leclerc face yet another tense discussion over their ability to race together cleanly on track after colliding in Las Vegas."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/formula1/articles/c6j9mepj0j1go?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-22T09:07:15Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "09da77b3eee4c61867c0f92bc1fc867adea5a4e6",
+   "title": "'Not the right time' - Fernandes pauses Man Utd contract talks",
+   "summary": [
+    "Manchester United captain Bruno Fernandes says he has been offered a new contract by the club but feels it \"is not the right time\" for discussions about his future."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6x2e8devk1po?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-22T08:41:20Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "88e63b0ef5c4a46939ff1086fa9683572bc2e210",
+   "title": "Robins ‘aims for the stars’ as Stoke dream of Premier League return",
+   "summary": [
+    "The Championship’s form side climbed to second after holding on resiliently with 10 men to knock Birmingham off the summitThere have been false dawns before.",
+    "This time last year, with Christmas on the near horizon, Stoke sat second in the Championship table and were beginning to wonder whether they might allow themselves to dream.",
+    "So hopeless was their subsequent run that by the onset of spring they were forced to consider a potential relegation fight.Experience has taught the benefit of pragmatism, so no one will be getting ahead of themselves just yet."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/22/mark-robins-stoke-birmingham-championship-premier-league-promotion",
+   "image": "https://i.guim.co.uk/img/media/af7fbf085ba15e87e4e285c14565ba656a8028b7/187_0_2238_1791/master/2238.jpg?width=140&quality=85&auto=format&fit=max&s=e6ac373650668b6b5e5ec4160fd006a3",
+   "published_at": "2026-11-22T08:00:22Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "643e2dc453b3920eff786403e6a43ad823cf659c",
+   "title": "César Azpilicueta: ‘At Chelsea a draw was a catastrophe – if you can’t perform, you’re out’",
+   "summary": [
+    "Former defender reflects on his record-breaking longevity, kicking Eden Hazard in training, and life after retirementCésar Azpilicueta looks well.",
+    "César Azpilicueta always looks well – “ah, Captain Handsome,” one Chelsea fan says when told who’s turning up – but today especially, smiling in the sunshine.",
+    "Now, at 37, it’s not the same, although there remains much to do, Azpilicueta as understated and quietly busy as ever: “square,” he calls himself."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/22/cesar-azpilicueta-at-chelsea-a-draw-was-a-catastrophe-if-you-cant-perform-youre-out",
+   "image": "https://i.guim.co.uk/img/media/af3248e2ee441e7d2f137ca7fb9611270fe9bb7e/792_360_4551_3640/master/4551.jpg?width=140&quality=85&auto=format&fit=max&s=8aefea8ca5efaeeabc5ee70bed2bfac5",
+   "published_at": "2026-11-22T08:00:21Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "97c600a4fc93751f4aeae5d7a32102eaa74a3485",
+   "title": "Wemby makes history in 18 minutes, finishes game with 50 points",
+   "summary": [
+    "Victor Wembanyama had his third career 50-point outing in Sunday's win vs. the Pelicans, to go along with 19 rebounds, five blocks and four steals."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/nba/story/_/id/50559763/victor-wembanyama-shows-50-point-5-block-performance",
+   "image": null,
+   "published_at": "2026-11-22T07:43:00Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "a5833142af4c09e0fce9a2e80663b7002eeeb753",
+   "title": "Indiana's CFP, Big Ten title hopes in peril after OT loss at Washington",
+   "summary": [
+    "Indiana might not get a chance to defend its national championship after losing 27-24 at Washington on Saturday."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/college-football/story/_/id/50556327/indiana-cfp-hopes-take-hit-ot-loss-washington",
+   "image": null,
+   "published_at": "2026-11-22T07:43:00Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "1184daff523e516999c222275afab5ba41c564d6",
+   "title": "Verstappen fends off rivals in Vegas GP thriller for third win in 4 years",
+   "summary": [
+    "In a race that featured 35 lead changes, Max Verstappen kept finding ways to gain an advantage and emerged victorious in the Las Vegas Grand Prix on Saturday night."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/racing/story/_/id/50560262/max-verstappen-wins-las-vegas-grand-prix-3rd-4-years",
+   "image": null,
+   "published_at": "2026-11-22T07:43:00Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "0af9a371685187ddbaf3c91d6c3cc572af82b791",
+   "title": "Sources: Nacua needs 4-5 months to recover from knee surgery, out for playoffs",
+   "summary": [
+    "Puka Nacua's recovery time from MCL surgery is considered to be four to five months, sources told ESPN, meaning he will miss the playoffs."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/nfl/story/_/id/50556613/sources-rams-puka-nacua-4-5-months-knee-surgery",
+   "image": null,
+   "published_at": "2026-11-22T07:43:00Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "9159de37659608a2ed0d5544303e5a0559e462f2",
+   "title": "No. 1 Georgia clinches 6th straight SEC title game berth with win at No. 21 South Carolina",
+   "summary": [
+    "Nate Frazier ran for 94 yards and two touchdowns, and No. 1 Georgia clinched a spot in the final SEC championship game with a victory over South Carolina on Saturday night."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/college-football/story/_/id/50558713/georgia-clinches-sec-title-game-berth-win-south-carolina",
+   "image": null,
+   "published_at": "2026-11-22T07:43:00Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "eec210c4833b4f2f1a14c7a2067ced50c4c0e7a3",
+   "title": "Police investigating whether Titans' Harrell assaulted driver before crash",
+   "summary": [
+    "Police are investigating whether Titans DE Jaylen Harrell assaulted a rideshare driver before a serious car crash that left him hospitalized."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/nfl/story/_/id/50558496/police-probing-whether-titans-de-harrell-assaulted-driver",
+   "image": null,
+   "published_at": "2026-11-22T07:43:00Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "01c19cc2fe6a40c85a7b27da87dead47f7398831",
+   "title": "NCAA to scrap pregame handshakes at women's tourney after Geno-Staley spat",
+   "summary": [
+    "The NCAA will encourage but no longer mandate pregame handshakes between head coaches at the women's tournament after last season's controversy involving Geno Auriemma and Dawn Staley."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/womens-college-basketball/story/_/id/50557772/ncaa-mandate-pregame-handshakes-women-tournament",
+   "image": null,
+   "published_at": "2026-11-22T07:43:00Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "92cf5627e298f0b11ee0ddab0f66aecafaedc252",
+   "title": "UCLA loses Dieffenbach to injury, stays resolute with B1G title game in reach",
+   "summary": [
+    "UCLA coach Bob Chesney said his message to the Bruins was, \"Nobody hang your head,\" despite losing QB Ty Dieffenbach to injury in a tough, 18-16 defeat at Michigan on Saturday."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/college-football/story/_/id/50556107/ucla-qb-ty-dieffenbach-carted-3ot-loss-michigan",
+   "image": null,
+   "published_at": "2026-11-22T07:43:00Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "6c4d40db280a278f849cdfdc74a0e72d59ec2dde",
+   "title": "😈 Nebraska's jab at Ohio State leads top trolls of CFB Week 12",
+   "summary": [
+    "Nebraska deployed a simple but effective troll that poked fun at its opponent's propensity to emphasize the \"the\" in \"The Ohio State University.\""
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/college-football/story/_/id/50554531/nebraska-ohio-state-trolls-college-football-week-12",
+   "image": null,
+   "published_at": "2026-11-22T07:43:00Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "9daf5688366c8e7cdd2a399972f28e2d71be1573",
+   "title": "‘Showing off for Selena Gomez’ - Wembanyama hits 50 points in Spurs win",
+   "summary": [
+    "San Antonio Spurs star Victor Wembanyama hits 50 points as his side beats the New Orleans Pelicans 114-91."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/basketball/articles/c6x20yeqg18vo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-22T07:42:24Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "91c0e5a0bfc58111345ecc8aed861a022d0b7a94",
+   "title": "CFP top 12 projection: What we learned in the regular season's penultimate week",
+   "summary": [
+    "We assess how the selection committee could stack the top teams in the country after Week 12."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/college-football/story/_/id/50552244/projecting-2026-playoff-top-12-week-12-cfp",
+   "image": null,
+   "published_at": "2026-11-22T07:29:48Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "81d554e746c4de8e85d764790211f7d7b2bad26b",
+   "title": "Best of Week 12: The Year of Parity hits the Big Ten",
+   "summary": [
+    "UCLA, Indiana and Ohio State all lost to unranked teams in a year where parity is the ever-present theme."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/college-football/story/_/page/gamedayfinal112126/week-12-top-games-highlights-takeaways",
+   "image": null,
+   "published_at": "2026-11-22T07:29:48Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "c707f30e08e5c4628fa1c4b4c46039ed0ffdb905",
+   "title": "Who am I? Guess WSL star No 13",
+   "summary": [
+    "Work out the identity of today's player in as few attempts as possible."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cq770yn580j3o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-22T07:19:58Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "02ab918996b7fe71d56251939edb957fcb02c316",
+   "title": "Why Arsenal are behind in race for Women's Champions League spots",
+   "summary": [
+    "Arsenal were open about their aim to win the WSL this season but they find themselves well adrift - where have things gone wrong?"
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c8752llr1ed1o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-22T07:17:10Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "f5d4b81c220f3b5244030643b6e1c8d913edc52e",
+   "title": "Argentina midfielder Paredes collapses during TV interview",
+   "summary": [
+    "World Cup winning midfielder Leandro Paredes collapses while giving a post-match interview minutes after winning a trophy with Boca Juniors."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cwnv45818z59o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-22T07:13:34Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "0aad87bb58e613ea098dc90c1aa00cce81026264",
+   "title": "Who am I? Plus today's other quizzes",
+   "summary": [
+    "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cq0l31gw1809o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-22T07:12:55Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "70e6d26f5136f5cf4a8275cc262a6240a8ac73d9",
+   "title": "DiBernardo joins Rapinoe, Pulisic in pantheon of great Olimpicos",
+   "summary": [
+    "Vanessa DiBernardo joined an elite list on Saturday, scoring for Kansas City direct from a corner.",
+    "Known in soccer circles as an Olimpico, here are some of the very best."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/soccer/story/_/id/46407078/celebrating-olimpico-one-soccers-most-audacious-goals",
+   "image": null,
+   "published_at": "2026-11-22T06:40:20Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "92b3a59dcd74278331e77287a34f421fcbb597cb",
+   "title": "Kansas City finally, and deservedly, breaks NWSL Championship drought",
+   "summary": [
+    "Kansas City Current's first NWSL Championship was a story of conviction and resilience, crowned by a wonder-strike from Vanessa DiBernardo."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/soccer/story/_/id/50558351/kansas-city-current-breaks-nwsl-championship-drought",
+   "image": null,
+   "published_at": "2026-11-22T06:40:19Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "4657fe3a346e2f76aedfefe1a67b0a164b1a88b1",
+   "title": "'He will see what Man Utd are made of' - Pulis on Pochettino's first game",
+   "summary": [
+    "BBC Sport columnist Tony Pulis explains how new Manchester United boss Mauricio Pochettino will prepare for Sunday's game against Liverpool after only a few days with his squad."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/ckqx5w58dgv7o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-22T06:21:55Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "3d042d06ecb4e2252626467335bb5b71f8bc58b1",
+   "title": "Max Verstappen wins Las Vegas Grand Prix: Formula One 2026 – as it happened",
+   "summary": [
+    "Lando Norris finishes second and Oscar Piastri thirdAny thoughts?",
+    "Get in touch with an emailLap 2/50Oscar Piastri has done some fast overtaking, moving himself up from 17 to 12, now sitting behind Carlos Sainz."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/live/2026/nov/22/las-vegas-grand-prix-formula-one-2026-race-updates-live",
+   "image": "https://i.guim.co.uk/img/media/0e1e25e345ae136abd5b4d9c660839454e3b5265/50_0_3416_2735/master/3416.jpg?width=140&quality=85&auto=format&fit=max&s=58377a16a2739fb11388dbdb6b9b41ee",
+   "published_at": "2026-11-22T06:14:07Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "227fbc3de94a473b41e60ae933f89c2d52c9aef8",
+   "title": "Max Verstappen touches perfection in dramatic Las Vegas F1 GP win",
+   "summary": [
+    "Dutchman under siege before pulling clear in the final lapCharles Leclerc and Lewis Hamilton again clash on trackFor a race still in its infancy, this year’s Las Vegas Grand Prix delivered a spectacle for the ages."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/2026/nov/22/max-verstappen-touches-perfection-in-dramatic-las-vegas-grand-prix-win",
+   "image": "https://i.guim.co.uk/img/media/d0a9ab789d250cb38b422c64b38f325f59d9c741/503_0_4225_3380/master/4225.jpg?width=140&quality=85&auto=format&fit=max&s=7814071f4d133d98a91318b6a0d52dab",
+   "published_at": "2026-11-22T06:08:03Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "44ed0a022a77921200ef68b410deefe840d98e01",
+   "title": "Max Verstappen wins third race in Sin City",
+   "summary": [
+    "Max Verstappen has won the Las Vegas Grand Prix, and you can follow live updates on ESPN."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/f1/story/_/id/50530089/las-vegas-grand-prix-2026-live-updates-results-analysis-commentary",
+   "image": null,
+   "published_at": "2026-11-22T05:49:49Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "ed79f5f9032da060a26f57a67c8dd0665e4742ba",
+   "title": "'WRU like Man United' but Davies backs Faulkner",
+   "summary": [
+    "Former Wales captain Jonathan Davies says new Welsh Rugby Union (WRU) chairman Lyndon Faulkner can turn Welsh rugby around."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm257rjk9v9o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-22T05:49:02Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "e796ecb6390ba7b501ad20b5d53672d613d388a9",
+   "title": "Wales coach Tandy frustrated by Australia defeat",
+   "summary": [
+    "Wales head coach Steve Tandy said he was frustrated after his side failed to back up their epic win over New Zealand with victory against Australia."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6gregq87258o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-22T04:50:34Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "cedd7014d85a6f0def26a58b4f90785b139cacfb",
+   "title": "Week 12 live: Michigan downs UCLA; Ohio State, Indiana lose too",
+   "summary": [
+    "Tracking the top plays and developments from Week 12."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/college-football/story/_/id/50541394/week-12-live-highlights",
+   "image": null,
+   "published_at": "2026-11-22T04:29:59Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "a244b19114b26c9ad9fa6061587e3f29f53690c2",
+   "title": "Kansas City Current stun Washington Spirit to win NWSL Championship – as it happened",
+   "summary": [
     "Brazil netminder Lorena starts in goal behind a back-four of Izzy Rodriguez, Kayla Sharples, Gabrielle Robinson, and Laney Rouse.",
-    "Andi Sullivan the sole defensive midfielder beneath Leicy Santos and Melissa Bethi, with Trinity Rodman joined in attack as usual by Sofia Cantore and Clara Luvanga."
+    "Lo’eau LaBonta and Vanessa DiBernardo form a veteran double-pivot beneath Croix Bethune, while Temwa Chawinga, Haley Hopkins, and Michelle Cooper form a potent attacking trident.Washington are backstopped by Scotland goalkeeper Sandy McIver.",
+    "A back-four of Gabrielle Carle, Esme Morgan, Tara Rudd, and Lucia DiGuglielmo."
    ],
    "source": "The Guardian",
    "url": "https://www.theguardian.com/football/live/2026/nov/21/washington-spirit-kansas-city-current-nwsl-championship-live-updates",
-   "image": "https://i.guim.co.uk/img/media/c07b5c56d0f9fc9bc653ba09cb9c8d5608e2cc37/689_302_4003_3202/master/4003.jpg?width=140&quality=85&auto=format&fit=max&s=ff2543321a22f4c36e397ddd4a0155a4",
-   "published_at": "2026-11-22T02:43:51Z",
+   "image": "https://i.guim.co.uk/img/media/f46a6e15a164294245bfaac719e6da277baaf411/469_0_4475_3582/master/4475.jpg?width=140&quality=85&auto=format&fit=max&s=845feef068d6484389755f04fb47b513",
+   "published_at": "2026-11-22T04:07:25Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "884d34a0745a057990c0f7ef9a67638cd67812da",
+   "title": "Champion’s corner: KC Current win first NWSL Championship with 2-1 stunner over Spirit",
+   "summary": [
+    "Current’s opener came direct from a corner kickDebinha, Trinity Rodman trade goals in stoppage timeWashington Spirit lose third consecutive NWSL finalRead Jeff Rueter’s minute-by-minute reportIt took five years, 90 minutes and a goal for the ages, but the Kansas City Current have their first-ever NWSL championship.Riding a wave of momentum created by a 54th-minute Olimpico from midfielder Vanessa DiBernardo, and capping it off with an all-important breakaway winner from Debinha, the Current silenced the partisan, sellout crowd at the heavily-favored Washington Spirit’s home ground with a 2-1 victory on Saturday."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/21/nwsl-championship-washington-spirit-kansas-city-current",
+   "image": "https://i.guim.co.uk/img/media/546fafdee8a7c55af0f3197c68e9e63455348a3f/311_0_4057_3247/master/4057.jpg?width=140&quality=85&auto=format&fit=max&s=2208080e7b45fe3b49cc71f6ca1de2dc",
+   "published_at": "2026-11-22T03:55:43Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "02708ca4496cf8bfb89403347ba0d80050334ee1",
+   "title": "Lionel Messi at center of red-card controversy as Inter Miami face early MLS playoff exit",
+   "summary": [
+    "Messi booked for throwing ball into opponent’s faceColumbus coach insists Argentine deserved red cardDefending champions thrashed 3-0 in series openerColumbus Crew coach Laurent Courtois said Lionel Messi should have been sent off after throwing a ball into an opponent’s face as Inter Miami crashed to a 3-0 defeat in the MLS Cup playoffs on Saturday.Messi’s frustration boiled over on the stroke of half-time when he hurled a throw-in into the face of Columbus forward Gonzalo Tapia, with 10-man Miami trailing 1-0 at the time."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/21/lionel-messi-red-card-controversy-inter-miami-columbus-crew-mls-playoffs",
+   "image": "https://i.guim.co.uk/img/media/c98d4d83cac99ccfd2d3edc8d0ba8faad0d7f091/272_0_2705_2165/master/2705.jpg?width=140&quality=85&auto=format&fit=max&s=bb20fd0061249cd8fafbf2c4de830eaf",
+   "published_at": "2026-11-22T03:01:55Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "77bdc8b71e8d4d8c9d4f1a7c658e7937c498ee86",
+   "title": "Columbus stun Messi, Miami to take Match 1 in MLS playoffs",
+   "summary": [
+    "null"
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/soccer/match/_/gameId/401933739/columbus-crew-inter-miami-cf",
+   "image": null,
+   "published_at": "2026-11-22T02:17:36Z",
    "category": "sports",
    "related": []
   },
@@ -48,509 +550,6 @@
    "url": "https://www.bbc.co.uk/sport/football/videos/cm5y149qg4yqo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-22T00:13:01Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "5c96912fb05ca94e7d6dc71d3dea361baa659228",
-   "title": "I wish referee had opportunity to see 'handball' again - Hart",
-   "summary": [
-    "Match of the Day pundits Joe Hart and Alan Shearer disagree with Morgan Rogers being penalised for handball, as the Chelsea forward \"didn't make himself bigger\" with the use of his arms in his side's 4-1 defeat to Leeds United in the Premier League."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/videos/cme3dvk1kzgqo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-22T00:08:13Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "e5ec0388c869ec394d542e6a0f415bb29ef2cdc7",
-   "title": "France thrash Argentina to reach Nations Championship final",
-   "summary": [
-    "France beat Argentina 45-17 in Paris to set up a clash with South Africa in the Nations Championship final at the Allianz Stadium."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/rugby-union/videos/cm879py9n9xwo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-21T23:22:40Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "000236b5fd473954d111aca74799fa52797b73ad",
-   "title": "London City keep up title hunt with emphatic win over Crystal Palace",
-   "summary": [
-    "London City Lionesses stay in the hunt for the Women's Super League title, with a statement second-half performance to give them a 6-2 win over Crystal Palace."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/videos/c6n83rrknrj2o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-21T23:14:10Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "ae4d5c98b3af556d1da1f537b913d13f5d48dc11",
-   "title": "Alcaraz to face Zverev in ATP Finals title decider",
-   "summary": [
-    "Carlos Alcaraz will face world number one Alexander Zverev for the ATP Finals title after completing a superb comeback victory against Ben Shelton."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/tennis/articles/cw5y1gg7nyv0o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-21T22:50:19Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "3f5314ece91ce71c1fea3b0f5a2ed38ab523549c",
-   "title": "France beat Argentina to set up Nations Championship final with South Africa",
-   "summary": [
-    "They confirmed top spot in the northern hemisphere table with the required bonus-point win, finishing on 26 points with five wins out of six.",
-    "England (five bonus points) and Ireland (four bonus points) also won five matches, but finish second and third respectively."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/sport/2026/nov/21/france-beat-argentina-to-set-up-nations-championship-final-with-south-africa",
-   "image": "https://i.guim.co.uk/img/media/b075c24aace53b3464962c5aa017fde567f10648/443_0_4429_3543/master/4429.jpg?width=140&quality=85&auto=format&fit=max&s=1daf1b4020c9e7dad3dd8fe9913c38a4",
-   "published_at": "2026-11-21T22:46:00Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "fc5279097272c7fd2e9fb08885ba29112c1dada1",
-   "title": "'They looked like a team again' - Hearts roar back with Dundee demolition",
-   "summary": [
-    "After a worrying week before the international break, Hearts respond is style by thrashing Dundee 8-0 at Dens Park."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cm9w98y28djno?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-21T22:45:05Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "d5146afc8812478a7bf2fd7ba7ea024ffb4c8e6f",
-   "title": "Highlights: Wallabies edge Wales in Cardiff",
-   "summary": [
-    "Watch the best of the action as Australia edge Wales in Cardiff"
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/rugby-union/videos/cjwy57n2rqwyo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-21T22:37:09Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "f34aa3f20bb0895ad6757f21cd0a1d523331c261",
-   "title": "Scotland kept 'foot on throat' in ruthless display - captain McDowall",
-   "summary": [
-    "Stand-in captain Stafford McDowall praises Scotland for keeping their \"foot on the throat\" of opponents Japan in their thumping 67-5 Nations Championship win."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cm62pz9xkvd7o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-21T22:28:55Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "2c770dbcaa85a09f589044432acf5faee1aae1e7",
-   "title": "Kim holds one-shot lead at LPGA finale as Korda closes in",
-   "summary": [
-    "A-Lim Kim holds a slender lead going into the final round of the CME Group Tour Championship, with world number one Nelly Korda among the chasers."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/golf/articles/c3ewvg08gjggo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-21T22:28:26Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "dd979eacb90a2891c445f36df3b5717931e5b377",
-   "title": "Can win over All Blacks finally break England's boom-bust cycle?",
-   "summary": [
-    "Twelve months ago, England beat New Zealand and flopped in the following Six Nations.",
-    "Can their 2026 success pave the way to more permanent success?"
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6gregx71gjro?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-21T22:27:36Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "727cc55d80dbb08319cf39107f83ad6df517b376",
-   "title": "Australia hold on for narrow win against Wales",
-   "summary": [
-    "Wales could not emulate their famous victory against New Zealand as Australia claimed the Nations Championship spoils in Cardiff."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwm25ev1z8y8o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-21T22:25:36Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "b5cfd0318a8fef02e2f1fe09629f11ee74789c65",
-   "title": "France secure Nations Championship final with Springboks",
-   "summary": [
-    "France dispatch Argentina in Paris to book their spot against South Africa in the Nations Championship final at Allianz Stadium next Sunday."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c3zxv4e5g5g5o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-21T22:22:36Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "87a9c946e29825de7a2d187882f81a1e90985057",
-   "title": "Scottish Premiership roundup: Dundee left reeling after 8-0 mauling by Hearts",
-   "summary": [
-    "Vrancken was naturally delighted that his players had ended a run of three defeats in a row in such spectacular style."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/2026/nov/21/scottish-premiership-roundup-celtic-sweep-st-mirren-aside-to-strengthen-grip-at-top",
-   "image": "https://i.guim.co.uk/img/media/0c4eaf434ca237b594cffa07a9c244de9bb6e938/220_0_3749_3000/master/3749.jpg?width=140&quality=85&auto=format&fit=max&s=61f4d045bbc497d09374e4535d1315f5",
-   "published_at": "2026-11-21T22:20:19Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "9a4b710c48fc80caf08f30790f12f105e3643df0",
-   "title": "‘I didn’t know’: former Australia Test coach Darren Lehmann denies any knowledge of sandpaper use",
-   "summary": [
-    "Lehmann’s version of events of 2018 tour remain unchanged‘We’ve just got to try to move on’ from ball tampering sagaDarren Lehmann has denied knowledge of a plan to use sandpaper to alter the ball during Australia’s Test tour of South Africa in 2018, contradicting Cameron Bancroft’s claims.The former Australian Test coach was implicated in Bancroft’s 4,000-plus word statement on the events that led to the Western Australian being busted on-field with sandpaper down his trousers in Cape Town."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/sport/2026/nov/22/i-didnt-know-former-australian-test-coach-darren-lehmann-denies-any-knowledge-of-sandpaper-use",
-   "image": "https://i.guim.co.uk/img/media/c6c103d183b09c6d2bedf741541b0e8d4bea3ec8/237_0_1555_1244/master/1555.jpg?width=140&quality=85&auto=format&fit=max&s=5250c31a07c5e229aa5e3794d45d4cac",
-   "published_at": "2026-11-21T22:18:14Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "e8ee55d7243454e7abceffd394034120ddd90fc2",
-   "title": "Rising star Stirling knocks out Prochazka",
-   "summary": [
-    "Rising star Navajo Stirling earns the biggest win of his career as he knocks out former champion Jiri Prochazka in the second round at UFC Qatar."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/ckgj3l8nxev5o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-21T21:51:51Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "64c07d378a5a1c1329923e70e2fd53970df649d3",
-   "title": "‘Obviously it’s not good’: Arteta sweating over David Raya’s fitness after injury",
-   "summary": [
-    "The Spaniard was helped off in evident pain and looked close to tears."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/2026/nov/21/david-raya-shoulder-injury-arsenal-newcastle-mikel-arteta",
-   "image": "https://i.guim.co.uk/img/media/3bbb589d9e517a18cfef57d7776dd498a4d5caeb/33_42_928_742/master/928.jpg?width=140&quality=85&auto=format&fit=max&s=4d42beaf30774bbb3cc822764d63b224",
-   "published_at": "2026-11-21T21:48:21Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "6ffe884ff2e399c09fc5f6698bfea2f772b3c422",
-   "title": "‘GO NAVY’ becomes ‘GO ARMY’ after overnight prank at Navy football stadium",
-   "summary": [
-    "Cadets rearranged bolted-down seats overnightNavy workers spent four hours undoing stuntRival academies have long history of pranksThe large letters that spell “GO NAVY” in the upper seating level of the Naval Academy’s football stadium were changed to “GO ARMY” in an elaborate overnight prank before the Midshipmen hosted No 24 Memphis on Saturday.The stunt involved rearranging the blue and yellow seat backs at Navy-Marine Corps Memorial Stadium in Annapolis, Maryland, a task made considerably more complicated by the fact that the seats are bolted into place."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/sport/2026/nov/21/army-navy-football-stadium-prank-cadets-go-army",
-   "image": "https://i.guim.co.uk/img/media/872cef1fa3a2b071559e660cc1fea0de2d0f98e1/415_0_4136_3311/master/4136.jpg?width=140&quality=85&auto=format&fit=max&s=ff9c970a022b82b1f31752c42b4fcdac",
-   "published_at": "2026-11-21T21:43:31Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "691108b16c75a8598785fbe25062dc1e6c5d553f",
-   "title": "Alcaraz holds off Shelton to set up final showdown with Zverev at ATP Finals",
-   "summary": [
-    "Ferrero is one of the most highly respected coaches on tour, but he also knows Carlos Alcaraz better than any other coach in the world.However, there is only so much that anyone can do against one of the sport’s greatest talents."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/sport/2026/nov/21/carlos-alcaraz-holds-off-ben-shelton-to-book-his-place-in-the-atp-finals",
-   "image": "https://i.guim.co.uk/img/media/e9b9d23305a7d630fb0ca7f3b4264b90894b6fa4/511_0_5112_4089/master/5112.jpg?width=140&quality=85&auto=format&fit=max&s=a46e06896286be60d2f60196af453192",
-   "published_at": "2026-11-21T21:35:18Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "dcf506cb0b2a9b57e08f518ed853484897218c6a",
-   "title": "Raya set to have scan on injury - how much would Arsenal miss him?",
-   "summary": [
-    "Arsenal goalkeeper David Raya is set to have a scan on his shoulder after going off injured during Saturday's 2-2 draw with Newcastle."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/articles/ckx28w9ree9vo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-21T21:14:08Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "59d2703d929a371c7a32024d32703e3fbfa0a4a4",
-   "title": "WSL roundup: Chelsea thwarted by Liverpool keeper, London City move to third",
-   "summary": [
-    "Against Gareth Taylor’s side, Chelsea’s lack of cutting edge was clear a week after they beat City to go top.",
-    "The calf injury picked up by Melvine Malard against City, the absence of Lauren James, who has a thigh injury, and the form of Aggie Beever-Jones, who scored her first WSL goal in more than a year in the 6-0 defeat of Charlton, have left Chelsea’s attack short."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/2026/nov/21/liverpool-chelsea-london-city-lionesses-crystal-palace-wsl",
-   "image": "https://i.guim.co.uk/img/media/f9fdedef7f806355de107b35c4546feeb0038014/286_0_4382_3505/master/4382.jpg?width=140&quality=85&auto=format&fit=max&s=56f29efda715e79b44c44c8e9fa49406",
-   "published_at": "2026-11-21T20:54:39Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "51cea4d093719af1e035bbe8a9810e2cf150ed7d",
-   "title": "Ireland remind themselves that the best are beatable",
-   "summary": [
-    "Ireland put a string of deflating losses against the world's best teams behind them with a hard-fought 20-17 win over South Africa in Dublin."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c820qxx2k7y2o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-21T20:39:51Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "57c131a7f708f36f27c3fa4fa3e29cd2ea863c66",
-   "title": "AC Milan monitoring Man Utd's Fernandes - Sunday's gossip",
-   "summary": [
-    "AC Milan monitoring Manchester United midfielder Bruno Fernandes, Arsenal pair yet to start talks on new deals and Trabzonspor renew interest in Tottenham forward Richarlison, plus more."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cq8j4e8nlvm1o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-21T20:35:12Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "f6f49576bcd4f475cf47b65a6278a82504ff2d6f",
-   "title": "'We lost two points' - Arteta on 'unacceptable' Newcastle draw",
-   "summary": [
-    "Arsenal manager Mikel Arteta says his side squandered the chance to take all three points after their 2-2 draw against Newcastle United at St James' Park.",
-    "The result sees the reigning Premier League champions go six points clear at the top of the table."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/videos/ck1wrdd9ew11o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-21T20:30:50Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "db7e0f792c929dc864b5c349842887f318bbbb0e",
-   "title": "European football: Doué carried off for PSG while Kane vows to return fresh",
-   "summary": [
-    "The match was stopped for five minutes to allow Doué to receive treatment to his right knee before he was carried off to a backdrop of applause from the crowd at the Allianz Riviera stadium."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/2026/nov/21/european-football-borussia-dortmund-psg-real-madrid",
-   "image": "https://i.guim.co.uk/img/media/804efa5e8ed0f04d0847177a9410d55745e6820a/297_0_2972_2377/master/2972.jpg?width=140&quality=85&auto=format&fit=max&s=97fa607c796b3e792f1c54dafc582f54",
-   "published_at": "2026-11-21T20:25:53Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "1cc7fe840fea14f149f1e1b5dda15c82ea3c7f52",
-   "title": "Nine wins in a row - Bournemouth & Evanilson continue to make history",
-   "summary": [
-    "With a ninth successive win, Bournemouth continue to make history under new manager Marco Rose."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/articles/c6p9d102k4mdo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-21T20:07:56Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "7b63e9c55367af7780c08b46b6a0a02858630c75",
-   "title": "Pochettino needs New Manager Bounce to break torrid Manchester United turnover | Jonathan Wilson",
-   "summary": [
-    "Latest hire will depend on fresh faces and time to bed in at Old Trafford where the dugout churn is hardest to budgeEverybody knows the pattern.",
-    "A title challenge becomes clinging on for the last Champions League spot becomes mid-table.",
-    "Or a promising start becomes a troubling dip, becomes a full-on battle against relegation.Fans begin to grumble."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/2026/nov/21/pochettino-needs-new-manager-bounce-to-break-torrid-manchester-united-turnover",
-   "image": "https://i.guim.co.uk/img/media/90130f821c6f6f9d02561ca82719f5e6e79f0dfd/262_0_5492_4393/master/5492.jpg?width=140&quality=85&auto=format&fit=max&s=7f03bbef9cb73fc4427af16a9d47535a",
-   "published_at": "2026-11-21T20:00:06Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "49363e99b40af411a420c334e334a0e13c19c9bf",
-   "title": "Arsenal go six points clear after lively draw at Newcastle",
-   "summary": [
-    "Noni Madueke's second-half goal earns Arsenal a 2-2 draw against Newcastle United at St James' Park, as the reigning champions move six points clear at the top of the Premier League table."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/videos/cm702zzl66l6o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-21T19:59:35Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "b38b2a5142842a9b82c0c94468902a08fca4251a",
-   "title": "Evanilson strikes again as Bournemouth beat Forest",
-   "summary": [
-    "Evanilson scores in his sixth consecutive Premier League game, as Bournemouth defeat Nottingham Forest 2-0 at the Vitality Stadium."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/videos/cm4gn997yry2o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-21T19:59:17Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "0e908f361c29c6b0bb07378b43b482800bc78f56",
-   "title": "Leeds dominate Chelsea for first Stamford Bridge win since 1999",
-   "summary": [
-    "Noah Okafor scores twice to deliver Leeds United's first win at Chelsea in 27 years, in an impressive 4-1 victory at Stamford Bridge.",
-    "They move up to sixth in the Premier League."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/videos/c3ewvkk4qgxjo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-21T19:59:13Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "a80287a076208727f99186c4fe1c36b10df1f770",
-   "title": "Man City drop points to Fulham despite superb Anderson volley",
-   "summary": [
-    "Elliot Anderson's fantastic volley earns Manchester City a first Premier League point in over a month as they come from behind to hold Fulham."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/videos/c30rkq9xyk8eo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-21T19:59:08Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "627dedbdb197b5e4dacca5c3e2a6b88594d406e0",
-   "title": "Teenager Williams-Barnett shines as Spurs beat Ipswich",
-   "summary": [
-    "Tottenham Hotspur teenager Luca Williams-Barnett starres for Roberto de Zerbi's side as they comfortably beat Ipswich Town."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/videos/c3174qq2j82zo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-21T19:59:02Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "dcf275dc2698c3c069140f75a69c8be0f7b46bd4",
-   "title": "Villa's home woes continue as Sunderland earn point",
-   "summary": [
-    "Aston Villa's struggles at home this season continue as they are held to a goalless draw by Sunderland in the Premier League."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/videos/c5j9m227l42do?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-21T19:58:56Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "76ea0364717e87947e8785e5ada09a2d82d15698",
-   "title": "Coventry beat Palace in Frank's first game after late own goal",
-   "summary": [
-    "A Dwight McNeil own goal in the 85th minute gives Coventry City a 3-2 win to move three points clear of the relegation zone, as Thomas Frank's first game in charge at Crystal Palace ends in defeat in the Premier League."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/videos/c8wy5ddky5n9o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-21T19:58:52Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "c70ed86127c701235f9af5f7ba0cc8ca3e2c17b3",
-   "title": "Big wins for Saracens, Exeter and Newcastle in Prem Cup",
-   "summary": [
-    "Prem Rugby Cup round-up: Saracens go top with win over Harlequins, while Carwyn Tuipulotu scores a hat-trick for Exeter and Newcastle beat Northampton."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cwn83x22m49mo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-21T19:57:31Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "48dc2bce666a58e498d48cc853158c7db5aa027c",
-   "title": "Newcastle United 2-2 Arsenal: Premier League – as it happened",
-   "summary": [
-    "And all this is not to mention the chap lurking on the bench.",
-    "Personally – I admit it – I’d rather have three fully functioning goal machines, but there we are.”We hate it when our teams become successful.He’s prepared emotionally; he knows to accept.",
-    "We have to be very dominant emotionally to attack Newcastle in the way we want, and he’s ready to do that."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/live/2026/nov/21/newcastle-united-v-arsenal-premier-league-live",
-   "image": "https://i.guim.co.uk/img/media/1065cf874af7706d7d7827812e5b1ccda82f826a/69_0_2590_2073/master/2590.jpg?width=140&quality=85&auto=format&fit=max&s=455f467c0e6de39fe05e35db12391c2e",
-   "published_at": "2026-11-21T19:48:35Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "a471a91117752fe7a5fa6dcdbc170627a5f737db",
-   "title": "Raya injured but Madueke rescues point for Arsenal in seesaw Newcastle draw",
-   "summary": [
-    "At half-time the crowd had felt close to turning against Jaissle but he held his nerve and, thanks to a triple substitution and subtle tactical rejig suggested he is no mug after all."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/2026/nov/21/newcastle-arsenal-premier-league-match-report",
-   "image": "https://i.guim.co.uk/img/media/1065cf874af7706d7d7827812e5b1ccda82f826a/69_0_2590_2073/master/2590.jpg?width=140&quality=85&auto=format&fit=max&s=455f467c0e6de39fe05e35db12391c2e",
-   "published_at": "2026-11-21T19:47:11Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "389cfc9cc0574ee8ec01da990db2635d4d932fba",
-   "title": "Madueke 'a consistent threat' - Newcastle v Arsenal player ratings",
-   "summary": [
-    "BBC Sport's Alex Howell shares his player ratings for Newcastle and Arsenal's 2-2 draw in the Premier League - and you can rate the players too."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cq4gn97e8ee4o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-21T19:29:48Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "423d11dbebdd3e898595fd861048f596a3a42be6",
-   "title": "Highlights: Ireland hang on to beat South Africa",
-   "summary": [
-    "Watch highlights as Ireland hang on to beat world champions South Africa 20-17 in a thrilling Nations Championship game in Dublin."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/videos/crx276g7267do?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-21T19:25:02Z",
    "category": "sports",
    "related": []
   }
