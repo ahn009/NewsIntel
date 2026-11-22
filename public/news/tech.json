@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-22T11:06:09.075152Z",
+ "generated_at": "2026-11-22T18:28:32.050332Z",
  "story_count": 36,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
-  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/home": "ok",
+  "https://www.dawn.com/feeds/pakistan": "ok",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,9 +20,165 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "ok"
+  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "bed82431ae1f061b2531719f2dd108d5e085f0de",
+   "title": "Why data centers are at the center of the Big Tech backlash",
+   "summary": [
+    "Journalist Paris Marx unpacks his new book \"Hyperscale.\""
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+   "image": null,
+   "published_at": "2026-11-22T18:08:43Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "de5cd1a6d51dc917ab910942b7b9fe70d73cd78c",
+   "title": "Perplexity and Intelligence",
+   "summary": [
+    "Article URL: https://openai.com/index/perplexity-and-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50601525 Points: 112 # Comments: 57"
+   ],
+   "source": "Hacker News",
+   "url": "https://openai.com/index/perplexity-and-intelligence/",
+   "image": null,
+   "published_at": "2026-11-22T17:06:27Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "91d036c3af3fde0c37d77da149b03ce84889cbea",
+   "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+   "summary": [
+    "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+   "image": null,
+   "published_at": "2026-11-22T17:06:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "3482c58c624c53d169c3f813872c22e5f79febaa",
+   "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
+   "summary": [
+    "Article URL: https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html Comments URL: https://news.ycombinator.com/item?id=50600677 Points: 88 # Comments"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
+   "image": null,
+   "published_at": "2026-11-22T15:42:40Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "478950d653c9e3a73f6ee3b1b326c16e42c9f2cd",
+   "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+   "summary": [
+    "Article URL: https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/ Comments URL: https://news.ycombinator.com/item?id=50600622 Points: 40 # Comments: 8"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
+   "image": null,
+   "published_at": "2026-11-22T15:35:24Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "5e1b558f14945110a202416e728a253361c0785c",
+   "title": "Open Social Web Alliance",
+   "summary": [
+    "Article URL: https://osw-alliance.net/en/ Comments URL: https://news.ycombinator.com/item?id=50600511 Points: 137 # Comments: 127"
+   ],
+   "source": "Hacker News",
+   "url": "https://osw-alliance.net/en/",
+   "image": null,
+   "published_at": "2026-11-22T15:24:32Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "739cb256ef8c98a29b27a020450e35368ce4321e",
+   "title": "Backblaze customers worried of personal data sale/sharing after policy update",
+   "summary": [
+    "Article URL: https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/ Comments URL: https://news.ycombinator.com/item?id=50600435 Points: 61 # Comments: 31"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/",
+   "image": null,
+   "published_at": "2026-11-22T15:16:02Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "2b3d9332eb80c9b1071ea936045c9d98dbe3ca7f",
+   "title": "Can a TV be too large? An investigation",
+   "summary": [
+    "This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
+   "image": null,
+   "published_at": "2026-11-22T15:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "3c4f4993adcaa465da5801177e8227155c28464e",
+   "title": "Show HN: I built a game where you are an LLM's subagent",
+   "summary": [
+    "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 156 # Comments: 39"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/gulivan/worker755",
+   "image": null,
+   "published_at": "2026-11-22T13:56:58Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "abe4c1951f795f1ad122d3a704219e586c22cd5c",
+   "title": "Testing Terraform with AWS Emulator",
+   "summary": [
+    "Article URL: https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/ Comments URL: https://news.ycombinator.com/item?id=50599309 Points: 10 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/",
+   "image": null,
+   "published_at": "2026-11-22T13:00:36Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "0ea430def48395d98033a24cc267410691893c17",
+   "title": "Howard Lutnick has been Trump’s ally for decades. His ties to Nvidia may spell his downfall",
+   "summary": [
+    "Billionaire commerce secretary faces scrutiny after sex scandal reveals his role in sales of chips to ChinaHoward Lutnick, the beleaguered US commerce secretary and close ally of Donald Trump, is emerging as Democrats’ prime target when the party takes control of Congress in January.Lutnick is resisting calls to resign amid a bipartisan outcry over his role in the scandal at artificial intelligence (AI) company Nvidia and the sale of microchips to China, the US’s principal geopolitical rival in the race for AI supremacy."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/22/howard-lutnick-nvidia-china",
+   "image": "https://i.guim.co.uk/img/media/26a7d259410d67ec0543bc2520e6b3eb08d24ccb/977_0_6479_5186/master/6479.jpg?width=140&quality=85&auto=format&fit=max&s=6c8567c039445c37b7e032dcf388a1fd",
+   "published_at": "2026-11-22T11:00:26Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "21bd1d482ae20679bdd42e3a7cc50b6c89d8ae11",
+   "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+   "summary": [
+    "Article URL: https://simonwillison.net/2026/Nov/21/muru/ Comments URL: https://news.ycombinator.com/item?id=50597959 Points: 53 # Comments: 8"
+   ],
+   "source": "Hacker News",
+   "url": "https://simonwillison.net/2026/Nov/21/muru/",
+   "image": null,
+   "published_at": "2026-11-22T09:57:01Z",
+   "category": "tech",
+   "related": []
+  },
   {
    "id": "7751ababced90d7438d092c0e6a7396932418d37",
    "title": "It will soon be too late to regulate use of autonomous weapons, warns Red Cross",
@@ -40,7 +196,7 @@
    "id": "38c61351fe0dc3e7c6b43250508fe09e9aed4d01",
    "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
    "summary": [
-    "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ Comments URL: https://news.ycombinator.com/item?id=50597612 Points: 139 # Comments: 158"
+    "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ Comments URL: https://news.ycombinator.com/item?id=50597612 Points: 576 # Comments: 644"
    ],
    "source": "Hacker News",
    "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
@@ -67,7 +223,7 @@
    "id": "457ae2a3f09df7e72abf63bd6e6cc82622a26eec",
    "title": "Notes on the discrete Fourier transform (DFT)",
    "summary": [
-    "Article URL: https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/ Comments URL: https://news.ycombinator.com/item?id=50596960 Points: 31 # Comments: 4"
+    "Article URL: https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/ Comments URL: https://news.ycombinator.com/item?id=50596960 Points: 78 # Comments: 10"
    ],
    "source": "Hacker News",
    "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
@@ -90,23 +246,10 @@
    "related": []
   },
   {
-   "id": "1fd500df4662cd471e47a2d08203caa3bad8eb9f",
-   "title": "Show HN: The Riemann Proof Handbook",
-   "summary": [
-    "Article URL: https://github.com/tamnd/riemann-handbook Comments URL: https://news.ycombinator.com/item?id=50596664 Points: 51 # Comments: 19"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/tamnd/riemann-handbook",
-   "image": null,
-   "published_at": "2026-11-22T05:46:30Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "3400785e003329cfbed6422cea81f25df13ef22b",
    "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
    "summary": [
-    "Article URL: https://github.com/EL4CTEO/fast-anything Comments URL: https://news.ycombinator.com/item?id=50596155 Points: 35 # Comments: 24"
+    "Article URL: https://github.com/EL4CTEO/fast-anything Comments URL: https://news.ycombinator.com/item?id=50596155 Points: 142 # Comments: 102"
    ],
    "source": "Hacker News",
    "url": "https://github.com/EL4CTEO/fast-anything",
@@ -119,7 +262,7 @@
    "id": "f0cbfd67946449ca9190f6c79c2c855c2e44c34f",
    "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
    "summary": [
-    "Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/ Comments URL: https://news.ycombinator.com/item?id=50596133 Points: 527 # Comments: 311"
+    "Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/ Comments URL: https://news.ycombinator.com/item?id=50596133 Points: 991 # Comments: 590"
    ],
    "source": "Hacker News",
    "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
@@ -132,7 +275,7 @@
    "id": "381628060ea95e20f1d6c346326c5cf01845a1bf",
    "title": "Data Processing Incidents on Inference Providers",
    "summary": [
-    "Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/ Comments URL: https://news.ycombinator.com/item?id=50595554 Points: 156 # Comments: 61"
+    "Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/ Comments URL: https://news.ycombinator.com/item?id=50595554 Points: 251 # Comments: 88"
    ],
    "source": "Hacker News",
    "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
@@ -145,7 +288,7 @@
    "id": "67786b63779fc125944a4430cf1c877fcb3a9466",
    "title": "The Mythology of Conscious AI",
    "summary": [
-    "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 72 # Comments: 146"
+    "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 134 # Comments: 374"
    ],
    "source": "Hacker News",
    "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
@@ -158,7 +301,7 @@
    "id": "c4a226a4ddc42b3ff017df4174ef2b36d3721ccb",
    "title": "Sandwich Simulator",
    "summary": [
-    "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 264 # Comments: 88"
+    "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 467 # Comments: 162"
    ],
    "source": "Hacker News",
    "url": "https://stulle.app/",
@@ -168,10 +311,23 @@
    "related": []
   },
   {
+   "id": "c1675fe83fc00fcd478b70e7102d3635307c5caf",
+   "title": "A Better Vocabulary for Testing",
+   "summary": [
+    "Article URL: https://alperenkeles.com/posts/vocab-for-testing/ Comments URL: https://news.ycombinator.com/item?id=50594182 Points: 49 # Comments: 15"
+   ],
+   "source": "Hacker News",
+   "url": "https://alperenkeles.com/posts/vocab-for-testing/",
+   "image": null,
+   "published_at": "2026-11-21T22:15:39Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "cfc547c2291f7f7a9ba0a5060dcf4b72c4b6d465",
    "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
    "summary": [
-    "Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer Comments URL: https://news.ycombinator.com/item?id=50594132 Points: 119 # Comments: 17"
+    "Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer Comments URL: https://news.ycombinator.com/item?id=50594132 Points: 154 # Comments: 20"
    ],
    "source": "Hacker News",
    "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
@@ -194,19 +350,6 @@
    "related": []
   },
   {
-   "id": "a34f45a76f7c575965db859f197f504c90befe0e",
-   "title": "Advice for the next 100 Rust GUIs",
-   "summary": [
-    "Article URL: https://linebender.org/blog/next-100-guis/ Comments URL: https://news.ycombinator.com/item?id=50593737 Points: 169 # Comments: 70"
-   ],
-   "source": "Hacker News",
-   "url": "https://linebender.org/blog/next-100-guis/",
-   "image": null,
-   "published_at": "2026-11-21T21:17:53Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "a1abc1ba2744afcb4fa5b14bba743b9f514e6cfb",
    "title": "A tale of two Nvidias",
    "summary": [
@@ -216,19 +359,6 @@
    "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
    "image": null,
    "published_at": "2026-11-21T21:07:42Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "29504616ac00a36ecd404783f8f5448bf2235cac",
-   "title": "Pandex – Official European Law for AI Agents, over MCP",
-   "summary": [
-    "Article URL: https://www.pandex.io Comments URL: https://news.ycombinator.com/item?id=50593481 Points: 96 # Comments: 22"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.pandex.io",
-   "image": null,
-   "published_at": "2026-11-21T20:47:41Z",
    "category": "tech",
    "related": []
   },
@@ -246,41 +376,15 @@
    "related": []
   },
   {
-   "id": "6d859339b158cafc1f5ab60c95e13308e1000c5d",
-   "title": "Upload2Shell (CVE-2026-125396)",
-   "summary": [
-    "Article URL: https://pwn.ai/upload2shell Comments URL: https://news.ycombinator.com/item?id=50592097 Points: 123 # Comments: 59"
-   ],
-   "source": "Hacker News",
-   "url": "https://pwn.ai/upload2shell",
-   "image": null,
-   "published_at": "2026-11-21T18:29:29Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "c6e0f6fe1d32263bd8fbaffb189b8938523b49d7",
    "title": "Inkling-2-Mini in 5.4 GB Memory",
    "summary": [
-    "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 473 # Comments: 117"
+    "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 545 # Comments: 131"
    ],
    "source": "Hacker News",
    "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
    "image": null,
    "published_at": "2026-11-21T18:02:19Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "1c83a91ee04f5665e7ddf1aa8c7e3bf6f22eeb10",
-   "title": "PostgreSQL Extensions in Go",
-   "summary": [
-    "Article URL: https://jespino.github.io/gopgext/ Comments URL: https://news.ycombinator.com/item?id=50591260 Points: 152 # Comments: 25"
-   ],
-   "source": "Hacker News",
-   "url": "https://jespino.github.io/gopgext/",
-   "image": null,
-   "published_at": "2026-11-21T17:08:04Z",
    "category": "tech",
    "related": []
   },
@@ -312,19 +416,6 @@
    "related": []
   },
   {
-   "id": "7a89070fb88a665c1e7d94b7ee2588327a0ee5bf",
-   "title": "Verification files for the Lean proof of the Riemann Hypothesis",
-   "summary": [
-    "Article URL: https://math.mit.edu/~drew/grh/ Comments URL: https://news.ycombinator.com/item?id=50590441 Points: 118 # Comments: 39"
-   ],
-   "source": "Hacker News",
-   "url": "https://math.mit.edu/~drew/grh/",
-   "image": null,
-   "published_at": "2026-11-21T15:54:34Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "b316f5016eae51bdb68f909f1548634fdb2dafdf",
    "title": "Alaska, your next governor is a Wikipedia nerd",
    "summary": [
@@ -341,7 +432,7 @@
    "id": "18d9f9bc59b30c8a09cac823260f4f4782cd2398",
    "title": "Lean verification of the Riemann Hypothesis",
    "summary": [
-    "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 1043 # Comments: 871"
+    "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 1180 # Comments: 972"
    ],
    "source": "Hacker News",
    "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
@@ -369,7 +460,7 @@
    "id": "07a481fe6b0c85726f8c71233d0ad5b0a3f06dff",
    "title": "Detonating a pile of lead azide",
    "summary": [
-    "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 616 # Comments: 389"
+    "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 679 # Comments: 414"
    ],
    "source": "Hacker News",
    "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
@@ -401,99 +492,6 @@
    "url": "https://www.theguardian.com/us-news/2026/nov/21/silicon-valley-pivot-us-midterms",
    "image": "https://i.guim.co.uk/img/media/5f6eeefbb8b785df9624aa30929b8131436bb7a8/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=8948f6b51100618a30a755c73745db1f",
    "published_at": "2026-11-21T11:00:56Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "e3142f2708c0814d132acf00c0cf41da51935e69",
-   "title": "My monitor was cutting my download speed by 75%",
-   "summary": [
-    "Article URL: https://blog.tymscar.com/posts/studiodisplayethernet/ Comments URL: https://news.ycombinator.com/item?id=50587875 Points: 591 # Comments: 277"
-   ],
-   "source": "Hacker News",
-   "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-   "image": null,
-   "published_at": "2026-11-21T10:36:32Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "4cb2fb025b2b820fd6440fa4cfbdd8b7b18acef6",
-   "title": "GnuPG Security Advisory for GPGME",
-   "summary": [
-    "Article URL: https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html Comments URL: https://news.ycombinator.com/item?id=50587208 Points: 255 # Comments: 105"
-   ],
-   "source": "Hacker News",
-   "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
-   "image": null,
-   "published_at": "2026-11-21T08:32:58Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "3bd15573705779b6b0771e8af0e5b689df3fe600",
-   "title": "‘The doom of humanity’: will the quest to make robotic hands render us obsolete?",
-   "summary": [
-    "Experts are racing to change thatJust outside Luton, in an Amazon warehouse the size of four football pitches, yellow shelving units pirouette in a digitally choreographed dance.",
-    "This, Amazon says, is the “symphony of people and technology” to which the retail giant owes its success.Following a barrage of negative publicity about working practices, Amazon began to open up its fulfilment centres to carefully controlled free public tours a decade ago.",
-    "Our guide tells us about the competitive rates of pay Amazon workers receive, their pensions, dental cover and options for flexible working."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/21/robot-hands-future-of-humanity-ai",
-   "image": "https://i.guim.co.uk/img/media/23b370295e6a0451fe53a38aba2282045f215272/1054_0_6677_5342/master/6677.jpg?width=140&quality=85&auto=format&fit=max&s=b205cd24b9f7e774996bfccf38effe3f",
-   "published_at": "2026-11-21T06:00:52Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "e42ac64463d68b14b3d653e6411577d8579f6d09",
-   "title": "Startup sues Apple in India over tap-to-share contacts feature",
-   "summary": [
-    "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
-   "image": null,
-   "published_at": "2026-11-21T04:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "1d796e9f461804ec11df7fee1b24186ab18ad769",
-   "title": "‘A new record for entertainment’: Grand Theft Auto VI sales hit $3.8bn on first day of release, developer says",
-   "summary": [
-    "Rockstar said also it had sold 32.5m units of the game on prerelease, setting a record across platforms."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/games/2026/nov/21/a-new-record-for-entertainment-grand-theft-auto-vi-sales-hit-38bn-on-first-day-of-release-developer-says",
-   "image": "https://i.guim.co.uk/img/media/5988d7ddcc73c1dddca7f0d330ee2d523648a57a/1183_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=014f7dee549fde98fecf18fd78fac63e",
-   "published_at": "2026-11-21T03:51:03Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "c37c957c7736c8a2a67d2700539321995bd29c0b",
-   "title": "Tech Now",
-   "summary": [
-    "Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/iplayer/episode/m0034tjc?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-21T01:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "061f6c8fa6ba0386078de48cc8be1ece1f36d710",
-   "title": "Can AI really help spot Black Friday deals? We put it to the test",
-   "summary": [
-    "We put four AI models to the test to see if they could save us money on a new TV."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-21T00:06:11Z",
    "category": "tech",
    "related": []
   }

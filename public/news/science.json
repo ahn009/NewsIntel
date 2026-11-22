@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-22T11:06:09.075638Z",
+ "generated_at": "2026-11-22T18:28:32.051159Z",
  "story_count": 14,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
-  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/home": "ok",
+  "https://www.dawn.com/feeds/pakistan": "ok",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,9 +20,22 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "ok"
+  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "233527ac46cd3e5c307ba90ae1b6575fe138a0d2",
+   "title": "COP31 climate talks fail to reach major deal amid deep divisions",
+   "summary": [
+    "COP31 climate talks fail to make breakthrough on tackling climate change after a row about mentioning fossil fuels."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-22T18:17:59Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "8864c85aaebc75313357fb595e338dcab24a313d",
    "title": "Mysterious Mercury gets a visitor - after spacecraft's eight-year epic voyage",
@@ -197,20 +210,6 @@
    "url": "https://www.bbc.co.uk/news/articles/c61k9mwxmplxo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-21T12:18:55Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "4c9896fc58b78250d50d11d2c56d47f0c084966a",
-   "title": "After 8 years in space, a groundbreaking X-ray telescope finally opens its eyes",
-   "summary": [
-    "After eight years and 10 billion kilometers in space, a groundbreaking X-ray telescope heading to Mercury has captured its first cosmic observations and is performing even better than scientists expected.",
-    "The instrument could soon reveal Mercury's hidden chemical secrets and transform our understanding of how the solar system's smallest planet formed."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261120075547.htm",
-   "image": null,
-   "published_at": "2026-11-21T02:11:14Z",
    "category": "science",
    "related": []
   }

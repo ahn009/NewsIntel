@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-22T11:06:09.075529Z",
- "story_count": 4,
+ "generated_at": "2026-11-22T18:28:32.050912Z",
+ "story_count": 5,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
-  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/home": "ok",
+  "https://www.dawn.com/feeds/pakistan": "ok",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,9 +20,35 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "ok"
+  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "4e724c4997d2944c47458ce7c3f3d7b99c9489c3",
+   "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
+   "summary": [
+    "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-22T13:50:21Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "6cfafb674561f3f2b854086d889667c3a6867ac6",
+   "title": "Conservative media weighs its future as cracks emerge in Trump’s movement",
+   "summary": [
+    "Two weeks after Democrats flipped Congress, conservative outlets are having conversations on whether to distance themselves from Trump or double down on MagaAs a so-called “blue wave” crashed across the country on the night of 3 November, conservative hosts and commentators on Fox News displayed an almost virtuosic ability to avoid directly blaming Donald Trump for the Republican party’s defeat, instead pinning the blame on impertinent voters who didn’t grasp the strength of the economy.“In some sense, Mr Trump was too successful in the first year and didn’t sell it enough in the second year,” said Larry Kudlow, a Fox Business Network host who served as the president’s director of the National Economic Council during his first administration."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/22/conservative-media-trump-midterm-elections-results",
+   "image": "https://i.guim.co.uk/img/media/8c42154ecfc0d97946047de44f3951732b270f97/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=fd376300e09a033582e60c8950224c71",
+   "published_at": "2026-11-22T11:00:26Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "c96c1ed2d4eb4dc8ab9d450c544b6a867a9d423f",
    "title": "MP criticises Guernsey and Jersey company ownership register plans",
@@ -60,19 +86,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cmy49l3x893jo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-21T12:09:49Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "96a7f9767d2d24038a127cb3619d966654583a60",
-   "title": "Judge approves $7.25bn Bayer payout to settle claims that Roundup causes cancer",
-   "summary": [
-    "German company faced 65,000 claims from people who said they developed cancer after using weedkillerA Missouri judge on Friday approved Bayer’s $7.25bn settlement of lawsuits ⁠alleging that its weedkiller ​Roundup causes cancer, potentially resolving litigation that has weighed on the German company for close to a decade.Judge Timothy Boyer of a state court in St Louis ⁠found the settlement “fair, reasonable and adequate”."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation",
-   "image": "https://i.guim.co.uk/img/media/efbc188d676f119c98b60ce20d212a75264e7757/483_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=80be199f03da1f2774ebcc5eaf1c6cd0",
-   "published_at": "2026-11-20T23:42:43Z",
    "category": "business",
    "related": []
   }
