@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-23T08:54:40.258144Z",
- "story_count": 37,
+ "generated_at": "2026-11-23T21:13:53.424590Z",
+ "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -24,15 +24,502 @@
  },
  "stories": [
   {
-   "id": "06b143694a60a4f41fc7e5ced0e0b461830cfa0a",
-   "title": "CollectWise (YC F24) Is Hiring",
+   "id": "1457613dc9f14a1d8bf37566cf2a57e670a1a843",
+   "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
    "summary": [
-    "Article URL: https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager Comments URL: https://news.ycombinator.com/item?id=50608390 Points: 0 # Comments: 0"
+    "\"I'm going to be a better CEO the second time around,\" Huang told employees."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+   "image": null,
+   "published_at": "2026-11-23T20:38:53Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "9ec377e0288ca455e7b4c8826cd353dbdef1287f",
+   "title": "Congress shreds Nvidia's 'outrageous' return of Huang: 'Failure of character'",
+   "summary": [
+    "Article URL: https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html Comments URL: https://news.ycombinator.com/item?id=50618490 Points: 37 # Comments: 18"
    ],
    "source": "Hacker News",
-   "url": "https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager",
+   "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress-trump.html",
    "image": null,
-   "published_at": "2026-11-23T07:01:08Z",
+   "published_at": "2026-11-23T20:13:18Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "bff25a2c43c4386d76958b8e3b3fec4d653b8a60",
+   "title": "‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia",
+   "summary": [
+    "Politicians on both sides of the aisle seem angry, agitated, and nonplussed by the return of Jensen Huang to Nvidia leadership less than two weeks after his ousting."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
+   "image": null,
+   "published_at": "2026-11-23T19:31:41Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "e6efe33a083e8a553950e662757bced84dac4180",
+   "title": "\"Per ARM's Request, This Site Will Be Discontinued on 4 December 2026\"",
+   "summary": [
+    "Article URL: https://arm.jonpalmisc.com/ Comments URL: https://news.ycombinator.com/item?id=50617499 Points: 481 # Comments: 95"
+   ],
+   "source": "Hacker News",
+   "url": "https://arm.jonpalmisc.com/",
+   "image": null,
+   "published_at": "2026-11-23T19:17:55Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "588f7b0a1e0d01879175e20d829f3ea8f58fd06d",
+   "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+   "summary": [
+    "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem"
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+   "image": null,
+   "published_at": "2026-11-23T19:14:46Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "42afc3642f4faa6a2d116e6788582dca02d10f2b",
+   "title": "Apple removed my open-source app from EU App Stores after 9 years",
+   "summary": [
+    "Article URL: https://github.com/glushchenko/fsnotes/discussions/2056 Comments URL: https://news.ycombinator.com/item?id=50616933 Points: 292 # Comments: 54"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/glushchenko/fsnotes/discussions/2056",
+   "image": null,
+   "published_at": "2026-11-23T18:48:10Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "e63c50b367bc2496d81e48f7f2e48932204c77c1",
+   "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+   "summary": [
+    "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+   "image": null,
+   "published_at": "2026-11-23T18:12:22Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "512453057e1c88c578f6485fcde686653aee15dc",
+   "title": "Nvidia shares up nearly 33% and tech stocks rally after Jensen Huang returns",
+   "summary": [
+    "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 7%."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-23T17:42:37Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "52c0662f82f87b027b48f9e4909eff024c508ce7",
+   "title": "Nvidia’s humiliated board should resign out of embarrassment | Nils Pratley",
+   "summary": [
+    "The exit of the co-founder came after “disclosure of personal behaviour inconsistent with the company’s code of conduct, standards and cultural norms”, said Harvey Jones, who had been rapidly installed as chair of the chipmaker.",
+    "The board “does not intend to reinstate Jensen as CEO” after he “voluntarily resigned”, added Jones."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/23/nvidia-board-jensen-huang-return",
+   "image": "https://i.guim.co.uk/img/media/1c86eb468485514265ee27c663d10f3cb3fb8fb0/341_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=dd66d360e69fe6d1a25db0bc7d5b1af0",
+   "published_at": "2026-11-23T17:37:10Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "cb793a567b2e9fcf57cd4569f7d69c9c00f3fb5d",
+   "title": "How should an LLM see a computer?",
+   "summary": [
+    "Article URL: https://www.greptile.com/blog/trex-computer-use Comments URL: https://news.ycombinator.com/item?id=50615520 Points: 25 # Comments: 17"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.greptile.com/blog/trex-computer-use",
+   "image": null,
+   "published_at": "2026-11-23T17:19:25Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "2d44b1976e564c948e13cece318a1080a647b548",
+   "title": "Child safety groups urge Amazon and eBay to stop selling AI toys until proved safe",
+   "summary": [
+    "Advocates from across the world voice concern over privacy issues and inappropriate communication to childrenMore than 150 child safety groups and experts across six continents have urged Amazon and eBay to stop selling AI toys this Christmas until they are proved to be safe.In a letter sent to Amazon’s president, Andy Jassy, and eBay’s president, Jamie Iannone, the coalition called for the online retailers to stop the sale of AI toys and offer refunds to customers who have already bought one."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/23/child-safety-groups-urge-amazon-ebay-stop-selling-ai-toys-until-proved-safe",
+   "image": "https://i.guim.co.uk/img/media/0685580621412c0ab09c57f3e1cbcfe36f682121/126_0_3780_3024/master/3780.jpg?width=140&quality=85&auto=format&fit=max&s=fa2ca7ab7793e1ef1f6f28976543118b",
+   "published_at": "2026-11-23T17:18:06Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "109d2f6894af143d37d95b70b6eb6203c3133f4a",
+   "title": "Kagi Mail (public beta)",
+   "summary": [
+    "Article URL: https://blog.kagi.com/kagi-mail-public-beta Comments URL: https://news.ycombinator.com/item?id=50615481 Points: 231 # Comments: 177"
+   ],
+   "source": "Hacker News",
+   "url": "https://blog.kagi.com/kagi-mail-public-beta",
+   "image": null,
+   "published_at": "2026-11-23T17:17:01Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "f955d48edeaa52ba356f62cf1aac6ded9cb76603",
+   "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+   "summary": [
+    "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+   "image": null,
+   "published_at": "2026-11-23T17:14:23Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a9dc54aaa6bae10971ee6765d4767ec2b5bb73f2",
+   "title": "Meta throws out its net-zero goal — its competitors should be furious",
+   "summary": [
+    "Meta walked back its 2030 net-zero goal in its 2026 sustainability report, a decision that could send ripples throughout the tech industry."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/",
+   "image": null,
+   "published_at": "2026-11-23T17:13:45Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "3c69fd56490c162200433eb3c0fddbb48cc47836",
+   "title": "Dario is hyping the dangers so OSS models are illegal and *he* stays in control",
+   "summary": [
+    "Article URL: https://twitter.com/ylecun/status/2124550037912920090 Comments URL: https://news.ycombinator.com/item?id=50615308 Points: 502 # Comments: 257"
+   ],
+   "source": "Hacker News",
+   "url": "https://twitter.com/ylecun/status/2124550037912920090",
+   "image": null,
+   "published_at": "2026-11-23T17:07:26Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "2d2f79bbec86e1269ee1f06955783a3ce06f783b",
+   "title": "EasyPost (YC S13) Is Hiring",
+   "summary": [
+    "Article URL: https://www.easypost.com/careers/ Comments URL: https://news.ycombinator.com/item?id=50615161 Points: 0 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.easypost.com/careers/",
+   "image": null,
+   "published_at": "2026-11-23T17:00:05Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "501b182045a211486e727d123969811774cc1ea9",
+   "title": "How freaked out should we be? After mass outages, experts tell us how close we are to ‘doomsday’",
+   "summary": [
+    "As tech, travel and banking failures sweep the US, analysts and cyber-security directors discuss AI, underfunding and what keeps them up at nightGrounded flights.",
+    "Zoom, Ikea, and PokerStars websites hacked.",
+    "Speculation runs wild about targeted cyber-attacks by Iranian hackers, or AI agents autonomously hacking critical (air traffic, banking) and not-so-critical (the Ikea website) infrastructure."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/23/tech-outages-security-experts",
+   "image": "https://i.guim.co.uk/img/media/9d85845928e02b3a6eff671b4454f59dd4937dfb/1_0_2999_2400/master/2999.jpg?width=140&quality=85&auto=format&fit=max&s=990e59089ea65f3b3eefe1201fde1f1d",
+   "published_at": "2026-11-23T16:58:17Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "4fee0c0f21483873de3358c70bfc84103c50a0e1",
+   "title": "Jensen Huang isn’t out of the woods yet",
+   "summary": [
+    "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+   "image": null,
+   "published_at": "2026-11-23T16:57:40Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "5dc55a044437ee860ffba649e63f73689730bb46",
+   "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+   "summary": [
+    "\"I spoke to them, let me put it that way … And I convinced them,\" the president told CNBC."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+   "image": null,
+   "published_at": "2026-11-23T16:39:10Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "36a85a135dc5692e62f4aae71809073b8ef799d8",
+   "title": "CrowdStrike to acquire Zscaler for $44 billion",
+   "summary": [
+    "The cybersecurity giant said that the deal to buy Zscaler, which provides zero-trust products to large enterprises, will better equip their customers to use AI agents."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
+   "image": null,
+   "published_at": "2026-11-23T16:20:11Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "e82796adc98a0ae27247cdee8f12c8b52451b78b",
+   "title": "Ladybird is now in alpha",
+   "summary": [
+    "Article URL: https://ladybird.org/posts/alpha/ Comments URL: https://news.ycombinator.com/item?id=50614249 Points: 943 # Comments: 253"
+   ],
+   "source": "Hacker News",
+   "url": "https://ladybird.org/posts/alpha/",
+   "image": null,
+   "published_at": "2026-11-23T16:13:12Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "941d9d7c875e4ee0d5051ef77c2862b36c7b6203",
+   "title": "How important are Nvidia and Jensen Huang to the US economy?",
+   "summary": [
+    "The Nvidia chief executive has been at the centre of the artificial intelligence boom."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-23T16:12:35Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "fc604d57f67f39f851d536291ffa58ea4e1ef760",
+   "title": "Dutch privacy authority urges consumers not to buy ‘pervert glasses’",
+   "summary": [
+    "The Netherlands' data protection agency said smart wearables violate people's privacy, get information wrong, and can result in unsafe situations."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/23/dutch-privacy-authority-urges-consumers-not-to-buy-pervert-glasses/",
+   "image": null,
+   "published_at": "2026-11-23T15:29:49Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "57e4d9bc2d25bc9083b7590635230b968c1a011a",
+   "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+   "summary": [
+    "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+   "image": null,
+   "published_at": "2026-11-23T15:04:01Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "5371a42941be0b2310280438105054c7fd9cb040",
+   "title": "Cyberleek posted the GTA 6 Xbox build executable",
+   "summary": [
+    "Article URL: https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/ Comments URL: https://news.ycombinator.com/item?id=50612686 Points: 195 # Comments: 203"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/",
+   "image": null,
+   "published_at": "2026-11-23T14:49:44Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "169eafdcd04a25ce23bb8da404801552efa11064",
+   "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+   "summary": [
+    "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+   "image": null,
+   "published_at": "2026-11-23T14:43:03Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ecab1061c917e9100d580461c5e72da371b3a49a",
+   "title": "Nvidia reverses course and brings Jensen Huang back as CEO",
+   "summary": [
+    "The stunning reversal was supported by senior officials in the U.S. government."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+   "image": null,
+   "published_at": "2026-11-23T14:21:59Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "dd6f2af5d9a8885cdda99413641b4ee2ab379542",
+   "title": "Building a wireless network adapter for the Super Nintendo",
+   "summary": [
+    "Article URL: https://boland.dev/snet/ Comments URL: https://news.ycombinator.com/item?id=50611861 Points: 58 # Comments: 16"
+   ],
+   "source": "Hacker News",
+   "url": "https://boland.dev/snet/",
+   "image": null,
+   "published_at": "2026-11-23T14:16:37Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "89f46f6bc2614d82b1025f7cc046ae7aae67a68d",
+   "title": "GTA 6 hacker released on licence with warning 'don't let this happen again'",
+   "summary": [
+    "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-23T14:08:50Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "7fd1542fc29b3c7fa93a872c2b3bf2f18ac71e8e",
+   "title": "Uber now lets you book rides that record the drive by default",
+   "summary": [
+    "The option, which uses the front camera of the Uber driver's phone to record the entire drive, will show up as \"Recorded Rides\" in the app."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/23/uber-now-lets-you-book-rides-that-record-the-drive-by-default/",
+   "image": null,
+   "published_at": "2026-11-23T14:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "81ecb7742efe538344d71d668a0d262330fe4e45",
+   "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+   "summary": [
+    "We'd love to hear how these perform on your workloads.",
+    "Comments URL: https://news.ycombinator.com/item?id=50611402 Points: 66 # Comments: 12"
+   ],
+   "source": "Hacker News",
+   "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+   "image": null,
+   "published_at": "2026-11-23T13:42:38Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "5154af66482df5ffb276a3d6ac1f66892dc77fae",
+   "title": "Dylan Moran goes looking for trouble and disappears off the beaten track in this baffling comedy show",
+   "summary": [
+    "Bleary directionlessness may be par for the course for the Irish comic, whose work has always combined poetic-philosophical dazzle with a certain wooziness.",
+    "The quality of his thinking in this section, while cheerfully offering himself up as Exhibit A in this prosecution of humanity’s perplexity, is arresting.",
+    "And there are zingers, too, including a word-picture of the genitals that, once heard, may never be forgotten."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/stage/2026/nov/23/dylan-moran-looking-for-trouble-review",
+   "image": "https://i.guim.co.uk/img/media/06cdcd75701ea082b0e53f418adb0a889c35729a/1653_754_2048_1639/master/2048.jpg?width=140&quality=85&auto=format&fit=max&s=56d55dd0596e8cec97fda8bc89459a72",
+   "published_at": "2026-11-23T13:32:49Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a44d3770aa7f06b4e4de54e4e055037c8a52ec93",
+   "title": "AI conquered chess. What happened next should give us hope",
+   "summary": [
+    "As two 20-year-old prodigies prepare to battle in the world chess championship, the game offers a surprising lesson about AI and what it cannot replicateThe upcoming world chess championship between Uzbekistan’s Javokhir Sindarov and India’s Gukesh Dommaraju in Geneva has all the makings of a barnburner.Earlier this year, Sindarov, 20, won the Candidates Tournament as an outside longshot with a magnificent attacking style that overwhelmed the competition, locking up his title shot with a string of dazzling early wins."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/ng-interactive/2026/nov/23/chess-world-championship-ai",
+   "image": "https://i.guim.co.uk/img/media/27a66ef88057d6d195408e202c3dfc9face73bec/0_359_2400_1919/master/2400.jpg?width=140&quality=85&auto=format&fit=max&s=9d346e8f8c324929f31f5d5ce02178ec",
+   "published_at": "2026-11-23T13:00:31Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "b1ae1a6721c668f498207dc46659cc8af8b3289a",
+   "title": "Win4wine – Run Windows Shell as the Linux Desktop on Wine",
+   "summary": [
+    "Article URL: https://github.com/mikuta0407/win4wine Comments URL: https://news.ycombinator.com/item?id=50610743 Points: 183 # Comments: 92"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/mikuta0407/win4wine",
+   "image": null,
+   "published_at": "2026-11-23T12:28:11Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "5aed4d3af4a9ca865ce916ffd1fcb9c1af959b0e",
+   "title": "The next circle of security hell",
+   "summary": [
+    "Article URL: https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/ Comments URL: https://news.ycombinator.com/item?id=50610334 Points: 212 # Comments: 116"
+   ],
+   "source": "Hacker News",
+   "url": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/",
+   "image": null,
+   "published_at": "2026-11-23T11:34:16Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "677c0e35fb164f1bf6f865929d11f6a7cec2e60b",
+   "title": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
+   "summary": [
+    "Article URL: https://github.com/os6/nospeaker Comments URL: https://news.ycombinator.com/item?id=50610318 Points: 232 # Comments: 141"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/os6/nospeaker",
+   "image": null,
+   "published_at": "2026-11-23T11:31:54Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "5094532b4e2e63d2f4ca43eedb036db817dbcfaa",
+   "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+   "summary": [
+    "Article URL: https://z.ai/blog/glm-5.4 Comments URL: https://news.ycombinator.com/item?id=50609685 Points: 941 # Comments: 316"
+   ],
+   "source": "Hacker News",
+   "url": "https://z.ai/blog/glm-5.4",
+   "image": null,
+   "published_at": "2026-11-23T10:06:43Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "51bc582a24f8ac073b4cda7fb47bc734d396bb94",
+   "title": "Don't keep your SSH keys on disk",
+   "summary": [
+    "Article URL: https://jola.dev/posts/you-cant-afford-ssh-keys-disk Comments URL: https://news.ycombinator.com/item?id=50609579 Points: 113 # Comments: 82"
+   ],
+   "source": "Hacker News",
+   "url": "https://jola.dev/posts/you-cant-afford-ssh-keys-disk",
+   "image": null,
+   "published_at": "2026-11-23T09:55:38Z",
    "category": "tech",
    "related": []
   },
@@ -53,458 +540,12 @@
    "id": "ca09765b33ea45310adf83e8545c6c64fefb2366",
    "title": "Yes, 17M lines of Lean is a lot",
    "summary": [
-    "Article URL: https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/ Comments URL: https://news.ycombinator.com/item?id=50607668 Points: 38 # Comments: 50"
+    "Article URL: https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/ Comments URL: https://news.ycombinator.com/item?id=50607668 Points: 248 # Comments: 315"
    ],
    "source": "Hacker News",
    "url": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
    "image": null,
    "published_at": "2026-11-23T05:00:49Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "e1547bc0213616a0486e9fc36662580ee03261e0",
-   "title": "A Partial Evaluator for C",
-   "summary": [
-    "Article URL: https://phoenix.labri.fr/software/tempo/ Comments URL: https://news.ycombinator.com/item?id=50607627 Points: 54 # Comments: 2"
-   ],
-   "source": "Hacker News",
-   "url": "https://phoenix.labri.fr/software/tempo/",
-   "image": null,
-   "published_at": "2026-11-23T04:51:48Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "35cfea2e7f27295dde4eaba2fa78de20aadf3621",
-   "title": "XNU Linux: Full OS X GUI Userspace on Linux",
-   "summary": [
-    "Article URL: https://github.com/AFK-surf/xnulinux Comments URL: https://news.ycombinator.com/item?id=50607261 Points: 242 # Comments: 105"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/AFK-surf/xnulinux",
-   "image": null,
-   "published_at": "2026-11-23T03:49:24Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "899c4b9dc79c7f2d337b41c037207d7a755a58b5",
-   "title": "The New Docker: Built to Run on Trust",
-   "summary": [
-    "Article URL: https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/ Comments URL: https://news.ycombinator.com/item?id=50607194 Points: 34 # Comments: 53"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/",
-   "image": null,
-   "published_at": "2026-11-23T03:34:29Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "b0da3d1e88e0981a6aaa580161dbd98e74e3e2dd",
-   "title": "Treemap of the Riemann Hypothesis Lean Proof",
-   "summary": [
-    "Article URL: https://pengowray.github.io/riemann-zeta-proof-visualizer/ Comments URL: https://news.ycombinator.com/item?id=50606499 Points: 73 # Comments: 22"
-   ],
-   "source": "Hacker News",
-   "url": "https://pengowray.github.io/riemann-zeta-proof-visualizer/",
-   "image": null,
-   "published_at": "2026-11-23T01:50:23Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "914bb147d0bf37ced1c54e2af223a301178e5d83",
-   "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-   "summary": [
-    "Three significant backers share what gave them conviction to bet billions on Anthropic."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-   "image": null,
-   "published_at": "2026-11-23T01:25:53Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "76c713ea51cff9f88dcf94858c4e1da3303ec55f",
-   "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
-   "summary": [
-    "Article URL: https://spelunkr.tv Comments URL: https://news.ycombinator.com/item?id=50606192 Points: 479 # Comments: 74"
-   ],
-   "source": "Hacker News",
-   "url": "https://spelunkr.tv",
-   "image": null,
-   "published_at": "2026-11-23T01:13:51Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "1d77a1f23ecfbea78f6f80e7a96458a37a9cc9dc",
-   "title": "What we learned operating auth for 1k APIs",
-   "summary": [
-    "Article URL: https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/ Comments URL: https://news.ycombinator.com/item?id=50606072 Points: 40 # Comments: 6"
-   ],
-   "source": "Hacker News",
-   "url": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/",
-   "image": null,
-   "published_at": "2026-11-23T01:01:11Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "d7b15f2f905fd0d191ba2b4e02c55601ec3a0ee4",
-   "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
-   "summary": [
-    "Article URL: https://0rwx.com/ Comments URL: https://news.ycombinator.com/item?id=50605445 Points: 49 # Comments: 12"
-   ],
-   "source": "Hacker News",
-   "url": "https://0rwx.com/",
-   "image": null,
-   "published_at": "2026-11-22T23:53:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "ae6e6a35191d1707bc9b2ac059ab935e9b6cb33d",
-   "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
-   "summary": [
-    "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3 Comments URL: https://news.ycombinator.com/item?id=50605045 Points: 226 # Comments: 167"
-   ],
-   "source": "Hacker News",
-   "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
-   "image": null,
-   "published_at": "2026-11-22T23:12:10Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "d3dc326c4e3f20a16eb1fb602da0333b3a64b4e3",
-   "title": "GL.iNet Security Notice 2026-11-20",
-   "summary": [
-    "Article URL: https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20 Comments URL: https://news.ycombinator.com/item?id=50604988 Points: 187 # Comments: 90"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
-   "image": null,
-   "published_at": "2026-11-22T23:06:37Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "69aed33940f7c08d18e65ee66eddc77c912f3aab",
-   "title": "Localcode, open source agentic coding on your Mac with one command",
-   "summary": [
-    "Article URL: https://github.com/mjwsolo/localcode Comments URL: https://news.ycombinator.com/item?id=50604540 Points: 57 # Comments: 13"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/mjwsolo/localcode",
-   "image": null,
-   "published_at": "2026-11-22T22:18:48Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "00be9c22d03e86c884fbd3168092e39f7119975d",
-   "title": "The Usefulness of Useless Knowledge [pdf] (1939)",
-   "summary": [
-    "Article URL: https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf Comments URL: https://news.ycombinator.com/item?id=50604472 Points: 118 # Comments: 22"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
-   "image": null,
-   "published_at": "2026-11-22T22:10:58Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "a8d352f5c56ef7e2ed2b71ab67ef65b126796d4d",
-   "title": "‘You Can See Everything’ has made more than $100M worldwide",
-   "summary": [
-    "The new Elizabeth Holmes documentary is just beginning to roll out internationally."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
-   "image": null,
-   "published_at": "2026-11-22T21:42:48Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "33ef81cbee7e44d1cde95339dbb067a87fad8624",
-   "title": "The struggle for freedom: How BSD escaped AT&T licensing",
-   "summary": [
-    "Article URL: https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/ Comments URL: https://news.ycombinator.com/item?id=50604123 Points: 110 # Comments: 38"
-   ],
-   "source": "Hacker News",
-   "url": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
-   "image": null,
-   "published_at": "2026-11-22T21:33:12Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "05744626c0d61baf83b69ad6be7ea5b0c59b36b6",
-   "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-   "summary": [
-    "To establish a speed limit on AI development, you need to agree on how to measure speed."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-   "image": null,
-   "published_at": "2026-11-22T21:14:07Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "4f0ed76760ef278334ae1605465fb5739112e11f",
-   "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-   "summary": [
-    "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 469 # Comments: 197"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-   "image": null,
-   "published_at": "2026-11-22T21:01:16Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "e35952c5afa06c3ae0b9bea61927a4b07b0de1b7",
-   "title": "The best apps to make new friends right now",
-   "summary": [
-    "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
-   "image": null,
-   "published_at": "2026-11-22T21:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "5f31db758389d4251c1ebf32fab83c8537b6ae44",
-   "title": "A miniature San Francisco with live buses, planes and boats",
-   "summary": [
-    "Article URL: https://smallsf.com/ Comments URL: https://news.ycombinator.com/item?id=50603589 Points: 259 # Comments: 90"
-   ],
-   "source": "Hacker News",
-   "url": "https://smallsf.com/",
-   "image": null,
-   "published_at": "2026-11-22T20:33:23Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "5da3c4b89fb71e70ae95b2f433ab77f7f258e1cd",
-   "title": "Nyx, the Oldest Internet Service Provider",
-   "summary": [
-    "Article URL: https://nyx.net/ Comments URL: https://news.ycombinator.com/item?id=50603465 Points: 131 # Comments: 20"
-   ],
-   "source": "Hacker News",
-   "url": "https://nyx.net/",
-   "image": null,
-   "published_at": "2026-11-22T20:15:59Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "01914533a422d5c06a968991b35a7615cc009307",
-   "title": "Assume People Are Not Interested in Your Blog Post",
-   "summary": [
-    "Article URL: https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/ Comments URL: https://news.ycombinator.com/item?id=50603143 Points: 181 # Comments: 92"
-   ],
-   "source": "Hacker News",
-   "url": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
-   "image": null,
-   "published_at": "2026-11-22T19:41:30Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "75061ecab9ff7c7bd345552d83d95a69ddc1529b",
-   "title": "What Happened to Silicon Valley?",
-   "summary": [
-    "Article URL: https://www.oreilly.com/radar/what-happened-to-silicon-valley/ Comments URL: https://news.ycombinator.com/item?id=50602947 Points: 632 # Comments: 338"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
-   "image": null,
-   "published_at": "2026-11-22T19:20:15Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "e02a3f3a918fb26ca56ed61fca09268d59f7d20c",
-   "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-   "summary": [
-    "Article URL: https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife Comments URL: https://news.ycombinator.com/item?id=50602843 Points: 482 # Comments: 238"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
-   "image": null,
-   "published_at": "2026-11-22T19:10:34Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "9d3b1b4e1aa5d2ff3de599fd37f207e66564fa1f",
-   "title": "I covered myself in sleep trackers to find the very best",
-   "summary": [
-    "Get a better night’s sleep with monitoring and guidance from smartwatches, smart rings, smart bands and sleep earbudsThe best sleep masks and best Bluetooth sleep masksGetting quality sleep is just as crucial as getting enough sleep.",
-    "Maybe your after dinner cappuccino triggers a night of tossing and turning, or you’re more restful after evening workouts.",
-    "And the more you know about your sleep, the better chance you have of improving it."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/thefilter-us/2026/nov/22/best-sleep-trackers",
-   "image": "https://i.guim.co.uk/img/media/299810b8ddede6ce30a9f856d4c8b57586fd489e/1_0_2499_2000/master/2499.jpg?width=140&quality=85&auto=format&fit=max&s=9018c5e3e635d74c5c6af5a25c939bde",
-   "published_at": "2026-11-22T19:00:35Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "adb0aabaaa02f91cb3a2170f6554d343d63cb555",
-   "title": "Datacentre bosses met Australian state premiers and ministers almost 120 times in three years, analysis finds",
-   "summary": [
-    "Transparency International says Queensland’s David Crisafulli was ‘by far the most frequently accessed’ state leader, with 13 meetingsGet our breaking news email, free app or daily news podcastBosses at 10 datacentre companies secured almost 120 meetings with premiers and ministers in five states over a three-year period, with experts declaring this is “just the tip of the iceberg”.Analysis by Transparency International Australia argues these meetings, when combined with political donations, demonstrate “unfettered access” to decision-makers that creates an “uneven playing field”."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/23/datacentre-bosses-met-australian-state-premiers-and-ministers-almost-120-times-in-three-years-analysis-finds",
-   "image": "https://i.guim.co.uk/img/media/7c9ca8255b51e9604fa64118322f08bb4d19c764/475_0_3640_2912/master/3640.jpg?width=140&quality=85&auto=format&fit=max&s=841a5935e90b464a6f0e36a81358e58e",
-   "published_at": "2026-11-22T19:00:34Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "bed82431ae1f061b2531719f2dd108d5e085f0de",
-   "title": "Why data centers are at the center of the Big Tech backlash",
-   "summary": [
-    "Journalist Paris Marx unpacks his new book \"Hyperscale.\""
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
-   "image": null,
-   "published_at": "2026-11-22T18:08:43Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "3500af305ed03afde70d667f66c4c065b614b69e",
-   "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
-   "summary": [
-    "Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesisA mathematician at Anthropic has said that the San Francisco-based artificial intelligence (AI) company’s software has helped crack one of the most important unsolved problems in mathematics – and experts say the claim checks out.Levent Alpöge, a Turkish American mathematician, on Friday posted a note on his personal website saying that Claude, the AI software, had helped prove the Riemann hypothesis.",
-    "He says that Claude helped develop a solution to the problem during the course of about six weeks.This story was edited on 22 November 2026 to account for updated information: the Lean Focused Research Organization and the Mathlib Initiative statement claiming to verify the solution was added, and a quote from a prior story from a mathematician was removed, as updates to the news evolved Continue reading..."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
-   "image": "https://i.guim.co.uk/img/media/d3154f68df589c297fc3d173e2bb3d95faca05c9/530_0_4678_3742/master/4678.jpg?width=140&quality=85&auto=format&fit=max&s=2be6ea0855df616ea30ffc89afed2e1f",
-   "published_at": "2026-11-22T17:55:27Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "91d036c3af3fde0c37d77da149b03ce84889cbea",
-   "title": "TechCrunch Mobility: A/B testing robots vs. humans",
-   "summary": [
-    "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
-   "image": null,
-   "published_at": "2026-11-22T17:06:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "2b3d9332eb80c9b1071ea936045c9d98dbe3ca7f",
-   "title": "Can a TV be too large? An investigation",
-   "summary": [
-    "This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
-   "image": null,
-   "published_at": "2026-11-22T15:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "0ea430def48395d98033a24cc267410691893c17",
-   "title": "Howard Lutnick has been Trump’s ally for decades. His ties to Nvidia may spell his downfall",
-   "summary": [
-    "Billionaire commerce secretary faces scrutiny after sex scandal reveals his role in sales of chips to ChinaHoward Lutnick, the beleaguered US commerce secretary and close ally of Donald Trump, is emerging as Democrats’ prime target when the party takes control of Congress in January.Lutnick is resisting calls to resign amid a bipartisan outcry over his role in the scandal at artificial intelligence (AI) company Nvidia and the sale of microchips to China, the US’s principal geopolitical rival in the race for AI supremacy."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/22/howard-lutnick-nvidia-china",
-   "image": "https://i.guim.co.uk/img/media/26a7d259410d67ec0543bc2520e6b3eb08d24ccb/977_0_6479_5186/master/6479.jpg?width=140&quality=85&auto=format&fit=max&s=6c8567c039445c37b7e032dcf388a1fd",
-   "published_at": "2026-11-22T11:00:26Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "7751ababced90d7438d092c0e6a7396932418d37",
-   "title": "It will soon be too late to regulate use of autonomous weapons, warns Red Cross",
-   "summary": [
-    "Warning about putting ‘genie back in the bottle’ comes as UN conference fails to agree on regulation instrumentThe International Committee of the Red Cross and rights groups have warned that it will soon be too late to put the “genie back in the bottle” as the development of autonomous weapons appears to outpace efforts to regulate them.The stark warning came as more than 120 member states of the UN Convention on Certain Conventional Weapons concluded a week-long conference in Geneva."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/science/2026/nov/22/red-cross-warns-too-late-regulate-autonomous-weapons-united-nations",
-   "image": "https://i.guim.co.uk/img/media/e83253eef2712121e66a9774fee97fca01778307/875_229_5546_4437/master/5546.jpg?width=140&quality=85&auto=format&fit=max&s=d69854bb96be9dea188f9ed66bad2c16",
-   "published_at": "2026-11-22T09:00:22Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "5c32e616b4802ccd1e890177973360a87fde56a6",
-   "title": "‘A Nintendo Switch – yes, I know I’m 67’: the best gifts for every generation, picked by real people aged 2 to 103",
-   "summary": [
-    "We asked everyone from gen Alpha preschoolers to retired boomers, celebs and Guardian writers what’s on their gift list this year – here’s what they said• The best Christmas gifts for 2026How old are you, and what would you like for Christmas?",
-    "But be warned: from the boomer who wants a Nintendo Switch to the 30-somethings collecting vinyl and brewing craft beer, some answers might surprise you."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/thefilter/2026/nov/22/best-christmas-gifts-every-generation-uk",
-   "image": "https://i.guim.co.uk/img/media/032769a43e0c128c7890799f53ee9f22c5deebbf/0_0_4000_3199/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=3c6e3b6760e5c36d100f7f0dee8686c4",
-   "published_at": "2026-11-22T07:00:21Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "9eade0408225d6bdf5c13b3ddabc6a1c4f792337",
-   "title": "Hacks, AI and conspiracy theories: why are we having so many outages?",
-   "summary": [
-    "She immediately suspected the two were linked in some way by AI-related threats – and that she would not get to the wedding of her best friend’s son in California."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple",
-   "image": "https://i.guim.co.uk/img/media/917aeeec17f3bee46d98e2201997eb1f9a0b316c/0_807_4000_3198/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=d4752a8d74606eaec6916b68b2a9c81d",
-   "published_at": "2026-11-22T06:00:19Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "f3487ac9886e909daaf4f66544d23b111033acd1",
-   "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-   "summary": [
-    "Signal is limiting users' ability to take screenshots in both its Android and iOS apps."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-   "image": null,
-   "published_at": "2026-11-21T21:37:10Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "a1abc1ba2744afcb4fa5b14bba743b9f514e6cfb",
-   "title": "A tale of two Nvidias",
-   "summary": [
-    "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
-   "image": null,
-   "published_at": "2026-11-21T21:07:42Z",
    "category": "tech",
    "related": []
   }

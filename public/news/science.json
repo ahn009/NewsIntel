@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-23T08:54:40.258824Z",
- "story_count": 11,
+ "generated_at": "2026-11-23T21:13:53.425440Z",
+ "story_count": 14,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,103 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "2d882f0bc8f54668f910735d350e91bb488b8b53",
+   "title": "Village's concern over sewage discharge in dry river",
+   "summary": [
+    "Campaigners call for restrictions on sewage treatment plant discharging effluent during drought"
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c60rkq78g05vo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-23T15:48:07Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "75275dfbd53082b202005b985993c2e648c26771",
+   "title": "A galactic shock wave could rewrite the map of the Milky Way",
+   "summary": [
+    "A surprising discovery suggests the Milky Way may be making stars in places where most galaxies cannot.",
+    "Scientists found evidence that a massive rotating structure near the galactic center is creating powerful shock waves that trigger star formation rather than suppress it.",
+    "Even more unexpectedly, part of the Norma spiral arm may not be a spiral arm at all, but a vast region where new stars are being born."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261122060329.htm",
+   "image": null,
+   "published_at": "2026-11-23T11:41:39Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "478879921c051f12f9941b869f5227d3ac73efed",
+   "title": "Two monster black holes from the dawn of time defy explanation",
+   "summary": [
+    "Astronomers have discovered the oldest known compact pair of quasars, powered by two enormous black holes that existed just 900 million years after the Big Bang.",
+    "Weighing an astonishing 1.5 billion and 400 million times the mass of the Sun, these cosmic giants somehow grew to incredible sizes far earlier than current theories can explain."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261122060342.htm",
+   "image": null,
+   "published_at": "2026-11-23T11:21:06Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "3d84f8f3671724118d0c7863ec683be3f7e11140",
+   "title": "Mysterious new viruses reveal a missing link in evolution",
+   "summary": [
+    "Scientists have discovered previously unknown viruses that could help explain how some of life’s earliest biological structures evolved.",
+    "The surprising findings challenge a longstanding evolutionary theory and suggest that viruses may have hidden capabilities far beyond simply infecting cells."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261122060334.htm",
+   "image": null,
+   "published_at": "2026-11-23T10:45:53Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "781c0604c48f2c33dda0b07cdc04ffd84d68a1ab",
+   "title": "Archaeologists reveal a powerful Iron Age king may have been a woman",
+   "summary": [
+    "Archaeologists have uncovered evidence that Verica, the Iron Age ruler whose exile helped trigger Rome’s invasion of Britain in AD 43, was actually a woman.",
+    "The discovery challenges centuries of historical assumptions and suggests that a largely forgotten female leader may have changed the course of British history."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261122060338.htm",
+   "image": null,
+   "published_at": "2026-11-23T05:30:23Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "233527ac46cd3e5c307ba90ae1b6575fe138a0d2",
+   "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
+   "summary": [
+    "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\"."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-23T05:15:06Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "39d646e1f805e9b5cb29f1f60e05515cd575e635",
+   "title": "This tiny spider named after Stephen Colbert has a genome 50% larger than a human’s",
+   "summary": [
+    "A tiny California trapdoor spider named after Stephen Colbert has a genome roughly 50% larger than a human's, despite being only about the size of a quarter.",
+    "Scientists discovered that its enormous genome contains 4.6 billion DNA base pairs and 52 chromosomes, revealing surprising clues about spider evolution."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261122060343.htm",
+   "image": null,
+   "published_at": "2026-11-23T03:54:27Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "6bfc22039f06bbcc7adaa4dab128cce531e59cc2",
    "title": "Common medications may secretly rewire your gut, with effects lasting for years",
@@ -117,58 +214,6 @@
    "url": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-22T10:44:12Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "b562b9609d14edbc067d362dec5d06eb2126ef25",
-   "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
-   "summary": [
-    "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-22T06:54:06Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "0930d70aa26063d947eda9713de52f7adca5b4dc",
-   "title": "Record-breaking sightings of rare moth in Essex",
-   "summary": [
-    "There is now a self-sustaining population of the moth at a nature reserve in Essex, a charity says."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6jrey28gvqxo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-22T06:38:26Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "7f5440f94e752f8b7312266f615d89702e5a5fa5",
-   "title": "Will COP31 end with a new global climate deal?",
-   "summary": [
-    "BBC Climate editor Justin Rowlatt reports from the COP 31 UN climate summit in Antalya, Turkey."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-21T22:44:52Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "299849b262daed6bda38928d8130e76b5e4b420f",
-   "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-   "summary": [
-    "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-21T22:19:43Z",
    "category": "science",
    "related": []
   }
