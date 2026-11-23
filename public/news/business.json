@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T18:28:32.050912Z",
+ "generated_at": "2026-11-23T00:12:39.961781Z",
  "story_count": 5,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -23,6 +23,19 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "6ee0a647046083b62840024898703c03d71948fe",
+   "title": "Energy bills will soar - here's how you can ease the pain",
+   "summary": [
+    "Household energy bills are about to soar but there are ways to keep a lid on your expenditure."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-23T00:05:29Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "4e724c4997d2944c47458ce7c3f3d7b99c9489c3",
    "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
@@ -73,19 +86,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-22T00:04:07Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "cfe33db7546f7f8e8d5fb42bc701a3ce5dad6a2c",
-   "title": "Sessions offer advice on rising energy costs",
-   "summary": [
-    "A council is urging people to seek support with rising energy costs on heating this winter."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmy49l3x893jo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-21T12:09:49Z",
    "category": "business",
    "related": []
   }

@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-22T18:28:32.050332Z",
- "story_count": 36,
+ "generated_at": "2026-11-23T00:12:39.961282Z",
+ "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -24,6 +24,255 @@
  },
  "stories": [
   {
+   "id": "626e59734f22865ee82be36142dd68d965115e63",
+   "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+   "summary": [
+    "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-23T00:08:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ae6e6a35191d1707bc9b2ac059ab935e9b6cb33d",
+   "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+   "summary": [
+    "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3 Comments URL: https://news.ycombinator.com/item?id=50605045 Points: 78 # Comments: 31"
+   ],
+   "source": "Hacker News",
+   "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+   "image": null,
+   "published_at": "2026-11-22T23:12:10Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "d3dc326c4e3f20a16eb1fb602da0333b3a64b4e3",
+   "title": "GL.iNet Security Notice 2026-11-20",
+   "summary": [
+    "Article URL: https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20 Comments URL: https://news.ycombinator.com/item?id=50604988 Points: 31 # Comments: 11"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
+   "image": null,
+   "published_at": "2026-11-22T23:06:37Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "69aed33940f7c08d18e65ee66eddc77c912f3aab",
+   "title": "Localcode, open source agentic coding on your Mac with one command",
+   "summary": [
+    "Article URL: https://github.com/mjwsolo/localcode Comments URL: https://news.ycombinator.com/item?id=50604540 Points: 9 # Comments: 1"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/mjwsolo/localcode",
+   "image": null,
+   "published_at": "2026-11-22T22:18:48Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "00be9c22d03e86c884fbd3168092e39f7119975d",
+   "title": "The Usefulness of Useless Knowledge [pdf] (1939)",
+   "summary": [
+    "Article URL: https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf Comments URL: https://news.ycombinator.com/item?id=50604472 Points: 37 # Comments: 5"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
+   "image": null,
+   "published_at": "2026-11-22T22:10:58Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ce223767ccc95af812d4c7ce791047feb7b3a164",
+   "title": "Agent swarm trying to solve P vs. NP",
+   "summary": [
+    "Article URL: https://pequalnp.com/ Comments URL: https://news.ycombinator.com/item?id=50604314 Points: 64 # Comments: 64"
+   ],
+   "source": "Hacker News",
+   "url": "https://pequalnp.com/",
+   "image": null,
+   "published_at": "2026-11-22T21:53:45Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a8d352f5c56ef7e2ed2b71ab67ef65b126796d4d",
+   "title": "‘You Can See Everything’ has made more than $100M worldwide",
+   "summary": [
+    "The new Elizabeth Holmes documentary is just beginning to roll out internationally."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+   "image": null,
+   "published_at": "2026-11-22T21:42:48Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "33ef81cbee7e44d1cde95339dbb067a87fad8624",
+   "title": "The struggle for freedom: How BSD escaped AT&T licensing",
+   "summary": [
+    "Article URL: https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/ Comments URL: https://news.ycombinator.com/item?id=50604123 Points: 24 # Comments: 7"
+   ],
+   "source": "Hacker News",
+   "url": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
+   "image": null,
+   "published_at": "2026-11-22T21:33:12Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "05744626c0d61baf83b69ad6be7ea5b0c59b36b6",
+   "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+   "summary": [
+    "To establish a speed limit on AI development, you need to agree on how to measure speed."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+   "image": null,
+   "published_at": "2026-11-22T21:14:07Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "4b3e38c41676c6053c20cd3306412256d6bea225",
+   "title": "Will the first approved psychedelic become a blockbuster?",
+   "summary": [
+    "Article URL: https://www.pharmavoice.com/news/race-first-psilocybin-blockbuster-compass-usona/875270/ Comments URL: https://news.ycombinator.com/item?id=50603962 Points: 14 # Comments: 12"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.pharmavoice.com/news/race-first-psilocybin-blockbuster-compass-usona/875270/",
+   "image": null,
+   "published_at": "2026-11-22T21:13:10Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "4f0ed76760ef278334ae1605465fb5739112e11f",
+   "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+   "summary": [
+    "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 140 # Comments: 48"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+   "image": null,
+   "published_at": "2026-11-22T21:01:16Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "e35952c5afa06c3ae0b9bea61927a4b07b0de1b7",
+   "title": "The best apps to make new friends right now",
+   "summary": [
+    "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft."
+   ],
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+   "image": null,
+   "published_at": "2026-11-22T21:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "5f31db758389d4251c1ebf32fab83c8537b6ae44",
+   "title": "A miniature San Francisco with live buses, planes and boats",
+   "summary": [
+    "Article URL: https://smallsf.com/ Comments URL: https://news.ycombinator.com/item?id=50603589 Points: 100 # Comments: 41"
+   ],
+   "source": "Hacker News",
+   "url": "https://smallsf.com/",
+   "image": null,
+   "published_at": "2026-11-22T20:33:23Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "5da3c4b89fb71e70ae95b2f433ab77f7f258e1cd",
+   "title": "Nyx, the Oldest Internet Service Provider",
+   "summary": [
+    "Article URL: https://nyx.net/ Comments URL: https://news.ycombinator.com/item?id=50603465 Points: 75 # Comments: 8"
+   ],
+   "source": "Hacker News",
+   "url": "https://nyx.net/",
+   "image": null,
+   "published_at": "2026-11-22T20:15:59Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "c97d8a0ed206ebabf42cc10749a65c9885b51799",
+   "title": "All Delta Flights Through Atlanta Delayed as Automated System Falters",
+   "summary": [
+    "Article URL: https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html Comments URL: https://news.ycombinator.com/item?id=50603232 Points: 83 # Comments: 33"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
+   "image": null,
+   "published_at": "2026-11-22T19:51:46Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "01914533a422d5c06a968991b35a7615cc009307",
+   "title": "Assume People Are Not Interested in Your Blog Post",
+   "summary": [
+    "Article URL: https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/ Comments URL: https://news.ycombinator.com/item?id=50603143 Points: 31 # Comments: 13"
+   ],
+   "source": "Hacker News",
+   "url": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
+   "image": null,
+   "published_at": "2026-11-22T19:41:30Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "75061ecab9ff7c7bd345552d83d95a69ddc1529b",
+   "title": "What Happened to Silicon Valley?",
+   "summary": [
+    "Article URL: https://www.oreilly.com/radar/what-happened-to-silicon-valley/ Comments URL: https://news.ycombinator.com/item?id=50602947 Points: 351 # Comments: 195"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+   "image": null,
+   "published_at": "2026-11-22T19:20:15Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "e02a3f3a918fb26ca56ed61fca09268d59f7d20c",
+   "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+   "summary": [
+    "Article URL: https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife Comments URL: https://news.ycombinator.com/item?id=50602843 Points: 304 # Comments: 126"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+   "image": null,
+   "published_at": "2026-11-22T19:10:34Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "9d3b1b4e1aa5d2ff3de599fd37f207e66564fa1f",
+   "title": "I covered myself in sleep trackers to find the very best",
+   "summary": [
+    "Get a better night’s sleep with monitoring and guidance from smartwatches, smart rings, smart bands and sleep earbudsThe best sleep masks and best Bluetooth sleep masksGetting quality sleep is just as crucial as getting enough sleep.",
+    "Maybe your after dinner cappuccino triggers a night of tossing and turning, or you’re more restful after evening workouts.",
+    "And the more you know about your sleep, the better chance you have of improving it."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/thefilter-us/2026/nov/22/best-sleep-trackers",
+   "image": "https://i.guim.co.uk/img/media/299810b8ddede6ce30a9f856d4c8b57586fd489e/1_0_2499_2000/master/2499.jpg?width=140&quality=85&auto=format&fit=max&s=9018c5e3e635d74c5c6af5a25c939bde",
+   "published_at": "2026-11-22T19:00:35Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "bed82431ae1f061b2531719f2dd108d5e085f0de",
    "title": "Why data centers are at the center of the Big Tech backlash",
    "summary": [
@@ -37,10 +286,23 @@
    "related": []
   },
   {
+   "id": "770a34dc0c64f4e866802a902f4491b1487b414a",
+   "title": "Harvard CS 2881R AI Safety",
+   "summary": [
+    "Article URL: https://boazbk.github.io/mltheoryseminar/ Comments URL: https://news.ycombinator.com/item?id=50602153 Points: 28 # Comments: 2"
+   ],
+   "source": "Hacker News",
+   "url": "https://boazbk.github.io/mltheoryseminar/",
+   "image": null,
+   "published_at": "2026-11-22T18:01:54Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "de5cd1a6d51dc917ab910942b7b9fe70d73cd78c",
    "title": "Perplexity and Intelligence",
    "summary": [
-    "Article URL: https://openai.com/index/perplexity-and-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50601525 Points: 112 # Comments: 57"
+    "Article URL: https://openai.com/index/perplexity-and-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50601525 Points: 451 # Comments: 304"
    ],
    "source": "Hacker News",
    "url": "https://openai.com/index/perplexity-and-intelligence/",
@@ -63,15 +325,15 @@
    "related": []
   },
   {
-   "id": "3482c58c624c53d169c3f813872c22e5f79febaa",
-   "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
+   "id": "6cbedf0ee0fa67ef7545f74bd214c81cd9059c9e",
+   "title": "C++26 is done (again): November 2026 ISO C++ meeting trip report",
    "summary": [
-    "Article URL: https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html Comments URL: https://news.ycombinator.com/item?id=50600677 Points: 88 # Comments"
+    "Article URL: https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/ Comments URL: https://news.ycombinator.com/item?id=50600838 Points: 60 # Comments: 35"
    ],
    "source": "Hacker News",
-   "url": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
+   "url": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
    "image": null,
-   "published_at": "2026-11-22T15:42:40Z",
+   "published_at": "2026-11-22T15:59:59Z",
    "category": "tech",
    "related": []
   },
@@ -79,7 +341,7 @@
    "id": "478950d653c9e3a73f6ee3b1b326c16e42c9f2cd",
    "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
    "summary": [
-    "Article URL: https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/ Comments URL: https://news.ycombinator.com/item?id=50600622 Points: 40 # Comments: 8"
+    "Article URL: https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/ Comments URL: https://news.ycombinator.com/item?id=50600622 Points: 122 # Comments: 31"
    ],
    "source": "Hacker News",
    "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
@@ -92,25 +354,12 @@
    "id": "5e1b558f14945110a202416e728a253361c0785c",
    "title": "Open Social Web Alliance",
    "summary": [
-    "Article URL: https://osw-alliance.net/en/ Comments URL: https://news.ycombinator.com/item?id=50600511 Points: 137 # Comments: 127"
+    "Article URL: https://osw-alliance.net/en/ Comments URL: https://news.ycombinator.com/item?id=50600511 Points: 210 # Comments: 206"
    ],
    "source": "Hacker News",
    "url": "https://osw-alliance.net/en/",
    "image": null,
    "published_at": "2026-11-22T15:24:32Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "739cb256ef8c98a29b27a020450e35368ce4321e",
-   "title": "Backblaze customers worried of personal data sale/sharing after policy update",
-   "summary": [
-    "Article URL: https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/ Comments URL: https://news.ycombinator.com/item?id=50600435 Points: 61 # Comments: 31"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/",
-   "image": null,
-   "published_at": "2026-11-22T15:16:02Z",
    "category": "tech",
    "related": []
   },
@@ -131,25 +380,12 @@
    "id": "3c4f4993adcaa465da5801177e8227155c28464e",
    "title": "Show HN: I built a game where you are an LLM's subagent",
    "summary": [
-    "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 156 # Comments: 39"
+    "Article URL: https://github.com/gulivan/worker755 Comments URL: https://news.ycombinator.com/item?id=50599762 Points: 261 # Comments: 59"
    ],
    "source": "Hacker News",
    "url": "https://github.com/gulivan/worker755",
    "image": null,
    "published_at": "2026-11-22T13:56:58Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "abe4c1951f795f1ad122d3a704219e586c22cd5c",
-   "title": "Testing Terraform with AWS Emulator",
-   "summary": [
-    "Article URL: https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/ Comments URL: https://news.ycombinator.com/item?id=50599309 Points: 10 # Comments: 0"
-   ],
-   "source": "Hacker News",
-   "url": "https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/",
-   "image": null,
-   "published_at": "2026-11-22T13:00:36Z",
    "category": "tech",
    "related": []
   },
@@ -167,19 +403,6 @@
    "related": []
   },
   {
-   "id": "21bd1d482ae20679bdd42e3a7cc50b6c89d8ae11",
-   "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-   "summary": [
-    "Article URL: https://simonwillison.net/2026/Nov/21/muru/ Comments URL: https://news.ycombinator.com/item?id=50597959 Points: 53 # Comments: 8"
-   ],
-   "source": "Hacker News",
-   "url": "https://simonwillison.net/2026/Nov/21/muru/",
-   "image": null,
-   "published_at": "2026-11-22T09:57:01Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "7751ababced90d7438d092c0e6a7396932418d37",
    "title": "It will soon be too late to regulate use of autonomous weapons, warns Red Cross",
    "summary": [
@@ -189,19 +412,6 @@
    "url": "https://www.theguardian.com/science/2026/nov/22/red-cross-warns-too-late-regulate-autonomous-weapons-united-nations",
    "image": "https://i.guim.co.uk/img/media/e83253eef2712121e66a9774fee97fca01778307/875_229_5546_4437/master/5546.jpg?width=140&quality=85&auto=format&fit=max&s=d69854bb96be9dea188f9ed66bad2c16",
    "published_at": "2026-11-22T09:00:22Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "38c61351fe0dc3e7c6b43250508fe09e9aed4d01",
-   "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
-   "summary": [
-    "Article URL: https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/ Comments URL: https://news.ycombinator.com/item?id=50597612 Points: 576 # Comments: 644"
-   ],
-   "source": "Hacker News",
-   "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
-   "image": null,
-   "published_at": "2026-11-22T08:57:34Z",
    "category": "tech",
    "related": []
   },
@@ -220,19 +430,6 @@
    "related": []
   },
   {
-   "id": "457ae2a3f09df7e72abf63bd6e6cc82622a26eec",
-   "title": "Notes on the discrete Fourier transform (DFT)",
-   "summary": [
-    "Article URL: https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/ Comments URL: https://news.ycombinator.com/item?id=50596960 Points: 78 # Comments: 10"
-   ],
-   "source": "Hacker News",
-   "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
-   "image": null,
-   "published_at": "2026-11-22T06:52:25Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "9eade0408225d6bdf5c13b3ddabc6a1c4f792337",
    "title": "Hacks, AI and conspiracy theories: why are we having so many outages?",
    "summary": [
@@ -242,97 +439,6 @@
    "url": "https://www.theguardian.com/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple",
    "image": "https://i.guim.co.uk/img/media/917aeeec17f3bee46d98e2201997eb1f9a0b316c/0_807_4000_3198/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=d4752a8d74606eaec6916b68b2a9c81d",
    "published_at": "2026-11-22T06:00:19Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "3400785e003329cfbed6422cea81f25df13ef22b",
-   "title": "Fast-Anything: Don't rewrite it in Rust. Rewrite the 5% that's slow",
-   "summary": [
-    "Article URL: https://github.com/EL4CTEO/fast-anything Comments URL: https://news.ycombinator.com/item?id=50596155 Points: 142 # Comments: 102"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/EL4CTEO/fast-anything",
-   "image": null,
-   "published_at": "2026-11-22T04:10:09Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "f0cbfd67946449ca9190f6c79c2c855c2e44c34f",
-   "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-   "summary": [
-    "Article URL: https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/ Comments URL: https://news.ycombinator.com/item?id=50596133 Points: 991 # Comments: 590"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
-   "image": null,
-   "published_at": "2026-11-22T04:04:56Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "381628060ea95e20f1d6c346326c5cf01845a1bf",
-   "title": "Data Processing Incidents on Inference Providers",
-   "summary": [
-    "Article URL: https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/ Comments URL: https://news.ycombinator.com/item?id=50595554 Points: 251 # Comments: 88"
-   ],
-   "source": "Hacker News",
-   "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
-   "image": null,
-   "published_at": "2026-11-22T02:14:14Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "67786b63779fc125944a4430cf1c877fcb3a9466",
-   "title": "The Mythology of Conscious AI",
-   "summary": [
-    "Article URL: https://www.noemamag.com/the-mythology-of-conscious-ai/ Comments URL: https://news.ycombinator.com/item?id=50595537 Points: 134 # Comments: 374"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
-   "image": null,
-   "published_at": "2026-11-22T02:10:02Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "c4a226a4ddc42b3ff017df4174ef2b36d3721ccb",
-   "title": "Sandwich Simulator",
-   "summary": [
-    "Article URL: https://stulle.app/ Comments URL: https://news.ycombinator.com/item?id=50594911 Points: 467 # Comments: 162"
-   ],
-   "source": "Hacker News",
-   "url": "https://stulle.app/",
-   "image": null,
-   "published_at": "2026-11-22T00:07:59Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "c1675fe83fc00fcd478b70e7102d3635307c5caf",
-   "title": "A Better Vocabulary for Testing",
-   "summary": [
-    "Article URL: https://alperenkeles.com/posts/vocab-for-testing/ Comments URL: https://news.ycombinator.com/item?id=50594182 Points: 49 # Comments: 15"
-   ],
-   "source": "Hacker News",
-   "url": "https://alperenkeles.com/posts/vocab-for-testing/",
-   "image": null,
-   "published_at": "2026-11-21T22:15:39Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "cfc547c2291f7f7a9ba0a5060dcf4b72c4b6d465",
-   "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
-   "summary": [
-    "Article URL: https://github.com/sebaandrada-cell/PcapAnalyzer Comments URL: https://news.ycombinator.com/item?id=50594132 Points: 154 # Comments: 20"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
-   "image": null,
-   "published_at": "2026-11-21T22:09:58Z",
    "category": "tech",
    "related": []
   },
@@ -376,19 +482,6 @@
    "related": []
   },
   {
-   "id": "c6e0f6fe1d32263bd8fbaffb189b8938523b49d7",
-   "title": "Inkling-2-Mini in 5.4 GB Memory",
-   "summary": [
-    "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 545 # Comments: 131"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
-   "image": null,
-   "published_at": "2026-11-21T18:02:19Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "6ccebafcdf30c2702885250fb925516a6c098d35",
    "title": "Here are the top AI agents that can live in your text messages",
    "summary": [
@@ -398,6 +491,19 @@
    "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
    "image": null,
    "published_at": "2026-11-21T17:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "158994b8ae4ecd45a372af36b26b26fdedb8738c",
+   "title": "International UN talks on controlling use of autonomous weapons collapse",
+   "summary": [
+    "Week-long efforts fail to establish negotiating mandate on AI warfare after Russian ‘filibustering’Week-long efforts to agree a negotiating mandate for a legally binding international treaty to control the use of autonomous weapons collapsed just before 5am after all-night talks failed to overcome Russian objections.Despite an overwhelming majority of states at the UN’s Convention on Certain Conventional Weapons (CCW) in Geneva wanting to agree a negotiating mandate leading to a legally binding treaty, the need for consensus forced the conference to adopt a much weaker option."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+   "image": "https://i.guim.co.uk/img/media/247601abada695f09f302253178bbc8f6e58cd42/415_0_4165_3333/master/4165.jpg?width=140&quality=85&auto=format&fit=max&s=19283afd22dbc9bfead542bffab860d5",
+   "published_at": "2026-11-21T16:36:11Z",
    "category": "tech",
    "related": []
   },
@@ -429,19 +535,6 @@
    "related": []
   },
   {
-   "id": "18d9f9bc59b30c8a09cac823260f4f4782cd2398",
-   "title": "Lean verification of the Riemann Hypothesis",
-   "summary": [
-    "Article URL: https://leanprover-community.github.io/blog/posts/riemann-hypothesis/ Comments URL: https://news.ycombinator.com/item?id=50589618 Points: 1180 # Comments: 972"
-   ],
-   "source": "Hacker News",
-   "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-   "image": null,
-   "published_at": "2026-11-21T14:36:45Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "f077389309ffb835989cb6be10b08927da809ef0",
    "title": "‘I was shaking, crying, having trouble breathing’: the uncharted trauma of breaking up with AI companions",
    "summary": [
@@ -453,45 +546,6 @@
    "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions",
    "image": "https://i.guim.co.uk/img/media/fbb1db8f761639f3693a6f337b815d2473bc48a3/0_0_5790_4631/master/5790.jpg?width=140&quality=85&auto=format&fit=max&s=2239c1be6f4f5d6b422101664e95ad91",
    "published_at": "2026-11-21T14:00:01Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "07a481fe6b0c85726f8c71233d0ad5b0a3f06dff",
-   "title": "Detonating a pile of lead azide",
-   "summary": [
-    "Article URL: https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really Comments URL: https://news.ycombinator.com/item?id=50588982 Points: 679 # Comments: 414"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-   "image": null,
-   "published_at": "2026-11-21T13:23:14Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "8e797836f2dc8906ee63e3c6e499147a12989e5b",
-   "title": "‘Little room for error’: what a debt-laden cloud computing company says about the AI boom",
-   "summary": [
-    "‘Poster child of AI bubble’ CoreWeave symbolises increasingly risky business model of datacentre buildoutThe Egyptians had pyramids."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom",
-   "image": "https://i.guim.co.uk/img/media/4ccf3eba2b9600a32c8f0d9bd1554d5d4fe50e67/504_0_5040_4032/master/5040.jpg?width=140&quality=85&auto=format&fit=max&s=e8d923ad2af9620a6291627751c10ce3",
-   "published_at": "2026-11-21T13:00:01Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "f5022eb10131b352902b084655b5c96a1f6316ed",
-   "title": "Fair-weather Silicon Valley pivots away from the right after blue wave: ‘I’m not Maga’",
-   "summary": [
-    "From Elon Musk to Palantir’s Alex Karp, CEOs are softening hardline stances in expectation of an influx of DemocratsA short two years ago, Elon Musk stood before an audience of tens of thousands of people in New York City and proudly told them: “I’m not just Maga."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/21/silicon-valley-pivot-us-midterms",
-   "image": "https://i.guim.co.uk/img/media/5f6eeefbb8b785df9624aa30929b8131436bb7a8/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=8948f6b51100618a30a755c73745db1f",
-   "published_at": "2026-11-21T11:00:56Z",
    "category": "tech",
    "related": []
   }
