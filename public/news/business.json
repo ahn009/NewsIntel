@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-24T05:55:27.246705Z",
- "story_count": 21,
+ "generated_at": "2026-11-24T17:30:16.886588Z",
+ "story_count": 24,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,71 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "625849941754c35934bd1f99e1b6d571c05d4ad0",
+   "title": "Four generations of a family working in one factory",
+   "summary": [
+    "Four generations of the Avis family have now worked at Sweetnam & Bradley in Malmesbury."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/ck7v2r6j1yl3o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-24T16:42:46Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "193311ccb0ab957cb6344b5b6e4ef5c38ebcdd59",
+   "title": "World Cup drove profits surge, says Marston's",
+   "summary": [
+    "The company says an \"excellent World Cup\" helped drive strong trading as annual profits rose by 18%."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm7523pyk75lo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-24T13:03:20Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "684c649ba380052b47b58365e48a44419449b229",
+   "title": "US school bus drivers decline amid low pay and poor work conditions",
+   "summary": [
+    "Total number of drivers dropped 5% over the last year and fell 15% compared with 2019 levels, new report findsThe number of school bus drivers in the US has dropped 5% over the last year as drivers continue to experience low pay, poor working conditions and school budget shortfalls, according to a new report.The total number of school bus drivers is down 15%, or nearly 34,000 drivers, compared with 2019 levels, according to an new analysis from the Economic Policy Institute."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/education/2026/nov/24/school-bus-driver-decline-budget",
+   "image": "https://i.guim.co.uk/img/media/412afdba3882cd3b1d06808302acfc40643b1a58/369_0_3706_2965/master/3706.jpg?width=140&quality=85&auto=format&fit=max&s=37a785820e33868661b17e0bb03517d1",
+   "published_at": "2026-11-24T11:00:45Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "37cae4b73bcdf83ad45c3934ff0708a13ac6e5f8",
+   "title": "The shake-up facing renters as a new kind of landlord emerges",
+   "summary": [
+    "Companies building flats that they then rent out could usher in big changes for renters."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-24T00:28:48Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "63c39b84f6e4708b8d6cfe9dd3ba0bde6b065504",
+   "title": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
+   "summary": [
+    "The breeder's rating was downgraded but he continued to advertise as five-star, investigation finds."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c8d36d43y8po?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-24T00:11:08Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "cef482f3944581e339cc33b166ea716c949001ca",
    "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
@@ -270,32 +335,6 @@
    "url": "https://www.theguardian.com/global-development/2026/nov/23/falkland-islands-argentina-sea-lion-oil-environment-sovereignty-wildlife-pollution",
    "image": "https://i.guim.co.uk/img/media/71177c27dff46278555eaf88bb75c6bd92f88f22/184_463_4260_3409/master/4260.jpg?width=140&quality=85&auto=format&fit=max&s=5fd1d505c064abd5f03988482c7a68bd",
    "published_at": "2026-11-23T06:00:49Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "6ee0a647046083b62840024898703c03d71948fe",
-   "title": "Energy bills will soar - here's how you can ease the pain",
-   "summary": [
-    "Household energy bills are about to increase but there are ways to keep a lid on your expenditure."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-23T01:05:07Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "2c8bfaa220e8f4fe8c224c5ff057ca634e1e3d5d",
-   "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-   "summary": [
-    "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\"."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-23T00:33:36Z",
    "category": "business",
    "related": []
   }

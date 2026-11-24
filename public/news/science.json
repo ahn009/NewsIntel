@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-24T05:55:27.247096Z",
- "story_count": 9,
+ "generated_at": "2026-11-24T17:30:16.886916Z",
+ "story_count": 17,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -24,15 +24,163 @@
  },
  "stories": [
   {
-   "id": "2d882f0bc8f54668f910735d350e91bb488b8b53",
-   "title": "Village's concern over sewage discharge in dry river",
+   "id": "41ad518298fa2de9a76d489e1d1e0af2b5cec0b6",
+   "title": "Badger cull ruled out by Welsh government after speculation",
    "summary": [
-    "Campaigners call for restrictions on sewage treatment plant discharging effluent during drought"
+    "Plaid Cymru ministers rule out mass badger cull as part of new plans to tackle bovine tuberculosis."
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c60rkq78g05vo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm930yjy97xyo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-23T15:48:07Z",
+   "published_at": "2026-11-24T16:47:05Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "8d9ce56e9ffc34ae621dad3227f7474d3a5df84c",
+   "title": "Record 5,200 heat-linked deaths estimated in England this year",
+   "summary": [
+    "The UK Health Security Agency says this year's number of deaths is twice that of the previous record year."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq2e83egrez3o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-24T16:22:16Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "6abac7fc26e28ea5d6e1ab2f5e95f4adc53ae398",
+   "title": "Storms targeting both US coasts threaten to snarl Thanksgiving travel for millions",
+   "summary": [
+    "Two storms, including a major Nor'easter on the east coast, are expected to impact millions of people celebrating the holiday with family and friends."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/weather/articles/c5742nplemnno?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-24T11:40:46Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "f423ade633ad2c3a60c2538a2e2ba92f355cefbe",
+   "title": "2,200-year-old Roman shipwreck reveals an ingenious waterproofing trick",
+   "summary": [
+    "A 2,200-year-old Roman shipwreck has revealed sophisticated waterproofing techniques involving pine tar and beeswax.",
+    "Microscopic pollen grains trapped in the ancient coatings are now helping scientists reconstruct where the vessel may have traveled and undergone repairs more than two millennia ago."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261123232342.htm",
+   "image": null,
+   "published_at": "2026-11-24T11:09:06Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "ff3625fb9b19337aa40c0296bd501cae36b36a84",
+   "title": "Delia Smith joins opponents of £1.2bn data centre",
+   "summary": [
+    "The TV cook and author is worried about the environmental impact of the proposed Keswick facility."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c678200xklgzo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-24T11:04:36Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "d9e86a5d1c27ada1e5cb9e56cdeb63eecf1dfcb2",
+   "title": "Ancient rocks from the Moon’s far side rewrite the Solar System’s violent past",
+   "summary": [
+    "Scientists studying ancient rocks from the Moon’s far side have uncovered surprising evidence that challenges decades of thinking about the Solar System’s violent past.",
+    "Instead of a single catastrophic bombardment, asteroid impacts appear to have declined gradually over billions of years, revealing new clues about Earth's early evolution and the origins of life."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261121221136.htm",
+   "image": null,
+   "published_at": "2026-11-24T10:24:43Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "c871e71d73490f0fb01ae84713b3f40d2e8d8b45",
+   "title": "Earth's next ice age may have already begun. Global warming stopped it",
+   "summary": [
+    "Scientists have uncovered surprising evidence that Earth’s next ice age may have already begun, only to be stopped by global warming.",
+    "By studying ancient plants preserved beneath the Barnes Ice Cap in the Canadian Arctic, researchers discovered that the remnants of a massive ice sheet began expanding again about 2,000 years ago, signaling the possible start of a new glacial period.",
+    "But by the 1960s, rising temperatures had reversed that growth, causing the ice to shrink instead."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm",
+   "image": null,
+   "published_at": "2026-11-24T09:29:15Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "9deb969d2bb28ac54673960fadb240f491e51be6",
+   "title": "'Urgent action' needed to protect lake",
+   "summary": [
+    "Tourism and outdated septic tanks are said to be adding to the ecological decline of Buttermere."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cr78271e5j91o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-24T09:10:43Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "9e295ddc8b75a13c4a75ca57ce669f11a412ef3c",
+   "title": "Goats drafted in to tame Greenwich Park slope",
+   "summary": [
+    "Bagot goats are used to keep vegetation in check and help preserve the view from the Royal Observatory."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq4gn2vde8m8o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-24T06:16:51Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "b5b507248c53833d5812cd8e49f4ee280e373346",
+   "title": "Earth’s ancient oceans may have fooled scientists about its oxygen history",
+   "summary": [
+    "Earth’s journey from an oxygen-starved world to a planet capable of supporting complex life may have unfolded very differently than scientists once believed.",
+    "A new analysis suggests that oxygen accumulated in the atmosphere in three major stages, with the oceans taking millions or even hundreds of millions of years to catch up."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261122060340.htm",
+   "image": null,
+   "published_at": "2026-11-24T01:36:51Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "ea3dbf01cc50acc511c60007fedea6899a751b12",
+   "title": "What failure of COP31 reveals about a divided world",
+   "summary": [
+    "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-23T17:24:25Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "1e07638aee77020f968c61524d134701a09ca2af",
+   "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+   "summary": [
+    "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-23T17:07:25Z",
    "category": "science",
    "related": []
   },
@@ -80,6 +228,20 @@
    "related": []
   },
   {
+   "id": "2e3dfe7e09d392c9d0c9b5376b5fa7cbae5a8aed",
+   "title": "Earth's core may be leaking a 4.5-billion-year-old secret",
+   "summary": [
+    "Scientists have discovered an unusual carbon signature in Hawaiian volcanic rocks that suggests some of Earth's carbon originated in ancient meteorites and later escaped from deep within the planet's core.",
+    "The discovery raises an astonishing possibility: Carbon essential to life may have traveled from space to Earth's depths before emerging through volcanoes billions of years later."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261123005336.htm",
+   "image": null,
+   "published_at": "2026-11-23T05:53:36Z",
+   "category": "science",
+   "related": []
+  },
+  {
    "id": "781c0604c48f2c33dda0b07cdc04ffd84d68a1ab",
    "title": "Archaeologists reveal a powerful Iron Age king may have been a woman",
    "summary": [
@@ -90,61 +252,6 @@
    "url": "https://www.sciencedaily.com/releases/2026/11/261122060338.htm",
    "image": null,
    "published_at": "2026-11-23T05:30:23Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "233527ac46cd3e5c307ba90ae1b6575fe138a0d2",
-   "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
-   "summary": [
-    "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\"."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-23T05:15:06Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "39d646e1f805e9b5cb29f1f60e05515cd575e635",
-   "title": "This tiny spider named after Stephen Colbert has a genome 50% larger than a human’s",
-   "summary": [
-    "A tiny California trapdoor spider named after Stephen Colbert has a genome roughly 50% larger than a human's, despite being only about the size of a quarter.",
-    "Scientists discovered that its enormous genome contains 4.6 billion DNA base pairs and 52 chromosomes, revealing surprising clues about spider evolution."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261122060343.htm",
-   "image": null,
-   "published_at": "2026-11-23T03:54:27Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "6bfc22039f06bbcc7adaa4dab128cce531e59cc2",
-   "title": "Common medications may secretly rewire your gut, with effects lasting for years",
-   "summary": [
-    "Medications taken years or even long ago may leave lasting changes in your gut microbiome, according to a study of more than 2,500 people.",
-    "Researchers discovered that common drugs, including antidepressants, blood pressure medications, and anxiety treatments, can leave microbial “fingerprints” long after patients stop taking them.",
-    "Surprisingly, some anxiety medications had effects comparable to broad-spectrum antibiotics."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261120071501.htm",
-   "image": null,
-   "published_at": "2026-11-22T21:35:19Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "79517484b249ab6d981b823d91c2718284936ff4",
-   "title": "What's next after no deal at COP31 climate summit?",
-   "summary": [
-    "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/cx987g7q019go?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-22T18:28:48Z",
    "category": "science",
    "related": []
   }
