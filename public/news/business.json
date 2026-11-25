@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-24T17:30:16.886588Z",
- "story_count": 24,
+ "generated_at": "2026-11-25T02:17:17.880794Z",
+ "story_count": 19,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,110 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "f4857084d228e70857253db1e9fe9609dd341ea0",
+   "title": "Trump's Nvidia intervention ties his political fortunes to the AI boom",
+   "summary": [
+    "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T01:03:05Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "4544e3a26ae51dfdaf50f4a4e02e34dd3d209240",
+   "title": "The rising cost of putting food on the table in India",
+   "summary": [
+    "India's food inflation is broadening, squeezing household budgets."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T01:02:13Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "738443e67a1f4864b2fbaf82f6d91d95487cef00",
+   "title": "US preparing to unveil new tariffs on global trading partners",
+   "summary": [
+    "The new levies would hit many of America's biggest trading partners, including China and the EU."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T00:38:01Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "2ac0110630ec60f56ed6e876f22b2d77437eda57",
+   "title": "What will the energy cap changes mean for my bills?",
+   "summary": [
+    "Regulator Ofgem is raising the cap affecting the energy bills of millions of households."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T00:33:25Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "6b56e7b683ad6a865919c07a05d0712cc65eb02a",
+   "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
+   "summary": [
+    "The BBC speaks to three people about steps they take to keep their energy bills under control."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T00:30:52Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "b9a6c473148d4607ab810befb37284e60a71201a",
+   "title": "Households braced for soaring energy bills with new price cap to be announced",
+   "summary": [
+    "Domestic gas prices will rise significantly in January under regulator Ofgem's new price cap."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T00:29:58Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "2cb7a4b8fd45d7d343d3a26e6ec9873a22aa9685",
+   "title": "Nvidia CEO Jensen Huang apologizes to staff: ‘I made some terrible mistakes’",
+   "summary": [
+    "Huang acknowledges he violated code of conduct by having affairs, but denied Trump was instrumental in his returnJensen Huang apologized to staff on Tuesday for the tumult he’s caused at Nvidia."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/24/jensen-huang-nvidia-apologizes-staff",
+   "image": "https://i.guim.co.uk/img/media/a73808018c1aee9c4e492cbde53796d16e234aa8/0_667_1218_973/master/1218.jpg?width=140&quality=85&auto=format&fit=max&s=58d792ab17e4d7be4d15fc17de1e385b",
+   "published_at": "2026-11-24T20:32:02Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "811af2b79d22167f3abba1a8529af3fe2c7541d2",
+   "title": "Will I get the £100 energy payment and when will I receive it?",
+   "summary": [
+    "Here is what you need to know about the payment that millions will receive from January."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-24T20:16:24Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "625849941754c35934bd1f99e1b6d571c05d4ad0",
    "title": "Four generations of a family working in one factory",
@@ -59,6 +163,19 @@
    "url": "https://www.theguardian.com/education/2026/nov/24/school-bus-driver-decline-budget",
    "image": "https://i.guim.co.uk/img/media/412afdba3882cd3b1d06808302acfc40643b1a58/369_0_3706_2965/master/3706.jpg?width=140&quality=85&auto=format&fit=max&s=37a785820e33868661b17e0bb03517d1",
    "published_at": "2026-11-24T11:00:45Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "2aa9fd24f84b5e1384d2ffcc46ab98c6fed880d8",
+   "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+   "summary": [
+    "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-24T10:53:37Z",
    "category": "business",
    "related": []
   },
@@ -128,32 +245,6 @@
    "related": []
   },
   {
-   "id": "1e3834cb7a60b49725559a810f3ab488e079c173",
-   "title": "Pip assessments need 'fundamental overhaul', report to say",
-   "summary": [
-    "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-23T17:59:55Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "a25d3e2dc07765f18c3f2cadeffd36dc6cc0bbd8",
-   "title": "Faisal Islam: Why Jensen Huang proved too big to fire",
-   "summary": [
-    "Huang's role at the centre of his company's journey to lynchpin of AI proved crucial."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-23T17:11:58Z",
-   "category": "business",
-   "related": []
-  },
-  {
    "id": "46132fec3248b895e7f8a2aaa2900bead37d691e",
    "title": "Wild stock market swings: will I lose money, and is there anything I can do?",
    "summary": [
@@ -176,165 +267,6 @@
    "url": "https://www.bbc.co.uk/news/videos/cqze7lwdglngo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-23T14:51:05Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "489d32c407e49a2edc7d5bb4ce2b1f8585a079e4",
-   "title": "Welfare cuts: What's been happening with Pip and universal credit?",
-   "summary": [
-    "The government commissioned a review into Pip last year after it was forced to water down planned cuts to benefits."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cj924xvzrr2o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-23T13:52:40Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "7b8bae570643d66624975e44aa288da1e29b8817",
-   "title": "Flights cancelled in Belgium due to cost-of-living strike",
-   "summary": [
-    "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-23T13:34:02Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "6360118ef85dafc385a93a2228cc4b435def605f",
-   "title": "Next data accessed in cyber breach",
-   "summary": [
-    "The fashion retailer says there is no evidence customers' personal data was compromised."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cqj3kjr7ez3vo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-23T12:34:07Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "ff4859a231b053c48f7b53c263f4a8f059fece87",
-   "title": "Capita shares plunge 70% as boss quits after civil service pensions failure",
-   "summary": [
-    "Public sector workers have been hit by delays to pension payments, in a scheme overseen by Capita since last year."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-23T11:24:37Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "7279bb2a3919b1b89a86c275e2879f9efdc35c08",
-   "title": "Carry cash and know your rights: how to fly in the US this Thanksgiving holiday",
-   "summary": [
-    "Many had to simply cancel their plans and incur the costs that came with it.",
-    "More than 18,000 flights were cancelled at a potential cost to travelers of $1.9bn in lost time and related expenses, Anderson Economic Group estimates."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/global/2026/nov/23/thanksgiving-air-travel-us-explainer",
-   "image": "https://i.guim.co.uk/img/media/bc0448fab7a711dd6c66bf4f10e9b237ae07cd96/780_0_4485_3587/master/4485.jpg?width=140&quality=85&auto=format&fit=max&s=59c8d5a003be5a709b92cbcf34dfa1b8",
-   "published_at": "2026-11-23T11:00:56Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "202f9d858fcaf044c16b1192608ba6598eebab8c",
-   "title": "South East Water reports loss after supply issues",
-   "summary": [
-    "South East Water records a pre-tax loss of £22.9m in the six months to 30 September."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6n90j1qxel8o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-23T10:19:46Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "05aab9fe7b4acaa633c0acb42755c05bb33d5a33",
-   "title": "Poundland is facing collapse - what's gone wrong?",
-   "summary": [
-    "Poundland has a matter of days to find a buyer or face collapsing into administration."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-23T10:09:25Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "7f3845c3cd12040cb48ec1eea8ff63c7381f23e6",
-   "title": "Catering giant to switch main share listing to US in further blow to UK",
-   "summary": [
-    "A growing number of firms have been leaving the UK to list shares in the US in recent years."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ckz74098jq5po?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-23T09:54:04Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "3e9e41bd2736c519ac18a1285daa5fddb1699fbe",
-   "title": "Who is taking part in France's recent street protests?",
-   "summary": [
-    "President Macron has blamed the unrest on the radical left, but who are the protesters and what are they fighting for?"
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/cw5y188vzxn8o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-23T09:25:52Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "c8182e8f0a5fb08d4d79847596ce23a494157792",
-   "title": "Witness History",
-   "summary": [
-    "In 1994, the agreement that created the World Trade Organization was signed in Morrocco"
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/sounds/play/w3ct8r4b?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-23T07:00:00Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "b7bb23c43b1e2953cf51ecebb22392989d385728",
-   "title": "Househunter swaps Australia for Wales' most affordable town - where locals are struggling to buy",
-   "summary": [
-    "The area has attracted investors and even a buyer from Australia, but locals struggle to afford homes."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cjkgkdppk1nwo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-23T06:03:32Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "d1baf1523e990a816e1ef04361738d8bd25616b1",
-   "title": "‘Once installed, there’s no getting rid of it’: what Falklands oil plans mean for its seals, whales and penguins",
-   "summary": [
-    "While Argentina and the UK dispute sovereignty over the islands and its vast oil reserves, environmentalists fear for one of the Atlantic’s richest ecosystemsFrom the air, the main Falkland Islands form two large, jagged shapes against the South Atlantic.",
-    "East Falkland and West Falkland are surrounded by 778 smaller islands and islets east of Patagonia’s southern tip.The archipelago, a British overseas territory claimed by Argentina, is home to large colonies of albatrosses and penguins.",
-    "Its waters, with those of the Patagonian shelf, provide feeding grounds for sea lions, southern elephant seals and southern right whales."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/global-development/2026/nov/23/falkland-islands-argentina-sea-lion-oil-environment-sovereignty-wildlife-pollution",
-   "image": "https://i.guim.co.uk/img/media/71177c27dff46278555eaf88bb75c6bd92f88f22/184_463_4260_3409/master/4260.jpg?width=140&quality=85&auto=format&fit=max&s=5fd1d505c064abd5f03988482c7a68bd",
-   "published_at": "2026-11-23T06:00:49Z",
    "category": "business",
    "related": []
   }

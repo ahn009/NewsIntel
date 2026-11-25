@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-24T17:30:16.886916Z",
- "story_count": 17,
+ "generated_at": "2026-11-25T02:17:17.880978Z",
+ "story_count": 15,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,48 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "4bd932e8b57a5b83b5ae2a8d2aabe803e2ca4305",
+   "title": "Will there be a White Christmas this year?",
+   "summary": [
+    "It is just a month until the big day but what do the early signs say about the chances of a white Christmas in the UK?"
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/weather/articles/ckdd16vdplpeo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T01:03:24Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "082cb587f7e85ce97f564290a889a94764c4ccc2",
+   "title": "New nose drops restore youthful memory and fight Alzheimer’s in aging mice",
+   "summary": [
+    "A revolutionary new nasal treatment has restored youthful learning and memory performance in aging mice while preventing severe cognitive decline in mice with Alzheimer’s-like disease.",
+    "Developed using technology similar to COVID-19 mRNA vaccines, the nose drops stimulate production of a brain-protecting protein that strengthens neurons and supports memory.",
+    "Remarkably, the treatment preserved brain function without removing Alzheimer’s-associated plaques, suggesting a completely different way to combat cognitive decline."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261123005337.htm",
+   "image": null,
+   "published_at": "2026-11-24T23:31:52Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "d97b368904303b2b279eb346b5d1733f6ad16d7d",
+   "title": "A black hole the size of an atom could destroy an entire star",
+   "summary": [
+    "MIT scientists have discovered that tiny black holes left over from the Big Bang could slowly devour stars from within, eventually triggering spectacular explosions visible across galaxies.",
+    "Detecting these unusual cosmic events could reveal the existence of primordial black holes and help solve the mystery of dark matter."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261122060332.htm",
+   "image": null,
+   "published_at": "2026-11-24T20:58:15Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "41ad518298fa2de9a76d489e1d1e0af2b5cec0b6",
    "title": "Badger cull ruled out by Welsh government after speculation",
@@ -181,77 +223,6 @@
    "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-23T17:07:25Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "75275dfbd53082b202005b985993c2e648c26771",
-   "title": "A galactic shock wave could rewrite the map of the Milky Way",
-   "summary": [
-    "A surprising discovery suggests the Milky Way may be making stars in places where most galaxies cannot.",
-    "Scientists found evidence that a massive rotating structure near the galactic center is creating powerful shock waves that trigger star formation rather than suppress it.",
-    "Even more unexpectedly, part of the Norma spiral arm may not be a spiral arm at all, but a vast region where new stars are being born."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261122060329.htm",
-   "image": null,
-   "published_at": "2026-11-23T11:41:39Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "478879921c051f12f9941b869f5227d3ac73efed",
-   "title": "Two monster black holes from the dawn of time defy explanation",
-   "summary": [
-    "Astronomers have discovered the oldest known compact pair of quasars, powered by two enormous black holes that existed just 900 million years after the Big Bang.",
-    "Weighing an astonishing 1.5 billion and 400 million times the mass of the Sun, these cosmic giants somehow grew to incredible sizes far earlier than current theories can explain."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261122060342.htm",
-   "image": null,
-   "published_at": "2026-11-23T11:21:06Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "3d84f8f3671724118d0c7863ec683be3f7e11140",
-   "title": "Mysterious new viruses reveal a missing link in evolution",
-   "summary": [
-    "Scientists have discovered previously unknown viruses that could help explain how some of life’s earliest biological structures evolved.",
-    "The surprising findings challenge a longstanding evolutionary theory and suggest that viruses may have hidden capabilities far beyond simply infecting cells."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261122060334.htm",
-   "image": null,
-   "published_at": "2026-11-23T10:45:53Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "2e3dfe7e09d392c9d0c9b5376b5fa7cbae5a8aed",
-   "title": "Earth's core may be leaking a 4.5-billion-year-old secret",
-   "summary": [
-    "Scientists have discovered an unusual carbon signature in Hawaiian volcanic rocks that suggests some of Earth's carbon originated in ancient meteorites and later escaped from deep within the planet's core.",
-    "The discovery raises an astonishing possibility: Carbon essential to life may have traveled from space to Earth's depths before emerging through volcanoes billions of years later."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261123005336.htm",
-   "image": null,
-   "published_at": "2026-11-23T05:53:36Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "781c0604c48f2c33dda0b07cdc04ffd84d68a1ab",
-   "title": "Archaeologists reveal a powerful Iron Age king may have been a woman",
-   "summary": [
-    "Archaeologists have uncovered evidence that Verica, the Iron Age ruler whose exile helped trigger Rome’s invasion of Britain in AD 43, was actually a woman.",
-    "The discovery challenges centuries of historical assumptions and suggests that a largely forgotten female leader may have changed the course of British history."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261122060338.htm",
-   "image": null,
-   "published_at": "2026-11-23T05:30:23Z",
    "category": "science",
    "related": []
   }
