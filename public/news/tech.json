@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-25T02:17:17.880478Z",
+ "generated_at": "2026-11-25T12:37:53.627729Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "ok",
-  "https://www.dawn.com/feeds/pakistan": "ok",
+  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,14 +20,289 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
+  "https://www.espn.com/espn/rss/news": "ok"
  },
  "stories": [
   {
-   "id": "5ee45fc63309ecc32b708b1ffdc6ce46c1956b4c",
-   "title": "Matrix Multiplication is O(n^2.25) [pdf]",
+   "id": "643f4a12f6b94cbed7a62da6e914abcb85b00547",
+   "title": "Hazel (YC W24) Is Hiring a Product Designer",
    "summary": [
-    "Article URL: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50637220 Points: 60 # Comments: 14"
+    "Article URL: https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract Comments URL: https://news.ycombinator.com/item?id=50641323 Points: 0 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract",
+   "image": null,
+   "published_at": "2026-11-25T12:00:34Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ffad66169d8c0e00b5c8bc4801142751a343beb8",
+   "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+   "summary": [
+    "Article URL: https://github.com/xoxorwr/pw-loudness-eq Comments URL: https://news.ycombinator.com/item?id=50641171 Points: 43 # Comments: 7"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/xoxorwr/pw-loudness-eq",
+   "image": null,
+   "published_at": "2026-11-25T11:34:25Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "dd390125b4c42002af15860542631d0a77862312",
+   "title": "Our ‘Paris manifesto’ proposes how to deal with extreme wealth in the AI age | Open letter",
+   "summary": [
+    "It is possible for democracy to reverse the dynamic of oligarchy.",
+    "But we must act nowThe explosion of extreme wealth in the world is the defining social fact of our times.When Forbes magazine began ranking the world’s largest fortunes in 1987, the wealth of the richest 0.0001% of our planet’s population equaled 3% of global GDP.",
+    "Since that time, the wealth held by this tiny group of people – just 3,000 households – has ballooned and now reaches 17% of global GDP."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/25/paris-manifesto-open-letter-ai-oligarchy",
+   "image": "https://i.guim.co.uk/img/media/2dd975b73ad768204e517055d0fd577371cdf078/598_0_4903_3922/master/4903.jpg?width=140&quality=85&auto=format&fit=max&s=a9ed09c809e9d202b100178e38712dd4",
+   "published_at": "2026-11-25T11:00:47Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "f69c6b86c153da410ef20bfe079b32eddfbf0a8d",
+   "title": "The Riemann Hypothesis Proof as a Mediaeval Fantasy RPG Map",
+   "summary": [
+    "Article URL: https://marioschlosser.org/riemann/ Comments URL: https://news.ycombinator.com/item?id=50640746 Points: 34 # Comments: 8"
+   ],
+   "source": "Hacker News",
+   "url": "https://marioschlosser.org/riemann/",
+   "image": null,
+   "published_at": "2026-11-25T10:32:04Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "481281d72147e63607ff8462b7bb1b00248a52f1",
+   "title": "EA adds AI-generated John Motson to FC 27 video game",
+   "summary": [
+    "The AI-generated Motson will appear in the game on 26 November, with the consent of his son and wife."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c65y10j841jpo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T10:11:34Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "24a8fc92f62bf60ff407e325c68ef6541f92818f",
+   "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
+   "summary": [
+    "The BBC's technology and AI editor on how Nvidia's boss made himself impossible to fire."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T10:03:12Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "d2926690090ae3cce408f71f4b4ad4aff733fd9d",
+   "title": "‘A godsend’: the best hair straighteners in the UK for foolproof styling",
+   "summary": [
+    "That’s a wide range of styling possibilities with just one tool."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/thefilter/2025/mar/18/best-hair-straighteners",
+   "image": "https://i.guim.co.uk/img/media/1a07dd3a36f07db2a559cfce1cb7884a8bc5a910/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=c7467688032007064ea40ebc8e277e6f",
+   "published_at": "2026-11-25T10:00:03Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "1f0f577d611408e090d5f5bb553af186c75a9547",
+   "title": "Smart People Who Give a Shit Use Tools",
+   "summary": [
+    "Article URL: https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools Comments URL: https://news.ycombinator.com/item?id=50639698 Points: 9 # Comments: 1"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools",
+   "image": null,
+   "published_at": "2026-11-25T07:46:43Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "bede548f512c8e9f45e59441547d0aebc3944765",
+   "title": "‘It’s been really a mess’: Meta insiders concerned over push to AI content moderation",
+   "summary": [
+    "Several employees say rapid speed at which algorithms work means mistakes can happen at greater scaleMeta employees have expressed concern at the company’s push to replace human moderators with artificial intelligence, claiming the technology is leading to mistakes with the potential for sweeping political consequences.The social media company, which owns Facebook and Instagram, has been experimenting with AI-driven moderation for years, first introducing it in 2017 to filter out violent extremist content."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/25/meta-insiders-concerned-push-to-ai-content-moderation",
+   "image": "https://i.guim.co.uk/img/media/534fcd6f2a9a97fae39f19c96472abe6ec41e0b9/0_819_3766_3013/master/3766.jpg?width=140&quality=85&auto=format&fit=max&s=632f0b0606f2a8be0dc94de85ed6a7ee",
+   "published_at": "2026-11-25T07:00:08Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "16004642bbb565ec74fa2a025b01073d3de8bcfb",
+   "title": "China-linked battery projects could receive UK funding despite security warnings",
+   "summary": [
+    "The list was dominated by projects relying on lithium-ion batteries, which are typically manufactured in China and operated with Chinese software."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/25/china-battery-projects-uk-funding-security-warnings",
+   "image": "https://i.guim.co.uk/img/media/d6d3b60ad460057409bbc390fe470277522fd6bd/560_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=d9cb9bf4f0ea3728283cdb9bb52d7759",
+   "published_at": "2026-11-25T06:00:07Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "9a9294d39772b25f86580ecb42443ebd39a60505",
+   "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+   "summary": [
+    "Article URL: https://gpu-demo-gallery.pages.dev/ Comments URL: https://news.ycombinator.com/item?id=50638503 Points: 174 # Comments: 41"
+   ],
+   "source": "Hacker News",
+   "url": "https://gpu-demo-gallery.pages.dev/",
+   "image": null,
+   "published_at": "2026-11-25T04:31:48Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "e6d5f2bd76ba96f5d898c8aa0c74fd580e991eae",
+   "title": "Taking over US Treasury subdomains for $3 each",
+   "summary": [
+    "Article URL: https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each Comments URL: https://news.ycombinator.com/item?id=50638478 Points: 116 # Comments: 21"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+   "image": null,
+   "published_at": "2026-11-25T04:27:55Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "58d27ed84273447e6748ae8e5c99d292e8b4847b",
+   "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+   "summary": [
+    "Article URL: https://www.marginalia.nu/log/a_141_marginalia_update/ Comments URL: https://news.ycombinator.com/item?id=50638220 Points: 153 # Comments: 66"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+   "image": null,
+   "published_at": "2026-11-25T03:47:42Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "711061c701cbf8b07ccd2ca38eb6dd5847633931",
+   "title": "A faster algorithm for extracting hexadecimal digits of π",
+   "summary": [
+    "Article URL: https://www.stylewarning.com/posts/faster-digit-extraction/ Comments URL: https://news.ycombinator.com/item?id=50638075 Points: 50 # Comments: 2"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.stylewarning.com/posts/faster-digit-extraction/",
+   "image": null,
+   "published_at": "2026-11-25T03:28:42Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ebaf1c30665d630cbe02fd646f2d0c0890bf2fb5",
+   "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
+   "summary": [
+    "Article URL: https://noahbuilt.it/writing/qwen-on-5600-lambdas Comments URL: https://news.ycombinator.com/item?id=50638070 Points: 85 # Comments: 13"
+   ],
+   "source": "Hacker News",
+   "url": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
+   "image": null,
+   "published_at": "2026-11-25T03:28:06Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "731330eec3a08c5e937c697121daf2727a34b4b3",
+   "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+   "summary": [
+    "Article URL: https://buttons.joshwcomeau.com/ Comments URL: https://news.ycombinator.com/item?id=50638032 Points: 479 # Comments: 72"
+   ],
+   "source": "Hacker News",
+   "url": "https://buttons.joshwcomeau.com/",
+   "image": null,
+   "published_at": "2026-11-25T03:23:07Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "777816c50f03e837148016f3aac9b6b3fb41dcd7",
+   "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+   "summary": [
+    "Article URL: https://rida.dev/blog/bypassing-ios-safari-60-fps-limit Comments URL: https://news.ycombinator.com/item?id=50637890 Points: 246 # Comments: 89"
+   ],
+   "source": "Hacker News",
+   "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+   "image": null,
+   "published_at": "2026-11-25T03:04:37Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "e983e39dea6a9afe62c32d7ee1a448d9cdc33052",
+   "title": "Lua for data representation (2025)",
+   "summary": [
+    "Article URL: https://citrons.xyz/journal/2025-07-23 Comments URL: https://news.ycombinator.com/item?id=50637888 Points: 72 # Comments: 24"
+   ],
+   "source": "Hacker News",
+   "url": "https://citrons.xyz/journal/2025-07-23",
+   "image": null,
+   "published_at": "2026-11-25T03:04:12Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "43311174327e7e9bb32a5b2b71505c7c11edc1b3",
+   "title": "Top open problems in mathematics ranked by LLM-assessed importance",
+   "summary": [
+    "Article URL: https://www.proofatlas.ai/open-problems/ Comments URL: https://news.ycombinator.com/item?id=50637871 Points: 66 # Comments: 34"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.proofatlas.ai/open-problems/",
+   "image": null,
+   "published_at": "2026-11-25T03:01:36Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "30d463386b152b16b5c8db428a9ffa0241282a77",
+   "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+   "summary": [
+    "Article URL: https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being Comments URL: https://news.ycombinator.com/item?id=50637686 Points: 279 # Comments: 119"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+   "image": null,
+   "published_at": "2026-11-25T02:34:21Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "e1ad855d0eab4e392fd65e183d24b1cb6b9a24ab",
+   "title": "Tidal bans 100% AI-generated music with plans to delete more than 27m tracks",
+   "summary": [
+    "Streaming service says 43% of uploads to platform in past 90 days were made entirely by artificial intelligenceThe music streaming service Tidal has announced it will ban entirely AI-generated music from its platform and remove millions of songs, saying AI music “diverts streams and royalties away from the artists, and confuses fans”.“To ensure Tidal remains the best place for artists to share their work, and for listeners to enjoy it, we’re removing all tracks that we determine are 100% AI generated,” the company announced on Tuesday."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/music/2026/nov/25/tidal-streaming-service-bans-ai-generated-music",
+   "image": "https://i.guim.co.uk/img/media/b8638ee431643455ce8b3251c145e5241b067c0a/1120_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=adb674c128e535ccd805c3ca0c4f6c35",
+   "published_at": "2026-11-25T02:12:22Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "5ee45fc63309ecc32b708b1ffdc6ce46c1956b4c",
+   "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+   "summary": [
+    "Article URL: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50637220 Points: 722 # Comments: 404"
    ],
    "source": "Hacker News",
    "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
@@ -40,25 +315,12 @@
    "id": "a58808d0bc1080c77cd0285e6c7e88996520edd3",
    "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
    "summary": [
-    "Article URL: https://greydanus.github.io/2026/11/12/pengpt/ Comments URL: https://news.ycombinator.com/item?id=50637056 Points: 28 # Comments: 1"
+    "Article URL: https://greydanus.github.io/2026/11/12/pengpt/ Comments URL: https://news.ycombinator.com/item?id=50637056 Points: 284 # Comments: 49"
    ],
    "source": "Hacker News",
    "url": "https://greydanus.github.io/2026/11/12/pengpt/",
    "image": null,
    "published_at": "2026-11-25T00:54:49Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "2846c992d67be02402c831dbc094f16f42744fc6",
-   "title": "Here in the World: Letters of Albert Camus, 1944–1959",
-   "summary": [
-    "Article URL: https://literaryreview.co.uk/here-in-the-world Comments URL: https://news.ycombinator.com/item?id=50636925 Points: 18 # Comments: 0"
-   ],
-   "source": "Hacker News",
-   "url": "https://literaryreview.co.uk/here-in-the-world",
-   "image": null,
-   "published_at": "2026-11-25T00:36:43Z",
    "category": "tech",
    "related": []
   },
@@ -77,7 +339,7 @@
   },
   {
    "id": "d6a3974a1a3c345c876adefdbde2272f3b3c0426",
-   "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+   "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
    "summary": [
     "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the que"
    ],
@@ -128,19 +390,6 @@
    "related": []
   },
   {
-   "id": "2ed7b5c78e4dc0512e24c089e33e31a0029eadaf",
-   "title": "Heart attack and stroke risk detectable decades in advance",
-   "summary": [
-    "Article URL: https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance Comments URL: https://news.ycombinator.com/item?id=50635271 Points: 151 # Comments: 61"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance",
-   "image": null,
-   "published_at": "2026-11-24T21:51:21Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "72fd424c711a45148c031139c8195a0c15202def",
    "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
    "summary": [
@@ -180,19 +429,6 @@
    "related": []
   },
   {
-   "id": "d6912c891482ab0006a1c2f7b57c6ea71aae1aab",
-   "title": "An unclassified CIA system was breached in a cyberattack",
-   "summary": [
-    "Article URL: https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77 Comments URL: https://news.ycombinator.com/item?id=50634933 Points: 106 # Comments: 33"
-   ],
-   "source": "Hacker News",
-   "url": "https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77",
-   "image": null,
-   "published_at": "2026-11-24T21:24:27Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "4d83f53e63e2d3da707f6f6d8c617e2537d50728",
    "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
    "summary": [
@@ -202,6 +438,19 @@
    "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
    "image": null,
    "published_at": "2026-11-24T21:19:52Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "09ef7d778b8b8e18f2bf12c72ff10844345587ed",
+   "title": "China’s Huawei convicted of stealing US trade secrets",
+   "summary": [
+    "It was found not guilty of racketeering conspiracy, a charge alleging it had acted as a criminal enterprise."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/24/huawei-china-convicted-deceiving-banks-stealing-us-trade-secrets",
+   "image": "https://i.guim.co.uk/img/media/c705226e3d7b0501675e456628ff5a522b977f05/651_0_3257_2606/master/3257.jpg?width=140&quality=85&auto=format&fit=max&s=b40e5421cc7ba448b6202ff436de5087",
+   "published_at": "2026-11-24T21:11:44Z",
    "category": "tech",
    "related": []
   },
@@ -222,7 +471,7 @@
    "id": "3c6728c1bfd198791155e7911f8c578086a9a218",
    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
    "summary": [
-    "Article URL: https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/ Comments URL: https://news.ycombinator.com/item?id=50634658 Points: 176 # Comments: 43"
+    "Article URL: https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/ Comments URL: https://news.ycombinator.com/item?id=50634658 Points: 288 # Comments: 87"
    ],
    "source": "Hacker News",
    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
@@ -245,30 +494,43 @@
    "related": []
   },
   {
-   "id": "49db83e253edbf0771d468b99bafbdd0476979fa",
-   "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+   "id": "2cb7a4b8fd45d7d343d3a26e6ec9873a22aa9685",
+   "title": "Nvidia CEO Jensen Huang apologizes to staff: ‘I made some terrible mistakes’",
    "summary": [
-    "Versine lets you send and request money just by talking or texting with your AI (think Venmo with an MCP).",
-    "We’re software engineers who have worked on distributed systems at Stripe, Databricks, and Amazon.Versine is an MCP that sits in front of a wallet with a balance.",
-    "We expand to a more complete banking solution: deposits, transfers, wires, everything you can (and more) do with your bank offered as an MCP.Behind the scenes, each user has a self-custodial stablecoin wallet storing USDC on Base."
+    "Huang acknowledges he violated code of conduct by having affairs, but denied Trump was instrumental in his returnJensen Huang apologized to staff on Tuesday for the tumult he’s caused at Nvidia."
    ],
-   "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50634426",
-   "image": null,
-   "published_at": "2026-11-24T20:44:15Z",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/24/jensen-huang-nvidia-apologizes-staff",
+   "image": "https://i.guim.co.uk/img/media/a73808018c1aee9c4e492cbde53796d16e234aa8/0_667_1218_973/master/1218.jpg?width=140&quality=85&auto=format&fit=max&s=58d792ab17e4d7be4d15fc17de1e385b",
+   "published_at": "2026-11-24T20:32:02Z",
    "category": "tech",
    "related": []
   },
   {
-   "id": "9b60f3c3da8786c50204dc31596cb63f81f91aea",
-   "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
+   "id": "ca7efd0c9bb94d7717e5e3ef24c48e722e36636e",
+   "title": "Ternary Bonsai 2.5 27B",
    "summary": [
-    "Article URL: https://andlukyane.com/blog/cayley-graphs-and-torchtpu Comments URL: https://news.ycombinator.com/item?id=50633424 Points: 68 # Comments: 1"
+    "Article URL: https://prismml.com/news/bonsai-2-5-27b Comments URL: https://news.ycombinator.com/item?id=50633922 Points: 475 # Comments: 148"
    ],
    "source": "Hacker News",
-   "url": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
+   "url": "https://prismml.com/news/bonsai-2-5-27b",
    "image": null,
-   "published_at": "2026-11-24T19:40:43Z",
+   "published_at": "2026-11-24T20:08:03Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "11c408099a56a27a945fc3411f086c68989a11e5",
+   "title": "Looking for a new laptop? The best Black Friday laptop deals in the UK, from Macbooks to budget Windows",
+   "summary": [
+    "With RAM prices climbing, now is the perfect time to nab a discount.",
+    "Here are the best so far on Acer, Chromebooks, gaming laptops and more• The best Black Friday dealsLooking for a new laptop this Black Friday?",
+    "If you’re overdue an upgrade, there are some very real reasons to take advantage of these Black Friday laptop deals.The rise of AI has hit computing (and all consumer tech) hard."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/thefilter/2026/nov/24/best-black-friday-laptop-deals-uk",
+   "image": "https://i.guim.co.uk/img/media/6339189bf5b94b10c0608e635ec2d39e4b5bee2e/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b6ba3ff2fdb9f247b04d20f3d3ec9a08",
+   "published_at": "2026-11-24T20:00:54Z",
    "category": "tech",
    "related": []
   },
@@ -282,275 +544,6 @@
    "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
    "image": null,
    "published_at": "2026-11-24T18:30:42Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "e93ae2e9b169bd71c04f25f3a4de34f887467401",
-   "title": "Faisal Islam: Fears over the AI boom haven't gone away",
-   "summary": [
-    "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it"
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-24T18:21:43Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "ef2ea07a8f962a95b988197a5e4be619dade0e94",
-   "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
-   "summary": [
-    "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
-   "image": null,
-   "published_at": "2026-11-24T18:02:59Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "ddee9755fff371ace0eedf4a905d8c59b34ac334",
-   "title": "Threads comes to iPad and takes a page from X’s playbook with cashtags",
-   "summary": [
-    "The addition of live stock quotes and charts could help Threads attract the financial community that has historically relied on X."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags/",
-   "image": null,
-   "published_at": "2026-11-24T17:44:34Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "19e35db3c5b74c476e5b6335afea4e28226dd057",
-   "title": "Electric truck startup Harbinger gets financing boost from Palmer Luckey’s bank",
-   "summary": [
-    "Harbinger has tapped Palmer Luckey's Erebor Bank as a new source of capital as the electric truck startup looks to diversify how it funds its growth."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/",
-   "image": null,
-   "published_at": "2026-11-24T17:29:09Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "2ec605cc86892b76c4eab6c0a943376db429db90",
-   "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-   "summary": [
-    "Article URL: https://jobs.ashbyhq.com/weave-os Comments URL: https://news.ycombinator.com/item?id=50631041 Points: 0 # Comments: 0"
-   ],
-   "source": "Hacker News",
-   "url": "https://jobs.ashbyhq.com/weave-os",
-   "image": null,
-   "published_at": "2026-11-24T17:00:55Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "03938f50d224833255b62a58fba1aadaa396a4bc",
-   "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
-   "summary": [
-    "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
-   "image": null,
-   "published_at": "2026-11-24T17:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "85ad47dc9b77c65c7872885b3b523515705faaaf",
-   "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
-   "summary": [
-    "The company said it will still accept songs that were made with AI assistance, but not fully generated."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
-   "image": null,
-   "published_at": "2026-11-24T16:46:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "11d38892eaa146a602a3ca2ea6862851e2262778",
-   "title": "Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch",
-   "summary": [
-    "Uber and Nuro have started testing driverless Lucid Gravity SUVs on public streets in the San Francisco Bay Area."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/",
-   "image": null,
-   "published_at": "2026-11-24T16:40:46Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "3a32bad2007678739f174e9ab81012cc0d03685c",
-   "title": "You Can See Everything’s chaotic battle for the narrative about Elizabeth Holmes",
-   "summary": [
-    "In Nathan Fielder’s new documentary, the protagonists and film-makers battle over who is the hero and who is the villain.",
-    "It’s a fascinating insight into modern celebrity promotion• Don’t get the Close Up delivered to your inbox?",
-    "I didn’t believe a three-hour documentary about a disgraced tech CEO could be that good."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/culture/2026/nov/23/you-can-see-everythings-chaotic-battle-for-the-narrative-about-elizabeth-holmes",
-   "image": "https://i.guim.co.uk/img/media/f038709d75505048af7c1f3cfcffed56977664b8/63_0_1259_1007/master/1259.jpg?width=140&quality=85&auto=format&fit=max&s=cef54e215779d88e3f904d4f7202b809",
-   "published_at": "2026-11-24T16:37:54Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "6c787a85e2e6a1c1ac6966f84d3a70268b61580d",
-   "title": "Active intrusion campaign against Check Point security management servers",
-   "summary": [
-    "Article URL: https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign Comments URL: https://news.ycombinator.com/item?id=50630594 Points: 266 # Comments: 127"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
-   "image": null,
-   "published_at": "2026-11-24T16:32:17Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "065b16dad3fdde8cc28c8f0dc5eed5db275f37a9",
-   "title": "Mamdani questions AI economy as Jensen Huang returns to Nvidia – video",
-   "summary": [
-    "New York City mayor Zohran Mamdani weighed in on the corporate turbulence surrounding Nvidia and the chipmaker’s chief executive officer, Jensen Huang, saying he does not think working Americans 'signed up for their pensions being tied to the question of Huang’s fidelity to his marriage'.",
-    "The mayor said Huang 'had a massive impact', with Nvidia’s share price dropping dramatically after he stepped down as the company’s CEO on 12 November over a reported extramarital relationship with a suspected Chinese spyMamdani says Nvidia drama shows stock market is overly dependent on AI Continue reading..."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/video/2026/nov/24/mamdani-questions-ai-economy-as-jensen-huang-returns-to-nvidia-video",
-   "image": "https://i.guim.co.uk/img/media/526ad4b151eda4ee611778e9331242738273d7c0/229_0_2281_1825/master/2281.jpg?width=140&quality=85&auto=format&fit=max&s=973d87bb3555567599736eb15e929c72",
-   "published_at": "2026-11-24T16:30:07Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "a80b129c68390b76e637a324a768fb6819d0cf03",
-   "title": "‘The mistake has been corrected’: end of Jensen Huang’s brief walk in the wilderness",
-   "summary": [
-    "Tech sector’s campaign to reinstate Nvidia boss began soon after ousting over affair with alleged Chinese spyThe tech billionaires could hardly contain their delight. “Jensen!” exclaimed OpenAI’s chief executive, Sam Altman, in a one-word post on X.“Thanksgiving”, said Travis Kalanick, the Uber founder, who had been part of a core group of Silicon Valley leaders campaigning for this moment."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/24/mistake-corrected-jensen-huang-resinstated-nvidia-analysis",
-   "image": "https://i.guim.co.uk/img/media/37b2869f7bd05de287d811e35f9d87f7014da37e/848_0_5407_4326/master/5407.jpg?width=140&quality=85&auto=format&fit=max&s=df3b941b33dea5b6e55f9ae56f1d3512",
-   "published_at": "2026-11-24T16:27:41Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "b535265101f02926e7d07ccab2f24f50f22beae3",
-   "title": "Jetty Pro",
-   "summary": [
-    "Article URL: http://hypercritical.co/2026/11/23/jetty-pro Comments URL: https://news.ycombinator.com/item?id=50630462 Points: 277 # Comments: 120"
-   ],
-   "source": "Hacker News",
-   "url": "http://hypercritical.co/2026/11/23/jetty-pro",
-   "image": null,
-   "published_at": "2026-11-24T16:23:02Z",
-   "category": "tech",
-   "related": [
-    {
-     "source": "Hacker News",
-     "url": "https://prismml.com/news/bonsai-2-5-27b"
-    }
-   ]
-  },
-  {
-   "id": "70f3d3a6344923f93d55972f2567e6a0c252908b",
-   "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
-   "summary": [
-    "Next-generation data centers will need tens of gigawatts of power every year.",
-    "One of Crusoe's investors thinks solar and energy storage are the obvious choice."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
-   "image": null,
-   "published_at": "2026-11-24T16:10:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "bbaf6332f2bfb4e91bc3848c292d5854609ff751",
-   "title": "Pinterest will now let parents limit the AI-generated content their teens see",
-   "summary": [
-    "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
-   "image": null,
-   "published_at": "2026-11-24T16:02:37Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "5845ed4863b4926585035e5be53fe505a19610e2",
-   "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
-   "summary": [
-    "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
-   "image": null,
-   "published_at": "2026-11-24T15:51:07Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "650a4c88248107fcda1e740df2065990cff96b6e",
-   "title": "Jimmy Kimmel on Jensen Huang’s return to Nvidia: ‘What a profoundly stupid time to be alive’",
-   "summary": [
-    "Late-night hosts discussed disgraced Nvidia CEO’s quick return to his role after pressure from shareholder TrumpLate-night hosts reacted to the reinstatement of Jensen Huang as CEO of Nvidia under political pressure from Donald Trump."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/culture/2026/nov/24/jimmy-kimmel-jensen-huang-nvidia-trump",
-   "image": "https://i.guim.co.uk/img/media/31ee47f00dd0d27f6edca7bf2f8666aaac03673e/274_0_1311_1050/master/1311.jpg?width=140&quality=85&auto=format&fit=max&s=138259eee1ce7faac9519434bb5279c7",
-   "published_at": "2026-11-24T15:51:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "197dc8b3ac4dbd2097d728eccc4bfb1c9276e98d",
-   "title": "A training engine for your local model, using your idle compute",
-   "summary": [
-    "Article URL: https://github.com/sous-labs/songe Comments URL: https://news.ycombinator.com/item?id=50629231 Points: 184 # Comments: 60"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/sous-labs/songe",
-   "image": null,
-   "published_at": "2026-11-24T15:03:40Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "12ceb4461c70de7141567ec0f2b2c79e68ae2fc5",
-   "title": "Splitting USB-C: USB 3 and USB 2 on one port",
-   "summary": [
-    "Article URL: https://www.frankchiarulli.com/blog/splitting-usb-c/ Comments URL: https://news.ycombinator.com/item?id=50629106 Points: 133 # Comments: 86"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.frankchiarulli.com/blog/splitting-usb-c/",
-   "image": null,
-   "published_at": "2026-11-24T14:54:10Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "deb41e4f828db700c2887df86f5e927a954d1270",
-   "title": "Chinese media hail Huang’s Nvidia return with warning over ‘witch-hunts’",
-   "summary": [
-    "State-run Global Times says reports about CEO’s affair with alleged Chinese spy were ‘malicious’Trump made up to $15m on Nvidia stock after Huang’s returnNvidia staff: what do you think of Jensen Huang’s return as chief executive?Chinese media have reacted with glee to the dramatic reinstatement of Jensen Huang as the chief executive of Nvidia, with one commentary warning against future “witch-hunts”.An article published on Tuesday in the state-run outlet the Global Times said US media reports about Huang’s affair with an alleged Chinese intelligence asset were “malicious” and “negatively impacted American public perception of China”."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/24/china-media-jensen-huang-nvidia-ceo",
-   "image": "https://i.guim.co.uk/img/media/8abb1b7af3336437d7b77914b83f5a5515682536/1362_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=0296e9d9f3be3b73cec5d9ff0f180fa2",
-   "published_at": "2026-11-24T14:45:03Z",
    "category": "tech",
    "related": []
   }

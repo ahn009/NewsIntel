@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-25T02:17:17.878964Z",
+ "generated_at": "2026-11-25T12:37:53.625965Z",
  "story_count": 60,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "ok",
-  "https://www.dawn.com/feeds/pakistan": "ok",
+  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,379 +20,298 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
+  "https://www.espn.com/espn/rss/news": "ok"
  },
  "stories": [
   {
-   "id": "137798dbe95b10afe4354cb156bf661d7e669e45",
-   "title": "What happens when a bank ducks rules in Pakistan? For Deutsche Bank, perhaps nothing",
+   "id": "6b263479f3fcfe45c1cec7780e79ca5281c07854",
+   "title": "The best tennis players of 2026: Zverev, Rybakina and many more",
    "summary": [
-    "Yet, even as policymakers were scrambling to bolster the defences of the nation’s financial system, vulnerabilities in the internal systems of Deutsche Bank’s Pakistan operations were complicating the fight against illicit money flows.",
-    "Local compliance challenges In October 2019, the State Bank of Pakistan (SBP) introduced key requirements under its Trade-Based Money Laundering (TBML) framework and ordered banks to implement them with immediate effect.",
-    "Confusion over KYC function In September 2019, Chiara Monaco from the anti-financial crime unit at Deutsche Bank’s headquarters in Frankfurt emailed bank staff in Pakistan to flag a concern regarding “certain sub-accounts in Pakistan belonging to customers not KYC’ed”."
+    "As the 2026 tennis season comes to a close, we name the top players and moments of the year."
    ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2046548/what-happens-when-a-bank-ducks-rules-in-pakistan-for-deutsche-bank-perhaps-nothing",
-   "image": "https://i.dawn.com/large/2026/11/23173414c3e6ae4.webp",
-   "published_at": "2026-11-25T02:00:05Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "4ae82ad1b702c41fafe23134d48214933c4a339f",
-   "title": "Politics live: Chalmers calls inflation data ‘unwelcome but unsurprising’; government faces rally in parliament over home births",
-   "summary": [
-    "At the moment, yes, we want deals, but we want creatives paid properly for their work.",
-    "And the situation that we find ourselves in at the moment is that they’re not.",
-    "They have no control and often no payment for their work."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
-   "image": "https://i.guim.co.uk/img/media/a52577627a519ab236dadaee472b496faaba887d/504_0_6055_4844/master/6055.jpg?width=140&quality=85&auto=format&fit=max&s=deb65e83810f32432421c48c989b2dc3",
-   "published_at": "2026-11-25T01:58:06Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "6e5ef958a13f4c1850ab43d2e42543e33984e6f0",
-   "title": "Australia’s security pact with Solomon Islands a blow to China’s influence in the Pacific",
-   "summary": [
-    "Anthony Albanese and Matthew Wale sign new treaty as Solomon Islands PM states his country no longer ‘a source of uncertainty and doubt in the region’The Solomon Islands prime minister says the days of his country being an uncertain partner in the Pacific are over as he signed a sweeping agreement to make Australia the primary security partner and limit ties with China.Matthew Wale signed the new treaty with Australia’s prime minister, Anthony Albanese, in Canberra on Wednesday after Solomon Islands earlier this week announced it was terminating a landmark security pact with Beijing."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/25/australia-solomon-islands-treaty-blow-to-china-pacific-influence",
-   "image": "https://i.guim.co.uk/img/media/b962796bea53cf339ac44ee52d0043644f41d4b1/450_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=ad8cc8c314fb95ce1ca0c7de3574da2d",
-   "published_at": "2026-11-25T01:51:02Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "b74d337193cece0a05c315957e2d8e0655b5c5bb",
-   "title": "Inflation rate jumps to 4.9% as Australia’s cost-of-living crisis intensifies",
-   "summary": [
-    "Figure up from 4.3% annual rate in September and nearly double Reserve Bank’s official target of 2.5%Follow our Australia politics live blog for latest updatesGet our daily political email, free app or daily news podcastSurging fuel costs and the end of electricity rebates have helped drive inflation to 4.9% in the year to October, from 4.3%, as cost-of-living pressures peak in the lead-up to Christmas.Alongside a 6.3% increase in fuel costs last month, the latest figures from the Australian Bureau of Statistics showed electricity prices were 25% higher than a year earlier."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/25/inflation-rate-australia-october-figures",
-   "image": "https://i.guim.co.uk/img/media/499ada5ed54afcbc41596219521a53ff447827a4/456_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=36f537dbf9f90ebd0d2fadb83678fdc8",
-   "published_at": "2026-11-25T01:42:07Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "886e6fb7c86dd637d852ca19797a270140571259",
-   "title": "Trump reportedly says he is open to pardoning Jensen Huang ahead of CEO’s planned Senate committee testimony – live",
-   "summary": [
-    "He will be awarding the nation’s highest civilian honor to former New York mayor and Trump’s onetime personal lawyer Rudy Giuliani.Trump said last year he would award the medal to Giuliani, two days after his longtime political ally was seriously injured in a car crash."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
-   "image": "https://i.guim.co.uk/img/media/e2c9048100ac242224ecaab5ab387f0209b9e078/0_0_2055_1645/master/2055.jpg?width=140&quality=85&auto=format&fit=max&s=7c96fe8d3625bd5fec8cc0800c0e380c",
-   "published_at": "2026-11-25T01:40:04Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "2da9f6ced34b4d02b1ec5b420334f3da07ebf525",
-   "title": "Senegal fans celebrate AFCON legal victory over Morocco",
-   "summary": [
-    "Senegal have been reinstated as 2025 AFCON champions after the Court of Arbitration for Sport upheld their appeal."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/senegal-fans-celebrate-afcon-legal-victory-over-morocco?traffic_source=rss",
+   "source": "ESPN",
+   "url": "https://www.espn.com/tennis/story/_/id/50574609/zverev-rybakina-alcaraz-andreeva-top-tennis-players-2026",
    "image": null,
-   "published_at": "2026-11-25T01:39:53Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "b7d838463719ca539965dbd6dea5e04d7f2582f5",
-   "title": "China investigates politburo star in Xi Jinping’s latest purge",
-   "summary": [
-    "Chen Jining, regarded as a contender for higher office, becomes the fourth member of China’s elite politburo to be investigated since 2025China has launched an investigation into Shanghai’s Communist party chief Chen Jining, a member of the country’s elite politburo, the state-run Xinhua news agency unexpectedly announced on Tuesday, marking the fourth member of the top leadership ⁠body to be probed since ⁠2025.China’s anti-graft watchdog is investigating ​Chen for “suspected severe violations of discipline and laws”, Xinhua said, using a common euphemism for corruption."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/25/china-investigates-politburo-chen-jining-xi-jinping-purge",
-   "image": "https://i.guim.co.uk/img/media/c4f99890561c34364853932923e32733830c648c/451_0_6570_5256/master/6570.jpg?width=140&quality=85&auto=format&fit=max&s=fef35558e5ef28df29fec8688e75819c",
-   "published_at": "2026-11-25T01:31:46Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "659b08b1794a5b3b9af6d7cfefd79b489eda97b8",
-   "title": "Israel’s Eisenkot secures first coalition partner in bid to form government",
-   "summary": [
-    "The Yashar party says it agreed to sign a coalition pact with Israel's Our Home party, led by Avigdor Lieberman."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-25T01:30:44Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "381ac6ba3a8c56602c6dbdab5e7272d3b4d339a7",
-   "title": "Beau Lamarre-Condon found guilty of murdering Jesse Baird and Luke Davies",
-   "summary": [
-    "Jury finds former police officer guilty of killing couple in Baird’s Sydney home in 2024Get our breaking news email, free app or daily news podcastFormer police officer Beau Lamarre-Condon has been found guilty of murdering Jesse Baird and Luke Davies with his service weapon.A New South Wales supreme court jury delivered its verdicts on Wednesday, finding Lamarre-Condon guilty of two counts of murder after two hours of deliberation."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/25/beau-lamarre-condon-trial-verdict-former-police-officer-jesse-baird-luke-davies-ntwnfb",
-   "image": "https://i.guim.co.uk/img/media/ebfc885f7db8935002487a469a0f9baba836690e/262_168_2337_1870/master/2337.jpg?width=140&quality=85&auto=format&fit=max&s=dcd597bc5dff7cf8a66573ffddcbfff0",
-   "published_at": "2026-11-25T01:21:08Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "c8df8bdb76c2b146c35f957a47678d6da5031229",
-   "title": "Iran whips singer Parastoo Ahmadi 74 times over YouTube concert",
-   "summary": [
-    "Iranian authorities have lashed singer Parastoo Ahmadi over a 2024 performance streamed live on YouTube."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/iran-whips-singer-parastoo-ahmadi-74-times-over-youtube-concert?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-25T01:21:02Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "763d18b0745772cac6d29ddade0e077f4f6b19c0",
-   "title": "Rangers 'dug it out' despite naivety & complacency - McInnes",
-   "summary": [
-    "Rangers manager Derek McInnes says his team's naivety and complacency made their task more difficult in their thrilling 3-2 win over Aberdeen, but hails their ability to get the job done."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cw808pyyxgzjo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-25T01:20:53Z",
+   "published_at": "2026-11-25T12:34:26Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "85f7d5dc4a5a54c2e1f9082f645433d8bfc12f90",
-   "title": "'Pakistani flag rises into orbit' as Zeeshan Ali makes history aboard China's Shenzhou-24 spacecraft",
+   "id": "04d1b5ef2788115bb58b6b6e15ea39d9873ea100",
+   "title": "The obvious name is not the one to spend for in Week 12 Knockout league pickups",
    "summary": [
-    "Forty-year-old Zeeshan Ali became the first Pakistani astronaut to enter orbit on Wednesday, after China’s Shenzhou-24 spacecraft entered its preset orbit following liftoff from the Jiuquan Satellite Launch Centre.",
-    "The China Manned Space Agency (CMSA) said the crew will conduct around 90 experiments during the mission.",
-    "Pakistan’s space agency Suparco and CMSA signed a cooperation agreement in February 2025, under which two Pakistanis were to train in China, with one joining a mission on the Tiangong space station operated by Beijing."
+    "As the number of teams shrink, the number of stars available in Knockout leagues grows."
    ],
-   "source": "Dawn",
-   "url": "https://www.dawn.com/news/2046753/pakistani-flag-rises-into-orbit-as-zeeshan-ali-makes-history-aboard-chinas-shenzhou-24-spacecraft",
-   "image": "https://i.dawn.com/large/2026/11/250439244902490.webp",
-   "published_at": "2026-11-25T01:20:39Z",
-   "category": "pakistan",
-   "related": []
-  },
-  {
-   "id": "5ee45fc63309ecc32b708b1ffdc6ce46c1956b4c",
-   "title": "Matrix Multiplication is O(n^2.25) [pdf]",
-   "summary": [
-    "Article URL: https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50637220 Points: 60 # Comments: 14"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+   "source": "ESPN",
+   "url": "https://www.espn.com/fantasy/football/story/_/id/50583834/2026-fantasy-football-knockout-leagues-pickups-week-12",
    "image": null,
-   "published_at": "2026-11-25T01:19:26Z",
-   "category": "tech",
+   "published_at": "2026-11-25T12:34:06Z",
+   "category": "sports",
    "related": []
   },
   {
-   "id": "a7370772a2f70de972c836a71421b2503bb2cc73",
-   "title": "Poll finds US voters want government to end Iran war regardless of terms",
+   "id": "ea70cccbed38abad7608bd1b39cc3260d2e3fe8a",
+   "title": "Free agents: Grab Rams and Packers quickly in a spread-out Week 12",
    "summary": [
-    "New survey finds that 55 percent of voters, including 80 percent of Democrats, want war brought to an end immediately."
+    "Eric Karabell lists the top available players worth adding for the week ahead."
    ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
+   "source": "ESPN",
+   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWaiverWirePickUp-50572280/fantasy-football-waivers-free-agent-pickups-nfl-week-12",
    "image": null,
-   "published_at": "2026-11-25T01:14:22Z",
-   "category": "world",
+   "published_at": "2026-11-25T12:34:06Z",
+   "category": "sports",
    "related": []
   },
   {
-   "id": "48847b981ae5ac7b5cfd666bc206c2a5fd2778cc",
-   "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+   "id": "5d953dcd801b8107ed510e4f034f2d3db6d44f81",
+   "title": "From a camcorder to a Super Bowl mantra, inside Mike Macdonald's love for game film",
    "summary": [
-    "The verdict follows a months-long trial in New York."
+    "We go back to the 1980s to uncover how football bonded the 38-year-old Seahawks coach and his father."
    ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+   "source": "ESPN",
+   "url": "https://www.espn.com/nfl/story/_/id/50543051/seahawks-mike-macdonald-camcorder-super-bowl-game-film",
    "image": null,
-   "published_at": "2026-11-25T01:11:57Z",
-   "category": "world",
+   "published_at": "2026-11-25T12:33:56Z",
+   "category": "sports",
    "related": []
   },
   {
-   "id": "4bd932e8b57a5b83b5ae2a8d2aabe803e2ca4305",
-   "title": "Will there be a White Christmas this year?",
+   "id": "a4cd1eb31176e716d3eef7501507e963ae449d78",
+   "title": "Inside NFL's global game plan, as league eyes even more international games",
    "summary": [
-    "It is just a month until the big day but what do the early signs say about the chances of a white Christmas in the UK?"
+    "The NFL intends to play 10 international games next year, the maximum allowed under the CBA."
    ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/weather/articles/ckdd16vdplpeo?at_medium=RSS&at_campaign=rss",
+   "source": "ESPN",
+   "url": "https://www.espn.com/nfl/story/_/id/50573226/nfl-international-expansion-turf-players",
    "image": null,
-   "published_at": "2026-11-25T01:03:24Z",
-   "category": "science",
+   "published_at": "2026-11-25T12:33:56Z",
+   "category": "sports",
    "related": []
   },
   {
-   "id": "f4857084d228e70857253db1e9fe9609dd341ea0",
-   "title": "Trump's Nvidia intervention ties his political fortunes to the AI boom",
+   "id": "3f8cd9700d63a11fecca10e961830f1b3595b2ba",
+   "title": "Ten classic Survivor Series moments that shaped WWE history",
    "summary": [
-    "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates."
+    "Revisit the debuts, controversies and returns that have occurred at one of WWE's signature events."
    ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+   "source": "ESPN",
+   "url": "https://www.espn.com/wwe/story/_/id/50575859/ten-classic-survivor-series-moments-wwe-history",
    "image": null,
-   "published_at": "2026-11-25T01:03:05Z",
-   "category": "business",
+   "published_at": "2026-11-25T12:31:21Z",
+   "category": "sports",
    "related": []
   },
   {
-   "id": "4544e3a26ae51dfdaf50f4a4e02e34dd3d209240",
-   "title": "The rising cost of putting food on the table in India",
+   "id": "a68f629bc887f2c457eb275a951c852d2142a029",
+   "title": "Olney: The ripple effects of Tarik Skubal's signing on the Mets, Dodgers and more",
    "summary": [
-    "India's food inflation is broadening, squeezing household budgets."
+    "The impact of the record deal for MLB's top free agent extends past his new team to the top suitors who missed out on him."
    ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
+   "source": "ESPN",
+   "url": "https://www.espn.com/mlb/story/_/id/50575245/ripple-effects-skubal-signing-dodgers-padres-blue-jays",
    "image": null,
-   "published_at": "2026-11-25T01:02:13Z",
-   "category": "business",
+   "published_at": "2026-11-25T12:30:33Z",
+   "category": "sports",
    "related": []
   },
   {
-   "id": "494939b7d9505bf70493700b89d36487f0d0d69a",
-   "title": "Middle-aged women in England least likely to successfully quit smoking, study finds",
+   "id": "bcebbc14cbcc5de7e3f010b9cdca1abc7366d1f9",
+   "title": "Superlatives for this MLB free agent class, from Brandon Lowe to Kevin Gausman",
    "summary": [
-    "Of nearly 8,000 women who tried to stop, only 18% of those aged 45 to 60 managed to give upMiddle-aged women in England are the least likely to successfully give up smoking, according to research.Smoking is the leading cause of preventable death and illness in the UK.",
-    "While overall smoking rates in England have declined in recent decades, rates in some regions have increased.",
-    "About 6.75 million people smoke in England, of whom around 14% are women aged 45-60."
+    "We have a yearbook's worth of awards for the top MLB free agents."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/mlb/story/_/id/50575214/free-agent-class-superlatives",
+   "image": null,
+   "published_at": "2026-11-25T12:30:33Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "411b020c3e67507aec7cb9d985876d702b7a896c",
+   "title": "What went wrong for Michigan and Ohio State in 2026?",
+   "summary": [
+    "Michigan and Ohio State have combined for nine losses entering Saturday's game."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/college-football/story/_/id/50576202/michigan-wolverines-ohio-state-buckeyes-went-wrong",
+   "image": null,
+   "published_at": "2026-11-25T12:28:07Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "cca739bcf6bf904864d16bba7a7531130f8be66b",
+   "title": "Bottom 10: Putting the 'L' in UCLA -- and setting up the Pillow Fight of the Century",
+   "summary": [
+    "While UCLA suffered its first loss, we still have a team looking for its first win -- and time is running out."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/college-football/story/_/id/50585901/bottom-10-week-12-ucla",
+   "image": null,
+   "published_at": "2026-11-25T12:28:07Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "64a5b65b057facdcf7905ef83b94074aa7222982",
+   "title": "‘Russia wants more than Ukraine,’ Germany’s Merz warns – Europe live",
+   "summary": [
+    "Among these were 1,000 – the equivalent of a whole regiment – who took their own lives.The documents show how the majority of soldiers come from poorer areas and ethnic minorities, drawn in by high salaries.",
+    "There are also recruits from abroad and even those lured to Russia by offers of jobs.",
+    "But for how long can Vladimir Putin keep this shocking death toll from the Russian people?” Continue reading..."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/society/2026/nov/25/middle-aged-women-quit-smoking-england-study",
-   "image": "https://i.guim.co.uk/img/media/ba552a1b57408ce45632af7702e5886772f0e0fb/354_0_2504_2004/master/2504.jpg?width=140&quality=85&auto=format&fit=max&s=610676c92f7ab90919ef3d20aab6b8c2",
-   "published_at": "2026-11-25T01:00:01Z",
+   "url": "https://www.theguardian.com/world/live/2026/nov/25/ukraine-russia-energy-strikes-mark-rutte-donald-trump-friedrich-merz-germany-latest-news-updates",
+   "image": "https://i.guim.co.uk/img/media/621e93b6debd15c2bb0ba21a27a32b9d2d861391/400_106_1200_960/master/1200.jpg?width=140&quality=85&auto=format&fit=max&s=5c33a0c896355061a8862fcf26f2bd15",
+   "published_at": "2026-11-25T12:27:23Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "dad1a10a86cc9ab41d50bc43a5399bd13f8cb2f0",
-   "title": "One lame duck and two turkeys as Trump plays the hits at Thanksgiving ceremony",
+   "id": "c7d3f2302a2528f83b4c35420891f25813628376",
+   "title": "Badenoch quizzes Burnham at PMQs over tuition fee bill in deal with EU – UK politics live",
    "summary": [
-    "Levity was in short supply as president, reeling from midterms rout, talked up his achievements – and fixated on White House vanity projectFor some, it was his pardoning of the January 6 rioters or the deployment of masked ICE agents.",
-    "For others, it was Elon Musk’s chainsaw or the demolition of the White House East Wing.Donald Trump’s second term as US president has been full of moments when people exclaim: this is the last straw!"
+    "The prime minister says the government is bringing forward legislation for the three deals announced last weekDiane Taylor is a Guardian reporter who covers migration.Britons get many of the facts about migration wrong and Reform UK voters are the group who get these facts most wrong, according to new research published today by King’s College University and YouGov.Among Reform UK supporters, 57% think net migration rose significantly in the year to June 2025, compared with 11% of Labour supporters and 8% of Greens.",
+    "Eight in 10 Reform supporters think that asylum seekers are prioritised for social housing, compared with 21% of Green supporters.It is wrong to believe that if we could only correct misperceptions, we would automatically reduce concerns about immigration or policy preferences – because that misdiagnoses a large part of the cause, that these divides are partly driven by deep differences in values and identity."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/24/donald-trump-turkey-pardon",
-   "image": "https://i.guim.co.uk/img/media/21c1fb3fad0eb8774dc514e74b1af43de6914a3f/307_0_3817_3053/master/3817.jpg?width=140&quality=85&auto=format&fit=max&s=9b445b32e3b82532d6b817a5b3e0abd7",
-   "published_at": "2026-11-25T00:56:48Z",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates",
+   "image": "https://i.guim.co.uk/img/media/5e2fbc762464a19542483cce1a3c418a4b1b1994/310_0_4676_3743/master/4676.jpg?width=140&quality=85&auto=format&fit=max&s=d6446463cd080ea39a8a1b8c61f5664b",
+   "published_at": "2026-11-25T12:26:59Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "a58808d0bc1080c77cd0285e6c7e88996520edd3",
-   "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+   "id": "3041c87f92447b8fb7f4f4e3142127981b166888",
+   "title": "Longtime Lions owner Martha Firestone Ford dies at age 101",
    "summary": [
-    "Article URL: https://greydanus.github.io/2026/11/12/pengpt/ Comments URL: https://news.ycombinator.com/item?id=50637056 Points: 28 # Comments: 1"
+    "Martha Firestone Ford, who served as the primary owner of the Lions from 2014 to 2020, has died at the age of 101, the team announced Tuesday night."
    ],
-   "source": "Hacker News",
-   "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+   "source": "ESPN",
+   "url": "https://www.espn.com/nfl/story/_/id/50588773/long-lions-owner-martha-firestone-ford-dies-age-101",
    "image": null,
-   "published_at": "2026-11-25T00:54:49Z",
-   "category": "tech",
+   "published_at": "2026-11-25T12:26:16Z",
+   "category": "sports",
    "related": []
   },
   {
-   "id": "f36032e8e12fe7b130d4d855015d0920dd70e332",
-   "title": "Gunmen hold dozens hostage in Colombia supermarket",
+   "id": "0ace05fabf65633933d00ae9fd75d3795c9d7764",
+   "title": "Veteran Nigerian Nollywood actor Pete Edochie dies aged 79",
    "summary": [
-    "A group of armed men is holding around 20 people hostage in Cartagena, Colombia."
+    "Odochie rose to prominence in 1987 after starring in a television adaptation of Chinua Achebe's acclaimed novel Things Fall Apart."
    ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/gunmen-hold-dozens-hostage-in-colombia-supermarket?traffic_source=rss",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-25T00:49:35Z",
+   "published_at": "2026-11-25T12:24:12Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "a5c3c1aa9c5745471f681c38b32b8f77a5034e0c",
-   "title": "What will Victoria’s election result mean for nine datacentre projects awaiting approval?",
+   "id": "1761d781951d50eeacf4932dd04173db3411377c",
+   "title": "End beckons for Aaron Rodgers as Steelers bench struggling QB days before 43rd birthday",
    "summary": [
-    "Despite community backlash, some firms are confident they will get the green light as Coalition says datacentres ‘will be an important part of Victoria’s future’Follow our Australia politics live blog for latest updatesGet our breaking news email, free app or daily news podcastNine datacentre projects are seeking approval in Victoria as the state heads to the polls, and despite growing community backlash some companies remain confident their projects will be greenlighted after Saturday’s election.With opinion polls predicting the Coalition will win power from the 12-year-old Labor government, questions remain over whether the Liberal and National parties’ datacentre policy will apply to existing applications."
+    "Four-time MVP will be inactive for Friday’s gamePittsburgh have lost two straight to fall to 6-4Mike McCarthy had backed Rodgers a day earlierThe Pittsburgh Steelers have benched four-time NFL MVP Aaron Rodgers and will start Mason Rudolph against the Denver Broncos on Friday, a move that could end one of the greatest quarterback careers in history.Rodgers will be inactive for the game, the Steelers said in a statement late on Tuesday night."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/24/nine-datacentre-projects-awaiting-approval-victoria-election",
-   "image": "https://i.guim.co.uk/img/media/ebf80a137710c357384cc02438532169c1f2986a/498_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=3b89e28e5ba5e8144ba48afc19a8cdcb",
-   "published_at": "2026-11-25T00:42:17Z",
+   "url": "https://www.theguardian.com/sport/2026/nov/25/steelers-bench-aaron-rodgers-mason-rudolph-broncos-nfl",
+   "image": "https://i.guim.co.uk/img/media/ebcbb11636b198edb4c11027ba2533c1e0ac04cc/642_142_4475_3580/master/4475.jpg?width=140&quality=85&auto=format&fit=max&s=3587cf17aab267c3d9e7befe27bbfd54",
+   "published_at": "2026-11-25T12:23:53Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "202466dd87782b567b2914589a1a9c7bd7c7f079",
+   "title": "Mills an inspiration for Olympics hope Nieuwland",
+   "summary": [
+    "Aspiring Welsh sailor Merle Nieuwland hopes to follow in double Olympic champion Hannah Mills' wake after world success at junior level."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/sailing/articles/c980r32kyy5o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T12:23:41Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "a7bccb235d3fe55c24073c445d0a16a59ff25ddd",
+   "title": "Hillsborough law ‘could leave families without vital legal funding after a death’",
+   "summary": [
+    "Campaigners say current draft of public office bill would deny bereaved families early access to representationThe current draft of the Hillsborough law will leave families without funding in the early stages following a death when legal advice and support are critical, ministers have been warned.The public office (accountability) bill, for which families of victims of the Hillsborough disaster have long campaigned, puts a duty of candour on public officials and is intended to address the inequality of arms between bereaved people and the public bodies from whom they are seeking answers."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/law/2026/nov/25/hillsborough-law-families-funding-deaths-legal-aid",
+   "image": "https://i.guim.co.uk/img/media/81a73845c8c737758c669d932981ada583960049/9_0_2981_2386/master/2981.jpg?width=140&quality=85&auto=format&fit=max&s=b6d764aea1bf61f3a11327ddab373934",
+   "published_at": "2026-11-25T12:22:02Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "738443e67a1f4864b2fbaf82f6d91d95487cef00",
-   "title": "US preparing to unveil new tariffs on global trading partners",
+   "id": "3cc4786f8522ae83bef99443853d63dfffe0ba81",
+   "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
    "summary": [
-    "The new levies would hit many of America's biggest trading partners, including China and the EU."
+    "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia."
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-25T00:38:01Z",
-   "category": "business",
+   "published_at": "2026-11-25T12:21:49Z",
+   "category": "world",
    "related": []
   },
   {
-   "id": "2846c992d67be02402c831dbc094f16f42744fc6",
-   "title": "Here in the World: Letters of Albert Camus, 1944–1959",
+   "id": "0f7af8237d9368284166cd1473a47d7bfbcc2d7b",
+   "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
    "summary": [
-    "Article URL: https://literaryreview.co.uk/here-in-the-world Comments URL: https://news.ycombinator.com/item?id=50636925 Points: 18 # Comments: 0"
-   ],
-   "source": "Hacker News",
-   "url": "https://literaryreview.co.uk/here-in-the-world",
-   "image": null,
-   "published_at": "2026-11-25T00:36:43Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "d9b574b1060964c7217d7ea5ac16a97b96f5437a",
-   "title": "Why tiny cars are taking off across Europe",
-   "summary": [
-    "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic."
+    "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm."
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-25T00:34:05Z",
-   "category": "tech",
+   "published_at": "2026-11-25T12:20:17Z",
+   "category": "world",
    "related": []
   },
   {
-   "id": "2ac0110630ec60f56ed6e876f22b2d77437eda57",
-   "title": "What will the energy cap changes mean for my bills?",
+   "id": "e8287116189543ccba1a963326a4aeb31e2d1864",
+   "title": "Army to detonate tons of lead azide after delays. And, Abrego Garcia leaves U.S.",
    "summary": [
-    "Regulator Ofgem is raising the cap affecting the energy bills of millions of households."
+    "Authorities have evacuated a 5-mile radius to prepare to dispose of thousands of pounds of lead azide.",
+    "And, after a nearly two-year legal battle, Kilmar Abrego Garcia's has voluntarily left the U.S.(Image credit: Scott Olson)"
    ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/25/g-s1-155493/up-first-newsletter-iowa-detonation-kilmar-abrego-garcia-nvidia-jensen-huang",
    "image": null,
-   "published_at": "2026-11-25T00:33:25Z",
-   "category": "business",
+   "published_at": "2026-11-25T12:18:09Z",
+   "category": "world",
    "related": []
   },
   {
-   "id": "ca95e967b79f79705cb6737bd36337ac39309794",
-   "title": "US army to detonate 68 barrels of toxic lead in Iowa on day before Thanksgiving",
+   "id": "ce3d5df3befb05f9e6bea86c040df4c37af045eb",
+   "title": "Trump says pardon for Nvidia boss Huang ‘always an option’ after accusations of breaking export laws – US politics live",
    "summary": [
-    "Residents warned to stay indoors amid conflicting information about how far the dust plume could travelThe US Army is set to detonate 68 barrels – five tons – of lead azide at an ammunition plant in rural Iowa on Wednesday morning, after delays and conflicting information about how far the toxic lead dust plume could travel after the explosion.That controlled blast has been scheduled for 10am ET on Wednesday, the day before the Thanksgiving holiday."
+    "The US president urged the tech leader to ‘tell the truth’ in upcoming testimony in a Senate hearingSign up for the Breaking News US email to get newsletter alerts in your inbox⁠Nine additional ⁠children have ⁠been reunited ​with their ⁠families amid ⁠the ​war ‌in ‌Ukraine, bringing the ‌total to 43 amid an ‌effort led by ​US first lady Melania ⁠Trump, the ​White House ​said.“Children in this region of the world, like children everywhere, cannot possibly understand why geography and government have put them into the horrors of war,” the first lady said in a statement shared first with the Associated Press."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/24/us-army-iowa-detonation",
-   "image": "https://i.guim.co.uk/img/media/e3fa562acd41fbc234a6b388803319c9032cc73c/0_0_5418_4335/master/5418.jpg?width=140&quality=85&auto=format&fit=max&s=1b942f417d02d1f5e8969b291e00769a",
-   "published_at": "2026-11-25T00:33:16Z",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
+   "image": "https://i.guim.co.uk/img/media/b81ae5a9f6ca550652434eefe1adae4209abd469/181_0_3334_2668/master/3334.jpg?width=140&quality=85&auto=format&fit=max&s=34726bbffd4777a0dcfd19f1ba78c125",
+   "published_at": "2026-11-25T12:15:46Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "17167cee091869d7efb02ca43825a57f17416180",
+   "title": "Democrats say Trump risked US security over Nvidia as Huang apologises | First Thing",
+   "summary": [
+    "Reinstated CEO tells staff ‘I made some terrible mistakes’, as questions remain over chips-to-China accusations.",
+    "Chuck Schumer has accused Jensen Huang, the newly reinstated Nvidia CEO, of shipping “extremely advanced chips to China” and violating US export control laws.",
+    "On Tuesday, the senator said the move “amounts to the equivalent of selling rocket engines to the Soviets during the space race”, adding: “This is an unfathomable failure of enforcement by the Trump administration.”What did Huang say to Nvidia staff on his return?"
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/25/first-thing-democrats-trump-risked-us-security-nvidia-huang-apologises",
+   "image": "https://i.guim.co.uk/img/media/bd465fbbb9b4468832ef8838dd41b9325e351461/283_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=d1d514c50cad44391a1e342e2be9b845",
+   "published_at": "2026-11-25T12:14:52Z",
    "category": "world",
    "related": []
   },
@@ -405,420 +324,493 @@
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-25T00:30:52Z",
+   "published_at": "2026-11-25T12:12:11Z",
    "category": "business",
+   "related": []
+  },
+  {
+   "id": "fa9936bc006e9154823afcea69899fcaa5ce7989",
+   "title": "How will Packers use Micah Parsons in return from torn ACL?",
+   "summary": [
+    "Parsons and the Packers must balance protecting his surgically repaired knee with turning him loose Wednesday."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/nfl/story/_/id/50582759/micah-parsons-packers-acl-return-snap-count-rams",
+   "image": null,
+   "published_at": "2026-11-25T12:10:48Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "f0c0f258d105bdf9d2c41cdadde4ddee77bbd268",
+   "title": "Has Puka Nacua played his final snaps in a Rams uniform?",
+   "summary": [
+    "It is the final season of Nacua's rookie deal, and the complicating factors of signing him to an extension are glaring."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/nfl/story/_/id/50574387/puka-nacua-injury-last-season-los-angeles-rams-week-12",
+   "image": null,
+   "published_at": "2026-11-25T12:10:48Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "3a770723c7f5ccb16a0d882bb3eea7b0e5d8bd40",
+   "title": "Dortmund draw shows that the jury is still out on Gyökeres",
+   "summary": [
+    "Brought in to provide the cutting edge that Arsenal needed up front, it's games like Tuesday's draw with Dortmund that show why Viktor Gyökeres continues to divide opinion."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/soccer/story/_/id/50586544/arsenal-champions-league-dortmund-jury-viktor-gyokeres",
+   "image": null,
+   "published_at": "2026-11-25T12:06:06Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "76da5c17de92b380842117fa23b2238cc0413a54",
+   "title": "Champions League recap: Arsenal drop points vs. Dortmund, Madrid go top",
+   "summary": [
+    "Borussia Dortmund earned a crucial point away at Arsenal, while Real Madrid got an easy win over PSV on the first day of Matchday 5 of the UEFA Champions League."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/soccer/story/_/id/50574152/uefa-champions-league-live-updates",
+   "image": null,
+   "published_at": "2026-11-25T12:06:06Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "f5ec469007bf4cc371d323536777fe83673de35f",
+   "title": "Another U.S.-held Copa América? Great for USMNT, but not South America",
+   "summary": [
+    "For the third time in 12 years, the Copa América will be held in the U.S. That's exciting for the USMNT but it robs South America of the game it loves."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/soccer/story/_/id/50583713/us-host-copa-america-2028-usmnt",
+   "image": null,
+   "published_at": "2026-11-25T12:05:51Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "22f20c78a0201e17dab4725c3e021e7e2fe5b4d3",
+   "title": "Women's World Cup's 2031 return shows how game has grown",
+   "summary": [
+    "Women's soccer was forever changed when the U.S. hosted the 1999 World Cup.",
+    "With it returning in 2031, ESPN charts the game's explosive growth."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/soccer/story/_/id/50576097/us-host-2031-womens-world-cup",
+   "image": null,
+   "published_at": "2026-11-25T12:05:51Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "e660fb54fcc7259b9962cd90eea46f82a68cde46",
+   "title": "'I use a bowl to wash myself and I'm £400 in debt - energy price rise scares me'",
+   "summary": [
+    "A woman already in energy debt says her anxiety is \"through the roof\" over further cost increases."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmly7q7zk77po?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T12:05:29Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "fe37247e4b0342c713ca0bd57dfc46172715fb8c",
+   "title": "Murrell flourishing at high-flying Falkirk after 'random' move",
+   "summary": [
+    "Jacob Murrell took a big step out of his comfort zone leaving the United States for Falkirk and is enjoying a blistering run of form in Scotland, if not the food."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/articles/c6792q7gzeg8o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T12:03:34Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "a7793a13c12f0753a415d1d755acb0986207d624",
+   "title": "Which USMNT players could follow Pochettino to Manchester United?",
+   "summary": [
+    "Man United are a mess, but could Mauricio Pochettino turn to any of his former USMNT players to help pull the Red Devils out of the relegation zone?"
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/soccer/story/_/id/50573929/usmnt-players-pochettino-manchester-united",
+   "image": null,
+   "published_at": "2026-11-25T12:02:56Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "14349ddb6c7fe5b366578da32fdadd326f2c34b0",
+   "title": "Transfer rumors, news: Man United's Bruno Fernandes wanted by Juventus",
+   "summary": [
+    "Manchester United captain Bruno Fernandes, who is out of contract at the end of the season, is a target for Juventus."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/soccer/story/_/id/50591059/transfer-rumors-news-manchester-united-fernandes",
+   "image": null,
+   "published_at": "2026-11-25T12:02:56Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "cfec3197055d510c7398f49cb6186a44ccf35f54",
+   "title": "Wysh List: Turkey, stuffing ... and anxiety? The NHL teams most worried about playoff position",
+   "summary": [
+    "Teams in playoff position on the holiday tend to stay there (77.1% since 2013-14)."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/nhl/story/_/id/50587368/nhl-2026-27-playoffs-standings-all-32-thanksgiving-panic-index-rankings-tiers",
+   "image": null,
+   "published_at": "2026-11-25T12:00:54Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "208c6fe35cc5f2404ba5c22874e5f73e8d07a32d",
+   "title": "Why Alexis Lafreniere's breakout brings Rangers hope ... for 2026-27 and beyond",
+   "summary": [
+    "The 2020 first overall pick has had ups and downs in his development, but he leveled up this season."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/nhl/story/_/id/50585269/nhl-2026-27-new-york-rangers-alexis-lafreniere-breakout-draft-stats-playoffs",
+   "image": null,
+   "published_at": "2026-11-25T12:00:54Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "643f4a12f6b94cbed7a62da6e914abcb85b00547",
+   "title": "Hazel (YC W24) Is Hiring a Product Designer",
+   "summary": [
+    "Article URL: https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract Comments URL: https://news.ycombinator.com/item?id=50641323 Points: 0 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract",
+   "image": null,
+   "published_at": "2026-11-25T12:00:34Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "4a69bcaac460ff641a4cd43d412f231e2e035fa8",
+   "title": "Will Hajime Moriyasu get a high-profile job in Europe after his eight years in charge of Japan?",
+   "summary": [
+    "Instead he left this month, after 113 games in charge during which Japan became a global force to be reckoned with, even if there are those who think he underdelivered."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/25/hajime-moriyasu-leave-japan-world-cup-samurai-blue",
+   "image": "https://i.guim.co.uk/img/media/44cb93c9a1b2318c9313a452106a1436ad5e30b0/345_0_4804_3843/master/4804.jpg?width=140&quality=85&auto=format&fit=max&s=316c33bb3a17995ea8394106644ba1e6",
+   "published_at": "2026-11-25T12:00:26Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "b3751981f193d42fd47d19dd95258d6da2f3f967",
+   "title": "Twickenham confident pitch can take six games in three days for Nations Championship",
+   "summary": [
+    "It comes complete with a reservoir that can hold 1.4m litres of water below it – which can be reused using nanobubble technology – and was grown in Scunthorpe before being transported to south-west London."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/2026/nov/25/twickenham-confident-pitch-can-take-six-games-in-three-days-for-nations-championship-rugby-union",
+   "image": "https://i.guim.co.uk/img/media/ebde9a7e50de2f50e5c40eaa8a0b6052cf4a6088/693_125_4633_3706/master/4633.jpg?width=140&quality=85&auto=format&fit=max&s=89e3c69828cfebd25403da31289cc75a",
+   "published_at": "2026-11-25T12:00:25Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "7c79855a636e1d15031e0e4ea7cb834738fbc11d",
+   "title": "Bracketology: Has the bubble already burst for Kansas, Stanford?",
+   "summary": [
+    "It's early, but despite the expanded field, time might already be running out on teams like Kansas and Stanford."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/espn/feature/story/_/id/30423107/ncaa-women-bracketology-2027-women-college-basketball-projections",
+   "image": null,
+   "published_at": "2026-11-25T11:59:53Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "af73bf29dced233d74b6de747cb7849af82c732d",
+   "title": "Women's Feast Week guide: South Carolina without Joyce Edwards roundly defeats UConn",
+   "summary": [
+    "The top nonconference matchups over the next week also South Carolina's win over UConn on Tuesday."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/womens-college-basketball/story/_/id/50513465/2026-womens-feast-week-thanksgiving-tournament-schedule",
+   "image": null,
+   "published_at": "2026-11-25T11:59:53Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "81d34006bcd54736d4c80452cf07451ac150bb36",
+   "title": "UK embassy in Japan warns of rise in drink spiking and credit card fraud at Tokyo bars",
+   "summary": [
+    "Social media campaign fronted by British rapper Shao Dow advises tourists not to let their guard downThe British embassy in Tokyo has launched a social media campaign warning visitors to exercise caution after a rise in cases of drink-spiking and credit card fraud against tourists in the Japanese capital.In a recent clip made in conjunction with the embassy, the British rapper and manga artist Shao Dow, a frequent visitor to Japan, notes that although the country “is incredibly safe, that doesn’t mean you can let your guard down”."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/25/british-embassy-tokyo-warning-tourists-drink-spiking-credit-card-fraud",
+   "image": "https://i.guim.co.uk/img/media/9f4ad69a7c2842c8d7b083f6f6d5e6fb55a96e3a/0_0_7920_6336/master/7920.jpg?width=140&quality=85&auto=format&fit=max&s=be19aa86367c1f0c56cc82c12fbf3d6f",
+   "published_at": "2026-11-25T11:59:22Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "60385ebbe821239365b8a12e307334b8053f105b",
+   "title": "Overnight RSF drone attacks kill 19 in Sudan",
+   "summary": [
+    "The attacks on Blue Nile State also injured at least 20 people – in a drone war that is quickly escalating."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/25/overnight-rsf-drone-attacks-kill-19-in-sudan?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-25T11:58:15Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "8a95b58533f0ea60a3282cdaf4386550c80c7251",
+   "title": "Bracketology: Houston, the new No. 1 overall seed, is chasing history",
+   "summary": [
+    "Kelvin Sampson's legacy is secure, and if the Players Era 8 was any indication, the Cougars are serious about that elusive national title."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/espn/feature/story/_/page/bracketology/ncaa-bracketology-2027-march-madness-men-field-predictions",
+   "image": null,
+   "published_at": "2026-11-25T11:57:58Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "d66e9e8b9ac7252f8e4d956074bf247626f36ca9",
+   "title": "Men's Feast Week guide: Analyzing Players Era 16 results, Maui Invitational semis",
+   "summary": [
+    "TCU and Louisville were among the biggest winners on Tuesday."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/mens-college-basketball/story/_/id/50575102/feast-week-matchups-analysis",
+   "image": null,
+   "published_at": "2026-11-25T11:57:58Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "0e9b366f891e1ebd5a6f444d660e5ee529af8197",
+   "title": "Aaron Rodgers benched? Barnwell answers four big questions about the Steelers' shocking decision",
+   "summary": [
+    "The Steelers are starting Mason Rudolph this week over Aaron Rodgers.",
+    "Why make this change now -- and will it help?"
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/nfl/story/_/id/50589984/aaron-rodgers-benched-steelers-quarterback-rudolph-week-12",
+   "image": null,
+   "published_at": "2026-11-25T11:55:42Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "c18c3424044f5f6a2c0d0bfcc0b0d75739fb2fda",
+   "title": "Latest NFL buzz: Fits for Daniel Jones, Brandon Aiyuk? Still no head coach changes?",
+   "summary": [
+    "Where could Daniel Jones and Brandon Aiyuk land?",
+    "What's the latest on coaching hot seats?",
+    "And who is getting MVP love in league circles?"
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/nfl/story/_/id/50582929/week-12-buzz-fantasy-predictions-graziano-fowler-2026",
+   "image": null,
+   "published_at": "2026-11-25T11:55:42Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "f8b6c4e444455c54d11238f522769584b61ee54b",
+   "title": "Guide to the NFL's Thanksgiving schedule: Matchup previews, predictions, picks and nuggets",
+   "summary": [
+    "We have the top storylines, bold predictions, stats to know, fantasy/betting nuggets and more for four Wednesday and Thursday games in Week 12."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/nfl/story/_/id/50582822/thanksgiving-games-picks-schedule-fantasy-odds-2026",
+   "image": null,
+   "published_at": "2026-11-25T11:53:16Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "37fee308728c157b474ea15190199b25178287ca",
+   "title": "Brindle stands down as Wales women's coach",
+   "summary": [
+    "Tom Brindle steps down as Wales women's rugby league coach after five years in charge."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cm0evpdqzl32o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T11:50:53Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "c1bef4db0ae93495d396189b83a5b275cda000ec",
+   "title": "Ex-England star Sterling given suspended sentence for dangerous driving",
+   "summary": [
+    "Raheem Sterling admitted inhaling 'laughing ⁠gas' and driving erratically before ​crashing his car."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/11/25/ex-england-star-sterling-given-suspended-sentence-for-dangerous-driving?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-25T11:50:52Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "a7b7e0dc94902d3816fc57cbd2c7bf2cb2347773",
+   "title": "Fire breaks out following drone strikes on a residential area in Al Damazin",
+   "summary": [
+    "Flames seen engulfing a house in Sudan’s Blue Nile state, following a large-scale drone strike carried out by the RSF."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/fire-breaks-out-following-drone-strikes-on-a-residential-area-in-al-damazin?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-25T11:50:50Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "7044fe44c18fed4299cd70e0a516840cd260da15",
+   "title": "General Synod could vote to ban C of E clergy from supporting Restore Britain",
+   "summary": [
+    "Exclusive: Private members’ motion comes amid concern about Christian symbols being appropriated by the far rightChurch of England clergy could be banned from joining or supporting the hard-right Restore Britain party under a motion put forward for debate at the General Synod.The move is an attempt to replicate the decision by bishops 17 years ago prohibiting clergy from belonging to or supporting the British National party, declaring its policies incompatible with church teaching on racial equality."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/25/general-synod-ban-church-of-england-clergy-support-restore-britain",
+   "image": "https://i.guim.co.uk/img/media/839a6dbb59551038bdcdee9376e63e28684fb809/1386_0_7023_5618/master/7023.jpg?width=140&quality=85&auto=format&fit=max&s=7f3c0e1a1aca2610aac2501df6182f3f",
+   "published_at": "2026-11-25T11:48:12Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "d39a7dd633c7908058d48d734f87db7f1d052a4e",
+   "title": "Ice hockey federation appeals against Russia ban ruling",
+   "summary": [
+    "The International Ice Hockey Federation (IIHF) will appeal to the Swiss Federal Tribunal against a Court of Arbitration for Sport (Cas) ruling to reinstate Russia in next year's World Championship."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/ice-hockey/articles/cmy49n7pyl0yo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T11:47:34Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "51c7e06fd42ec1d7b215f5f1a78a75a48d603ffd",
+   "title": "Who's on the CFP bubble after the committee's fourth ranking?",
+   "summary": [
+    "A conference-by-conference look at which teams are contending for the playoff, who's close and who's out."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/college-football/story/_/id/50575185/cfp-playoff-2026-bubble-watch-week-fourth-ranking",
+   "image": null,
+   "published_at": "2026-11-25T11:46:56Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "ad64ebfefa61a983c463a5064c31863b4bc502fc",
+   "title": "Anger Index: Indiana, Alabama and Oregon should have beef with CFP rankings",
+   "summary": [
+    "Ranking the teams that should be most upset with the latest CFP rankings."
+   ],
+   "source": "ESPN",
+   "url": "https://www.espn.com/college-football/story/_/id/50582371/cfp-ranking-2026-anger-index-week-12",
+   "image": null,
+   "published_at": "2026-11-25T11:46:56Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "510234d634caf7537b6a4bb58cc2af4988b957a0",
+   "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
+   "summary": [
+    "One gunman was killed in the operation to free around 20 shoppers and employees after a 17-hour hostage ordeal."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T11:45:16Z",
+   "category": "world",
    "related": []
   },
   {
    "id": "b9a6c473148d4607ab810befb37284e60a71201a",
-   "title": "Households braced for soaring energy bills with new price cap to be announced",
+   "title": "Energy bills to rise by 26% from January after gas prices surge",
    "summary": [
-    "Domestic gas prices will rise significantly in January under regulator Ofgem's new price cap."
+    "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year."
    ],
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-25T00:29:58Z",
+   "published_at": "2026-11-25T11:44:26Z",
    "category": "business",
    "related": []
   },
   {
-   "id": "9b23b2f300ac4d34465bd4ab82d0961ee7cfc947",
-   "title": "Alaska ends deal to give voter records to US Justice Department",
+   "id": "3fb00ba3a13cc44c87c43a4c3628b1550c3ed4e2",
+   "title": "Sinner uncertain for Australian Open after undergoing knee surgery",
    "summary": [
-    "The decision follows the conclusion of the 2026 midterm elections and an effort under Trump to gather state voter rolls."
+    "The five-time Grand Slam champion has not played a match since winning Wimbledon in July."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/25/alaska-ends-deal-to-give-voter-records-to-us-justice-department?traffic_source=rss",
+   "url": "https://www.aljazeera.com/sports/2026/11/25/sinner-uncertain-for-australian-open-after-undergoing-knee-surgery?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-25T00:28:28Z",
+   "published_at": "2026-11-25T11:42:02Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "d6a3974a1a3c345c876adefdbde2272f3b3c0426",
-   "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+   "id": "ee51cd5324dfe267a6cef86d636e4facb51a4d13",
+   "title": "After Brexit, is Britain heading back to the EU?",
    "summary": [
-    "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the que"
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
-   "image": null,
-   "published_at": "2026-11-25T00:12:02Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "692527926c42fa00d9ab11f2555e44dc3a065240",
-   "title": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
-   "summary": [
-    "Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that has been accused of illegally diverting Nvidia chips to China."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
-   "image": null,
-   "published_at": "2026-11-25T00:10:27Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "e34c172951d9f6742671bf7cec7959bd460b2515",
-   "title": "Latest review of Met police culture finds little has changed since last one",
-   "summary": [
-    "Failure to implement previous reports means institutional racism, misogyny and homophobia still present in forceMetropolitan police still institutionally racist and misogynist, says reportFrom the Stephen Lawrence inquiry in 1999 to Louise Casey’s landmark review in 2023, successive reports on the Metropolitan police have arrived at the same damning conclusion: Britain’s largest police force is institutionally racist.It will, therefore, come as little surprise that three years after Casey’s report, an independent review led by Gillian Fairfield has found that institutional racism, misogyny and homophobia persist within the force."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/25/latest-review-of-met-police-culture-finds-little-has-changed-since-last-one",
-   "image": "https://i.guim.co.uk/img/media/67f6b8205eaf39a5b94cbd9b3456ef299091da0f/605_0_3218_2574/master/3218.jpg?width=140&quality=85&auto=format&fit=max&s=ab3f8a45a7d4882771b0de0e4a93adb0",
-   "published_at": "2026-11-25T00:01:02Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "b319a6cc7b567d33b32be31c95196f432f4ced9f",
-   "title": "UK to launch world’s first licensing scheme for knife sales",
-   "summary": [
-    "Exclusive: Measures aimed at tackling grey market sellers known to sell dangerous knives to childrenMinisters will introduce the world’s first licensing scheme for businesses and private individuals selling all types of knives including cutlery, the Home Office announced on Wednesday.In a drive to fulfil the government’s pledge to halve knife crime within 10 years, shops and online vendors selling butter knives or machetes will be expected to apply for a licence or face fines."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/25/uk-knife-sales-licensing-scheme",
-   "image": "https://i.guim.co.uk/img/media/e94bf5ba5d5beca7dddc4a23c12e0c25dbf9e3a5/644_0_6440_5152/master/6440.jpg?width=140&quality=85&auto=format&fit=max&s=07ca8cb13e6345fa0e51771887d5ee77",
-   "published_at": "2026-11-25T00:01:01Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "10e235271d91c07c792ed267382d565d1f7c459f",
-   "title": "Metropolitan police still institutionally racist and misogynist, says report",
-   "summary": [
-    "Independent review finds force has ‘fundamental systemic issues’ three years after damning report on Sarah Everard murderLatest review of Met police culture finds little has changed since last oneThe Metropolitan police remain institutionally racist, misogynistic and homophobic three years after a damning review into the force’s culture, a report has found.The investigation by Gillian Fairfield found “fundamental, systemic issues” and “institutional defensiveness” still existed in Britain’s biggest police force, which has struggled “to acknowledge racism as a structural problem”."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/25/metropolitan-police-institutionally-racist-misogynist-fairfield-report",
-   "image": "https://i.guim.co.uk/img/media/32a53d47c4e69c1cee3b77ce1cb76cd8bec7c202/541_0_5408_4326/master/5408.jpg?width=140&quality=85&auto=format&fit=max&s=8b216ce7b1480d11bb4a41157bb296ff",
-   "published_at": "2026-11-25T00:01:01Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "075b5e76de36e98596d5a32f2170e0351ba6c26d",
-   "title": "England has largest frailty gap out of 31 countries, study finds",
-   "summary": [
-    "People from lowest socioeconomic group in all countries studied had higher frailty scores than those in highest socioeconomic groupEngland has the largest gap between higher and lower socioeconomic groups when it comes to frailty compared with 30 other countries, a major study has found.The research, led by academics at King’s College London and published in BMC Medicine, looked at levels of frailty in 71,703 people from 31 countries including England, the US, China, France, Italy, the Netherlands, Sweden, Greece, Cyprus, Latvia and Lithuania."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/society/2026/nov/25/england-has-largest-frailty-gap-out-of-31-countries-study-finds",
-   "image": "https://i.guim.co.uk/img/media/03c099112981b7055e78c51a3d179c98b98545fa/416_0_4158_3327/master/4158.jpg?width=140&quality=85&auto=format&fit=max&s=87d70a9eea9739c2a6b9258259431001",
-   "published_at": "2026-11-25T00:01:01Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "a377586593f391948b456a121d9aa91311f93fc4",
-   "title": "Iran war live: Houthis threaten Saudi ports over coalition’s Hodeidah order",
-   "summary": [
-    "Houthis vow to target Jeddah and other Saudi ports if Hodeidah is hit, after the coalition issues an evacuation order."
+    "A decade after the Brexit vote, a new deal brings Britain and the EU closer, with economic gains for both sides."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss",
+   "url": "https://www.aljazeera.com/video/counting-the-cost/2026/11/25/after-brexit-is-britain-heading-back-to-the-eu?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-25T00:00:00Z",
+   "published_at": "2026-11-25T11:40:51Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "2950f2a773c5bc72297679664510a3eb7d78015d",
-   "title": "Bellingham plays down Zidane comparison after wonder goal",
+   "id": "ffad66169d8c0e00b5c8bc4801142751a343beb8",
+   "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
    "summary": [
-    "Jose Mourinho says Jude Bellingham is the best midfielder in the world, but the Real Madrid star played down comparisons to Zinedine Zidane."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/articles/c893r9kdwl91o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-24T23:54:10Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "ed632e0b8edc4da18a6aead4f9a4582d677a7908",
-   "title": "Kilmar Ábrego García, man at center of Trump deportation battle, leaving US",
-   "summary": [
-    "Salvadorian man, who was deported in March 2025 and returned to US after supreme court ruling, leaving of own volition for SpainKilmar Ábrego García is leaving the United States of his own volition, his lawyers confirmed on Tuesday.Ábrego is leaving the US for Spain on Tuesday evening."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us",
-   "image": "https://i.guim.co.uk/img/media/15d0ddecd877f6d5df4f8e4c21bb5be5961696ea/1245_0_4004_3203/master/4004.jpg?width=140&quality=85&auto=format&fit=max&s=cc50a0643f2aa3990ed51abd6f550f8d",
-   "published_at": "2026-11-24T23:50:31Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "823956b5b8723ce7d10f33bafc6947059ee2de07",
-   "title": "Fort Hood survivors denied bid to witness shooter’s firing-squad execution",
-   "summary": [
-    "Army says trio injured in 2009 attack were not direct victims of Nidal Hasan’s and thus cannot attend eventThree survivors of the shooting at Fort Hood will not be allowed to witness the execution by military firing squad of Nidal Hasan who shot 13 people dead in the attack at the Texas army post in 2009, military officials said Tuesday.Hasan was found guilty of multiple counts of murder and attempted murder related to those killed and the more than 30 who were wounded by gunfire in the attack."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/24/fort-hood-shooting-survivors-execution",
-   "image": "https://i.guim.co.uk/img/media/460deb91b5ac7fce62e4d1f4f42f38496eab4ca7/499_0_2501_2000/master/2501.jpg?width=140&quality=85&auto=format&fit=max&s=354cf3a855241c56470c51a2ad9f6bb5",
-   "published_at": "2026-11-24T23:45:05Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "2b03fed294e961f5930fb8195d36ebedabfeea7c",
-   "title": "Arteta says Arsenal need more luck to kill off games",
-   "summary": [
-    "Arsenal need more luck to kill off games says manager Mikel Arteta after they are held to a draw by Borussia Dortmund."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/articles/c3ewv0kdjlp9o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-24T23:44:04Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "cf451c932a6f102bb43f33a2ebdcdac2c4c08722",
-   "title": "Rebel group retreats in DR Congo after heavy clashes with government forces",
-   "summary": [
-    "CRP halts advance towards Bunia, citing commitments made during Ugandan-mediated talks with government."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-24T23:39:13Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "082cb587f7e85ce97f564290a889a94764c4ccc2",
-   "title": "New nose drops restore youthful memory and fight Alzheimer’s in aging mice",
-   "summary": [
-    "A revolutionary new nasal treatment has restored youthful learning and memory performance in aging mice while preventing severe cognitive decline in mice with Alzheimer’s-like disease.",
-    "Developed using technology similar to COVID-19 mRNA vaccines, the nose drops stimulate production of a brain-protecting protein that strengthens neurons and supports memory.",
-    "Remarkably, the treatment preserved brain function without removing Alzheimer’s-associated plaques, suggesting a completely different way to combat cognitive decline."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261123005337.htm",
-   "image": null,
-   "published_at": "2026-11-24T23:31:52Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "842f4d756cba17933fcd2b0935feaa5224be143c",
-   "title": "South Africa convicts Zimbabwean who tried to fight Ukraine for Russia",
-   "summary": [
-    "The Zimbabwean man was arrested on November 8 at a Johannesburg airport while attempting to board a flight to Russia."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/24/south-africa-convicts-zimbabwean-who-tried-to-fight-ukraine-for-russia?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-24T23:29:40Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "b8fed400bc9e835913d710dcb6148b3aae486be4",
-   "title": "California ‘king tides’ stress test San Francisco as low-lying areas flood",
-   "summary": [
-    "Monthly tide records were set across the city, with some expected to hit even higher tomorrowExplainer: What to know about flooding in California over ThanksgivingCalifornia is grappling with the stress test of record-high or close to record-high November tides up and down the coast this week, with flooding of low-lying roadways in San Francisco and an evacuation of one community in northern California.Local residents and media outlets shared images of flood waters rushing over the bayfront Embarcadero at the center of San Francisco’s tourist district, and flooded roadways from San Rafael to Redwood Shores, despite blue skies overhead."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/weather/2026/nov/24/california-coast-flooding-thanksgiving-travel",
-   "image": "https://i.guim.co.uk/img/media/80d6a5ade95e2a8670b872bdca5972b45f0d2f71/335_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=1e13751c3be8101548ec8af74600c3dd",
-   "published_at": "2026-11-24T23:20:24Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "4ed2110ca700dad69b62b234733df84104280859",
-   "title": "'Pass, pass, slow, slow' - Man City's slick machine grinding to a halt",
-   "summary": [
-    "Manchester City's slick footballing machine is starting to grind to a halt, as displayed in their laborious Champions League draw against Napoli."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cj3vgdp2edpxo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-24T23:17:42Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "82a58d9e877350c96d4fbbdc77cc5e5f7c460329",
-   "title": "Arsenal and Dortmund draw 1-1 as Gyokeres goes from hero to villain",
-   "summary": [
-    "Arsenal dominate the chances as Borussia Dortmund fight back for a 1-1 draw in football's Champions League."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/sports/2026/11/24/arsenal-and-dortmund-draw-1-1-as-gyokeres-goes-from-hero-to-villain?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-24T22:50:16Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "54087032a1e614cc1106c01ac721c9561a937498",
-   "title": "Championship roundup: Boro edge Swansea, West Ham lose at Portsmouth",
-   "summary": [
-    "Having been restored to the starting lineup at the Riverside, the Championship’s leading scorer claimed his 14th league goal of the season to re-establish his side’s lead in the second half after Joseph Opoku’s driven finish had cancelled out Myles Peart-Harris’ opener."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/2026/nov/24/championship-roundup-will-lankshear-middlesbrough-swansea-west-ham",
-   "image": "https://i.guim.co.uk/img/media/f50ab40e01de09d62c34b52d83537d478368311f/63_0_3789_3032/master/3789.jpg?width=140&quality=85&auto=format&fit=max&s=f003eff2f4d87550b28e142c00c449ff",
-   "published_at": "2026-11-24T22:44:08Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "aa80275ffab81c00ee9c8b36748873924b767dae",
-   "title": "Bellingham stunner, Mbappe brace help Real Madrid rout PSV",
-   "summary": [
-    "Real Madrid come from behind to power past PSV Eindhoven with a 5-1 win in football's Champions League."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/sports/2026/11/24/bellingham-stunner-mbappe-brace-help-real-madrid-rout-psv?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-24T22:37:20Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "bc426bbbebd762f2d9ea4c599edf09e0969dae53",
-   "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
-   "summary": [
-    "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
-   "image": null,
-   "published_at": "2026-11-24T22:27:52Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "a2f53bf6956a73a276d07a7a663580ae6d69ee03",
-   "title": "Arsenal 1-1 Borussia Dortmund: Champions League – as it happened",
-   "summary": [
-    "The Bundesliga leaders held the Premier League champions in an open game at the Emirates2 min: Tzolis goes racing down the left.",
-    "But Arsenal come again, Madueke crossing from the right and Tzolis skying a shot over the bar.",
-    "Some good early front-foot stuff from Arsenal.Dortmund get the ball rolling."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/live/2026/nov/24/arsenal-v-borussia-dortmund-champions-league-live",
-   "image": "https://i.guim.co.uk/img/media/660f23d2aaa195000c50877ec19411656cc8b351/637_288_2744_2194/master/2744.jpg?width=140&quality=85&auto=format&fit=max&s=7a3749e742a5cbf60481c40c1f4ae885",
-   "published_at": "2026-11-24T22:27:00Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "45d3d2395492b52eb09e224bd618daae4134629f",
-   "title": "Manchester City 2-2 Napoli, Real Madrid 5-1 PSV: Champions League clockwatch – as it happened",
-   "summary": [
-    "Manchester City were frustrated again while Jude Bellingham inspired Real Madrid to go goal crazy in the second half There’s been a shot on target now, and it’s only gone in!",
-    "It’s from a corner – one of those where the defender ushers the ball out of play thinking he’s about to get a goal-kick only for the fourth official to point to the corner – from which Yilmaz heads goalwards, the ball loops up off Jackson, and Deniz Gul heads it in!",
-    "Not only that, just after he does so he gets volleyed in the face by Nicolas Jackson, who was a bit late in trying to clear the ball.The two early kick-offs are now into their 75th minute, and still none of the four teams have had a shot on target."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/live/2026/nov/24/manchester-city-v-napoli-real-madrid-v-psv-champions-league-clockwatch-live",
-   "image": "https://i.guim.co.uk/img/media/1dbe68e5b267e3563a94f4d29e5e315294b61ff4/293_0_2109_1687/master/2109.jpg?width=140&quality=85&auto=format&fit=max&s=30135f325561d004a82d9f656bd36b36",
-   "published_at": "2026-11-24T22:26:31Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "0daa9ac89fc78ce24df954038b73ed1abf5e23a8",
-   "title": "Pochettino leads Man Utd fury at Yoro red card ruling",
-   "summary": [
-    "Manchester United and Mauricio Pochettino are furious at how Leny Yoro's red card has been handled by VAR John Brooks and referees' chief Howard Webb"
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cqzr5ylmeerlo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-24T22:05:31Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "e298585cdf4bbaf951801422fffa821e5745f2c4",
-   "title": "Tech sell-off resumes as euphoria from Jensen Huang’s Nvidia return subsides",
-   "summary": [
-    "Sell-off signals investors are bracing for further volatility in key AI sector driving economic growth worldwideTechnology shares led a market retreat Tuesday as caution returned after Jensen Huang’s extraordinary return to Nvidia days after he was forced to resign, with investors bracing for further volatility in a key sector driving economic growth worldwide.A day after Huang’s reinstatement as CEO drove Nvidia shares up more than 30%, adding more than $900bn to the firm’s market value, the euphoria dissipated as its stock lost almost 6% by Tuesday’s close."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang",
-   "image": "https://i.guim.co.uk/img/media/ba0b7e2734b3f5675558eff081b376f8f83077b6/479_0_4801_3840/master/4801.jpg?width=140&quality=85&auto=format&fit=max&s=814d34a792f3088b68350ec9f04f70e5",
-   "published_at": "2026-11-24T22:05:21Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "5b690116f4a16e61cca451a082e11810a4d48a75",
-   "title": "Rayan Cherki magic denies Napoli but Manchester City’s struggles continue",
-   "summary": [
-    "For reasons best known to those eyeing the pound signs, Manchester City gave a debut to a special rust-coloured kit in front of a nonplussed crowd.",
-    "Nobody could pretend City were up against crack opposition in a one-paced Napoli, who are eighth in Serie A and lack the brio of old, but they simply cannot keep the door shut and could not have quibbled about departing with a defeat."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/2026/nov/24/manchester-city-napoli-champions-league-match-report",
-   "image": "https://i.guim.co.uk/img/media/1467e2809dfaf6050071198fa1a65e4b7a209165/336_0_2743_2194/master/2743.jpg?width=140&quality=85&auto=format&fit=max&s=712d0beccde4efd185619919cbba2c23",
-   "published_at": "2026-11-24T22:01:51Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "9e125a2b438d38386b81d1d575912a4bb8f3095e",
-   "title": "Dortmund’s Beier halts Arsenal charge after thunderbolt from Gyökeres",
-   "summary": [
-    "For the second time in four days, Mikel Arteta’s side found themselves a goal up at half-time and apparently coasting toward victory, only for their opponents to rouse themselves and earn a deserved draw.",
-    "After Newcastle on Saturday, this time it was an impressive Borussia Dortmund who became only the second side to take points off Arsenal in their past 15 group stage games in this competition.",
-    "The German side had to hang on for a result that gave their travelling fans a night to remember, although Arteta admitted his players must be more clinical when Real Madrid and Jude Bellingham visit north London in a fortnight."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/2026/nov/24/arsenal-borussia-dortmund-champions-league-match-report",
-   "image": "https://i.guim.co.uk/img/media/18f2fd21c98696c091fd67acabf0c30cdac59595/258_0_2325_1860/master/2325.jpg?width=140&quality=85&auto=format&fit=max&s=bb169b7e85159c963b43df5aa6caf30e",
-   "published_at": "2026-11-24T22:01:50Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "135bf6e56ddf1ff027d1b87d30ff04e8bbca75d8",
-   "title": "Todd Blanche declines to confirm if Nvidia’s Jensen Huang was investigated",
-   "summary": [
-    "The US attorney general refused to discuss claims by Donald Trump that his administration conducted a 'thorough' probe."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/24/todd-blanche-declines-to-confirm-if-nvidias-jensen-huang-was-investigated?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-24T22:01:26Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "2fda23c17fe5448a9ba3af13227ac46892d9992b",
-   "title": "Pochettino criticises Premier League officiating after Yoro red card overturned",
-   "summary": [
-    "Manchester United defender wrongly sent off in 4-0 loss‘If we have VAR, what were they doing?’ asks head coachMauricio Pochettino has criticised officiating in English football, saying: “We have an unbelievable car, but we need to be in the level to drive [it],” after Leny Yoro’s Anfield red card was overturned on Tuesday.Despite the Football Association ruling the Frenchman’s early sending-off in Sunday’s 4-0 defeat at Liverpool was “wrongful dismissal”, Manchester United remain furious at the decision, and at Pro Ref, the elite officials’ organisation."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/2026/nov/23/manchester-united-appeal-leny-yoro-red-card-liverpool",
-   "image": "https://i.guim.co.uk/img/media/7a1a4bacec389b5bc1af1db0bec9ad7be7c7dda1/377_76_2758_2206/master/2758.jpg?width=140&quality=85&auto=format&fit=max&s=9a0bb87b496186fdd001f7d172f4cbdf",
-   "published_at": "2026-11-24T21:51:31Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "2ed7b5c78e4dc0512e24c089e33e31a0029eadaf",
-   "title": "Heart attack and stroke risk detectable decades in advance",
-   "summary": [
-    "Article URL: https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance Comments URL: https://news.ycombinator.com/item?id=50635271 Points: 151 # Comments: 61"
+    "Article URL: https://github.com/xoxorwr/pw-loudness-eq Comments URL: https://news.ycombinator.com/item?id=50641171 Points: 43 # Comments: 7"
    ],
    "source": "Hacker News",
-   "url": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance",
+   "url": "https://github.com/xoxorwr/pw-loudness-eq",
    "image": null,
-   "published_at": "2026-11-24T21:51:21Z",
+   "published_at": "2026-11-25T11:34:25Z",
    "category": "tech",
+   "related": []
+  },
+  {
+   "id": "8ace7448fb5e1af99c7f865b3c9695b0b7beb849",
+   "title": "Raheem Sterling avoids jail over reckless driving while using nitrous oxide",
+   "summary": [
+    "His MBE and charitable and foundation work was accepted in mitigation, together with his decision to voluntarily submit to addiction treatment."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/25/raheem-sterling-avoids-jail-reckless-driving-nitrous-oxide-sentence",
+   "image": "https://i.guim.co.uk/img/media/352149c4c0e7d10afd2ec32aeed4f886c2ddeb46/94_76_1259_1007/master/1259.jpg?width=140&quality=85&auto=format&fit=max&s=3511296fdaa7e049a35b96734510ea42",
+   "published_at": "2026-11-25T11:34:10Z",
+   "category": "world",
    "related": []
   }
  ]

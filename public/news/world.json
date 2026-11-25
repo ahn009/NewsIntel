@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-25T02:17:17.879694Z",
+ "generated_at": "2026-11-25T12:37:53.626841Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "ok",
-  "https://www.dawn.com/feeds/pakistan": "ok",
+  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,532 +20,532 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
+  "https://www.espn.com/espn/rss/news": "ok"
  },
  "stories": [
   {
-   "id": "4ae82ad1b702c41fafe23134d48214933c4a339f",
-   "title": "Politics live: Chalmers calls inflation data ‘unwelcome but unsurprising’; government faces rally in parliament over home births",
+   "id": "64a5b65b057facdcf7905ef83b94074aa7222982",
+   "title": "‘Russia wants more than Ukraine,’ Germany’s Merz warns – Europe live",
    "summary": [
-    "At the moment, yes, we want deals, but we want creatives paid properly for their work.",
-    "And the situation that we find ourselves in at the moment is that they’re not.",
-    "They have no control and often no payment for their work."
+    "Among these were 1,000 – the equivalent of a whole regiment – who took their own lives.The documents show how the majority of soldiers come from poorer areas and ethnic minorities, drawn in by high salaries.",
+    "There are also recruits from abroad and even those lured to Russia by offers of jobs.",
+    "But for how long can Vladimir Putin keep this shocking death toll from the Russian people?” Continue reading..."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
-   "image": "https://i.guim.co.uk/img/media/a52577627a519ab236dadaee472b496faaba887d/504_0_6055_4844/master/6055.jpg?width=140&quality=85&auto=format&fit=max&s=deb65e83810f32432421c48c989b2dc3",
-   "published_at": "2026-11-25T01:58:06Z",
+   "url": "https://www.theguardian.com/world/live/2026/nov/25/ukraine-russia-energy-strikes-mark-rutte-donald-trump-friedrich-merz-germany-latest-news-updates",
+   "image": "https://i.guim.co.uk/img/media/621e93b6debd15c2bb0ba21a27a32b9d2d861391/400_106_1200_960/master/1200.jpg?width=140&quality=85&auto=format&fit=max&s=5c33a0c896355061a8862fcf26f2bd15",
+   "published_at": "2026-11-25T12:27:23Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "6e5ef958a13f4c1850ab43d2e42543e33984e6f0",
-   "title": "Australia’s security pact with Solomon Islands a blow to China’s influence in the Pacific",
+   "id": "c7d3f2302a2528f83b4c35420891f25813628376",
+   "title": "Badenoch quizzes Burnham at PMQs over tuition fee bill in deal with EU – UK politics live",
    "summary": [
-    "Anthony Albanese and Matthew Wale sign new treaty as Solomon Islands PM states his country no longer ‘a source of uncertainty and doubt in the region’The Solomon Islands prime minister says the days of his country being an uncertain partner in the Pacific are over as he signed a sweeping agreement to make Australia the primary security partner and limit ties with China.Matthew Wale signed the new treaty with Australia’s prime minister, Anthony Albanese, in Canberra on Wednesday after Solomon Islands earlier this week announced it was terminating a landmark security pact with Beijing."
+    "The prime minister says the government is bringing forward legislation for the three deals announced last weekDiane Taylor is a Guardian reporter who covers migration.Britons get many of the facts about migration wrong and Reform UK voters are the group who get these facts most wrong, according to new research published today by King’s College University and YouGov.Among Reform UK supporters, 57% think net migration rose significantly in the year to June 2025, compared with 11% of Labour supporters and 8% of Greens.",
+    "Eight in 10 Reform supporters think that asylum seekers are prioritised for social housing, compared with 21% of Green supporters.It is wrong to believe that if we could only correct misperceptions, we would automatically reduce concerns about immigration or policy preferences – because that misdiagnoses a large part of the cause, that these divides are partly driven by deep differences in values and identity."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/25/australia-solomon-islands-treaty-blow-to-china-pacific-influence",
-   "image": "https://i.guim.co.uk/img/media/b962796bea53cf339ac44ee52d0043644f41d4b1/450_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=ad8cc8c314fb95ce1ca0c7de3574da2d",
-   "published_at": "2026-11-25T01:51:02Z",
+   "url": "https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates",
+   "image": "https://i.guim.co.uk/img/media/5e2fbc762464a19542483cce1a3c418a4b1b1994/310_0_4676_3743/master/4676.jpg?width=140&quality=85&auto=format&fit=max&s=d6446463cd080ea39a8a1b8c61f5664b",
+   "published_at": "2026-11-25T12:26:59Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "b74d337193cece0a05c315957e2d8e0655b5c5bb",
-   "title": "Inflation rate jumps to 4.9% as Australia’s cost-of-living crisis intensifies",
+   "id": "0ace05fabf65633933d00ae9fd75d3795c9d7764",
+   "title": "Veteran Nigerian Nollywood actor Pete Edochie dies aged 79",
    "summary": [
-    "Figure up from 4.3% annual rate in September and nearly double Reserve Bank’s official target of 2.5%Follow our Australia politics live blog for latest updatesGet our daily political email, free app or daily news podcastSurging fuel costs and the end of electricity rebates have helped drive inflation to 4.9% in the year to October, from 4.3%, as cost-of-living pressures peak in the lead-up to Christmas.Alongside a 6.3% increase in fuel costs last month, the latest figures from the Australian Bureau of Statistics showed electricity prices were 25% higher than a year earlier."
+    "Odochie rose to prominence in 1987 after starring in a television adaptation of Chinua Achebe's acclaimed novel Things Fall Apart."
    ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/25/inflation-rate-australia-october-figures",
-   "image": "https://i.guim.co.uk/img/media/499ada5ed54afcbc41596219521a53ff447827a4/456_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=36f537dbf9f90ebd0d2fadb83678fdc8",
-   "published_at": "2026-11-25T01:42:07Z",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T12:24:12Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "886e6fb7c86dd637d852ca19797a270140571259",
-   "title": "Trump reportedly says he is open to pardoning Jensen Huang ahead of CEO’s planned Senate committee testimony – live",
+   "id": "a7bccb235d3fe55c24073c445d0a16a59ff25ddd",
+   "title": "Hillsborough law ‘could leave families without vital legal funding after a death’",
    "summary": [
-    "He will be awarding the nation’s highest civilian honor to former New York mayor and Trump’s onetime personal lawyer Rudy Giuliani.Trump said last year he would award the medal to Giuliani, two days after his longtime political ally was seriously injured in a car crash."
+    "Campaigners say current draft of public office bill would deny bereaved families early access to representationThe current draft of the Hillsborough law will leave families without funding in the early stages following a death when legal advice and support are critical, ministers have been warned.The public office (accountability) bill, for which families of victims of the Hillsborough disaster have long campaigned, puts a duty of candour on public officials and is intended to address the inequality of arms between bereaved people and the public bodies from whom they are seeking answers."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
-   "image": "https://i.guim.co.uk/img/media/e2c9048100ac242224ecaab5ab387f0209b9e078/0_0_2055_1645/master/2055.jpg?width=140&quality=85&auto=format&fit=max&s=7c96fe8d3625bd5fec8cc0800c0e380c",
-   "published_at": "2026-11-25T01:40:04Z",
+   "url": "https://www.theguardian.com/law/2026/nov/25/hillsborough-law-families-funding-deaths-legal-aid",
+   "image": "https://i.guim.co.uk/img/media/81a73845c8c737758c669d932981ada583960049/9_0_2981_2386/master/2981.jpg?width=140&quality=85&auto=format&fit=max&s=b6d764aea1bf61f3a11327ddab373934",
+   "published_at": "2026-11-25T12:22:02Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "2da9f6ced34b4d02b1ec5b420334f3da07ebf525",
-   "title": "Senegal fans celebrate AFCON legal victory over Morocco",
+   "id": "3cc4786f8522ae83bef99443853d63dfffe0ba81",
+   "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
    "summary": [
-    "Senegal have been reinstated as 2025 AFCON champions after the Court of Arbitration for Sport upheld their appeal."
+    "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T12:21:49Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "0f7af8237d9368284166cd1473a47d7bfbcc2d7b",
+   "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
+   "summary": [
+    "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T12:20:17Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "e8287116189543ccba1a963326a4aeb31e2d1864",
+   "title": "Army to detonate tons of lead azide after delays. And, Abrego Garcia leaves U.S.",
+   "summary": [
+    "Authorities have evacuated a 5-mile radius to prepare to dispose of thousands of pounds of lead azide.",
+    "And, after a nearly two-year legal battle, Kilmar Abrego Garcia's has voluntarily left the U.S.(Image credit: Scott Olson)"
+   ],
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/25/g-s1-155493/up-first-newsletter-iowa-detonation-kilmar-abrego-garcia-nvidia-jensen-huang",
+   "image": null,
+   "published_at": "2026-11-25T12:18:09Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "ce3d5df3befb05f9e6bea86c040df4c37af045eb",
+   "title": "Trump says pardon for Nvidia boss Huang ‘always an option’ after accusations of breaking export laws – US politics live",
+   "summary": [
+    "The US president urged the tech leader to ‘tell the truth’ in upcoming testimony in a Senate hearingSign up for the Breaking News US email to get newsletter alerts in your inbox⁠Nine additional ⁠children have ⁠been reunited ​with their ⁠families amid ⁠the ​war ‌in ‌Ukraine, bringing the ‌total to 43 amid an ‌effort led by ​US first lady Melania ⁠Trump, the ​White House ​said.“Children in this region of the world, like children everywhere, cannot possibly understand why geography and government have put them into the horrors of war,” the first lady said in a statement shared first with the Associated Press."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
+   "image": "https://i.guim.co.uk/img/media/b81ae5a9f6ca550652434eefe1adae4209abd469/181_0_3334_2668/master/3334.jpg?width=140&quality=85&auto=format&fit=max&s=34726bbffd4777a0dcfd19f1ba78c125",
+   "published_at": "2026-11-25T12:15:46Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "17167cee091869d7efb02ca43825a57f17416180",
+   "title": "Democrats say Trump risked US security over Nvidia as Huang apologises | First Thing",
+   "summary": [
+    "Reinstated CEO tells staff ‘I made some terrible mistakes’, as questions remain over chips-to-China accusations.",
+    "Chuck Schumer has accused Jensen Huang, the newly reinstated Nvidia CEO, of shipping “extremely advanced chips to China” and violating US export control laws.",
+    "On Tuesday, the senator said the move “amounts to the equivalent of selling rocket engines to the Soviets during the space race”, adding: “This is an unfathomable failure of enforcement by the Trump administration.”What did Huang say to Nvidia staff on his return?"
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/25/first-thing-democrats-trump-risked-us-security-nvidia-huang-apologises",
+   "image": "https://i.guim.co.uk/img/media/bd465fbbb9b4468832ef8838dd41b9325e351461/283_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=d1d514c50cad44391a1e342e2be9b845",
+   "published_at": "2026-11-25T12:14:52Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "81d34006bcd54736d4c80452cf07451ac150bb36",
+   "title": "UK embassy in Japan warns of rise in drink spiking and credit card fraud at Tokyo bars",
+   "summary": [
+    "Social media campaign fronted by British rapper Shao Dow advises tourists not to let their guard downThe British embassy in Tokyo has launched a social media campaign warning visitors to exercise caution after a rise in cases of drink-spiking and credit card fraud against tourists in the Japanese capital.In a recent clip made in conjunction with the embassy, the British rapper and manga artist Shao Dow, a frequent visitor to Japan, notes that although the country “is incredibly safe, that doesn’t mean you can let your guard down”."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/25/british-embassy-tokyo-warning-tourists-drink-spiking-credit-card-fraud",
+   "image": "https://i.guim.co.uk/img/media/9f4ad69a7c2842c8d7b083f6f6d5e6fb55a96e3a/0_0_7920_6336/master/7920.jpg?width=140&quality=85&auto=format&fit=max&s=be19aa86367c1f0c56cc82c12fbf3d6f",
+   "published_at": "2026-11-25T11:59:22Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "60385ebbe821239365b8a12e307334b8053f105b",
+   "title": "Overnight RSF drone attacks kill 19 in Sudan",
+   "summary": [
+    "The attacks on Blue Nile State also injured at least 20 people – in a drone war that is quickly escalating."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/senegal-fans-celebrate-afcon-legal-victory-over-morocco?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/25/overnight-rsf-drone-attacks-kill-19-in-sudan?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-25T01:39:53Z",
+   "published_at": "2026-11-25T11:58:15Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "b7d838463719ca539965dbd6dea5e04d7f2582f5",
-   "title": "China investigates politburo star in Xi Jinping’s latest purge",
+   "id": "c1bef4db0ae93495d396189b83a5b275cda000ec",
+   "title": "Ex-England star Sterling given suspended sentence for dangerous driving",
    "summary": [
-    "Chen Jining, regarded as a contender for higher office, becomes the fourth member of China’s elite politburo to be investigated since 2025China has launched an investigation into Shanghai’s Communist party chief Chen Jining, a member of the country’s elite politburo, the state-run Xinhua news agency unexpectedly announced on Tuesday, marking the fourth member of the top leadership ⁠body to be probed since ⁠2025.China’s anti-graft watchdog is investigating ​Chen for “suspected severe violations of discipline and laws”, Xinhua said, using a common euphemism for corruption."
+    "Raheem Sterling admitted inhaling 'laughing ⁠gas' and driving erratically before ​crashing his car."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/11/25/ex-england-star-sterling-given-suspended-sentence-for-dangerous-driving?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-25T11:50:52Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "a7b7e0dc94902d3816fc57cbd2c7bf2cb2347773",
+   "title": "Fire breaks out following drone strikes on a residential area in Al Damazin",
+   "summary": [
+    "Flames seen engulfing a house in Sudan’s Blue Nile state, following a large-scale drone strike carried out by the RSF."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/fire-breaks-out-following-drone-strikes-on-a-residential-area-in-al-damazin?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-25T11:50:50Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "7044fe44c18fed4299cd70e0a516840cd260da15",
+   "title": "General Synod could vote to ban C of E clergy from supporting Restore Britain",
+   "summary": [
+    "Exclusive: Private members’ motion comes amid concern about Christian symbols being appropriated by the far rightChurch of England clergy could be banned from joining or supporting the hard-right Restore Britain party under a motion put forward for debate at the General Synod.The move is an attempt to replicate the decision by bishops 17 years ago prohibiting clergy from belonging to or supporting the British National party, declaring its policies incompatible with church teaching on racial equality."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/25/china-investigates-politburo-chen-jining-xi-jinping-purge",
-   "image": "https://i.guim.co.uk/img/media/c4f99890561c34364853932923e32733830c648c/451_0_6570_5256/master/6570.jpg?width=140&quality=85&auto=format&fit=max&s=fef35558e5ef28df29fec8688e75819c",
-   "published_at": "2026-11-25T01:31:46Z",
+   "url": "https://www.theguardian.com/world/2026/nov/25/general-synod-ban-church-of-england-clergy-support-restore-britain",
+   "image": "https://i.guim.co.uk/img/media/839a6dbb59551038bdcdee9376e63e28684fb809/1386_0_7023_5618/master/7023.jpg?width=140&quality=85&auto=format&fit=max&s=7f3c0e1a1aca2610aac2501df6182f3f",
+   "published_at": "2026-11-25T11:48:12Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "659b08b1794a5b3b9af6d7cfefd79b489eda97b8",
-   "title": "Israel’s Eisenkot secures first coalition partner in bid to form government",
+   "id": "510234d634caf7537b6a4bb58cc2af4988b957a0",
+   "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
    "summary": [
-    "The Yashar party says it agreed to sign a coalition pact with Israel's Our Home party, led by Avigdor Lieberman."
+    "One gunman was killed in the operation to free around 20 shoppers and employees after a 17-hour hostage ordeal."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T11:45:16Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "3fb00ba3a13cc44c87c43a4c3628b1550c3ed4e2",
+   "title": "Sinner uncertain for Australian Open after undergoing knee surgery",
+   "summary": [
+    "The five-time Grand Slam champion has not played a match since winning Wimbledon in July."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government?traffic_source=rss",
+   "url": "https://www.aljazeera.com/sports/2026/11/25/sinner-uncertain-for-australian-open-after-undergoing-knee-surgery?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-25T01:30:44Z",
+   "published_at": "2026-11-25T11:42:02Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "381ac6ba3a8c56602c6dbdab5e7272d3b4d339a7",
-   "title": "Beau Lamarre-Condon found guilty of murdering Jesse Baird and Luke Davies",
+   "id": "ee51cd5324dfe267a6cef86d636e4facb51a4d13",
+   "title": "After Brexit, is Britain heading back to the EU?",
    "summary": [
-    "Jury finds former police officer guilty of killing couple in Baird’s Sydney home in 2024Get our breaking news email, free app or daily news podcastFormer police officer Beau Lamarre-Condon has been found guilty of murdering Jesse Baird and Luke Davies with his service weapon.A New South Wales supreme court jury delivered its verdicts on Wednesday, finding Lamarre-Condon guilty of two counts of murder after two hours of deliberation."
+    "A decade after the Brexit vote, a new deal brings Britain and the EU closer, with economic gains for both sides."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/counting-the-cost/2026/11/25/after-brexit-is-britain-heading-back-to-the-eu?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-25T11:40:51Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "8ace7448fb5e1af99c7f865b3c9695b0b7beb849",
+   "title": "Raheem Sterling avoids jail over reckless driving while using nitrous oxide",
+   "summary": [
+    "His MBE and charitable and foundation work was accepted in mitigation, together with his decision to voluntarily submit to addiction treatment."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/25/beau-lamarre-condon-trial-verdict-former-police-officer-jesse-baird-luke-davies-ntwnfb",
-   "image": "https://i.guim.co.uk/img/media/ebfc885f7db8935002487a469a0f9baba836690e/262_168_2337_1870/master/2337.jpg?width=140&quality=85&auto=format&fit=max&s=dcd597bc5dff7cf8a66573ffddcbfff0",
-   "published_at": "2026-11-25T01:21:08Z",
+   "url": "https://www.theguardian.com/football/2026/nov/25/raheem-sterling-avoids-jail-reckless-driving-nitrous-oxide-sentence",
+   "image": "https://i.guim.co.uk/img/media/352149c4c0e7d10afd2ec32aeed4f886c2ddeb46/94_76_1259_1007/master/1259.jpg?width=140&quality=85&auto=format&fit=max&s=3511296fdaa7e049a35b96734510ea42",
+   "published_at": "2026-11-25T11:34:10Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "c8df8bdb76c2b146c35f957a47678d6da5031229",
-   "title": "Iran whips singer Parastoo Ahmadi 74 times over YouTube concert",
+   "id": "a87455069b89efa44486b1d22edc8b7b3947a8c9",
+   "title": "Kilmar Ábrego García arrives in Spain, ending Trump deportation battle",
    "summary": [
-    "Iranian authorities have lashed singer Parastoo Ahmadi over a 2024 performance streamed live on YouTube."
+    "Ábrego García's deportation to El Salvador and return to the US became a flashpoint in the debate over President Donald Trump's immigration agenda."
    ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/iran-whips-singer-parastoo-ahmadi-74-times-over-youtube-concert?traffic_source=rss",
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-25T01:21:02Z",
+   "published_at": "2026-11-25T11:29:40Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "a7370772a2f70de972c836a71421b2503bb2cc73",
-   "title": "Poll finds US voters want government to end Iran war regardless of terms",
+   "id": "c39c762d6e58d0dbcfda468ad447956b2a0c79b6",
+   "title": "Zidane was much better than me: Bellingham after Real Madrid wonder goal",
    "summary": [
-    "New survey finds that 55 percent of voters, including 80 percent of Democrats, want war brought to an end immediately."
+    "Jude Bellingham admits he had 'no idea' what he'd done after scoring a goal that drew comparisons with Zinedine Zidane."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
+   "url": "https://www.aljazeera.com/sports/2026/11/25/zidane-was-much-better-than-me-bellingham-after-real-madrid-wonder-goal?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-25T01:14:22Z",
+   "published_at": "2026-11-25T11:29:38Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "ef4e7886f52fc2f47b9795da04968b3bd2858779",
+   "title": "Sri Lankan asylum seeker killed himself after being sent by UK to Eswatini",
+   "summary": [
+    "The boat was rescued by the Royal Navy in October 2021 when it got into difficulty and brought to Diego Garcia in the remote British Indian Ocean Territory, which hosts a US-UK military base."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/25/sri-lanka-asylum-seeker-convicted-sexual-assault-uk-kills-himself-eswatini",
+   "image": "https://i.guim.co.uk/img/media/9e08eeab0ec12cf5f7ba59ef8c7028f6affd5184/104_0_1840_1472/master/1840.jpg?width=140&quality=85&auto=format&fit=max&s=d2fbfc2ed05af5ebc82e287cb5f899e2",
+   "published_at": "2026-11-25T11:28:05Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "5ff095c72836558eacb1c9bb4132ab27a3aae745",
+   "title": "Israeli strike kills Hamas official, his wife and children",
+   "summary": [
+    "The air strike hit their Gaza apartment amid escalating Israeli attacks, the Interior Ministry says."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/25/israeli-strike-kills-hamas-official-his-wife-and-children?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-25T11:24:37Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "a829fd4dd1875e9e9a24147569ce43605c5e90c1",
+   "title": "Indian Cockroach movement leader asks court for permission to fly to UK",
+   "summary": [
+    "His lawyer asked the court for a quick hearing because Das has by now already missed some of his engagements at British universities and can only attend the other events on his itinerary if he is allowed to fly out as soon as possible."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/25/indian-cockroach-movement-leader-asks-court-for-permission-to-fly-to-uk",
+   "image": "https://i.guim.co.uk/img/media/5b3f61e3ae43b66936a59bd1fded59309335e537/478_69_4441_3552/master/4441.jpg?width=140&quality=85&auto=format&fit=max&s=a7b4f32e67c909fd55ae36b20de71237",
+   "published_at": "2026-11-25T11:15:35Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "ac2c666078561234cbdb86481eab3f026a85b0b3",
+   "title": "‘People are going hungry’: Guinea’s gold mining crackdown",
+   "summary": [
+    "‘People are going hungry’: Guinea’s gold mining crackdown"
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/people-are-going-hungry-guineas-gold-mining-crackdown?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-25T11:10:21Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "8a11627518a3e69d44b42fe74b5d5b99cb3ec777",
+   "title": "Shakib, Mustafizur not among Bangladeshi players on 2027 IPL auction list",
+   "summary": [
+    "Eleven Bangladeshi players have entered their names for the auction, a year after Mustafiz's expulsion from the league."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/sports/2026/11/25/shakib-mustafizur-not-among-bangladeshi-players-on-2027-ipl-auction-list?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-25T11:02:03Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "0639d82ad73e9cf820673f62844e39e0e455f5bc",
+   "title": "The cost of Nigeria’s power failures for one small business",
+   "summary": [
+    "Fashion business owner Aderayo Soile says unreliable electricity is holding back her business."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/the-cost-of-nigerias-power-failures-for-one-small-business?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-25T11:01:54Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "cb0006e547f946c42cc781faa2940d43b5438a8b",
+   "title": "Midterm gains by US gun control activists’ signals decline of gun lobby",
+   "summary": [
+    "And nearly 550 former volunteers for Moms Demand Action, a group that is part of the Everytown network, ran for office as incumbents and first-time candidates."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/25/midterms-democrats-gun-control-violence-prevention-movement",
+   "image": "https://i.guim.co.uk/img/media/51d7e69cab6939935fa4a076de75a98ed9833713/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=1654d7aab058872266773ac23873289b",
+   "published_at": "2026-11-25T11:00:47Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "ef344891300181ff420c24963aad9ad1ba8c86f3",
+   "title": "China misusing Interpol to target dissidents, says leading UK lawyer",
+   "summary": [
+    "Concerns over Beijing’s use of ‘red notices’ as Hong Kong prepares to host police organisation’s general assemblyChina is misusing Interpol to target and silence dissidents, a leading British lawyer has claimed, as Hong Kong prepares to host the police organisation’s general assembly for the first time.Ben Keith, a specialist in “red notices” - the Interpol system under which national authorities are requested to locate and detain suspects - said he was working on five cases involving China making questionable requests through Interpol."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/nov/25/china-misusing-interpol-target-dissidents-uk-lawyer",
+   "image": "https://i.guim.co.uk/img/media/ee37a60f0b9565d5f2075db0ca21679ea90c30be/424_0_3327_2661/master/3327.jpg?width=140&quality=85&auto=format&fit=max&s=81fbdb80c25fc80e846cca1a78f76c5c",
+   "published_at": "2026-11-25T11:00:46Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "788faf87017693ff876e8b0a7a8b01f6695c91b4",
+   "title": "Pro-Palestine activist sought by US in extradition case: ‘I still have a right to my beliefs’",
+   "summary": [
+    "James ‘Fergie’ Chambers, at center of legal fight, says he ‘should not be unjustly accused’ because of leftwing viewsJames “Fergie” Chambers, the wealthy leftwing activist and donor controversially sought in extradition by the US, has told the Guardian that he is “not asking anyone to endorse my ideas or not think I’m a jerk – but I still have a right to my beliefs and should not be unjustly accused because of them”.Chambers’s case is the first known instance of the US seeking to extradite a citizen over alleged support for Hamas, an accusation apparently tied to an international money-laundering charge in the criminal complaint underpinning the extradition request and donations to organizations helping Palestinians in Gaza."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/25/fergie-chambers-us-extradition-interview",
+   "image": "https://i.guim.co.uk/img/media/deb06c73325454024f2b7cd1ba57a283f6c99a74/0_550_3993_3194/master/3993.jpg?width=140&quality=85&auto=format&fit=max&s=0b27ba5e7f3fdbd4150ee56cd1a618d5",
+   "published_at": "2026-11-25T11:00:46Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "6e318103f04cef6454c4d9dd3316ea4e88f2aa66",
+   "title": "Greetings from Mount Kilimanjaro, Africa's highest point in all its splendor",
+   "summary": [
+    "Climbing tall mountains like Kilimanjaro is a study in contrasts — from beating sun to freezing nights, fire and snow."
+   ],
+   "source": "NPR",
+   "url": "https://www.npr.org/2026/11/25/nx-s1-6051429/mount-kilimanjaro-africa-tanzania",
+   "image": null,
+   "published_at": "2026-11-25T11:00:00Z",
    "category": "world",
    "related": []
   },
   {
    "id": "48847b981ae5ac7b5cfd666bc206c2a5fd2778cc",
-   "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+   "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
    "summary": [
     "The verdict follows a months-long trial in New York."
    ],
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-25T01:11:57Z",
+   "published_at": "2026-11-25T10:52:09Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "494939b7d9505bf70493700b89d36487f0d0d69a",
-   "title": "Middle-aged women in England least likely to successfully quit smoking, study finds",
+   "id": "b60f8073cee75f30a76ab6807a3067a040368a4d",
+   "title": "Two charged with burglary and trespass at Prince and Princess of Wales’s home",
    "summary": [
-    "Of nearly 8,000 women who tried to stop, only 18% of those aged 45 to 60 managed to give upMiddle-aged women in England are the least likely to successfully give up smoking, according to research.Smoking is the leading cause of preventable death and illness in the UK.",
-    "While overall smoking rates in England have declined in recent decades, rates in some regions have increased.",
-    "About 6.75 million people smoke in England, of whom around 14% are women aged 45-60."
+    "Mirgen Doku and Arilen Ndoci to appear before magistrates over suspected break-in at Anmer Hall in Norfolk Two men have been charged with burglary and trespass after a suspected break-in at the Prince and Princess of Wales’s country mansion.Mirgen Doku, 34, and Arilen Ndoci, 32, both Albanian nationals, were due to appear at Norwich magistrates court on Wednesday over the incident at Anmer Hall in Norfolk on Monday evening."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/society/2026/nov/25/middle-aged-women-quit-smoking-england-study",
-   "image": "https://i.guim.co.uk/img/media/ba552a1b57408ce45632af7702e5886772f0e0fb/354_0_2504_2004/master/2504.jpg?width=140&quality=85&auto=format&fit=max&s=610676c92f7ab90919ef3d20aab6b8c2",
-   "published_at": "2026-11-25T01:00:01Z",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/25/two-charged-burglary-trespass-prince-princess-wales-home-norfolk",
+   "image": "https://i.guim.co.uk/img/media/f6b523a9f71d8c35f339c0cf48cea470295fda70/361_0_2778_2223/master/2778.jpg?width=140&quality=85&auto=format&fit=max&s=3b5fac8baff2bc76d837d8bce006ddd2",
+   "published_at": "2026-11-25T10:51:50Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "dad1a10a86cc9ab41d50bc43a5399bd13f8cb2f0",
-   "title": "One lame duck and two turkeys as Trump plays the hits at Thanksgiving ceremony",
+   "id": "37fc4256d03c87be7da24d9cd01745ca01d30e63",
+   "title": "Who is Chen Jining, China’s latest Politburo member under investigation?",
    "summary": [
-    "Levity was in short supply as president, reeling from midterms rout, talked up his achievements – and fixated on White House vanity projectFor some, it was his pardoning of the January 6 rioters or the deployment of masked ICE agents.",
-    "For others, it was Elon Musk’s chainsaw or the demolition of the White House East Wing.Donald Trump’s second term as US president has been full of moments when people exclaim: this is the last straw!"
+    "Chen is the fourth high-ranking Politburo member to be pushed out in two years."
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/25/who-is-chen-jining-chinas-latest-politburo-member-under-investigation?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-25T10:50:26Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "719cf7351ad34d3eff3982caf6b6a7912efffeae",
+   "title": "Could Netanyahu take Israel into another war with Iran to cling to power?",
+   "summary": [
+    "As Israeli opposition leader Eisenkot moves to form a government, could war with Iran derail talks and save Netanyahu?"
+   ],
+   "source": "Al Jazeera",
+   "url": "https://www.aljazeera.com/news/2026/11/25/could-netanyahu-take-israel-into-another-war-with-iran-to-cling-to-power?traffic_source=rss",
+   "image": null,
+   "published_at": "2026-11-25T10:27:53Z",
+   "category": "world",
+   "related": []
+  },
+  {
+   "id": "a8a8b7584b71967e193ac668a0c96395ed833a02",
+   "title": "Large bushfire threatens homes and properties on remote island off Tasmania",
+   "summary": [
+    "Blaze spreads significantly across the north of Flinders Island after being started by lightning strikesGet our breaking news email, free app or daily news podcastHomes and properties on a picturesque remote island were under threat on Wednesday night from an out-of-control bushfire that had sent smoke hundreds of kilometres south.The blaze on Flinders Island in Bass Strait spread significantly on Wednesday after being started by lightning strikes."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/24/donald-trump-turkey-pardon",
-   "image": "https://i.guim.co.uk/img/media/21c1fb3fad0eb8774dc514e74b1af43de6914a3f/307_0_3817_3053/master/3817.jpg?width=140&quality=85&auto=format&fit=max&s=9b445b32e3b82532d6b817a5b3e0abd7",
-   "published_at": "2026-11-25T00:56:48Z",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/25/large-bushfire-threatens-homes-and-properties-on-remote-island-off-tasmania",
+   "image": "https://i.guim.co.uk/img/media/233bcc415b139a4c7cb303ad0a176d9ff6433c48/66_0_880_704/master/880.jpg?width=140&quality=85&auto=format&fit=max&s=b202b3c29c5683ffa86cc26b07ff0f0b",
+   "published_at": "2026-11-25T10:18:31Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "f36032e8e12fe7b130d4d855015d0920dd70e332",
-   "title": "Gunmen hold dozens hostage in Colombia supermarket",
+   "id": "1464aec99eeb8b2de338009aab0f15b848836a33",
+   "title": "See motorcycle passenger’s viral cricket catch",
    "summary": [
-    "A group of armed men is holding around 20 people hostage in Cartagena, Colombia."
+    "A cricket catch by a passenger on a moving motorbike in Pakistan has gone viral on social media."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/gunmen-hold-dozens-hostage-in-colombia-supermarket?traffic_source=rss",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/see-motorcycle-passengers-viral-cricket-catch?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-25T00:49:35Z",
+   "published_at": "2026-11-25T10:10:47Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "a5c3c1aa9c5745471f681c38b32b8f77a5034e0c",
-   "title": "What will Victoria’s election result mean for nine datacentre projects awaiting approval?",
+   "id": "8ae78bc5e44b51d2813c2befff7afa3580f2acdd",
+   "title": "Dozens of ports close as powerful waves damage Peru’s coastline",
    "summary": [
-    "Despite community backlash, some firms are confident they will get the green light as Coalition says datacentres ‘will be an important part of Victoria’s future’Follow our Australia politics live blog for latest updatesGet our breaking news email, free app or daily news podcastNine datacentre projects are seeking approval in Victoria as the state heads to the polls, and despite growing community backlash some companies remain confident their projects will be greenlighted after Saturday’s election.With opinion polls predicting the Coalition will win power from the 12-year-old Labor government, questions remain over whether the Liberal and National parties’ datacentre policy will apply to existing applications."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/nov/24/nine-datacentre-projects-awaiting-approval-victoria-election",
-   "image": "https://i.guim.co.uk/img/media/ebf80a137710c357384cc02438532169c1f2986a/498_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=3b89e28e5ba5e8144ba48afc19a8cdcb",
-   "published_at": "2026-11-25T00:42:17Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "ca95e967b79f79705cb6737bd36337ac39309794",
-   "title": "US army to detonate 68 barrels of toxic lead in Iowa on day before Thanksgiving",
-   "summary": [
-    "Residents warned to stay indoors amid conflicting information about how far the dust plume could travelThe US Army is set to detonate 68 barrels – five tons – of lead azide at an ammunition plant in rural Iowa on Wednesday morning, after delays and conflicting information about how far the toxic lead dust plume could travel after the explosion.That controlled blast has been scheduled for 10am ET on Wednesday, the day before the Thanksgiving holiday."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/24/us-army-iowa-detonation",
-   "image": "https://i.guim.co.uk/img/media/e3fa562acd41fbc234a6b388803319c9032cc73c/0_0_5418_4335/master/5418.jpg?width=140&quality=85&auto=format&fit=max&s=1b942f417d02d1f5e8969b291e00769a",
-   "published_at": "2026-11-25T00:33:16Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "9b23b2f300ac4d34465bd4ab82d0961ee7cfc947",
-   "title": "Alaska ends deal to give voter records to US Justice Department",
-   "summary": [
-    "The decision follows the conclusion of the 2026 midterm elections and an effort under Trump to gather state voter rolls."
+    "Dozens of ports close as powerful waves damage Peru’s coastline"
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/25/alaska-ends-deal-to-give-voter-records-to-us-justice-department?traffic_source=rss",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/dozens-of-ports-close-as-powerful-waves-damage-perus-coastline?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-25T00:28:28Z",
+   "published_at": "2026-11-25T10:05:58Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "e34c172951d9f6742671bf7cec7959bd460b2515",
-   "title": "Latest review of Met police culture finds little has changed since last one",
+   "id": "ec3dc5ca1515824791b65a8f98cb1362bf1af1a7",
+   "title": "‘We need to be seen’: Over a third of UK Muslim students face Islamophobia",
    "summary": [
-    "Failure to implement previous reports means institutional racism, misogyny and homophobia still present in forceMetropolitan police still institutionally racist and misogynist, says reportFrom the Stephen Lawrence inquiry in 1999 to Louise Casey’s landmark review in 2023, successive reports on the Metropolitan police have arrived at the same damning conclusion: Britain’s largest police force is institutionally racist.It will, therefore, come as little surprise that three years after Casey’s report, an independent review led by Gillian Fairfield has found that institutional racism, misogyny and homophobia persist within the force."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/25/latest-review-of-met-police-culture-finds-little-has-changed-since-last-one",
-   "image": "https://i.guim.co.uk/img/media/67f6b8205eaf39a5b94cbd9b3456ef299091da0f/605_0_3218_2574/master/3218.jpg?width=140&quality=85&auto=format&fit=max&s=ab3f8a45a7d4882771b0de0e4a93adb0",
-   "published_at": "2026-11-25T00:01:02Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "b319a6cc7b567d33b32be31c95196f432f4ced9f",
-   "title": "UK to launch world’s first licensing scheme for knife sales",
-   "summary": [
-    "Exclusive: Measures aimed at tackling grey market sellers known to sell dangerous knives to childrenMinisters will introduce the world’s first licensing scheme for businesses and private individuals selling all types of knives including cutlery, the Home Office announced on Wednesday.In a drive to fulfil the government’s pledge to halve knife crime within 10 years, shops and online vendors selling butter knives or machetes will be expected to apply for a licence or face fines."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/25/uk-knife-sales-licensing-scheme",
-   "image": "https://i.guim.co.uk/img/media/e94bf5ba5d5beca7dddc4a23c12e0c25dbf9e3a5/644_0_6440_5152/master/6440.jpg?width=140&quality=85&auto=format&fit=max&s=07ca8cb13e6345fa0e51771887d5ee77",
-   "published_at": "2026-11-25T00:01:01Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "10e235271d91c07c792ed267382d565d1f7c459f",
-   "title": "Metropolitan police still institutionally racist and misogynist, says report",
-   "summary": [
-    "Independent review finds force has ‘fundamental systemic issues’ three years after damning report on Sarah Everard murderLatest review of Met police culture finds little has changed since last oneThe Metropolitan police remain institutionally racist, misogynistic and homophobic three years after a damning review into the force’s culture, a report has found.The investigation by Gillian Fairfield found “fundamental, systemic issues” and “institutional defensiveness” still existed in Britain’s biggest police force, which has struggled “to acknowledge racism as a structural problem”."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/25/metropolitan-police-institutionally-racist-misogynist-fairfield-report",
-   "image": "https://i.guim.co.uk/img/media/32a53d47c4e69c1cee3b77ce1cb76cd8bec7c202/541_0_5408_4326/master/5408.jpg?width=140&quality=85&auto=format&fit=max&s=8b216ce7b1480d11bb4a41157bb296ff",
-   "published_at": "2026-11-25T00:01:01Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "075b5e76de36e98596d5a32f2170e0351ba6c26d",
-   "title": "England has largest frailty gap out of 31 countries, study finds",
-   "summary": [
-    "People from lowest socioeconomic group in all countries studied had higher frailty scores than those in highest socioeconomic groupEngland has the largest gap between higher and lower socioeconomic groups when it comes to frailty compared with 30 other countries, a major study has found.The research, led by academics at King’s College London and published in BMC Medicine, looked at levels of frailty in 71,703 people from 31 countries including England, the US, China, France, Italy, the Netherlands, Sweden, Greece, Cyprus, Latvia and Lithuania."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/society/2026/nov/25/england-has-largest-frailty-gap-out-of-31-countries-study-finds",
-   "image": "https://i.guim.co.uk/img/media/03c099112981b7055e78c51a3d179c98b98545fa/416_0_4158_3327/master/4158.jpg?width=140&quality=85&auto=format&fit=max&s=87d70a9eea9739c2a6b9258259431001",
-   "published_at": "2026-11-25T00:01:01Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "a377586593f391948b456a121d9aa91311f93fc4",
-   "title": "Iran war live: Houthis threaten Saudi ports over coalition’s Hodeidah order",
-   "summary": [
-    "Houthis vow to target Jeddah and other Saudi ports if Hodeidah is hit, after the coalition issues an evacuation order."
+    "From being spat on and assaulted to suffering humiliation, Muslims on campus are increasingly vulnerable, report says."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss",
+   "url": "https://www.aljazeera.com/news/2026/11/25/we-need-to-be-seen-over-a-third-of-uk-muslim-students-face-islamophobia?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-25T00:00:00Z",
+   "published_at": "2026-11-25T10:05:24Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "ed632e0b8edc4da18a6aead4f9a4582d677a7908",
-   "title": "Kilmar Ábrego García, man at center of Trump deportation battle, leaving US",
+   "id": "cfe6bd3f241705da4bc3f144eeadb78bbf24f98b",
+   "title": "Buying new things feels wonderful. But it can also be a trap",
    "summary": [
-    "Salvadorian man, who was deported in March 2025 and returned to US after supreme court ruling, leaving of own volition for SpainKilmar Ábrego García is leaving the United States of his own volition, his lawyers confirmed on Tuesday.Ábrego is leaving the US for Spain on Tuesday evening."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us",
-   "image": "https://i.guim.co.uk/img/media/15d0ddecd877f6d5df4f8e4c21bb5be5961696ea/1245_0_4004_3203/master/4004.jpg?width=140&quality=85&auto=format&fit=max&s=cc50a0643f2aa3990ed51abd6f550f8d",
-   "published_at": "2026-11-24T23:50:31Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "823956b5b8723ce7d10f33bafc6947059ee2de07",
-   "title": "Fort Hood survivors denied bid to witness shooter’s firing-squad execution",
-   "summary": [
-    "Army says trio injured in 2009 attack were not direct victims of Nidal Hasan’s and thus cannot attend eventThree survivors of the shooting at Fort Hood will not be allowed to witness the execution by military firing squad of Nidal Hasan who shot 13 people dead in the attack at the Texas army post in 2009, military officials said Tuesday.Hasan was found guilty of multiple counts of murder and attempted murder related to those killed and the more than 30 who were wounded by gunfire in the attack."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/nov/24/fort-hood-shooting-survivors-execution",
-   "image": "https://i.guim.co.uk/img/media/460deb91b5ac7fce62e4d1f4f42f38496eab4ca7/499_0_2501_2000/master/2501.jpg?width=140&quality=85&auto=format&fit=max&s=354cf3a855241c56470c51a2ad9f6bb5",
-   "published_at": "2026-11-24T23:45:05Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "cf451c932a6f102bb43f33a2ebdcdac2c4c08722",
-   "title": "Rebel group retreats in DR Congo after heavy clashes with government forces",
-   "summary": [
-    "CRP halts advance towards Bunia, citing commitments made during Ugandan-mediated talks with government."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-24T23:39:13Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "842f4d756cba17933fcd2b0935feaa5224be143c",
-   "title": "South Africa convicts Zimbabwean who tried to fight Ukraine for Russia",
-   "summary": [
-    "The Zimbabwean man was arrested on November 8 at a Johannesburg airport while attempting to board a flight to Russia."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/24/south-africa-convicts-zimbabwean-who-tried-to-fight-ukraine-for-russia?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-24T23:29:40Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "b8fed400bc9e835913d710dcb6148b3aae486be4",
-   "title": "California ‘king tides’ stress test San Francisco as low-lying areas flood",
-   "summary": [
-    "Monthly tide records were set across the city, with some expected to hit even higher tomorrowExplainer: What to know about flooding in California over ThanksgivingCalifornia is grappling with the stress test of record-high or close to record-high November tides up and down the coast this week, with flooding of low-lying roadways in San Francisco and an evacuation of one community in northern California.Local residents and media outlets shared images of flood waters rushing over the bayfront Embarcadero at the center of San Francisco’s tourist district, and flooded roadways from San Rafael to Redwood Shores, despite blue skies overhead."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/weather/2026/nov/24/california-coast-flooding-thanksgiving-travel",
-   "image": "https://i.guim.co.uk/img/media/80d6a5ade95e2a8670b872bdca5972b45f0d2f71/335_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=1e13751c3be8101548ec8af74600c3dd",
-   "published_at": "2026-11-24T23:20:24Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "82a58d9e877350c96d4fbbdc77cc5e5f7c460329",
-   "title": "Arsenal and Dortmund draw 1-1 as Gyokeres goes from hero to villain",
-   "summary": [
-    "Arsenal dominate the chances as Borussia Dortmund fight back for a 1-1 draw in football's Champions League."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/sports/2026/11/24/arsenal-and-dortmund-draw-1-1-as-gyokeres-goes-from-hero-to-villain?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-24T22:50:16Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "aa80275ffab81c00ee9c8b36748873924b767dae",
-   "title": "Bellingham stunner, Mbappe brace help Real Madrid rout PSV",
-   "summary": [
-    "Real Madrid come from behind to power past PSV Eindhoven with a 5-1 win in football's Champions League."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/sports/2026/11/24/bellingham-stunner-mbappe-brace-help-real-madrid-rout-psv?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-24T22:37:20Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "135bf6e56ddf1ff027d1b87d30ff04e8bbca75d8",
-   "title": "Todd Blanche declines to confirm if Nvidia’s Jensen Huang was investigated",
-   "summary": [
-    "The US attorney general refused to discuss claims by Donald Trump that his administration conducted a 'thorough' probe."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/24/todd-blanche-declines-to-confirm-if-nvidias-jensen-huang-was-investigated?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-24T22:01:26Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "924e1915229e72bdf10b6ea4eb38d128fb2b39b5",
-   "title": "Colombian president blames ex-FARC rebels for car bomb blast",
-   "summary": [
-    "Colombian President De la Espriella blames the FARC for plotting a bombing that injured tens and pledges to retaliate."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/24/colombian-president-blames-ex-farc-rebels-for-car-bomb-blast?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-24T21:45:42Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "9bcea2794546fb38137210040d9c6f65229e3e76",
-   "title": "China’s Huawei found guilty of trade secrets conspiracy, fraud in US trial",
-   "summary": [
-    "Jurors acquit the company of the most serious charge it faced of engaging in a criminal racketeering conspiracy."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/economy/2026/11/24/chinese-tech-giant-huawei-found-guilty-of-conspiracy-to-steal-trade-secrets?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-24T21:43:34Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "75a2a86afd27d1c4b0b7c74137fe76f2f7179cf0",
-   "title": "US attorney general dodges questions about Nvidia investigation",
-   "summary": [
-    "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-24T21:19:42Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "9446b299a3a19a4bf10927597c3a2880d09d98b3",
-   "title": "Russian jets spark air raid alert in South Korea",
-   "summary": [
-    "South Korea’s residents were urged to seek shelter as Russian military jets approached its airspace on Tuesday."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_russian-jets-spark-air-raid-alert-in-south-korea-241126?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-24T21:14:57Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "b5cd0a714d58e2f680ec8fb982d52bf4b8b523a0",
-   "title": "How tariffs, fuel and fertilizer costs are squeezing the U.S.'s biggest apple region",
-   "summary": [
-    "Washington's $9 billion industry grows more than 70% of the nation's fresh apples.",
-    "Farmers are being pressed by high costs, tariffs and a strong dollar that diminishes foreign purchasing power."
+    "Constantly buying new things can be problematic, says journalist Eric Athas, author of the new book \"Saying No to New.\" Here's how to break the cycle and find joy in what you already have.(Image credit: ㅤ)"
    ],
    "source": "NPR",
-   "url": "https://www.npr.org/sections/the-picture-show/2026/11/24/g-s1-154620/how-high-costs-are-squeezing-apple-producers",
+   "url": "https://www.npr.org/2026/11/25/nx-s1-6052361/buying-new-things-feels-wonderful-can-be-trap-break-the-cycle",
    "image": null,
-   "published_at": "2026-11-24T21:09:29Z",
+   "published_at": "2026-11-25T10:02:00Z",
    "category": "world",
    "related": []
   },
   {
-   "id": "96bc43410782dee46f45eb32ab62732e4f30bef6",
-   "title": "Armed men hold hostages at supermarket in top Colombian tourist destination",
+   "id": "f6b61525929c8aa8013f1358f9f8e2166e5bd99e",
+   "title": "Iran rations electricity: How deeply are US sanctions, blockade biting?",
    "summary": [
-    "President says 15 people released and Cartagena incident stems from botched robbery by ‘common criminals’Armed and masked men have been holding people hostage in a supermarket since early Tuesday morning in Cartagena, one of Colombia’s most popular tourist cities.The country’s president, Abelardo de la Espriella, said 30 people had initially been taken hostage, but five had been released, and hours later local media reported that another 10 had also been freed."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
-   "image": "https://i.guim.co.uk/img/media/f8a8fb8355ddb1ecdb881d8269bc5511bc8d29a1/501_0_4354_3482/master/4354.jpg?width=140&quality=85&auto=format&fit=max&s=dda521c7fce25858e4b1ae7552a3546b",
-   "published_at": "2026-11-24T21:06:37Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "c88fba62507e3781241a56427e25d10d807324ab",
-   "title": "The U.S. government is investigating Iranian ties to as many as 50 hacked commercial vessels",
-   "summary": [
-    "The attacks, if officials who spoke to NPR are correct, may be the latest example of Iranian cyberattacks against global critical infrastructure during the war with the U.S.(Image credit: Justin Sullivan)"
-   ],
-   "source": "NPR",
-   "url": "https://www.npr.org/2026/11/24/nx-s1-6052994/hack-commercial-vessels-iran",
-   "image": null,
-   "published_at": "2026-11-24T21:04:50Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "c26cfc9e5ae3210f3fed0031e4dce95866a20af0",
-   "title": "Hostage situation reported in Colombia as armed men flee into supermarket",
-   "summary": [
-    "President Abelardo de la Espriella says police and military have been deployed as situation unfolds in Cartagena."
+    "Iran, a major oil producer, is facing a worsening energy crisis as winter looms."
    ],
    "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/24/hostage-situation-reported-in-colombia-as-armed-men-flee-into-supermarket?traffic_source=rss",
+   "url": "https://www.aljazeera.com/features/2026/11/25/iran-rations-electricity-how-deeply-are-us-sanctions-blockade-biting?traffic_source=rss",
    "image": null,
-   "published_at": "2026-11-24T21:04:46Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "9276967b16d67907592ab114c6e113432d149933",
-   "title": "Brazil doctor uses surfboard and sledgehammer in flood rescue",
-   "summary": [
-    "A Brazilian doctor is being hailed a hero after rescuing an old man from severe flooding using a surfboard"
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/brazil-doctor-uses-surfboard-and-sledgehammer-in-flood-rescue?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-24T20:58:41Z",
-   "category": "world",
-   "related": []
-  },
-  {
-   "id": "c7e459781a58c30706682ecc053cc16bc8868837",
-   "title": "Libya’s Haftar visits Turkiye days after Ukraine hits Russian warship",
-   "summary": [
-    "Ahead of Erdogan’s Libya trip, Haftar’s visit suggests Turkiye seeks another way to bring the country's rivals together."
-   ],
-   "source": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/11/24/libyas-haftar-visits-turkiye-days-after-ukraine-hits-russian-warship?traffic_source=rss",
-   "image": null,
-   "published_at": "2026-11-24T20:35:03Z",
+   "published_at": "2026-11-25T10:01:08Z",
    "category": "world",
    "related": []
   }

@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-25T02:17:17.880978Z",
- "story_count": 15,
+ "generated_at": "2026-11-25T12:37:53.628323Z",
+ "story_count": 22,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "ok",
-  "https://www.dawn.com/feeds/pakistan": "ok",
+  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,12 +20,137 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
+  "https://www.espn.com/espn/rss/news": "ok"
  },
  "stories": [
   {
+   "id": "8f5e714b16e173f4ea8f5ede9223939e5ac65f71",
+   "title": "A space telescope hunting for dark matter just discovered something unexpected",
+   "summary": [
+    "ESA’s Euclid space telescope has discovered its first previously unknown comet, despite being designed to study distant galaxies and the mysteries of the dark Universe.",
+    "The icy object is approximately 1.3 billion kilometers from Earth and follows an unusual orbit that takes thousands of years to complete."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261124055852.htm",
+   "image": null,
+   "published_at": "2026-11-25T10:35:04Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "90e26e697ac1159a2b6e0b0c527e3f50dd3181f7",
+   "title": "Why has China sent the first Pakistani astronaut to space?",
+   "summary": [
+    "Pakistan's Muhammad Zeeshan Ali has become the first foreign national to board China's Tiangong space station."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/cj5y1p067kxno?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T10:26:50Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "16dfb72df17ef0a48ef855607287d3d6c4280cd4",
+   "title": "Physicists trap antimatter in a breakthrough that could explain why the universe exists",
+   "summary": [
+    "Positrons are the antimatter counterpart of an electron.",
+    "Positron is suspended in a wall-free trap, safely separated from ordinary matter.",
+    "Any difference between the electron and positron could expose cracks in the Standard Model of particle physics."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261124055849.htm",
+   "image": null,
+   "published_at": "2026-11-25T10:06:22Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "3c0013e13523436e72ca95200a44baaf962fb773",
+   "title": "Why China has sent Pakistan's first astronaut into space",
+   "summary": [
+    "China launched its Shenzhou-24 space mission on Wednesday carrying three astronauts to its Tiangong space station, including Pakistan's Muhammad Zeeshan Ali, the first foreigner to join a Chinese crewed space mission."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/c3702x9ejk5ro?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T09:37:29Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "9226f0797834804d338bd326b9d28938febdc42c",
+   "title": "What is a thought made of? Why human consciousness may be beyond AI’s reach",
+   "summary": [
+    "A new theory suggests that the brain may chemically encode and retrieve memories rather than relying solely on electrical signals.",
+    "Researchers propose that interactions between brain cells and their molecular surroundings could help explain the intimate connection between memory, emotion, and thought.",
+    "Their findings challenge the assumption that increasingly powerful computers could eventually develop human-like consciousness."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261124055712.htm",
+   "image": null,
+   "published_at": "2026-11-25T09:30:54Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "c144904d52077fded10fd100b1bbe81df5d5dc5c",
+   "title": "Huge fly-tip grew undetected over several months",
+   "summary": [
+    "The council says the 20-tonne pile of rubbish was dumped over garden fences."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqzjr4m9ljzxo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T06:14:26Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "e6a1d6f65a88b464adfcac26c6019ab9c6c1a9fb",
+   "title": "China's Shenzhou-24 carries Pakistan's first astronaut into space",
+   "summary": [
+    "Muhammad Zeeshan Ali, a former fighter pilot, is the first foreigner to join a Chinese crewed space mission."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6x2e0j3kx28o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T04:46:23Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "48e6eb0f71e2b879497d39b4ab98be95cd3cce3b",
+   "title": "Physicists just sent an unblockable message through a brick wall using gravity",
+   "summary": [
+    "Scientists have successfully transmitted a message through a brick wall using nothing but gravity, an old elevator, and an incredibly sensitive detector.",
+    "By moving a massive counterweight between two positions, researchers encoded the word \"Gravity\" into tiny changes in gravitational pull.",
+    "Unlike Wi-Fi or radio signals, gravity passes through ordinary barriers without being blocked, offering a potentially revolutionary way to communicate."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261123005343.htm",
+   "image": null,
+   "published_at": "2026-11-25T02:29:38Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "45a8edf6953e4d5990ace8eb5e4e38530ff7ddf9",
+   "title": "Einstein’s 120-year-old theory may be missing something big about the Big Bang",
+   "summary": [
+    "A surprising discovery by MIT and UC Santa Barbara physicists reveals that Einstein’s famous theory of particle motion misses something important when particles travel near the speed of light.",
+    "Their new calculations show that heavy quarks moving through an ultra-hot plasma experience rare but unusually powerful jolts that Einstein’s traditional model cannot fully explain."
+   ],
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261121221119.htm",
+   "image": null,
+   "published_at": "2026-11-25T01:35:04Z",
+   "category": "science",
+   "related": []
+  },
+  {
    "id": "4bd932e8b57a5b83b5ae2a8d2aabe803e2ca4305",
-   "title": "Will there be a White Christmas this year?",
+   "title": "Will there be a white Christmas this year?",
    "summary": [
     "It is just a month until the big day but what do the early signs say about the chances of a white Christmas in the UK?"
    ],
@@ -67,7 +192,7 @@
   },
   {
    "id": "41ad518298fa2de9a76d489e1d1e0af2b5cec0b6",
-   "title": "Badger cull ruled out by Welsh government after speculation",
+   "title": "Mass badger cull ruled out by Welsh government after speculation",
    "summary": [
     "Plaid Cymru ministers rule out mass badger cull as part of new plans to tackle bovine tuberculosis."
    ],
@@ -197,32 +322,6 @@
    "url": "https://www.sciencedaily.com/releases/2026/11/261122060340.htm",
    "image": null,
    "published_at": "2026-11-24T01:36:51Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "ea3dbf01cc50acc511c60007fedea6899a751b12",
-   "title": "What failure of COP31 reveals about a divided world",
-   "summary": [
-    "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-23T17:24:25Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "1e07638aee77020f968c61524d134701a09ca2af",
-   "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
-   "summary": [
-    "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-23T17:07:25Z",
    "category": "science",
    "related": []
   }

@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-25T02:17:17.880794Z",
- "story_count": 19,
+ "generated_at": "2026-11-25T12:37:53.628146Z",
+ "story_count": 12,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "ok",
-  "https://www.dawn.com/feeds/pakistan": "ok",
+  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,45 +20,71 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
+  "https://www.espn.com/espn/rss/news": "ok"
  },
  "stories": [
   {
-   "id": "f4857084d228e70857253db1e9fe9609dd341ea0",
-   "title": "Trump's Nvidia intervention ties his political fortunes to the AI boom",
+   "id": "6b56e7b683ad6a865919c07a05d0712cc65eb02a",
+   "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
    "summary": [
-    "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates."
+    "The BBC speaks to three people about steps they take to keep their energy bills under control."
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-25T01:03:05Z",
+   "published_at": "2026-11-25T12:12:11Z",
    "category": "business",
    "related": []
   },
   {
-   "id": "4544e3a26ae51dfdaf50f4a4e02e34dd3d209240",
-   "title": "The rising cost of putting food on the table in India",
+   "id": "e660fb54fcc7259b9962cd90eea46f82a68cde46",
+   "title": "'I use a bowl to wash myself and I'm £400 in debt - energy price rise scares me'",
    "summary": [
-    "India's food inflation is broadening, squeezing household budgets."
+    "A woman already in energy debt says her anxiety is \"through the roof\" over further cost increases."
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmy0xj41kl50o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cmly7q7zk77po?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-25T01:02:13Z",
+   "published_at": "2026-11-25T12:05:29Z",
    "category": "business",
    "related": []
   },
   {
-   "id": "738443e67a1f4864b2fbaf82f6d91d95487cef00",
-   "title": "US preparing to unveil new tariffs on global trading partners",
+   "id": "b9a6c473148d4607ab810befb37284e60a71201a",
+   "title": "Energy bills to rise by 26% from January after gas prices surge",
    "summary": [
-    "The new levies would hit many of America's biggest trading partners, including China and the EU."
+    "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year."
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-25T00:38:01Z",
+   "published_at": "2026-11-25T11:44:26Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "6ee0a647046083b62840024898703c03d71948fe",
+   "title": "Energy bills will soar - here's how you can ease the pain",
+   "summary": [
+    "Household energy bills are about to increase but there are ways to keep a lid on your expenditure."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T10:42:20Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "3558c8e805e127a7d7da9b42312f8ad7c9335c7e",
+   "title": "Interest rate affect on Guernsey's housing market",
+   "summary": [
+    "As interest rates rise, we look at the impact this could have on Guernsey's housing market."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/c6x29vne7lnko?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T09:56:33Z",
    "category": "business",
    "related": []
   },
@@ -71,46 +97,7 @@
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-25T00:33:25Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "6b56e7b683ad6a865919c07a05d0712cc65eb02a",
-   "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
-   "summary": [
-    "The BBC speaks to three people about steps they take to keep their energy bills under control."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-25T00:30:52Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "b9a6c473148d4607ab810befb37284e60a71201a",
-   "title": "Households braced for soaring energy bills with new price cap to be announced",
-   "summary": [
-    "Domestic gas prices will rise significantly in January under regulator Ofgem's new price cap."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-25T00:29:58Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "2cb7a4b8fd45d7d343d3a26e6ec9873a22aa9685",
-   "title": "Nvidia CEO Jensen Huang apologizes to staff: ‘I made some terrible mistakes’",
-   "summary": [
-    "Huang acknowledges he violated code of conduct by having affairs, but denied Trump was instrumental in his returnJensen Huang apologized to staff on Tuesday for the tumult he’s caused at Nvidia."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/24/jensen-huang-nvidia-apologizes-staff",
-   "image": "https://i.guim.co.uk/img/media/a73808018c1aee9c4e492cbde53796d16e234aa8/0_667_1218_973/master/1218.jpg?width=140&quality=85&auto=format&fit=max&s=58d792ab17e4d7be4d15fc17de1e385b",
-   "published_at": "2026-11-24T20:32:02Z",
+   "published_at": "2026-11-25T09:54:32Z",
    "category": "business",
    "related": []
   },
@@ -167,6 +154,19 @@
    "related": []
   },
   {
+   "id": "094d704d9aa5409c4e8f9e0b8db2734b5e8cff34",
+   "title": "EU to impose cap on Chinese hybrid EV imports next month",
+   "summary": [
+    "Temporary quotas on vehicles entering the bloc will also apply to cars from the UK, Japan and TurkeyThe EU will next month impose its threatened caps on the number of Chinese hybrid cars that can be imported into the bloc, the European Commission has announced.The quotas will also apply to hybrids from Japan, Turkey, South Korea and the UK, but the principal purpose is to limit imports from China after an agreement with Beijing in October that has led to a rise in exports to the bloc."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/24/eu-cap-chinese-hybrid-ev-imports-tariff-uk",
+   "image": "https://i.guim.co.uk/img/media/98dafebbb2f563aff059cc3b9f77cd32f0173ea0/1495_338_4286_3429/master/4286.jpg?width=140&quality=85&auto=format&fit=max&s=978e8c7203cec588db4189a9dc62e019",
+   "published_at": "2026-11-24T10:59:40Z",
+   "category": "business",
+   "related": []
+  },
+  {
    "id": "2aa9fd24f84b5e1384d2ffcc46ab98c6fed880d8",
    "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
    "summary": [
@@ -176,97 +176,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-24T10:53:37Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "37cae4b73bcdf83ad45c3934ff0708a13ac6e5f8",
-   "title": "The shake-up facing renters as a new kind of landlord emerges",
-   "summary": [
-    "Companies building flats that they then rent out could usher in big changes for renters."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-24T00:28:48Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "63c39b84f6e4708b8d6cfe9dd3ba0bde6b065504",
-   "title": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
-   "summary": [
-    "The breeder's rating was downgraded but he continued to advertise as five-star, investigation finds."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c8d36d43y8po?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-24T00:11:08Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "cef482f3944581e339cc33b166ea716c949001ca",
-   "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
-   "summary": [
-    "Busy mothers on both sides of the Atlantic are paying companies to handle their to-do lists."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-24T00:01:04Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "1b7f2ed360140641fde4328e0a95c9954c2438a3",
-   "title": "A comeback for the ages: Trump's influence on Huang's return to Nvidia",
-   "summary": [
-    "The BBC's business correspondent Michelle Fleury explains what role Trump's support played in Huang's comeback."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/ckp80d5nl586o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-23T21:40:30Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "fd9008b84733d84d8bcacd6d3d8d56b8550691d1",
-   "title": "'Biggest U-turn in economic history': Experts react to Jensen Huang's return to Nvidia",
-   "summary": [
-    "The Nvidia CEO was reinstated after weeks of controversy over his affair with an alleged Chinese spy."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/cq8r7e35mkzlo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-23T18:43:00Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "46132fec3248b895e7f8a2aaa2900bead37d691e",
-   "title": "Wild stock market swings: will I lose money, and is there anything I can do?",
-   "summary": [
-    "Shares are volatile amid jitters over tech and AI – but think carefully before you decide to ditch investments tooIt has been a volatile time on global stock markets, with rapid rallies and punishing sell-offs."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/23/falling-markets-will-i-lose-money-shares-tech-ai-investments",
-   "image": "https://i.guim.co.uk/img/media/58c90749993f306f97351fb1ed8c91f856905a5b/3_0_3564_2853/master/3564.jpg?width=140&quality=85&auto=format&fit=max&s=11c14ad5bdc32c1a1a54dde7a6827c70",
-   "published_at": "2026-11-23T14:51:44Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "50f4d6ff259d337c0f792e959460871e4203c8cf",
-   "title": "Nvidia reinstates CEO after affair with alleged spy",
-   "summary": [
-    "Senior US government officials backed Nvidia's decision to reinstate Jensen Huang, the company says in a statement."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/cqze7lwdglngo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-23T14:51:05Z",
    "category": "business",
    "related": []
   }
