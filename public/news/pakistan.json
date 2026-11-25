@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-25T12:37:53.627319Z",
- "story_count": 27,
+ "generated_at": "2026-11-25T22:25:05.478146Z",
+ "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
-  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/home": "ok",
+  "https://www.dawn.com/feeds/pakistan": "ok",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,411 +20,626 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "ok"
+  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
   {
-   "id": "371a3b2f6b4e3bb28dd8ca9e7e5725b5f1cc5377",
-   "title": "US CIA, ODNI suffer cybersecurity breach of some unclassified information, source says",
+   "id": "2a5a53c2fba1eb27b4f58f945a01ad7c6bd73016",
+   "title": "PIA passengers in UK left distressed as 2 flights cancelled due to abrupt Norse Atlantic suspension",
    "summary": [
-    "The US Central Intelligence Agency and the Office of the Director of National Intelligence recently discovered a cybersecurity breach that exposed some of their unclassified information, according to a person familiar with the matter.",
-    "The intrusions affected a network that looks for intelligence insights in public, unclassified material, according to the New York Times, which first reported on the breach.",
-    "While it was not clear specifically what unclassified material was compromised, information at other government agencies was also believed to have been exposed in the breach, the Times added."
+    "Pakistan International Airlines (PIA) said on Wednesday it will move its UK operations to its own Boeing 777 fleet from Nov 26 after wet-lease partner Norse Atlantic Airways abruptly suspended operations, forcing the cancellation of two flights from London and Manchester.",
+    "The development came after Norse Atlantic, a long-haul budget carrier, said its financial situation is “critical” and it requires new financing to meet short-term liquidity needs and continue operating.",
+    "Norse Atlantic says financial situation ‘critical’ In October, PIA signed an ACMI (aircraft, crew, maintenance, and insurance) lease agreement with Norse Atlantic Airways to acquire two state-of-the-art Boeing 787-9 Dreamliners, one of which arrived in Islamabad on Nov 1."
    ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2642283/us-cia-odni-suffer-cybersecurity-breach-of-some-unclassified-information-source-says",
-   "image": null,
-   "published_at": "2026-11-25T06:08:39Z",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047053/pia-passengers-in-uk-left-distressed-as-2-flights-cancelled-due-to-abrupt-norse-atlantic-suspension",
+   "image": "https://i.dawn.com/large/2026/11/2601335924c12d7.webp",
+   "published_at": "2026-11-25T21:58:07Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "c4e578c2acb10349d46a41404d7197cc49e51bbb",
-   "title": "Bollywood union asks Modi to bar Netflix's Pakistani series in India",
+   "id": "965cf013c461ebcde28f28621ec9d9edd3f8ca22",
+   "title": "Bangladesh ties of 'great importance' to Pakistan, President and PM tell visiting parliament speaker",
    "summary": [
-    "A prominent Bollywood workers' union has asked Prime Minister ‌Narendra Modi's government to ban the forthcoming Netflix series Jo Bachay Hain Sang Samait Lo in India, while seeking a law prohibiting content from Pakistan from being shown in the country.",
-    "India has asked all streaming platforms to stop screening Pakistani shows, many of which enjoy ‌a ⁠huge fan following in the country, and AICWA said Netflix would be in violation of the advisory if it showed the series.",
-    "\"We have also demanded a strong, permanent law with ​the severest penalties and we appeal to Netflix India and all OTT ​platforms never ⁠to show any Pakistani content in India,\" AICWA, which says it is the largest union of film workers, said in its letter."
+    "Bangladesh Parliament Speaker Hafizuddin Ahmad on Wednesday met with President Asif Ali Zardari and Prime Minister Shehbaz Sharif in Islamabad, where the Pakistani leaders reaffirmed that Islamabad attached “great importance” to its ties with Dhaka.",
+    "The president expressed Islamabad’s desire to further strengthen parliamentary cooperation with Dhaka, as well as highlighted bilateral cooperation in the education and media sectors.",
+    "President Zardari welcomed progress under the China-Bangladesh-Pakistan Trilateral Mechanism, particularly the identification of 12 priority areas of cooperation during the Kunming meeting on June 19, 2025, the statement said."
    ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2642280/bollywood-union-asks-modi-to-bar-netflixs-pakistani-series-in-india",
-   "image": null,
-   "published_at": "2026-11-25T06:01:09Z",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047036/bangladesh-ties-of-great-importance-to-pakistan-president-and-pm-tell-visiting-parliament-speaker",
+   "image": "https://i.dawn.com/large/2026/11/260134026ba6840.webp",
+   "published_at": "2026-11-25T20:51:29Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "aa0f616566e5f683ea9a827bb3ec61208a51b1c8",
-   "title": "Pak-Russian IGC inks Protocol, Programme for Economic Cooperation 2026–2030",
+   "id": "9fe8b8726bf051bcd217616ed2a1623b87c4317b",
+   "title": "KP’s Karak reports 'first polio case in 6 years', taking countrywide 2026 tally to 10",
    "summary": [
-    "Pakistan and Russia have signed a protocol and a five-year Programme for Economic Cooperation 2026–2030 at the 11th Intergovernmental Commission meeting in Moscow.",
-    "Read: Pakistan, Russia pledge to deepen security cooperation In transport and logistics, both sides agreed to work towards the early launch of a pilot cargo train to Russia.",
-    "It was also agreed that the 12th session of the Pakistan-Russia Intergovernmental Commission would be held in Pakistan in 2027."
+    "ISLAMABAD: The National Emergency Operations Centre for Polio Eradication (NEOC) has confirmed the country’s 10th paralytic polio case of the year, with the latest infection from Karak district in Khyber Pakhtunkhwa.",
+    "The country’s ninth polio case of the year was reported earlier this month, in KP’s Khyber district.",
+    "With the help of the vaccine and the efforts of hundreds of thousands of polio workers, Pakistan has reduced polio cases by 99.8pc since the launch of its national eradication programme in 1994."
    ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2642278/pak-russian-igc-inks-protocol-programme-for-economic-cooperation-20262030",
-   "image": null,
-   "published_at": "2026-11-25T05:57:27Z",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047027/kps-karak-reports-first-polio-case-in-6-years-taking-countrywide-2026-tally-to-10",
+   "image": "https://i.dawn.com/large/2026/01/30090517e4c569a.webp",
+   "published_at": "2026-11-25T18:27:07Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "a7b3ea8d8d5f73531bb472ae91744aee7cea978e",
-   "title": "Trump says he will meet El-Sayed on universal healthcare",
+   "id": "09e4b80ef59fbe3846568903ab1f43536ac44fb9",
+   "title": "Diesel price dips below Rs350 after 4 months; petrol rate down by Rs4",
+   "summary": [
+    "'8.5' : '10') + 'px Arial,sans-serif'; ctx.fillStyle = '#8a2510'; ctx.textAlign = 'left'; ctx.textBaseline = 'top'; ctx.fillText('Peak crisis', pxp + 4, PAD_T + 4); /* daily label */ ctx.font = (W < 440 ?",
+    "'+' : ''; var msg; if (i === 0) { msg = 'The pre-crisis price — petrol at Rs' + PRE_PETROL + ' and diesel at Rs' + PRE_DIESEL + ' per litre.",
+    "This is the baseline before the US-Iran war broke out on 28 Feb 2026.'; } else if (i === PEAK_IDX) { msg = 'All-time record — petrol was ' + sign + pct + '% above its pre-crisis level of Rs' + PRE_PETROL + '."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047017/petrol-diesel-price-for-nov-26-2026",
+   "image": "https://i.dawn.com/large/2026/04/251407086319e87.webp",
+   "published_at": "2026-11-25T17:52:25Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "29b1a7abe74221dc9fbab45f078e966fc1e0dc47",
+   "title": "At least 3 killed, 14 injured after under-construction building collapses near Karachi's Baloch Colony",
+   "summary": [
+    "KARACHI: At least three people were killed and 14 injured on Wednesday when an under-construction building collapsed in Karachi Administration Housing Society near Baloch Colony, according to police and rescue services officials.",
+    "Sindh CM directs SBCA to examine possible negligence, vows strict action Sindh Chief Minister Murad Ali Shah took notice of the incident and directed the relevant authorities to reach the site and expedite rescue operations, said a statement from the Chief Minister House.",
+    "The chief minister also directed the Karachi commissioner and relevant agencies to continuously monitor the rescue operation and submit a detailed report on the building collapse."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046989/at-least-3-killed-14-injured-after-under-construction-building-collapses-near-karachis-baloch-colony",
+   "image": "https://i.dawn.com/large/2026/11/251747404f17578.webp",
+   "published_at": "2026-11-25T17:11:38Z",
+   "category": "pakistan",
+   "related": [
+    {
+     "source": "Express Tribune",
+     "url": "https://tribune.com.pk/story/2642266/multi-storey-building-collapses-in-karachis-baloch-colony"
+    }
+   ]
+  },
+  {
+   "id": "0a0d5a96efb67fb30c738de63cd323e290558ed0",
+   "title": "NCCIA launches digital safety initiatives for Gen Z, kids and senior citizens",
+   "summary": [
+    "ISLAMABAD: The National Cyber Crime Investigation Agency (NCCIA) on Wednesday launched three dedicated sections on its official website to promote cyber awareness among young people, children and senior citizens, in a bid to make them safe digital citizens.",
+    "Generation Z Cyber Zone The Generation Z Cyber Zone provides young people with complete awareness regarding online fraud, fake links, protection of personal information, responsible use of social media and other essential safety precautions, the statement said.",
+    "Cyber Safety Guide for Senior Citizens Senior citizens will be made aware of essential safety measures in an easy and understandable manner to protect themselves against fraudulent phone calls, deceptive messages, suspicious links and misuse of personal information."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047012/nccia-launches-digital-safety-initiatives-for-gen-z-kids-and-senior-citizens",
+   "image": "https://i.dawn.com/large/2026/11/25220301bdbb168.webp",
+   "published_at": "2026-11-25T17:00:00Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "81a64a777fae3567d334fd46ebb696c8e744beac",
+   "title": "AJK Assembly sets conditions for resumption of dialogue with proscribed JAAC",
+   "summary": [
+    "It alleged that JAAC had subsequently interpreted the government’s concessions and flexibility as weakness and raised unconstitutional demands incompatible with the existing constitutional and democratic structure of AJK.",
+    "The resolution warned that in case of non-compliance with its demands, the AJK government should discharge its constitutional responsibilities by taking necessary legal action through LEAs to restore state authority, maintain public order and protect citizens’ lives and property.",
+    "It resolved that political differences and public demands would be addressed through dialogue and constitutional means, but there would be no compromise on the rule of law, state authority and the protection of public life and property."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047024/ajk-assembly-sets-conditions-for-resumption-of-dialogue-with-proscribed-jaac",
+   "image": "https://i.dawn.com/large/2026/11/252102576e77b02.webp",
+   "published_at": "2026-11-25T16:47:18Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "a60c86c0bd5f88d76d79d7446d2979149ca1d5d6",
+   "title": "At least 30 killed in blaze after vehicle overturns in Egypt, health ministry says",
+   "summary": [
+    "At least 30 people were killed and 15 ​injured when a vehicle carrying petroleum ‌products overturned and caught fire on a major ring road in Egypt, the ​health ministry said on Wednesday.",
+    "The ​ring road connects key highways across ⁠Greater Cairo, linking the governorates of ​Cairo, Giza and Qalyubia.",
+    "Road accidents are common in Egypt due to ‌factors ⁠including speeding, weak enforcement of traffic regulations and poor road conditions."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2642343/at-least-30-killed-in-blaze-after-vehicle-overturns-in-egypt-health-ministry-says",
+   "image": null,
+   "published_at": "2026-11-25T16:28:20Z",
+   "category": "pakistan",
+   "related": [
+    {
+     "source": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/25/at-least-30-killed-in-egypt-vehicle-fire-health-ministry-says?traffic_source=rss"
+    }
+   ]
+  },
+  {
+   "id": "7c522b253a7735d8a9f748913ccece62d44bffea",
+   "title": "‘A new era begins’: Pakistan’s Zeeshan Ali becomes first foreigner to board China's Tiangong space station",
+   "summary": [
+    "Pakistan’s Zeeshan Ali on Wednesday became the first foreign astronaut to board China’s Tiangong space station, marking a historic moment for his country’s science ambitions and Beijing’s efforts to extend its space diplomacy.",
+    "The military leadership has congratulated the nation, the Suparco and the scientific community on the historic launch of Pakistan’s first astronaut to China’s Tiangong space station, the Inter-Services Public Relations (ISPR) said in a press release.",
+    "The ISPR said the journey of Zeeshan Ali, Pakistan’s first astronaut and the first foreign astronaut to travel to the Chinese space station, marked a defining moment in the country’s scientific and technological advancement and was a source of immense pride for the nation."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046753/a-new-era-begins-pakistans-zeeshan-ali-becomes-first-foreigner-to-board-chinas-tiangong-space-station",
+   "image": "https://i.dawn.com/large/2026/11/251206526962ba7.webp",
+   "published_at": "2026-11-25T16:13:29Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "6ffbe799ca134fd472920bea3ac70475718a59eb",
+   "title": "Trump says he will meet 'smart guy' Abdul El-Sayed on universal healthcare",
    "summary": [
     "Trump described El-Sayed as “a smart guy” and said he had done “a very good job” promoting the idea.",
     "El-Sayed made universal healthcare a central issue in his campaign and sought to appeal directly to Trump by proposing that the plan carry the president’s name.",
     "We can do a lot of great things together.” Trump repeatedly attacked El-Sayed during the campaign, while the Michigan Democrat was a vocal critic of the Trump administration."
    ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2642276/trump-says-he-will-meet-el-sayed-on-universal-healthcare",
-   "image": null,
-   "published_at": "2026-11-25T05:31:08Z",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047020/trump-says-he-will-meet-smart-guy-abdul-el-sayed-on-universal-healthcare",
+   "image": "https://i.dawn.com/large/2026/11/252035254a10fc4.webp",
+   "published_at": "2026-11-25T15:42:19Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "507106c32e0a08c35a29f8fcef89189487232c69",
-   "title": "Israel's Eisenkot clinches first coalition agreement in bid to form government",
+   "id": "c4661b7c089cfa7303dc8db2c2943e9d2efcfa6b",
+   "title": "NCCIA claims busted call centre at Karachi's Sharea Faisal defrauding elderly US citizens",
    "summary": [
-    "Israel's Yashar party, led by former military chief Gadi Eisenkot, said on Tuesday it agreed to sign a coalition pact with a right-wing opposition party as it seeks to form a government following last month's election.",
-    "Israel's parliament was sworn in on November 10 without a new government, after the election on October 27 stripped Prime Minister Benjamin Netanyahu of his majority but left others with no clear path to power.",
-    "But they have potential allies in the parties representing Israel's Arab minority, which ​hold 19 seats and ⁠are aligned with Eisenkot in their vehement opposition to Netanyahu."
+    "The National Cyber Crime Investigation Agency (NCCIA) said on Wednesday that it had busted a call centre in Karachi for fraud, arresting five people and recovering Rs150 million in cash as well as about Rs60m in cryptocurrency.",
+    "According to a press release issued by the agency, the call centre allegedly defrauded elderly United States citizens with claims surrounding medical equipment and health insurance.",
+    "Earlier this month, the NCCIA claimed to have conducted a major operation against an alleged international fraud network and arrested 273 people from a call centre located on Sharea Faisal."
    ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2642274/israels-eisenkot-clinches-first-coalition-agreement-in-bid-to-form-government",
-   "image": null,
-   "published_at": "2026-11-25T05:19:26Z",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047010/nccia-claims-busted-call-centre-at-karachis-sharea-faisal-defrauding-elderly-us-citizens",
+   "image": "https://i.dawn.com/large/2026/09/09083614d633957.webp",
+   "published_at": "2026-11-25T14:53:55Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "9563070e3a672594ca814cfe322d2c38891c96e4",
-   "title": "Zardari, Xi exchange letters, hail first Pakistani astronaut's entry into China's space station",
+   "id": "0d89e42976b77b0b1b31b7107227f7cebb8ea632",
+   "title": "Minister vows to upgrade GB's road infrastructure, reviews ongoing development work",
    "summary": [
-    "In his letter to President Xi, President Zardari extended felicitations to the government and people of China on the landmark achievement and expressed profound appreciation for selecting Pakistan as the first foreign partner in China’s manned space programme.",
-    "President Zardari said the achievement reflects China’s remarkable progress in space science and technology as well as its commitment to international cooperation in the peaceful exploration and use of outer space.",
-    "The president said Pakistan takes immense pride in this historic achievement, which stands as another testament to the enduring friendship, mutual trust and close cooperation between the two countries."
+    "ISLAMABAD: Communications Minister Abdul Aleem Khan vowed on Wednesday to upgrade the road infrastructure of Gilgit-Baltistan (GB) to modern standards.",
+    "The minister said that the NHA had been directed to install lights along the Jaglot–Skardu Road, establish rescue services, and further enhance travel facilities for commuters.",
+    "The federal secretary for communications, NHA chairman and other senior officials briefed Aleem on the progress of various projects and apprised him of the challenges faced in their execution."
    ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2642273/zardari-xi-exchange-letters-hail-first-pakistani-astronauts-entry-into-chinas-space-station",
-   "image": null,
-   "published_at": "2026-11-25T05:19:23Z",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047006/minister-vows-to-upgrade-gbs-road-infrastructure-reviews-ongoing-development-work",
+   "image": "https://i.dawn.com/large/2026/11/25190152938bbf7.webp",
+   "published_at": "2026-11-25T14:48:51Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "8207adc3e67dcf3b3300cd5114f888bd1af8b43e",
-   "title": "IHC reserves verdict on live-streaming of £190m case appeal",
+   "id": "98e717f84316be9e894c3ff95ec77963a93afc4f",
+   "title": "US approves SpaceX plan to deploy one million data center satellites",
    "summary": [
-    "At the hearing, Safdar requested that Imran and Bushra Bibi be allowed to meet next week.",
-    "The case Imran and Bushra Bibi are facing a £190 million graft case linked to the Al-Qadir Trust, a welfare organisation they established in 2018.",
-    "He subsequently filed a civil miscellaneous application in the IHC seeking a hearing of his appeals against the accountability court verdict, which convicted him and his wife in the £190 million corruption case."
+    "The US Federal Communications Commission (FCC) announced on Wednesday that it had authorised Elon Musk's SpaceX to deploy up to one million satellites designed to operate as data centers in space.",
+    "The authorisation, described by the agency as the first of its kind in US history, allows SpaceX to establish its Starmind constellation of orbital computing modules to process large amounts of data for use on Earth.",
+    "SpaceX first submitted its application for the orbital data centre network in January 2026, seeking permission to deploy as many as one million satellites."
    ],
    "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2642271/ihc-reserves-verdict-on-live-streaming-of-190m-case-appeal",
+   "url": "https://tribune.com.pk/story/2642328/us-approves-spacex-plan-to-deploy-one-million-data-center-satellites",
    "image": null,
-   "published_at": "2026-11-25T04:58:51Z",
+   "published_at": "2026-11-25T14:38:53Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "4138b0788c36b216dae6896b7610c4a749e867e6",
-   "title": "PM Shehbaz orders swift overhaul of NCCIA to combat cybercrime",
+   "id": "2af4e933d1c7c8222a2816c2a64b84a979d0dc1b",
+   "title": "Mystery surrounds boat accident off Libyan coast as Bajaur families claim 25 deaths",
    "summary": [
-    "The prime minister also ordered officials to utilise all available resources to clear the backlog of cybercrime cases.",
-    "Earlier this week, the NCCIA investigation exposed the increasingly complex nature of cybercrime, including an alleged online betting and money-laundering network involving transactions worth up to Rs1 trillion.",
-    "Before that, on Nov 17, the agency announced the arrest of 130 suspects, including nine women, in operations targeting international fraud networks, illegal call centres, personal data trafficking and online blackmailing."
+    "Several families across Bajaur were left shell-shocked and plunged into mourning after reports emerged that 35 local youths had died and several others were missing following a boat accident off the Libyan coast while attempting to reach Europe through illegal routes.",
+    "According to local sources, the victims' families said agents who had arranged their journeys abroad had informed them about the accident and the deaths of their loved ones.",
+    "Minister of State Mubarak Zeb Khan said he was in contact with the Pakistani embassy and officials of the Ministry of Overseas Pakistanis, adding that efforts would be made to repatriate the bodies and assist the affected families."
    ],
    "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2642267/pm-shehbaz-orders-swift-overhaul-of-nccia-to-combat-cybercrime",
+   "url": "https://tribune.com.pk/story/2642326/mystery-surrounds-boat-accident-off-libyan-coast-as-bajaur-families-claim-25-deaths",
    "image": null,
-   "published_at": "2026-11-25T04:30:54Z",
+   "published_at": "2026-11-25T14:14:03Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "f9213665b0a07767d74d1ef92f6181709250f711",
-   "title": "One killed, six injured as under-construction building collapses in Karachi's Baloch Colony",
+   "id": "bc557447c65bf09961741eb27b4b722b8e4d11aa",
+   "title": "Tarar urges social media companies to establish offices in Pakistan",
    "summary": [
-    "One worker was killed, and six others were injured after a six-storey under-construction building collapsed in Karachi's Baloch Colony near Sharah-e-Faisal on Wednesday, with several others feared trapped under the rubble, a Rescue 1122 spokesperson said.",
-    "Read: At least 10 killed as three-storey building collapses in Lahore's Baghbanpura President Asif Ali Zardari expressed grief over the building collapse and directed the Sindh government to expedite rescue operations and ensure immediate medical assistance for the injured.",
-    "He directed that the investigation examine construction standards, the building's approved plan, and oversight by the relevant authorities."
+    "Federal Information Minister Attaullah Tarar on Wednesday urged social media companies to establish their offices in Pakistan and expand their presence in the country.",
+    "Social media platforms are paying you according to your [number of] views,” he said. “There is an algorithmic injustice,” he declared. “Social media has failed to protect the dignity and privacy of citizens,” the minister went on to say.",
+    "However, the government could not push social media companies to adhere to the laws of the country, Tarar said."
    ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2642266/multi-storey-building-collapses-in-karachis-baloch-colony",
-   "image": null,
-   "published_at": "2026-11-25T04:27:36Z",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047005/tarar-urges-social-media-companies-to-establish-offices-in-pakistan",
+   "image": "https://i.dawn.com/large/2026/11/25182620c38b0b9.webp",
+   "published_at": "2026-11-25T13:59:32Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "1f9a26ade4e18ed7b498cd592f1823412c8dacac",
-   "title": "LHC warns of consequences over alleged illegal detention of Fazlur Rehman",
+   "id": "e028736ee748ef6b5a27d462a03f77213595d1aa",
+   "title": "US unveils proposed tariffs on major partners, including EU, China and India",
    "summary": [
-    "Read: JUI-F moves LHC after Fazlur Rehman stopped from leaving Lahore residence The Punjab Inspector General of police, Lahore Deputy Commissioner and other officials have been named as respondents in the petition.",
-    "The same day, party leaders condemned the withdrawal of security from Fazl and his son, Maulana Asad Mahmood, and alleged that police had cordoned off the JUI-F chief’s Islamabad residence.",
-    "The petition requested the court to direct the police to lift the alleged siege of Fazlur Rehman's residence."
+    "The United States on Wednesday unveiled proposed tariffs on 14 economies, including the European Union, China and India, after a months-long probe into alleged excess production — the latest move by US President Donald Trump to remake Washington’s trade relationships.",
+    "Trump’s latest duties come after an investigation the US Trade Representative started in March on excess manufacturing capacity and production.",
+    "For economies facing both the forced labour and excess production tariffs, the levies would not stack, the US official said."
    ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2642263/lhc-warns-of-consequences-over-alleged-illegal-detention-of-fazlur-rehman",
-   "image": null,
-   "published_at": "2026-11-25T03:54:48Z",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047008/us-unveils-proposed-tariffs-on-major-partners-including-eu-china-and-india",
+   "image": "https://i.dawn.com/large/2026/11/25183916f525cbd.webp",
+   "published_at": "2026-11-25T13:40:45Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "55216f2b115613b52f1fc4b214dc9c7cd5f31e8c",
-   "title": "Pakistan wrestling faces Olympic funding crisis as LA 2028 dream fades",
+   "id": "cf42eb3754b93bf5ea398ccd3bcbe7e4f353e3d9",
+   "title": "California grand jury indicts Meghan Markle's estranged father on child porn charges",
    "summary": [
-    "Pakistan’s hopes of returning to the Olympic wrestling arena at the 2028 Los Angeles Games are already under threat.",
-    "The road to Los Angeles is particularly challenging for Pakistan, where a lack of sustained financial support threatens to undermine a sport that has traditionally delivered international medals.",
-    "Inam believes Pakistan can win medals if the two wrestlers receive adequate preparation and international-standard training. “I think if we send them to any Russian state for two to three months of training, we can finish on the podium,” he said."
+    "The estranged father of Meghan Markle, wife of Britain’s Prince Harry, was indicted by a California grand jury on Tuesday on two counts of possession of child pornography.",
+    "Thomas Markle, 82, who is already in custody in Florida after removing the ankle monitor that had been attached as a condition of house arrest, is expected to be arraigned in the United States District Court in Los Angeles in the coming weeks.",
+    "Meghan Markle said last month that she was “deeply distressed” by accusations that her father possessed images of child sexual abuse."
    ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2642262/pakistan-wrestling-faces-olympic-funding-crisis-as-la-2028-dream-fades",
-   "image": null,
-   "published_at": "2026-11-25T03:45:22Z",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047002/california-grand-jury-indicts-meghan-markles-estranged-father-on-child-porn-charges",
+   "image": "https://i.dawn.com/large/2026/11/25173158f56008d.webp",
+   "published_at": "2026-11-25T13:24:33Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "81b2459101aa30a36e1ee8f197c0c9cc9de83e87",
-   "title": "Sooryavanshi says Yuvraj Singh advice inspired record-breaking 204",
+   "id": "829258fb2b51ab2df28772a8bf9427dd24794677",
+   "title": "AJK Assembly offers conditional talks with JAAC, demands disbandment of armed groups",
    "summary": [
-    "Vaibhav Sooryavanshi says a half-hour pep talk with his idol Yuvraj Singh helped propel the teenage Indian batting sensation to his record-breaking 204 off 53 balls.",
-    "Sooryavanshi smashed his hundred off just 28 deliveries, one ball faster than the previous record held by Australia's Jake Fraser-McGurk.",
-    "\"I spoke to Yuvi Sir, who is my idol, and listened to him with attention,\" Sooryavanshi said in an interview released by the Board of Control for Cricket in India on Wednesday."
+    "The resolution was unanimously adopted during a session chaired by AJK Legislative Assembly Speaker Chaudhry Tariq Farooq.",
+    "Read: AJK orders registration of all weapon licences within 10 days The House condemned the presence of armed groups, the closure of highways, attacks on government institutions and violence against law enforcement personnel.",
+    "According to the figures presented in the AJK Legislative Assembly, 34 law enforcement personnel were martyred and 248 injured during the unrest that began in June."
    ],
    "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2642261/sooryavanshi-says-yuvraj-singh-advice-inspired-record-breaking-204",
+   "url": "https://tribune.com.pk/story/2642324/ajk-assembly-offers-conditional-talks-with-jaac-demands-disbandment-of-armed-groups",
    "image": null,
-   "published_at": "2026-11-25T03:42:39Z",
+   "published_at": "2026-11-25T13:23:24Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "ffb10a94ffaf08b607eeaf7f0a1b8bbb0975939f",
-   "title": "6 dead after small aircraft crashes off Mississippi coast",
+   "id": "ceb592aabb6f916daa4974950638cebf6e9f4834",
+   "title": "JUI alleges arrest of Maulana Ghafoor Haideri, other party leaders by Punjab Police",
    "summary": [
-    "Six people aboard a small aircraft were found dead after it crashed off the Mississippi coast, with rescue teams recovering their remains following an hours-long search, the US Coast Guard said on Wednesday.",
-    "Divers from the Mississippi Department of Marine Resources located the remains of all six occupants inside the aircraft's fuselage, about 2 miles (3.2 kilometres) northeast of Horn Island, according to a Coast Guard statement.",
-    "The operation involved Coast Guard crews, the Mississippi Department of Marine Resources, Harrison County divers, Pascagoula police, the FBI and a US Air Force C-130 aircrew."
+    "Jamiat Ulema-e-Islam-Fazl (JUI-F) spokesperson Aslam Ghauri on Wednesday alleged that party secretary-general Maulana Abdul Ghafoor Haideri had been arrested by Punjab Police, along with Punjab emir Maulana Amjad Khan and Jamiat Talaba-e-Islam (JTI) central president Malik Owais.",
+    "The development follows a series of events that have strained relations between the JUI-F and the government, including the withdrawal of security cover for JUI-F chief Maulana Fazlur Rehman and his son, Maulana Asad Mahmood.",
+    "The same day, party leaders condemned the withdrawal of security from Fazl and his son, Maulana Asad Mahmood, and alleged that police had cordoned off the JUI-F chief’s Islamabad residence."
    ],
    "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2642260/6-dead-after-small-aircraft-crashes-off-mississippi-coast",
+   "url": "https://tribune.com.pk/story/2642323/jui-alleges-arrest-of-maulana-ghafoor-haideri-other-party-leaders-by-punjab-police",
    "image": null,
-   "published_at": "2026-11-25T03:41:19Z",
+   "published_at": "2026-11-25T13:14:58Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "6ec49a7527d002e5bf16dc552643169f8a5bdbd7",
-   "title": "'Quite good at slogging' - England revel in new batting talent Donald",
+   "id": "bb52b0aa259f31bb0f6fedce111a19cb52f7df84",
+   "title": "Senate body questions SECP over alleged fraud using Hum Network's name",
    "summary": [
-    "Dynamic new England opener Aneurin Donald says he is not great at batting but \"quite at slogging\" after his blistering 85 against Australia thrust him into the global Twenty20 spotlight.",
-    "England's all-Welsh opening partnership of Donald and Phil Salt produced a brutal display of power hitting at the Gold Coast on Tuesday as the visitors won the second of their five-match series by eight wickets.",
-    "\"I've realised I'm not great at batting, but quite good at slogging,\" said Donald on the change of technique that has seen him break into the England team."
+    "Read: Senate panel questions 'outdated' Pakistan Post operations SECP officials informed the committee that HUM Network was a listed company registered in 2004, with business interests in television programming and other sectors.",
+    "The committee decided to summon officials of the SBP, SECP and other relevant institutions at its next meeting to give a detailed briefing on the matter.",
+    "SECP officials told the committee that a letter had been sent to Hum Network seeking details of its Dubai-based entity and related bank accounts from HUM News Network."
    ],
    "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2642259/quite-good-at-slogging-england-revel-in-new-batting-talent-donald",
+   "url": "https://tribune.com.pk/story/2642322/senate-body-questions-secp-over-alleged-fraud-using-hum-networks-name",
    "image": null,
-   "published_at": "2026-11-25T03:39:56Z",
+   "published_at": "2026-11-25T13:05:57Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "acdfb67f61da747d0934cca4d6bb9bab8649f4fc",
-   "title": "Australia passes law forcing internet platforms to take down harmful content",
+   "id": "7c0b8a02f775af1d483e10fda447c7d528940442",
+   "title": "Raising our sons",
    "summary": [
-    "Australia passed a law requiring internet companies to proactively stamp out harmful content and features or face fines of up to 5% of global revenue, a centrepiece of a campaign to rein in Big Tech decried by free speech advocates.",
-    "The Digital Duty of Care will take effect in a year and replaces a patchwork of online codes of conduct with an all-encompassing law which the government says puts the onus on platforms to prioritise the safety of Australians.",
-    "Some industry groups had warned the law might encourage platforms to become heavy-handed when deciding what content to take down as they sought to avoid punishment."
+    "In Pakistan, rape is treated as a woman’s problem.",
+    "In Pakistan, rape is treated as a woman’s problem even though it is something men do, most often men she knows.",
+    "Government, media and advertisers could carry one national message, every day, not once a year: rape is a man’s choice and a man’s shame, and every man has a responsibility to speak up."
    ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2642258/australia-passes-law-forcing-internet-platforms-to-take-down-harmful-content",
-   "image": null,
-   "published_at": "2026-11-25T03:39:24Z",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046929/raising-our-sons",
+   "image": "https://i.dawn.com/large/2026/03/69acd817ec5c3.jpg",
+   "published_at": "2026-11-25T12:39:01Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "bbca8e510bf8ae7f6a595682de3708d25ae06d5c",
-   "title": "PSX pares early gains as global sell-off weighs on sentiment",
+   "id": "5086d228cf747e1575fd35015772217ac53b2f62",
+   "title": "Rawalpindiz secure Matthew Short as direct signing; Hyderabad Kingsmen opt out",
    "summary": [
-    "The Pakistan Stock Exchange (PSX) struggled to sustain its early momentum on Wednesday as an initially positive start gave way to selling pressure, with a sharp decline in regional equities and renewed global trade concerns weighing on investor sentiment.",
-    "However, the positive momentum proved difficult to sustain as investors remained cautious amid mounting concerns in international markets.",
-    "Crude oil prices fell more than 1% on Wednesday, giving up part of the previous session's gains as expectations of a market surplus outweighed concerns over potential shipping disruptions in the Middle East."
+    "Rawalpindiz have confirmed the signing of Australian all-rounder Matthew Short as their marquee direct signing for the 12th edition of the Pakistan Super League (PSL), which is scheduled to run from March 18 to May 2 next year.",
+    "The 31-year-old, who captains Adelaide Strikers in the Big Bash League (BBL), becomes one of the highest-paid direct signings for the upcoming season.",
+    "Under PCB regulations, each franchise is permitted one direct signing of a marquee player who did not appear in PSL 10 or PSL 11."
    ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2642257/psx-pares-early-gains-as-global-sell-off-weighs-on-sentiment",
-   "image": null,
-   "published_at": "2026-11-25T03:29:22Z",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2047000/rawalpindiz-secure-matthew-short-as-direct-signing-hyderabad-kingsmen-opt-out",
+   "image": "https://i.dawn.com/large/2026/11/25171402ceed817.webp",
+   "published_at": "2026-11-25T12:19:59Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "c70b770954f6f68c1e0f12d2ac928954a0945e0f",
-   "title": "Pakistan, China agree to fast-track LPG plant, petrol import projects",
+   "id": "4c8ba718ad7cd6408382d9c51a0a742d63696e54",
+   "title": "Govt slashes petrol by Rs4, diesel by Rs5 for Nov 26",
    "summary": [
-    "Energy Minister Ali Pervaiz Malik and Chinese Ambassador Jiang Zaidong on Wednesday agreed to fast-track liquefied petroleum gas (LPG) plant and petrol import projects, the Ministry of Energy said.",
-    "\"Both sides agreed to fast-track LPG plant and petrol import projects and establish a Joint Commercial Team to turn investment opportunities into concrete projects,\" the ministry said.",
-    "The latest engagement came amid renewed efforts by Pakistan to attract Chinese investment in its petroleum and energy infrastructure, including oil and gas exploration, refinery modernisation, storage facilities and offshore development."
+    "The federal government on Wednesday decreased the price of petrol by Rs4 per litre and that of high-speed diesel (HSD) by Rs5 per litre for November 26.",
+    "The latest revision comes a day after the government decreased the price of petrol by Re1 per litre and that of HSD by Rs4 per litre for November 25.",
+    "Read: Govt cuts petrol by Re1, diesel by Rs4 for Nov 25 On November 2, the government announced that oil refineries would bear a burden of Rs15 billion per month, which would allow petrol to be sold Rs15 cheaper than it was in the global market amid the US-Israeli war on Iran."
    ],
    "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2642255/pakistan-china-agree-to-fast-track-lpg-plant-petrol-import-projects",
+   "url": "https://tribune.com.pk/story/2642319/govt-cuts-petrol-by-rs4-diesel-by-rs5-for-nov-26",
    "image": null,
-   "published_at": "2026-11-25T03:25:15Z",
+   "published_at": "2026-11-25T11:57:38Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "abbdc4be2776f64b89ac8d4509ad6f192526260f",
-   "title": "Israeli airstrike kills four members of Palestinian family in latest Gaza ceasefire violation",
+   "id": "d2bc81aa91882dc9adfccc247e951f70d9ff7f8d",
+   "title": "£190m corruption case: Imran, Bushra's counsel says transaction caused no loss to exchequer",
    "summary": [
-    "In southern Gaza, a medical source at Nasser Hospital said a girl was moderately wounded after Israeli forces fired toward tents housing displaced Palestinians in the Hamad residential area north of Khan Younis.",
-    "Storm threatens lives of 1.76 million Palestinians sheltering in tents: Gaza media office A powerful storm expected to hit the Gaza Strip within days could endanger the lives of 1.76 million displaced Palestinians living in tents, Gaza’s Government Media Office warned Tuesday.",
-    "Gaza’s Government Media Office said Tuesday it had documented 6,405 Israeli violations of the ceasefire and reported that 1,690 Palestinians had been killed, 6,120 wounded and 223 detained in those incidents."
+    "ISLAMABAD: In the £190 million corruption case, counsel for PTI founder and former prime minister Imran Khan and his wife, Bushra Bibi, argued that the transaction had caused no loss to the national exchequer but had instead proved financially beneficial.",
+    "According to the prosecution’s case, Imran allegedly approved the transfer of the frozen funds to an account maintained by the Supreme Court in violation of the Rules of Business.",
+    "The prosecution had alleged that Riaz provided Rs285 million for the university’s building and furniture, but the amount was never transferred to Imran or Bushra’s personal accounts, the counsel argued."
    ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2642252/israeli-airstrike-kills-four-members-of-palestinian-family-in-latest-gaza-ceasefire-violation",
-   "image": null,
-   "published_at": "2026-11-25T03:06:36Z",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046995/ps190m-corruption-case-imran-bushras-counsel-says-transaction-caused-no-loss-to-exchequer",
+   "image": "https://i.dawn.com/large/2026/04/29175800a108e70.webp",
+   "published_at": "2026-11-25T11:55:33Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "743a1d634ffcf71f05b312d8e39b828808781f23",
-   "title": "From Pakistan to space: Zeeshan Ali's remarkable journey in pictures",
+   "id": "74b753adf1a43ad222b8c8cff7ae94051a6a21cf",
+   "title": "Pakistan reports 8th polio case from K-P as nationwide tally reaches 10 in 2026",
    "summary": [
-    "Pakistani astronaut Zeeshan Ali made history on Wednesday by becoming the first astronaut from Pakistan to reach China's Tiangong space station, opening a new chapter in scientific and technological cooperation between the two countries.",
-    "The astronauts aboard the spacecraft include mission commander and spacecraft pilot Tang Hongbo, flight engineer Wu Yi and Pakistan's Ali.",
-    "Photo: Reuters Pakistani astronaut Muhammad Zeeshan Ali salutes during a press conference before the Shenzhou-24 spaceflight mission to China's Tiangong space station, at the Jiuquan Satellite Launch Center, near Jiuquan, Gansu province, China, November 24, 2026."
+    "Pakistan on Wednesday reported its 10th polio case of 2026 after a 14-month-old girl from Karak district in Khyber-Pakhtunkhwa (K-P) tested positive for the virus, the National Emergency Operations Centre (NEOC) said.",
+    "Read: Pakistan reports ninth polio case of 2026 as virus spreads in K-P Among the eight cases reported in the province, four have emerged from southern K-P, it added.",
+    "Also Read: Karachi polio case takes Pakistan’s tally to seven this year It also appealed to all segments of society to play their role in efforts to eradicate polio from the country."
    ],
    "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2642250/from-pakistan-to-space-zeeshan-alis-historic-journey-in-pictures",
+   "url": "https://tribune.com.pk/story/2642317/pakistan-reports-8th-polio-case-from-k-p-as-nationwide-tally-reaches-10-in-2026",
    "image": null,
-   "published_at": "2026-11-25T03:00:18Z",
+   "published_at": "2026-11-25T11:29:22Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "68b2f0cb4b078cc505fe78cab88e46f0c0923c6c",
-   "title": "PM Shehbaz lauds Musadik Malik's diplomacy at Delhi SCO forum",
+   "id": "da2166c7f284299466df1e583add0556cff73057",
+   "title": "India says 'cockroach' movement leader Das was told not to use passport",
    "summary": [
-    "Background Malik visited New Delhi from November 20 to 22 to lead Pakistan's delegation to the inaugural SCO Civilisational Dialogue Forum.",
-    "During the forum, Malik delivered his address in Urdu, highlighting Pakistan's diverse cultural heritage and its historical connections with Central Asia, Persia, Arabia and the wider region.",
-    "He also explained that he had chosen to address the civilisational forum in Urdu because he wanted to speak from the heart and reflect Pakistan's cultural identity."
+    "India's foreign ministry said on Wednesday that passport authorities asked 'cockroach' movement leader Saurav Das not to ​use his passport until he clarified information about ‌his place of birth.",
+    "Das said on Monday he was stopped at Delhi airport hours before he was due to fly to London to address students, following a notice issued by passport authorities.",
+    "Das alleges passport leak by BJP-aligned social media accounts, vows legal action In a social media post on X, Das accused social media accounts aligned with PM Modi's BJP of leaking his passport details, saying he would file a criminal complaint against those involved."
    ],
    "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2642245/pm-shehbaz-lauds-musadik-maliks-diplomacy-at-delhi-sco-forum",
+   "url": "https://tribune.com.pk/story/2642314/india-says-cockroach-movement-leader-das-was-told-not-to-use-passport",
    "image": null,
-   "published_at": "2026-11-25T02:03:03Z",
+   "published_at": "2026-11-25T11:05:43Z",
+   "category": "pakistan",
+   "related": [
+    {
+     "source": "Dawn",
+     "url": "https://www.dawn.com/news/2047015/india-says-cockroach-movement-leader-das-told-not-to-use-passport"
+    }
+   ]
+  },
+  {
+   "id": "e560f03c7a549d0a0f3351ff5dd21dc1ecf69448",
+   "title": "'Let’s not blow it out of proportion': De Villiers urges cricket to move on from 'Sandpapergate'",
+   "summary": [
+    "Former South Africa captain AB de Villiers said lessons must be learnt from the 2018 ball-tampering scandal involving Australia but urged the sport to move on from “Sandpapergate”.",
+    "And I think it affects the whole cricketing world, not just Australia,” De Villiers said. “We all want the game to be in a good position, right?",
+    "They need to clear it up completely and find a way for reverse swing to survive and still be around for many years to come. “I feel it’s part and parcel of the game, and it’s great for the bowlers to have that."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046997/lets-not-blow-it-out-of-proportion-de-villiers-urges-cricket-to-move-on-from-sandpapergate",
+   "image": "https://i.dawn.com/large/2016/09/57cf73a3e450c.jpg",
+   "published_at": "2026-11-25T10:52:48Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "d6c78356e1fcc7459762d24b277cc5c7df5f27bc",
-   "title": "Political, military leaders hail Zeeshan Ali's historic space mission, laud Pakistan-China ties",
+   "id": "3ef76569a592d95105f1315b97ff8efc24af51bf",
+   "title": "National conference calls for stronger safeguards for freedom of expression, journalist safety and accountability",
    "summary": [
-    "In his letter to President Zardari, the Chinese president congratulated the government and people of Pakistan, astronauts from both countries and their respective space industry teams on the Pakistani astronaut's successful entry into space aboard China's Shenzhou spacecraft.",
-    "Dar hails milestone in Pakistan-China partnership Deputy Prime Minister and Foreign Minister Ishaq Dar also congratulated the people of Pakistan and China on the successful launch of Shenzhou-24, carrying a Pakistani astronaut to the Tiangong space station.",
-    "Standing there watching Pakistan’s first astronaut, Zeeshan Ali, prepare to lift off as the first international guest aboard China’s space station was a deeply emotional and historic moment for our entire nation."
+    "The legislation drew widespread criticism from journalists, media organisations and rights activists, who argue that it undermined the fundamental right to freedom of expression.",
+    "The conference also underscored the need for sustained collaboration among policymakers, public institutions, media organisations and civil society to safeguard freedom of expression and create a safer, more accountable and financially sustainable media environment in Pakistan.",
+    "The report, titled “Regulatory Repression of Freedom of Expression – Legal Controls and PECA Undermine Media and Journalism in Pakistan”, identified the amended PECA as the most “consequential instrument” being used to restrict journalists and free speech practitioners."
    ],
    "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2642241/political-military-leaders-hail-zeeshan-alis-historic-space-mission-laud-pakistan-china-ties",
+   "url": "https://tribune.com.pk/story/2642313/national-conference-calls-for-stronger-safeguards-for-freedom-of-expression",
    "image": null,
-   "published_at": "2026-11-25T01:26:47Z",
+   "published_at": "2026-11-25T10:52:45Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "f232d64ee06176d6f00ee82895a2b74265f2a5bd",
-   "title": "ATC seeks report on Afridi's whereabouts in Radio Pakistan attack case",
+   "id": "f941a8cabc1ad6cbbd7fa198a6f4854acc0ca449",
+   "title": "President Zardari calls for stronger Pakistan-Bangladesh ties, offers defence cooperation",
    "summary": [
-    "The case relates to the attack on and arson at the Radio Pakistan building in Peshawar during violent protests on May 9 and 10, 2023, following the arrest of PTI founder Imran Khan.",
-    "It was registered on the complaint of Radio Pakistan, which nominated Afridi, former ministers Taimur Saleem Jhagra, Kamran Bangash and Irfan Saleem, and Aamir Khan Chamkani.",
-    "On November 17, PTI leaders Taimur Saleem Jhagra and Kamran Bangash were arrested under Section 3 of the Maintenance of Public Order (MPO) Ordinance, hours after the Peshawar High Court granted them interim pre-arrest bail in the Radio Pakistan attack case."
+    "President Zardari stressed the need to deepen bilateral relations through educational links and people-to-people contacts, while reaffirming Pakistan's readiness to extend defence cooperation to Bangladesh.",
+    "Highlighting educational cooperation, the president referred to the Pakistan-Bangladesh Knowledge Corridor launched last year, which offers 500 fully funded scholarships to Bangladeshi students at leading Pakistani universities.",
+    "Also Read: Pakistan attaches great importance to its relations with Bangladesh: DPM Dar Discussing bilateral trade, Zardari observed that trade between the two countries remained below its potential."
    ],
    "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2642240/atc-seeks-report-on-afridis-whereabouts-in-radio-pakistan-attack-case",
+   "url": "https://tribune.com.pk/story/2642312/president-zardari-calls-for-stronger-pakistan-bangladesh-ties-offers-defence-cooperation",
    "image": null,
-   "published_at": "2026-11-25T01:15:03Z",
+   "published_at": "2026-11-25T10:33:03Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "57ea14f2a49572603273a5c78aaee20a644c399b",
-   "title": "Bloodied but unbowed: Galatasaray's Gul stuns Villa",
+   "id": "1d38555f9d46fb362f073437515e175438a93918",
+   "title": "Trump unveils new tariffs to fight excess factory capacity, undeterred by midterms defeat",
    "summary": [
-    "Galatasaray inflicted Aston Villa's second successive Champions League defeat as blood-soaked Deniz Gul sealed a 1-0 victory in Istanbul on Tuesday.",
-    "Gul was left with blood pouring from his face after being kicked in the head by Villa's Nicolas Jackson while the Galatasaray forward was in the process of nodding in the second-half winner at RAMS Park.",
-    "Villa won their first three league phase matches but defeats at Barcelona and now Galatasaray have derailed their bid to qualify for the last-16 via a top-eight finish."
+    "His administration proposed new ‌headline tariff rates of 20% to 40%, but said duties would be capped at lower levels agreed under trade deals that have already been concluded or remain under negotiation.",
+    "Under the main \"Section 301\" probe into excess ​industrial capacity, China would face the highest capped rate of 20%, which would be added to duties of roughly 25% imposed during Trump's first ⁠term.",
+    "The U.S. has proposed new tariffs on 14 partners including China, the European Union, Japan and India, as President Donald Trump doubles down on levies, despite a large chunk of his previous duties being struck down by the Supreme Court."
    ],
    "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2642239/bloodied-but-unbowed-galatasarays-gul-stuns-villa",
+   "url": "https://tribune.com.pk/story/2642310/us-unveils-proposed-tariffs-on-major-partners-including-eu-and-china",
    "image": null,
-   "published_at": "2026-11-25T00:59:01Z",
+   "published_at": "2026-11-25T09:32:28Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "650d08fcacb989f1ac0228d2d1f2cc64642e9a2c",
-   "title": "'Pakistan has begun its journey beyond the stars': Shenzhou-24 carrying Zeeshan Ali docks at China's space station",
+   "id": "3d6bd482467123d647e1497fff9f92e927d7d587",
+   "title": "Fact check: Viral video of petals being showered on Sikh pilgrims is not from Guru Nanak’s 557th birth anniversary celebrations in Nankana Sahib",
    "summary": [
-    "Pakistan entered a new era of space exploration on Wednesday as Zeeshan Ali became the country's first astronaut to board China's Tiangong space station, paving the way for greater international cooperation in scientific research.",
-    "Standing there watching Pakistan’s first astronaut, Zeeshan Ali, prepare to lift off as the first international guest aboard China’s space station was a deeply emotional and historic moment for our entire nation.",
-    "The minister prayed for the successful completion of Ali’s space mission and expressed the hope that Pakistan-China friendship would continue to reach new heights."
+    "Local digital media outlet Azaad Urdu also shared the same video captioned: “Pakistan’s unparalleled hospitality: Sikhs who came from India showered with rose petals from a helicopter.” Business Recorder also shared the same video on its Instagram account.",
+    "FACT-CHECK STATUS: FALSE The claim that a viral video shows a helicopter showering rose petals on Sikh pilgrims arriving from India for Baba Guru Nanak’s 557th birth anniversary celebrations in Nankana Sahib is false.",
+    "The video is old and shows a helicopter showering rose petals over Harmandir Sahib (the Golden Temple) in Amritsar, Indian Punjab, on October 28, 2023."
    ],
    "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2642235/shenzhou-24-carrying-pakistans-first-astronaut-docks-at-chinas-space-station",
+   "url": "https://tribune.com.pk/story/2642307/fact-check-video-of-petals-being-showered-on-sikh-pilgrims-not-from-guru-nanaks-birth-celebrations",
    "image": null,
-   "published_at": "2026-11-25T00:43:22Z",
+   "published_at": "2026-11-25T09:19:19Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "7a0a2587b490ed22ed0af35517b6663174a8efb9",
-   "title": "Speakers call for social media accountability, balanced regulation to curb disinformation",
+   "id": "024dfda6b2750fbc914bc2521a23795c9fb1a24d",
+   "title": "Maldives national airline to start direct flights to Pakistan soon, meeting told",
    "summary": [
-    "Information Minister Attaullah Tarar said Pakistan had nearly 100 million social media users and around 160 million smartphone users, making the spread of unverified information a major challenge.",
-    "He said the shift from traditional to social media had transformed the information landscape, allowing anyone with a smartphone to produce and disseminate content and making verification increasingly difficult.",
-    "Memon urged social media platforms to deploy artificial intelligence and other tools to identify harmful content, particularly material inciting violence."
+    "Well-known Pakistani cricketers, artists and other celebrities will travel to the Maldives on the first direct flight, the meeting was told. “Pakistani celebrities are extremely popular in Maldives; their arrival will promote tourism,” the Maldivian minister said.",
+    "During President Muizzu’s visit, Prime Minister Shehbaz Sharif said he had issued instructions for direct flights between Pakistan and the Maldives.",
+    "The premier said he had been informed by President Muizzu that Muizzu had given instructions “to his airline to work out a quick plan to start flights from [the] Maldives to Pakistan”."
    ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2642101/speakers-call-for-social-media-accountability-balanced-regulation-to-curb-disinformation",
-   "image": null,
-   "published_at": "2026-11-24T09:19:21Z",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046987/maldives-national-airline-to-start-direct-flights-to-pakistan-soon-meeting-told",
+   "image": "https://i.dawn.com/large/2022/07/31103143589cd5a.jpg",
+   "published_at": "2026-11-25T08:59:17Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "254469c99f5551b4359d49a1b9e864bbb9ad44d3",
-   "title": "‘The universe has no borders': Pakistan's historic space mission draws global praise",
+   "id": "aa3695ad8f4e855439f9924c6aec0ac336ba8ffe",
+   "title": "PM approves NCCIA restructuring, orders overhaul of cybercrime prevention system",
    "summary": [
-    "Pakistan's first astronaut mission entered its final stages, with Muhammad Zeeshan Ali set to make history as the country's first astronaut to travel to China's Tiangong space station aboard the Shenzhou-24 spacecraft.",
-    "Together, let's go further.\" Congratulations to Muhammad Zeeshan Ali from Pakistan for becoming the first foreign astronaut to board China's #Tiangong space station!",
-    "Pakistan is poised to send an astronaut into space for the first time on Wednesday, when air force pilot Muhammad Zeeshan Ali joins China’s Shenzhou-24 mission to the country’s Tiangong space station."
+    "ISLAMABAD: Prime Minister Shehbaz Sharif on Wednesday ordered the modernisation of the system to prevent cybercrime in the country and approved the restructuring of the National Cyber Crime Investigation Agency (NCCIA).",
+    "A meeting, presided over by the premier, was held to review the NCCIA’s performance, administrative structure and future strategy.",
+    "He also ordered the formation of a committee comprising Federal Ministers Mohsin Naqvi, Azam Nazeer Tarar, Muhammad Aurangzeb and Shaza Fatima Khawaja to review the reform proposals submitted by the NCCIA."
    ],
-   "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2642100/pakistans-historic-space-mission-draws-global-praise",
-   "image": null,
-   "published_at": "2026-11-24T09:14:17Z",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046984/pm-approves-nccia-restructuring-orders-overhaul-of-cybercrime-prevention-system",
+   "image": "https://i.dawn.com/large/2026/11/2513414500bea63.webp",
+   "published_at": "2026-11-25T08:55:46Z",
    "category": "pakistan",
    "related": []
   },
   {
-   "id": "cf9dae98e7bf7c8db18c92fec7721ca21c9bc5c3",
-   "title": "Russia’s Sputnik news agency launches Urdu service",
+   "id": "103de9b15cc3d43a5350f55fe604175a488d6db9",
+   "title": "Pakistan warns nuclear weapons must remain under 'human control', demands global AI guardrails to curb arms race",
    "summary": [
-    "The launch comes amid growing engagement between Islamabad and Moscow in trade, energy and diplomatic affairs, with both countries seeking to broaden their bilateral partnership.",
-    "Describing its editorial focus, Sputnik Urdu said the service would offer Urdu-speaking audiences coverage of international affairs, global politics, breaking news and in-depth analysis, connecting them with developments from around the world.",
-    "The development comes ahead of Prime Minister Shehbaz Sharif's official visit to Russia, as the two countries look to expand cooperation across multiple sectors."
+    "On August 18, Pakistan assumed the presidency of the United Nations Conference on Disarmament in Geneva, placing Islamabad at the helm of the world's principal multilateral forum for negotiating arms control and disarmament treaties at a critical time for global security.",
+    "Pakistan is one of nine nuclear-armed countries, along with the US, Russia, China, France, the UK, India, North Korea and Israel.",
+    "The Stockholm International Peace Research Institute estimates that the nine countries hold a combined 9,745 nuclear warheads in their military stockpiles."
    ],
    "source": "Express Tribune",
-   "url": "https://tribune.com.pk/story/2642099/russias-sputnik-news-agency-launches-urdu-service",
+   "url": "https://tribune.com.pk/story/2642304/pakistan-warns-nuclear-weapons-must-remain-under-human-control",
    "image": null,
-   "published_at": "2026-11-24T08:46:14Z",
+   "published_at": "2026-11-25T08:49:28Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "d4486bfc2fa9a778b624392808d6f1396af74cfe",
+   "title": "Pakistan, China agree on government-to-government arrangements for fuel storage, terminal facilities",
+   "summary": [
+    "ISLAMABAD: Pakistan and China agreed on Wednesday to pursue government-to-government (G2G) arrangements for Chinese investment in Pakistan’s petrol and liquefied petroleum gas (LPG) storage and terminal facilities, according to a Petroleum Division statement.",
+    "The minister also encouraged the Chinese side to advance investment across upstream, offshore, minerals, mining and downstream energy infrastructure, building on President Xi’s priorities announced at Apec 2026 in Shenzhen.",
+    "Opportunities in petroleum storage, terminals and wider downstream infrastructure were discussed, positioning PSO as the key commercial partner for Chinese investment in Pakistan’s downstream energy ecosystem."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046979/pakistan-china-agree-on-government-to-government-arrangements-for-fuel-storage-terminal-facilities",
+   "image": "https://i.dawn.com/large/2026/11/25123737692fb3c.webp",
+   "published_at": "2026-11-25T08:22:21Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "f49dec46612d4fff38334549965bab558facda16",
+   "title": "Jensen Huang's return to Nvidia fuels Washington fight over China's chip access",
+   "summary": [
+    "US President Donald Trump's intervention to save the career of Nvidia CEO Jensen Huang might have settled the question of who would run the world's most valuable chipmaker, but it has only intensified Washington's bigger fight over artificial intelligence, chips and China.",
+    "But it worried some US officials and infuriated many lawmakers, both Democrats and some of Trump's fellow Republicans, who said Huang's return imperilled US security and called for tighter control of China's access to advanced chips used in artificial intelligence.",
+    "On ​the other are China hawks in Congress and some parts of the administration, who want to choke off Beijing's access to the advanced chips that power the leading AI models and that only Nvidia and AMD produce."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2642302/jensen-huangs-return-to-nvidia-fuels-washington-fight-over-chinas-chip-access",
+   "image": null,
+   "published_at": "2026-11-25T08:12:02Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "3e765a91b9aef7ac05e1fbc47ad7a6315ffcf910",
+   "title": "ADB approves $250m to strengthen Pakistan’s PPP framework, attract private investment",
+   "summary": [
+    "A statement issued by ADB said the financing will support government reforms aimed at preparing commercially viable projects, particularly high-quality and cost-efficient infrastructure, while improving the management of fiscal risks associated with PPP arrangements.",
+    "Another key component is the development of a national framework to monitor and disclose fiscal liabilities arising from PPP projects. “With ADB’s support, the government has also approved a medium-term PPP project pipeline covering 2026–2030,” the statement outlined.",
+    "The statement underscored that the technical assistance has helped strengthen institutional capacity and project preparation for federal PPPs through professional certification, knowledge exchange and the development of fiscal risk assessment tools."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2642295/adb-approves-250m-to-strengthen-pakistans-ppp-framework-attract-private-investment",
+   "image": null,
+   "published_at": "2026-11-25T06:57:30Z",
+   "category": "pakistan",
+   "related": [
+    {
+     "source": "Dawn",
+     "url": "https://www.dawn.com/news/2046993/adb-okays-250m-loan-to-strengthen-pakistans-public-private-partnership-system"
+    }
+   ]
+  },
+  {
+   "id": "fc402692a0d3b0fe754f05ddf7c3867a2413b01a",
+   "title": "Eisenkot clinches first coalition agreement in bid to form Israel's government",
+   "summary": [
+    "Israel’s Yashar party, led by former military chief Gadi Eisenkot, said on Tuesday it agreed to sign a coalition pact with a right-wing opposition party as it ​seeks to form a government following last month’s election.",
+    "Israel’s parliament was sworn in on Nov ​10 without a new government, after the election on Oct 27 stripped Prime ​Minister Benjamin Netanyahu of his majority but left others with no clear ⁠path to power.",
+    "But they have potential allies in the parties representing Israel’s ​Arab minority, which hold 19 seats and are aligned with Eisenkot in their vehement opposition ​to Netanyahu."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046976/eisenkot-clinches-first-coalition-agreement-in-bid-to-form-israels-government",
+   "image": "https://i.dawn.com/large/2026/11/25113814491718d.webp",
+   "published_at": "2026-11-25T06:54:15Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "7c12a5e6c87566027825151e6bf45fe8fae99c54",
+   "title": "Five held as NCCIA busts international medical billing fraud network in Karachi",
+   "summary": [
+    "According to the Additional Director NCCIA Shahzad Akbar, the network allegedly targeted elderly citizens in the United States through fraudulent medical equipment offers and fake health insurance claims.",
+    "Investigators identified 23 bank accounts, mainly maintained at a private bank's SMCHS branch in Karachi, which were allegedly opened in the names of fictitious companies and firms.",
+    "In the latest case, the NCCIA said the alleged fraud proceeds were routed through fictitious business accounts and merchant facilities before being transferred to Pakistan."
+   ],
+   "source": "Express Tribune",
+   "url": "https://tribune.com.pk/story/2642291/five-held-as-nccia-busts-international-medical-billing-fraud-network-in-karachi",
+   "image": null,
+   "published_at": "2026-11-25T06:46:08Z",
+   "category": "pakistan",
+   "related": []
+  },
+  {
+   "id": "6e2ec75a9f2df455c60b7d3a580120dcc03cb897",
+   "title": "Bangladesh garment workers win 36pc wage rise",
+   "summary": [
+    "Bangladesh’s garment workers won a 36 per cent minimum wage increase on Wednesday, officials said, after weeks of sometimes violent protests causing hundreds of millions of dollars in business losses.",
+    "The garment industry, which clothes millions of consumers across Europe and North America, is Bangladesh’s economic lifeline, generating four-fifths of export earnings and employing more than four million people.",
+    "The wage hike will take effect in January. ‘Export engine’ Bangladesh Garment Manufacturers and Exporters Association (BGMEA) said on Sunday that protests had cost the industry an estimated $428 million, while orders worth $254m had shifted to other countries."
+   ],
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046973/bangladesh-garment-workers-win-36pc-wage-rise",
+   "image": "https://i.dawn.com/large/2025/01/091239161ffeceb.jpg",
+   "published_at": "2026-11-25T06:25:10Z",
    "category": "pakistan",
    "related": []
   }

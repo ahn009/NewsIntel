@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-25T12:37:53.628323Z",
- "story_count": 22,
+ "generated_at": "2026-11-25T22:25:05.479536Z",
+ "story_count": 19,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
-  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/home": "ok",
+  "https://www.dawn.com/feeds/pakistan": "ok",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,9 +20,35 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "ok"
+  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "ae08f25170704b9576bb1d2c10b6590021c8c0a3",
+   "title": "Moment Nasa spacecraft hit asteroid - and what happened next",
+   "summary": [
+    "The crash was 'like something out of a disaster movie,' the BBC's science editor Rebecca Morelle says."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T20:11:46Z",
+   "category": "science",
+   "related": []
+  },
+  {
+   "id": "5446f69921bc9ed41be84575d097dad822e1f836",
+   "title": "New York's annual Thanksgiving Parade threatened by approaching storm",
+   "summary": [
+    "Strong winds and heavy rain are expected to impact celebrations across the USA, with the risk that the famous Macy's Thanksgiving Day parade could be impacted."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/weather/articles/cr894e8dd7wqo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T14:41:42Z",
+   "category": "science",
+   "related": []
+  },
   {
    "id": "8f5e714b16e173f4ea8f5ede9223939e5ac65f71",
    "title": "A space telescope hunting for dark matter just discovered something unexpected",
@@ -253,75 +279,6 @@
    "url": "https://www.bbc.co.uk/news/articles/c678200xklgzo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-24T11:04:36Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "d9e86a5d1c27ada1e5cb9e56cdeb63eecf1dfcb2",
-   "title": "Ancient rocks from the Moon’s far side rewrite the Solar System’s violent past",
-   "summary": [
-    "Scientists studying ancient rocks from the Moon’s far side have uncovered surprising evidence that challenges decades of thinking about the Solar System’s violent past.",
-    "Instead of a single catastrophic bombardment, asteroid impacts appear to have declined gradually over billions of years, revealing new clues about Earth's early evolution and the origins of life."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261121221136.htm",
-   "image": null,
-   "published_at": "2026-11-24T10:24:43Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "c871e71d73490f0fb01ae84713b3f40d2e8d8b45",
-   "title": "Earth's next ice age may have already begun. Global warming stopped it",
-   "summary": [
-    "Scientists have uncovered surprising evidence that Earth’s next ice age may have already begun, only to be stopped by global warming.",
-    "By studying ancient plants preserved beneath the Barnes Ice Cap in the Canadian Arctic, researchers discovered that the remnants of a massive ice sheet began expanding again about 2,000 years ago, signaling the possible start of a new glacial period.",
-    "But by the 1960s, rising temperatures had reversed that growth, causing the ice to shrink instead."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm",
-   "image": null,
-   "published_at": "2026-11-24T09:29:15Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "9deb969d2bb28ac54673960fadb240f491e51be6",
-   "title": "'Urgent action' needed to protect lake",
-   "summary": [
-    "Tourism and outdated septic tanks are said to be adding to the ecological decline of Buttermere."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cr78271e5j91o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-24T09:10:43Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "9e295ddc8b75a13c4a75ca57ce669f11a412ef3c",
-   "title": "Goats drafted in to tame Greenwich Park slope",
-   "summary": [
-    "Bagot goats are used to keep vegetation in check and help preserve the view from the Royal Observatory."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cq4gn2vde8m8o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-24T06:16:51Z",
-   "category": "science",
-   "related": []
-  },
-  {
-   "id": "b5b507248c53833d5812cd8e49f4ee280e373346",
-   "title": "Earth’s ancient oceans may have fooled scientists about its oxygen history",
-   "summary": [
-    "Earth’s journey from an oxygen-starved world to a planet capable of supporting complex life may have unfolded very differently than scientists once believed.",
-    "A new analysis suggests that oxygen accumulated in the atmosphere in three major stages, with the oceans taking millions or even hundreds of millions of years to catch up."
-   ],
-   "source": "ScienceDaily",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261122060340.htm",
-   "image": null,
-   "published_at": "2026-11-24T01:36:51Z",
    "category": "science",
    "related": []
   }

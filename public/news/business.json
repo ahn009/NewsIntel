@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-25T12:37:53.628146Z",
- "story_count": 12,
+ "generated_at": "2026-11-25T22:25:05.479255Z",
+ "story_count": 23,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
-  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/home": "ok",
+  "https://www.dawn.com/feeds/pakistan": "ok",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,32 +20,149 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "ok"
+  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
   {
-   "id": "6b56e7b683ad6a865919c07a05d0712cc65eb02a",
-   "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
+   "id": "62d977b7d482ee4b1739e6734f6a87c914b6818d",
+   "title": "Poundland collapses putting 11,000 jobs at risk",
    "summary": [
-    "The BBC speaks to three people about steps they take to keep their energy bills under control."
+    "The discount chain has fallen into administration after its owners failed to find a buyer."
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-25T12:12:11Z",
+   "published_at": "2026-11-25T21:31:10Z",
    "category": "business",
    "related": []
   },
   {
-   "id": "e660fb54fcc7259b9962cd90eea46f82a68cde46",
-   "title": "'I use a bowl to wash myself and I'm £400 in debt - energy price rise scares me'",
+   "id": "f99674367e371b4b61ae2d1bfd7d7c7ee4b10dfd",
+   "title": "What we know about Trump's Thanksgiving tariffs",
    "summary": [
-    "A woman already in energy debt says her anxiety is \"through the roof\" over further cost increases."
+    "Donald Trump is targeting China, the European Union and 12 other jurisdictions in a new round of tariffs."
    ],
    "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cmly7q7zk77po?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-25T12:05:29Z",
+   "published_at": "2026-11-25T19:38:05Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "9109bed296024b52fe0703806a9c12b13e976b46",
+   "title": "Martin Lewis' tips on staying warm this winter",
+   "summary": [
+    "Energy bills will soar by 26% for millions of households in January after a surge in gas prices sparked by the Iran war."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/cjr4gw12k2lwo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T17:59:14Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "ca992e99b43526004f30f67847795798de70bd0f",
+   "title": "Energy price increase 'could put me in hospital'",
+   "summary": [
+    "People on Teesside share their views on the news energy bills are expected to increase by 26%."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm5y1g42x2wzo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T17:26:13Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "05aab9fe7b4acaa633c0acb42755c05bb33d5a33",
+   "title": "What's gone wrong at Poundland?",
+   "summary": [
+    "Poundland has collapse into administration."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T17:00:32Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "2af43bc44cb2b47f6a911c8649883a3d4568df3f",
+   "title": "Scots react to news of rising energy prices",
+   "summary": [
+    "Scots describe how an increase in energy bills will affect them."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/cmqlq07d71yko?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T16:56:47Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "70258c90a4104149caa073c8fe1422dbb7a0571f",
+   "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+   "summary": [
+    "A review of the US president's financial disclosures shows Donald Trump's investment portfolios have regularly traded shares in the tech giant."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T16:42:11Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "1171471269f2cb4f529ae1274b0766a5abcf5097",
+   "title": "Why has Poundland collapsed and what happens next?",
+   "summary": [
+    "The retail chain has collapsed just one year after being bought for £1 by an American firm."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T16:24:30Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "a61ab511a42dd98e7558acacf7b7a18f747be170",
+   "title": "US inflation hits highest since May after prices climb 3.8% over the last year",
+   "summary": [
+    "By the end of the day the tech-heavy was down 0.6%, the S&P had lost 0.25% and the Dow managed a small gain of 0.33%."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
+   "image": "https://i.guim.co.uk/img/media/4e5a7cc9ec40010fd1b1fd13ff4e575e0ee71cca/309_0_3091_2473/master/3091.jpg?width=140&quality=85&auto=format&fit=max&s=191e9917cb67ed891b36f02f0071850b",
+   "published_at": "2026-11-25T15:46:15Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "004d71e16a52d5919bb91f25d9e479b2984ff4f5",
+   "title": "Trump proposing new tariffs on 14 partners including China and EU",
+   "summary": [
+    "Other countries and regions affected by the new tariffs include Bangladesh, ‌Cambodia, the European Union, India, Indonesia, Japan, South Korea, Malaysia, Singapore, Switzerland, Taiwan, Thailand and Vietnam."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/25/trump-new-china-tariffs-europe",
+   "image": "https://i.guim.co.uk/img/media/1e62345f75c4b03ed8949417f520577e19e7e89d/914_0_5738_4593/master/5738.jpg?width=140&quality=85&auto=format&fit=max&s=3091977c5a46f024323dfe5f0a48d5b1",
+   "published_at": "2026-11-25T14:59:44Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "f697f6ff0c5a14daca6449666b3d304bf07a874d",
+   "title": "Fuel price hike will make life 'almost impossible'",
+   "summary": [
+    "The Fuel Bank Foundation says many homes are already cutting back and struggling with bills."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c6rrgqknw0jlo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T14:37:44Z",
    "category": "business",
    "related": []
   },
@@ -58,7 +175,20 @@
    "source": "BBC News",
    "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-25T11:44:26Z",
+   "published_at": "2026-11-25T13:42:08Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "6b56e7b683ad6a865919c07a05d0712cc65eb02a",
+   "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
+   "summary": [
+    "The BBC speaks to three people about steps they take to keep their energy bills under control."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T12:12:11Z",
    "category": "business",
    "related": []
   },
@@ -102,6 +232,32 @@
    "related": []
   },
   {
+   "id": "e298585cdf4bbaf951801422fffa821e5745f2c4",
+   "title": "Tech sell-off resumes as euphoria from Jensen Huang’s Nvidia return subsides",
+   "summary": [
+    "Sell-off signals investors are bracing for further volatility in key AI sector driving economic growth worldwideTechnology shares led a market retreat on Tuesday as caution returned after Jensen Huang’s extraordinary return to Nvidia days after he was forced to resign, with investors bracing for further volatility in a key sector driving economic growth worldwide.A day after Huang’s reinstatement as CEO drove Nvidia shares up more than 30%, adding more than $900bn to the firm’s market value, the euphoria dissipated as its stock lost almost 6% by Tuesday’s close."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang",
+   "image": "https://i.guim.co.uk/img/media/ba0b7e2734b3f5675558eff081b376f8f83077b6/479_0_4801_3840/master/4801.jpg?width=140&quality=85&auto=format&fit=max&s=814d34a792f3088b68350ec9f04f70e5",
+   "published_at": "2026-11-24T22:05:21Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "92f52b4f43b1588112a86ac2acb12ba7623a8350",
+   "title": "Business Daily",
+   "summary": [
+    "Grant LaFontaine explains how selling Pokémon cards inspired a billion-dollar business"
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/sounds/play/w3ct98sy?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-24T21:30:00Z",
+   "category": "business",
+   "related": []
+  },
+  {
    "id": "811af2b79d22167f3abba1a8529af3fe2c7541d2",
    "title": "Will I get the £100 energy payment and when will I receive it?",
    "summary": [
@@ -111,19 +267,6 @@
    "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-24T20:16:24Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "625849941754c35934bd1f99e1b6d571c05d4ad0",
-   "title": "Four generations of a family working in one factory",
-   "summary": [
-    "Four generations of the Avis family have now worked at Sweetnam & Bradley in Malmesbury."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/ck7v2r6j1yl3o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-24T16:42:46Z",
    "category": "business",
    "related": []
   },

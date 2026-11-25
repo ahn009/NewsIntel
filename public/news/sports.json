@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-25T12:37:53.628582Z",
+ "generated_at": "2026-11-25T22:25:05.479770Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
   "https://www.theguardian.com/world/rss": "ok",
   "https://feeds.npr.org/1001/rss.xml": "ok",
-  "https://www.dawn.com/feeds/home": "failed: HTTPError: HTTP Error 403: Forbidden",
-  "https://www.dawn.com/feeds/pakistan": "failed: HTTPError: HTTP Error 403: Forbidden",
+  "https://www.dawn.com/feeds/home": "ok",
+  "https://www.dawn.com/feeds/pakistan": "ok",
   "https://tribune.com.pk/feed/home": "ok",
   "https://tribune.com.pk/feed/pakistan": "ok",
   "https://feeds.bbci.co.uk/news/technology/rss.xml": "ok",
@@ -20,530 +20,532 @@
   "https://www.sciencedaily.com/rss/top/science.xml": "ok",
   "https://feeds.bbci.co.uk/sport/rss.xml": "ok",
   "https://www.theguardian.com/sport/rss": "ok",
-  "https://www.espn.com/espn/rss/news": "ok"
+  "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
   {
-   "id": "6b263479f3fcfe45c1cec7780e79ca5281c07854",
-   "title": "The best tennis players of 2026: Zverev, Rybakina and many more",
+   "id": "d0063c8eb10d9068d947a5c4ac78808a8e97b089",
+   "title": "Isak scores twice as clinical Liverpool beat Brugge",
    "summary": [
-    "As the 2026 tennis season comes to a close, we name the top players and moments of the year."
+    "Liverpool defeat Club Brugge in a clinical performance thanks to goals from Alexander Isak and Florian Wirtz, bouncing back after a defeat in their last Champions League match."
    ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/tennis/story/_/id/50574609/zverev-rybakina-alcaraz-andreeva-top-tennis-players-2026",
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/videos/cqvg28l0z8mro?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-25T12:34:26Z",
+   "published_at": "2026-11-25T22:12:19Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "04d1b5ef2788115bb58b6b6e15ea39d9873ea100",
-   "title": "The obvious name is not the one to spend for in Week 12 Knockout league pickups",
+   "id": "0e96e9a6ce9aaa257eabde680f63de4b9525aaf8",
+   "title": "Farrell picks side to 'back up' South Africa win",
    "summary": [
-    "As the number of teams shrink, the number of stars available in Knockout leagues grows."
+    "Ireland head coach Andy Farrell believes the Nations Championship can be good preparation for next year's World Cup."
    ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/fantasy/football/story/_/id/50583834/2026-fantasy-football-knockout-leagues-pickups-week-12",
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c6p3elx72l7qo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-25T12:34:06Z",
+   "published_at": "2026-11-25T22:12:19Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "ea70cccbed38abad7608bd1b39cc3260d2e3fe8a",
-   "title": "Free agents: Grab Rams and Packers quickly in a spread-out Week 12",
+   "id": "32b530d7915a4448c6f50d0e3fbf20506865367f",
+   "title": "Club Brugge 0-3 Liverpool, Lille 2-1 Bayern, PSG 2-2 Roma: Champions League clockwatch – live",
    "summary": [
-    "Eric Karabell lists the top available players worth adding for the week ahead."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/fantasy/football/story/_/page/FFWaiverWirePickUp-50572280/fantasy-football-waivers-free-agent-pickups-nfl-week-12",
-   "image": null,
-   "published_at": "2026-11-25T12:34:06Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "5d953dcd801b8107ed510e4f034f2d3db6d44f81",
-   "title": "From a camcorder to a Super Bowl mantra, inside Mike Macdonald's love for game film",
-   "summary": [
-    "We go back to the 1980s to uncover how football bonded the 38-year-old Seahawks coach and his father."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nfl/story/_/id/50543051/seahawks-mike-macdonald-camcorder-super-bowl-game-film",
-   "image": null,
-   "published_at": "2026-11-25T12:33:56Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "a4cd1eb31176e716d3eef7501507e963ae449d78",
-   "title": "Inside NFL's global game plan, as league eyes even more international games",
-   "summary": [
-    "The NFL intends to play 10 international games next year, the maximum allowed under the CBA."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nfl/story/_/id/50573226/nfl-international-expansion-turf-players",
-   "image": null,
-   "published_at": "2026-11-25T12:33:56Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "3f8cd9700d63a11fecca10e961830f1b3595b2ba",
-   "title": "Ten classic Survivor Series moments that shaped WWE history",
-   "summary": [
-    "Revisit the debuts, controversies and returns that have occurred at one of WWE's signature events."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/wwe/story/_/id/50575859/ten-classic-survivor-series-moments-wwe-history",
-   "image": null,
-   "published_at": "2026-11-25T12:31:21Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "a68f629bc887f2c457eb275a951c852d2142a029",
-   "title": "Olney: The ripple effects of Tarik Skubal's signing on the Mets, Dodgers and more",
-   "summary": [
-    "The impact of the record deal for MLB's top free agent extends past his new team to the top suitors who missed out on him."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/mlb/story/_/id/50575245/ripple-effects-skubal-signing-dodgers-padres-blue-jays",
-   "image": null,
-   "published_at": "2026-11-25T12:30:33Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "bcebbc14cbcc5de7e3f010b9cdca1abc7366d1f9",
-   "title": "Superlatives for this MLB free agent class, from Brandon Lowe to Kevin Gausman",
-   "summary": [
-    "We have a yearbook's worth of awards for the top MLB free agents."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/mlb/story/_/id/50575214/free-agent-class-superlatives",
-   "image": null,
-   "published_at": "2026-11-25T12:30:33Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "411b020c3e67507aec7cb9d985876d702b7a896c",
-   "title": "What went wrong for Michigan and Ohio State in 2026?",
-   "summary": [
-    "Michigan and Ohio State have combined for nine losses entering Saturday's game."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/college-football/story/_/id/50576202/michigan-wolverines-ohio-state-buckeyes-went-wrong",
-   "image": null,
-   "published_at": "2026-11-25T12:28:07Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "cca739bcf6bf904864d16bba7a7531130f8be66b",
-   "title": "Bottom 10: Putting the 'L' in UCLA -- and setting up the Pillow Fight of the Century",
-   "summary": [
-    "While UCLA suffered its first loss, we still have a team looking for its first win -- and time is running out."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/college-football/story/_/id/50585901/bottom-10-week-12-ucla",
-   "image": null,
-   "published_at": "2026-11-25T12:28:07Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "3041c87f92447b8fb7f4f4e3142127981b166888",
-   "title": "Longtime Lions owner Martha Firestone Ford dies at age 101",
-   "summary": [
-    "Martha Firestone Ford, who served as the primary owner of the Lions from 2014 to 2020, has died at the age of 101, the team announced Tuesday night."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nfl/story/_/id/50588773/long-lions-owner-martha-firestone-ford-dies-age-101",
-   "image": null,
-   "published_at": "2026-11-25T12:26:16Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "1761d781951d50eeacf4932dd04173db3411377c",
-   "title": "End beckons for Aaron Rodgers as Steelers bench struggling QB days before 43rd birthday",
-   "summary": [
-    "Four-time MVP will be inactive for Friday’s gamePittsburgh have lost two straight to fall to 6-4Mike McCarthy had backed Rodgers a day earlierThe Pittsburgh Steelers have benched four-time NFL MVP Aaron Rodgers and will start Mason Rudolph against the Denver Broncos on Friday, a move that could end one of the greatest quarterback careers in history.Rodgers will be inactive for the game, the Steelers said in a statement late on Tuesday night."
+    "⚽️ Updates from Wednesday’s 8pm GMT matches⚽️ Live scoreboard | Sporting 2-2 Man Utd | Email SimonAnd it’s equally over in Prague, where Slavia had twice as many shots as Villarreal, had 40 touches in their opponents’ box to Villarreal’s 15, and lost 1-0.It’s all over in Baku, where Sabah drew 1-1 with Barcelona for 80 of the 90 minutes, but unfortunately lost 3-0 in the other 10."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/sport/2026/nov/25/steelers-bench-aaron-rodgers-mason-rudolph-broncos-nfl",
-   "image": "https://i.guim.co.uk/img/media/ebcbb11636b198edb4c11027ba2533c1e0ac04cc/642_142_4475_3580/master/4475.jpg?width=140&quality=85&auto=format&fit=max&s=3587cf17aab267c3d9e7befe27bbfd54",
-   "published_at": "2026-11-25T12:23:53Z",
+   "url": "https://www.theguardian.com/football/live/2026/nov/25/club-brugge-v-liverpool-lille-v-bayern-munich-and-more-champions-league-clockwatch-live",
+   "image": "https://i.guim.co.uk/img/media/7f5594be0e1a2dc758f3598b04ccc453de05b28b/1192_429_5801_4641/master/5801.jpg?width=140&quality=85&auto=format&fit=max&s=3939834b3c42dee2300f9f80f92c4ba2",
+   "published_at": "2026-11-25T22:11:47Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "202466dd87782b567b2914589a1a9c7bd7c7f079",
-   "title": "Mills an inspiration for Olympics hope Nieuwland",
+   "id": "debd57f1a306bb97ce906fb17d2a8443f3b5aee1",
+   "title": "Sporting 2-2 Manchester United: Champions League – as it happened",
    "summary": [
-    "Aspiring Welsh sailor Merle Nieuwland hopes to follow in double Olympic champion Hannah Mills' wake after world success at junior level."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/sailing/articles/c980r32kyy5o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-25T12:23:41Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "fa9936bc006e9154823afcea69899fcaa5ce7989",
-   "title": "How will Packers use Micah Parsons in return from torn ACL?",
-   "summary": [
-    "Parsons and the Packers must balance protecting his surgically repaired knee with turning him loose Wednesday."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nfl/story/_/id/50582759/micah-parsons-packers-acl-return-snap-count-rams",
-   "image": null,
-   "published_at": "2026-11-25T12:10:48Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "f0c0f258d105bdf9d2c41cdadde4ddee77bbd268",
-   "title": "Has Puka Nacua played his final snaps in a Rams uniform?",
-   "summary": [
-    "It is the final season of Nacua's rookie deal, and the complicating factors of signing him to an extension are glaring."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nfl/story/_/id/50574387/puka-nacua-injury-last-season-los-angeles-rams-week-12",
-   "image": null,
-   "published_at": "2026-11-25T12:10:48Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "3a770723c7f5ccb16a0d882bb3eea7b0e5d8bd40",
-   "title": "Dortmund draw shows that the jury is still out on Gyökeres",
-   "summary": [
-    "Brought in to provide the cutting edge that Arsenal needed up front, it's games like Tuesday's draw with Dortmund that show why Viktor Gyökeres continues to divide opinion."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/soccer/story/_/id/50586544/arsenal-champions-league-dortmund-jury-viktor-gyokeres",
-   "image": null,
-   "published_at": "2026-11-25T12:06:06Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "76da5c17de92b380842117fa23b2238cc0413a54",
-   "title": "Champions League recap: Arsenal drop points vs. Dortmund, Madrid go top",
-   "summary": [
-    "Borussia Dortmund earned a crucial point away at Arsenal, while Real Madrid got an easy win over PSV on the first day of Matchday 5 of the UEFA Champions League."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/soccer/story/_/id/50574152/uefa-champions-league-live-updates",
-   "image": null,
-   "published_at": "2026-11-25T12:06:06Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "f5ec469007bf4cc371d323536777fe83673de35f",
-   "title": "Another U.S.-held Copa América? Great for USMNT, but not South America",
-   "summary": [
-    "For the third time in 12 years, the Copa América will be held in the U.S. That's exciting for the USMNT but it robs South America of the game it loves."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/soccer/story/_/id/50583713/us-host-copa-america-2028-usmnt",
-   "image": null,
-   "published_at": "2026-11-25T12:05:51Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "22f20c78a0201e17dab4725c3e021e7e2fe5b4d3",
-   "title": "Women's World Cup's 2031 return shows how game has grown",
-   "summary": [
-    "Women's soccer was forever changed when the U.S. hosted the 1999 World Cup.",
-    "With it returning in 2031, ESPN charts the game's explosive growth."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/soccer/story/_/id/50576097/us-host-2031-womens-world-cup",
-   "image": null,
-   "published_at": "2026-11-25T12:05:51Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "fe37247e4b0342c713ca0bd57dfc46172715fb8c",
-   "title": "Murrell flourishing at high-flying Falkirk after 'random' move",
-   "summary": [
-    "Jacob Murrell took a big step out of his comfort zone leaving the United States for Falkirk and is enjoying a blistering run of form in Scotland, if not the food."
-   ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/articles/c6792q7gzeg8o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-25T12:03:34Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "a7793a13c12f0753a415d1d755acb0986207d624",
-   "title": "Which USMNT players could follow Pochettino to Manchester United?",
-   "summary": [
-    "Man United are a mess, but could Mauricio Pochettino turn to any of his former USMNT players to help pull the Red Devils out of the relegation zone?"
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/soccer/story/_/id/50573929/usmnt-players-pochettino-manchester-united",
-   "image": null,
-   "published_at": "2026-11-25T12:02:56Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "14349ddb6c7fe5b366578da32fdadd326f2c34b0",
-   "title": "Transfer rumors, news: Man United's Bruno Fernandes wanted by Juventus",
-   "summary": [
-    "Manchester United captain Bruno Fernandes, who is out of contract at the end of the season, is a target for Juventus."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/soccer/story/_/id/50591059/transfer-rumors-news-manchester-united-fernandes",
-   "image": null,
-   "published_at": "2026-11-25T12:02:56Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "cfec3197055d510c7398f49cb6186a44ccf35f54",
-   "title": "Wysh List: Turkey, stuffing ... and anxiety? The NHL teams most worried about playoff position",
-   "summary": [
-    "Teams in playoff position on the holiday tend to stay there (77.1% since 2013-14)."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nhl/story/_/id/50587368/nhl-2026-27-playoffs-standings-all-32-thanksgiving-panic-index-rankings-tiers",
-   "image": null,
-   "published_at": "2026-11-25T12:00:54Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "208c6fe35cc5f2404ba5c22874e5f73e8d07a32d",
-   "title": "Why Alexis Lafreniere's breakout brings Rangers hope ... for 2026-27 and beyond",
-   "summary": [
-    "The 2020 first overall pick has had ups and downs in his development, but he leveled up this season."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nhl/story/_/id/50585269/nhl-2026-27-new-york-rangers-alexis-lafreniere-breakout-draft-stats-playoffs",
-   "image": null,
-   "published_at": "2026-11-25T12:00:54Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "4a69bcaac460ff641a4cd43d412f231e2e035fa8",
-   "title": "Will Hajime Moriyasu get a high-profile job in Europe after his eight years in charge of Japan?",
-   "summary": [
-    "Instead he left this month, after 113 games in charge during which Japan became a global force to be reckoned with, even if there are those who think he underdelivered."
+    "Bruno Fernandes scored twice in a madcap game that included three penalties, a red card, a freak goal and much moreIn which Poch gets the Squires treatment“Trying to calm my nerves enough to come out from behind the sofa by rewatching Bob and Paul fishing,” writes Bruce Jackson.",
+    "“Obviously still following your MBM, Rob!” Continue reading..."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/football/2026/nov/25/hajime-moriyasu-leave-japan-world-cup-samurai-blue",
-   "image": "https://i.guim.co.uk/img/media/44cb93c9a1b2318c9313a452106a1436ad5e30b0/345_0_4804_3843/master/4804.jpg?width=140&quality=85&auto=format&fit=max&s=316c33bb3a17995ea8394106644ba1e6",
-   "published_at": "2026-11-25T12:00:26Z",
+   "url": "https://www.theguardian.com/football/live/2026/nov/25/sporting-v-manchester-united-champions-league-live",
+   "image": "https://i.guim.co.uk/img/media/705ac06304578f2b3c19742abf6cc1f3aa9bf64e/272_100_3600_2879/master/3600.jpg?width=140&quality=85&auto=format&fit=max&s=252c82e1003fc455a1314fb974fe4b78",
+   "published_at": "2026-11-25T22:11:36Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "b3751981f193d42fd47d19dd95258d6da2f3f967",
-   "title": "Twickenham confident pitch can take six games in three days for Nations Championship",
+   "id": "dbfa0520773451a2c50ebc421049739962518260",
+   "title": "Gordon stars in comfortable Barca win over Sabah",
    "summary": [
-    "It comes complete with a reservoir that can hold 1.4m litres of water below it – which can be reused using nanobubble technology – and was grown in Scunthorpe before being transported to south-west London."
+    "Anthony Gordon scores Barcelona's opening two goals as they ease past Sabah with a 4-1 win in the Champions League."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/videos/c6z74ljxjv2xo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T22:07:02Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "fbbb48e0b947a9adca6eb5cc4a43fa611acadf3f",
+   "title": "Borussia Dortmund fight back to draw with Arsenal",
+   "summary": [
+    "Borussia Dortmund fight back from a goal behind to draw with Arsenal in the Champions League."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/videos/cmedqg06d8vwo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T22:05:57Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "69c59144b5497b3808a9e89f8421acb2e43d11d5",
+   "title": "Blunt Villa beaten by late Galatasaray winner",
+   "summary": [
+    "Deniz Gul scores a late winner for Galatasaray as Aston Villa slip to successive Champions League defeats."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/videos/c6r7g92p5k79o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T22:05:53Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "190625aa847f1ab44cdc6270a776be3da3c381e7",
+   "title": "Cherki rescues point for Man City against Napoli",
+   "summary": [
+    "Rayan Cherki's late equaliser rescues a point for Manchester City at home to Napoli in the Champions League, who have now won just one of their past seven games in all competitions."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/videos/cjy5xwygqg9do?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T22:05:49Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "a11766a86fa1374e1b8d7841d4bc5a617c1e0b18",
+   "title": "Lammens howler costs Manchester United victory in frantic finale at Sporting",
+   "summary": [
+    "Cut almost instantly to Sporting’s Kaique Pereira who bundled the ball in for United’s apparent third only for Szymon Marciniak to be ordered to the screen by the video assistant referee, where the referee ruled the goal out for a foul on the goalkeeper.",
+    "Even worse Youri Tielemans, in stoppage time, was sent off."
    ],
    "source": "The Guardian",
-   "url": "https://www.theguardian.com/sport/2026/nov/25/twickenham-confident-pitch-can-take-six-games-in-three-days-for-nations-championship-rugby-union",
-   "image": "https://i.guim.co.uk/img/media/ebde9a7e50de2f50e5c40eaa8a0b6052cf4a6088/693_125_4633_3706/master/4633.jpg?width=140&quality=85&auto=format&fit=max&s=89e3c69828cfebd25403da31289cc75a",
-   "published_at": "2026-11-25T12:00:25Z",
+   "url": "https://www.theguardian.com/football/2026/nov/25/sporting-lisbon-manchester-united-champions-league-match-report",
+   "image": "https://i.guim.co.uk/img/media/eb512e59989ac0286132296b5b400dccf7e67206/198_0_2822_2258/master/2822.jpg?width=140&quality=85&auto=format&fit=max&s=3ab64215c3742294f3de7a1475d978a7",
+   "published_at": "2026-11-25T22:05:49Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "7c79855a636e1d15031e0e4ea7cb834738fbc11d",
-   "title": "Bracketology: Has the bubble already burst for Kansas, Stanford?",
+   "id": "4bbf78842ebf83bf793ed0999602783db0316e34",
+   "title": "Real Madrid put in a five star second half to win against PSV",
    "summary": [
-    "It's early, but despite the expanded field, time might already be running out on teams like Kansas and Stanford."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/espn/feature/story/_/id/30423107/ncaa-women-bracketology-2027-women-college-basketball-projections",
-   "image": null,
-   "published_at": "2026-11-25T11:59:53Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "af73bf29dced233d74b6de747cb7849af82c732d",
-   "title": "Women's Feast Week guide: South Carolina without Joyce Edwards roundly defeats UConn",
-   "summary": [
-    "The top nonconference matchups over the next week also South Carolina's win over UConn on Tuesday."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/womens-college-basketball/story/_/id/50513465/2026-womens-feast-week-thanksgiving-tournament-schedule",
-   "image": null,
-   "published_at": "2026-11-25T11:59:53Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "8a95b58533f0ea60a3282cdaf4386550c80c7251",
-   "title": "Bracketology: Houston, the new No. 1 overall seed, is chasing history",
-   "summary": [
-    "Kelvin Sampson's legacy is secure, and if the Players Era 8 was any indication, the Cougars are serious about that elusive national title."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/espn/feature/story/_/page/bracketology/ncaa-bracketology-2027-march-madness-men-field-predictions",
-   "image": null,
-   "published_at": "2026-11-25T11:57:58Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "d66e9e8b9ac7252f8e4d956074bf247626f36ca9",
-   "title": "Men's Feast Week guide: Analyzing Players Era 16 results, Maui Invitational semis",
-   "summary": [
-    "TCU and Louisville were among the biggest winners on Tuesday."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/mens-college-basketball/story/_/id/50575102/feast-week-matchups-analysis",
-   "image": null,
-   "published_at": "2026-11-25T11:57:58Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "0e9b366f891e1ebd5a6f444d660e5ee529af8197",
-   "title": "Aaron Rodgers benched? Barnwell answers four big questions about the Steelers' shocking decision",
-   "summary": [
-    "The Steelers are starting Mason Rudolph this week over Aaron Rodgers.",
-    "Why make this change now -- and will it help?"
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nfl/story/_/id/50589984/aaron-rodgers-benched-steelers-quarterback-rudolph-week-12",
-   "image": null,
-   "published_at": "2026-11-25T11:55:42Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "c18c3424044f5f6a2c0d0bfcc0b0d75739fb2fda",
-   "title": "Latest NFL buzz: Fits for Daniel Jones, Brandon Aiyuk? Still no head coach changes?",
-   "summary": [
-    "Where could Daniel Jones and Brandon Aiyuk land?",
-    "What's the latest on coaching hot seats?",
-    "And who is getting MVP love in league circles?"
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nfl/story/_/id/50582929/week-12-buzz-fantasy-predictions-graziano-fowler-2026",
-   "image": null,
-   "published_at": "2026-11-25T11:55:42Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "f8b6c4e444455c54d11238f522769584b61ee54b",
-   "title": "Guide to the NFL's Thanksgiving schedule: Matchup previews, predictions, picks and nuggets",
-   "summary": [
-    "We have the top storylines, bold predictions, stats to know, fantasy/betting nuggets and more for four Wednesday and Thursday games in Week 12."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/nfl/story/_/id/50582822/thanksgiving-games-picks-schedule-fantasy-odds-2026",
-   "image": null,
-   "published_at": "2026-11-25T11:53:16Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "37fee308728c157b474ea15190199b25178287ca",
-   "title": "Brindle stands down as Wales women's coach",
-   "summary": [
-    "Tom Brindle steps down as Wales women's rugby league coach after five years in charge."
+    "Jude Bellingham comes off the bench to score a stunning goal as Real Madrid come from behind to beat PSV Eindhoven and maintain their 100% record in the Champions League."
    ],
    "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/rugby-league/articles/cm0evpdqzl32o?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/videos/c5evr0y83197o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-25T11:50:53Z",
+   "published_at": "2026-11-25T22:05:45Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "d39a7dd633c7908058d48d734f87db7f1d052a4e",
-   "title": "Ice hockey federation appeals against Russia ban ruling",
+   "id": "bcb3b86bbda7410763c77540d4a28f51b927df8c",
+   "title": "Isak and Wirtz on target as resurgent Liverpool sweep aside Club Brugge",
    "summary": [
-    "The International Ice Hockey Federation (IIHF) will appeal to the Swiss Federal Tribunal against a Court of Arbitration for Sport (Cas) ruling to reinstate Russia in next year's World Championship."
+    "Liverpool brought Club Brugge’s impressive run in the Champions League to an abrupt halt on a bitterly cold night in Belgium with an exhibition of outstanding finishing and composed defending.",
+    "Alexander Isak took his tally for the season into double figures and Florian Wirtz maintained his fine form by scoring for a third successive club game.",
+    "Andoni Iraola’s side are building momentum at the right time.Isak struck an excellent brace to move to ten goals for the season while Liverpool’s clean sheet will also have encouraged Iraola against a previously free-scoring Brugge team."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/25/club-brugge-liverpool-champions-league-match-report",
+   "image": "https://i.guim.co.uk/img/media/217f37b87ab0b8f2137224791cf4ae48697dcf9d/131_0_3251_2601/master/3251.jpg?width=140&quality=85&auto=format&fit=max&s=88683324012f2215918ddb2cfc727ced",
+   "published_at": "2026-11-25T22:04:10Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "ddc5a355a93ba287ea6f269da3d0c1cc849f779c",
+   "title": "‘I have 100 witnesses’: the 10 wildest moments from Aaron Rodgers’ explosive ESPN interview",
+   "summary": [
+    "He also said the 63-year-old McCarthy broke a half-time huddle against Philadelphia with the words “One, two, three, Packers”.",
+    "According to Rodgers, McCarthy denied falling asleep at the team facility."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/2026/nov/25/aaron-rodgers-pat-mcafee-interview-biggest-highlights-mike-mccarthy",
+   "image": "https://i.guim.co.uk/img/media/a624831cf558890062e850469978564b0ef2f3a7/655_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=a7279ca0e55dc0e297880b559d3c0b93",
+   "published_at": "2026-11-25T21:35:51Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "90f7f5cdfc2293e7ddef4334a0dc4bc408bc7dee",
+   "title": "Cordina to face Lara on Joshua-Fury card",
+   "summary": [
+    "Joe Cordina will face former world champion Mauricio Lara on the undercard of Tyson Fury versus Anthony Joshua in Cardiff next month."
    ],
    "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/ice-hockey/articles/cmy49n7pyl0yo?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/boxing/articles/c9772vyzr342o?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-25T11:47:34Z",
+   "published_at": "2026-11-25T21:33:57Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "51c7e06fd42ec1d7b215f5f1a78a75a48d603ffd",
-   "title": "Who's on the CFP bubble after the committee's fourth ranking?",
+   "id": "75277bbe78d5864af51a1e859991153798dccfbd",
+   "title": "Regulator chief 'has stomach' to face Man City",
    "summary": [
-    "A conference-by-conference look at which teams are contending for the playoff, who's close and who's out."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/college-football/story/_/id/50575185/cfp-playoff-2026-bubble-watch-week-fourth-ranking",
-   "image": null,
-   "published_at": "2026-11-25T11:46:56Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "ad64ebfefa61a983c463a5064c31863b4bc502fc",
-   "title": "Anger Index: Indiana, Alabama and Oregon should have beef with CFP rankings",
-   "summary": [
-    "Ranking the teams that should be most upset with the latest CFP rankings."
-   ],
-   "source": "ESPN",
-   "url": "https://www.espn.com/college-football/story/_/id/50582371/cfp-ranking-2026-anger-index-week-12",
-   "image": null,
-   "published_at": "2026-11-25T11:46:56Z",
-   "category": "sports",
-   "related": []
-  },
-  {
-   "id": "470e9d5cd9d40626d35be661f9bae789a2820780",
-   "title": "Lincoln sack head coach duo Cohen and Shaw",
-   "summary": [
-    "Lincoln sack head coaches Chris Cohen and Tom Shaw just six months after they took joint charge of the Championship side."
+    "The chair of English football's independent regulator tells MPs he \"has the stomach\" to take potential action against Manchester City."
    ],
    "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cmglrzg3zx9no?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c65y10z8k59jo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-25T11:32:28Z",
+   "published_at": "2026-11-25T21:27:35Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "613b649d8fe0a7069bdb4421e05d8af88e4743ca",
-   "title": "McCague 'understands' St Eunan's anger amid score controversy",
+   "id": "7f7ed9eda133824176919452232808325426311d",
+   "title": "Oliver Glasner criticises Nottingham Forest players for not learning English",
    "summary": [
-    "Scotstown manager David McCague says he \"understands\" why St Eunan's have lodged a formal objection after the decision to award his side's late extra-time equaliser in their Ulster Club SFC semi-final win at Brewster Park on Saturday."
+    "However, Forest have won two of their opening 11 Premier League games and sit outside the relegation zone only on goal difference."
    ],
-   "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/articles/cqy7rne2dzy2o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-25T11:23:43Z",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/25/oliver-glasner-criticises-nottingham-forest-for-not-making-players-learn-english",
+   "image": "https://i.guim.co.uk/img/media/194c1b6d3009e70cf1192360a3d6f2db9f64af5a/344_0_4079_3264/master/4079.jpg?width=140&quality=85&auto=format&fit=max&s=a3eb7790da7e624d2841981f7fbd28bd",
+   "published_at": "2026-11-25T21:17:34Z",
    "category": "sports",
    "related": []
   },
   {
-   "id": "c65f804b8a0748f8a015a0d7acbe59f72a850fcf",
-   "title": "Watford appoint Iordanescu as head coach",
+   "id": "8483ddc93592834e60e8a695437c5654ea3fe672",
+   "title": "Liverpool mull Quansah return - Thursday's gossip",
    "summary": [
-    "Watford appoint former Romania boss Edward Iordanescu as their new head coach after sacking Alessio Dionisi."
+    "Liverpool consider return for Jarrell Quansah, Tottenham scout Vangelis Pavlidis and Paris St-Germain target Estevao Willian, plus more"
    ],
    "source": "BBC Sport",
-   "url": "https://www.bbc.co.uk/sport/football/articles/cv1j65j2lw3po?at_medium=RSS&at_campaign=rss",
+   "url": "https://www.bbc.co.uk/sport/football/articles/c6n831jk3x4mo?at_medium=RSS&at_campaign=rss",
    "image": null,
-   "published_at": "2026-11-25T11:15:34Z",
+   "published_at": "2026-11-25T20:57:48Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "f6ca19f79f125959251a3285efd86c5874c20fc7",
+   "title": "Dubois to defend title against Parker in Manchester",
+   "summary": [
+    "WBO heavyweight world champion Daniel Dubois will make the second defence of his title against former WBO champion Joseph Parker next year at Co-op Live in Manchester on 30 January."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/boxing/articles/cmde1zjykky6o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T20:37:40Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "e6e3aa9160f61abc3f5200ecc956bd73e3679b88",
+   "title": "Steelers release Aaron Rodgers after he accuses Mike McCarthy of sleeping during meetings",
+   "summary": [
+    "Quarterback was benched by team this weekRodgers had said he would retire after seasonThe Pittsburgh Steelers released Aaron Rodgers on Wednesday, hours after the four-time NFL MVP accused head coach Mike McCarthy of falling asleep during team meetings.Rodgers made the sensational allegations during a surprise 34-minute appearance on ESPN’s The Pat McAfee Show after the Steelers benched him in favor of backup quarterback Mason Rudolph."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/2026/nov/25/aaron-rodgers-steelers-mike-mccarthy-nfl",
+   "image": "https://i.guim.co.uk/img/media/bdca972e4452ca4c389beebf5abc9d5a9591bafd/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=0bc05a083342eb4b9cd111512804c96c",
+   "published_at": "2026-11-25T20:21:30Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "014befb3f4596599ee9f32456f0adfbc5ef6cdd6",
+   "title": "Champions League: Gordon twice on target in Barcelona’s cruise at Sabah",
+   "summary": [
+    "England forward scores two in 4-1 win in AzerbaijanLamine Yamal left out of Barça squad with ankle injuryAnthony Gordon scored twice as Barcelona cruised to a ⁠4-1 victory at Sabah in the Champions League on Wednesday, maintaining Hansi Flick’s ⁠side’s push for ⁠a ​top-eight fini"
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/25/champions-league-barcelona-psg-roma-lille-bayern-munich-villarreal",
+   "image": "https://i.guim.co.uk/img/media/634f982ee7b18211a799fc6a7a6cab333222250c/803_564_2913_2330/master/2913.jpg?width=140&quality=85&auto=format&fit=max&s=4fac0b9bacf62717cbec1195619f94ff",
+   "published_at": "2026-11-25T20:16:42Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "244497e5536e7a320f85e02c0b9d63e9438af5b0",
+   "title": "NBA plans to invest 10bn euros in European arenas",
+   "summary": [
+    "The NBA steps up its plans for a European league by announcing a strategy to invest at least 10bn euros in the development of basketball arenas across the continent."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/basketball/articles/crjeqlpnqjxjo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T19:58:59Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "4175ce421627078a8afc2e55360fad1216483663",
+   "title": "MLS settles on new playoff format after considering double elimination",
+   "summary": [
+    "16 teams will qualify for the playoffs, down from 18Best-of-three format eliminated in first roundSemi-finals, MLS Cup will be single-eliminationThe 2026 MLS Cup playoffs have only just begun, but the league is already finalizing another change to its postseason format.Beginning with the 2027-28 season, MLS will eliminate its short-lived wild card round to condense the playoff field to 16 teams and also get rid of the best-of-three format for the first round, sources confirmed to the Guardian after an earlier report by The Athletic."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/25/mls-playoff-format-changes",
+   "image": "https://i.guim.co.uk/img/media/980aaa7ab957de6d32850b9ea9b5c7c7c4f38de2/398_0_4966_3975/master/4966.jpg?width=140&quality=85&auto=format&fit=max&s=74a9080507c64a1fe7aac797d8256d22",
+   "published_at": "2026-11-25T19:33:24Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "a1c28a4494a66832e5b6054a59c96172c633605f",
+   "title": "Greg Fisilau to make England debut start in blockbuster All Blacks rematch",
+   "summary": [
+    "Borthwick makes five changes for New Zealand gameHead coach says he likes Pollock’s impact off the benchSteve Borthwick has admitted he considers Henry Pollock most dangerous in his role of supersub after again leaving him on the bench against New Zealand and instead handing Greg Fisilau a surprise first start.The 23-year-old Fisilau came into the autumn uncapped but has impressed off the bench in all three of England’s victories and is rewarded with his first start as Borthwick’s side bid for a third straight win over New Zealand for the first time."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/2026/nov/25/greg-fisilau-to-make-england-debut-start-in-blockbuster-all-blacks-rematch-rugby-union",
+   "image": "https://i.guim.co.uk/img/media/c764bbe811feb280f66fff9e21c3dc49a6500394/864_97_3145_2516/master/3145.jpg?width=140&quality=85&auto=format&fit=max&s=439622ddd52423fcc96063ea297e922e",
+   "published_at": "2026-11-25T19:31:08Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "cb8762cbf9c75e3047279e87b7d8259584980113",
+   "title": "MLB sues players’ association in order to ensure lockout is declared legal",
+   "summary": [
+    "League looks to head off antitrust threat by MLBPALockout a looming likelihood due to salary cap disputeMLB sued its players’ association in federal court on Wednesday, asking that its likely lockout next week be declared legal and trying to head off any attempt by the union to decertify and challenge the work stoppage with an antitrust case.In a 38-page complaint filed in US District Court in Manhattan, MLB and the corporate entities owning its 30 teams sued the Major League Baseball Players Association (MLBPA) and the eight players on the union’s executive subcommittee, including record-setting pitcher Tarik Skubal."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/2026/nov/25/mlb-sues-players-association-in-order-to-ensure-locklout-is-declared-legal",
+   "image": "https://i.guim.co.uk/img/media/2d38f0a4c023b5bd8634abb5b330c720473a22c0/592_0_5915_4733/master/5915.jpg?width=140&quality=85&auto=format&fit=max&s=4cab50bf7f662449b1ac428d18de4732",
+   "published_at": "2026-11-25T18:53:33Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "bb4f5c0796801b4be812dce733003c9347310a1e",
+   "title": "Glasner criticises Forest players yet to learn English",
+   "summary": [
+    "Nottingham Forest manager Oliver Glasner has questioned why some of his squad cannot speak English after being in the country for a number of years."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cw20xr4d7x55o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T18:32:55Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "f649077f8cf970caaf7c27d698cf6cdc168b4f38",
+   "title": "Gukesh and Sindarov draw Game 2 of world chess championship in just 20 moves",
+   "summary": [
+    "Game 2 ends by threefold repetition in 1hr 57minWorld champion opens with the London SystemSindarov plays with white in Game 3 on ThursdayAll your Gukesh v Sindarov questions, answeredIndia’s Gukesh Dommaraju and Uzbekistan’s Javokhir Sindarov drew the second game of their world chess championship match in only 20 moves and 1hr 57min on Wednesday, leaving the score level at 1–all at the Fondation Martin Bodmer in the Geneva suburbs.The quiet encounter was one of the shortest classical world title games since the sport’s rival championships were reunified in 2006 and the first to finish in under two hours since Ding Liren and Ian Nepomniachtchi drew their 11th game in just over 100 minutes in Astana in 2023."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/2026/nov/25/gukesh-sindarov-world-chess-championship-2026-game-2-draw",
+   "image": "https://i.guim.co.uk/img/media/75845b26dd894ecab466d69e4b202fe4f5a41e02/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=39e9074f0bead3df20250e7abf4208c4",
+   "published_at": "2026-11-25T18:16:22Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "5dc3c9548480e0d761cc02d1cd40565402e94fff",
+   "title": "London Broncos’ promotion and 15-team Super League confirmed for 2027 season",
+   "summary": [
+    "Top-flight clubs and Rugby Football League strike dealCo-owner: ‘We have tremendous momentum on the field’London Broncos’ promotion to Super League for the 2027 season has been confirmed following an agreement between the existing top-flight clubs and the Rugby Football League.Broncos won all but one of their 24 matches in the second-tier Championship last season, scoring 1,511 points, but failed to earn enough points in the sport’s IMG gradings system to secure automatic elevation."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/2026/nov/25/london-broncos-promotion-15-team-super-league-confirmed-2027-season",
+   "image": "https://i.guim.co.uk/img/media/13d21af86b0853333be9dfe2b865582502b00213/1613_464_6173_4938/master/6173.jpg?width=140&quality=85&auto=format&fit=max&s=e340b748c6204fb49b54e3f07f7b8069",
+   "published_at": "2026-11-25T17:57:24Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "4569e1efe77131ebcc4d0aa7eaf72c5b208ed541",
+   "title": "Williams exceeded F1 cost cap by £627,000",
+   "summary": [
+    "Williams \"unintentially\" broke Formula 1's cost cap during the 2025 season, governing body the FIA finds."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/formula1/articles/cxj05mv79z0do?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T17:37:34Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "4758ee67148428e984a0495773459a00dc441f58",
+   "title": "O'Sullivan continues poor form with Drago loss",
+   "summary": [
+    "Ronnie O'Sullivan's poor form continues with a 5-3 loss to 61-year-old Tony Drago at the Snooker 900 Crucible Cup."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/snooker/articles/cw1l0j9zqddjo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T17:36:51Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "ee0d6e36b2c768d034813f8b69a57a750b721503",
+   "title": "London Broncos to return to Super League for 2027",
+   "summary": [
+    "London Broncos return to Super League for 2027 after being confirmed as the competition's 15th team."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/rugby-league/articles/c9e8534n5e8zo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T17:35:44Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "7816190c8525a43ad907edec013131bd38fa6958",
+   "title": "'It was ruthless'- GB's Patten on ending top-ranked partnership with Heliovaara",
+   "summary": [
+    "Britain's Henry Patten agrees he was \"ruthless\" in splitting with doubles partner and close friend Harri Heliovaara, just days after they received the year-end world number one trophy."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/tennis/articles/cwm25m10ng20o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T17:30:41Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "4ed1ea1bc25bf9a857f560b4f46d394ab81aa5fa",
+   "title": "GB, France and Germany launch new swimming competition",
+   "summary": [
+    "Aquatics GB organises a new Three Nations Cup event alongside France and Germany, saying it is time for \"elite swimming competition to evolve\"."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/swimming/articles/cmdx1l4xly5no?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T17:00:58Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "4bc1dfce6a02d94e910ef8ea8a40cecd70715d33",
+   "title": "Alejandro Garnacho and the curious case of Aston Villa’s outcast loanees | Ben Fisher",
+   "summary": [
+    "All three were at the heart of United’s plans for a bright future, beacons of hope.",
+    "At the end of that season, Garnacho signed off in style, he and Mainoo scoring against Manchester City at Wembley to win the FA Cup."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/25/alejandro-garnacho-aston-villa-loanees-unai-emery",
+   "image": "https://i.guim.co.uk/img/media/6aedff1e5bab4e3fdc05ec5a5ed13780f7ca60e1/385_0_4169_3335/master/4169.jpg?width=140&quality=85&auto=format&fit=max&s=88fe309c1fcb34cb723e2687a80dc201",
+   "published_at": "2026-11-25T17:00:31Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "3fc7226339e68eb216b3acf7b69c7b041a6f8c94",
+   "title": "'Best midfielder in the world' - where does Bellingham rank?",
+   "summary": [
+    "Jose Mourinho called Real Madrid's Jude Bellingham \"the best midfielder in the world\", but where would you rank him?"
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cmkgdjkr2y70o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T16:46:36Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "fb2bf2d47206c18126c58f347c5de02c1bed8190",
+   "title": "Confusion and anger - Yoro red card rescinded, but row goes on",
+   "summary": [
+    "Leny Yoro's red card against Liverpool has prompted an unseemly difference of opinion between Man Utd and Pro Ref."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/football/articles/cvze7y6n2redo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T16:28:10Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "7d8111cc5190fc52a8cdee9b7fd7a681bbcf0a07",
+   "title": "Greatest catch ever? Man on motorbike takes incredible grab",
+   "summary": [
+    "A passenger on a motorbike pulled off a remarkable one-handed catch after the ball was hit out of the ground for six in the Swat Premier League in Pakistan."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/cricket/videos/cwx2e0g93l3eo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T16:23:03Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "82a451405953dd27590abe73bb9d11a51346abc2",
+   "title": "Ireland's Stockdale returns as Beale, 37, back for Wallabies",
+   "summary": [
+    "Ulster wing Jacob Stockdale is recalled to the Ireland starting team for Friday night's Nations Championship fifth-place play-off match against Australia."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cx62p86g7vjgo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T16:08:34Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "c0fe20a3bda5a6babebadc23f6e76e0587065d19",
+   "title": "Fisilau starts as England change five for All Blacks rematch",
+   "summary": [
+    "Exeter back row Greg Fisilau will make his first England start in one of five changes to their XV to face New Zealand on Saturday."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/rugby-union/articles/cv8e04gj2wwwo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T16:00:50Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "d8038c6f4eae9184179bbdb0091393c613fc22d9",
+   "title": "Saudi Arabia’s PIF looking to sell 25% of Newcastle through share issue",
+   "summary": [
+    "PIF seeking investment to fund infrastructure projectsJP Morgan appointed to handle the saleNewcastle United’s owner, Saudi Arabia’s Public Investment Fund (PIF), is looking to sell up to 25% of the club by issuing new shares.The New York-based bank JP Morgan, whose most recent involvement in a major football deal was Fifa’s aborted attempt to sell off 20% of its commercial rights last summer, has been appointed to handle the sale, as first reported by the Athletic."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/25/saudi-arabia-pif-newcastle-share-issue",
+   "image": "https://i.guim.co.uk/img/media/bd383c7e5be79a925d59ba5e4da8252652885f95/376_0_4400_3520/master/4400.jpg?width=140&quality=85&auto=format&fit=max&s=456d4aac5b98308fb6630bdae1cae6f0",
+   "published_at": "2026-11-25T15:36:32Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "9476df33d43e220c3b443dfc1f23c3c4feccd128",
+   "title": "Batter out in wild dismissal as Brisbane bowler strikes at unattended stumps",
+   "summary": [
+    "WBBL’s Dottin falls foul of new timed-out rule‘It was something I had never seen before’Deandra Dottin could only watch as Brisbane Heat’s Sarah ⁠Glenn’s delivery hit her unattended stumps after the Melbourne Renegades all-rounder failed ⁠to reach the ⁠crease ​in time in Australia’s Women’s Big Bash League on Wednesday.Under the competition’s ⁠new timed-out rule, an incoming batter who is not ready within 75 seconds of ⁠a dismissal must stand aside for the first ​ball of their innings ‌while the ‌bowler gets an attempt to strike the stumps."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/sport/2026/nov/25/batter-out-in-wild-dismissal-as-brisbane-bowler-strikes-at-unattended-stumps",
+   "image": "https://i.guim.co.uk/img/media/3a52c6df963bc6dc41977f055c9fb71dd95b0bae/375_0_4126_3300/master/4126.jpg?width=140&quality=85&auto=format&fit=max&s=7aa57a09e9b094dc157c5df50ee1aa99",
+   "published_at": "2026-11-25T15:07:15Z",
+   "category": "sports",
+   "related": []
+  },
+  {
+   "id": "2fb2b3d8c7d7dcd7efedf80bd7fe990b583de43c",
+   "title": "'That ship has sailed' - why Rodgers may have played last NFL game",
+   "summary": [
+    "Veteran quarterback Aaron Rodgers may have played his last game in the NFL after being dropped by the Pittsburgh Steelers."
+   ],
+   "source": "BBC Sport",
+   "url": "https://www.bbc.co.uk/sport/american-football/articles/c64gn8ryp7jno?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-25T14:37:16Z",
    "category": "sports",
    "related": []
   }
