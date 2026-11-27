@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-26T23:44:41.979393Z",
- "story_count": 21,
+ "generated_at": "2026-11-27T08:09:42.755429Z",
+ "story_count": 20,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,71 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "36a20150712c1008297a0852b92cee4894400f22",
+   "title": "My self-care ritual is a meal at a fancy restaurant - on my own",
+   "summary": [
+    "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-27T07:46:02Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "5d21c6113291b123303823d97c63317d628483b0",
+   "title": "How much is your rent in Birmingham?",
+   "summary": [
+    "We ask people in the UK's second biggest how much they pay for their homes."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/videos/ckg5r02mqp4no?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-27T06:11:32Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "55976a47d7c7e9497a1993464d7c657580fa9a1c",
+   "title": "The food bank helping pet owners with rising bills",
+   "summary": [
+    "RSPCA hands out food, vet vouchers, cat litter and toys to pet owners struggling with bills."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c623jgz7zmg8o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-27T06:11:13Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "d2f7709b98ae966b6adbef7bfccb8fc13a0e61a7",
+   "title": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
+   "summary": [
+    "Networks of plumbers and electricians are scamming people on a large scale, the BBC reveals."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-27T00:58:49Z",
+   "category": "business",
+   "related": []
+  },
+  {
+   "id": "4cbfeaa90bf58d8acc77c634cabefd0538505dc6",
+   "title": "UK to pay 'participation' fee to deliver EU deals",
+   "summary": [
+    "Details of the contribution towards EU running costs have been revealed in new legal documents."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-26T23:17:12Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "a1e1f2b8b6064b737b078f75993dda8894635056",
    "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
@@ -167,19 +232,6 @@
    "related": []
   },
   {
-   "id": "3f145ed93b275eff3b92876f265b83f2de850270",
-   "title": "Parents cutting basics at Christmas, charity warns",
-   "summary": [
-    "The chief executive of Worthing Soup Kitchen says some families choose between food and presents."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cq1k98gpzmy4o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-26T06:13:47Z",
-   "category": "business",
-   "related": []
-  },
-  {
    "id": "738443e67a1f4864b2fbaf82f6d91d95487cef00",
    "title": "US announces new tariffs on host of countries including China",
    "summary": [
@@ -228,71 +280,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-25T21:43:18Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "f99674367e371b4b61ae2d1bfd7d7c7ee4b10dfd",
-   "title": "What we know about Trump's Thanksgiving tariffs",
-   "summary": [
-    "Donald Trump is targeting China, the European Union and 12 other jurisdictions in a new round of tariffs."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-25T19:38:05Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "882812167e628a899a3d32ad100ce5cce22af3cb",
-   "title": "UK food inflation could hit 5% next year, Bank of England says",
-   "summary": [
-    "Sharp rise expected as cost pressures mount, with experts factoring in energy price cap hike and potential impact of El NiñoFood price inflation in the UK could hit 5% next year, the Bank of England has said, despite rising less sharply than feared since the onset of the Iran war"
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/25/uk-food-inflation-sharp-rise-next-year-mounting-cost-pressures-bank-of-england",
-   "image": "https://i.guim.co.uk/img/media/6dc206e833865c9dd5429c7d1b0d08abb0b3bfde/79_0_3491_2793/master/3491.jpg?width=140&quality=85&auto=format&fit=max&s=d5c47df5247e5d854261cf1b7851501b",
-   "published_at": "2026-11-25T19:25:57Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "2af43bc44cb2b47f6a911c8649883a3d4568df3f",
-   "title": "Scots react to news of rising energy prices",
-   "summary": [
-    "Scots describe how an increase in energy bills will affect them."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/cmqlq07d71yko?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-25T16:56:47Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "1171471269f2cb4f529ae1274b0766a5abcf5097",
-   "title": "Why has Poundland collapsed and what happens next?",
-   "summary": [
-    "The retail chain has collapsed just one year after being bought for £1 by an American firm."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-25T16:24:30Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "a61ab511a42dd98e7558acacf7b7a18f747be170",
-   "title": "US inflation hits highest since May after prices climb 3.8% over the last year",
-   "summary": [
-    "By the end of the day the tech-heavy index was down 0.6%, the S&P had lost 0.25% and the Dow managed a small gain of 0.33%."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
-   "image": "https://i.guim.co.uk/img/media/4e5a7cc9ec40010fd1b1fd13ff4e575e0ee71cca/309_0_3091_2473/master/3091.jpg?width=140&quality=85&auto=format&fit=max&s=191e9917cb67ed891b36f02f0071850b",
-   "published_at": "2026-11-25T15:46:15Z",
    "category": "business",
    "related": []
   }
