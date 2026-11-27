@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-27T08:09:42.755085Z",
- "story_count": 36,
+ "generated_at": "2026-11-27T18:51:33.408830Z",
+ "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -24,10 +24,345 @@
  },
  "stories": [
   {
+   "id": "74309f46991fcaf7662d891eb25d915c95f03600",
+   "title": "The NFL Player Who Left Football for Math",
+   "summary": [
+    "Article URL: https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html Comments URL: https://news.ycombinator.com/item?id=50669963 Points: 7 # Comments: 3"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html",
+   "image": null,
+   "published_at": "2026-11-27T18:17:20Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "e3fd524c3c50f8bca16d260c3ce548726ae4c209",
+   "title": "Convex skills send the user's app idea to a remote server without telling them",
+   "summary": [
+    "Article URL: https://github.com/convex/convex-backend-skill/issues/64 Comments URL: https://news.ycombinator.com/item?id=50669765 Points: 6 # Comments: 0"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/convex/convex-backend-skill/issues/64",
+   "image": null,
+   "published_at": "2026-11-27T18:02:45Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "f21d90605390562e14d4c25e6a695759a5694028",
+   "title": "I'm Scared of AI",
+   "summary": [
+    "Article URL: https://thesoapbox.email/archive/3 Comments URL: https://news.ycombinator.com/item?id=50669561 Points: 116 # Comments: 114"
+   ],
+   "source": "Hacker News",
+   "url": "https://thesoapbox.email/archive/3",
+   "image": null,
+   "published_at": "2026-11-27T17:45:31Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "d00616698c471ac8559454d316e69eb1c0fafb5d",
+   "title": "The best cordless vacuum cleaners for a spotless home: 10 tried and tested favourites",
+   "summary": [
+    "Stick vacuums are a convenient alternative to corded designs, but which model wins for overall cleaning prowess?",
+    "Our expert reveals all• The best robot vacuums• How to make your vacuum last longerChoosing a cordless vacuum is a big decision.",
+    "Whichever model you go for, you’re likely to use it for years, relying on its ability to suck up dust, crumbs, mud, pet hair and any other dry spillages or sheddings."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/thefilter/2025/mar/28/best-cordless-vacuum-cleaners-uk",
+   "image": "https://i.guim.co.uk/img/media/3cd59791cb4928edd113f4bb22ac8c5dc4c348df/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=019ac0faac256e19d61b6689689f12e0",
+   "published_at": "2026-11-27T17:27:25Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "7274d7ce704ae6ec2acc076ab6147794c05e4cf2",
+   "title": "Palliative Care for the Chronically Online",
+   "summary": [
+    "Article URL: https://idiotecon.substack.com/p/palliative-care-for-the-chronically Comments URL: https://news.ycombinator.com/item?id=50669026 Points: 26 # Comments: 8"
+   ],
+   "source": "Hacker News",
+   "url": "https://idiotecon.substack.com/p/palliative-care-for-the-chronically",
+   "image": null,
+   "published_at": "2026-11-27T17:01:51Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "9b67ad13d3381ff0e387a57a33c5a6abfa13647a",
+   "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+   "summary": [
+    "Article URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer Comments URL: https://news.ycombinator.com/item?id=50668145 Points: 163 # Comments: 94"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+   "image": null,
+   "published_at": "2026-11-27T15:40:31Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "e20b8c05499c1f61c7208754a7055667e1a3f3b9",
+   "title": "False computer-checked proofs",
+   "summary": [
+    "Article URL: https://cr.yp.to/proofs/falseccp.html Comments URL: https://news.ycombinator.com/item?id=50667989 Points: 98 # Comments: 39"
+   ],
+   "source": "Hacker News",
+   "url": "https://cr.yp.to/proofs/falseccp.html",
+   "image": null,
+   "published_at": "2026-11-27T15:26:09Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "01cdd83d3c55e9057ab2533e56cfc3e850baacf0",
+   "title": "GPT 6.2 Astra Solves a Historical Mystery",
+   "summary": [
+    "Article URL: https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical Comments URL: https://news.ycombinator.com/item?id=50667744 Points: 130 # Comments: 53"
+   ],
+   "source": "Hacker News",
+   "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+   "image": null,
+   "published_at": "2026-11-27T15:03:17Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "7f71381ca1e4fdd8221097ba2eeb60f6b5500f38",
+   "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+   "summary": [
+    "a ball will fall. trade on where it lands.I made this game!",
+    "Some technical details:The entire drop of the ball is simulated server-side, then streamed to each client as server-sent events with a small buffer.",
+    "Comments URL: https://news.ycombinator.com/item?id=50667726 Points: 246 # Comments: 74"
+   ],
+   "source": "Hacker News",
+   "url": "https://bouncemarket.minhanhday.com/",
+   "image": null,
+   "published_at": "2026-11-27T15:01:50Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "31f87b3e4ae1e19c4f4561cfcab7542cf384e34d",
+   "title": "Show HN: I restored Palm's last device, and brought its OS to other platforms",
+   "summary": [
+    "webOS Community Edition 3.2.0 is the first OTA Update for Palm/HP's TouchPad, modernizing a 15-year old device.",
+    "Lunacy is its sibling: the webOS experience, and apps, on Android.",
+    "Luna DE is a developer tool that brings the webOS app contract to Mac, Windows and Linux as a SDK-compatible Electron app."
+   ],
+   "source": "Hacker News",
+   "url": "https://www.webosarchive.org/pivot/2026/11/27/the-story-so-far/",
+   "image": null,
+   "published_at": "2026-11-27T14:37:02Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "76dc290f56122e2b10c97937023dff2432d2934a",
+   "title": "Making a 3D fantasy map like a 16th-Century atlas",
+   "summary": [
+    "Article URL: https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas Comments URL: https://news.ycombinator.com/item?id=50667062 Points: 46 # Comments: 6"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas",
+   "image": null,
+   "published_at": "2026-11-27T14:02:52Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "2f3fd9bbeae26b7874db748eeffebd185f3294a8",
+   "title": "It’s the biggest ever month for video games – so why am I playing a title from 2006? | Dominik Diamond",
+   "summary": [
+    "While everyone else is giddy over Zelda and GTA, Dominik Diamond finds himself behind the times on a Nintendo WiiI find myself on the wrong side of gaming history this month.",
+    "I haven’t even played Grand Theft Auto VI yet, but we’ll get to that.Worse, all month, the Nintendo sector of the gaming world has been going googly eyed over Zelda.",
+    "The Ocarina of Time remake seems to have produced more joy than all the puppies in the world."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/games/2026/nov/27/legend-zelda-ocarina-of-time-grand-theft-auto-vi-six-dominik-diamond",
+   "image": "https://i.guim.co.uk/img/media/f93886fdda002248aba05a091acbdee45e517c25/571_0_2698_2160/master/2698.jpg?width=140&quality=85&auto=format&fit=max&s=4f8395eb36f9582b7c9eb27d23db23b1",
+   "published_at": "2026-11-27T14:00:13Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "81f3c8d97885456631062ab4e2a460888146f293",
+   "title": "Mental Health Resources and Political Engagement",
+   "summary": [
+    "Article URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219 Comments URL: https://news.ycombinator.com/item?id=50666436 Points: 105 # Comments: 187"
+   ],
+   "source": "Hacker News",
+   "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219",
+   "image": null,
+   "published_at": "2026-11-27T13:01:02Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "3b8b3d993078fe80ac07c99d46519bb128f024ff",
+   "title": "US Air Force's cloud computing platform hacked",
+   "summary": [
+    "Article URL: https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163 Comments URL: https://news.ycombinator.com/item?id=50666375 Points: 237 # Comments: 142"
+   ],
+   "source": "Hacker News",
+   "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+   "image": null,
+   "published_at": "2026-11-27T12:54:11Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "4be11a29624269df3bd224b45dd2bd79bf63c071",
+   "title": "New York and California age gating rules go into effect in the new year",
+   "summary": [
+    "Article URL: https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year Comments URL: https://news.ycombinator.com/item?id=50666279 Points: 150 # Comments: 167"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
+   "image": null,
+   "published_at": "2026-11-27T12:43:40Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "dcf9162e5162c383548522d494f8cd049a1e06d0",
+   "title": "Meta whistleblower calls on Burnham to go further with ban on NDAs",
+   "summary": [
+    "Sarah Wynn-Williams says tech insiders with concerns about AI are being silenced in system reminiscent of George Orwell’s 1984The Meta whistleblower who made allegations about the social media company’s treatment of teenagers has urged Andy Burnham to go further in banning non-disclosure agreements, warning that tech insiders with concerns about AI development need to be protected.Sarah Wynn-Williams, who served as the director of global public policy at Meta, then called Facebook, has been unable to talk about a series of allegations made in her memoir as a result of restrictions secured by the company."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/27/meta-whistleblower-sarah-wynn-williams-calls-on-burnham-to-go-further-with-ban-on-non-disclosure-agreements",
+   "image": "https://i.guim.co.uk/img/media/f277f364251690f43120ef6a9b54a085d1c66319/245_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=abb01599ec71ca09f5bfeb9f9c7d8865",
+   "published_at": "2026-11-27T12:30:08Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ab90b7aec958b9414fd29386711f4b19c7dc6e19",
+   "title": "18 cheap US Black Friday deals: the best sales on heated blankets, packing cubes, sleep masks and more",
+   "summary": [
+    "We scoured hundreds of sales for the best deals below $50 on heated blankets, packing cubes, sleep masks and moreThe 100+ best Black Friday dealsBlack Friday deals aren’t reserved for pricey vacuum cleaners and huge TVs."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/thefilter-us/2026/nov/27/best-black-friday-sales-deals-50",
+   "image": "https://i.guim.co.uk/img/media/7e258a5dd25684166d4013d80c7a52e2b6b4a475/1_0_2499_2000/master/2499.jpg?width=140&quality=85&auto=format&fit=max&s=78da4f3366d349c64ec892d3da81f9e5",
+   "published_at": "2026-11-27T12:15:11Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "31b137af76abed6d3a3df6a93a7bffcc0f828029",
+   "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
+   "summary": [
+    "Article URL: https://eprint.iacr.org/2026/3020.pdf Comments URL: https://news.ycombinator.com/item?id=50665968 Points: 186 # Comments: 80"
+   ],
+   "source": "Hacker News",
+   "url": "https://eprint.iacr.org/2026/3020.pdf",
+   "image": null,
+   "published_at": "2026-11-27T12:08:51Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "d6b51fef844abdcdd2403789bbeaeb8938c92f39",
+   "title": "Kimi for Science: More scientific ideas, made possible",
+   "summary": [
+    "Article URL: https://www.kimi.ai/news/kimi-for-science-program Comments URL: https://news.ycombinator.com/item?id=50665920 Points: 159 # Comments: 133"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.kimi.ai/news/kimi-for-science-program",
+   "image": null,
+   "published_at": "2026-11-27T12:03:11Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "a709bb2b251cd81656bb32b8da02557d15e23602",
+   "title": "GTA in Istanbul? Meet the game developers bringing virtual crime chaos to their home cities",
+   "summary": [
+    "From Helsinki to Istanbul, independent developers are putting Grand Theft Auto-style action on their home streets, and without billion-dollar budgets.",
+    "They tell us how they do itLike most kids who shouldn’t have been playing Grand Theft Auto III in 2001, Eamonn Swayah imagined a version of Rockstar Games’ groundbreaking criminal sandbox set in his own back yard.",
+    "After GTA III attracted immense commercial success (and controversy), dozens of copycats and spiritual sequels hit the market throughout the 00s and 2010s."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/games/2026/nov/27/gta-grand-theft-auto-clones",
+   "image": "https://i.guim.co.uk/img/media/ef32cc0e5feacf4ee97215c03a912968b66455f6/481_190_663_531/master/663.jpg?width=140&quality=85&auto=format&fit=max&s=cc68cd1fc2bdaa0e996f40000049b398",
+   "published_at": "2026-11-27T10:15:20Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "21800f865bba1aea2da180e20f7a0de0b1f616e8",
+   "title": "‘It’s not helping’: calls for guardrails and regulations as AI use rises at US retailers",
+   "summary": [
+    "Labor leaders and advocates urge protections for workers and consumers as AI use becomes more commonplaceAs millions of Americans begin holiday shopping this Black Friday, consumers and workers alike are already seeing how artificial intelligence is reshaping the retail landscape.Anna, a cashier in a southern Oregon Walmart and leader with United for Respect, who requested to remain anonymous for fear of retaliation, criticized the implementation of AI at Walmart and its effects on workers."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/nov/27/ai-retailer-consumer-guardrails",
+   "image": "https://i.guim.co.uk/img/media/b00b5e8e8d672e254701571ca7a06b5d31716990/950_531_4337_3469/master/4337.jpg?width=140&quality=85&auto=format&fit=max&s=88f707a2ab8bf753941c28b1c5bcd775",
+   "published_at": "2026-11-27T10:00:02Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "dec6987784f252fd7a097c0294024326d2e65455",
+   "title": "Pizza history: AI agent’s cardless purchase is a first for UK",
+   "summary": [
+    "Papa John’s order was made without sharing bank security details – tech that could revolutionise shoppingRetailers enter the unknown with AI shopping assistants on Black FridayAn order of Papa John’s margherita pizzas has become the first purchase in the UK to be made using an AI agent using cardless payment technology.The order of nine mini pizzas was made as part of the Financial Conduct Authority’s (FCA) regulated sandbox trials to test the technology, using Lloyds Bank and payment specialist TrueLayer."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
+   "image": "https://i.guim.co.uk/img/media/bf6bce003fbe74cd0f36f89414dd7b2fb6f3888f/996_0_5020_4016/master/5020.jpg?width=140&quality=85&auto=format&fit=max&s=cc476f12dc0c009172d0f11ea897ec28",
+   "published_at": "2026-11-27T09:53:11Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "ce94e0792f00eae5b19e886473821e3cbcdd4f56",
+   "title": "Pimalaya goes stable: Himalaya v3 and the pimdir standard",
+   "summary": [
+    "Article URL: https://blog.pimalaya.org/pimalaya-goes-stable/ Comments URL: https://news.ycombinator.com/item?id=50664931 Points: 32 # Comments: 2"
+   ],
+   "source": "Hacker News",
+   "url": "https://blog.pimalaya.org/pimalaya-goes-stable/",
+   "image": null,
+   "published_at": "2026-11-27T09:50:02Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "138e1e18872d9e9b5386c90467e0be8218201a16",
+   "title": "Claude sabotaging ML research tasks?",
+   "summary": [
+    "Article URL: https://twitter.com/RealAstropulse/status/2126119408997466389 Comments URL: https://news.ycombinator.com/item?id=50664325 Points: 377 # Comments: 190"
+   ],
+   "source": "Hacker News",
+   "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+   "image": null,
+   "published_at": "2026-11-27T08:28:08Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "5848cd0e3fb32955c78457b5aecf82dd8d153ba4",
+   "title": "Natural England objected to a datacentre. Weeks later ministers threatened to abolish the agency",
+   "summary": [
+    "Body urged Bristol city council to reject plan because of risk to nearby protected wildlife and habitats Natural England objected to the building of a large AI datacentre near Bristol weeks before the government threatened to abolish the independent environmental adviser.The nature adviser made a significant intervention to urge Bristol city council not to grant planning permission for a 40MW datacentre at Avonmouth, because of the threat to protected wildlife and habitats at one of the UK’s most important sites for migratory birds, which is within 600 metres of the site."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/environment/2026/nov/27/natural-england-objected-datacentre-ministers-abolish-bristol",
+   "image": "https://i.guim.co.uk/img/media/b5748b57a64addd2c5bb997a92af840adb787b60/1358_0_4536_3629/master/4536.jpg?width=140&quality=85&auto=format&fit=max&s=fcc73496bafea207577837b9037886d4",
+   "published_at": "2026-11-27T07:00:57Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "14c7502ee30b0cf42adfc7a8511324a1c096ffce",
    "title": "‘If the bot gets it wrong, who’s liable?’ Retailers enter the unknown with AI shopping assistants on Black Friday",
    "summary": [
-    "Brands know use of agents such as Meta Muse is on the rise but are unlikely to hand them the keys to the shopThey promise to find the best Black Friday deals, source Christmas gifts and find the ingredients for a romantic dinner.This week’s UK launch of the Muse AI assistant by the owner of Facebook and Instagram promises to transform how we shop – and how retailers make money."
+    "Brands know use of agents such as Meta Muse is on the rise but are unlikely to hand them the keys to the shopHave you downloaded Meta’s AI assistant Muse or do you plan to?They promise to find the best Black Friday deals, source Christmas gifts and find the ingredients for a romantic dinner.This week’s UK launch of the Muse AI assistant by the owner of Facebook and Instagram promises to transform how we shop – and how retailers make money."
    ],
    "source": "The Guardian",
    "url": "https://www.theguardian.com/business/2026/nov/27/retailers-ai-shopping-assistants-black-friday-brands-meta-muse",
@@ -37,23 +372,10 @@
    "related": []
   },
   {
-   "id": "d0d15a6780baf7c79f8bcac50b8ea6b010c9cd41",
-   "title": "Ladybird browser's first downloadable alpha is surprisingly capable",
-   "summary": [
-    "Article URL: https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/ Comments URL: https://news.ycombinator.com/item?id=50663666 Points: 26 # Comments: 5"
-   ],
-   "source": "Hacker News",
-   "url": "https://arstechnica.com/gadgets/2026/11/ladybirds-new-alpha-shows-theres-life-beyond-chromium/",
-   "image": null,
-   "published_at": "2026-11-27T06:53:52Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "48b0d8d3f8cacbd348871db4b86cc9ae911c31c0",
-   "title": "The group chat where your AI talks behind your back",
+   "title": "Group chat where your AI talks behind your back",
    "summary": [
-    "Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 74 # Comments: 22"
+    "Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 602 # Comments: 253"
    ],
    "source": "Hacker News",
    "url": "https://construct22.com/",
@@ -66,7 +388,7 @@
    "id": "432d25ec95ea88957a7a10a3d7a8bc0004267d37",
    "title": "Buy Nothing Day – Friday November 27th 2026",
    "summary": [
-    "Article URL: https://www.buynothingday.co.uk/ Comments URL: https://news.ycombinator.com/item?id=50663261 Points: 30 # Comments: 3"
+    "Article URL: https://www.buynothingday.co.uk/ Comments URL: https://news.ycombinator.com/item?id=50663261 Points: 302 # Comments: 96"
    ],
    "source": "Hacker News",
    "url": "https://www.buynothingday.co.uk/",
@@ -79,51 +401,12 @@
    "id": "46cd86bf0efb5023d534f94abb1322dbf8bf97c9",
    "title": "The need for a formally verifiable mainstream programming language",
    "summary": [
-    "Article URL: https://blainehansen.me/post/mainstream-verifiable-language/ Comments URL: https://news.ycombinator.com/item?id=50663089 Points: 100 # Comments: 72"
+    "Article URL: https://blainehansen.me/post/mainstream-verifiable-language/ Comments URL: https://news.ycombinator.com/item?id=50663089 Points: 253 # Comments: 261"
    ],
    "source": "Hacker News",
    "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
    "image": null,
    "published_at": "2026-11-27T05:22:06Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "0256b11e8366a05168e83214472323cbc00a964a",
-   "title": "\"What's Claude's Fursona?\" and Other Questions",
-   "summary": [
-    "Article URL: https://herecomesthemoon.net/2026/11/whats-claudes-fursona/ Comments URL: https://news.ycombinator.com/item?id=50662933 Points: 75 # Comments: 47"
-   ],
-   "source": "Hacker News",
-   "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
-   "image": null,
-   "published_at": "2026-11-27T04:56:18Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "77d0146587a8fc9d79917592cd84dbf98f61c865",
-   "title": "The Cutthroat Business of Shipwrecks",
-   "summary": [
-    "Article URL: https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/ Comments URL: https://news.ycombinator.com/item?id=50661705 Points: 21 # Comments: 2"
-   ],
-   "source": "Hacker News",
-   "url": "https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/",
-   "image": null,
-   "published_at": "2026-11-27T01:21:49Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "f809947e587d77fc59781bf21623e87b167c8740",
-   "title": "Hard Drive pricing has gotten bad",
-   "summary": [
-    "Article URL: https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/ Comments URL: https://news.ycombinator.com/item?id=50661646 Points: 299 # Comments: 190"
-   ],
-   "source": "Hacker News",
-   "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
-   "image": null,
-   "published_at": "2026-11-27T01:13:49Z",
    "category": "tech",
    "related": []
   },
@@ -150,58 +433,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-26T23:08:12Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "bebcb9773ecbc29fc4a277cf8863c773c0a12a20",
-   "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
-   "summary": [
-    "Article URL: https://kendell.dev/blog/arkwrapper/ Comments URL: https://news.ycombinator.com/item?id=50660273 Points: 91 # Comments: 12"
-   ],
-   "source": "Hacker News",
-   "url": "https://kendell.dev/blog/arkwrapper/",
-   "image": null,
-   "published_at": "2026-11-26T21:59:19Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "19dd4641586dbe86ba4d9356ec9f66099654f309",
-   "title": "AI made self-hosting fun again",
-   "summary": [
-    "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 594 # Comments: 305"
-   ],
-   "source": "Hacker News",
-   "url": "https://janlukas.blog/posts/ai-self-hosting",
-   "image": null,
-   "published_at": "2026-11-26T21:47:45Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "1f02c916626f9d14e7d69caa007191d4e2eaac3f",
-   "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-   "summary": [
-    "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/ Comments URL: https://news.ycombinator.com/item?id=50659841 Points: 344 # Comments: 81"
-   ],
-   "source": "Hacker News",
-   "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
-   "image": null,
-   "published_at": "2026-11-26T21:08:05Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "14a3cf224a9661ad7ac236979a2cc78d92f32f04",
-   "title": "Company Culture = Slack Emoji ÷ √Headcount",
-   "summary": [
-    "Article URL: https://lia.mg/posts/measuring-company-culture-with-slack-emoji/ Comments URL: https://news.ycombinator.com/item?id=50659640 Points: 286 # Comments: 126"
-   ],
-   "source": "Hacker News",
-   "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
-   "image": null,
-   "published_at": "2026-11-26T20:49:49Z",
    "category": "tech",
    "related": []
   },
@@ -260,97 +491,6 @@
    "related": []
   },
   {
-   "id": "4aa3f3f05b824bd576172cb86d6da753010a81ce",
-   "title": "Rvoip: VoIP stack in Rust",
-   "summary": [
-    "Article URL: https://github.com/eisenzopf/rvoip Comments URL: https://news.ycombinator.com/item?id=50658632 Points: 119 # Comments: 24"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/eisenzopf/rvoip",
-   "image": null,
-   "published_at": "2026-11-26T19:18:09Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "82bab66344c7406e44b4ac71b5096d881d8c9d38",
-   "title": "An introduction to uncertainty in machine learning",
-   "summary": [
-    "Article URL: https://chrhenning.com/blog/2026/introduction-to-uncertainty/ Comments URL: https://news.ycombinator.com/item?id=50658498 Points: 65 # Comments: 1"
-   ],
-   "source": "Hacker News",
-   "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
-   "image": null,
-   "published_at": "2026-11-26T19:04:50Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "7ca03b3e923c8af2a29420ab82c8874a118c37a0",
-   "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
-   "summary": [
-    "Article URL: https://bui.preetham.top/charts/ Comments URL: https://news.ycombinator.com/item?id=50658193 Points: 100 # Comments: 22"
-   ],
-   "source": "Hacker News",
-   "url": "https://bui.preetham.top/charts/",
-   "image": null,
-   "published_at": "2026-11-26T18:37:24Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "fff9ea85187cfa01d76a66c1ab9398c6b10afe13",
-   "title": "George Whitesides, 1939-2026",
-   "summary": [
-    "Article URL: https://www.science.org/content/blog-post/george-whitesides-1939-2026 Comments URL: https://news.ycombinator.com/item?id=50657936 Points: 73 # Comments: 7"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
-   "image": null,
-   "published_at": "2026-11-26T18:13:07Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "669406732a3f4212be8238db1339b6a04a6916de",
-   "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
-   "summary": [
-    "Article URL: https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/ Comments URL: https://news.ycombinator.com/item?id=50657645 Points: 251 # Comments: 125"
-   ],
-   "source": "Hacker News",
-   "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-   "image": null,
-   "published_at": "2026-11-26T17:47:45Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "9ca28a7fecf24c6d02d38cbda1619c9eadb4d591",
-   "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
-   "summary": [
-    "Article URL: https://github.com/antonpictures/youtube-punisher Comments URL: https://news.ycombinator.com/item?id=50657530 Points: 363 # Comments: 437"
-   ],
-   "source": "Hacker News",
-   "url": "https://github.com/antonpictures/youtube-punisher",
-   "image": null,
-   "published_at": "2026-11-26T17:36:47Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "1d45997e4997625f9817125417346ee454996a19",
-   "title": "AMD-specific fork of llama.cpp",
-   "summary": [
-    "Article URL: https://devnull.land/amd-specific-llama-cpp Comments URL: https://news.ycombinator.com/item?id=50657265 Points: 339 # Comments: 82"
-   ],
-   "source": "Hacker News",
-   "url": "https://devnull.land/amd-specific-llama-cpp",
-   "image": null,
-   "published_at": "2026-11-26T17:11:29Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "98bc69ca3f113784fa0c31481ee9d05c822f613c",
    "title": "A month with the iPhone Duo has changed how I use my phone",
    "summary": [
@@ -373,36 +513,6 @@
    "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
    "image": null,
    "published_at": "2026-11-26T16:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "c292bca5f4138015f907dd1270bebfa787a39e1b",
-   "title": "Show HN: I wrote an entire Vim manual over 4 years",
-   "summary": [
-    "I'm glad to announce that I'm releasing my new book, Learning to Play Vim.When I started using Vim more than a decade ago, I wished there was a manual out there teaching how to use this fantastic editor step by step, beginning with the foundations up to more advanced features.",
-    "I also read the entire Vim manual (`:help manual`), but I didn't like it: it was too detailed in places (for example `02.8 Finding help` completely lost me for a while), and other features didn't get the treatment they deserved.So I decided to write my own Vim manual.",
-    "Comments URL: https://news.ycombinator.com/item?id=50655868 Points: 142 # Comments: 44"
-   ],
-   "source": "Hacker News",
-   "url": "http://themouseless.dev/vim/",
-   "image": null,
-   "published_at": "2026-11-26T14:44:22Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "49db83e253edbf0771d468b99bafbdd0476979fa",
-   "title": "Tell HN: Happy Thanksgiving",
-   "summary": [
-    "Hopefully it’s a great day spent with your friends and family.",
-    "And if it’s not, make it a great day anyway!",
-    "Comments URL: https://news.ycombinator.com/item?id=50655664 Points: 685 # Comments: 144"
-   ],
-   "source": "Hacker News",
-   "url": "https://news.ycombinator.com/item?id=50655664",
-   "image": null,
-   "published_at": "2026-11-26T14:26:54Z",
    "category": "tech",
    "related": []
   },
@@ -446,60 +556,6 @@
    "url": "https://www.theguardian.com/technology/2026/nov/26/jensen-huang-nvidia-tech",
    "image": "https://i.guim.co.uk/img/media/1c86eb468485514265ee27c663d10f3cb3fb8fb0/335_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=994ad9b859c6d63dafa86aaf9b3936c3",
    "published_at": "2026-11-26T10:00:52Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "dd80b4feed2dc6b2c2ac2d954254e61693c6296b",
-   "title": "Seven beautiful places to visit in GTA VI, from mountains trails to an afternoon at the zoo",
-   "summary": [
-    "Need a break from all the crime and violence?",
-    "There are plenty of places to get away from it all in LeonidaAs Leonida goes, Mount Kalaga is the top of the world.",
-    "There are bike trails and hiking trails all the way up the mountain, as well as plenty of hunting opportunities if that’s your thing."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/games/2026/nov/26/seven-beautiful-places-to-visit-in-gta-vi-from-mountains-trails-to-an-afternoon-at-the-zoo",
-   "image": "https://i.guim.co.uk/img/media/e073b5dc68966a3a675901d0d0f068fb9f7c01d5/44_0_2326_1860/master/2326.jpg?width=140&quality=85&auto=format&fit=max&s=3814e1bcf614f6e2403244b9c9cf979f",
-   "published_at": "2026-11-26T09:20:50Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "7dc525128d2ba760dbb5fc59da1a7e34cc5df4c9",
-   "title": "Elon Musk pledges to give two SpaceX shares to every child in the US",
-   "summary": [
-    "SpaceX announced earlier on Wednesday that it would ​contribute one newly issued share of its Class A common stock ‌to every currently active Trump Account, and that ‌Musk will match the number of shares it donates."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/26/elon-musk-pledges-to-give-two-spacex-shares-to-every-child-in-the-us",
-   "image": "https://i.guim.co.uk/img/media/6b1786336d92dd9924ed6029c54417bb3647a7e8/448_0_4604_3681/master/4604.jpg?width=140&quality=85&auto=format&fit=max&s=58d0e57e7ee97b156409e6c3860efca3",
-   "published_at": "2026-11-26T07:02:37Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "f27e0de9d097fe0520ef81c90f543f4346b36d0d",
-   "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
-   "summary": [
-    "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
-   "image": null,
-   "published_at": "2026-11-25T22:44:32Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "b6512f00b6c1afbe364af1fe11994ac32cf2f879",
-   "title": "FCC approves SpaceX plan to put AI data centers in space",
-   "summary": [
-    "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
-   "image": null,
-   "published_at": "2026-11-25T20:56:44Z",
    "category": "tech",
    "related": []
   }
