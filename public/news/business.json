@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-28T01:53:34.396939Z",
- "story_count": 13,
+ "generated_at": "2026-11-28T10:13:03.146742Z",
+ "story_count": 9,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -23,6 +23,19 @@
   "https://www.espn.com/espn/rss/news": "failed: HTTPError: HTTP Error 202: Accepted"
  },
  "stories": [
+  {
+   "id": "2a46efb1f91a09c7527aae66d1eb986b5d6e396a",
+   "title": "Butcher blames costs for closure after 127 years",
+   "summary": [
+    "Bennett Butchers in Spalding says rises in National Insurance and energy have made it \"unviable\"."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cqe9k3m9mvexo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-28T07:18:47Z",
+   "category": "business",
+   "related": []
+  },
   {
    "id": "e4e826fdf41c9f4071e2a29c05f9b8861d53537e",
    "title": "The explosion of extreme wealth is the major problem of our time | Bernie Sanders",
@@ -133,71 +146,6 @@
    "url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-26T23:17:12Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "a1e1f2b8b6064b737b078f75993dda8894635056",
-   "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
-   "summary": [
-    "Other countries have rerouted trade in response to his first tariff salvo, now they are looking beyond Trump's tenure."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-26T19:55:58Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "0b5ec3a067b69679e861e55e0841e83b286542bd",
-   "title": "When will Poundland shops close? Five key questions answered",
-   "summary": [
-    "Why is Poundland closing down, and what will happen to staff and suppliers?"
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-26T17:21:21Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "64ca7df9242cf6d30a5b0355df2310b4aca5dee3",
-   "title": "New UK-EU treaty has 10-year termination clause",
-   "summary": [
-    "Text of the treaties was published this afternoon, alongside legislation designed to enact the bulk of the deal."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-26T15:23:17Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "c8cf0b07233b31082ae960e20a74f3bd14eab318",
-   "title": "Norse Atlantic suspends all flights as it faces potential collapse",
-   "summary": [
-    "The carrier is looking for urgent funding, but will file for bankruptcy without a financial lifeline."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-26T14:28:22Z",
-   "category": "business",
-   "related": []
-  },
-  {
-   "id": "4609220b8d829a0109ebc3dc8a4027445e4a2b77",
-   "title": "Millions of people to see average monthly mortgage payments rise by £100",
-   "summary": [
-    "More people face higher mortgage repayments when they roll off a fixed deal than previously estimated."
-   ],
-   "source": "BBC News",
-   "url": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss",
-   "image": null,
-   "published_at": "2026-11-26T14:00:20Z",
    "category": "business",
    "related": []
   }

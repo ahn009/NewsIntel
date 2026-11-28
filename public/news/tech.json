@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-28T01:53:34.396597Z",
- "story_count": 40,
+ "generated_at": "2026-11-28T10:13:03.146198Z",
+ "story_count": 37,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
   "https://www.aljazeera.com/xml/rss/all.xml": "ok",
@@ -24,6 +24,97 @@
  },
  "stories": [
   {
+   "id": "1018590a0f0ad5573dc27db633e5f99e3288922e",
+   "title": "Pensions and benefits services still down after 'cyber incident'",
+   "summary": [
+    "The UK's former chief technology officer says the Department for Work and Pensions may have been hit by hackers, but the government has not confirmed that."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-28T09:10:32Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "40975f4ac52fbdd452033bb6c40cc9764801e629",
+   "title": "FastLanes: Next-gen File Format [pdf]",
+   "summary": [
+    "Article URL: https://research.vu.nl/files/447013431/afroozehphdthesis%20-%2069280d90f0bfd.pdf Comments URL: https://news.ycombinator.com/item?id=50675195 Points: 10 # Comments: 1"
+   ],
+   "source": "Hacker News",
+   "url": "https://research.vu.nl/files/447013431/afroozehphdthesis%20-%2069280d90f0bfd.pdf",
+   "image": null,
+   "published_at": "2026-11-28T06:14:21Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "1b1ad1135220e4832542ed16f0251303e37c566c",
+   "title": "AI labs sitting on ‘bombshell’ revelations that could cause global chaos, experts warn",
+   "summary": [
+    "Exclusive: AI may have cracked decades-old maths problems that underpin encryption at banks and government agenciesAI companies are sitting on “bombshell” revelations that could disrupt a cornerstone of security for banks and governments in as soon as a few months, leading experts believe.Scott Aaronson, a pre-eminent theoretical computer scientist, told the Guardian there were “well-attested rumours” that powerful artificial intelligence models had broken ground on decades-old maths problems related to how the world encodes secret information."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/28/ai-artificial-intelligence-encryption-global-chaos",
+   "image": "https://i.guim.co.uk/img/media/f08944d0a359b09c93c14ea8aeeac1ec4a540ba1/1397_0_5399_4320/master/5399.jpg?width=140&quality=85&auto=format&fit=max&s=471d54a8ec6343f8bb2eeba54c218081",
+   "published_at": "2026-11-28T05:00:30Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "256cd61e1a96beca6298f561213023a24d825378",
+   "title": "Could AI break encryption? What mathematical breakthroughs mean for cybersecurity",
+   "summary": [
+    "Depending on what it is, it could have major consequences for the world’s secret information, and the banks and governments that hold and transmit it.This is because of recent, startling mathematical advances made by AI models, which are still being understood."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/28/could-ai-break-encryption-what-mathematical-breakthroughs-mean-for-cybersecurity",
+   "image": "https://i.guim.co.uk/img/media/7b3c245cf23380f751f0177a251f8961f4cecd5a/0_0_2502_2003/master/2502.jpg?width=140&quality=85&auto=format&fit=max&s=1f74c586765dac1ab1ac3885371cc851",
+   "published_at": "2026-11-28T05:00:30Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "c3a8b50ae7dfc251fadb702930666d0cfd2f3f9b",
+   "title": "Knuth: Moratorium on Error Reports",
+   "summary": [
+    "Article URL: https://www-cs-faculty.stanford.edu/~knuth/moratorium.html Comments URL: https://news.ycombinator.com/item?id=50674452 Points: 88 # Comments: 52"
+   ],
+   "source": "Hacker News",
+   "url": "https://www-cs-faculty.stanford.edu/~knuth/moratorium.html",
+   "image": null,
+   "published_at": "2026-11-28T03:49:21Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "7d5642ecb0f0f41e64cdfa331d44ef7ba9685bd7",
+   "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+   "summary": [
+    "Article URL: https://unkernel.dev Comments URL: https://news.ycombinator.com/item?id=50674218 Points: 308 # Comments: 75"
+   ],
+   "source": "Hacker News",
+   "url": "https://unkernel.dev",
+   "image": null,
+   "published_at": "2026-11-28T03:19:20Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "2734db335d864036fe18cc97878d104ec8d960cb",
+   "title": "Atari Homebrew Awards Cancelled",
+   "summary": [
+    "Article URL: https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/ Comments URL: https://news.ycombinator.com/item?id=50673688 Points: 205 # Comments: 197"
+   ],
+   "source": "Hacker News",
+   "url": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/",
+   "image": null,
+   "published_at": "2026-11-28T02:03:25Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "50f0be167f44a967c3745e40273e55973bec1ea5",
    "title": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
    "summary": [
@@ -33,19 +124,6 @@
    "url": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-28T01:30:50Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "bbd056e45d43783ccc3c9a7ec5da719045cc1387",
-   "title": "Alaska seized his plane over some beers. He is asking the Supreme Court for help",
-   "summary": [
-    "Article URL: https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/ Comments URL: https://news.ycombinator.com/item?id=50673444 Points: 9 # Comments: 0"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/",
-   "image": null,
-   "published_at": "2026-11-28T01:20:16Z",
    "category": "tech",
    "related": []
   },
@@ -63,36 +141,10 @@
    "related": []
   },
   {
-   "id": "00b11db1d8b833a9b46f32ba1dee006284efcf0d",
-   "title": "Passkey blues",
-   "summary": [
-    "Article URL: https://ssg.dev/passkey-blues/ Comments URL: https://news.ycombinator.com/item?id=50672835 Points: 16 # Comments: 2"
-   ],
-   "source": "Hacker News",
-   "url": "https://ssg.dev/passkey-blues/",
-   "image": null,
-   "published_at": "2026-11-27T23:51:28Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "43d9ed5f4e1a6cb64e432a4cd840be29a3e89708",
-   "title": "Painting 1990s anime scenes in Python",
-   "summary": [
-    "Article URL: https://www.fofr.ai/greenhouse-after-the-typhoon Comments URL: https://news.ycombinator.com/item?id=50672829 Points: 11 # Comments: 2"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.fofr.ai/greenhouse-after-the-typhoon",
-   "image": null,
-   "published_at": "2026-11-27T23:50:17Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "77ab3d65a27896e8329a48f48640f73305607972",
    "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
    "summary": [
-    "Article URL: https://research.google/blog/supercharging-transformer-residual-connections/ Comments URL: https://news.ycombinator.com/item?id=50672565 Points: 76 # Comments: 16"
+    "Article URL: https://research.google/blog/supercharging-transformer-residual-connections/ Comments URL: https://news.ycombinator.com/item?id=50672565 Points: 396 # Comments: 151"
    ],
    "source": "Hacker News",
    "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
@@ -105,7 +157,7 @@
    "id": "edf4fd492324b5023669a0c98f6a653292a1e279",
    "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
    "summary": [
-    "Article URL: https://tabernet.es/ Comments URL: https://news.ycombinator.com/item?id=50672521 Points: 32 # Comments: 11"
+    "Article URL: https://tabernet.es/ Comments URL: https://news.ycombinator.com/item?id=50672521 Points: 130 # Comments: 42"
    ],
    "source": "Hacker News",
    "url": "https://tabernet.es/",
@@ -115,23 +167,10 @@
    "related": []
   },
   {
-   "id": "bc7b71945fa199ad343283e441cfa2601a76b2c6",
-   "title": "Source Control from Hell",
-   "summary": [
-    "Article URL: https://frantic.im/git/ Comments URL: https://news.ycombinator.com/item?id=50672142 Points: 56 # Comments: 41"
-   ],
-   "source": "Hacker News",
-   "url": "https://frantic.im/git/",
-   "image": null,
-   "published_at": "2026-11-27T22:06:44Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "2c3ac5a2eb659524b8a77f09b876c3c15e81a8d9",
    "title": "9/UX: a Macintosh-inspired desktop for 9front",
    "summary": [
-    "Article URL: https://progrium.github.io/9ux/ Comments URL: https://news.ycombinator.com/item?id=50672008 Points: 73 # Comments: 11"
+    "Article URL: https://progrium.github.io/9ux/ Comments URL: https://news.ycombinator.com/item?id=50672008 Points: 129 # Comments: 32"
    ],
    "source": "Hacker News",
    "url": "https://progrium.github.io/9ux/",
@@ -144,7 +183,7 @@
    "id": "60fe99fe03e07da50b4e832c11c27d30454df3cf",
    "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
    "summary": [
-    "Article URL: https://sessiongraph.ai/ Comments URL: https://news.ycombinator.com/item?id=50671651 Points: 25 # Comments: 10"
+    "Article URL: https://sessiongraph.ai/ Comments URL: https://news.ycombinator.com/item?id=50671651 Points: 59 # Comments: 25"
    ],
    "source": "Hacker News",
    "url": "https://sessiongraph.ai/",
@@ -154,28 +193,28 @@
    "related": []
   },
   {
-   "id": "fd0ee9950bd6c08c2ebca143b785761c0949a4fb",
-   "title": "Quad9 Blocks Nginx2root.com",
-   "summary": [
-    "Article URL: https://quad9.net/?url=nginx2root.com#domain-tester Comments URL: https://news.ycombinator.com/item?id=50671619 Points: 15 # Comments: 9"
-   ],
-   "source": "Hacker News",
-   "url": "https://quad9.net/?url=nginx2root.com#domain-tester",
-   "image": null,
-   "published_at": "2026-11-27T21:03:56Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "42792ea1ec910a69db7ee4942db31bbbe0d5ca49",
    "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
    "summary": [
-    "Article URL: https://github.com/skeeto/prospero Comments URL: https://news.ycombinator.com/item?id=50671275 Points: 33 # Comments: 7"
+    "Article URL: https://github.com/skeeto/prospero Comments URL: https://news.ycombinator.com/item?id=50671275 Points: 75 # Comments: 25"
    ],
    "source": "Hacker News",
    "url": "https://github.com/skeeto/prospero",
    "image": null,
    "published_at": "2026-11-27T20:23:14Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "827e09c0f850db6ba5fd819e72633bc30fa6e3a1",
+   "title": "DWP ‘cyber incident’ knocks almost all pensions and benefits systems offline",
+   "summary": [
+    "Department for Work and Pensions urges people to be alert to scams related to outage and contact helpline with urgent difficultiesTell us: have you been affected by the DWP ‘cyber incident’Benefits and pensions claimants have faced chaos after the system was hit by a “serious cyber incident”, fuelling concerns about the UK government’s ability to defend itself against malicious attacks.The government took its portal down late on Thursday after detecting “unusual activity”, meaning anyone trying to check their state pension, make an application for disability benefits or claim universal credit on Friday was unable to do so."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/politics/2026/nov/27/dwp-cyber-incident-pensions-benefits-systems-offline",
+   "image": "https://i.guim.co.uk/img/media/0d82e1461d1d579ccc389c5c6840749137a2819f/342_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=b99780f3f8c851e11de0b6d5d913b35c",
+   "published_at": "2026-11-27T19:45:51Z",
    "category": "tech",
    "related": []
   },
@@ -193,23 +232,10 @@
    "related": []
   },
   {
-   "id": "c54d0f12616a1903b47a0bb7680880aa8956b954",
-   "title": "The AT&T Unix PC (3B1) VM",
-   "summary": [
-    "Article URL: https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/ Comments URL: https://news.ycombinator.com/item?id=50670841 Points: 56 # Comments: 11"
-   ],
-   "source": "Hacker News",
-   "url": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/",
-   "image": null,
-   "published_at": "2026-11-27T19:40:33Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "6acd918e33396a3c6371eb7bb33b5f0cd3d6e6d0",
    "title": "Michael Nielsen took down his book on neural nets",
    "summary": [
-    "Article URL: https://neuralnetworksanddeeplearning.com/ Comments URL: https://news.ycombinator.com/item?id=50670757 Points: 385 # Comments: 253"
+    "Article URL: https://neuralnetworksanddeeplearning.com/ Comments URL: https://news.ycombinator.com/item?id=50670757 Points: 537 # Comments: 333"
    ],
    "source": "Hacker News",
    "url": "https://neuralnetworksanddeeplearning.com/",
@@ -219,36 +245,10 @@
    "related": []
   },
   {
-   "id": "061346cb2f74644bedfed5317c745cf4f2450776",
-   "title": "Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10",
-   "summary": [
-    "Article URL: https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/ Comments URL: https://news.ycombinator.com/item?id=50670443 Points: 40 # Comments: 10"
-   ],
-   "source": "Hacker News",
-   "url": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/",
-   "image": null,
-   "published_at": "2026-11-27T18:59:55Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "fd73c92e8ca27845ae5f97d606941707f7253f5a",
-   "title": "Scrapheap America",
-   "summary": [
-    "Article URL: https://dansinker.com/posts/2026-11-20-scrapheap/ Comments URL: https://news.ycombinator.com/item?id=50670340 Points: 60 # Comments: 24"
-   ],
-   "source": "Hacker News",
-   "url": "https://dansinker.com/posts/2026-11-20-scrapheap/",
-   "image": null,
-   "published_at": "2026-11-27T18:50:26Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "e3fd524c3c50f8bca16d260c3ce548726ae4c209",
    "title": "Convex skills send the user's app idea to a remote server without telling them",
    "summary": [
-    "Article URL: https://github.com/convex/convex-backend-skill/issues/64 Comments URL: https://news.ycombinator.com/item?id=50669765 Points: 231 # Comments: 75"
+    "Article URL: https://github.com/convex/convex-backend-skill/issues/64 Comments URL: https://news.ycombinator.com/item?id=50669765 Points: 304 # Comments: 97"
    ],
    "source": "Hacker News",
    "url": "https://github.com/convex/convex-backend-skill/issues/64",
@@ -262,7 +262,7 @@
    "title": "Show HN: DragDropMath – Learn math by feel",
    "summary": [
     "Hi HN!I am a professional physicist and I shuffle symbols in equations and mathematical expressions all day long.",
-    "Thank you in advance Comments URL: https://news.ycombinator.com/item?id=50669673 Points: 100 # Comments: 31"
+    "Thank you in advance Comments URL: https://news.ycombinator.com/item?id=50669673 Points: 138 # Comments: 39"
    ],
    "source": "Hacker News",
    "url": "https://dragdropmath.com/",
@@ -305,7 +305,7 @@
    "id": "9b67ad13d3381ff0e387a57a33c5a6abfa13647a",
    "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
    "summary": [
-    "Article URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer Comments URL: https://news.ycombinator.com/item?id=50668145 Points: 428 # Comments: 224"
+    "Article URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer Comments URL: https://news.ycombinator.com/item?id=50668145 Points: 526 # Comments: 271"
    ],
    "source": "Hacker News",
    "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
@@ -318,7 +318,7 @@
    "id": "e20b8c05499c1f61c7208754a7055667e1a3f3b9",
    "title": "False computer-checked proofs",
    "summary": [
-    "Article URL: https://cr.yp.to/proofs/falseccp.html Comments URL: https://news.ycombinator.com/item?id=50667989 Points: 179 # Comments: 75"
+    "Article URL: https://cr.yp.to/proofs/falseccp.html Comments URL: https://news.ycombinator.com/item?id=50667989 Points: 229 # Comments: 88"
    ],
    "source": "Hacker News",
    "url": "https://cr.yp.to/proofs/falseccp.html",
@@ -333,7 +333,7 @@
    "summary": [
     "a ball will fall. trade on where it lands.I made this game!",
     "Some technical details:The entire drop of the ball is simulated server-side, then streamed to each client as server-sent events with a small buffer.",
-    "Comments URL: https://news.ycombinator.com/item?id=50667726 Points: 326 # Comments: 114"
+    "Comments URL: https://news.ycombinator.com/item?id=50667726 Points: 374 # Comments: 126"
    ],
    "source": "Hacker News",
    "url": "https://bouncemarket.minhanhday.com/",
@@ -343,15 +343,15 @@
    "related": []
   },
   {
-   "id": "19008dfb0da368acbeef6f3bc7a3826ddba6926e",
-   "title": "Hackers reportedly breach US air force’s flagship cloud computing platform",
+   "id": "b5a47895ab2cc9da7b7b31468187776250d6c6b6",
+   "title": "Rayshader 1.0: Exit the Matrix",
    "summary": [
-    "Intrusion into Cloud One platform could jeopardize security of sensitive tactical, personnel and logistics dataHackers are reported to have breached the US air force’s flagship cloud computing platform, a break-in that comes days after reports that a CIA database was accessed.Reuters reported on Friday that the intrusion into the USAF’s Cloud One platform could jeopardize the security of sensitive tactical, personnel and logistics data."
+    "Article URL: https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html Comments URL: https://news.ycombinator.com/item?id=50667371 Points: 131 # Comments: 17"
    ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/27/hackers-breach-us-air-force-cloud-computing",
-   "image": "https://i.guim.co.uk/img/media/b78bd09c92d89960e79cab8a33338868663794eb/171_0_1706_1365/master/1706.jpg?width=140&quality=85&auto=format&fit=max&s=7b854afa2bb649ef6e181a19df87e7c0",
-   "published_at": "2026-11-27T14:50:15Z",
+   "source": "Hacker News",
+   "url": "https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html",
+   "image": null,
+   "published_at": "2026-11-27T14:30:20Z",
    "category": "tech",
    "related": []
   },
@@ -367,6 +367,19 @@
    "url": "https://www.theguardian.com/games/2026/nov/27/legend-zelda-ocarina-of-time-grand-theft-auto-vi-six-dominik-diamond",
    "image": "https://i.guim.co.uk/img/media/f93886fdda002248aba05a091acbdee45e517c25/571_0_2698_2160/master/2698.jpg?width=140&quality=85&auto=format&fit=max&s=4f8395eb36f9582b7c9eb27d23db23b1",
    "published_at": "2026-11-27T14:00:13Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "2651a28b4853b0b74005b087f2fc96971ec2d587",
+   "title": "Paolo Soleri built a utopian eco-city in the Arizona desert",
+   "summary": [
+    "Article URL: https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona Comments URL: https://news.ycombinator.com/item?id=50666724 Points: 66 # Comments: 13"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona",
+   "image": null,
+   "published_at": "2026-11-27T13:30:20Z",
    "category": "tech",
    "related": []
   },
@@ -464,6 +477,19 @@
    "related": []
   },
   {
+   "id": "1a83b02fbbf3699a84d089b56dcbd74a4e1be2d0",
+   "title": "Citroën Hydraulic System",
+   "summary": [
+    "Article URL: https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html Comments URL: https://news.ycombinator.com/item?id=50662313 Points: 202 # Comments: 60"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
+   "image": null,
+   "published_at": "2026-11-27T03:10:19Z",
+   "category": "tech",
+   "related": []
+  },
+  {
    "id": "8b830f37b04abf68375b04ca1d7cb4bfbe1d7b9b",
    "title": "Why is there a shortage of 'wizard' elevator mechanics?",
    "summary": [
@@ -486,73 +512,6 @@
    "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
    "image": null,
    "published_at": "2026-11-26T23:08:12Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "c881f1e7111092b00f4c9abf2185c653321fe34c",
-   "title": "Nvidia hits pause on chip shipments to Southeast Asia",
-   "summary": [
-    "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
-   "image": null,
-   "published_at": "2026-11-26T20:03:54Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "78edf621e9cfa0f0ccb007b1da56f210ae44a484",
-   "title": "Slow internet? The best wifi extenders and mesh systems to boost your home network – tested",
-   "summary": [
-    "We put 11 range extenders and mesh systems to the test to find the fastest and most reliable for streaming, gaming and working from home• The best office chairsFast fibre broadband is fantastic – if the wifi signal reaches the part of your home where you need it.",
-    "Sadly, these often don’t have the range to cover every room in your home, leaving you high and dry when you’re trying to binge-watch TV or get work done in a distant home office.Wifi extenders and mesh systems can help.",
-    "Mesh systems are even smarter, pairing a secondary router with one or two satellite units, which work together to extend the wifi coverage throughout your home."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/thefilter/2026/nov/26/best-wifi-extender-repeater-uk",
-   "image": "https://i.guim.co.uk/img/media/593be969b42029b62c32996c24e46a5d2eedb6df/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=71cbd1dbee593f3eacc901c0e45b1530",
-   "published_at": "2026-11-26T20:00:43Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "c772b97adf28fd9b75c1e33cd5e3e9ffbb63807c",
-   "title": "Is Alice Huang a spy or not?",
-   "summary": [
-    "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
-   "image": null,
-   "published_at": "2026-11-26T20:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "bb4c05f77b6b8fdd1fcd770533dadb1580c6c034",
-   "title": "X finally gets parental controls after 20 years",
-   "summary": [
-    "Elon Musk's social network X has finally added parental controls for teenagers, giving parents and guardians a way to manage what their kids see on the platform."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
-   "image": null,
-   "published_at": "2026-11-26T19:31:50Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "98bc69ca3f113784fa0c31481ee9d05c822f613c",
-   "title": "A month with the iPhone Duo has changed how I use my phone",
-   "summary": [
-    "From reading more books to breaking mindless scrolling habits, Apple's foldable has changed my daily routines in ways I didn't anticipate."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",
-   "image": null,
-   "published_at": "2026-11-26T17:00:00Z",
    "category": "tech",
    "related": []
   }
