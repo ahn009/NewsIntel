@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T18:51:33.408830Z",
+ "generated_at": "2026-11-28T01:53:34.396597Z",
  "story_count": 40,
  "feed_status": {
   "https://feeds.bbci.co.uk/news/world/rss.xml": "ok",
@@ -24,15 +24,223 @@
  },
  "stories": [
   {
-   "id": "74309f46991fcaf7662d891eb25d915c95f03600",
-   "title": "The NFL Player Who Left Football for Math",
+   "id": "50f0be167f44a967c3745e40273e55973bec1ea5",
+   "title": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
    "summary": [
-    "Article URL: https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html Comments URL: https://news.ycombinator.com/item?id=50669963 Points: 7 # Comments: 3"
+    "With an official PC version potentially still months away, fans are getting impatient."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-28T01:30:50Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "bbd056e45d43783ccc3c9a7ec5da719045cc1387",
+   "title": "Alaska seized his plane over some beers. He is asking the Supreme Court for help",
+   "summary": [
+    "Article URL: https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/ Comments URL: https://news.ycombinator.com/item?id=50673444 Points: 9 # Comments: 0"
    ],
    "source": "Hacker News",
-   "url": "https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html",
+   "url": "https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/",
    "image": null,
-   "published_at": "2026-11-27T18:17:20Z",
+   "published_at": "2026-11-28T01:20:16Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "256c661f0420d05b100bbdae33af293766ce6929",
+   "title": "Tech Now",
+   "summary": [
+    "Ammie Sekhon looks at robotics that could one day help spacecraft act independently."
+   ],
+   "source": "BBC News",
+   "url": "https://www.bbc.co.uk/iplayer/episode/m00353dd?at_medium=RSS&at_campaign=rss",
+   "image": null,
+   "published_at": "2026-11-28T01:00:00Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "00b11db1d8b833a9b46f32ba1dee006284efcf0d",
+   "title": "Passkey blues",
+   "summary": [
+    "Article URL: https://ssg.dev/passkey-blues/ Comments URL: https://news.ycombinator.com/item?id=50672835 Points: 16 # Comments: 2"
+   ],
+   "source": "Hacker News",
+   "url": "https://ssg.dev/passkey-blues/",
+   "image": null,
+   "published_at": "2026-11-27T23:51:28Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "43d9ed5f4e1a6cb64e432a4cd840be29a3e89708",
+   "title": "Painting 1990s anime scenes in Python",
+   "summary": [
+    "Article URL: https://www.fofr.ai/greenhouse-after-the-typhoon Comments URL: https://news.ycombinator.com/item?id=50672829 Points: 11 # Comments: 2"
+   ],
+   "source": "Hacker News",
+   "url": "https://www.fofr.ai/greenhouse-after-the-typhoon",
+   "image": null,
+   "published_at": "2026-11-27T23:50:17Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "77ab3d65a27896e8329a48f48640f73305607972",
+   "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+   "summary": [
+    "Article URL: https://research.google/blog/supercharging-transformer-residual-connections/ Comments URL: https://news.ycombinator.com/item?id=50672565 Points: 76 # Comments: 16"
+   ],
+   "source": "Hacker News",
+   "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+   "image": null,
+   "published_at": "2026-11-27T23:06:29Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "edf4fd492324b5023669a0c98f6a653292a1e279",
+   "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
+   "summary": [
+    "Article URL: https://tabernet.es/ Comments URL: https://news.ycombinator.com/item?id=50672521 Points: 32 # Comments: 11"
+   ],
+   "source": "Hacker News",
+   "url": "https://tabernet.es/",
+   "image": null,
+   "published_at": "2026-11-27T23:00:30Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "bc7b71945fa199ad343283e441cfa2601a76b2c6",
+   "title": "Source Control from Hell",
+   "summary": [
+    "Article URL: https://frantic.im/git/ Comments URL: https://news.ycombinator.com/item?id=50672142 Points: 56 # Comments: 41"
+   ],
+   "source": "Hacker News",
+   "url": "https://frantic.im/git/",
+   "image": null,
+   "published_at": "2026-11-27T22:06:44Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "2c3ac5a2eb659524b8a77f09b876c3c15e81a8d9",
+   "title": "9/UX: a Macintosh-inspired desktop for 9front",
+   "summary": [
+    "Article URL: https://progrium.github.io/9ux/ Comments URL: https://news.ycombinator.com/item?id=50672008 Points: 73 # Comments: 11"
+   ],
+   "source": "Hacker News",
+   "url": "https://progrium.github.io/9ux/",
+   "image": null,
+   "published_at": "2026-11-27T21:48:14Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "60fe99fe03e07da50b4e832c11c27d30454df3cf",
+   "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+   "summary": [
+    "Article URL: https://sessiongraph.ai/ Comments URL: https://news.ycombinator.com/item?id=50671651 Points: 25 # Comments: 10"
+   ],
+   "source": "Hacker News",
+   "url": "https://sessiongraph.ai/",
+   "image": null,
+   "published_at": "2026-11-27T21:07:34Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "fd0ee9950bd6c08c2ebca143b785761c0949a4fb",
+   "title": "Quad9 Blocks Nginx2root.com",
+   "summary": [
+    "Article URL: https://quad9.net/?url=nginx2root.com#domain-tester Comments URL: https://news.ycombinator.com/item?id=50671619 Points: 15 # Comments: 9"
+   ],
+   "source": "Hacker News",
+   "url": "https://quad9.net/?url=nginx2root.com#domain-tester",
+   "image": null,
+   "published_at": "2026-11-27T21:03:56Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "42792ea1ec910a69db7ee4942db31bbbe0d5ca49",
+   "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+   "summary": [
+    "Article URL: https://github.com/skeeto/prospero Comments URL: https://news.ycombinator.com/item?id=50671275 Points: 33 # Comments: 7"
+   ],
+   "source": "Hacker News",
+   "url": "https://github.com/skeeto/prospero",
+   "image": null,
+   "published_at": "2026-11-27T20:23:14Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "fec1e63520111da1d6e15a7394177f7e2b382f20",
+   "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+   "summary": [
+    "Article URL: https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform Comments URL: "
+   ],
+   "source": "Hacker News",
+   "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+   "image": null,
+   "published_at": "2026-11-27T19:42:25Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "c54d0f12616a1903b47a0bb7680880aa8956b954",
+   "title": "The AT&T Unix PC (3B1) VM",
+   "summary": [
+    "Article URL: https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/ Comments URL: https://news.ycombinator.com/item?id=50670841 Points: 56 # Comments: 11"
+   ],
+   "source": "Hacker News",
+   "url": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/",
+   "image": null,
+   "published_at": "2026-11-27T19:40:33Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "6acd918e33396a3c6371eb7bb33b5f0cd3d6e6d0",
+   "title": "Michael Nielsen took down his book on neural nets",
+   "summary": [
+    "Article URL: https://neuralnetworksanddeeplearning.com/ Comments URL: https://news.ycombinator.com/item?id=50670757 Points: 385 # Comments: 253"
+   ],
+   "source": "Hacker News",
+   "url": "https://neuralnetworksanddeeplearning.com/",
+   "image": null,
+   "published_at": "2026-11-27T19:31:01Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "061346cb2f74644bedfed5317c745cf4f2450776",
+   "title": "Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10",
+   "summary": [
+    "Article URL: https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/ Comments URL: https://news.ycombinator.com/item?id=50670443 Points: 40 # Comments: 10"
+   ],
+   "source": "Hacker News",
+   "url": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10/",
+   "image": null,
+   "published_at": "2026-11-27T18:59:55Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "fd73c92e8ca27845ae5f97d606941707f7253f5a",
+   "title": "Scrapheap America",
+   "summary": [
+    "Article URL: https://dansinker.com/posts/2026-11-20-scrapheap/ Comments URL: https://news.ycombinator.com/item?id=50670340 Points: 60 # Comments: 24"
+   ],
+   "source": "Hacker News",
+   "url": "https://dansinker.com/posts/2026-11-20-scrapheap/",
+   "image": null,
+   "published_at": "2026-11-27T18:50:26Z",
    "category": "tech",
    "related": []
   },
@@ -40,7 +248,7 @@
    "id": "e3fd524c3c50f8bca16d260c3ce548726ae4c209",
    "title": "Convex skills send the user's app idea to a remote server without telling them",
    "summary": [
-    "Article URL: https://github.com/convex/convex-backend-skill/issues/64 Comments URL: https://news.ycombinator.com/item?id=50669765 Points: 6 # Comments: 0"
+    "Article URL: https://github.com/convex/convex-backend-skill/issues/64 Comments URL: https://news.ycombinator.com/item?id=50669765 Points: 231 # Comments: 75"
    ],
    "source": "Hacker News",
    "url": "https://github.com/convex/convex-backend-skill/issues/64",
@@ -50,15 +258,31 @@
    "related": []
   },
   {
-   "id": "f21d90605390562e14d4c25e6a695759a5694028",
-   "title": "I'm Scared of AI",
+   "id": "783463322e3cfb62390cbf3408adbce3b0dfa0dc",
+   "title": "Show HN: DragDropMath – Learn math by feel",
    "summary": [
-    "Article URL: https://thesoapbox.email/archive/3 Comments URL: https://news.ycombinator.com/item?id=50669561 Points: 116 # Comments: 114"
+    "Hi HN!I am a professional physicist and I shuffle symbols in equations and mathematical expressions all day long.",
+    "Thank you in advance Comments URL: https://news.ycombinator.com/item?id=50669673 Points: 100 # Comments: 31"
    ],
    "source": "Hacker News",
-   "url": "https://thesoapbox.email/archive/3",
+   "url": "https://dragdropmath.com/",
    "image": null,
-   "published_at": "2026-11-27T17:45:31Z",
+   "published_at": "2026-11-27T17:56:28Z",
+   "category": "tech",
+   "related": []
+  },
+  {
+   "id": "53354c5781eebf96221648e8a00f32aeb6c631ad",
+   "title": "The Com: the global cybercrime network posing a ‘chilling threat’ to children",
+   "summary": [
+    "FBI estimates thousands of people identify as members, or recent members, of group linked to indecent images of girls and blackmailIt sounds benign: the Com, short for the Community.",
+    "But crime agencies around the world warn that it is far from that and the young cybercriminals involved are causing havoc and putting children at chilling, sickening risk.Beau-Jack Mensforth was jailed by a UK judge on Friday for his activities as part of the Com.",
+    "He was one individual operating from his bedroom in north-east England, but there are probably thousands more like him and parents are being urged by police to be aware and to check their children’s devices."
+   ],
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/27/the-com-global-cybercrime-network-posing-chilling-threat-to-children",
+   "image": "https://i.guim.co.uk/img/media/27342db124531d5754148be774d6fe5cd69cbdb3/162_0_3163_2530/master/3163.jpg?width=140&quality=85&auto=format&fit=max&s=0d11e1ea1482886a6387f4c85a84bf16",
+   "published_at": "2026-11-27T17:53:30Z",
    "category": "tech",
    "related": []
   },
@@ -78,23 +302,10 @@
    "related": []
   },
   {
-   "id": "7274d7ce704ae6ec2acc076ab6147794c05e4cf2",
-   "title": "Palliative Care for the Chronically Online",
-   "summary": [
-    "Article URL: https://idiotecon.substack.com/p/palliative-care-for-the-chronically Comments URL: https://news.ycombinator.com/item?id=50669026 Points: 26 # Comments: 8"
-   ],
-   "source": "Hacker News",
-   "url": "https://idiotecon.substack.com/p/palliative-care-for-the-chronically",
-   "image": null,
-   "published_at": "2026-11-27T17:01:51Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "9b67ad13d3381ff0e387a57a33c5a6abfa13647a",
    "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
    "summary": [
-    "Article URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer Comments URL: https://news.ycombinator.com/item?id=50668145 Points: 163 # Comments: 94"
+    "Article URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer Comments URL: https://news.ycombinator.com/item?id=50668145 Points: 428 # Comments: 224"
    ],
    "source": "Hacker News",
    "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
@@ -107,7 +318,7 @@
    "id": "e20b8c05499c1f61c7208754a7055667e1a3f3b9",
    "title": "False computer-checked proofs",
    "summary": [
-    "Article URL: https://cr.yp.to/proofs/falseccp.html Comments URL: https://news.ycombinator.com/item?id=50667989 Points: 98 # Comments: 39"
+    "Article URL: https://cr.yp.to/proofs/falseccp.html Comments URL: https://news.ycombinator.com/item?id=50667989 Points: 179 # Comments: 75"
    ],
    "source": "Hacker News",
    "url": "https://cr.yp.to/proofs/falseccp.html",
@@ -117,25 +328,12 @@
    "related": []
   },
   {
-   "id": "01cdd83d3c55e9057ab2533e56cfc3e850baacf0",
-   "title": "GPT 6.2 Astra Solves a Historical Mystery",
-   "summary": [
-    "Article URL: https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical Comments URL: https://news.ycombinator.com/item?id=50667744 Points: 130 # Comments: 53"
-   ],
-   "source": "Hacker News",
-   "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
-   "image": null,
-   "published_at": "2026-11-27T15:03:17Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "7f71381ca1e4fdd8221097ba2eeb60f6b5500f38",
    "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
    "summary": [
     "a ball will fall. trade on where it lands.I made this game!",
     "Some technical details:The entire drop of the ball is simulated server-side, then streamed to each client as server-sent events with a small buffer.",
-    "Comments URL: https://news.ycombinator.com/item?id=50667726 Points: 246 # Comments: 74"
+    "Comments URL: https://news.ycombinator.com/item?id=50667726 Points: 326 # Comments: 114"
    ],
    "source": "Hacker News",
    "url": "https://bouncemarket.minhanhday.com/",
@@ -145,30 +343,15 @@
    "related": []
   },
   {
-   "id": "31f87b3e4ae1e19c4f4561cfcab7542cf384e34d",
-   "title": "Show HN: I restored Palm's last device, and brought its OS to other platforms",
+   "id": "19008dfb0da368acbeef6f3bc7a3826ddba6926e",
+   "title": "Hackers reportedly breach US air force’s flagship cloud computing platform",
    "summary": [
-    "webOS Community Edition 3.2.0 is the first OTA Update for Palm/HP's TouchPad, modernizing a 15-year old device.",
-    "Lunacy is its sibling: the webOS experience, and apps, on Android.",
-    "Luna DE is a developer tool that brings the webOS app contract to Mac, Windows and Linux as a SDK-compatible Electron app."
+    "Intrusion into Cloud One platform could jeopardize security of sensitive tactical, personnel and logistics dataHackers are reported to have breached the US air force’s flagship cloud computing platform, a break-in that comes days after reports that a CIA database was accessed.Reuters reported on Friday that the intrusion into the USAF’s Cloud One platform could jeopardize the security of sensitive tactical, personnel and logistics data."
    ],
-   "source": "Hacker News",
-   "url": "https://www.webosarchive.org/pivot/2026/11/27/the-story-so-far/",
-   "image": null,
-   "published_at": "2026-11-27T14:37:02Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "76dc290f56122e2b10c97937023dff2432d2934a",
-   "title": "Making a 3D fantasy map like a 16th-Century atlas",
-   "summary": [
-    "Article URL: https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas Comments URL: https://news.ycombinator.com/item?id=50667062 Points: 46 # Comments: 6"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas",
-   "image": null,
-   "published_at": "2026-11-27T14:02:52Z",
+   "source": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/nov/27/hackers-breach-us-air-force-cloud-computing",
+   "image": "https://i.guim.co.uk/img/media/b78bd09c92d89960e79cab8a33338868663794eb/171_0_1706_1365/master/1706.jpg?width=140&quality=85&auto=format&fit=max&s=7b854afa2bb649ef6e181a19df87e7c0",
+   "published_at": "2026-11-27T14:50:15Z",
    "category": "tech",
    "related": []
   },
@@ -184,45 +367,6 @@
    "url": "https://www.theguardian.com/games/2026/nov/27/legend-zelda-ocarina-of-time-grand-theft-auto-vi-six-dominik-diamond",
    "image": "https://i.guim.co.uk/img/media/f93886fdda002248aba05a091acbdee45e517c25/571_0_2698_2160/master/2698.jpg?width=140&quality=85&auto=format&fit=max&s=4f8395eb36f9582b7c9eb27d23db23b1",
    "published_at": "2026-11-27T14:00:13Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "81f3c8d97885456631062ab4e2a460888146f293",
-   "title": "Mental Health Resources and Political Engagement",
-   "summary": [
-    "Article URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219 Comments URL: https://news.ycombinator.com/item?id=50666436 Points: 105 # Comments: 187"
-   ],
-   "source": "Hacker News",
-   "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219",
-   "image": null,
-   "published_at": "2026-11-27T13:01:02Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "3b8b3d993078fe80ac07c99d46519bb128f024ff",
-   "title": "US Air Force's cloud computing platform hacked",
-   "summary": [
-    "Article URL: https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163 Comments URL: https://news.ycombinator.com/item?id=50666375 Points: 237 # Comments: 142"
-   ],
-   "source": "Hacker News",
-   "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
-   "image": null,
-   "published_at": "2026-11-27T12:54:11Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "4be11a29624269df3bd224b45dd2bd79bf63c071",
-   "title": "New York and California age gating rules go into effect in the new year",
-   "summary": [
-    "Article URL: https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year Comments URL: https://news.ycombinator.com/item?id=50666279 Points: 150 # Comments: 167"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
-   "image": null,
-   "published_at": "2026-11-27T12:43:40Z",
    "category": "tech",
    "related": []
   },
@@ -249,32 +393,6 @@
    "url": "https://www.theguardian.com/thefilter-us/2026/nov/27/best-black-friday-sales-deals-50",
    "image": "https://i.guim.co.uk/img/media/7e258a5dd25684166d4013d80c7a52e2b6b4a475/1_0_2499_2000/master/2499.jpg?width=140&quality=85&auto=format&fit=max&s=78da4f3366d349c64ec892d3da81f9e5",
    "published_at": "2026-11-27T12:15:11Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "31b137af76abed6d3a3df6a93a7bffcc0f828029",
-   "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
-   "summary": [
-    "Article URL: https://eprint.iacr.org/2026/3020.pdf Comments URL: https://news.ycombinator.com/item?id=50665968 Points: 186 # Comments: 80"
-   ],
-   "source": "Hacker News",
-   "url": "https://eprint.iacr.org/2026/3020.pdf",
-   "image": null,
-   "published_at": "2026-11-27T12:08:51Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "d6b51fef844abdcdd2403789bbeaeb8938c92f39",
-   "title": "Kimi for Science: More scientific ideas, made possible",
-   "summary": [
-    "Article URL: https://www.kimi.ai/news/kimi-for-science-program Comments URL: https://news.ycombinator.com/item?id=50665920 Points: 159 # Comments: 133"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.kimi.ai/news/kimi-for-science-program",
-   "image": null,
-   "published_at": "2026-11-27T12:03:11Z",
    "category": "tech",
    "related": []
   },
@@ -320,32 +438,6 @@
    "related": []
   },
   {
-   "id": "ce94e0792f00eae5b19e886473821e3cbcdd4f56",
-   "title": "Pimalaya goes stable: Himalaya v3 and the pimdir standard",
-   "summary": [
-    "Article URL: https://blog.pimalaya.org/pimalaya-goes-stable/ Comments URL: https://news.ycombinator.com/item?id=50664931 Points: 32 # Comments: 2"
-   ],
-   "source": "Hacker News",
-   "url": "https://blog.pimalaya.org/pimalaya-goes-stable/",
-   "image": null,
-   "published_at": "2026-11-27T09:50:02Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "138e1e18872d9e9b5386c90467e0be8218201a16",
-   "title": "Claude sabotaging ML research tasks?",
-   "summary": [
-    "Article URL: https://twitter.com/RealAstropulse/status/2126119408997466389 Comments URL: https://news.ycombinator.com/item?id=50664325 Points: 377 # Comments: 190"
-   ],
-   "source": "Hacker News",
-   "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
-   "image": null,
-   "published_at": "2026-11-27T08:28:08Z",
-   "category": "tech",
-   "related": []
-  },
-  {
    "id": "5848cd0e3fb32955c78457b5aecf82dd8d153ba4",
    "title": "Natural England objected to a datacentre. Weeks later ministers threatened to abolish the agency",
    "summary": [
@@ -368,45 +460,6 @@
    "url": "https://www.theguardian.com/business/2026/nov/27/retailers-ai-shopping-assistants-black-friday-brands-meta-muse",
    "image": "https://i.guim.co.uk/img/media/bf333e3f6dd6c522cb53dcbc952b64553693c73d/0_0_3385_2708/master/3385.jpg?width=140&quality=85&auto=format&fit=max&s=038470cc091c20f4dc117fdc4590c2fc",
    "published_at": "2026-11-27T07:00:56Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "48b0d8d3f8cacbd348871db4b86cc9ae911c31c0",
-   "title": "Group chat where your AI talks behind your back",
-   "summary": [
-    "Article URL: https://construct22.com/ Comments URL: https://news.ycombinator.com/item?id=50663595 Points: 602 # Comments: 253"
-   ],
-   "source": "Hacker News",
-   "url": "https://construct22.com/",
-   "image": null,
-   "published_at": "2026-11-27T06:44:34Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "432d25ec95ea88957a7a10a3d7a8bc0004267d37",
-   "title": "Buy Nothing Day – Friday November 27th 2026",
-   "summary": [
-    "Article URL: https://www.buynothingday.co.uk/ Comments URL: https://news.ycombinator.com/item?id=50663261 Points: 302 # Comments: 96"
-   ],
-   "source": "Hacker News",
-   "url": "https://www.buynothingday.co.uk/",
-   "image": null,
-   "published_at": "2026-11-27T05:52:42Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "46cd86bf0efb5023d534f94abb1322dbf8bf97c9",
-   "title": "The need for a formally verifiable mainstream programming language",
-   "summary": [
-    "Article URL: https://blainehansen.me/post/mainstream-verifiable-language/ Comments URL: https://news.ycombinator.com/item?id=50663089 Points: 253 # Comments: 261"
-   ],
-   "source": "Hacker News",
-   "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
-   "image": null,
-   "published_at": "2026-11-27T05:22:06Z",
    "category": "tech",
    "related": []
   },
@@ -500,62 +553,6 @@
    "url": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",
    "image": null,
    "published_at": "2026-11-26T17:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "ec74e9ba21876128aa64202cefef5d4827efca10",
-   "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
-   "summary": [
-    "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time."
-   ],
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
-   "image": null,
-   "published_at": "2026-11-26T16:00:00Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "4a218a47efce6d99ab5d59a6ca3ac650e199d38a",
-   "title": "Dozens of court cases in England and Wales affected by undisclosed AI use in 2026",
-   "summary": [
-    "Exclusive: Investigation finds at least 25 cases affected by AI-generated witness statements, fictitious case law and nonexistent statutes Undisclosed AI use has affected more than two dozen court cases this year, prompting judges to complain about AI-generated witness statements, fictitious case law and nonexistent statutes, an investigation has revealed.Proceedings where judges have been forced to deal with lawyers, police officers and claimants misusing the technology in 2026 include a high court dispute between tax lawyers marred by what the judge called “unacceptable” use of “generative AI hallucinations” and references to nonexistent cases."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/26/dozens-of-court-cases-in-england-and-wales-affected-by-undisclosed-ai-use-in-2026",
-   "image": "https://i.guim.co.uk/img/media/18a0e7b9f66bc93973a6114fb4fac2215545e754/415_0_4167_3335/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=4dde606c8245482dad518cc7a22ff83f",
-   "published_at": "2026-11-26T12:19:37Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "e1ac73a69ed90a5caf76fc39df86ff5ae45fddfa",
-   "title": "Dressmaker review – delightful business sim is a cut above",
-   "summary": [
-    "A local duke has died and ladies of a certain standing are determined to make an impression at the funeral.",
-    "It could be a suitably respectful funeral frock, with just a hint of style to catch the eye of the duke’s wealthy relatives, or perhaps a work outfit for a farmer who loves bright colours.",
-    "Once you have your brief, you open your sketchbook and draft a pattern using fabric swatches and a pencil to colour in your design."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/games/2026/nov/26/dressmaker-review-delightful-business-sim-is-a-cut-above",
-   "image": "https://i.guim.co.uk/img/media/d847b3ff22400983425dbf9acff6d72003d9ad3c/134_0_1125_900/master/1125.jpg?width=140&quality=85&auto=format&fit=max&s=59c0f81017dcc236a1b13cf82a4c80a4",
-   "published_at": "2026-11-26T12:00:34Z",
-   "category": "tech",
-   "related": []
-  },
-  {
-   "id": "140a281c412e2a05f60094bb19f91c4542ccb0ca",
-   "title": "A vocal cohort of tech leaders celebrates Huang’s Nvidia return, but others are keeping quiet",
-   "summary": [
-    "Elon Musk and Sam Altman among those rejoicing but Google, Meta and Apple chiefs have declined to weigh inThe phrase “return of the king” rippled across social media on Monday.",
-    "A vocal subsection of the tech industry was celebrating the resurrection of Jensen Huang as Nvidia’s CEO.",
-    "Some called him the “imperial and royal majesty”, others anointed him as “our Jesus” and several simply posted a crown emoji.“The mistake has been corrected,” said Elon Musk. “Jensen!” exclaimed OpenAI’s Sam Altman."
-   ],
-   "source": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/nov/26/jensen-huang-nvidia-tech",
-   "image": "https://i.guim.co.uk/img/media/1c86eb468485514265ee27c663d10f3cb3fb8fb0/335_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=994ad9b859c6d63dafa86aaf9b3936c3",
-   "published_at": "2026-11-26T10:00:52Z",
    "category": "tech",
    "related": []
   }
